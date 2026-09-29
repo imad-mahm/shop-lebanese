@@ -1,0 +1,17 @@
+name: Remove my shop
+description: Ask for your shop to be removed from the directory. We'll confirm you own it, then remove it.
+title: "Remove shop: "
+labels: ["remove-shop"]
+body:
+  - type: input
+    id: target
+    attributes:
+      label: Website or Instagram
+      placeholder: https://yourshop.com or https://instagram.com/yourshop
+    validations:
+      required: true
+  - type: textarea
+    id: proof
+    attributes:
+      label: How can we confirm you own it?
+      description: For example, email us from an address on your domain, or DM us from the shop's Instagram.

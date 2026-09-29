@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shop Lebanese — every Lebanese online shop in one place</title>
+  <meta name="description" content="Search hundreds of Lebanese online shops and local brands: fashion, jewellery, beauty, gifts, food, home and more. Updated automatically.">
+  <meta property="og:title" content="Shop Lebanese">
+  <meta property="og:description" content="Every Lebanese online shop and local brand, in one searchable place.">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🌲</text></svg>">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+Arabic:wght@500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="hero">
+    <div class="wrap">
+      <nav class="topnav">
+        <a class="brand" href="./"><span class="logo">🌲</span> Shop Lebanese <span class="ar">تسوّق لبناني</span></a>
+        <div class="navlinks">
+          <a href="#owners">For shop owners</a>
+          <a id="addShopTop" class="btn btn-small" target="_blank" rel="noopener">+ Add your shop</a>
+        </div>
+      </nav>
+      <h1>Every Lebanese online shop,<br>in one place.</h1>
+      <p class="sub">Local brands, boutiques and stores that deliver across Lebanon. Found by our bot and refreshed around the clock.</p>
+      <div class="searchbar">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10.5 3a7.5 7.5 0 0 1 5.9 12.13l4.24 4.24-1.41 1.41-4.24-4.24A7.5 7.5 0 1 1 10.5 3zm0 2a5.5 5.5 0 1 0 0 11 5.5 5.5 0 0 0 0-11z"/></svg>
+        <input id="q" type="search" placeholder="Search shops or products: earrings, abaya, candles, زعتر…" autocomplete="off">
+      </div>
+      <div class="stats" id="stats"></div>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <div class="toolbar">
+      <div class="tabs" role="tablist">
+        <button class="tab active" data-tab="shops" role="tab">Shops <span id="shopCount"></span></button>
+        <button class="tab" data-tab="products" role="tab">Products <span id="productCount"></span></button>
+      </div>
+      <div class="filters">
+        <select id="pay" aria-label="Payment">
+          <option value="">Any payment</option>
+          <option value="cod">Cash on delivery</option>
+          <option value="whish">Whish</option>
+          <option value="omt">OMT</option>
+          <option value="card">Card</option>
+        </select>
+        <select id="sort" aria-label="Sort">
+          <option value="new">Newest first</option>
+          <option value="az">A → Z</option>
+          <option value="products">Most products</option>
+        </select>
+        <select id="psort" aria-label="Sort products" hidden>
+          <option value="rel">Relevance</option>
+          <option value="low">Price: low → high</option>
+          <option value="high">Price: high → low</option>
+          <option value="sale">On sale first</option>
+        </select>
+      </div>
+    </div>
+    <div class="chips" id="chips"></div>
+
+    <section id="shopsView">
+      <div class="grid" id="shopGrid"></div>
+    </section>
+    <section id="productsView" hidden>
+      <div class="grid products" id="productGrid"></div>
+    </section>
+    <div class="more"><button id="moreBtn" class="btn btn-ghost" hidden>Show more</button></div>
+    <p class="empty" id="empty" hidden>Nothing matches. Try another word, or <a id="addShopEmpty" target="_blank" rel="noopener">add a shop we're missing</a>.</p>
+
+    <section class="owners" id="owners">
+      <div class="owner-card">
+        <h2>Own a Lebanese shop?</h2>
+        <p>Listing is <b>free</b>. If you have a website, our bot will probably find you on its own. If you only sell on Instagram, add yourself in 1 minute.</p>
+        <div class="owner-actions">
+          <a id="addShop" class="btn" target="_blank" rel="noopener">+ Add your shop (free)</a>
+          <a id="removeShop" class="btn btn-ghost" target="_blank" rel="noopener">Remove my shop</a>
+        </div>
+      </div>
+      <div class="owner-card accent">
+        <h2>⭐ Get featured</h2>
+        <p>Appear at the top of your category with a Featured badge, seen by everyone searching for what you sell.</p>
+        <ul class="plans" id="plans"></ul>
+        <p class="pay-howto" id="payHowto"></p>
+      </div>
+    </section>
+
+    <details class="botlog">
+      <summary>🤖 What is the bot doing right now?</summary>
+      <p class="muted">Every ~10 minutes the bot checks new websites (from links between shops, public web indexes, and submissions) and keeps only Lebanese online shops. It respects each site's robots.txt and only reads public pages.</p>
+      <div id="runs"></div>
+    </details>
+  </main>
+
+  <footer class="wrap footer">
+    <p>Shop Lebanese is an independent directory. We link to shops; we don't sell anything or handle payments. Always check a shop's reviews before paying.</p>
+  </footer>
+
+  <dialog id="shopDialog">
+    <div class="dlg">
+      <button class="close" aria-label="Close" onclick="this.closest('dialog').close()">×</button>
+      <div id="dlgBody"></div>
+    </div>
+  </dialog>
+
+  <script src="config.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

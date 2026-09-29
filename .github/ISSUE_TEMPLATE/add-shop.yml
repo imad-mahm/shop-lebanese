@@ -1,0 +1,59 @@
+name: Add my shop
+description: List your Lebanese online shop for free. The bot checks it and adds it within ~10 minutes.
+title: "Add shop: "
+labels: ["add-shop"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Fill in **a website or an Instagram handle** (or both). A website is checked automatically: it must be an online shop that mentions Lebanon or a +961 number.
+  - type: input
+    id: name
+    attributes:
+      label: Shop name
+    validations:
+      required: true
+  - type: input
+    id: website
+    attributes:
+      label: Website
+      placeholder: https://yourshop.com
+  - type: input
+    id: instagram
+    attributes:
+      label: Instagram
+      placeholder: "@yourshop"
+  - type: input
+    id: whatsapp
+    attributes:
+      label: WhatsApp
+      placeholder: "+961 3 123 456"
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Fashion
+        - Jewellery & Accessories
+        - Beauty & Skincare
+        - Perfume
+        - Home & Decor
+        - Home Appliances
+        - Food & Sweets
+        - Wine & Spirits
+        - Gifts & Flowers
+        - Kids & Baby
+        - Electronics
+        - Sports & Outdoor
+        - Health & Supplements
+        - Books & Stationery
+        - Pets
+        - Art & Handmade
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: One or two sentences about what you sell (max 300 characters).
