@@ -1,11 +1,223 @@
 [
 {
-"t": "BOXER PANTS (BLUE STRIPED)",
-"u": "https://emergencyroombeirut.com/products/boxer-pants-pink-striped-copy-1",
+"t": "LOW WAISTED PANTS (BLUE CHECKERED)",
+"u": "https://emergencyroombeirut.com/products/low-waisted-pants-blue-checkered",
 "p": 60.0,
+"c": 160.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0386/1590/8491/files/Look2F_f6a81e1e-694a-432a-8bfa-38cf4888e471.png?v=1734954923&width=400",
+"type": "Pants",
+"tags": [
+"code yellow",
+"medium",
+"small"
+],
+"in": true
+},
+{
+"t": "SAROUEL PANTS WITH ELASTIC WAISTBAND (BROWN WOOL)",
+"u": "https://emergencyroombeirut.com/products/sarouel-pants-with-elastic-waistband-brown-wool",
+"p": 120.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0386/1590/8491/files/Pants18_Back.jpg?v=1790693774&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0386/1590/8491/files/IMG_5991copy.jpg?v=1744279697&width=400",
+"type": "Pants",
+"tags": [
+"code blue",
+"medium",
+"small"
+],
+"in": true
+},
+{
+"t": "BRALETTE IN TABLE LINENS (Copy)",
+"u": "https://emergencyroombeirut.com/products/bralette-in-table-linens-copy-3",
+"p": 50.0,
+"c": 90.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0386/1590/8491/files/Top44_Front_5a81da64-a353-451c-accb-25d7fd79ca08.jpg?v=1790772793&width=400",
+"type": "Tops",
+"tags": [
+"checked"
+],
+"in": true
+},
+{
+"t": "LONG SLEEVE SHIRT WITH ELASIC HEM (PINK)",
+"u": "https://emergencyroombeirut.com/products/button-up-long-sleeve-blue",
+"p": 120.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0386/1590/8491/files/Shirt03_Front.jpg?v=1790772603&width=400",
+"type": "Shirts",
+"tags": [
+"checked"
+],
+"in": true
+},
+{
+"t": "LONG SLEEVE SHIRT WITH ELASTIC HEM (PURPLE)",
+"u": "https://emergencyroombeirut.com/products/striped-shorts-navy-white-copy",
+"p": 120.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0386/1590/8491/files/Shirt05_Front.jpg?v=1790772296&width=400",
+"type": "Shirts",
+"tags": [
+"checked"
+],
+"in": true
+},
+{
+"t": "DROPPED SHOULDER SHIRT IN PRINTED DINOSAUR FABRIC",
+"u": "https://emergencyroombeirut.com/products/square-cut-in-printed-fabric-bird-copy",
+"p": 120.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0386/1590/8491/files/Shirt04_Front.jpg?v=1790771900&width=400",
+"type": "Shirts",
+"tags": [
+"checked"
+],
+"in": true
+},
+{
+"t": "CLASSIC SHIRT IN LINEN WITH LEAVES APPLIQUE",
+"u": "https://emergencyroombeirut.com/products/dropped-shoulder-linen-with-leaves",
+"p": 250.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0386/1590/8491/files/Shirt01_Front.jpg?v=1790771606&width=400",
+"type": "Shirts",
+"tags": [
+"checked"
+],
+"in": true
+},
+{
+"t": "CLASSIC SHIRT WITH MANDARIN COLLAR IN PRINTED FABRIC",
+"u": "https://emergencyroombeirut.com/products/asymmetric-shirt-in-embroidered-linens-copy",
+"p": 140.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0386/1590/8491/files/Shirt02_Front.jpg?v=1790770856&width=400",
+"type": "Shirts",
+"tags": [
+"checked"
+],
+"in": true
+},
+{
+"t": "SHORT SLEEVE SHIRT IN PRINT (YELLOW)",
+"u": "https://emergencyroombeirut.com/products/square-cut-shirt-in-loose-poplin-black-copy",
+"p": 80.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0386/1590/8491/files/Shirt08_Front.jpg?v=1790765417&width=400",
+"type": "Shirts",
+"tags": [
+"checked"
+],
+"in": true
+},
+{
+"t": "SLEEVELESS LINEN POLO (PURPLE)",
+"u": "https://emergencyroombeirut.com/products/sleeveless-top-light-blue-green-copy",
+"p": 140.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0386/1590/8491/files/Shirt10_Front.jpg?v=1790765193&width=400",
+"type": "Tops",
+"tags": [
+"checked"
+],
+"in": true
+},
+{
+"t": "SLEEVELESS POLO (PINK)",
+"u": "https://emergencyroombeirut.com/products/embroidered-sleeveless-top-blue-white-copy",
+"p": 120.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0386/1590/8491/files/Shirt06_Front.jpg?v=1790765079&width=400",
+"type": "Shirts & Tops",
+"tags": [
+"checked"
+],
+"in": true
+},
+{
+"t": "PRINTED POLO (YELLOW)",
+"u": "https://emergencyroombeirut.com/products/sleeveless-embroidered-top-blue-copy",
+"p": 80.0,
+"c": 140.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0386/1590/8491/files/Shirt07_Front.jpg?v=1790764105&width=400",
+"type": "Tops",
+"tags": [
+"checked"
+],
+"in": true
+},
+{
+"t": "WRAP PANTS",
+"u": "https://emergencyroombeirut.com/products/wrap-pants-1",
+"p": 180.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0386/1590/8491/files/Pants20_Front.jpg?v=1790763536&width=400",
+"type": "Pants",
+"tags": [
+"checked"
+],
+"in": true
+},
+{
+"t": "CARGO PANTS IN NAVY BLUE COOLWOOL",
+"u": "https://emergencyroombeirut.com/products/cargo-pants-in-printed-blue-fabric-copy",
+"p": 60.0,
+"c": 120.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0386/1590/8491/files/Pants02_Front.jpg?v=1790762585&width=400",
+"type": "Pants",
+"tags": [
+"checked"
+],
+"in": true
+},
+{
+"t": "STRAIGHT LEG TROUSERS",
+"u": "https://emergencyroombeirut.com/products/straight-leg-trousers",
+"p": 120.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0386/1590/8491/files/Pants19_Front.jpg?v=1790763080&width=400",
+"type": "Pants",
+"tags": [
+"checked"
+],
+"in": true
+},
+{
+"t": "CARGO PANTS IN PINK GABARDINE",
+"u": "https://emergencyroombeirut.com/products/cargo-pants-in-navy-blue-coolwool-copy",
+"p": 60.0,
+"c": 120.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0386/1590/8491/files/Pants04_Front.jpg?v=1790762740&width=400",
+"type": "Pants",
+"tags": [
+"checked"
+],
+"in": true
+},
+{
+"t": "BOXER PANTS (BLUE STRIPED)",
+"u": "https://emergencyroombeirut.com/products/boxer-pants-pink-striped-copy-1",
+"p": 40.0,
+"c": 80.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0386/1590/8491/files/Pants18_Front.jpg?v=1790693774&width=400",
 "type": "Pants",
 "tags": [
 "checked"
@@ -15,8 +227,8 @@
 {
 "t": "BOXER PANTS (PINK CHECKERED)",
 "u": "https://emergencyroombeirut.com/products/boxer-pants-pink-striped-copy",
-"p": 60.0,
-"c": null,
+"p": 30.0,
+"c": 60.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0386/1590/8491/files/Pants10_Front.jpg?v=1790693569&width=400",
 "type": "Pants",
@@ -28,8 +240,8 @@
 {
 "t": "BOXER PANTS (PINK STRIPED)",
 "u": "https://emergencyroombeirut.com/products/boxer-pants-blue-copy-1",
-"p": 60.0,
-"c": null,
+"p": 30.0,
+"c": 60.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0386/1590/8491/files/Pants09_Front.jpg?v=1790693388&width=400",
 "type": "Pants",
@@ -41,8 +253,8 @@
 {
 "t": "WHITE DENIM WITH CROCHET APPLIQUE (WHITE)",
 "u": "https://emergencyroombeirut.com/products/asymmetrical-gathered-shoulder-top-purple-copy",
-"p": 160.0,
-"c": null,
+"p": 100.0,
+"c": 200.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0386/1590/8491/files/Pants05_Front.jpg?v=1790692956&width=400",
 "type": "Pants",
@@ -62,13 +274,13 @@
 "tags": [
 "checked"
 ],
-"in": false
+"in": true
 },
 {
 "t": "THREE PLEAT PANTS IN BLACK AND WHITE FEATHER PRINT",
 "u": "https://emergencyroombeirut.com/products/lace-tie-shorts-white-copy",
-"p": 160.0,
-"c": null,
+"p": 80.0,
+"c": 160.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0386/1590/8491/files/Pants17_Front.jpg?v=1790692001&width=400",
 "type": "Pants",
@@ -80,8 +292,8 @@
 {
 "t": "BALLOON PANTS (BEIGE)",
 "u": "https://emergencyroombeirut.com/products/motif-mini-skirt-colorful-copy",
-"p": 180.0,
-"c": null,
+"p": 80.0,
+"c": 160.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0386/1590/8491/files/Pants14_Front_bff68bd4-573a-4680-9832-b20176896a0f.jpg?v=1790691724&width=400",
 "type": "Pants",
@@ -107,7 +319,7 @@
 "t": "CARGO PANTS IN PRINTED BLUE FABRIC",
 "u": "https://emergencyroombeirut.com/products/boxer-pants-blue-copy",
 "p": 60.0,
-"c": null,
+"c": 120.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0386/1590/8491/files/Pants07_Front_250c6cf5-f3ba-42f4-a41b-c9ccf37b1ad4.jpg?v=1790676940&width=400",
 "type": "Pants",
@@ -119,8 +331,8 @@
 {
 "t": "BOXER PANTS (BLUE)",
 "u": "https://emergencyroombeirut.com/products/boxer-pants-blue",
-"p": 60.0,
-"c": null,
+"p": 30.0,
+"c": 60.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0386/1590/8491/files/Pants08_Front_5fe64821-408f-478a-a055-76f58dd3b40e.jpg?v=1790676810&width=400",
 "type": "Pants",
@@ -132,8 +344,8 @@
 {
 "t": "LOW WAISTED TAPERED PANTS (BEIGE LINEN)",
 "u": "https://emergencyroombeirut.com/products/dress-pants-black-white-copy",
-"p": 120.0,
-"c": null,
+"p": 60.0,
+"c": 120.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0386/1590/8491/files/Pants16_Front.jpg?v=1790675127&width=400",
 "type": "Pants",
@@ -145,8 +357,8 @@
 {
 "t": "ARABESQUE STRAIGHT CUT PANTS",
 "u": "https://emergencyroombeirut.com/products/pleated-balloon-pants-green-copy",
-"p": 120.0,
-"c": null,
+"p": 80.0,
+"c": 160.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0386/1590/8491/files/Pants01_Front.jpg?v=1790673737&width=400",
 "type": "Pants",
@@ -569,7 +781,7 @@
 "tags": [
 "checked"
 ],
-"in": false
+"in": true
 },
 {
 "t": "CARGO SHORTS IN GIRAFFE PRINT",
@@ -1198,7 +1410,7 @@
 {
 "t": "ASYMMETRICAL SATIN SKIRT",
 "u": "https://emergencyroombeirut.com/products/asymmetrical-satin-skirt",
-"p": 60.0,
+"p": 40.0,
 "c": 120.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0386/1590/8491/files/Skirt11_Front.jpg?v=1789395329&width=400",
@@ -1211,8 +1423,8 @@
 {
 "t": "TEXTURED PENCIL SKIRT",
 "u": "https://emergencyroombeirut.com/products/textured-pencil-skirt",
-"p": 90.0,
-"c": null,
+"p": 40.0,
+"c": 90.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0386/1590/8491/files/Skirt28_Front.jpg?v=1789395230&width=400",
 "type": "Skirts",
@@ -1224,8 +1436,8 @@
 {
 "t": "SKIRT WITH CIRCLE CROCHET SIDES (BEIGE)",
 "u": "https://emergencyroombeirut.com/products/skirt-with-circle-crochet-sides-beige",
-"p": 120.0,
-"c": null,
+"p": 60.0,
+"c": 120.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0386/1590/8491/files/Skirt16_Front.jpg?v=1789395103&width=400",
 "type": "Skirts",
@@ -1250,8 +1462,8 @@
 {
 "t": "SHEER EMBROIDERED STRAIGHT CUT SKIRT (BEIGE)",
 "u": "https://emergencyroombeirut.com/products/sheer-embroidered-straight-cut-skirt-beige",
-"p": 90.0,
-"c": null,
+"p": 40.0,
+"c": 90.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0386/1590/8491/files/Skirt19_Front.jpg?v=1789394532&width=400",
 "type": "Skirts",
@@ -1263,8 +1475,8 @@
 {
 "t": "SHEER EMBROIDERED STRAIGHT CUT SKIRT (BEIGE)",
 "u": "https://emergencyroombeirut.com/products/sheer-embroidered-straight-cut-skirt-beige-copy",
-"p": 90.0,
-"c": null,
+"p": 50.0,
+"c": 90.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0386/1590/8491/files/Skirt22_Front.jpg?v=1789394421&width=400",
 "type": "Skirts",
@@ -1276,8 +1488,8 @@
 {
 "t": "SHEER EMBROIDERED STRAIGHT CUT SKIRT (GREEN)",
 "u": "https://emergencyroombeirut.com/products/sheer-embroidered-straight-cut-skirt-beige-copy-1",
-"p": 120.0,
-"c": null,
+"p": 80.0,
+"c": 120.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0386/1590/8491/files/Skirt21_Front.jpg?v=1789394263&width=400",
 "type": "Skirts",
@@ -1289,8 +1501,8 @@
 {
 "t": "SHEER LACE STRAIGHT CUT SKIRT (BLUE & PINK)",
 "u": "https://emergencyroombeirut.com/products/sheer-embroidered-straight-cut-skirt-green-copy",
-"p": 80.0,
-"c": null,
+"p": 40.0,
+"c": 80.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0386/1590/8491/files/Skirt20_Front.jpg?v=1789394132&width=400",
 "type": "Skirts",
@@ -1302,8 +1514,8 @@
 {
 "t": "SHEER LACE SKIRT (BLACK AND PINK)",
 "u": "https://emergencyroombeirut.com/products/sheer-lace-skirt-black-and-pink",
-"p": 80.0,
-"c": null,
+"p": 40.0,
+"c": 80.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0386/1590/8491/files/Skirt24_Front.jpg?v=1789393999&width=400",
 "type": "Skirts",
@@ -1315,8 +1527,8 @@
 {
 "t": "SHEER LACE SKIRT (WHITE)",
 "u": "https://emergencyroombeirut.com/products/sheer-lace-skirt-blue-copy",
-"p": 90.0,
-"c": null,
+"p": 40.0,
+"c": 90.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0386/1590/8491/files/Skirt23_Front.jpg?v=1789393836&width=400",
 "type": "Skirts",
@@ -1328,8 +1540,8 @@
 {
 "t": "LACE SHEER SKIRT  (FUSCHIA)",
 "u": "https://emergencyroombeirut.com/products/one-sleeve-pointelle-dress-yellow-copy",
-"p": 80.0,
-"c": null,
+"p": 40.0,
+"c": 80.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0386/1590/8491/files/Skirt25_Front.jpg?v=1789393740&width=400",
 "type": "Skirts",
@@ -1341,8 +1553,8 @@
 {
 "t": "LAME SKIRT WITH CIRCLE SIDES (COLORFUL)",
 "u": "https://emergencyroombeirut.com/products/print-strap-dress-green-copy",
-"p": 80.0,
-"c": null,
+"p": 40.0,
+"c": 80.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0386/1590/8491/files/Skirt01_Front.jpg?v=1789393226&width=400",
 "type": "Skirts",
@@ -1354,8 +1566,8 @@
 {
 "t": "LACE GATHERED SKIRT (PINK)",
 "u": "https://emergencyroombeirut.com/products/lace-skirt-beige-copy",
-"p": 200.0,
-"c": null,
+"p": 160.0,
+"c": 200.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0386/1590/8491/files/Skirt06_Quarter.jpg?v=1789393103&width=400",
 "type": "Skirts",
@@ -1367,8 +1579,8 @@
 {
 "t": "SKIRT WITH CIRCLE CROCHET SIDES (WHITE)",
 "u": "https://emergencyroombeirut.com/products/balloon-pants-pink-copy",
-"p": 120.0,
-"c": null,
+"p": 60.0,
+"c": 120.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0386/1590/8491/files/Skirt17_Front.jpg?v=1789393003&width=400",
 "type": "Skirts",
@@ -1380,8 +1592,8 @@
 {
 "t": "TABLE LINEN EMBROIDERED SKIRT WITH CIRCLE SIDES (WHITE)",
 "u": "https://emergencyroombeirut.com/products/floral-skirt-colorful-copy",
-"p": 210.0,
-"c": null,
+"p": 100.0,
+"c": 210.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0386/1590/8491/files/Skirt02_Front.jpg?v=1789392867&width=400",
 "type": "Skirts",
@@ -1393,8 +1605,8 @@
 {
 "t": "SKIRT WITH CIRCLE FLORAL",
 "u": "https://emergencyroombeirut.com/products/boxer-shorts-white-copy",
-"p": 140.0,
-"c": null,
+"p": 60.0,
+"c": 140.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0386/1590/8491/files/Skirt03_Front.jpg?v=1789392742&width=400",
 "type": "Skirts",
@@ -1406,8 +1618,8 @@
 {
 "t": "SKIRT WITH CIRCLE CROCHET SIDES (OFF-WHITE)",
 "u": "https://emergencyroombeirut.com/products/floral-long-sleeve-button-up-colorful-copy",
-"p": 120.0,
-"c": null,
+"p": 60.0,
+"c": 120.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0386/1590/8491/files/Skirt30_Main.jpg?v=1789392613&width=400",
 "type": "Skirts",
@@ -1419,8 +1631,8 @@
 {
 "t": "SKIRT WITH CIRCLE CROCHET SIDES (BEIGE)",
 "u": "https://emergencyroombeirut.com/products/crochet-skirt-beige-copy",
-"p": 140.0,
-"c": null,
+"p": 70.0,
+"c": 140.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0386/1590/8491/files/Skirt04_Front.jpg?v=1789392437&width=400",
 "type": "Skirts",
@@ -1432,7 +1644,7 @@
 {
 "t": "HANDKERCHIEF HEM SKIRT",
 "u": "https://emergencyroombeirut.com/products/handkerchief-short-skirt-ducks-copy",
-"p": 60.0,
+"p": 40.0,
 "c": 120.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0386/1590/8491/files/Skirt14_Front.jpg?v=1789392234&width=400",
@@ -1445,7 +1657,7 @@
 {
 "t": "CROCHET SKIRT",
 "u": "https://emergencyroombeirut.com/products/crochet-skirt",
-"p": 60.0,
+"p": 40.0,
 "c": 120.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0386/1590/8491/files/Skirt13_Main.jpg?v=1789392081&width=400",
@@ -1510,8 +1722,8 @@
 {
 "t": "BLOCK PRINTED MINI SKIRT",
 "u": "https://emergencyroombeirut.com/products/crochet-skirt-white-copy",
-"p": 120.0,
-"c": null,
+"p": 60.0,
+"c": 120.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0386/1590/8491/files/Skirt08_Main.jpg?v=1789391283&width=400",
 "type": "Skirts",
@@ -1542,8 +1754,8 @@
 {
 "t": "EMBROIDERED LINEN MINI SKIRT",
 "u": "https://emergencyroombeirut.com/products/embroidered-mini-skirt-copy",
-"p": 90.0,
-"c": null,
+"p": 40.0,
+"c": 90.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0386/1590/8491/files/Skirt07_Main.jpg?v=1789202245&width=400",
 "type": "Skirts",
@@ -1576,8 +1788,8 @@
 {
 "t": "PINK STRIPED CIRCLE SKIRT",
 "u": "https://emergencyroombeirut.com/products/skirt-with-circle-sides",
-"p": 80.0,
-"c": null,
+"p": 40.0,
+"c": 80.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0386/1590/8491/files/Skirt05_Front.jpg?v=1789201323&width=400",
 "type": "Skirts",
@@ -1592,7 +1804,7 @@
 {
 "t": "BLACK SATIN BIAS SKIRT",
 "u": "https://emergencyroombeirut.com/products/bias-long-skirt-black-satin",
-"p": 60.0,
+"p": 40.0,
 "c": 160.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0386/1590/8491/files/Skirt27_Front.jpg?v=1789200946&width=400",
@@ -1608,8 +1820,8 @@
 {
 "t": "EMBROIDERED TULLE PENCIL SKIRT",
 "u": "https://emergencyroombeirut.com/products/straight-cut-skirt-with-embroidery-beige",
-"p": 120.0,
-"c": 0.0,
+"p": 60.0,
+"c": 120.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0386/1590/8491/files/Skirt26_Front.jpg?v=1789200395&width=400",
 "type": "Skirts",
@@ -1671,7 +1883,7 @@
 "in": true
 },
 {
-"t": "EMBROIDERED LINEN POLO",
+"t": "SLEEVELESS EMBROIDERED LINEN POLO",
 "u": "https://emergencyroombeirut.com/products/short-sleeve-top-beige-copy",
 "p": 80.0,
 "c": 180.0,
@@ -2657,8 +2869,8 @@
 {
 "t": "DENIM FLARED SKIRT",
 "u": "https://emergencyroombeirut.com/products/denim-skirt",
-"p": 120.0,
-"c": null,
+"p": 60.0,
+"c": 120.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0386/1590/8491/files/denimskirt_front.jpg?v=1770989710&width=400",
 "type": "Skirts",
@@ -2717,7 +2929,7 @@
 "t-shirts",
 "tops"
 ],
-"in": false
+"in": true
 },
 {
 "t": "LINGERIE T-SHIRT BLACK",
@@ -2734,24 +2946,7 @@
 "t-shirts",
 "tops"
 ],
-"in": false
-},
-{
-"t": "LINGERIE T-SHIRT BLACK",
-"u": "https://emergencyroombeirut.com/products/lingerie-t-shirt",
-"p": 60.0,
-"c": 120.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0386/1590/8491/files/LaceTee1Main.jpg?v=1770815440&width=400",
-"type": "Tops",
-"tags": [
-"code yellow",
-"medium",
-"small",
-"t-shirts",
-"tops"
-],
-"in": false
+"in": true
 },
 {
 "t": "PRINTED BOMBER JACKET",
@@ -2858,22 +3053,6 @@
 "in": false
 },
 {
-"t": "WRAP TROUSERS",
-"u": "https://emergencyroombeirut.com/products/wrap-pants",
-"p": 180.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0386/1590/8491/files/WrapPantsBlackMain.jpg?v=1751982023&width=400",
-"type": "Pants",
-"tags": [
-"large",
-"medium",
-"small",
-"xlarge"
-],
-"in": true
-},
-{
 "t": "FITTED PUFFED SLEEVE JACKET",
 "u": "https://emergencyroombeirut.com/products/fitted-puffed-sleeve-jacket-copy",
 "p": 112.0,
@@ -2951,7 +3130,7 @@
 {
 "t": "ASYMMETRICAL WOOL SKIRT",
 "u": "https://emergencyroombeirut.com/products/asymmetrical-wool-skirt",
-"p": 63.0,
+"p": 40.0,
 "c": 90.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0386/1590/8491/files/Post.jpg?v=1766493675&width=400",
@@ -2961,7 +3140,7 @@
 "medium",
 "skirts"
 ],
-"in": true
+"in": false
 },
 {
 "t": "DOUBLE TRENCH COAT",
@@ -3328,209 +3507,5 @@
 "Jackets"
 ],
 "in": false
-},
-{
-"t": "CARPET KIMONO",
-"u": "https://emergencyroombeirut.com/products/carpet-kimono",
-"p": 420.0,
-"c": 600.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0386/1590/8491/files/CarpetKimonoMain.jpg?v=1764851366&width=400",
-"type": "Jackets",
-"tags": [
-"code orange",
-"Jackets"
-],
-"in": true
-},
-{
-"t": "CARPET HOODIE",
-"u": "https://emergencyroombeirut.com/products/carpet-hoodie-1",
-"p": 400.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0386/1590/8491/files/CarpetHoodieMain.jpg?v=1764850581&width=400",
-"type": "Jackets",
-"tags": [
-"code orange",
-"Jackets",
-"medium"
-],
-"in": false
-},
-{
-"t": "BOMBER WITH PATCHWORK SLEEVES",
-"u": "https://emergencyroombeirut.com/products/bomber-with-patchwork-sleeves-1",
-"p": 189.0,
-"c": 270.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0386/1590/8491/files/Bomber2Main.jpg?v=1764850524&width=400",
-"type": "Jackets",
-"tags": [
-"code yellow",
-"Jackets",
-"medium"
-],
-"in": true
-},
-{
-"t": "BOMBER WITH PATCHWORK SLEEVES",
-"u": "https://emergencyroombeirut.com/products/bomber-with-patchwork-sleeves",
-"p": 189.0,
-"c": 270.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0386/1590/8491/files/Bomber1Main.jpg?v=1764850062&width=400",
-"type": "Jackets",
-"tags": [
-"code yellow",
-"Jackets"
-],
-"in": true
-},
-{
-"t": "BLANKET ROBE",
-"u": "https://emergencyroombeirut.com/products/blanket-robe",
-"p": 210.0,
-"c": 300.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0386/1590/8491/files/BlueRobeMain.jpg?v=1764848454&width=400",
-"type": "Jackets",
-"tags": [
-"code yellow",
-"Jackets",
-"medium"
-],
-"in": true
-},
-{
-"t": "DROPPED SHOULDER JACKET IN WOOL (GREEN)",
-"u": "https://emergencyroombeirut.com/products/dropped-shoulder-jacket-in-wool-green",
-"p": 240.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0386/1590/8491/files/GreenJacketMain.jpg?v=1764671145&width=400",
-"type": "Jackets",
-"tags": [
-"code blue",
-"Jackets"
-],
-"in": true
-},
-{
-"t": "DROPPED SHOULDER JACKET(BEIGE)",
-"u": "https://emergencyroombeirut.com/products/dropped-shoulder-jacket-4",
-"p": 294.0,
-"c": 420.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0386/1590/8491/files/BeigeJacketMain.jpg?v=1764666784&width=400",
-"type": "Jackets",
-"tags": [
-"Jackets"
-],
-"in": true
-},
-{
-"t": "UPCYCLED WIDE-LEG DENIM JORTS (BLUE)",
-"u": "https://emergencyroombeirut.com/products/upcycled-wide-leg-denim-jorts",
-"p": 140.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0386/1590/8491/files/DenimJortsMain.jpg?v=1762864876&width=400",
-"type": "Shorts",
-"tags": [
-"code blue",
-"large",
-"medium",
-"shorts",
-"small",
-"xlarge",
-"xsmall"
-],
-"in": true
-},
-{
-"t": "BAROQUE CARGO PANTS PANTS",
-"u": "https://emergencyroombeirut.com/products/baroque-pants",
-"p": 112.0,
-"c": 160.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0386/1590/8491/files/BaroquePantsMain.jpg?v=1763722777&width=400",
-"type": "Pants",
-"tags": [
-"checked"
-],
-"in": true
-},
-{
-"t": "MIDI FLORAL SKIRT",
-"u": "https://emergencyroombeirut.com/products/midi-floral-skirt",
-"p": 240.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0386/1590/8491/files/SkirwithRuffles_Main.jpg?v=1763548896&width=400",
-"type": "Skirts",
-"tags": [
-"checked",
-"code orange",
-"skirts"
-],
-"in": true
-},
-{
-"t": "STRIPED SHIRT WITH MANDARIN COLLAR",
-"u": "https://emergencyroombeirut.com/products/striped-shirt-with-mandarin-collar",
-"p": 140.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0386/1590/8491/files/StripedMandarinMain.jpg?v=1763472282&width=400",
-"type": "Shirts",
-"tags": [
-"code blue",
-"Shirts"
-],
-"in": false
-},
-{
-"t": "STRIPED SHIRT WITH A DROPPED SHOULDER",
-"u": "https://emergencyroombeirut.com/products/striped-mandarin-shirt",
-"p": 180.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0386/1590/8491/files/StripedShirtMain.jpg?v=1763471255&width=400",
-"type": "Shirts",
-"tags": [
-"code orange",
-"Shirts"
-],
-"in": true
-},
-{
-"t": "STRIPED SLEEVELESS TUNIC",
-"u": "https://emergencyroombeirut.com/products/striped-sleeveless-tunic",
-"p": 100.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0386/1590/8491/files/StripedTunicMain.jpg?v=1763470954&width=400",
-"type": "Shirts",
-"tags": [
-"code orange",
-"Shirts"
-],
-"in": true
-},
-{
-"t": "PLEATED PANTS WITH CUFFS",
-"u": "https://emergencyroombeirut.com/products/pleated-pants-with-adjustable-hem-black",
-"p": 84.0,
-"c": 120.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0386/1590/8491/files/AdjustablePantsMain.jpg?v=1763463170&width=400",
-"type": "Pants",
-"tags": [
-"code blue",
-"medium",
-"pants"
-],
-"in": true
 }
 ]

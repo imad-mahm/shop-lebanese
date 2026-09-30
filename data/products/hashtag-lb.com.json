@@ -1,5 +1,82 @@
 [
 {
+"t": "G- wool top 261112",
+"u": "https://www.hashtag-lb.com/products/g-wool-top-261112",
+"p": 29.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/3fc659e2-d678-4e80-89c1-e814a499db1f.jpg?v=1790769747&width=400",
+"type": "TOP",
+"tags": [],
+"in": true
+},
+{
+"t": "G-wool top 261002",
+"u": "https://www.hashtag-lb.com/products/g-wool-top-261002",
+"p": 29.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/917ff330-c2cc-4b10-bdef-0ec8f453e4f3.jpg?v=1790768523&width=400",
+"type": "top",
+"tags": [],
+"in": true
+},
+{
+"t": "G- wool top 261074",
+"u": "https://www.hashtag-lb.com/products/g-wool-top-261074",
+"p": 29.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/504d1254-2b3e-4446-8b1d-0980d15b2b7e.jpg?v=1790768363&width=400",
+"type": "TOP",
+"tags": [],
+"in": true
+},
+{
+"t": "G-wool top with belt 261061",
+"u": "https://www.hashtag-lb.com/products/g-wool-top-with-belt-261061",
+"p": 35.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/e8afb16b-6309-4498-8ae9-4b9effb6fe82.jpg?v=1790767945&width=400",
+"type": "TOP",
+"tags": [],
+"in": true
+},
+{
+"t": "G-wool top 261070",
+"u": "https://www.hashtag-lb.com/products/g-wool-top-261070",
+"p": 35.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/0bb00f32-1423-442b-a6f3-ef58f453091b.jpg?v=1790767758&width=400",
+"type": "TOP",
+"tags": [],
+"in": true
+},
+{
+"t": "G-wool top 251113",
+"u": "https://www.hashtag-lb.com/products/g-wool-top-251113",
+"p": 35.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/9f6e7839-dd25-4869-add9-9fd6b1bd5c64.jpg?v=1790767651&width=400",
+"type": "TOP",
+"tags": [],
+"in": true
+},
+{
+"t": "G-top",
+"u": "https://www.hashtag-lb.com/products/g-top-1",
+"p": 22.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/5d8971ff-19ee-4b93-b4dc-fb59140fe294.jpg?v=1790755020&width=400",
+"type": "TOP",
+"tags": [],
+"in": true
+},
+{
 "t": "G-leather jacket 508398",
 "u": "https://www.hashtag-lb.com/products/g-leather-jacket",
 "p": 55.0,
@@ -965,7 +1042,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/WhatsAppImage2026-08-14at16.18.08_2.jpg?v=1786717348&width=400",
 "type": "",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "PANT",
@@ -1311,7 +1388,7 @@
 {
 "t": "hashtag set 3056",
 "u": "https://www.hashtag-lb.com/products/hashtag-set-3056",
-"p": 15.0,
+"p": 10.0,
 "c": 29.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/b115dadb-2024-45bb-ac91-18ad4d1f4c6d.jpg?v=1783247075&width=400",
@@ -1537,7 +1614,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/1781253418203.jpg?v=1781253484&width=400",
 "type": "T-shirt",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "T-shirt",

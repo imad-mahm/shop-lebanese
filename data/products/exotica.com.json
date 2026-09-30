@@ -1,5 +1,44 @@
 [
 {
+"t": "New Beginnings",
+"u": "https://exotica.com/products/new-beginnings",
+"p": 106.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/New_Beginnings.png?v=1780650583&width=400",
+"type": "Flowers",
+"tags": [
+"preorder"
+],
+"in": false
+},
+{
+"t": "Super Dad",
+"u": "https://exotica.com/products/super-dad",
+"p": 106.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Super_Dad.png?v=1780651937&width=400",
+"type": "Flowers",
+"tags": [
+"preorder"
+],
+"in": false
+},
+{
+"t": "Sweet Valentine",
+"u": "https://exotica.com/products/sweet-valentine",
+"p": 125.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Sweet_Valentine.jpg?v=1769494315&width=400",
+"type": "Flowers",
+"tags": [
+"preorder"
+],
+"in": false
+},
+{
 "t": "Nurse Teddy Bear",
 "u": "https://exotica.com/products/nurse-teddy-bear",
 "p": 45.0,
@@ -697,7 +736,7 @@
 "For Mom",
 "For Teta"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Bonsai Bliss",
@@ -1231,28 +1270,6 @@
 "in": true
 },
 {
-"t": "Lamb Beanie",
-"u": "https://exotica.com/products/lamb-beanie",
-"p": 15.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Lamb_Beanie.png?v=1781682301&width=400",
-"type": "Add-Ons",
-"tags": [],
-"in": false
-},
-{
-"t": "Giraffe Beanie",
-"u": "https://exotica.com/products/giraffe-beanie",
-"p": 15.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/SOFTTOY-GIRAFFEBEANIE.jpg?v=1781681884&width=400",
-"type": "Add-Ons",
-"tags": [],
-"in": false
-},
-{
 "t": "Olea Tree",
 "u": "https://exotica.com/products/olea-tree",
 "p": 84.0,
@@ -1342,7 +1359,7 @@
 "p": 140.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/NewBornBabyBoyArrangement.png?v=1784630536&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/New_Baby_Boy_Arrangement.png?v=1790749971&width=400",
 "type": "Flowers",
 "tags": [
 "Congratulations",
@@ -1352,7 +1369,7 @@
 "Mixed Flowers",
 "New Born"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Little Princess",
@@ -1411,7 +1428,7 @@
 {
 "t": "Birthday Bliss",
 "u": "https://exotica.com/products/birthday-bliss",
-"p": 80.0,
+"p": 95.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Birthday_Bliss.jpg?v=1781093851&width=400",
@@ -1426,7 +1443,7 @@
 "Pink",
 "preorder"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Love in Full Bloom",
@@ -1477,7 +1494,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Bold_distinction.jpg?v=1780664637&width=400",
 "type": "Flowers",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Rays of Success",
@@ -2250,7 +2267,7 @@
 "Orange",
 "Teddy Bears"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Crazy Clusters",
@@ -2446,7 +2463,7 @@
 "For Her",
 "For Him"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Ficus Grandeur",
@@ -2815,26 +2832,6 @@
 "in": true
 },
 {
-"t": "Green Gratitude",
-"u": "https://exotica.com/products/green-gratitude",
-"p": 288.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/278.jpg?v=1770027610&width=400",
-"type": "Plants",
-"tags": [
-"For Colleagues",
-"For Dad",
-"For Friends",
-"For Her",
-"For Him",
-"For Mom",
-"For Teta",
-"Get Well Soon"
-],
-"in": false
-},
-{
 "t": "Ficus Fantasy",
 "u": "https://exotica.com/products/ficus-fantasy",
 "p": 246.0,
@@ -2932,7 +2929,7 @@
 "Get Well Soon",
 "Graduation"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Birthday Bundle",
