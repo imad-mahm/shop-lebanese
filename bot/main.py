@@ -116,7 +116,8 @@ class Bot:
         store = res["store"]
         old = self.stores.get(d, {})
         extra = c.get("submitted", {})
-        merged = {**old, **store, **{k: v for k, v in extra.items() if v and not store.get(k)}}
+        # What the owner typed in the "Add my shop" form beats what we scraped
+        merged = {**old, **store, **{k: v for k, v in extra.items() if v}}
         merged["found"] = old.get("found") or now()
         merged["checked"] = now()
         merged.pop("dead", None)
