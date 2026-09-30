@@ -57,7 +57,7 @@
 "Food Pairing:Red meat - Beef - Pork - Lamb",
 "Food Pairing:Strong cheese - Roquefort - Blue cheese"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Coteaux du Liban Chateau 2010",
@@ -725,26 +725,6 @@
 "Grape Varieties:Cabernet Sauvignon",
 "Grape Varieties:Syrah",
 "Organic:Natural"
-],
-"in": true
-},
-{
-"t": "Vignoble Joura Merwah Classic 2023",
-"u": "https://www.209lebanesewine.com/products/vignoble-joura-merwah-classic-2023",
-"p": 9.0,
-"c": 17.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0970/2132/files/Merwah.png?v=1766479035&width=400",
-"type": "Dry White Wine",
-"tags": [
-"0-15",
-"Alcohol Level:Medium",
-"Food Pairing:Aperitif",
-"Food Pairing:Cold cuts",
-"Food Pairing:Grilled fish and seafood",
-"Food Pairing:Lebanese Mezze",
-"Food Pairing:Light cheese - Goat cheese",
-"Food Pairing:Pasta and pizza"
 ],
 "in": true
 },
@@ -1587,26 +1567,6 @@
 "in": true
 },
 {
-"t": "Domaine Wardy Private Selection White 2017",
-"u": "https://www.209lebanesewine.com/products/domaine-wardy-private-selection-white",
-"p": 25.9,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0970/2132/products/domaine-wardy-private-selection-white.png?v=1691568677&width=400",
-"type": "Dry White Wine",
-"tags": [
-"00Discount",
-"16-25",
-"Adwisely Exclude",
-"Alcohol Level:Medium",
-"Food Pairing:Aperitif",
-"Food Pairing:Cold cuts",
-"Food Pairing:Grilled fish and seafood",
-"Food Pairing:Lebanese Mezze"
-],
-"in": false
-},
-{
 "t": "Domaine Wardy Syrah 2019",
 "u": "https://www.209lebanesewine.com/products/domaine-wardy-syrah",
 "p": 13.0,
@@ -1667,35 +1627,15 @@
 "in": true
 },
 {
-"t": "Chateau Qanafar Cocu 2021",
-"u": "https://www.209lebanesewine.com/products/chateau-qanafar-cocu",
-"p": 9.0,
-"c": 15.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0970/2132/files/Cocu2021LabelPic1_1.png?v=1709544217&width=400",
-"type": "Light Red Wine",
-"tags": [
-"0-15",
-"Alcohol Level:Medium",
-"Bal",
-"Food Pairing:Aperitif",
-"Food Pairing:Cold cuts",
-"Food Pairing:Grilled fish and seafood",
-"Food Pairing:Lebanese Mezze",
-"Food Pairing:Pasta and pizza"
-],
-"in": true
-},
-{
 "t": "Chateau Qanafar Araq, Anis",
 "u": "https://www.209lebanesewine.com/products/chateau-qanafar-araq-anis",
-"p": 29.0,
-"c": 45.0,
+"p": 45.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0970/2132/files/AnisaraqqanafarTransparent.png?v=1709544178&width=400",
 "type": "Arak",
 "tags": [
-"26-35",
+"36-55",
 "Alcohol Level:High",
 "Levain",
 "Region:Bekaa Valley",
@@ -2381,14 +2321,14 @@
 {
 "t": "Mont d'Almaz Malbec 2018",
 "u": "https://www.209lebanesewine.com/products/mont-dalmaz-malbec",
-"p": 13.0,
-"c": 29.0,
+"p": 29.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0970/2132/products/mont-dalmaz-malbec.png?v=1691568639&width=400",
 "type": "Full-bodied Red Wine",
 "tags": [
-"0-15",
 "00Discount",
+"26-35",
 "Adwisely Exclude",
 "Alcohol Level:Medium",
 "BeirutCellar",

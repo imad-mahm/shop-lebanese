@@ -1,5 +1,40 @@
 [
 {
+"t": "Style Pro One-Step Hot Air Hair Dryer & Styling Brush",
+"u": "https://daouk.com/products/one-step-hair-dryer-and-styler",
+"p": 19.99,
+"c": 39.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/1_806c3dca-37d0-45cd-b6be-ef33d6695978_2.png?v=1771676392&width=400",
+"type": "Hair Dryers",
+"tags": [
+"Electrics2025",
+"eleund30",
+"kb-rewritten",
+"ONE STEP HAIR DRYER",
+"Style Pro Hot Air Hair Dryer Styling Brush"
+],
+"in": true
+},
+{
+"t": "SKIN1004 Hyalu Cica Water Fit Sun Serum SPF50+",
+"u": "https://daouk.com/products/centella-hyalu-cica-water-fit-sun-serum",
+"p": 22.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/Untitled_design_-_2026-06-10T220559.381.png?v=1781118375&width=400",
+"type": "Sunscreens",
+"tags": [
+"centella",
+"k-beauty",
+"kb-rewritten",
+"korean beauty",
+"skincare",
+"sunscreens"
+],
+"in": true
+},
+{
 "t": "Babyliss 6 in 1 Beard and Face Multi Trimmer MT725E",
 "u": "https://daouk.com/products/babyliss-mt725e-beard-face-6-in-1-multi-trimmer-babwshamt725e",
 "p": 60.0,
@@ -547,7 +582,7 @@
 "in": true
 },
 {
-"t": "6 in 1 Hot Air Brush Foldable Hair Dryer with Diffuser",
+"t": "UKLISS 6 in 1 Hot Air Brush Foldable Hair Dryer with Diffuser",
 "u": "https://daouk.com/products/6-in-1-hot-air-brush-foldable-hair-dryer-with-diffuser",
 "p": 59.0,
 "c": null,
@@ -556,6 +591,7 @@
 "type": "HAIR DRYER",
 "tags": [
 "Electrics2025",
+"kb-rewritten",
 "seo-rewritten"
 ],
 "in": true
@@ -1023,10 +1059,11 @@
 "p": 3.5,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/OIP_4_55c1e5d0-3224-49dd-8167-8adf7c0b37ec.webp?v=1785142268&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/cheung-plastic-tint-brush-1152-izzat-daouk-1.webp?v=1790752294&width=400",
 "type": "",
 "tags": [
-"kb-rewritten"
+"kb-rewritten",
+"seo-rewritten"
 ],
 "in": true
 },
@@ -1091,10 +1128,11 @@
 "p": 210.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/OIP_911788d7-11c5-4b2d-b98b-b61c1022a57a.webp?v=1784365552&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/braun-silk-epil-9-wet-and-dry-epilator-ses9-041-silver-izzat-daouk-1.webp?v=1790752280&width=400",
 "type": "",
 "tags": [
-"kb-rewritten"
+"kb-rewritten",
+"seo-rewritten"
 ],
 "in": true
 },
@@ -1217,7 +1255,7 @@
 "in": true
 },
 {
-"t": "BaByliss Pro Iron & Style Wax Bundle",
+"t": "BaByliss Pro Curling Iron 24mm and Style Wax Stick Bundle",
 "u": "https://daouk.com/products/babyliss-pro-iron-style-wax-bundle",
 "p": 91.2,
 "c": 96.0,
@@ -1230,12 +1268,13 @@
 "curling-iron",
 "hair-styling",
 "hair-wax",
+"kb-rewritten",
 "seo-rewritten"
 ],
 "in": true
 },
 {
-"t": "Vitality MY SECRET FRIEND Dry Shampoo 200Ml",
+"t": "Vitality's My Secret Friend Dry Shampoo 200ml",
 "u": "https://daouk.com/products/vitality-my-secret-friend-dry-shampoo-200ml",
 "p": 12.0,
 "c": null,
@@ -1243,6 +1282,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/MSF-rendering-amb-1-e1719481852306.jpg?v=1783770379&width=400",
 "type": "",
 "tags": [
+"kb-rewritten",
 "volume_deal"
 ],
 "in": true
@@ -1308,7 +1348,7 @@
 "in": true
 },
 {
-"t": "Wahl 5 Stars Hi-Viz® Hair Trimmer Cordless",
+"t": "Wahl 5 Star Hi Viz Cordless Hair Trimmer",
 "u": "https://daouk.com/products/wahl-hi-viz®-hair-trimmer-cordless",
 "p": 185.0,
 "c": 200.18,
@@ -1316,6 +1356,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/6_04f99c15-777d-45e7-b050-4819a6bdbfcd.png?v=1756846566&width=400",
 "type": "HAIR TRIMMER",
 "tags": [
+"kb-rewritten",
 "WAHL"
 ],
 "in": false
@@ -1329,6 +1370,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/01_100.png?v=1763945708&width=400",
 "type": "Hair Clippers",
 "tags": [
+"kb-rewritten",
 "newwahl2025",
 "wahl25"
 ],
@@ -3885,10 +3927,11 @@
 "p": 319.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/2653996.braun-silk-epil-9-flex-9-071.jpg?v=1777466553&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/braun-silk-epil-9-360-flex-epilator-ses9-060-izzat-daouk-1.jpg?v=1790752280&width=400",
 "type": "Hair Removal",
 "tags": [
-"kb-rewritten"
+"kb-rewritten",
+"seo-rewritten"
 ],
 "in": true
 },
@@ -3912,10 +3955,11 @@
 "p": 54.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/all-in-one-series-3-aio3500___250327.webp?v=1777456499&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/braun-all-in-one-series-3-4-in-1-trimmer-290657-izzat-daouk-1.webp?v=1790752280&width=400",
 "type": "Hair Clippers & Trimmers",
 "tags": [
-"kb-rewritten"
+"kb-rewritten",
+"seo-rewritten"
 ],
 "in": true
 },
@@ -3985,31 +4029,5 @@
 "kb-rewritten"
 ],
 "in": false
-},
-{
-"t": "Braun FS1000 Face Mini Hair Removal",
-"u": "https://daouk.com/products/braun-fs1000-face-mini-hair-removal",
-"p": 51.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/Untitleddesign-2024-08-11T134104.053.png?v=1723372875&width=400",
-"type": "PERSONAL CARE",
-"tags": [
-"kb-rewritten"
-],
-"in": true
-},
-{
-"t": "Braun Silk Epil 9 Flex SES9010 Cordless Epilator",
-"u": "https://daouk.com/products/braun-3d-silk-epil-9-flex-ses9010",
-"p": 285.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/Untitleddesign_4_1f21b5f4-72e1-4f98-b392-6a1a4af4455f.png?v=1731376651&width=400",
-"type": "Epilators",
-"tags": [
-"kb-rewritten"
-],
-"in": true
 }
 ]
