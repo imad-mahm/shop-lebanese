@@ -242,5 +242,25 @@
   },
   "seconds": 22,
   "total_stores": 43
+ },
+ {
+  "at": "2026-09-30T14:12:26+00:00",
+  "new_candidates": 80,
+  "probed": 31,
+  "new_stores": [
+   "lumifragrances.com"
+  ],
+  "synced": 1,
+  "sources": {
+   "seeds": 0,
+   "links": 79,
+   "submissions": 1,
+   "removals": 0,
+   "hubs": 0,
+   "search": 0,
+   "commoncrawl": 0
+  },
+  "seconds": 22,
+  "total_stores": 44
  }
 ]
