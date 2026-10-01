@@ -3209,5 +3209,1146 @@
 "APPAREL"
 ],
 "in": true
+},
+{
+"t": "RISING SUN ON GOLD COVER UP",
+"u": "https://sarahsbag.com/products/rising-sun-on-gold-cover-up",
+"p": 585.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/RISING-SUN-ON-GOLD-COVER-UP-FRONT.jpg?v=1768397267&width=400",
+"type": "Cover-Up",
+"tags": [
+"APPAREL"
+],
+"in": true
+},
+{
+"t": "RISING MOON SLEEVE ON SUGAR ABAYA",
+"u": "https://sarahsbag.com/products/rising-moon-sleeve-on-sugar-abaya",
+"p": 585.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/RISING-MOON-SLEEVE-ON-SUGAR-ABAYA-FRONT-1.jpg?v=1768405867&width=400",
+"type": "Abaya",
+"tags": [
+"APPAREL"
+],
+"in": true
+},
+{
+"t": "PEARL DROPS ON PALM BLACK ABAYA",
+"u": "https://sarahsbag.com/products/pearl-drops-on-palm-black-abaya",
+"p": 465.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/PEARL-DROPS-ON-PALM-BLACK-ABAYA-FRONT_6e202990-d96d-4bc0-924f-432bfad5b582.jpg?v=1768830527&width=400",
+"type": "Abaya",
+"tags": [
+"APPAREL"
+],
+"in": true
+},
+{
+"t": "PEARL DROPS ON PALM TEAL ABAYA",
+"u": "https://sarahsbag.com/products/pearl-drops-on-palm-teal-abaya",
+"p": 465.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/PEARL-DROPS-ON-PALM-TEAL-ABAYA-FRONT.jpg?v=1768403707&width=400",
+"type": "Abaya",
+"tags": [
+"APPAREL"
+],
+"in": true
+},
+{
+"t": "CROCHET DROPS ON OLIVE ABAYA",
+"u": "https://sarahsbag.com/products/crochet-drops-on-olive-abaya",
+"p": 425.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/CROCHET-DROPS-ON-OLIVE-ABAYA-FRONT.jpg?v=1777545593&width=400",
+"type": "Abaya",
+"tags": [
+"APPAREL"
+],
+"in": true
+},
+{
+"t": "MANDALA SILVER CLUTCH",
+"u": "https://sarahsbag.com/products/mandala-silver-clutch",
+"p": 575.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/silver-mandala-back_5a024930-230d-4514-9e98-fa93584fc00a.jpg?v=1773151174&width=400",
+"type": "Clutch",
+"tags": [
+"Bags"
+],
+"in": false
+},
+{
+"t": "KEFFIYEH ANTHRACITE CLASSIC BAG",
+"u": "https://sarahsbag.com/products/keffiyeh-anthracite-classic-bag",
+"p": 335.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/KEFFIYEH-ANTHRACITE-CLASSIC-BAG-FRONT_b0cc3cd1-c870-496b-8255-e9b57b2975e9.jpg?v=1765884048&width=400",
+"type": "Classic Bag",
+"tags": [
+"Bags"
+],
+"in": true
+},
+{
+"t": "SHIELD CLASSIC BAG",
+"u": "https://sarahsbag.com/products/shield-classic-bag",
+"p": 295.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/SHIELD-CLASSIC-BAG-FRONT.jpg?v=1772792488&width=400",
+"type": "Classic Bag",
+"tags": [
+"Bags"
+],
+"in": true
+},
+{
+"t": "SHIELD PALM GRACE CLUTCH",
+"u": "https://sarahsbag.com/products/shield-palm-grace-clutch",
+"p": 355.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/SHIELD-PALM-GRACE-CLUTCH-FRONT.jpg?v=1772791646&width=400",
+"type": "Clutch",
+"tags": [
+"Bags",
+"COUTURE MOM"
+],
+"in": true
+},
+{
+"t": "RISING SUN ON GOLD CLASSIC BAG",
+"u": "https://sarahsbag.com/products/rising-sun-gold-classic-bag",
+"p": 335.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/RISING-SUN-GOLD-CLASSIC-BAG-FRONT.jpg?v=1787658396&width=400",
+"type": "Classic Bag",
+"tags": [
+"Bags"
+],
+"in": true
+},
+{
+"t": "MANDALA GOLD MENOTTES WRISTLET",
+"u": "https://sarahsbag.com/products/mandala-gold-menottes-wristlet",
+"p": 675.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/MANDALA-GOLD_8bfc724a-1fd4-4868-8e12-34586bf02ffa.jpg?v=1776150392&width=400",
+"type": "Wristlet",
+"tags": [
+"Bags"
+],
+"in": false
+},
+{
+"t": "A Sarah's Bag Gift Card",
+"u": "https://sarahsbag.com/products/gift-card",
+"p": 50.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/SB-Virtual-GiftCard-300x300.jpg?v=1701942008&width=400",
+"type": "Gift Card",
+"tags": [],
+"in": true
+},
+{
+"t": "KEFFIYEH GOLD CLASSIC BAG",
+"u": "https://sarahsbag.com/products/keffiyeh-gold-classic-bag",
+"p": 335.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/KEFFIYEH-GOLD-CLASSIC-BAG-FRONT.jpg?v=1772113873&width=400",
+"type": "Classic Bag",
+"tags": [
+"Bags"
+],
+"in": true
+},
+{
+"t": "KEFFIYEH CLASSIC BAG",
+"u": "https://sarahsbag.com/products/keffiyeh-classic-bag",
+"p": 335.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/KEFFIYEH-CLASSIC-BAG-FRONT.jpg?v=1771512662&width=400",
+"type": "Classic Bag",
+"tags": [],
+"in": true
+},
+{
+"t": "PACKAGING",
+"u": "https://sarahsbag.com/products/gift-wrap",
+"p": 0.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/eco.jpg?v=1700039712&width=400",
+"type": "Gift Option",
+"tags": [],
+"in": true
+},
+{
+"t": "PEARL WHITE  NECKLACE",
+"u": "https://sarahsbag.com/products/pearl-white-necklace",
+"p": 95.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/pearl-white-necklace.jpg?v=1697790794&width=400",
+"type": "Necklace",
+"tags": [],
+"in": true
+},
+{
+"t": "PEARL GOLD NECKLACE",
+"u": "https://sarahsbag.com/products/pearl-gold-necklace",
+"p": 95.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/products/pearl-gold-necklace.jpg?v=1697789021&width=400",
+"type": "Necklace",
+"tags": [],
+"in": true
+},
+{
+"t": "BIRDCAGE WOOD",
+"u": "https://sarahsbag.com/products/birdcage-wood",
+"p": 550.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/BIDCAGE-WOOD-FRONT.jpg?v=1746788566&width=400",
+"type": "Clutch",
+"tags": [
+"Bags"
+],
+"in": false
+},
+{
+"t": "MUREX GOLD STRAW GRACE CLUTCH",
+"u": "https://sarahsbag.com/products/murex-gold-straw-grace-clutch",
+"p": 295.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/Murex-Gold-Straw-Grace_ddbbf27a-903d-46b1-8d11-5a380128e4a5.jpg?v=1717575671&width=400",
+"type": "Clutch",
+"tags": [
+"Bags"
+],
+"in": true
+},
+{
+"t": "HAPPINESS YELLOW ON MEXICAN FLORAL CLASSIC BAG",
+"u": "https://sarahsbag.com/products/happiness-yellow-on-mexican-floral-classic-bag",
+"p": 335.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/HAPPINESS-YELLOW-ON-MEXICAN-FLORAL-CLASSIC-BAG-ON-MODEL-1.jpg?v=1770990529&width=400",
+"type": "Classic Bag",
+"tags": [
+"Bags"
+],
+"in": true
+},
+{
+"t": "WOMEN OF WONDER PINK BADGE",
+"u": "https://sarahsbag.com/products/women-of-wonder-pink-badge",
+"p": 35.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/products/women-of-wonder-pink-badge.jpg?v=1697789058&width=400",
+"type": "Badge / Pin",
+"tags": [],
+"in": true
+},
+{
+"t": "WOMEN OF WONDER BLUE BADGE",
+"u": "https://sarahsbag.com/products/women-of-wonder-blue-badge",
+"p": 35.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/products/women-of-wonder-blue-badge.jpg?v=1697789060&width=400",
+"type": "Badge / Pin",
+"tags": [],
+"in": true
+},
+{
+"t": "WOMEN OF WONDER BADGE",
+"u": "https://sarahsbag.com/products/women-of-wonder-badge",
+"p": 35.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/products/women-of-wonder-badge.jpg?v=1697789062&width=400",
+"type": "Badge / Pin",
+"tags": [],
+"in": true
+},
+{
+"t": "WILD MUSHROOM BADGE",
+"u": "https://sarahsbag.com/products/wild-mushroom-badge",
+"p": 25.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/products/wild-mushroom-badge.jpg?v=1697789081&width=400",
+"type": "Badge / Pin",
+"tags": [],
+"in": true
+},
+{
+"t": "THE ADORED GOLD",
+"u": "https://sarahsbag.com/products/the-adored-gold",
+"p": 950.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/the-adored-gold-on-model.jpg?v=1747726299&width=400",
+"type": "Clutch",
+"tags": [
+"Bags",
+"ICONIC BRIDE"
+],
+"in": true
+},
+{
+"t": "TAKE ME CLASSIC BAG",
+"u": "https://sarahsbag.com/products/take-me-classic-bag",
+"p": 355.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/take-me-classic_f771a06a-9a27-4e05-8695-9959f0bf59bc.jpg?v=1721118339&width=400",
+"type": "Classic Bag",
+"tags": [
+"Bags"
+],
+"in": true
+},
+{
+"t": "SWIRLS OF PEARLS ON SUGAR ABAYA",
+"u": "https://sarahsbag.com/products/swirls-of-pearls-on-sugar-abaya",
+"p": 495.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/swirls-of-pearls-on-sugar-abaya-2.jpg?v=1714657183&width=400",
+"type": "Abaya",
+"tags": [
+"Apparel"
+],
+"in": true
+},
+{
+"t": "SILVER BOUQUET WALL ART",
+"u": "https://sarahsbag.com/products/silver-bouquet-wall-art",
+"p": 455.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/products/silver-bouquet-wall-art.jpg?v=1763981421&width=400",
+"type": "Wall Art",
+"tags": [],
+"in": true
+},
+{
+"t": "SCALLOPS SILVER BOX CLUTCH",
+"u": "https://sarahsbag.com/products/scallops-silver-box-clutch",
+"p": 525.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/SCALLOPS-SILVER-BOX_b1a5748a-a73c-41d1-8058-85304407de01.jpg?v=1747652576&width=400",
+"type": "Box Clutch",
+"tags": [
+"Bags",
+"ICONIC BRIDE"
+],
+"in": true
+},
+{
+"t": "HAPPINESS RED ON MEXICAN FLORAL CLASSIC BAG",
+"u": "https://sarahsbag.com/products/red-calligraphy-on-floral-classic",
+"p": 335.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/HAPPINESS-RED-ON-MEXICAN-FLORAL-CLASSIC-BAG-FONT.jpg?v=1777370661&width=400",
+"type": "Classic Bag",
+"tags": [
+"Bags"
+],
+"in": true
+},
+{
+"t": "QUEEN CLASSIC BAG",
+"u": "https://sarahsbag.com/products/queen-classic-bag",
+"p": 295.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/products/QUEEN-CLASSIC-BAG-FRONT.jpg?v=1772799202&width=400",
+"type": "Classic Bag",
+"tags": [
+"Bags"
+],
+"in": true
+},
+{
+"t": "POSTERS CLASSIC BAG",
+"u": "https://sarahsbag.com/products/posters-classic-bag",
+"p": 225.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/POSTERS-CLASSIC-BAG-FRONT_9d95f951-a8f6-49c7-8ee2-d55a4d5c6062.jpg?v=1748436348&width=400",
+"type": "Classic Bag",
+"tags": [
+"Bags"
+],
+"in": true
+},
+{
+"t": "PEARL SUNSET NECKLACE",
+"u": "https://sarahsbag.com/products/pearl-sunset-necklace",
+"p": 95.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/products/pearl-sunset-necklace.jpg?v=1697789217&width=400",
+"type": "Necklace",
+"tags": [],
+"in": true
+},
+{
+"t": "PEARL SUNRISE NECKLACE",
+"u": "https://sarahsbag.com/products/pearl-sunrise-necklace",
+"p": 95.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/products/pearl-sunrise-necklace.jpg?v=1697789221&width=400",
+"type": "Necklace",
+"tags": [],
+"in": true
+},
+{
+"t": "PEARL FRINGES MARQUISE SILVER HOLD ME BAG",
+"u": "https://sarahsbag.com/products/pearl-fringes-marquise-silver-hold-me-bag",
+"p": 225.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/products/pearl-fringes-marquise-silver-hold-me.jpg?v=1697789223&width=400",
+"type": "Mini Bag",
+"tags": [
+"Bags",
+"GLAM GUEST"
+],
+"in": true
+},
+{
+"t": "PALM GOLD SLEEVE BLACK RANIA",
+"u": "https://sarahsbag.com/products/palm-gold-sleeve-black-rania",
+"p": 345.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/PALM-GOLD-SLEEVE-BLACK-RANIA-SIDE.jpg?v=1773056099&width=400",
+"type": "Dress",
+"tags": [
+"Apparel"
+],
+"in": true
+},
+{
+"t": "MUREX SILVER STRAW BOX CLUTCH",
+"u": "https://sarahsbag.com/products/murex-silver-straw-box-clutch",
+"p": 455.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/Murex-Silver-Straw-Box-Front_ffa34440-539c-4414-b9fb-d4dd674d1413.jpg?v=1715844465&width=400",
+"type": "Box Clutch",
+"tags": [
+"Bags",
+"CHIC BRIDESMAID"
+],
+"in": true
+},
+{
+"t": "MUREX GOLD STRAW BOX CLUTCH",
+"u": "https://sarahsbag.com/products/murex-gold-straw-box-clutch",
+"p": 455.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/Murex-Gold-Straw-Box-Front.jpg?v=1715844372&width=400",
+"type": "Box Clutch",
+"tags": [
+"Bags",
+"CHIC BRIDESMAID"
+],
+"in": true
+},
+{
+"t": "MUREX BUBBLES SILVER BOX CLUTCH",
+"u": "https://sarahsbag.com/products/murex-bubbles-silver-box-clutch",
+"p": 455.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/Murex-Bubbles-Silver-Box_8799e601-3177-490a-beaa-e3b898b784f7.jpg?v=1766487553&width=400",
+"type": "Box Clutch",
+"tags": [
+"Bags",
+"CHIC BRIDESMAID"
+],
+"in": true
+},
+{
+"t": "MOROCCAN METALLIC CLASSIC BAG",
+"u": "https://sarahsbag.com/products/moroccan-metallic-classic-bag",
+"p": 335.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/MOROCCAN-METALLIC-CLASSIC-BAG-ON-MODEL-5.jpg?v=1757942764&width=400",
+"type": "Classic Bag",
+"tags": [
+"Bags"
+],
+"in": true
+},
+{
+"t": "MOROCCAN GOLD CLASSIC BAG",
+"u": "https://sarahsbag.com/products/moroccan-gold-classic-bag",
+"p": 335.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/MOROCCAN-GOLD-CLASSIC-BAG-ON-MODEL.jpg?v=1773136057&width=400",
+"type": "Classic Bag",
+"tags": [
+"Bags"
+],
+"in": true
+},
+{
+"t": "MOROCCAN AQUA CLASSIC BAG",
+"u": "https://sarahsbag.com/products/moroccan-aqua-classic-bag",
+"p": 335.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/MOROCCAN-AQUA-CLASSIC-BAG-ON-MODEL-1.jpg?v=1773140816&width=400",
+"type": "Classic Bag",
+"tags": [
+"Bags"
+],
+"in": true
+},
+{
+"t": "MOROCCAN AQUA BIG BOX CLUTCH",
+"u": "https://sarahsbag.com/products/moroccan-aqua-big-box-clutch",
+"p": 555.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/MOROCCAN-AQUA-BIG-BOX-CLUTCH.jpg?v=1747813411&width=400",
+"type": "Box Clutch",
+"tags": [
+"Bags"
+],
+"in": true
+},
+{
+"t": "MAZE GRACE CLUTCH",
+"u": "https://sarahsbag.com/products/maze-grace-clutch",
+"p": 295.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/MAZE-GRACE-CLUTCH.jpg?v=1747828067&width=400",
+"type": "Clutch",
+"tags": [
+"Bags"
+],
+"in": true
+},
+{
+"t": "MANOOSHE CLUTCH",
+"u": "https://sarahsbag.com/products/manooshe-clutch",
+"p": 95.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/products/manoosheh-clutch.jpg?v=1697789327&width=400",
+"type": "Shaped Clutch",
+"tags": [
+"Bags"
+],
+"in": true
+},
+{
+"t": "LYS HOBB CLASSIC BAG",
+"u": "https://sarahsbag.com/products/lys-hobb-classic-bag",
+"p": 335.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/LYS-HOBB-CLASSIC-BAG-FRONT.jpg?v=1773215804&width=400",
+"type": "Classic Bag",
+"tags": [
+"Bags"
+],
+"in": true
+},
+{
+"t": "LYS GRACE CLUTCH",
+"u": "https://sarahsbag.com/products/lys-grace-clutch",
+"p": 325.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/LYS-GRACE-CLUTCH-FRONT.jpg?v=1770968298&width=400",
+"type": "Clutch",
+"tags": [
+"Bags"
+],
+"in": true
+},
+{
+"t": "LOVERS MARQUETRY",
+"u": "https://sarahsbag.com/products/lovers-marquetry",
+"p": 585.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/LOVERS-MARQUETRY-FRONT.jpg?v=1755773197&width=400",
+"type": "Box Clutch",
+"tags": [
+"Bags"
+],
+"in": true
+},
+{
+"t": "KAAKEH BAG",
+"u": "https://sarahsbag.com/products/kaakeh-bag",
+"p": 95.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/products/kaakeh-bag.jpg?v=1697789370&width=400",
+"type": "Shaped Clutch",
+"tags": [
+"Bags"
+],
+"in": true
+},
+{
+"t": "HASHISHET ALBI CLASSIC BAG",
+"u": "https://sarahsbag.com/products/hashishet-albi-classic",
+"p": 295.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/products/hashishet-albi-classic.jpg?v=1697789402&width=400",
+"type": "Classic Bag",
+"tags": [
+"Bags"
+],
+"in": true
+},
+{
+"t": "HAPPINESS BADGE",
+"u": "https://sarahsbag.com/products/happiness-badge",
+"p": 25.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/products/happiness-badge.jpg?v=1697789417&width=400",
+"type": "Badge / Pin",
+"tags": [],
+"in": true
+},
+{
+"t": "GOLDEN OASIS GOLD STRAW POUCH",
+"u": "https://sarahsbag.com/products/golden-oasis-gold-straw-pouch",
+"p": 275.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/GOLDEN-OASIS-GOLD-STRAW-POUCH-FRONT.jpg?v=1773319728&width=400",
+"type": "Pouch",
+"tags": [
+"Bags"
+],
+"in": true
+},
+{
+"t": "GOLDEN OASIS GOLD STRAW MENOTTES WRISTLET",
+"u": "https://sarahsbag.com/products/golden-oasis-gold-straw-menottes-wristlet",
+"p": 455.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/products/GOLDEN-OASIS-GOLD-STRAW-MENOTTES-WRISTLET-FRONT.jpg?v=1773319865&width=400",
+"type": "Wristlet",
+"tags": [
+"Bags"
+],
+"in": true
+},
+{
+"t": "GOLDEN OASIS GOLD STRAW GRACE CLUTCH",
+"u": "https://sarahsbag.com/products/golden-oasis-gold-straw-grace-clutch",
+"p": 355.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/GOLDEN-OASIS-GOLD-STRAW-GRACE-CLUTCH-FRONT.jpg?v=1770893769&width=400",
+"type": "Clutch",
+"tags": [
+"Bags"
+],
+"in": true
+},
+{
+"t": "GOLDEN OASIS GOLD STRAW CLASSIC BAG",
+"u": "https://sarahsbag.com/products/golden-oasis-gold-straw-classic-bag",
+"p": 295.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/GOLDEN-OASIS-GOLD-STRAW-CLASSIC-BAG-FRONT.jpg?v=1773320077&width=400",
+"type": "Classic Bag",
+"tags": [
+"Bags"
+],
+"in": true
+},
+{
+"t": "GOLDEN OASIS GOLD IMPERIAL CAPE",
+"u": "https://sarahsbag.com/products/golden-oasis-gold-imperial-cape",
+"p": 755.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/GOLDEN-OASIS-GOLD-IMPERIAL-CAPE-CLOSE-UP_489be227-5acc-478f-af4a-69bfaa5622a0.jpg?v=1756112265&width=400",
+"type": "Cape",
+"tags": [
+"Apparel"
+],
+"in": true
+},
+{
+"t": "GOLDEN OASIS BLACK IMPERIAL CAPE",
+"u": "https://sarahsbag.com/products/golden-oasis-black-imperial-cape",
+"p": 755.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/GOLDEN-OASIS-BLACK-IMPERIAL-CAPE-ON-MODEL.jpg?v=1774261548&width=400",
+"type": "Cape",
+"tags": [
+"Apparel"
+],
+"in": true
+},
+{
+"t": "GOLDEN BOUQUET WALL ART",
+"u": "https://sarahsbag.com/products/golden-bouquet-wall-art",
+"p": 455.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/golden-bouquet-wall-art-4.jpg?v=1700218006&width=400",
+"type": "Wall Art",
+"tags": [],
+"in": true
+},
+{
+"t": "GOLD PALM TRAVEL BAG",
+"u": "https://sarahsbag.com/products/gold-palm-travel-bag",
+"p": 195.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/GOLD-PALM-TRAVEL-BAG_fb3001c9-c099-41da-8443-f2dd4baad461.jpg?v=1698926948&width=400",
+"type": "Travel Bag",
+"tags": [
+"Bags"
+],
+"in": true
+},
+{
+"t": "FAVOR GOLD MENOTTES TASSEL WRISTLET",
+"u": "https://sarahsbag.com/products/favor-gold-menottes-tassel-wristlet",
+"p": 530.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/products/FAVOR-GOLD-MENOTTES-TASSEL-WRISTLET-FRONT.jpg?v=1774265642&width=400",
+"type": "Wristlet",
+"tags": [],
+"in": false
+},
+{
+"t": "FAVOR BLACK MENOTTES TASSEL WRISTLET",
+"u": "https://sarahsbag.com/products/favor-black-menottes-tassel",
+"p": 530.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/FAVOR-BLACK-MENOTTES-TASSEL-WRISTLET-FRONT.webp?v=1774265782&width=400",
+"type": "Wristlet",
+"tags": [],
+"in": true
+},
+{
+"t": "ECLIPSE GOLD CROCHET CLASSIC BAG",
+"u": "https://sarahsbag.com/products/eclipse-gold-crochet-classic-bag",
+"p": 295.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/products/ECLIPSE-GOLD-CROCHET-CLASSIC-BAG-FRONT.jpg?v=1774266224&width=400",
+"type": "Classic Bag",
+"tags": [
+"Bags"
+],
+"in": true
+},
+{
+"t": "BACKGAMMON CLUTCH",
+"u": "https://sarahsbag.com/products/backgammon-clutch",
+"p": 555.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/BACKGAMMON-CLUTCH-FRONT_c6ba7738-c5bc-4e01-9937-da0e4d969b47.jpg?v=1770979875&width=400",
+"type": "Clutch",
+"tags": [],
+"in": true
+},
+{
+"t": "BACKGAMMON GREEN CLUTCH",
+"u": "https://sarahsbag.com/products/backgammon-green-clutch",
+"p": 555.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/BACKGAMMON-GREEN-CLUTCH-FRONT.jpg?v=1769678671&width=400",
+"type": "Clutch",
+"tags": [],
+"in": false
+},
+{
+"t": "CUSTOMIZED LYS CLASSIC BAG",
+"u": "https://sarahsbag.com/products/customized-lys-classic-bag",
+"p": 395.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/products/CUSTOMIZED-LYS-CLASSIC-BAG-FRONT.jpg?v=1774267411&width=400",
+"type": "Classic Bag",
+"tags": [],
+"in": true
+},
+{
+"t": "CUSTOMIZED CALLIGRAPHY GOLD ON BLACK CLASSIC BAG",
+"u": "https://sarahsbag.com/products/customized-calligraphy-gold-on-black-classic-bag",
+"p": 375.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/products/CUSTOMIZED-CALLIGRAPHY-GOLD-ON-BLACK-CLASSIC-BAG-FRONT.jpg?v=1777541757&width=400",
+"type": "Classic Bag",
+"tags": [],
+"in": true
+},
+{
+"t": "CHILI RED MARQUETRY",
+"u": "https://sarahsbag.com/products/chili-red-marquetry",
+"p": 585.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/CHILI-RED-MARQUETRY-FRONT.jpg?v=1777975832&width=400",
+"type": "Box Clutch",
+"tags": [],
+"in": true
+},
+{
+"t": "CHILI RED BOX CLUTCH",
+"u": "https://sarahsbag.com/products/chili-red-box-clutch",
+"p": 495.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/CHILI-RED-BOX-CLUTCH-FRONT.jpg?v=1785834463&width=400",
+"type": "Box Clutch",
+"tags": [
+"GLAM GUEST"
+],
+"in": true
+},
+{
+"t": "CHERRY BLOSSOM WALL ART",
+"u": "https://sarahsbag.com/products/cherry-blossom-wall-art",
+"p": 455.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/products/cherry-blossom-wall-art.jpg?v=1697789570&width=400",
+"type": "Wall Art",
+"tags": [],
+"in": true
+},
+{
+"t": "CHAMPAGNE BLACK LEATHER BOX CLUTCH",
+"u": "https://sarahsbag.com/products/champagne-black-leather-box-clutch",
+"p": 495.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/Champagne-black-leather-Box_328d58af-3fb7-4be1-9be5-dc0182f568fe.jpg?v=1719392892&width=400",
+"type": "Box Clutch",
+"tags": [],
+"in": true
+},
+{
+"t": "CAMION POUCH",
+"u": "https://sarahsbag.com/products/camion-pouch",
+"p": 195.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/CAMION-POUCH-FRONT.jpg?v=1778145357&width=400",
+"type": "Pouch",
+"tags": [
+"Bags"
+],
+"in": true
+},
+{
+"t": "CAMION CLASSIC BAG",
+"u": "https://sarahsbag.com/products/camion-classic-bag",
+"p": 225.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/products/CAMION-CLASSIC-BAG-FRONT.jpg?v=1786451433&width=400",
+"type": "Classic Bag",
+"tags": [
+"Bags"
+],
+"in": true
+},
+{
+"t": "CALLIGRAPHY SILVER CLASSIC BAG",
+"u": "https://sarahsbag.com/products/calligraphy-silver-classic-bag",
+"p": 295.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/CALLIGRAPHY-SILVER-CLASSIC-BAG-FRONT.jpg?v=1785747625&width=400",
+"type": "Classic Bag",
+"tags": [
+"Bags"
+],
+"in": true
+},
+{
+"t": "CALLIGRAPHY GOLD ON BLACK CLASSIC BAG",
+"u": "https://sarahsbag.com/products/calligraphy-gold-on-black-classic-bag",
+"p": 295.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/CALLIGRAPHY-GOLD-ON-BLACK-CLASSIC-BAG-FRONT.jpg?v=1772112227&width=400",
+"type": "Classic Bag",
+"tags": [
+"Bags"
+],
+"in": true
+},
+{
+"t": "CALLIGRAPHY GOLD CLASSIC BAG",
+"u": "https://sarahsbag.com/products/calligraphy-gold-classic-bag",
+"p": 295.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/calligraphy-gold-classic_0d4f7efa-2465-4bb5-aeac-bc24831d277a.jpg?v=1708428217&width=400",
+"type": "Classic Bag",
+"tags": [
+"Bags"
+],
+"in": true
+},
+{
+"t": "BONJUS ORANGE",
+"u": "https://sarahsbag.com/products/bonjus-orange",
+"p": 75.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/BONJUS-ORANGE-SIDE.jpg?v=1770293539&width=400",
+"type": "Shaped Clutch",
+"tags": [
+"Bags"
+],
+"in": true
+},
+{
+"t": "BONJUS ANANAS",
+"u": "https://sarahsbag.com/products/bonjus-ananas",
+"p": 75.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/BONJUS-ANANAS-SIDE-1.jpg?v=1770212843&width=400",
+"type": "Shaped Clutch",
+"tags": [
+"Bags"
+],
+"in": true
+},
+{
+"t": "HAPPINESS BLUE ON MEXICAN FLORAL CLASSIC BAG",
+"u": "https://sarahsbag.com/products/happiness-blue-on-mexican-floral-classic-bag",
+"p": 335.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/products/HAPPINESS-BLUE-ON-MEXICAN-FLORAL-CLASSIC-BAG-FRONT.jpg?v=1770968164&width=400",
+"type": "Classic Bag",
+"tags": [
+"Bags"
+],
+"in": true
+},
+{
+"t": "BLOOMING DAISIES GOLD WALL ART",
+"u": "https://sarahsbag.com/products/blooming-daisies-gold-wall-art",
+"p": 455.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/products/blooming-daisies-gold-wall-art.jpg?v=1697789636&width=400",
+"type": "Wall Art",
+"tags": [],
+"in": true
+},
+{
+"t": "BIRDS GOLD STRAW BOX CLUTCH",
+"u": "https://sarahsbag.com/products/birds-gold-straw-box-clutch",
+"p": 495.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/BIRDS-GOLD-STRAW-BOX-CLUTCH-FRONT.jpg?v=1772116064&width=400",
+"type": "Box Clutch",
+"tags": [
+"Bags",
+"CHIC BRIDESMAID"
+],
+"in": true
+},
+{
+"t": "BIRDS GOLD LOG LOVERS",
+"u": "https://sarahsbag.com/products/birds-gold-log-lovers",
+"p": 500.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/products/birds-gold-log-lovers.jpg?v=1697789643&width=400",
+"type": "Clutch",
+"tags": [
+"Bags",
+"COUTURE MOM"
+],
+"in": false
+},
+{
+"t": "BEDOUIN METALLIC GRACE CLUTCH",
+"u": "https://sarahsbag.com/products/bedouin-metallic-grace",
+"p": 455.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/BEDOUIN-GRACE-CLUTCH-FRONT_9697584d-716a-4704-a8cb-081a820520b2.jpg?v=1759234455&width=400",
+"type": "Clutch",
+"tags": [
+"Bags"
+],
+"in": true
+},
+{
+"t": "ATHENA TURQUOISE GOLD NECKLACE",
+"u": "https://sarahsbag.com/products/athena-turquoise-gold-necklace",
+"p": 145.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/products/athena-turquoise-gold-necklace.jpg?v=1697789668&width=400",
+"type": "Necklace",
+"tags": [],
+"in": true
+},
+{
+"t": "ATHENA CORAL GOLD NECKLACE",
+"u": "https://sarahsbag.com/products/athena-coral-gold-necklace",
+"p": 145.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/products/athena-coral-gold-necklace.jpg?v=1697789671&width=400",
+"type": "Necklace",
+"tags": [],
+"in": true
+},
+{
+"t": "ATHENA COBALT GOLD NECKLACE",
+"u": "https://sarahsbag.com/products/athena-cobalt-gold-necklace",
+"p": 145.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/products/ATHENA-COBALT-GOLD-NECKLACE-FRONT.jpg?v=1772462424&width=400",
+"type": "Necklace",
+"tags": [],
+"in": true
+},
+{
+"t": "ARABESQUE SILVER CLASSIC BAG",
+"u": "https://sarahsbag.com/products/arabesque-silver-classic",
+"p": 335.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/products/arabesque-silver-classic.jpg?v=1697789678&width=400",
+"type": "Classic Bag",
+"tags": [
+"Bags"
+],
+"in": true
+},
+{
+"t": "ARABESQUE SILVER BIG BOX CLUTCH",
+"u": "https://sarahsbag.com/products/arabesque-silver-big-box",
+"p": 555.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/ARABESQUE-SILVER-BIG-BOX-CLUTCH-FRONT.jpg?v=1771488605&width=400",
+"type": "Box Clutch",
+"tags": [
+"Bags",
+"GLAM GUEST"
+],
+"in": true
+},
+{
+"t": "ARABESQUE GOLD CLASSIC BAG",
+"u": "https://sarahsbag.com/products/arabesque-gold-classic",
+"p": 335.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/ARABESQUE-GOLD-CLASSIC-BAG-ON-MODEL.jpg?v=1771409396&width=400",
+"type": "Classic Bag",
+"tags": [
+"Bags",
+"GLAM GUEST"
+],
+"in": true
+},
+{
+"t": "ARABESQUE GOLD BIG BOX CLUTCH",
+"u": "https://sarahsbag.com/products/arabesque-gold-big-box",
+"p": 555.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/ARABESQUE-GOLD-BIG-BOX_6c3074fc-1378-4ce5-8a62-1a04dfec030e.jpg?v=1721032250&width=400",
+"type": "Box Clutch",
+"tags": [
+"Bags",
+"GLAM GUEST"
+],
+"in": true
+},
+{
+"t": "ARABESQUE EMERALD CLASSIC BAG",
+"u": "https://sarahsbag.com/products/arabesque-emerald-classic-bag",
+"p": 335.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/products/ARABESQUE-EMERALD-CLASSIC-BAG-FRONT.jpg?v=1772458670&width=400",
+"type": "Classic Bag",
+"tags": [
+"Bags"
+],
+"in": true
+},
+{
+"t": "AFRO MARQUETRY",
+"u": "https://sarahsbag.com/products/afro-marquetry",
+"p": 585.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/AFRO-MARQUETRY_d2091005-4672-4714-bf20-cecb48ac1042.jpg?v=1717590430&width=400",
+"type": "Box Clutch",
+"tags": [
+"Bags"
+],
+"in": false
 }
 ]
