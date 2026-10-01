@@ -1,5 +1,69 @@
 [
 {
+"t": "Beige Nude Eucerin Pouch - Gift",
+"u": "https://skinsociety.me/products/beige-nude-eucerin-pouch-gift",
+"p": 0.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/a85c22d9-484f-4171-90cd-a2f4cb11051c.png?v=1790752959&width=400",
+"type": "POSM",
+"tags": [
+"Category_POSM",
+"No-Sync",
+"POSM",
+"SEARCH_IGNORE"
+],
+"in": false
+},
+{
+"t": "Eucerin Even Pigment Perfector Cleansing Gel - Gift",
+"u": "https://skinsociety.me/products/eucerin-even-pigment-perfector-cleansing-gel-gift",
+"p": 0.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/05142742-6b6a-444d-98ad-c2477ca2d73c.png?v=1790753978&width=400",
+"type": "POSM",
+"tags": [
+"Category_POSM",
+"No-Sync",
+"POSM",
+"SEARCH_IGNORE"
+],
+"in": true
+},
+{
+"t": "Clinique Pink Heart Mirror - Gift",
+"u": "https://skinsociety.me/products/lancome-pink-heart-mirror-gift",
+"p": 0.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/7805d52e-c20e-46c0-81b8-3e821715b154.png?v=1790670899&width=400",
+"type": "POSM",
+"tags": [
+"Category_POSM",
+"No-Sync",
+"POSM",
+"SEARCH_IGNORE"
+],
+"in": true
+},
+{
+"t": "Clinique Pink 2n1 Mirror & Gloss Holder -Gift",
+"u": "https://skinsociety.me/products/lancome-pink-2n1-mirror-gloss-holder-gift",
+"p": 0.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/cfabf43c-c0f4-49ee-8f44-9efd73435eba.png?v=1790670739&width=400",
+"type": "POSM",
+"tags": [
+"Category_POSM",
+"No-Sync",
+"POSM",
+"SEARCH_IGNORE"
+],
+"in": true
+},
+{
 "t": "Miutine Eau de Parfum",
 "u": "https://skinsociety.me/products/miutine-eau-de-parfum",
 "p": 196.05,
@@ -182,8 +246,8 @@
 {
 "t": "Oil Control Dry Touch Ultra-Light UV Serum SPF50+",
 "u": "https://skinsociety.me/products/oil-control-dry-touch-ultra-light-uv-serum-spf50",
-"p": 38.96,
-"c": null,
+"p": 29.22,
+"c": 38.96,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/636fc302-d13b-43fe-8eb6-d7728a5048fd-1000x1000-zhhAM7BGA0nrYDHV2WHsjwdXPGxcLjWpYFM6a9Fa.webp?v=1790582153&width=400",
 "type": "Dermocosmetics",
@@ -192,7 +256,7 @@
 "Category_ Skin Care",
 "Category_Skin Care",
 "Dermocosmetics",
-"Loyalty Program",
+"MID20266",
 "new arrivals",
 "No-Sync",
 "Skin Care"
@@ -435,7 +499,7 @@
 "Pain & Cramps",
 "Parapharmacy"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Moringa Oleifera",
@@ -948,7 +1012,7 @@
 "No-Sync",
 "Parapharmacy"
 ],
-"in": true
+"in": false
 },
 {
 "t": "GlobiFer Iron Capsules",
@@ -1753,7 +1817,7 @@
 "Medical Skin Care",
 "new arrivals"
 ],
-"in": true
+"in": false
 },
 {
 "t": "True Water Deep Moisture Cream EX",
@@ -1947,7 +2011,7 @@
 "No-Sync",
 "The Ordinary"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Pha 5% Exfoliating and Hydrating Lip Serum",
@@ -2136,7 +2200,7 @@
 "Product Type_Gift Sets",
 "Sub Category_Gift Sets"
 ],
-"in": true
+"in": false
 },
 {
 "t": "PCA Skin Blemish Control Bar",
@@ -2196,7 +2260,7 @@
 "Sub Category_Treatments",
 "Treatments"
 ],
-"in": true
+"in": false
 },
 {
 "t": "PCA Skin Hyaluronic Acid Boosting Serum",
@@ -2572,7 +2636,7 @@
 "korean",
 "Loyalty Program"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Ladies Power Of You Eau de Parfum",
@@ -3152,8 +3216,8 @@
 {
 "t": "Magic Touch Concealer & Loose Setting Powder Duo",
 "u": "https://skinsociety.me/products/magic-touch-concealer-loose-setting-powder-duo",
-"p": 65.84,
-"c": 94.06,
+"p": 94.06,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/2_5d497857-eb03-4b3a-ad5e-fd0f8992a04d.png?v=1789119036&width=400",
 "type": "Luxury",
@@ -3247,7 +3311,7 @@
 "new arrivals",
 "No-Sync"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Dark Spot Correcting Glow Toner",
@@ -3383,7 +3447,7 @@
 "korean",
 "Loyalty Program"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Peel Shot Glow White Rice Peeling Ampoule",
@@ -3506,8 +3570,8 @@
 {
 "t": "Dermopure Duo Pack + Oil Control SPF50+ Gift",
 "u": "https://skinsociety.me/products/dermopure-duo-pack-oil-control-spf50-gift",
-"p": 39.29,
-"c": null,
+"p": 29.47,
+"c": 39.29,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/ChatGPTImageSep10_2026_11_53_48AM.png?v=1789030498&width=400",
 "type": "Dermocosmetics",
@@ -3546,8 +3610,8 @@
 {
 "t": "Hair Styling Protective Detangling Care",
 "u": "https://skinsociety.me/products/hair-styling-protective-detangling-care",
-"p": 19.5,
-"c": 30.0,
+"p": 30.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/shop-cb-06744-01-hair-styling-detangling-protecting-care---250ml--1.jpg?v=1789028693&width=400",
 "type": "Dermocosmetics",
@@ -3558,8 +3622,8 @@
 "Hair Care",
 "Hair Expert",
 "Hair Protection",
-"new arrivals",
-"No-Sync"
+"Loyalty Program",
+"new arrivals"
 ],
 "in": true
 },
@@ -4806,86 +4870,6 @@
 "Parapharmacy",
 "Product Type_Protein Bars",
 "Protein Bars"
-],
-"in": true
-},
-{
-"t": "Infallible Full Wear Waterproof Concealer & 32H Freshwear Longwear Liquid Foundation Duo",
-"u": "https://skinsociety.me/products/infallible-full-wear-waterproof-concealer-32h-freshwear-longwear-liquid-foundation-duo",
-"p": 24.82,
-"c": 31.02,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/Artboard8copy.jpg?v=1788787663&width=400",
-"type": "Casual",
-"tags": [
-"BF25",
-"Brand_L'Oréal Paris",
-"BTS26",
-"Bundle",
-"Casual",
-"Casual Make Up",
-"Category_Make Up",
-"Concealer"
-],
-"in": true
-},
-{
-"t": "Lash Paradise Mascara & Telescopic Lift Washable Mascara Duo",
-"u": "https://skinsociety.me/products/lash-paradise-mascara-telescopic-lift-washable-mascara-duo",
-"p": 25.0,
-"c": 29.39,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/Artboard7copy.jpg?v=1788786887&width=400",
-"type": "Casual",
-"tags": [
-"Brand_L'Oréal Paris",
-"BTS26",
-"Bundle",
-"Casual",
-"Casual Make Up",
-"No-Sync",
-"Product Type_Value Deals",
-"Sub Category_Value Deals"
-],
-"in": true
-},
-{
-"t": "Infallible Full Wear Waterproof Concealer & Infallible 24H Tinted Serum & Infaillible 24H Power Glow Loose Powder Trio",
-"u": "https://skinsociety.me/products/infallible-full-wear-waterproof-concealer-infallible-24h-tinted-serum-infaillible-24h-power-glow-loose-powder-trio",
-"p": 37.43,
-"c": 49.9,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/Artboard3copy.jpg?v=1788785896&width=400",
-"type": "Casual",
-"tags": [
-"BTS26",
-"Bundle",
-"Casual",
-"Casual Make Up",
-"No-Sync",
-"Product Type_Value Deals",
-"Sub Category_Value Deals",
-"SubCategory_Value Deals"
-],
-"in": true
-},
-{
-"t": "Infallible Foundation in a Powder & Waterproof Concealer Duo",
-"u": "https://skinsociety.me/products/infallible-foundation-in-a-powder-waterproof-concealer-duo",
-"p": 23.7,
-"c": 31.6,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/Artboard2copy.jpg?v=1788785585&width=400",
-"type": "Casual",
-"tags": [
-"beauty25",
-"BF25",
-"BTS26",
-"Bundle",
-"Casual",
-"Casual Make Up",
-"Category_Make Up",
-"Concealer"
 ],
 "in": true
 }

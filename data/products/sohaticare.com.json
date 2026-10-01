@@ -1,5 +1,56 @@
 [
 {
+"t": "L'Oréal Paris Infallible 24H-MATTE Cover",
+"u": "https://sohaticare.com/products/loreal-paris-infallible-24h-matte-cover",
+"p": 16.9,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/3600523784400.webp?v=1721809373&width=400",
+"type": "",
+"tags": [
+"CPD.LOOLIA25",
+"CPD_PRICEUPDATE_3.10.24",
+"foundation",
+"foundation cream",
+"foundation with spf",
+"Infallible range",
+"Matte Foundation",
+"Mattifying Care"
+],
+"in": true
+},
+{
+"t": "L'Oréal Paris Matte Signature Liquid Eyeliner",
+"u": "https://sohaticare.com/products/loreal-paris-matte-signature-liquid-eyeliner",
+"p": 0.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/products/965x1249_1-ink.webp?v=1674671266&width=400",
+"type": "Eyeliner",
+"tags": [
+"CPD-24FEB",
+"CPD.LOOLIA25",
+"CPD_15%_5/15/23",
+"CPD_20%_5/12/23",
+"CPD_35%OFF_FEB24",
+"CPD_BUY3GET25%_8/11/2023",
+"CPD_SALE_20%_6/8/2023",
+"CPS_FLASH_SALE20%"
+],
+"in": true
+},
+{
+"t": "L'Oréal Paris Revitalift Triple Power Eye Bag Instant Corrector with Gel-to-tape Technology To Depuff, Smooth, And Firm Eye Bags, 15ml",
+"u": "https://sohaticare.com/products/loreal-paris-revitalift-triple-power-eye-bag-instant-corrector-with-gel-to-tape-technology-to-depuff-smooth-and-firm-eye-bags-15ml",
+"p": 16.2,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/1-_Revitalift_Triple_Power_-_Eye_Tape_3600524186234_724a9fab-8b32-4952-80fc-56b9099309aa.jpg?v=1785835440&width=400",
+"type": "Eye Cream",
+"tags": [],
+"in": true
+},
+{
 "t": "TXA 2.5% Intensive Brightening Cream",
 "u": "https://sohaticare.com/products/txa-2-5-intensive-brightening-cream",
 "p": 0.0,
@@ -800,7 +851,7 @@
 "pharma-week-sept26",
 "Pharma_week_26"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Buy CeraVe Foaming Cleanser & get a FREE mini + Pouch",
@@ -820,7 +871,7 @@
 "pharma-week-sept26",
 "Pharma_week_26"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Buy DermoPure Clinical Purifying Cleanser 200 ml + Purifying Toner 200ml & get a FREE Oil Control Sun Gel-Cream Dry Touch SPF50+ 50ml",
@@ -3005,7 +3056,7 @@
 "Giftset",
 "summer_bundles_skincare-aug26"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Buy one get one: Phyto Oil Control Shampoo 250ML",
@@ -3620,38 +3671,5 @@
 "type": "Self Tanner",
 "tags": [],
 "in": true
-},
-{
-"t": "Detangling Shampoo With Bisabolol 500ML",
-"u": "https://sohaticare.com/products/detangling-shampoo-with-bisabolol-500ml",
-"p": 18.59,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/Sebamed-BabyDetanglingShampoo500ml.webp?v=1785396435&width=400",
-"type": "Shampoo",
-"tags": [],
-"in": true
-},
-{
-"t": "SkinCeuticals A.G.E Interrupter Ultra Skin Lifting & Tightening Serum 30ml",
-"u": "https://sohaticare.com/products/skinceuticals-a-g-e-interrupter-ultra-skin-lifting-tightening-serum-30ml",
-"p": 154.92,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/3337875917919_1.png?v=1785237853&width=400",
-"type": "Serum",
-"tags": [],
-"in": true
-},
-{
-"t": "Triple Collagen Cream 50ML",
-"u": "https://sohaticare.com/products/triple-collagen-cream-50ml",
-"p": 25.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/K-Beauty-medicube-triple-collagen-cream-50-ml-mit-EAN-880256118977.webp?v=1785307992&width=400",
-"type": "Cream",
-"tags": [],
-"in": false
 }
 ]
