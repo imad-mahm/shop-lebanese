@@ -24,6 +24,7 @@ SYNC_LIMIT = int(os.environ.get("SYNC_LIMIT", 8))
 # Discovery rules
 ACCEPT_SCORE = 4              # "Lebanese shop" confidence needed to list a store
 RECHECK_REJECTED_DAYS = 60
+REFRESH_STORE_DAYS = 7
 RETRY_ERROR_HOURS = 24
 MAX_TRIES = 3
 MAX_OUTBOUND_PER_PAGE = 40
@@ -32,6 +33,7 @@ SEARCH_EVERY_MINUTES = 30     # Brave free tier is 2,000 queries/month
 
 # Catalogs
 RESYNC_HOURS = 24
-MAX_PRODUCTS_PER_STORE = 250
-INDEX_PRODUCTS_PER_STORE = 40  # products per store shipped to the website
+MAX_PRODUCTS_PER_STORE = 3000
+CATALOG_SECONDS_PER_STORE = float(os.environ.get("CATALOG_SECONDS", 120))  # stop paging a huge catalog after this; the rest comes next sync
+SYNC_WORKERS = 6
 DEAD_AFTER_FAILS = 4

@@ -2,13 +2,20 @@
 import json
 from datetime import date
 
-from .config import INDEX_PRODUCTS_PER_STORE, SITE_DATA
+from urllib.parse import urlsplit
+
+from .config import SITE_DATA
 from .storage import load, load_products, now
 
 
 def _write(name, obj):
     SITE_DATA.mkdir(parents=True, exist_ok=True)
     (SITE_DATA / name).write_text(json.dumps(obj, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+
+
+def _short(url, origin):
+    """Drop the shop's own origin from product/image URLs; the site re-adds it. Keeps products.json small."""
+    return url[len(origin):] if origin and url.startswith(origin + "/") else url
 
 
 def build():
@@ -41,11 +48,15 @@ def build():
             "feat": feat_until >= today,
         })
         idx = len(out_stores) - 1
+        parts = urlsplit(s.get("url", ""))
+        origin = f"{parts.scheme}://{parts.netloc}" if parts.netloc else ""
         items = [p for p in load_products(key) if p.get("t") and p.get("u")]
         items.sort(key=lambda p: (not p.get("in", True), not p.get("img")))
-        for p in items[:INDEX_PRODUCTS_PER_STORE]:
-            products.append([idx, p["t"], p.get("p"), p.get("c"), p.get("cur", ""), p.get("img", ""), p["u"],
-                             1 if p.get("in", True) else 0])
+        if not out_stores[idx]["img"]:  # no share image published: use the shop's first product photo as banner
+            out_stores[idx]["img"] = next((p["img"] for p in items if p.get("img")), "")
+        for p in items:
+            products.append([idx, p["t"], p.get("p"), p.get("c"), p.get("cur", ""), _short(p.get("img", ""), origin),
+                             _short(p["u"], origin), 1 if p.get("in", True) else 0])
 
     candidates = load("candidates.json", {})
     status_counts = {}

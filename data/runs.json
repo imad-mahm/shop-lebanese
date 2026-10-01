@@ -264,29 +264,21 @@
   "total_stores": 44
  },
  {
-  "at": "2026-09-30T16:30:08+00:00",
-  "new_candidates": 41,
-  "probed": 30,
+  "at": "2026-09-30T16:22:23+00:00",
+  "new_candidates": 0,
+  "probed": 0,
   "new_stores": [],
-  "synced": 8,
-  "sources": {
-   "seeds": 0,
-   "submissions": 0,
-   "removals": 0,
-   "hubs": 0,
-   "search": 0,
-   "commoncrawl": 0,
-   "links": 41
-  },
-  "seconds": 126,
+  "synced": 38,
+  "sources": {},
+  "seconds": 62,
   "total_stores": 44
  },
  {
-  "at": "2026-09-30T20:56:46+00:00",
-  "new_candidates": 44,
-  "probed": 30,
+  "at": "2026-09-30T16:25:31+00:00",
+  "new_candidates": 0,
+  "probed": 50,
   "new_stores": [],
-  "synced": 8,
+  "synced": 38,
   "sources": {
    "seeds": 0,
    "submissions": 0,
@@ -294,45 +286,19 @@
    "hubs": 0,
    "search": 0,
    "commoncrawl": 0,
-   "links": 44
+   "links": 0
   },
-  "seconds": 43,
+  "seconds": 305,
   "total_stores": 44
  },
  {
-  "at": "2026-10-01T00:20:23+00:00",
-  "new_candidates": 20,
-  "probed": 30,
+  "at": "2026-09-30T16:39:18+00:00",
+  "new_candidates": 0,
+  "probed": 0,
   "new_stores": [],
-  "synced": 8,
-  "sources": {
-   "seeds": 0,
-   "submissions": 0,
-   "removals": 0,
-   "hubs": 0,
-   "search": 0,
-   "commoncrawl": 0,
-   "links": 20
-  },
-  "seconds": 115,
-  "total_stores": 44
- },
- {
-  "at": "2026-10-01T06:15:48+00:00",
-  "new_candidates": 70,
-  "probed": 30,
-  "new_stores": [],
-  "synced": 8,
-  "sources": {
-   "seeds": 0,
-   "submissions": 0,
-   "removals": 0,
-   "hubs": 0,
-   "search": 0,
-   "commoncrawl": 0,
-   "links": 70
-  },
-  "seconds": 110,
+  "synced": 38,
+  "sources": {},
+  "seconds": 1149,
   "total_stores": 44
  }
 ]

@@ -88,7 +88,7 @@ select { font: inherit; font-size: 14px; color: var(--text); background: var(--s
 .shop:hover { transform: translateY(-2px); }
 .shop.featured { border-color: var(--gold); box-shadow: 0 0 0 1px var(--gold), var(--shadow); }
 .cover { aspect-ratio: 16/8; background: var(--brand-soft) center/cover no-repeat; position: relative; }
-.cover .ico { position: absolute; left: 14px; bottom: -18px; width: 42px; height: 42px; border-radius: 10px; background: var(--surface) center/70% no-repeat; border: 1px solid var(--line); }
+.cover .ico { display: grid; place-items: center; font-weight: 700; color: var(--brand); position: absolute; left: 14px; bottom: -18px; width: 42px; height: 42px; border-radius: 10px; background: var(--surface) center/70% no-repeat; border: 1px solid var(--line); }
 .cover .initial { position: absolute; inset: 0; display: grid; place-items: center; font-size: 42px; font-weight: 700; color: var(--brand); opacity: .5; }
 .shop .body { padding: 24px 14px 14px; display: flex; flex-direction: column; gap: 6px; flex: 1; }
 .shop h3 { margin: 0; font-size: 16px; line-height: 1.3; overflow-wrap: anywhere; }
@@ -136,7 +136,7 @@ dialog::backdrop { background: rgba(0,0,0,.45); }
 .dlg { padding: 22px; position: relative; }
 .close { position: absolute; top: 10px; right: 14px; border: 0; background: transparent; color: var(--muted); font-size: 28px; cursor: pointer; line-height: 1; }
 .dlg-head { display: flex; gap: 14px; align-items: center; padding-right: 30px; }
-.dlg-head .ico { width: 56px; height: 56px; border-radius: 12px; border: 1px solid var(--line); background: var(--brand-soft) center/70% no-repeat; flex: none; }
+.dlg-head .ico { display: grid; place-items: center; font-size: 22px; font-weight: 700; color: var(--brand); width: 56px; height: 56px; border-radius: 12px; border: 1px solid var(--line); background: var(--brand-soft) center/70% no-repeat; flex: none; }
 .dlg-head h2 { margin: 0; font-size: 22px; }
 .links { display: flex; gap: 8px; flex-wrap: wrap; margin: 14px 0; }
 .dlg .grid.products { grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); }

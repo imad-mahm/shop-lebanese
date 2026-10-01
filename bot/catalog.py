@@ -1,10 +1,26 @@
 """Pull public product catalogs (Shopify /products.json, WooCommerce Store API)."""
 import html as htmllib
 import re
+import time
 from urllib.parse import urljoin
 
 from . import http
-from .config import MAX_PRODUCTS_PER_STORE
+from .config import CATALOG_SECONDS_PER_STORE, MAX_PRODUCTS_PER_STORE
+
+
+CATALOG_TIMEOUT = 90          # a 250-product page can be several MB on a slow shop
+CATALOG_MAX_BYTES = 25_000_000
+SHOPIFY_DELAY = 4.0  # all Shopify stores share one rate limit per visitor, so pace them together
+
+
+class Transient(Exception):
+    """Rate limited / server error / network failure: keep the old catalog and retry next sync."""
+
+
+def _checked(page):
+    if page is None or page.status == 429 or page.status >= 500:
+        raise Transient(page.status if page else "network")
+    return page
 
 
 def _num(v):
@@ -14,12 +30,16 @@ def _num(v):
         return None
 
 
-def _shopify(base, currency):
+def _shopify(base, currency, deadline):
     out = []
-    for page_no in (1, 2):
-        page = http.get(urljoin(base, f"/products.json?limit=250&page={page_no}"))
-        if not page or not page.ok:
+    for page_no in range(1, MAX_PRODUCTS_PER_STORE // 250 + 2):
+        if time.monotonic() > deadline:
             break
+        page = _checked(http.get(urljoin(base, f"/products.json?limit=250&page={page_no}"),
+                                 bucket="shopify", bucket_delay=SHOPIFY_DELAY,
+                                 timeout=CATALOG_TIMEOUT, max_bytes=CATALOG_MAX_BYTES))
+        if not page.ok:
+            break  # e.g. 401/404: the store keeps its catalog private
         items = page.json().get("products", [])
         for p in items:
             variants = p.get("variants") or [{}]
@@ -43,12 +63,15 @@ def _shopify(base, currency):
     return out[:MAX_PRODUCTS_PER_STORE]
 
 
-def _woo(base):
+def _woo(base, deadline):
     out = []
     for path in ("/wp-json/wc/store/v1/products", "/wp-json/wc/store/products"):
-        for page_no in (1, 2, 3):
-            page = http.get(urljoin(base, f"{path}?per_page=100&page={page_no}"))
-            if not page or not page.ok:
+        for page_no in range(1, MAX_PRODUCTS_PER_STORE // 100 + 2):
+            if time.monotonic() > deadline:
+                break
+            page = _checked(http.get(urljoin(base, f"{path}?per_page=100&page={page_no}"),
+                                     timeout=CATALOG_TIMEOUT, max_bytes=CATALOG_MAX_BYTES))
+            if not page.ok:
                 break
             try:
                 items = page.json()
@@ -88,13 +111,15 @@ def _woo(base):
 def fetch(store):
     """Return a product list, [] for platforms without a public catalog, or None on failure."""
     base = store.get("url") or f"https://{store['domain']}/"
+    deadline = time.monotonic() + CATALOG_SECONDS_PER_STORE
     try:
         if store.get("platform") == "shopify":
-            return _shopify(base, store.get("currency"))
+            return _shopify(base, store.get("currency"), deadline)
         if store.get("platform") == "woocommerce":
-            return _woo(base)
+            return _woo(base, deadline)
     except http.Blocked:
         return []
-    except ValueError:
+    except (Transient, ValueError) as e:
+        print(f"[sync] {store['domain']}: fetch failed ({type(e).__name__}: {e}); keeping previous catalog")
         return None
     return []

@@ -38,7 +38,14 @@
     const get = (f) => fetch(`data/${f}?v=${Date.now() / 6e5 | 0}`).then((r) => (r.ok ? r.json() : null)).catch(() => null);
     const [s, p, m] = await Promise.all([get("stores.json"), get("products.json"), get("meta.json")]);
     stores = (s || []).map((x, i) => ({ ...x, i, _k: norm([x.n, x.id, x.d, (x.cats || []).join(" "), x.ig].join(" ")) }));
-    products = (p || []).map((r) => ({ s: r[0], t: r[1], p: r[2], c: r[3], cur: r[4], img: r[5], u: r[6], in: r[7], _k: norm(r[1]) }));
+    // Product/image URLs are stored relative to the shop's own site to keep the file small
+    const abs = (u, s) => {
+      if (!u || /^https?:\/\//i.test(u) || !s || !s.url) return u;
+      try { return new URL(u, s.url).href; } catch { return ""; }
+    };
+    products = (p || []).map((r) => ({
+      s: r[0], t: r[1], p: r[2], c: r[3], cur: r[4], img: abs(r[5], stores[r[0]]), u: abs(r[6], stores[r[0]]), in: r[7], _k: norm(r[1]),
+    }));
     meta = m || {};
     for (const pr of products) if (stores[pr.s]) pr._k += " " + stores[pr.s]._k.slice(0, 60);
     renderStatic();
@@ -131,7 +138,7 @@
       <div class="cover" style="background-image:${cssUrl(s.img)}">
         ${s.img ? "" : `<div class="initial">${initial}</div>`}
         ${s.feat ? `<span class="badge feat">★ Featured</span>` : isNew ? `<span class="badge new">New</span>` : ""}
-        <div class="ico" style="background-image:${cssUrl(s.ico)}"></div>
+        <div class="ico" style="background-image:${cssUrl(s.ico)}">${s.ico ? "" : initial}</div>
       </div>
       <div class="body">
         <h3>${esc(s.n)}</h3>
@@ -183,7 +190,8 @@
   function openShop(i) {
     const s = stores[i];
     if (!s) return;
-    const items = products.filter((p) => p.s === s.i).slice(0, 24);
+    const items = products.filter((p) => p.s === s.i);
+    let shownInShop = PAGE;
     const links = [
       s.url && s.plat !== "instagram" ? `<a class="btn" href="${esc(safeUrl(s.url))}" target="_blank" rel="noopener">Visit website</a>` : "",
       s.ig ? `<a class="btn btn-ghost" href="https://instagram.com/${encodeURIComponent(s.ig)}" target="_blank" rel="noopener">Instagram</a>` : "",
@@ -194,14 +202,22 @@
     const pay = (s.pay || []).map((k) => `<span class="tag gray">${esc(PAY_LABEL[k] || k)}</span>`).join("");
     $("dlgBody").innerHTML = `
       <div class="dlg-head">
-        <div class="ico" style="background-image:${cssUrl(s.ico || s.img)}"></div>
+        <div class="ico" style="background-image:${cssUrl(s.ico)}">${s.ico ? "" : esc((s.n || "?").trim().charAt(0).toUpperCase())}</div>
         <div><h2>${esc(s.n)}</h2><div class="domain">${esc(s.plat === "instagram" ? "@" + s.ig : s.id)}${s.ver ? "" : " · self-submitted"}</div></div>
       </div>
       ${s.d ? `<p>${esc(s.d)}</p>` : ""}
       <div class="tags">${(s.cats || []).map((c) => `<span class="tag">${esc(c)}</span>`).join("")}${pay}</div>
       <div class="links">${links}</div>
-      ${items.length ? `<h3>Products</h3><div class="grid products">${items.map(productCard).join("")}</div>` : ""}
+      ${items.length ? `<h3>Products <span class="muted">(${items.length.toLocaleString()})</span></h3>
+        <div class="grid products" id="dlgProducts">${items.slice(0, shownInShop).map(productCard).join("")}</div>
+        <div class="more"><button id="dlgMore" class="btn btn-ghost"${items.length > shownInShop ? "" : " hidden"}>Show more</button></div>` : ""}
       <p class="claim">Is this your shop? <a href="#owners" onclick="this.closest('dialog').close()">Get it featured</a> · <a href="${esc(issueUrl("remove-shop.yml"))}" target="_blank" rel="noopener">Request removal</a></p>`;
+    const more = $("dlgMore");
+    if (more) more.addEventListener("click", () => {
+      $("dlgProducts").insertAdjacentHTML("beforeend", items.slice(shownInShop, shownInShop + PAGE).map(productCard).join(""));
+      shownInShop += PAGE;
+      more.hidden = items.length <= shownInShop;
+    });
     $("shopDialog").showModal();
     history.replaceState(null, "", `#shop=${encodeURIComponent(s.id)}`);
   }

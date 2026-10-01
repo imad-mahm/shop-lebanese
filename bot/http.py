@@ -51,22 +51,23 @@ def _session():
     return s
 
 
-def _wait_turn(host):
+def _wait_turn(host, delay=PER_HOST_DELAY):
     with _hit_lock:
         now = time.monotonic()
-        slot = max(now, _last_hit.get(host, 0.0) + PER_HOST_DELAY)
+        slot = max(now, _last_hit.get(host, 0.0) + delay)
         _last_hit[host] = slot
     delay = slot - time.monotonic()
     if delay > 0:
         time.sleep(delay)
 
 
-def _raw_get(url, timeout, headers=None):
-    host = urlsplit(url).netloc
-    _wait_turn(host)
+def _raw_get(url, timeout, headers=None, bucket=None, bucket_delay=None, max_bytes=MAX_BYTES):
+    _wait_turn(urlsplit(url).netloc)
+    if bucket:  # e.g. every Shopify store shares one rate limit per visitor IP
+        _wait_turn(bucket, bucket_delay or PER_HOST_DELAY)
     try:
         with _session().get(url, timeout=timeout, stream=True, allow_redirects=True, headers=headers) as r:
-            body = r.raw.read(MAX_BYTES, decode_content=True)
+            body = r.raw.read(max_bytes, decode_content=True)
             ctype = r.headers.get("content-type", "")
             enc = r.encoding if "charset" in ctype.lower() else "utf-8"
             return Page(r.status_code, r.url, r.headers, body, enc)
@@ -96,8 +97,20 @@ def _robots_for(url):
     return rp
 
 
-def get(url, timeout=TIMEOUT, check_robots=True, headers=None):
-    """Return a Page, or None on network failure. Raises Blocked if robots.txt forbids it."""
+def get(url, timeout=TIMEOUT, check_robots=True, headers=None, bucket=None, bucket_delay=None, retries=3,
+        max_bytes=MAX_BYTES):
+    """Return a Page, or None on network failure. Raises Blocked if robots.txt forbids it.
+
+    On HTTP 429 (rate limited) it backs off, honouring Retry-After, and tries again."""
     if check_robots and not _robots_for(url).can_fetch(UA, url):
         raise Blocked(url)
-    return _raw_get(url, timeout, headers)
+    for attempt in range(retries + 1):
+        page = _raw_get(url, timeout, headers, bucket, bucket_delay, max_bytes)
+        if page is None or page.status != 429 or attempt == retries:
+            return page
+        try:
+            wait = min(float(page.headers.get("retry-after", "")), 60)
+        except ValueError:
+            wait = 8 * (attempt + 1)
+        time.sleep(wait)
+    return page

@@ -115,6 +115,24 @@ def socials(page_html):
     return out
 
 
+def find_logo(page_html):
+    """Best square-ish logo the site publishes: schema.org logo > apple-touch-icon > biggest favicon."""
+    m = re.search(r'"logo"\s*:\s*(?:\{[^}]*?"url"\s*:\s*)?"(https?:[^"]+|/[^"]+)"', page_html)
+    if m:
+        return m.group(1).replace("\\/", "/")
+    best, best_size = None, -1
+    for tag in re.findall(r"<link\b[^>]*>", page_html, re.I):
+        rel = re.search(r"""rel\s*=\s*["']([^"']+)["']""", tag, re.I)
+        href = re.search(r"""href\s*=\s*["']([^"']+)["']""", tag, re.I)
+        if not rel or not href or "icon" not in rel.group(1).lower() or "mask-icon" in rel.group(1).lower():
+            continue
+        size = re.search(r"""sizes\s*=\s*["'](\d+)x\d+""", tag, re.I)
+        score = int(size.group(1)) if size else (180 if "apple-touch" in rel.group(1).lower() else 16)
+        if score > best_size:
+            best, best_size = htmllib.unescape(href.group(1)), score
+    return best
+
+
 def outbound_domains(page_html, own):
     found = []
     for href in _HREF.findall(page_html):
@@ -195,7 +213,7 @@ def probe(domain):
     shop_meta = None
     if platform == "shopify":
         try:
-            m = http.get(urljoin(base, "/meta.json"))
+            m = http.get(urljoin(base, "/meta.json"), bucket="shopify", bucket_delay=4.0)
             if m and m.ok:
                 shop_meta = m.json()
         except (http.Blocked, ValueError):
@@ -227,9 +245,8 @@ def probe(domain):
     if AGENCY.search(f"{name_raw} {desc} {title.group(1) if title else ''}"):
         return {"status": "rejected", "reason": "web/marketing agency, not a shop (its links are still followed)",
                 "score": score, "links": links}
-    image = meta_content(raw, "og:image")
-    icon = re.search(r"""<link[^>]+rel=["'][^"']*icon[^"']*["'][^>]*>""", raw, re.I)
-    icon_href = re.search(r"""href=["']([^"']+)["']""", icon.group(0)) if icon else None
+    image = meta_content(raw, "og:image") or meta_content(raw, "twitter:image")
+    logo = find_logo(raw)
 
     store = {
         "domain": domain,
@@ -237,7 +254,7 @@ def probe(domain):
         "name": clean_name(htmllib.unescape(name_raw), domain),
         "desc": re.sub(r"\s+", " ", desc)[:300],
         "image": urljoin(base, image) if image else "",
-        "icon": urljoin(base, icon_href.group(1)) if icon_href else "",
+        "icon": urljoin(base, logo) if logo else "",
         "platform": platform,
         "score": score,
         "why": why,

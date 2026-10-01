@@ -14,8 +14,8 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from . import catalog, sources
 from .build import build
 from .categories import categorize
-from .config import (DEAD_AFTER_FAILS, MAX_TRIES, PROBE_LIMIT, PROBE_WORKERS, RECHECK_REJECTED_DAYS,
-                     RESYNC_HOURS, RETRY_ERROR_HOURS, RUN_BUDGET_SECONDS, SYNC_LIMIT)
+from .config import (DEAD_AFTER_FAILS, MAX_TRIES, PROBE_LIMIT, PROBE_WORKERS, RECHECK_REJECTED_DAYS, REFRESH_STORE_DAYS,
+                     RESYNC_HOURS, RETRY_ERROR_HOURS, RUN_BUDGET_SECONDS, SYNC_LIMIT, SYNC_WORKERS)
 from .detect import probe
 from .domains import ignored, registrable
 from .storage import (age_hours, append_list, delete_products, load, now, read_list, save, save_products)
@@ -50,6 +50,8 @@ class Bot:
             return c["tries"] < MAX_TRIES and age_hours(c.get("checked")) >= RETRY_ERROR_HOURS
         if c["status"] == "rejected":
             return age_hours(c.get("checked")) >= RECHECK_REJECTED_DAYS * 24
+        if c["status"] == "store":  # weekly refresh: new logo/banner/description, or drop it if it closed
+            return age_hours(c.get("checked")) >= REFRESH_STORE_DAYS * 24
         return False
 
     def _priority(self, item):
@@ -200,10 +202,12 @@ class Bot:
         due = [s for s in self.stores.values()
                if s.get("platform") in ("shopify", "woocommerce") and age_hours(s.get("synced")) >= RESYNC_HOURS]
         due.sort(key=lambda s: s.get("synced") or "")
-        for s in due[:limit]:
-            if self.time_left() < 20:
-                break
-            items = catalog.fetch(s)
+        due = due[:limit]
+        if not due or self.time_left() < 60:
+            return
+        with ThreadPoolExecutor(SYNC_WORKERS) as pool:  # different shops in parallel; each shop stays rate-limited
+            results = list(pool.map(lambda s: (s, catalog.fetch(s)), due))
+        for s, items in results:
             if items is None or (not items and s.get("product_count")):
                 s["fails"] = s.get("fails", 0) + 1
                 if s["fails"] >= DEAD_AFTER_FAILS:
