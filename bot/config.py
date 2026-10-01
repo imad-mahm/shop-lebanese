@@ -16,7 +16,7 @@ PER_HOST_DELAY = 1.0          # seconds between requests to the same host
 MAX_BYTES = 3_000_000         # never download more than this per response
 
 # Per-run budgets (a run happens every ~10 minutes on GitHub Actions)
-RUN_BUDGET_SECONDS = float(os.environ.get("BOT_BUDGET", 360))
+RUN_BUDGET_SECONDS = float(os.environ.get("BOT_BUDGET", 420))
 PROBE_LIMIT = int(os.environ.get("PROBE_LIMIT", 30))
 PROBE_WORKERS = 6
 SYNC_LIMIT = int(os.environ.get("SYNC_LIMIT", 8))
@@ -34,6 +34,6 @@ SEARCH_EVERY_MINUTES = 30     # Brave free tier is 2,000 queries/month
 # Catalogs
 RESYNC_HOURS = 24
 MAX_PRODUCTS_PER_STORE = 3000
-CATALOG_SECONDS_PER_STORE = float(os.environ.get("CATALOG_SECONDS", 120))  # stop paging a huge catalog after this; the rest comes next sync
+CATALOG_SECONDS_PER_STORE = float(os.environ.get("CATALOG_SECONDS", 240))  # stop paging a huge catalog after this; the rest comes next sync
 SYNC_WORKERS = 6
 DEAD_AFTER_FAILS = 4
