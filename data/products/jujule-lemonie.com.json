@@ -1,5 +1,20 @@
 [
 {
+"t": "Kay Pants - Black",
+"u": "https://www.jujule-lemonie.com/products/kay-pants-black",
+"p": 225.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0620/6980/1212/files/KayPants-Black.png?v=1790751288&width=400",
+"type": "",
+"tags": [
+"bottomwear",
+"evening",
+"pants"
+],
+"in": true
+},
+{
 "t": "Parachute Dress - Khaki",
 "u": "https://www.jujule-lemonie.com/products/parachute-dress-khaki",
 "p": 175.0,
@@ -3089,7 +3104,7 @@
 "in": true
 },
 {
-"t": "Mila Chemise - Blue",
+"t": "Mila Chemise - Petrol Blue",
 "u": "https://www.jujule-lemonie.com/products/mila-chemise-blue",
 "p": 105.0,
 "c": null,
@@ -3666,19 +3681,5 @@
 "knitwear"
 ],
 "in": false
-},
-{
-"t": "Jujule Joy Box",
-"u": "https://www.jujule-lemonie.com/products/jujule-joy-box",
-"p": 55.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0620/6980/1212/files/IMG-20251215-WA0017.jpg?v=1765807481&width=400",
-"type": "",
-"tags": [
-"accessories",
-"gift"
-],
-"in": true
 }
 ]

@@ -298,5 +298,23 @@
   },
   "seconds": 43,
   "total_stores": 44
+ },
+ {
+  "at": "2026-10-01T00:20:23+00:00",
+  "new_candidates": 20,
+  "probed": 30,
+  "new_stores": [],
+  "synced": 8,
+  "sources": {
+   "seeds": 0,
+   "submissions": 0,
+   "removals": 0,
+   "hubs": 0,
+   "search": 0,
+   "commoncrawl": 0,
+   "links": 20
+  },
+  "seconds": 115,
+  "total_stores": 44
  }
 ]
