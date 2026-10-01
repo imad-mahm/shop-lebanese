@@ -639,7 +639,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/FallinLove2.webp?v=1760486700&width=400",
 "type": "Flowers",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Harvest Festival",
@@ -1122,7 +1122,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/LilacHugs.jpg?v=1753950429&width=400",
 "type": "Flowers",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Trust our Florists",
@@ -1667,13 +1667,13 @@
 {
 "t": "Sablés Gourmets Mini Box",
 "u": "https://exotica.com/products/sables-gourmets-mini-box",
-"p": 7.0,
+"p": 8.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/sables_mini.jpg?v=1779106320&width=400",
 "type": "Add-Ons",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Mionetto Prosecco Rosé Mini",
@@ -3171,7 +3171,7 @@
 {
 "t": "Sablés Gourmets Large Box",
 "u": "https://exotica.com/products/sables-gourmets-large-box",
-"p": 26.0,
+"p": 30.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/DarkMilkRocher_SablesGourmet.webp?v=1781262306&width=400",
@@ -3686,6 +3686,2651 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Logan_round_brown_xs.jpg?v=1763044168&width=400",
 "type": "Pots & Vases",
 "tags": [],
+"in": true
+},
+{
+"t": "Rectangular Planter Pot - Light Grey",
+"u": "https://exotica.com/products/rectangular-planter-pot-light-grey",
+"p": 140.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Logan_rect_light_gray_s.jpg?v=1763044878&width=400",
+"type": "Pots & Vases",
+"tags": [],
+"in": true
+},
+{
+"t": "Rectangular Planter Pot - Light Brown",
+"u": "https://exotica.com/products/rectangular-planter-pot-light-brown",
+"p": 140.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Logan_rect_light_brown_s.jpg?v=1763044978&width=400",
+"type": "Pots & Vases",
+"tags": [],
+"in": true
+},
+{
+"t": "Grey Cement Pot",
+"u": "https://exotica.com/products/grey-cement-pot",
+"p": 24.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Cleveland_round_gray_xs.jpg?v=1763041889&width=400",
+"type": "Pots & Vases",
+"tags": [],
+"in": true
+},
+{
+"t": "Rectangular Cement Pot -Black",
+"u": "https://exotica.com/products/classic-rectangular-cement-black-pot",
+"p": 155.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Cleveland_rect_blacks.jpg?v=1763035070&width=400",
+"type": "Pots & Vases",
+"tags": [],
+"in": true
+},
+{
+"t": "Black Cement Pot",
+"u": "https://exotica.com/products/classic-black-cement-pot",
+"p": 24.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Cleveland_black_xs.jpg?v=1763383623&width=400",
+"type": "Pots & Vases",
+"tags": [],
+"in": true
+},
+{
+"t": "Clay Conical Pot",
+"u": "https://exotica.com/products/clay-conical-pot",
+"p": 28.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/AucklandConicalBrownxs_a111f474-674f-4f83-8569-f38ad942f3dd.jpg?v=1763368389&width=400",
+"type": "Pots & Vases",
+"tags": [],
+"in": true
+},
+{
+"t": "Fujian Bonsai",
+"u": "https://exotica.com/products/fujian-bonsai",
+"p": 42.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Fujian_Bonsai.jpg?v=1777544002&width=400",
+"type": "Plants",
+"tags": [
+"Bonsai",
+"Indoor Plants",
+"Plants"
+],
+"in": true
+},
+{
+"t": "Bonsai Carmona",
+"u": "https://exotica.com/products/bonsai-carmona",
+"p": 68.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Bonsai-Carmona.jpg?v=1735638093&width=400",
+"type": "Plants",
+"tags": [
+"Bonsai",
+"Indoor Plants",
+"Plants",
+"Small"
+],
+"in": true
+},
+{
+"t": "Bonsai Ligustrum",
+"u": "https://exotica.com/products/bonsai-ligustrum",
+"p": 42.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/0013_BonsaiLigustrum.jpg?v=1743079673&width=400",
+"type": "Plants",
+"tags": [
+"Bonsai",
+"Indoor Plants",
+"Plants"
+],
+"in": true
+},
+{
+"t": "Midnight Meadow",
+"u": "https://exotica.com/products/midnight-meadow",
+"p": 40.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/AglaonemaGreyHound_c99bcf62-b727-4553-aa81-bea3bc266d0c.jpg?v=1763363989&width=400",
+"type": "Plants",
+"tags": [],
+"in": true
+},
+{
+"t": "Roses Celebration",
+"u": "https://exotica.com/products/roses-celebration",
+"p": 307.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/0014_Layer1.jpg?v=1769586308&width=400",
+"type": "Flowers",
+"tags": [
+"Birthdays",
+"Congratulations",
+"Flower Boxes",
+"Flowers",
+"For Colleagues",
+"For Friends",
+"For Her",
+"For Mom"
+],
+"in": true
+},
+{
+"t": "Drappier Champagne",
+"u": "https://exotica.com/products/champagne-drappier-carte-dor-brut",
+"p": 75.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Champagne-Drappier-Carte-D_Or-Brut_99ada3db-4b24-4af9-b0b4-bdf367f31034.jpg?v=1735638133&width=400",
+"type": "Wine & Spirits",
+"tags": [
+"Wine & Spirits"
+],
+"in": true
+},
+{
+"t": "Perfectly Pastel",
+"u": "https://exotica.com/products/perfectly-pastel",
+"p": 218.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Perfectly_Pastel.jpg?v=1777454028&width=400",
+"type": "Flowers",
+"tags": [
+"Birthdays",
+"Flower Boxes",
+"New Born",
+"Pink"
+],
+"in": true
+},
+{
+"t": "Inner Peace",
+"u": "https://exotica.com/products/inner-peace",
+"p": 55.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/inner-peace.jpg?v=1735638188&width=400",
+"type": "Flowers",
+"tags": [
+"Flower Boxes",
+"WHITE"
+],
+"in": true
+},
+{
+"t": "Coffea Arabica",
+"u": "https://exotica.com/products/coffea-arabica",
+"p": 39.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/0000_coffeaarabica.jpg?v=1743577825&width=400",
+"type": "Plants",
+"tags": [
+"Indoor Plants",
+"Plants"
+],
+"in": true
+},
+{
+"t": "Picks Love",
+"u": "https://exotica.com/products/picks-love",
+"p": 12.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/LOVE_RED_dec51769-3051-4c37-b768-963ca7a11693.jpg?v=1770889878&width=400",
+"type": "",
+"tags": [],
+"in": true
+},
+{
+"t": "Photo Frame",
+"u": "https://exotica.com/products/photo-frame",
+"p": 24.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/frame_e1367ce7-541b-4ef4-9fb9-7b5323547de1.jpg?v=1759413582&width=400",
+"type": "Add-Ons",
+"tags": [],
+"in": true
+},
+{
+"t": "Bamboo Orchid",
+"u": "https://exotica.com/products/bamboo-orchid",
+"p": 73.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Bamboo-orchid.jpg?v=1735637879&width=400",
+"type": "Plants",
+"tags": [
+"Birthdays",
+"Congratulations",
+"For Colleagues",
+"For Dad",
+"For Friends",
+"For Her",
+"For Him",
+"For Kids"
+],
+"in": true
+},
+{
+"t": "Pop Up",
+"u": "https://exotica.com/products/pop-up",
+"p": 97.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Pop-Up-with-Frame.jpg?v=1756113304&width=400",
+"type": "Flowers",
+"tags": [
+"Birthdays",
+"Flower Boxes",
+"For Her",
+"For Him",
+"For Kids",
+"For Mom",
+"Gift Bundles"
+],
+"in": true
+},
+{
+"t": "Love, Actually",
+"u": "https://exotica.com/products/love-actually",
+"p": 117.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Love_Actually_Black.jpg?v=1758550453&width=400",
+"type": "Flowers",
+"tags": [
+"Congratulations",
+"Gift Bundles",
+"Red"
+],
+"in": true
+},
+{
+"t": "Serene Clouds",
+"u": "https://exotica.com/products/serene-clouds",
+"p": 115.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/0013_SereneClouds.jpg?v=1758530858&width=400",
+"type": "Flowers",
+"tags": [
+"Flowers",
+"For Friends",
+"For Her",
+"For Mom",
+"For Teta",
+"Get Well Soon",
+"Handheld Bouquets",
+"Mixed Flowers"
+],
+"in": true
+},
+{
+"t": "Green Reverie",
+"u": "https://exotica.com/products/green-reverie",
+"p": 30.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/0004_GreenReverie.jpg?v=1758530246&width=400",
+"type": "Plants",
+"tags": [],
+"in": true
+},
+{
+"t": "Urban Jungle",
+"u": "https://exotica.com/products/urban-jungle",
+"p": 78.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/0002_UrbanJungle.jpg?v=1758529973&width=400",
+"type": "Plants",
+"tags": [],
+"in": true
+},
+{
+"t": "Green Thumb",
+"u": "https://exotica.com/products/green-thumb",
+"p": 62.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/0007_GreenThumb.jpg?v=1758529513&width=400",
+"type": "Plants",
+"tags": [],
+"in": true
+},
+{
+"t": "Fall Hues",
+"u": "https://exotica.com/products/fall-hues",
+"p": 44.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/0006_Layer2.jpg?v=1758528248&width=400",
+"type": "Plants",
+"tags": [],
+"in": true
+},
+{
+"t": "Ficus Tree",
+"u": "https://exotica.com/products/ficus-tree",
+"p": 594.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/0001_FicusTree.jpg?v=1758526590&width=400",
+"type": "Plants",
+"tags": [],
+"in": true
+},
+{
+"t": "Bae on Fire",
+"u": "https://exotica.com/products/bae-on-fire",
+"p": 50.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/bae-on-fire.jpg?v=1744034671&width=400",
+"type": "Plants",
+"tags": [
+"Indoor Plants",
+"Plants"
+],
+"in": true
+},
+{
+"t": "Magic Roses",
+"u": "https://exotica.com/products/magic-roses",
+"p": 733.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/magic-roses.jpg?v=1735637868&width=400",
+"type": "Flowers",
+"tags": [
+"Flowers",
+"For Her",
+"For Mom",
+"For Teta",
+"Love & Romance",
+"Red",
+"Roses"
+],
+"in": true
+},
+{
+"t": "Petal Poise",
+"u": "https://exotica.com/products/petal-poise",
+"p": 614.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/sweet-romance_9ee10b2e-dfd8-4493-b582-628efbd403f1.jpg?v=1735637867&width=400",
+"type": "Flowers",
+"tags": [
+"Birthdays",
+"Congratulations",
+"Flowers",
+"For Her",
+"For Mom",
+"For Teta",
+"Fuschia",
+"Get Well Soon"
+],
+"in": true
+},
+{
+"t": "Garden Whispers",
+"u": "https://exotica.com/products/garden-whispers",
+"p": 152.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Garden-Whispers_05ad0718-8316-4a04-a55a-d4c39c4c5696.jpg?v=1735638144&width=400",
+"type": "Flowers",
+"tags": [
+"Congratulations",
+"Flowers",
+"For Colleagues",
+"For Friends",
+"For Her",
+"For Mom",
+"For Teta",
+"Get Well Soon"
+],
+"in": true
+},
+{
+"t": "Pink Perfection",
+"u": "https://exotica.com/products/pink-perfection",
+"p": 75.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/pink-perfection.jpg?v=1735637866&width=400",
+"type": "Flowers",
+"tags": [
+"Birthdays",
+"Congratulations",
+"For Friends",
+"For Her",
+"For Mom",
+"For Teta",
+"Fuschia",
+"Graduation"
+],
+"in": true
+},
+{
+"t": "Pink Bliss",
+"u": "https://exotica.com/products/pink-bliss",
+"p": 337.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/PinkBliss.jpg?v=1758538587&width=400",
+"type": "Flowers",
+"tags": [
+"Birthdays",
+"Congratulations",
+"Flower Boxes",
+"Flowers",
+"For Her",
+"For Mom",
+"For Teta",
+"Fuschia"
+],
+"in": true
+},
+{
+"t": "Only Roses",
+"u": "https://exotica.com/products/pink-at-heart",
+"p": 390.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Only-Roses_027b7dca-4572-4858-a975-ddd51b2a79cd.jpg?v=1735638150&width=400",
+"type": "Flowers",
+"tags": [
+"Birthdays",
+"Congratulations",
+"For Her",
+"For Mom",
+"Handheld Bouquets",
+"Large Vase",
+"Pink",
+"Roses"
+],
+"in": true
+},
+{
+"t": "Cascading Roses",
+"u": "https://exotica.com/products/cascading-roses",
+"p": 380.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Cascading-Roses_b13c9739-8731-489f-9e8b-f308eb245cdf.jpg?v=1766488085&width=400",
+"type": "Flowers",
+"tags": [
+"Birthdays",
+"Congratulations",
+"Flower Boxes",
+"Flowers",
+"For Colleagues",
+"For Friends",
+"For Her",
+"For Mom"
+],
+"in": true
+},
+{
+"t": "Splendid Roses",
+"u": "https://exotica.com/products/splendid-roses",
+"p": 258.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Splended-Roses_771aa16d-58d2-4446-959c-36053aee482a.jpg?v=1735638170&width=400",
+"type": "Flowers",
+"tags": [
+"Birthdays",
+"Flower Boxes",
+"For Her",
+"For Him",
+"Love & Romance",
+"Roses"
+],
+"in": true
+},
+{
+"t": "I'm Blushing",
+"u": "https://exotica.com/products/im-blushing",
+"p": 156.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/i_m-blushing_91bc22b3-9ca3-49b0-af34-f5d105639dc5.jpg?v=1735638153&width=400",
+"type": "Flowers",
+"tags": [
+"Birthdays",
+"For Her",
+"For Mom",
+"For Teta",
+"Handheld Bouquets",
+"Pink",
+"Roses"
+],
+"in": true
+},
+{
+"t": "Barbie World",
+"u": "https://exotica.com/products/barbie-world",
+"p": 157.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Barbie_World_Pink.jpg?v=1758538325&width=400",
+"type": "Flowers",
+"tags": [
+"Birthdays",
+"Congratulations",
+"Flower Boxes",
+"Flowers",
+"For Colleagues",
+"For Friends",
+"For Her",
+"Get Well Soon"
+],
+"in": true
+},
+{
+"t": "Colourful Sprinkles",
+"u": "https://exotica.com/products/colourful-sprinkles",
+"p": 124.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/2_1a98c1f9-e014-4569-87d4-c292d025aafb.jpg?v=1752752661&width=400",
+"type": "Flowers",
+"tags": [
+"Birthdays",
+"Congratulations",
+"For Dad",
+"For Her",
+"For Mom",
+"Mixed Colors"
+],
+"in": true
+},
+{
+"t": "Rush of Feelings",
+"u": "https://exotica.com/products/rush-of-feelings",
+"p": 582.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/rush-of-feelings_2.jpg?v=1735638173&width=400",
+"type": "Flowers",
+"tags": [
+"Birthdays",
+"Congratulations",
+"Flower Boxes",
+"Flowers",
+"For Colleagues",
+"For Dad",
+"For Friends",
+"For Her"
+],
+"in": true
+},
+{
+"t": "Colorful Dreams",
+"u": "https://exotica.com/products/colorful-dreams",
+"p": 215.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/colorful-dreams_e87fa10a-49a8-42c6-8583-47ec66a505d7.jpg?v=1735638159&width=400",
+"type": "Flowers",
+"tags": [
+"Birthdays",
+"Congratulations",
+"For Colleagues",
+"For Dad",
+"For Friends",
+"For Her",
+"For Him",
+"For Mom"
+],
+"in": true
+},
+{
+"t": "36 Hugs",
+"u": "https://exotica.com/products/36-hugs",
+"p": 156.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/36-hugs_3.jpg?v=1735638163&width=400",
+"type": "Flowers",
+"tags": [
+"Birthdays",
+"Congratulations",
+"Flowers",
+"For Colleagues",
+"For Friends",
+"For Her",
+"For Mom",
+"Graduation"
+],
+"in": true
+},
+{
+"t": "Floral Cheers",
+"u": "https://exotica.com/products/floral-cheers",
+"p": 124.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/FloralCheers.jpg?v=1753952154&width=400",
+"type": "Flowers",
+"tags": [],
+"in": true
+},
+{
+"t": "Mini Peace Lily",
+"u": "https://exotica.com/products/mini-peace-lily",
+"p": 29.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/peace-lily-mini.jpg?v=1735637972&width=400",
+"type": "Plants",
+"tags": [],
+"in": true
+},
+{
+"t": "Pink Celebration",
+"u": "https://exotica.com/products/pink-celebration",
+"p": 89.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Pink_celebration_wo_bottle.png?v=1787054487&width=400",
+"type": "Flowers",
+"tags": [
+"Congratulations",
+"Flower Boxes",
+"For Her",
+"For Mom",
+"Gift Bundles"
+],
+"in": true
+},
+{
+"t": "Endless Bloom",
+"u": "https://exotica.com/products/endless-bloom",
+"p": 108.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Endless_Bloom_Black.jpg?v=1758537359&width=400",
+"type": "Flowers",
+"tags": [
+"Birthdays",
+"Flower Boxes",
+"Flowers",
+"For Colleagues",
+"For Dad",
+"For Friends",
+"For Her",
+"For Him"
+],
+"in": true
+},
+{
+"t": "Happy Moments",
+"u": "https://exotica.com/products/happy-moments",
+"p": 109.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Happy_Moments_White.jpg?v=1758536474&width=400",
+"type": "Flowers",
+"tags": [
+"Birthdays",
+"Congratulations",
+"Flower Boxes",
+"Mixed Colors"
+],
+"in": true
+},
+{
+"t": "Dracaena Joy",
+"u": "https://exotica.com/products/dracaena-joy",
+"p": 200.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Dracena_Joy.png?v=1789554415&width=400",
+"type": "Plants",
+"tags": [],
+"in": true
+},
+{
+"t": "Purple Fluff",
+"u": "https://exotica.com/products/purple-fluff",
+"p": 40.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/purple-fluff.jpg?v=1735637963&width=400",
+"type": "Plants",
+"tags": [
+"Indoor Plants",
+"Plants"
+],
+"in": true
+},
+{
+"t": "Gardening Tools Trio",
+"u": "https://exotica.com/products/gardening-tools-trio",
+"p": 14.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/gardening-tools-trio-2.jpg?v=1750408181&width=400",
+"type": "",
+"tags": [],
+"in": true
+},
+{
+"t": "Pruning Sheers",
+"u": "https://exotica.com/products/pruning-sheers",
+"p": 28.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/cutting-shear.jpg?v=1750408157&width=400",
+"type": "",
+"tags": [],
+"in": false
+},
+{
+"t": "Virtual Kisses",
+"u": "https://exotica.com/products/virtual-kisses",
+"p": 36.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/0001_VirtualKisses.jpg?v=1743584144&width=400",
+"type": "Flowers",
+"tags": [
+"Birthdays",
+"Flowers",
+"For Her",
+"For Him",
+"Get Well Soon",
+"Red",
+"Thank You",
+"tulips"
+],
+"in": false
+},
+{
+"t": "Pink Passion",
+"u": "https://exotica.com/products/pink-passion",
+"p": 119.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/pink-passion-peonies.jpg?v=1746448495&width=400",
+"type": "Flowers",
+"tags": [],
+"in": false
+},
+{
+"t": "Pot Ipala Round Clay White",
+"u": "https://exotica.com/products/pot-ipala-round-clay-white",
+"p": 35.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/PotIpalaRoundClay.jpg?v=1749023449&width=400",
+"type": "Pots & Vases",
+"tags": [],
+"in": true
+},
+{
+"t": "Pot Romeo Conical Ceramic White",
+"u": "https://exotica.com/products/pot-romeo-conical-ceramic-white",
+"p": 38.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/PotRomeroWhite.jpg?v=1749023800&width=400",
+"type": "Pots & Vases",
+"tags": [],
+"in": true
+},
+{
+"t": "Pot Tunis Conical Terracotta Blue",
+"u": "https://exotica.com/products/pot-tunis-conical-terracotta-blue",
+"p": 40.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/PotTunisTerracottaBlue.jpg?v=1749030025&width=400",
+"type": "Pots & Vases",
+"tags": [],
+"in": true
+},
+{
+"t": "Bowl Bravo Round Plastic Grey",
+"u": "https://exotica.com/products/bowl-bravo-round-plastic-grey",
+"p": 38.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/BowlBravoRoundS.jpg?v=1749025416&width=400",
+"type": "Pots & Vases",
+"tags": [],
+"in": true
+},
+{
+"t": "Sweet Memories",
+"u": "https://exotica.com/products/sweet-memories",
+"p": 74.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Sweet-Memories.jpg?v=1749711587&width=400",
+"type": "Plants",
+"tags": [
+"Gift Bundles",
+"Indoor Plants",
+"Plants",
+"Succulents & Cacti"
+],
+"in": true
+},
+{
+"t": "Desert Bloom",
+"u": "https://exotica.com/products/desert-bloom",
+"p": 134.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/the-silent-guardian-exotica-fathers-day.jpg?v=1749724778&width=400",
+"type": "Plants",
+"tags": [
+"Indoor Plants",
+"Plants",
+"Succulents & Cacti"
+],
+"in": true
+},
+{
+"t": "Pure Grace",
+"u": "https://exotica.com/products/pure-grace",
+"p": 190.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/pure-grace-exotica-fathers-day.jpg?v=1749724801&width=400",
+"type": "Plants",
+"tags": [
+"Indoor Plants",
+"Plants"
+],
+"in": true
+},
+{
+"t": "IXSIR Grande Réserve Rosé Lebanon",
+"u": "https://exotica.com/products/grande-reserve-ixsir-rose",
+"p": 16.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/grande-reserve-rose.jpg?v=1746520835&width=400",
+"type": "Wine & Spirits",
+"tags": [
+"Wine & Spirits"
+],
+"in": false
+},
+{
+"t": "Sunset Dust",
+"u": "https://exotica.com/products/sunset-dust",
+"p": 99.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/SunsetDust.jpg?v=1748870657&width=400",
+"type": "Flowers",
+"tags": [],
+"in": true
+},
+{
+"t": "Blooms Of Youth",
+"u": "https://exotica.com/products/blooms-of-youth",
+"p": 113.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/blooms-of-youth.jpg?v=1735638162&width=400",
+"type": "Flowers",
+"tags": [
+"Birthdays",
+"Congratulations",
+"Flowers",
+"For Colleagues",
+"For Friends",
+"For Her",
+"For Teta",
+"Get Well Soon"
+],
+"in": true
+},
+{
+"t": "Picture in Frame (10x15cm)",
+"u": "https://exotica.com/products/picture-in-frame",
+"p": 24.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/frame-photo-exotica.jpg?v=1747909773&width=400",
+"type": "Add-Ons",
+"tags": [],
+"in": true
+},
+{
+"t": "Baby Boy",
+"u": "https://exotica.com/products/baby-boy",
+"p": 112.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Baby_White_Blue.jpg?v=1771570395&width=400",
+"type": "Flowers",
+"tags": [
+"Congratulations",
+"Flower Boxes",
+"Flowers",
+"For Kids",
+"Mixed Flowers",
+"New Born",
+"Teddy Bears"
+],
+"in": true
+},
+{
+"t": "Add Large Vase",
+"u": "https://exotica.com/products/add-large-vase",
+"p": 75.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/0001_2.jpg?v=1746433252&width=400",
+"type": "Add-Ons",
+"tags": [],
+"in": false
+},
+{
+"t": "Beautiful Day",
+"u": "https://exotica.com/products/beautiful-day",
+"p": 238.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/0005_BeautifulDay.jpg?v=1745830192&width=400",
+"type": "",
+"tags": [],
+"in": false
+},
+{
+"t": "Pretty in Peony",
+"u": "https://exotica.com/products/pretty-in-peony",
+"p": 490.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/0000_PrettyinPeony.jpg?v=1745830179&width=400",
+"type": "",
+"tags": [],
+"in": false
+},
+{
+"t": "Mini Orchid",
+"u": "https://exotica.com/products/mini-orchid",
+"p": 84.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/mini-orchid-2.jpg?v=1735637880&width=400",
+"type": "Plants",
+"tags": [
+"For Colleagues",
+"For Dad",
+"For Friends",
+"For Her",
+"For Him",
+"For Kids",
+"For Mom",
+"For Teta"
+],
+"in": true
+},
+{
+"t": "Little Orchids",
+"u": "https://exotica.com/products/little-orchids",
+"p": 272.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/little-orchids_4632823c-018f-4ca3-ab5a-c3358df82f25.jpg?v=1735638075&width=400",
+"type": "Plants",
+"tags": [
+"Birthdays",
+"Congratulations",
+"For Her",
+"For Him",
+"For Kids",
+"Indoor Plants",
+"Plants"
+],
+"in": true
+},
+{
+"t": "Floral Fantasy",
+"u": "https://exotica.com/products/floral-fantasy",
+"p": 138.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/0004_Floralfantasy.jpg?v=1745830204&width=400",
+"type": "",
+"tags": [],
+"in": false
+},
+{
+"t": "Perfect Peonies",
+"u": "https://exotica.com/products/perfect-peonies",
+"p": 195.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/0002_PerfectPeonies.jpg?v=1745830165&width=400",
+"type": "Flowers",
+"tags": [],
+"in": false
+},
+{
+"t": "Blush Crush",
+"u": "https://exotica.com/products/blush-crush",
+"p": 124.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Blush-Crush.jpg?v=1749537215&width=400",
+"type": "Flowers",
+"tags": [],
+"in": false
+},
+{
+"t": "Sablés Gourmets Small Box",
+"u": "https://exotica.com/products/sables-gourmets",
+"p": 18.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Sables-Gourmets---Chocolate-Small-Box.png?v=1735638005&width=400",
+"type": "Add-Ons",
+"tags": [],
+"in": true
+},
+{
+"t": "Peace & Love",
+"u": "https://exotica.com/products/peace-love",
+"p": 113.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/peace-and-love_ef657299-9226-4482-9979-e2953b948e42.jpg?v=1735637890&width=400",
+"type": "Flowers",
+"tags": [
+"Birthdays",
+"Congratulations",
+"Flowers",
+"For Colleagues",
+"For Friends",
+"For Her",
+"Graduation",
+"Handheld Bouquets"
+],
+"in": true
+},
+{
+"t": "Small Kisses",
+"u": "https://exotica.com/products/small-kisses",
+"p": 145.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/small-kisses.jpg?v=1735637889&width=400",
+"type": "Flowers",
+"tags": [
+"Birthdays",
+"Congratulations",
+"Flowers",
+"For Colleagues",
+"For Friends",
+"For Her",
+"Fuschia",
+"Graduation"
+],
+"in": true
+},
+{
+"t": "Bonsai Essence",
+"u": "https://exotica.com/products/bonsai-essence",
+"p": 58.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/0000_bonsaiessence.jpg?v=1745830907&width=400",
+"type": "Plants",
+"tags": [],
+"in": true
+},
+{
+"t": "Deep Coral",
+"u": "https://exotica.com/products/deep-coral",
+"p": 60.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/0009_Exoticabouquetstudioaprl23-007.jpg?v=1745821338&width=400",
+"type": "Flowers",
+"tags": [
+"Birthdays",
+"Flowers",
+"For Her",
+"For Mom",
+"For Teta"
+],
+"in": false
+},
+{
+"t": "Fresh Blooms",
+"u": "https://exotica.com/products/fresh-blooms",
+"p": 119.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/0006_Layer1.jpg?v=1745821319&width=400",
+"type": "Flowers",
+"tags": [
+"Birthdays",
+"Flowers",
+"For Her",
+"For Mom"
+],
+"in": false
+},
+{
+"t": "Golden Rays",
+"u": "https://exotica.com/products/golden-rays",
+"p": 104.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Golden_Rays.jpg?v=1749639033&width=400",
+"type": "Flowers",
+"tags": [
+"Birthdays",
+"Get Well Soon",
+"Roses",
+"Thank You",
+"Yellow"
+],
+"in": true
+},
+{
+"t": "Charming Box",
+"u": "https://exotica.com/products/charming-flower-box",
+"p": 149.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/charming-box.jpg?v=1735638198&width=400",
+"type": "Flowers",
+"tags": [
+"Birthdays",
+"Congratulations",
+"Flower Boxes",
+"Flowers",
+"For Friends",
+"For Her",
+"For Mom",
+"For Teta"
+],
+"in": true
+},
+{
+"t": "The Best",
+"u": "https://exotica.com/products/the-best",
+"p": 489.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/The-best.jpg?v=1735638167&width=400",
+"type": "Flowers",
+"tags": [
+"Birthdays",
+"Congratulations",
+"Flower Boxes",
+"For Her",
+"For Mom",
+"Lilac",
+"Mixed Colors",
+"Mixed Flowers"
+],
+"in": true
+},
+{
+"t": "Baby Sprinkles",
+"u": "https://exotica.com/products/baby-sprinkles",
+"p": 150.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/baby-sprinkles_a47515ff-81fb-4381-82cb-a32d66c14fae.jpg?v=1735638145&width=400",
+"type": "Flowers",
+"tags": [
+"Birthdays",
+"Congratulations",
+"Flowers",
+"For Colleagues",
+"For Friends",
+"For Her",
+"For Mom",
+"For Teta"
+],
+"in": true
+},
+{
+"t": "Shades Of Passion",
+"u": "https://exotica.com/products/shades-of-passion",
+"p": 205.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/SHADES-OF-PASSION_68fe48b0-23d4-49bc-9b14-7b279aa4ea8b.jpg?v=1756721091&width=400",
+"type": "Flowers",
+"tags": [
+"Flower Boxes",
+"Flowers",
+"For Friends",
+"For Her",
+"For Mom",
+"For Teta",
+"Get Well Soon",
+"Love & Romance"
+],
+"in": true
+},
+{
+"t": "Artistic Touch",
+"u": "https://exotica.com/products/artistic-touch",
+"p": 400.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/artistic-touch.jpg?v=1735638118&width=400",
+"type": "Flowers",
+"tags": [
+"Birthdays",
+"Congratulations",
+"Flower Boxes",
+"Flowers",
+"For Her",
+"For Mom",
+"Mixed Colors",
+"Mixed Flowers"
+],
+"in": true
+},
+{
+"t": "Love Combination",
+"u": "https://exotica.com/products/love-combination",
+"p": 74.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Love-Combination.jpg?v=1746691391&width=400",
+"type": "Flowers",
+"tags": [
+"Flowers",
+"For Her",
+"For Him",
+"Red",
+"Roses"
+],
+"in": false
+},
+{
+"t": "Soft Night",
+"u": "https://exotica.com/products/soft-night",
+"p": 99.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Soft_Night_Black_701c4bb7-9210-48da-9453-a6bfcb24d4b3.jpg?v=1758537187&width=400",
+"type": "Flowers",
+"tags": [
+"Birthdays",
+"Flower Boxes",
+"For Her",
+"For Kids",
+"For Mom",
+"New Born",
+"Roses",
+"Thank You"
+],
+"in": true
+},
+{
+"t": "IXSIR Arak",
+"u": "https://exotica.com/products/ixsir-arak",
+"p": 22.2,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/IXSIR-Grande-Reserve-White-Lebanon_80dd467a-1c9e-40ed-967f-5a291d5ff355.jpg?v=1744199905&width=400",
+"type": "Wine & Spirits",
+"tags": [],
+"in": true
+},
+{
+"t": "Pesco Booster Bio Kit",
+"u": "https://exotica.com/products/pesco-booster-bio-kit",
+"p": 20.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/0002_pesco_cc8165f6-d444-4e61-9336-10b2dd4556b6.jpg?v=1746426355&width=400",
+"type": "",
+"tags": [],
+"in": true
+},
+{
+"t": "Artificial Lemon Tree",
+"u": "https://exotica.com/products/artificial-lemon-tree",
+"p": 98.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Artificial-Lemon-Tree.jpg?v=1735637995&width=400",
+"type": "Artificial",
+"tags": [],
+"in": true
+},
+{
+"t": "Exotic Beauty",
+"u": "https://exotica.com/products/exotic-beauty",
+"p": 103.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/exotic-beauty.jpg?v=1735637876&width=400",
+"type": "Plants",
+"tags": [
+"Birthdays",
+"Congratulations",
+"For Colleagues",
+"For Dad",
+"For Friends",
+"For Her",
+"For Him",
+"For Kids"
+],
+"in": true
+},
+{
+"t": "Pink Lace",
+"u": "https://exotica.com/products/pink-lace",
+"p": 72.0,
+"c": 0.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/pink-lace_a3ec4f27-e464-47eb-897c-c122b62597d3.jpg?v=1735637966&width=400",
+"type": "Plants",
+"tags": [
+"Birthdays",
+"For Her",
+"For Mom",
+"For Teta",
+"Get Well Soon",
+"Housewarming",
+"Indoor Plants",
+"Medium"
+],
+"in": true
+},
+{
+"t": "Love",
+"u": "https://exotica.com/products/love",
+"p": 113.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/love.jpg?v=1735637891&width=400",
+"type": "Flowers",
+"tags": [
+"Birthdays",
+"Congratulations",
+"Flowers",
+"For Colleagues",
+"For Friends",
+"For Her",
+"Graduation",
+"Handheld Bouquets"
+],
+"in": true
+},
+{
+"t": "Yellow Puffs",
+"u": "https://exotica.com/products/yellow-puffs",
+"p": 113.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Yellow-Puffs.jpg?v=1735637896&width=400",
+"type": "Flowers",
+"tags": [
+"Birthdays",
+"Flowers",
+"For Colleagues",
+"For Dad",
+"For Friends",
+"For Him",
+"Get Well Soon",
+"Graduation"
+],
+"in": true
+},
+{
+"t": "Love Tenderly",
+"u": "https://exotica.com/products/love-tenderly",
+"p": 91.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/love-tenderly.jpg?v=1735637863&width=400",
+"type": "Flowers",
+"tags": [
+"Birthdays",
+"Flowers",
+"For Dad",
+"For Friends",
+"For Her",
+"For Him",
+"For Kids",
+"For Mom"
+],
+"in": true
+},
+{
+"t": "Blushing Petals",
+"u": "https://exotica.com/products/blushing-petals",
+"p": 113.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/blushing-petals.jpg?v=1735638116&width=400",
+"type": "Flowers",
+"tags": [
+"Birthdays",
+"Congratulations",
+"Flowers",
+"For Colleagues",
+"For Friends",
+"For Her",
+"Graduation",
+"Handheld Bouquets"
+],
+"in": false
+},
+{
+"t": "Rainbow Feels",
+"u": "https://exotica.com/products/rainbow-feels",
+"p": 104.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/rainbow-feels_97c8da88-5350-4e0d-b459-92b91e74ca43.jpg?v=1735638119&width=400",
+"type": "Flowers",
+"tags": [
+"Birthdays",
+"Congratulations",
+"Flower Boxes",
+"Flowers",
+"Mixed Colors",
+"Mixed Flowers",
+"New Born"
+],
+"in": true
+},
+{
+"t": "Artificial Strelitzia",
+"u": "https://exotica.com/products/artificial-strelitzia",
+"p": 220.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Artificial-Strelitzia.jpg?v=1735637987&width=400",
+"type": "Artificial",
+"tags": [],
+"in": true
+},
+{
+"t": "Artificial Red Philodendron",
+"u": "https://exotica.com/products/artificial-philodendron",
+"p": 225.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Artificial-Philodendron.jpg?v=1735637991&width=400",
+"type": "Artificial",
+"tags": [],
+"in": false
+},
+{
+"t": "Morning Coffee",
+"u": "https://exotica.com/products/morning-coffee",
+"p": 56.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Morning-Coffee.jpg?v=1735637970&width=400",
+"type": "Plants",
+"tags": [],
+"in": true
+},
+{
+"t": "Plant Care",
+"u": "https://exotica.com/products/plant-booster",
+"p": 20.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/0002_pesco.jpg?v=1746426340&width=400",
+"type": "Add-Ons",
+"tags": [],
+"in": true
+},
+{
+"t": "For My Baby",
+"u": "https://exotica.com/products/for-my-baby",
+"p": 145.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/for-my-baby.jpg?v=1735637892&width=400",
+"type": "Flowers",
+"tags": [
+"Birthdays",
+"Congratulations",
+"Flowers",
+"For Colleagues",
+"For Friends",
+"For Her",
+"Graduation",
+"Handheld Bouquets"
+],
+"in": true
+},
+{
+"t": "Shine Bright",
+"u": "https://exotica.com/products/shine-bright",
+"p": 60.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/shine-bright_470eb350-db34-4037-9cdd-434996c58471.jpg?v=1765958724&width=400",
+"type": "Flowers",
+"tags": [
+"Birthdays",
+"Flowers",
+"For Colleagues",
+"For Dad",
+"For Friends",
+"For Her",
+"For Him",
+"For Kids"
+],
+"in": true
+},
+{
+"t": "Cheers!",
+"u": "https://exotica.com/products/cheers-box",
+"p": 113.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/CHEERS.jpg?v=1735637861&width=400",
+"type": "Flowers",
+"tags": [
+"Birthdays",
+"Flower Boxes",
+"Flowers",
+"For Colleagues",
+"For Dad",
+"For Friends",
+"For Him",
+"Gift Bundles"
+],
+"in": true
+},
+{
+"t": "Champagne Drappier Brut Magnum",
+"u": "https://exotica.com/products/champagne-drappier-brut-magnum",
+"p": 145.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Champagne-Drappier-Brut-Magnum.jpg?v=1735638126&width=400",
+"type": "Wine & Spirits",
+"tags": [
+"Wine & Spirits"
+],
+"in": true
+},
+{
+"t": "Champagne Drappier Carte D'Or Brut 37.5cl",
+"u": "https://exotica.com/products/champagne-drappier-carte-dor-brut-37-5cl",
+"p": 37.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Champagne-Drappier-Carte-D_Or-Brut-Half-Bottle-37.5cl.jpg?v=1735638132&width=400",
+"type": "Wine & Spirits",
+"tags": [
+"Wine & Spirits"
+],
+"in": true
+},
+{
+"t": "Add Vase",
+"u": "https://exotica.com/products/option-set-754699-checkbox-1",
+"p": 19.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/0001_2.jpg?v=1746433252&width=400",
+"type": "Add-Ons",
+"tags": [],
+"in": true
+},
+{
+"t": "Hot Pink",
+"u": "https://exotica.com/products/hot-pink",
+"p": 195.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/hot-pink.jpg?v=1735637864&width=400",
+"type": "Flowers",
+"tags": [
+"For Her",
+"Fuschia",
+"Large Vase",
+"Roses"
+],
+"in": true
+},
+{
+"t": "White Heart",
+"u": "https://exotica.com/products/white-heart",
+"p": 390.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/white-heart.jpg?v=1735637865&width=400",
+"type": "Flowers",
+"tags": [
+"Flowers",
+"For Colleagues",
+"For Dad",
+"For Friends",
+"For Her",
+"For Him",
+"For Kids",
+"For Mom"
+],
+"in": true
+},
+{
+"t": "Rose Magenta",
+"u": "https://exotica.com/products/rose-magenta",
+"p": 217.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Rose_Magenta_Black.jpg?v=1758538987&width=400",
+"type": "Flowers",
+"tags": [
+"Birthdays",
+"Flower Boxes",
+"Flowers",
+"For Her",
+"For Mom",
+"Fuschia",
+"Get Well Soon",
+"Graduation"
+],
+"in": true
+},
+{
+"t": "Silver Linings",
+"u": "https://exotica.com/products/silver-linings",
+"p": 236.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/silver-linings.jpg?v=1735637875&width=400",
+"type": "Plants",
+"tags": [
+"Congratulations",
+"For Colleagues",
+"For Friends",
+"For Her",
+"For Him",
+"For Mom",
+"For Teta",
+"Get Well Soon"
+],
+"in": true
+},
+{
+"t": "Ficus Nitida",
+"u": "https://exotica.com/products/ficus-nitida",
+"p": 640.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/ficus_nitida.jpg?v=1735637886&width=400",
+"type": "Plants",
+"tags": [],
+"in": false
+},
+{
+"t": "Dwarf Umbrella",
+"u": "https://exotica.com/products/dwarf-umbrella",
+"p": 136.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/0010_Layer11.jpg?v=1770022221&width=400",
+"type": "Plants",
+"tags": [
+"For Colleagues",
+"For Dad",
+"For Friends",
+"For Her",
+"For Him",
+"For Mom",
+"For Teta",
+"Housewarming"
+],
+"in": true
+},
+{
+"t": "Wines & Spirits",
+"u": "https://exotica.com/products/wines-spirits",
+"p": 18.32,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/IXSIR-Grande-Reserve-Red-Lebanon_89594fc6-fe37-4df9-8a18-8422aa703f62.png?v=1735637917&width=400",
+"type": "Add-Ons",
+"tags": [],
+"in": true
+},
+{
+"t": "Metrosideros Ball",
+"u": "https://exotica.com/products/metrosideros-ball",
+"p": 121.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Metrosideros-Ball.jpg?v=1735637923&width=400",
+"type": "Plants",
+"tags": [],
+"in": true
+},
+{
+"t": "Laurus Nobilis Bush",
+"u": "https://exotica.com/products/laurus-nobilis-bush",
+"p": 80.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Laurus-Nobilis-Bush.jpg?v=1735637924&width=400",
+"type": "Plants",
+"tags": [],
+"in": true
+},
+{
+"t": "Laurus Nobilis Ball",
+"u": "https://exotica.com/products/laurus-nobilis-ball",
+"p": 116.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Laurus-Nobilis-Ball.jpg?v=1735637925&width=400",
+"type": "Plants",
+"tags": [],
+"in": true
+},
+{
+"t": "Euonymus Microphyllus",
+"u": "https://exotica.com/products/euonymus-microphyllus",
+"p": 56.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Euonymus-Microphyllus.jpg?v=1735637927&width=400",
+"type": "Plants",
+"tags": [],
+"in": true
+},
+{
+"t": "Euonymus Erecta",
+"u": "https://exotica.com/products/euonymus-erecta",
+"p": 52.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Euonymus-Erecta.jpg?v=1735637929&width=400",
+"type": "Plants",
+"tags": [
+"Low Maintenance",
+"Plants"
+],
+"in": true
+},
+{
+"t": "Eugenia Etna Fire",
+"u": "https://exotica.com/products/eugenia-etna-fire",
+"p": 70.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Eugenia-Etna-Fire.jpg?v=1735637930&width=400",
+"type": "Plants",
+"tags": [
+"Plants"
+],
+"in": true
+},
+{
+"t": "Peaceful Mind",
+"u": "https://exotica.com/products/peaceful-mind",
+"p": 58.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Peaceful-Mind.jpg?v=1735637968&width=400",
+"type": "Plants",
+"tags": [
+"For Colleagues",
+"For Dad",
+"For Friends",
+"For Her",
+"For Him",
+"For Kids",
+"For Mom",
+"For Teta"
+],
+"in": true
+},
+{
+"t": "Oasis Areca",
+"u": "https://exotica.com/products/oasis-areca",
+"p": 415.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Oasis-Areca.jpg?v=1735637969&width=400",
+"type": "Plants",
+"tags": [
+"For Dad",
+"For Friends",
+"For Teta",
+"Green",
+"Housewarming",
+"Indoor Plants"
+],
+"in": true
+},
+{
+"t": "Money Plant",
+"u": "https://exotica.com/products/money-plant",
+"p": 87.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Money-Plant_260de699-b8a1-44b4-962e-76e4c1f4f125.jpg?v=1749650438&width=400",
+"type": "Plants",
+"tags": [
+"Green",
+"Housewarming",
+"Indoor Plants",
+"Plants"
+],
+"in": true
+},
+{
+"t": "Gentle Ficus",
+"u": "https://exotica.com/products/gentle-ficus",
+"p": 300.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/ficus-tree.jpg?v=1735637973&width=400",
+"type": "Plants",
+"tags": [
+"Congratulations",
+"For Colleagues",
+"For Dad",
+"For Friends",
+"For Her",
+"For Him",
+"For Mom",
+"For Teta"
+],
+"in": true
+},
+{
+"t": "Ficus Charm",
+"u": "https://exotica.com/products/ficus-charm",
+"p": 285.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Ficus-Charm.jpg?v=1735637977&width=400",
+"type": "Plants",
+"tags": [
+"For Colleagues",
+"For Friends",
+"For Her",
+"For Him",
+"Green",
+"Housewarming",
+"Indoor Plants",
+"Plants"
+],
+"in": true
+},
+{
+"t": "Bring Me Peace",
+"u": "https://exotica.com/products/bring-me-peace",
+"p": 99.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Bring-me-peace.jpg?v=1735637982&width=400",
+"type": "Plants",
+"tags": [
+"Housewarming",
+"Indoor Plants",
+"Plants"
+],
+"in": true
+},
+{
+"t": "Artificial Zamioculcas",
+"u": "https://exotica.com/products/artificial-zamioculcas",
+"p": 95.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Artificial-Zamioculcas-Small.jpg?v=1735637986&width=400",
+"type": "Artificial",
+"tags": [],
+"in": false
+},
+{
+"t": "Artificial Phoenix",
+"u": "https://exotica.com/products/artificial-phoenix",
+"p": 245.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Artificial-Phoenix.jpg?v=1735637990&width=400",
+"type": "Artificial",
+"tags": [],
+"in": true
+},
+{
+"t": "Artificial Monstera",
+"u": "https://exotica.com/products/artificial-monstera",
+"p": 175.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Artificial-Monstera-Small.jpg?v=1735637993&width=400",
+"type": "Artificial",
+"tags": [],
+"in": false
+},
+{
+"t": "Artificial Orange Tree",
+"u": "https://exotica.com/products/artificial-orange-tree",
+"p": 98.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Artificial-Orange-Tree.jpg?v=1735637994&width=400",
+"type": "Artificial",
+"tags": [],
+"in": true
+},
+{
+"t": "Artificial Ivy Bush",
+"u": "https://exotica.com/products/artificial-ivy-bush",
+"p": 22.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Artificial-Hanging-Grass.jpg?v=1735637996&width=400",
+"type": "Artificial",
+"tags": [],
+"in": true
+},
+{
+"t": "Chocolates",
+"u": "https://exotica.com/products/chocolates",
+"p": 18.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/chocolate_c489c3d1-202d-4d96-99ac-4b29a20cdf65.jpg?v=1735638005&width=400",
+"type": "Add-Ons",
+"tags": [],
+"in": true
+},
+{
+"t": "Clear Vase",
+"u": "https://exotica.com/products/option-set-748627-checkbox-1",
+"p": 16.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/0000_1.jpg?v=1746433271&width=400",
+"type": "Pots & Vases",
+"tags": [],
+"in": true
+},
+{
+"t": "Vase Porcelain Irregular Off White",
+"u": "https://exotica.com/products/vase-porcelain-irregular-off-white",
+"p": 33.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Vase-Porcelain-Irregular-Off-White.jpg?v=1735638011&width=400",
+"type": "Pots & Vases",
+"tags": [],
+"in": true
+},
+{
+"t": "Vase Porcelain Irregular Black",
+"u": "https://exotica.com/products/vase-porcelain-irregular-black",
+"p": 33.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Vase-Porcelain-Irregular-Black.jpg?v=1735638012&width=400",
+"type": "Pots & Vases",
+"tags": [],
+"in": true
+},
+{
+"t": "Vase Ceramic Altea Gold",
+"u": "https://exotica.com/products/vase-ceramic-altea-gold",
+"p": 99.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Vase-Ceramic-Altea-Gold.jpg?v=1735638017&width=400",
+"type": "Pots & Vases",
+"tags": [],
+"in": true
+},
+{
+"t": "Pot Square Fiber Beaumont Light",
+"u": "https://exotica.com/products/pot-square-fiber-beaumont-light",
+"p": 24.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Pot-Square-Fiber-Beaumont-Light-Grey.jpg?v=1735638021&width=400",
+"type": "Pots & Vases",
+"tags": [],
+"in": true
+},
+{
+"t": "Pot Square Fiber Beaumont Dark",
+"u": "https://exotica.com/products/pot-square-fiber-beaumont-dark",
+"p": 24.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Pot-Square-Fiber-Beaumont-Dark-Grey.jpg?v=1735638022&width=400",
+"type": "Pots & Vases",
+"tags": [],
+"in": true
+},
+{
+"t": "Pot Round Dortmund Cement",
+"u": "https://exotica.com/products/pot-round-dortmund-cement",
+"p": 35.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Pot-Round-Dortmund-Cement.jpg?v=1735638032&width=400",
+"type": "Pots & Vases",
+"tags": [],
+"in": true
+},
+{
+"t": "Pot Rectangular Fiberstone",
+"u": "https://exotica.com/products/pot-rectangular-fiberstone",
+"p": 133.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Pot-Rectangular-Fiberstone.jpg?v=1735638034&width=400",
+"type": "Pots & Vases",
+"tags": [],
+"in": true
+},
+{
+"t": "Pot Conical Amarante Terracotta",
+"u": "https://exotica.com/products/pot-conical-amarante-terracotta",
+"p": 25.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Pot-Conical-Amarante-Terracotta.jpg?v=1735638042&width=400",
+"type": "Pots & Vases",
+"tags": [],
+"in": true
+},
+{
+"t": "Dragon Tree",
+"u": "https://exotica.com/products/dragon-tree",
+"p": 320.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/dragon-tree_a0165ec6-48ac-4289-9468-1ab0d0656ad7.jpg?v=1735638044&width=400",
+"type": "Plants",
+"tags": [],
+"in": true
+},
+{
+"t": "Pot Bowl Round Fiberstone",
+"u": "https://exotica.com/products/pot-bowl-round-fiberstone",
+"p": 1554.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Pot-Bowl-Round-Fiberstone.jpg?v=1735638046&width=400",
+"type": "Pots & Vases",
+"tags": [],
+"in": true
+},
+{
+"t": "Hurricane Nome Glass",
+"u": "https://exotica.com/products/hurricane-nome-glass",
+"p": 72.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Hurricane-Nome-Glass.jpg?v=1735638048&width=400",
+"type": "Pots & Vases",
+"tags": [],
+"in": false
+},
+{
+"t": "The Elegant One",
+"u": "https://exotica.com/products/the-elegant-one",
+"p": 271.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/the-elegant-one-2.jpg?v=1735638061&width=400",
+"type": "Plants",
+"tags": [
+"Birthdays",
+"For Dad",
+"For Her",
+"For Him",
+"For Mom",
+"For Teta",
+"Indoor Plants"
+],
+"in": true
+},
+{
+"t": "Spineless Yucca",
+"u": "https://exotica.com/products/spineless-yucca",
+"p": 213.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Spineless-Yucca_d4bde664-b657-4264-a079-be0d830f1472.jpg?v=1735638067&width=400",
+"type": "Plants",
+"tags": [
+"Green",
+"Indoor Plants",
+"Plants"
+],
+"in": true
+},
+{
+"t": "3 Dozen Reds",
+"u": "https://exotica.com/products/3-dozen-reds",
+"p": 156.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/dress-in-red_3f59766a-38e7-4bfa-bc96-0c4fc5be68fc.jpg?v=1735638164&width=400",
+"type": "Flowers",
+"tags": [
+"For Her",
+"Handheld Bouquets",
+"Love & Romance",
+"Red"
+],
+"in": true
+},
+{
+"t": "Desert Giant",
+"u": "https://exotica.com/products/desert-giant",
+"p": 800.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Desert-Giant.jpg?v=1735638086&width=400",
+"type": "Plants",
+"tags": [
+"Indoor Plants",
+"Low Maintenance",
+"Plants",
+"Succulents & Cacti"
+],
+"in": true
+},
+{
+"t": "Double Your Love",
+"u": "https://exotica.com/products/double-your-love",
+"p": 109.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Double-your-love.jpg?v=1735638094&width=400",
+"type": "Flowers",
+"tags": [
+"For Her",
+"Love & Romance",
+"Red",
+"Roses"
+],
+"in": true
+},
+{
+"t": "Tender Feeling",
+"u": "https://exotica.com/products/tender-feeling",
+"p": 150.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/FRA04836.jpg?v=1777277430&width=400",
+"type": "Flowers",
+"tags": [
+"Flower Boxes",
+"Mixed Colors",
+"Mixed Flowers",
+"Pink"
+],
+"in": true
+},
+{
+"t": "Guardian Angel",
+"u": "https://exotica.com/products/guardian-angel",
+"p": 195.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/guardian-angel_a604c7be-2395-40a2-9dbc-f1856263d9ad.jpg?v=1735638100&width=400",
+"type": "Flowers",
+"tags": [
+"Handheld Bouquets",
+"Large Vase",
+"Roses",
+"White"
+],
+"in": true
+},
+{
+"t": "Serene Blessings",
+"u": "https://exotica.com/products/serene-blessings",
+"p": 932.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/SereneBlessings_77046d40-a769-4b35-b7c5-edcba96bf301.jpg?v=1735638101&width=400",
+"type": "Flowers",
+"tags": [
+"White"
+],
+"in": true
+},
+{
+"t": "Healing Tears",
+"u": "https://exotica.com/products/healing-tears",
+"p": 861.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Healing-Tears_f4810f72-49b0-443d-91e1-d930643628cb.jpg?v=1735638103&width=400",
+"type": "Flowers",
+"tags": [
+"White"
+],
+"in": true
+},
+{
+"t": "In Loving Memory",
+"u": "https://exotica.com/products/in-loving-memory",
+"p": 679.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/In-Loving-Memory_e8b2d619-a945-4db9-8560-90b3ddb14ae4.jpg?v=1735638105&width=400",
+"type": "Flowers",
+"tags": [],
+"in": true
+},
+{
+"t": "Compassionate Thoughts",
+"u": "https://exotica.com/products/compassionate-thoughts",
+"p": 367.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Compassionate-Thoughts_8e472d9b-0cee-44da-9bda-6b04c84faf5b.jpg?v=1735638107&width=400",
+"type": "Flowers",
+"tags": [
+"Flowers",
+"Sympathy"
+],
+"in": true
+},
+{
+"t": "Count From 1 To 100",
+"u": "https://exotica.com/products/count-from-1-to-100",
+"p": 390.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Count-from-1-to-100.jpg?v=1735638111&width=400",
+"type": "Flowers",
+"tags": [
+"Handheld Bouquets",
+"Large Vase",
+"Love & Romance",
+"Red"
+],
+"in": true
+},
+{
+"t": "Classic Symbol of Love",
+"u": "https://exotica.com/products/classic-symbol-of-love",
+"p": 62.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Classic_symbol_of_love_12.png?v=1785480495&width=400",
+"type": "Flowers",
+"tags": [
+"For Her",
+"For Him",
+"Handheld Bouquets",
+"Love & Romance",
+"Red",
+"Roses"
+],
+"in": true
+},
+{
+"t": "I'm Yours",
+"u": "https://exotica.com/products/im-yours",
+"p": 125.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/I_mYours1.jpg?v=1758538265&width=400",
+"type": "Flowers",
+"tags": [
+"Birthdays",
+"Flower Boxes",
+"For Her",
+"For Him",
+"Love & Romance",
+"Red",
+"Roses"
+],
+"in": true
+},
+{
+"t": "Embargo Añejo Esplendido Rum 70cl",
+"u": "https://exotica.com/products/embargo-anejo-esplendido-rum-70cl",
+"p": 59.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Embargo-Anejo-Esplendido-Rum.jpg?v=1735638124&width=400",
+"type": "Wine & Spirits",
+"tags": [
+"Wine & Spirits"
+],
+"in": false
+},
+{
+"t": "EL IXSIR Red Lebanon",
+"u": "https://exotica.com/products/el-ixsir-red-lebanon",
+"p": 43.85,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/EL-IXSIR-Red-Lebanon_985e34a8-43e8-41d9-bb1b-fa1cf0723ce0.jpg?v=1735638127&width=400",
+"type": "Wine & Spirits",
+"tags": [
+"Wine & Spirits"
+],
+"in": true
+},
+{
+"t": "EL IXSIR White Lebanon",
+"u": "https://exotica.com/products/el-ixsir-white-lebanon",
+"p": 30.52,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/EL-IXSIR-White-Lebanon_d80d2375-ac9a-4b4a-b263-5034adc3a80c.jpg?v=1735638128&width=400",
+"type": "Wine & Spirits",
+"tags": [
+"Wine & Spirits"
+],
+"in": true
+},
+{
+"t": "IXSIR Altitudes White Lebanon",
+"u": "https://exotica.com/products/ixsir-altitudes-white-lebanon",
+"p": 12.21,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/IXSIR-Altitudes-White-Lebanon_b4b5dabe-6cfa-4b9b-9588-3ab1d8e9959c.jpg?v=1735638129&width=400",
+"type": "Wine & Spirits",
+"tags": [
+"Wine & Spirits"
+],
+"in": false
+},
+{
+"t": "IXSIR Altitudes Rosé Lebanon",
+"u": "https://exotica.com/products/ixsir-altitudes-rose-lebanon",
+"p": 12.21,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/IXSIR-Altitudes-Rose-Lebanon_289702ff-8d3b-4bc2-8997-78c75ecc820c.jpg?v=1735638130&width=400",
+"type": "Wine & Spirits",
+"tags": [
+"Wine & Spirits"
+],
+"in": true
+},
+{
+"t": "IXSIR Altitudes Red Lebanon",
+"u": "https://exotica.com/products/ixsir-altitudes-red-lebanon",
+"p": 12.21,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/IXSIR-Altitudes-red-Lebanon.jpg?v=1735638131&width=400",
+"type": "Wine & Spirits",
+"tags": [
+"Wine & Spirits"
+],
+"in": true
+},
+{
+"t": "IXSIR Grande Réserve White Lebanon",
+"u": "https://exotica.com/products/ixsir-grande-reserve-white-lebanon",
+"p": 16.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/IXSIR-Grande-Reserve-White-Lebanon.jpg?v=1735638134&width=400",
+"type": "Wine & Spirits",
+"tags": [
+"Wine & Spirits"
+],
+"in": true
+},
+{
+"t": "Soft Floral",
+"u": "https://exotica.com/products/soft-floral",
+"p": 732.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/soft-floral.jpg?v=1735638140&width=400",
+"type": "Flowers",
+"tags": [
+"Birthdays",
+"For Colleagues",
+"For Dad",
+"For Friends",
+"For Her",
+"For Him",
+"For Mom",
+"For Teta"
+],
+"in": true
+},
+{
+"t": "Rose Surprise",
+"u": "https://exotica.com/products/rose-surprise",
+"p": 62.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Rose-Surprise.jpg?v=1735638148&width=400",
+"type": "Flowers",
+"tags": [
+"Birthdays",
+"Congratulations",
+"For Colleagues",
+"For Dad",
+"For Friends",
+"For Her",
+"For Him",
+"For Kids"
+],
+"in": true
+},
+{
+"t": "Rose Elegance",
+"u": "https://exotica.com/products/rose-elegance",
+"p": 118.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Rose-elegance_df494efe-d187-4361-93a8-e084632659fa.jpg?v=1735638149&width=400",
+"type": "Flowers",
+"tags": [
+"Birthdays",
+"Congratulations",
+"For Colleagues",
+"For Dad",
+"For Friends",
+"For Her",
+"For Him",
+"For Kids"
+],
+"in": true
+},
+{
+"t": "Madness Of Love",
+"u": "https://exotica.com/products/madness-of-love",
+"p": 975.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Madness-of-love_809e4879-942d-4716-9303-de5161428dd9.jpg?v=1735638152&width=400",
+"type": "Flowers",
+"tags": [
+"Handheld Bouquets",
+"Love & Romance",
+"Red",
+"Roses"
+],
+"in": true
+},
+{
+"t": "Hot Love",
+"u": "https://exotica.com/products/hot-love",
+"p": 319.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Hot-Love.jpg?v=1735638154&width=400",
+"type": "Flowers",
+"tags": [
+"For Her",
+"Handheld Bouquets",
+"Love & Romance",
+"Red",
+"Roses"
+],
+"in": true
+},
+{
+"t": "Dress In Red",
+"u": "https://exotica.com/products/dress-in-red",
+"p": 195.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/3-dozen-reds_0534f050-73f6-40ef-9abc-b4e60d99f503.jpg?v=1735638156&width=400",
+"type": "Flowers",
+"tags": [
+"For Her",
+"For Him",
+"Handheld Bouquets",
+"Large Vase",
+"Love & Romance",
+"Red",
+"Roses"
+],
+"in": true
+},
+{
+"t": "IXSIR Grande Réserve Red Lebanon",
+"u": "https://exotica.com/products/ixsir-grande-reserve-red-lebanon",
+"p": 18.32,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/IXSIR-Grande-Reserve-Red-Lebanon.jpg?v=1735638161&width=400",
+"type": "Wine & Spirits",
+"tags": [
+"Wine & Spirits"
+],
+"in": true
+},
+{
+"t": "Rose Box",
+"u": "https://exotica.com/products/rose-box",
+"p": 346.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Rose-Box.jpg?v=1735638174&width=400",
+"type": "Flowers",
+"tags": [
+"Flower Boxes",
+"For Her",
+"For Him",
+"Love & Romance",
+"Red"
+],
+"in": true
+},
+{
+"t": "Moulin Rouge",
+"u": "https://exotica.com/products/moulin-rouge",
+"p": 110.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Moulin_Rouge_Black.jpg?v=1770297290&width=400",
+"type": "Flowers",
+"tags": [
+"Flower Boxes",
+"Flowers",
+"For Her",
+"For Him",
+"Love & Romance",
+"Red"
+],
+"in": true
+},
+{
+"t": "Ma Vie",
+"u": "https://exotica.com/products/ma-vie",
+"p": 179.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Ma_vie_Black.jpg?v=1759384690&width=400",
+"type": "Flowers",
+"tags": [
+"Flower Boxes",
+"For Her",
+"For Him",
+"Love & Romance",
+"Red",
+"Roses"
+],
+"in": true
+},
+{
+"t": "Joyful Box",
+"u": "https://exotica.com/products/joyful-box",
+"p": 200.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Joyful_Black.jpg?v=1758538723&width=400",
+"type": "Flowers",
+"tags": [
+"Birthdays",
+"Congratulations",
+"Flower Boxes",
+"Flowers",
+"For Friends",
+"For Her",
+"For Mom",
+"For Teta"
+],
+"in": true
+},
+{
+"t": "Baby Girl",
+"u": "https://exotica.com/products/baby-girl",
+"p": 133.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Baby_Gril_Pink.jpg?v=1758537937&width=400",
+"type": "Flowers",
+"tags": [
+"Congratulations",
+"Flower Boxes",
+"Flowers",
+"For Kids",
+"Gift Bundles",
+"Mixed Flowers",
+"New Born",
+"Pink"
+],
 "in": true
 }
 ]

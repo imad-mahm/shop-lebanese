@@ -3169,5 +3169,316 @@
 "Pave ring"
 ],
 "in": true
+},
+{
+"t": "Open Circle Diamond Ring",
+"u": "https://alexafinejewelry.com/products/round-diamond-ring",
+"p": 365.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0512/0059/0019/products/RoundDiamondRingYellowGold.jpg?v=1606659157&width=400",
+"type": "Jewelry",
+"tags": [
+"diamond Ring"
+],
+"in": true
+},
+{
+"t": "Bar Chain Ring",
+"u": "https://alexafinejewelry.com/products/bar-chain-ring",
+"p": 168.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0512/0059/0019/products/BarChainRingYellowGold.jpg?v=1606651797&width=400",
+"type": "Jewelry",
+"tags": [
+"diamond Ring"
+],
+"in": true
+},
+{
+"t": "Double Hoops Necklace",
+"u": "https://alexafinejewelry.com/products/double-hoops-necklace",
+"p": 1321.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0512/0059/0019/products/DoubleHoopNecklaceYellowGold.jpg?v=1607877740&width=400",
+"type": "Jewelry",
+"tags": [
+"Classic",
+"Diamond Jewelry",
+"Diamond Neclace",
+"Simple",
+"simple necklace"
+],
+"in": true
+},
+{
+"t": "Boyfriend Necklace",
+"u": "https://alexafinejewelry.com/products/boyfriend-necklace",
+"p": 1358.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0512/0059/0019/products/BoyfriendNecklaceYellowGold_6b8814eb-1fca-4724-96ca-b58c5ddcaec7.jpg?v=1607877053&width=400",
+"type": "Jewelry",
+"tags": [
+"Classic",
+"Diamond Jewelry",
+"Diamond Neclace",
+"Simple",
+"simple necklace"
+],
+"in": true
+},
+{
+"t": "Dot Diamond Ring",
+"u": "https://alexafinejewelry.com/products/simple-diamond-ring",
+"p": 325.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0512/0059/0019/products/SimpleDiamondRingYellowGold.jpg?v=1606644545&width=400",
+"type": "Jewelry",
+"tags": [
+"18k",
+"diamond Ring",
+"Simple",
+"Simple Diamond Ring"
+],
+"in": true
+},
+{
+"t": "Heart Dot Earrings",
+"u": "https://alexafinejewelry.com/products/heart-dot-earrings",
+"p": 418.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0512/0059/0019/products/HeartDotEarringsYellowGold.jpg?v=1606640691&width=400",
+"type": "Jewelry",
+"tags": [
+"Diamond Earrings"
+],
+"in": true
+},
+{
+"t": "Dangling Pear Necklace",
+"u": "https://alexafinejewelry.com/products/dangling-pear-necklace",
+"p": 1214.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0512/0059/0019/products/DanglingPearNecklacesYellowGold.jpg?v=1606639546&width=400",
+"type": "",
+"tags": [
+"18k",
+"Classic",
+"Diamond Jewelry",
+"Diamond Neclace",
+"Simple"
+],
+"in": true
+},
+{
+"t": "Circle Pave Necklace",
+"u": "https://alexafinejewelry.com/products/diamond-circle-necklace",
+"p": 608.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0512/0059/0019/products/DiamondCircleNecklaceYellowGold.jpg?v=1606607114&width=400",
+"type": "",
+"tags": [
+"18k",
+"Classic",
+"Diamond Jewelry",
+"Diamond Neclace",
+"Simple"
+],
+"in": true
+},
+{
+"t": "Double Circle Necklace",
+"u": "https://alexafinejewelry.com/products/double-circle-necklace",
+"p": 1090.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0512/0059/0019/products/DoubleCircleNecklaceYellowGold.jpg?v=1606603269&width=400",
+"type": "",
+"tags": [
+"18k",
+"Classic",
+"Diamond Jewelry",
+"Diamond Neclace",
+"Simple"
+],
+"in": true
+},
+{
+"t": "Pave Square Ring",
+"u": "https://alexafinejewelry.com/products/pave-square-ring",
+"p": 528.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0512/0059/0019/products/PaveSquareRingYellowGold.jpg?v=1704378274&width=400",
+"type": "",
+"tags": [
+"Pave ring"
+],
+"in": true
+},
+{
+"t": "Hanging Double Bar Earrings",
+"u": "https://alexafinejewelry.com/products/hanging-bar-earrings",
+"p": 398.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0512/0059/0019/products/HangingBarEarringsYellowGold.jpg?v=1606602535&width=400",
+"type": "",
+"tags": [],
+"in": true
+},
+{
+"t": "Marquise Studs",
+"u": "https://alexafinejewelry.com/products/marquise-studs",
+"p": 229.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0512/0059/0019/products/MarquiseStudsYellowGold.jpg?v=1606600108&width=400",
+"type": "",
+"tags": [
+"18k",
+"Classic",
+"Diamond Earrings",
+"Diamond Jewelry",
+"Simple"
+],
+"in": true
+},
+{
+"t": "Dangling Dot Earrings",
+"u": "https://alexafinejewelry.com/products/dangling-dot",
+"p": 200.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0512/0059/0019/products/HangingDiamondEarringsYellowGold.jpg?v=1606949773&width=400",
+"type": "Jewelry",
+"tags": [
+"18k",
+"Classic",
+"Diamond Earrings",
+"Simple"
+],
+"in": true
+},
+{
+"t": "Heart Chain Ring",
+"u": "https://alexafinejewelry.com/products/mn",
+"p": 250.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0512/0059/0019/products/HeartChainRingYellowGold.jpg?v=1606687291&width=400",
+"type": "Jewelry",
+"tags": [
+"Classic",
+"diamond Ring",
+"Pave ring"
+],
+"in": true
+},
+{
+"t": "Bar Studs",
+"u": "https://alexafinejewelry.com/products/bar-studs",
+"p": 205.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0512/0059/0019/products/BarStudsYellowGold.jpg?v=1606598077&width=400",
+"type": "Jewelry",
+"tags": [
+"18k",
+"Classic",
+"Diamond Earrings",
+"Diamond Jewelry",
+"Simple"
+],
+"in": true
+},
+{
+"t": "North Star Diamond Studs",
+"u": "https://alexafinejewelry.com/products/shooting-star-earrings",
+"p": 158.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0512/0059/0019/products/ShootingStarYellowGold.jpg?v=1606688108&width=400",
+"type": "Jewelry",
+"tags": [
+"18k",
+"Classic",
+"Diamond Earrings",
+"Diamond Jewelry",
+"Simple"
+],
+"in": true
+},
+{
+"t": "Sparkly Sparkly Lariat Necklace",
+"u": "https://alexafinejewelry.com/products/diamond-necklace-long",
+"p": 723.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0512/0059/0019/products/DiamondNecklaceYellowGold.jpg?v=1606944038&width=400",
+"type": "Jewelry",
+"tags": [
+"Classic",
+"Diamond Jewelry",
+"Diamond Neclace",
+"Simple",
+"simple necklace"
+],
+"in": true
+},
+{
+"t": "Diamond Star Necklace",
+"u": "https://alexafinejewelry.com/products/diamond-necklace-star",
+"p": 677.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0512/0059/0019/products/CopyofYellowGold.jpg?v=1606864112&width=400",
+"type": "Jewelry",
+"tags": [
+"Diamond Neclace"
+],
+"in": true
+},
+{
+"t": "Teeny Twinkle Diamond Necklace",
+"u": "https://alexafinejewelry.com/products/diamond-necklace",
+"p": 805.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0512/0059/0019/products/RHM09679PinkGold.jpg?v=1605483801&width=400",
+"type": "",
+"tags": [
+"Classic",
+"Diamond Jewelry",
+"Diamond Neclace",
+"Simple",
+"simple necklace"
+],
+"in": true
+},
+{
+"t": "Classic Star Ring",
+"u": "https://alexafinejewelry.com/products/classic-ring-star",
+"p": 285.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0512/0059/0019/products/RHM08847YellowGold.jpg?v=1606859239&width=400",
+"type": "",
+"tags": [
+"18k",
+"Classic",
+"Diamond",
+"Diamond Jewelry",
+"diamond Ring",
+"Simple"
+],
+"in": true
 }
 ]
