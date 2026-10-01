@@ -88,17 +88,6 @@
 "in": true
 },
 {
-"t": "Flexi Detangling Brush",
-"u": "https://curlygirlaccessories.com/product/la-perla-tech-detangler-hair-brush-for-curly-hair-comb-for-women-color-may-vary-6414202114685/",
-"p": 4.0,
-"c": null,
-"cur": "USD",
-"img": "https://curlygirlaccessories.com/wp-content/uploads/2026/09/6414202114685.jpg",
-"type": "Brushes &amp; Combs",
-"tags": [],
-"in": true
-},
-{
 "t": "Yves Rocher Sulfate-Free Texturizing Shampoo",
 "u": "https://curlygirlaccessories.com/product/yves-rocher-sulfate-free-texturizing-shampoo/",
 "p": 16.0,
@@ -349,7 +338,7 @@
 "img": "https://curlygirlaccessories.com/wp-content/uploads/2026/09/5061076241952-300x300.webp",
 "type": "Conditioner",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Revuele Curl & Bounce Shampoo 250 ML",
@@ -1392,7 +1381,7 @@
 "img": "https://curlygirlaccessories.com/wp-content/uploads/2026/06/11470053-300x300.jpg",
 "type": "Brushes &amp; Combs",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Denman D83 Paddle B Brush",
@@ -1920,7 +1909,7 @@
 "img": "https://curlygirlaccessories.com/wp-content/uploads/2026/04/leave-in-ondas-incriveis-amo-cachos-griffus-definicao-leveza-e-hidratacao-para-ondulados-2a-a-2c-240ml-frente-f375eb310f34c783a317484631478448-640-0-300x300.webp",
 "type": "Leave-In",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Love Curls I Love Perfect Curls Leave-in Fluid 240 ml – Griffus",
@@ -2052,7 +2041,7 @@
 "img": "https://curlygirlaccessories.com/wp-content/uploads/2026/04/shampoo-amo-cachos-frente-8c9639845d2fa7484c17473540206115-640-0-300x300.webp",
 "type": "Shampoo",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Love little curls Modeling Hair Gelatin 240 g – Griffus",
@@ -6125,17 +6114,6 @@
 "in": false
 },
 {
-"t": "Aloe Vera Babosa Gift Hamper",
-"u": "https://curlygirlaccessories.com/product/aloe-vera-babosa-gift-hamper/",
-"p": 77.5,
-"c": null,
-"cur": "USD",
-"img": "https://curlygirlaccessories.com/wp-content/uploads/2026/04/IMG_2509-300x300.png",
-"type": "Gift Hampers",
-"tags": [],
-"in": false
-},
-{
 "t": "Amore Gift Hamper",
 "u": "https://curlygirlaccessories.com/product/amore-gift-hamper/",
 "p": 77.5,
@@ -7123,61 +7101,6 @@
 "type": "Gift Cards &amp; Extras",
 "tags": [],
 "in": true
-},
-{
-"t": "Mais Cachos Curly Routine Gift Hamper",
-"u": "https://curlygirlaccessories.com/product/mais-cachos-curly-routine-gift-hamper-2/",
-"p": 65.1,
-"c": null,
-"cur": "USD",
-"img": "https://curlygirlaccessories.com/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-20-at-09.49.48-300x300.jpeg",
-"type": "Gift Hampers",
-"tags": [],
-"in": false
-},
-{
-"t": "Babosa for brittle hair Gift Hamper hydration",
-"u": "https://curlygirlaccessories.com/product/babosa-for-brittle-hair-gift-hamper-hydration/",
-"p": 65.1,
-"c": null,
-"cur": "USD",
-"img": "https://curlygirlaccessories.com/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-20-at-09.55.46-300x300.jpeg",
-"type": "Gift Hampers",
-"tags": [],
-"in": false
-},
-{
-"t": "Grapes Hydration Gift Hamper",
-"u": "https://curlygirlaccessories.com/product/grapes-hydration-gift-hamper/",
-"p": 65.1,
-"c": null,
-"cur": "USD",
-"img": "https://curlygirlaccessories.com/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-20-at-09.51.15-300x300.jpeg",
-"type": "Gift Hampers",
-"tags": [],
-"in": false
-},
-{
-"t": "Watermelon Nourishment Gift Hamper",
-"u": "https://curlygirlaccessories.com/product/watermelon-nourishment-gift-hamper/",
-"p": 65.1,
-"c": null,
-"cur": "USD",
-"img": "https://curlygirlaccessories.com/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-20-at-09.53.31-300x300.jpeg",
-"type": "Gift Hampers",
-"tags": [],
-"in": false
-},
-{
-"t": "Kid’s Gift Hamper",
-"u": "https://curlygirlaccessories.com/product/kids-gift-hamper/",
-"p": 65.1,
-"c": null,
-"cur": "USD",
-"img": "https://curlygirlaccessories.com/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-20-at-09.52.29-300x300.jpeg",
-"type": "Gift Hampers, Kids",
-"tags": [],
-"in": false
 },
 {
 "t": "Remington Universal Diffuser for  Dryer",
@@ -8942,7 +8865,7 @@
 "Bioderma",
 "Shampoo"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Magic Wavers Set of 10Pcs",
