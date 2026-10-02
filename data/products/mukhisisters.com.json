@@ -974,20 +974,6 @@
 "in": true
 },
 {
-"t": "Shipping Insurance",
-"u": "https://mukhisisters.com/products/shipping-insurance",
-"p": 3.0,
-"c": null,
-"cur": "USD",
-"img": "",
-"type": "mws_fee_generated",
-"tags": [
-"mws_fee_generated",
-"mws_fee_wrapper_cta"
-],
-"in": true
-},
-{
 "t": "Breeze of Orange Sapphire Ring",
 "u": "https://mukhisisters.com/products/breeze-of-pink-sapphire-ring",
 "p": 220.0,
