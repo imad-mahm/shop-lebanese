@@ -500,5 +500,23 @@
   },
   "seconds": 332,
   "total_stores": 44
+ },
+ {
+  "at": "2026-10-02T23:17:09+00:00",
+  "new_candidates": 142,
+  "probed": 30,
+  "new_stores": [],
+  "synced": 8,
+  "sources": {
+   "seeds": 0,
+   "submissions": 0,
+   "removals": 0,
+   "hubs": 0,
+   "search": 0,
+   "commoncrawl": 104,
+   "links": 38
+  },
+  "seconds": 212,
+  "total_stores": 44
  }
 ]
