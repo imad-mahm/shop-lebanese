@@ -1,11 +1,141 @@
 [
 {
+"t": "Elena Jacket - Royal Blue Print",
+"u": "https://www.jujule-lemonie.com/products/elena-jacket-winter-floral-print",
+"p": 345.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0620/6980/1212/files/VAR_1248.jpg?v=1761853594&width=400",
+"type": "",
+"tags": [
+"echoes",
+"fall",
+"jacket",
+"outerwear"
+],
+"in": true
+},
+{
+"t": "Baila Pants - Daisy Navy Blue",
+"u": "https://www.jujule-lemonie.com/products/eme-pants-black-copy",
+"p": 165.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0620/6980/1212/files/BailaPants-Daisy.jpg?v=1790844200&width=400",
+"type": "",
+"tags": [
+"bottomwear",
+"fall",
+"new in",
+"pants"
+],
+"in": true
+},
+{
+"t": "Bomber Jacket - Daisy Navy Blue",
+"u": "https://www.jujule-lemonie.com/products/bubble-skirt-daisy-copy",
+"p": 225.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0620/6980/1212/files/BomberJacket-Daisy_Back.jpg?v=1790842692&width=400",
+"type": "",
+"tags": [
+"bottomwear",
+"fall",
+"new in",
+"skirts",
+"winter"
+],
+"in": true
+},
+{
+"t": "Bubble Skirt - Daisy Navy Blue",
+"u": "https://www.jujule-lemonie.com/products/bubble-skirt-daisy",
+"p": 145.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0620/6980/1212/files/BubbleSkirt-Daisy.jpg?v=1790842083&width=400",
+"type": "",
+"tags": [
+"bottomwear",
+"fall",
+"new in",
+"skirts",
+"winter"
+],
+"in": true
+},
+{
+"t": "Sophie Chemise - Embroidery",
+"u": "https://www.jujule-lemonie.com/products/bridal-chemise-white-copy",
+"p": 125.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0620/6980/1212/files/SophieChemise-Embroidery.jpg?v=1790840820&width=400",
+"type": "",
+"tags": [
+"fall",
+"new in",
+"tops",
+"upperwear"
+],
+"in": true
+},
+{
+"t": "Bridal Chemise White",
+"u": "https://www.jujule-lemonie.com/products/bridal-chemise",
+"p": 125.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0620/6980/1212/files/BridalChemise.jpg?v=1790840308&width=400",
+"type": "",
+"tags": [
+"fall",
+"new in",
+"tops",
+"upperwear"
+],
+"in": true
+},
+{
+"t": "Black Lotus Chemise",
+"u": "https://www.jujule-lemonie.com/products/black-lotus-chemise",
+"p": 125.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0620/6980/1212/files/BlackLotusChemise.jpg?v=1790839588&width=400",
+"type": "",
+"tags": [
+"fall",
+"new in",
+"tops",
+"upperwear"
+],
+"in": true
+},
+{
+"t": "Lucy Chemise - Pins White",
+"u": "https://www.jujule-lemonie.com/products/lucy-chemise-pins-white",
+"p": 125.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0620/6980/1212/files/Lucy_-_Pins.jpg?v=1790839385&width=400",
+"type": "",
+"tags": [
+"fall",
+"new in",
+"tops",
+"upperwear"
+],
+"in": true
+},
+{
 "t": "Lucy Chemise - Sea Buttons Stripes Green",
 "u": "https://www.jujule-lemonie.com/products/lucy-chemise-sea-buttons-stripes-green",
 "p": 125.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0620/6980/1212/files/Lucy-SeaButtons.png?v=1790838301&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0620/6980/1212/files/Lucy_-_Sea_Striped_f90c47d6-e91f-4fcb-83e3-b3a44a2a7690.png?v=1790862756&width=400",
 "type": "",
 "tags": [
 "fall",
@@ -21,7 +151,7 @@
 "p": 125.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0620/6980/1212/files/Lucy-SeaButtons.png?v=1790838301&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0620/6980/1212/files/Lucy_-_Sea_Buttons_75f68e4c-6a42-4228-bd9e-61b8249986d0.png?v=1790861345&width=400",
 "type": "",
 "tags": [
 "fall",
@@ -4373,7 +4503,7 @@
 "in": true
 },
 {
-"t": "Dea Top",
+"t": "Dea Top - Royal Blue Print",
 "u": "https://www.jujule-lemonie.com/products/dea-top",
 "p": 145.0,
 "c": null,

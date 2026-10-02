@@ -1,5 +1,60 @@
 [
 {
+"t": "G- straight jeans 26860",
+"u": "https://www.hashtag-lb.com/products/g-straight-jeans-26860",
+"p": 45.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/1001444109.jpg?v=1790950085&width=400",
+"type": "Jeans",
+"tags": [],
+"in": true
+},
+{
+"t": "G- straight jeans 26862",
+"u": "https://www.hashtag-lb.com/products/g-straight-jeans-26862",
+"p": 45.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/1001444102_9645dc03-b859-4e5c-a2d5-e5c32c49afff.jpg?v=1790949896&width=400",
+"type": "Jeans",
+"tags": [],
+"in": true
+},
+{
+"t": "G-slouchy jeans 1079",
+"u": "https://www.hashtag-lb.com/products/g-slouchy-jeans-1079",
+"p": 45.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/1001444086.jpg?v=1790949553&width=400",
+"type": "jeans",
+"tags": [],
+"in": true
+},
+{
+"t": "G-set 2064",
+"u": "https://www.hashtag-lb.com/products/g-set-2064",
+"p": 65.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/1001444119.jpg?v=1790949403&width=400",
+"type": "Set",
+"tags": [],
+"in": true
+},
+{
+"t": "G-set 0867",
+"u": "https://www.hashtag-lb.com/products/g-set",
+"p": 55.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/1001443419.jpg?v=1790944846&width=400",
+"type": "Set",
+"tags": [],
+"in": true
+},
+{
 "t": "G- wool top 261112",
 "u": "https://www.hashtag-lb.com/products/g-wool-top-261112",
 "p": 29.0,
@@ -1405,7 +1460,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/26b5eda1-36e3-4233-acdc-b3794f4c7b6f.jpg?v=1784469082&width=400",
 "type": "set",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "dress with belt 329",
