@@ -219,7 +219,7 @@
 },
 {
 "t": "Auckland Round",
-"u": "https://exotica.com/products/auckland-conical-copy",
+"u": "https://exotica.com/products/auckland-round",
 "p": 30.0,
 "c": null,
 "cur": "USD",
@@ -303,7 +303,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/FRA08056.jpg?v=1789643998&width=400",
 "type": "Plants",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Crocodile Green",
@@ -395,7 +395,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Purple_Haze_-_Flower_Bouquet.jpg?v=1789548342&width=400",
 "type": "Flowers",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Burnt Orange",
@@ -464,7 +464,7 @@
 "Pink",
 "Red"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Autumn Centerpiece",
@@ -544,7 +544,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Cookie_Bloom_-_Fall_Flower_with_cookies_1.jpg?v=1789547018&width=400",
 "type": "Flowers",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Colours of Fall",
@@ -639,7 +639,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/FallinLove2.webp?v=1760486700&width=400",
 "type": "Flowers",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Harvest Festival",
@@ -685,7 +685,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/PlumSpice.webp?v=1760486451&width=400",
 "type": "Flowers",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Cozy Box",
@@ -736,7 +736,7 @@
 "For Mom",
 "For Teta"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Bonsai Bliss",
@@ -766,7 +766,7 @@
 "Indoor Plants",
 "Plants"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Mini Elm Bonsai",
@@ -859,7 +859,7 @@
 "For Teta",
 "Fuschia"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Nature's Legacy",
@@ -1219,7 +1219,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/0000_produced_at_exotica.jpg?v=1744022321&width=400",
 "type": "",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Balloons",
@@ -1443,7 +1443,7 @@
 "Pink",
 "preorder"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Love in Full Bloom",
@@ -1730,7 +1730,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Untitled_design.jpg?v=1779106820&width=400",
 "type": "Add-Ons",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Pick Love Red",
@@ -2005,7 +2005,7 @@
 },
 {
 "t": "Marzipan Love",
-"u": "https://exotica.com/products/salmon-hues",
+"u": "https://exotica.com/products/marzipan-love",
 "p": 112.0,
 "c": null,
 "cur": "USD",
@@ -2309,7 +2309,7 @@
 "For Teta",
 "Get Well Soon"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Binge Loving",
@@ -2523,7 +2523,7 @@
 "For Teta",
 "Get Well Soon"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Artificial Dracaena Reflexa",
@@ -4500,7 +4500,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/PotRomeroWhite.jpg?v=1749023800&width=400",
 "type": "Pots & Vases",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Pot Tunis Conical Terracotta Blue",
@@ -4652,7 +4652,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/0001_2.jpg?v=1746433252&width=400",
 "type": "Add-Ons",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Beautiful Day",
@@ -4740,7 +4740,7 @@
 {
 "t": "Blush Crush",
 "u": "https://exotica.com/products/blush-crush",
-"p": 124.0,
+"p": 113.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Blush-Crush.jpg?v=1749537215&width=400",
@@ -4757,7 +4757,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Sables-Gourmets---Chocolate-Small-Box.png?v=1735638005&width=400",
 "type": "Add-Ons",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Peace & Love",
@@ -4782,7 +4782,7 @@
 {
 "t": "Small Kisses",
 "u": "https://exotica.com/products/small-kisses",
-"p": 145.0,
+"p": 135.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/small-kisses.jpg?v=1735637889&width=400",
@@ -4975,7 +4975,7 @@
 "Red",
 "Roses"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Soft Night",
@@ -5073,7 +5073,7 @@
 {
 "t": "Love",
 "u": "https://exotica.com/products/love",
-"p": 113.0,
+"p": 135.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/love.jpg?v=1735637891&width=400",
@@ -5128,12 +5128,12 @@
 "For Kids",
 "For Mom"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Blushing Petals",
 "u": "https://exotica.com/products/blushing-petals",
-"p": 113.0,
+"p": 135.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/blushing-petals.jpg?v=1735638116&width=400",
@@ -5148,7 +5148,7 @@
 "Graduation",
 "Handheld Bouquets"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Rainbow Feels",
@@ -5216,7 +5216,7 @@
 {
 "t": "For My Baby",
 "u": "https://exotica.com/products/for-my-baby",
-"p": 145.0,
+"p": 135.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/for-my-baby.jpg?v=1735637892&width=400",
@@ -5854,7 +5854,7 @@
 "Love & Romance",
 "Red"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Desert Giant",

@@ -40,26 +40,6 @@
 "in": true
 },
 {
-"t": "Chateau Musar Red 2016",
-"u": "https://www.209lebanesewine.com/products/chateau-musar-red-2015",
-"p": 49.0,
-"c": 90.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0970/2132/files/Chateau-Musar-Red-2016-NEW_1.png?v=1697198593&width=400",
-"type": "Full-bodied Red Wine",
-"tags": [
-"00Discount",
-"36-55",
-"Alcohol Level:Medium",
-"Autumn",
-"Bal",
-"BR",
-"Food Pairing:Red meat - Beef - Pork - Lamb",
-"Food Pairing:Strong cheese - Roquefort - Blue cheese"
-],
-"in": false
-},
-{
 "t": "Coteaux du Liban Chateau 2010",
 "u": "https://www.209lebanesewine.com/products/coteaux-du-liban-chateau-2010",
 "p": 29.0,
@@ -342,7 +322,7 @@
 {
 "t": "Chateau Marsyas BQA White 2021",
 "u": "https://www.209lebanesewine.com/products/chateau-marsyas-b-qa-white",
-"p": 17.9,
+"p": 18.9,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0970/2132/products/chateau-marsyas-b-qa-white.png?v=1691568776&width=400",
@@ -362,14 +342,14 @@
 {
 "t": "Chateau Marsyas White 2019",
 "u": "https://www.209lebanesewine.com/products/chateau_marsyas_white",
-"p": 24.9,
+"p": 29.9,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0970/2132/products/chateau_marsyas_white.png?v=1691568963&width=400",
 "type": "Dry White Wine",
 "tags": [
 "00Discount",
-"16-25",
+"26-35",
 "Adwisely Exclude",
 "Alcohol Level:High",
 "Food Pairing:Aperitif",
@@ -382,14 +362,14 @@
 {
 "t": "Chateau Marsyas Red 2018",
 "u": "https://www.209lebanesewine.com/products/chateau_marsyas_red",
-"p": 34.9,
+"p": 39.9,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0970/2132/products/chateau_marsyas_red.png?v=1691568965&width=400",
 "type": "Full-bodied Red Wine",
 "tags": [
 "00Discount",
-"26-35",
+"36-55",
 "Adwisely Exclude",
 "Alcohol Level:High",
 "Food Pairing:Red meat - Beef - Pork - Lamb",
@@ -402,8 +382,8 @@
 {
 "t": "Chateau Ksara Nuance 2022",
 "u": "https://www.209lebanesewine.com/products/chateau-ksara-nuance-2018-750ml",
-"p": 5.9,
-"c": 9.0,
+"p": 9.9,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0970/2132/products/chateau-ksara-nuance-2018-750ml.png?v=1691568431&width=400",
 "type": "Dry Rosé Wine",
@@ -442,7 +422,7 @@
 {
 "t": "Aurora Cuvee du patron oaked chardonnay 2024",
 "u": "https://www.209lebanesewine.com/products/aurora-cuvee-du-patron-oaked-chardonnay-2020",
-"p": 17.0,
+"p": 22.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0970/2132/products/aurora-cuvee-du-patron-oaked-chardonnay-2020.png?v=1691568416&width=400",
@@ -462,7 +442,7 @@
 {
 "t": "Aurora Crystal Chardonnay 2024",
 "u": "https://www.209lebanesewine.com/products/aurora-crystal-chardonnay",
-"p": 11.0,
+"p": 13.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0970/2132/products/aurora-crystal-chardonnay.png?v=1691568829&width=400",
@@ -1229,7 +1209,7 @@
 {
 "t": "Chateau Ksara 2019",
 "u": "https://www.209lebanesewine.com/products/chateau-ksara-2019",
-"p": 16.9,
+"p": 18.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0970/2132/products/chateau-ksara-2016.png?v=1691568463&width=400",
@@ -1469,14 +1449,14 @@
 {
 "t": "Aurora Cabernet Franc 2022",
 "u": "https://www.209lebanesewine.com/products/aurora-cabernet-franc",
-"p": 15.0,
+"p": 18.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0970/2132/products/aurora-cabernet-franc.png?v=1691568992&width=400",
 "type": "Medium bodied Red Wine",
 "tags": [
-"0-15",
 "00Discount",
+"16-25",
 "Adwisely Exclude",
 "Alcohol Level:Medium",
 "BeirutCellar",
@@ -1982,7 +1962,7 @@
 "t": "Chateau Ksara Chardonnay Cuvee du pape 2014",
 "u": "https://www.209lebanesewine.com/products/chateau-ksara-chardonnay-cuvee-du-pape",
 "p": 33.0,
-"c": 25.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0970/2132/products/chateau-ksara-chardonnay-cuvee-du-pape.png?v=1691568865&width=400",
 "type": "Dry White Wine",
@@ -2037,46 +2017,6 @@
 "Tannins:Balanced"
 ],
 "in": true
-},
-{
-"t": "Chateau Ksara 2004",
-"u": "https://www.209lebanesewine.com/products/copy-of-chateau-ksara-exclusive-bottles",
-"p": 29.0,
-"c": 40.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0970/2132/products/copy-of-chateau-ksara-exclusive-bottles.png?v=1691568436&width=400",
-"type": "Full-bodied Red Wine",
-"tags": [
-"26-35",
-"Alcohol Level:Medium",
-"Food Pairing:Red meat - Beef - Pork - Lamb",
-"Food Pairing:Strong cheese - Roquefort - Blue cheese",
-"Grape Varieties:Blend",
-"Grape Varieties:Cabernet Sauvignon",
-"Grape Varieties:Merlot",
-"Grape Varieties:Petit Verdot"
-],
-"in": false
-},
-{
-"t": "Chateau Ksara 2005",
-"u": "https://www.209lebanesewine.com/products/chateau-ksara-2005",
-"p": 29.0,
-"c": 40.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0970/2132/products/chateau-ksara-2005.png?v=1691568409&width=400",
-"type": "Full-bodied Red Wine",
-"tags": [
-"26-35",
-"Alcohol Level:Medium",
-"Food Pairing:Red meat - Beef - Pork - Lamb",
-"Food Pairing:Strong cheese - Roquefort - Blue cheese",
-"Grape Varieties:Blend",
-"Grape Varieties:Cabernet Sauvignon",
-"Grape Varieties:Merlot",
-"Grape Varieties:Petit Verdot"
-],
-"in": false
 },
 {
 "t": "The Good Thymes zaatar liqueur",
@@ -2161,13 +2101,13 @@
 {
 "t": "Sept Winery Merweh 2023",
 "u": "https://www.209lebanesewine.com/products/sept-winery-merweh",
-"p": 19.0,
-"c": 27.0,
+"p": 27.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0970/2132/products/sept-winery-merweh.png?v=1691568646&width=400",
 "type": "Dry White Wine",
 "tags": [
-"16-25",
+"26-35",
 "Alcohol Level:Medium",
 "blossom",
 "Food Pairing:Aperitif",
@@ -2520,7 +2460,7 @@
 {
 "t": "Aurora Cuvee N Sauvignon Blanc 2024",
 "u": "https://www.209lebanesewine.com/products/aurora-cuvee-n-sauvignon-blanc",
-"p": 10.0,
+"p": 12.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0970/2132/products/aurora-cuvee-n-sauvignon-blanc.png?v=1691568766&width=400",
@@ -2540,7 +2480,7 @@
 {
 "t": "Aurora Cuvee du patron red 2020",
 "u": "https://www.209lebanesewine.com/products/aurora-cuvee-du-patron-red-2018",
-"p": 20.0,
+"p": 25.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0970/2132/products/aurora-cuvee-du-patron-red-2018.png?v=1691568413&width=400",
@@ -2560,7 +2500,7 @@
 {
 "t": "Aurora Chateau 2022",
 "u": "https://www.209lebanesewine.com/products/aurora-chateau",
-"p": 12.0,
+"p": 13.5,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0970/2132/products/aurora-chateau.png?v=1691568994&width=400",

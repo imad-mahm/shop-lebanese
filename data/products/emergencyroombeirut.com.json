@@ -1,5 +1,57 @@
 [
 {
+"t": "LOW WAISTED PANTS IN GOLD LAME",
+"u": "https://emergencyroombeirut.com/products/low-waisted-pants-grey-copy",
+"p": 160.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0386/1590/8491/files/Pants13_Front_8cbbf23b-b62d-4534-b761-45e8aa879340.jpg?v=1790859046&width=400",
+"type": "Pants",
+"tags": [
+"checked"
+],
+"in": true
+},
+{
+"t": "LOW WAISTED PANTS (GREY)",
+"u": "https://emergencyroombeirut.com/products/low-waisted-pants-gold-with-stripes",
+"p": 120.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0386/1590/8491/files/Pants11_Front.jpg?v=1790858763&width=400",
+"type": "Pants",
+"tags": [
+"checked"
+],
+"in": true
+},
+{
+"t": "BACKLESS TOP WITH TASSELS (GREEN AND GOLD)",
+"u": "https://emergencyroombeirut.com/products/floral-fringe-backless-top-colorful-copy",
+"p": 50.0,
+"c": 120.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0386/1590/8491/files/Top15_Front_04221f23-4f98-41d7-a817-206ca6abc6ed.jpg?v=1790851813&width=400",
+"type": "Tops",
+"tags": [
+"checked"
+],
+"in": true
+},
+{
+"t": "BRALETTE IN LAME (BURGUNDY)",
+"u": "https://emergencyroombeirut.com/products/bralette-in-lame-copy-1",
+"p": 40.0,
+"c": 60.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0386/1590/8491/files/Top30_Front_0adbccce-17c3-4aba-a0de-38a6c890e5cd.jpg?v=1790848761&width=400",
+"type": "Tops",
+"tags": [
+"checked"
+],
+"in": true
+},
+{
 "t": "LOW WAISTED PANTS (BLUE CHECKERED)",
 "u": "https://emergencyroombeirut.com/products/low-waisted-pants-blue-checkered",
 "p": 60.0,
@@ -30,7 +82,7 @@
 "in": true
 },
 {
-"t": "BRALETTE IN TABLE LINENS (Copy)",
+"t": "BRALETTE IN TABLE LINENS",
 "u": "https://emergencyroombeirut.com/products/bralette-in-table-linens-copy-3",
 "p": 50.0,
 "c": 90.0,
