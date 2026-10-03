@@ -441,9 +441,7 @@
 "Flowers",
 "For Her",
 "Mixed Flowers",
-"Orange",
-"Pink",
-"Red"
+"Orange"
 ],
 "in": true
 },
@@ -460,9 +458,7 @@
 "Flowers",
 "For Her",
 "Mixed Flowers",
-"Orange",
-"Pink",
-"Red"
+"Orange"
 ],
 "in": true
 },
@@ -612,7 +608,7 @@
 "For Him",
 "For Kids"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Floral Joy",
@@ -670,9 +666,7 @@
 "Flowers",
 "For Her",
 "Mixed Flowers",
-"Orange",
-"Pink",
-"Red"
+"Orange"
 ],
 "in": true
 },
@@ -685,7 +679,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/PlumSpice.webp?v=1760486451&width=400",
 "type": "Flowers",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Cozy Box",
@@ -716,7 +710,7 @@
 "For Mom",
 "For Teta"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Zen Bonsai",
@@ -859,7 +853,7 @@
 "For Teta",
 "Fuschia"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Nature's Legacy",
@@ -1122,7 +1116,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/LilacHugs.jpg?v=1753950429&width=400",
 "type": "Flowers",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Trust our Florists",
@@ -1219,7 +1213,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/0000_produced_at_exotica.jpg?v=1744022321&width=400",
 "type": "",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Balloons",
@@ -2789,7 +2783,7 @@
 "For Teta",
 "Get Well Soon"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Sansevieria Sentiments",
@@ -3783,7 +3777,7 @@
 "Plants",
 "Small"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Bonsai Ligustrum",
@@ -3908,7 +3902,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/frame_e1367ce7-541b-4ef4-9fb9-7b5323547de1.jpg?v=1759413582&width=400",
 "type": "Add-Ons",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Bamboo Orchid",
@@ -3928,7 +3922,7 @@
 "For Him",
 "For Kids"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Pop Up",
@@ -4580,7 +4574,7 @@
 "tags": [
 "Wine & Spirits"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Sunset Dust",
@@ -4746,7 +4740,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Blush-Crush.jpg?v=1749537215&width=400",
 "type": "Flowers",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Sablés Gourmets Small Box",
@@ -4757,7 +4751,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Sables-Gourmets---Chocolate-Small-Box.png?v=1735638005&width=400",
 "type": "Add-Ons",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Peace & Love",
@@ -5128,7 +5122,7 @@
 "For Kids",
 "For Mom"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Blushing Petals",
@@ -5854,7 +5848,7 @@
 "Love & Romance",
 "Red"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Desert Giant",
@@ -6074,7 +6068,7 @@
 "tags": [
 "Wine & Spirits"
 ],
-"in": false
+"in": true
 },
 {
 "t": "IXSIR Altitudes Rosé Lebanon",

@@ -1428,7 +1428,7 @@
 {
 "t": "Jumbo Rich Women Salon Chair 6126",
 "u": "https://daouk.com/products/jumbo-rich-women-chair-6126",
-"p": 150.0,
+"p": 230.0,
 "c": 58.04,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/0000001753226-CHAIR-USD-342-2.jpg?v=1739787785&width=400",
@@ -4051,7 +4051,7 @@
 "tags": [
 "kb-rewritten"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Revlon One Step Volumiser Plus Edition RVDR5298E1",
@@ -4064,7 +4064,7 @@
 "tags": [
 "kb-rewritten"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Braun Face Mini Hair Remover FS1000",
@@ -29252,7 +29252,7 @@
 "kb-rewritten",
 "seo-rewritten"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Majirel 7.07 Hair Color 50ml",
@@ -30196,7 +30196,7 @@
 "tags": [
 "kb-rewritten"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Dr Schmidt Nail File",
@@ -33449,7 +33449,7 @@
 "Olaplex Nº.5 Bond Maintenance Conditioner 250ml",
 "seo-rewritten"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Olaplex No. 6 Bond Smoother 100ml",
@@ -36137,7 +36137,7 @@
 "tags": [
 "kb-rewritten"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Nivea Body Milk 5in1 Care Intensive Moisture 380ml",

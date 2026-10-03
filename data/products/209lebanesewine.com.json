@@ -1,5 +1,245 @@
 [
 {
+"t": "Chateau Khoury Reve Blanc 2022",
+"u": "https://www.209lebanesewine.com/products/reve-blanc",
+"p": 8.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0970/2132/products/reve-blanc.png?v=1691568771&width=400",
+"type": "Dry White Wine",
+"tags": [
+"0-15",
+"Alcohol Level:Medium",
+"blossom",
+"crimson",
+"Food Pairing:Aperitif",
+"Food Pairing:Cold cuts",
+"Food Pairing:Grilled fish and seafood",
+"Food Pairing:Lebanese Mezze"
+],
+"in": true
+},
+{
+"t": "Chateau Khoury Pinot Gris 2020 Dry",
+"u": "https://www.209lebanesewine.com/products/chateau-khoury-pinot-gris-dry",
+"p": 10.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0970/2132/products/chateau-khoury-pinot-gris-dry.png?v=1691568773&width=400",
+"type": "Dry White Wine",
+"tags": [
+"0-15",
+"00Discount",
+"Adwisely Exclude",
+"Alcohol Level:Medium",
+"Bal",
+"BeirutCellar",
+"blossom",
+"Food Pairing:Aperitif"
+],
+"in": true
+},
+{
+"t": "Chateau Khoury Icone de Perseides 2012",
+"u": "https://www.209lebanesewine.com/products/chateau-khoury-icone-de-perseides",
+"p": 55.5,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0970/2132/products/chateau-khoury-icone-de-perseides.png?v=1691568840&width=400",
+"type": "Full-bodied Red Wine",
+"tags": [
+"00Discount",
+"36-55",
+"Adwisely Exclude",
+"Alcohol Level:Medium",
+"Food Pairing:Red meat - Beef - Pork - Lamb",
+"Food Pairing:Strong cheese - Roquefort - Blue cheese",
+"Grape Varieties:Cabernet Sauvignon",
+"Grape Varieties:Merlot"
+],
+"in": true
+},
+{
+"t": "Chateau Khoury Cuvee St. Therese 2019",
+"u": "https://www.209lebanesewine.com/products/chateau-khoury-cuvee-st-therese",
+"p": 8.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0970/2132/products/chateau-khoury-cuvee-st-therese.png?v=1691568845&width=400",
+"type": "Light Red Wine",
+"tags": [
+"0-15",
+"Adwisely Exclude",
+"Alcohol Level:Medium",
+"Food Pairing:Aperitif",
+"Food Pairing:Cold cuts",
+"Food Pairing:Grilled fish and seafood",
+"Food Pairing:Lebanese Mezze",
+"Food Pairing:Pasta and pizza"
+],
+"in": true
+},
+{
+"t": "Domaine des Tourelles White 2024",
+"u": "https://www.209lebanesewine.com/products/domaine-des-tourelles-white",
+"p": 7.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0970/2132/products/domaine-des-tourelles-white.png?v=1691568754&width=400",
+"type": "Dry White Wine",
+"tags": [
+"0-15",
+"Alcohol Level:Medium",
+"blossom",
+"Food Pairing:Aperitif",
+"Food Pairing:Cold cuts",
+"Food Pairing:Grilled fish and seafood",
+"Food Pairing:Lebanese Mezze",
+"Food Pairing:Light cheese - Goat cheese"
+],
+"in": true
+},
+{
+"t": "Domaine des Tourelles Red 2023",
+"u": "https://www.209lebanesewine.com/products/domaine_des_tourelles_red",
+"p": 7.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0970/2132/products/domaine_des_tourelles_red.png?v=1691568977&width=400",
+"type": "Full-bodied Red Wine",
+"tags": [
+"0-15",
+"Alcohol Level:Medium",
+"Food Pairing:Red meat - Beef - Pork - Lamb",
+"Food Pairing:Strong cheese - Roquefort - Blue cheese",
+"Grape Varieties:Blend",
+"Grape Varieties:Cabernet Sauvignon",
+"Grape Varieties:Carignan",
+"Grape Varieties:Cinsault"
+],
+"in": true
+},
+{
+"t": "Aurora Pinot Noir 2023",
+"u": "https://www.209lebanesewine.com/products/aurora-pinot-noir",
+"p": 21.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0970/2132/files/Pinot_Noir_2023_-_trans.png?v=1721035993&width=400",
+"type": "Light Red Wine",
+"tags": [
+"00Discount",
+"16-25",
+"Adwisely Exclude",
+"Alcohol Level:Medium",
+"Food Pairing:Aperitif",
+"Food Pairing:Cold cuts",
+"Food Pairing:Grilled fish and seafood",
+"Food Pairing:Lebanese Mezze"
+],
+"in": true
+},
+{
+"t": "IXSIR Grande Reserve Red 2019",
+"u": "https://www.209lebanesewine.com/products/ixsir-grande-reserve-red",
+"p": 18.99,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0970/2132/products/ixsir_grande_reserve_red.png?v=1691568922&width=400",
+"type": "Full-bodied Red Wine",
+"tags": [
+"00Discount",
+"16-25",
+"Adwisely Exclude",
+"Alcohol Level:Medium",
+"Food Pairing:Red meat - Beef - Pork - Lamb",
+"Food Pairing:Strong cheese - Roquefort - Blue cheese",
+"Grape Varieties:Blend",
+"Grape Varieties:Cabernet Sauvignon"
+],
+"in": true
+},
+{
+"t": "IXSIR Altitude White 2024",
+"u": "https://www.209lebanesewine.com/products/ixsir-altitude-white",
+"p": 12.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0970/2132/files/AltWhiteNV.png?v=1706525058&width=400",
+"type": "Dry White Wine",
+"tags": [
+"0-15",
+"Alcohol Level:Medium",
+"Bal",
+"Food Pairing:Aperitif",
+"Food Pairing:Cold cuts",
+"Food Pairing:Grilled fish and seafood",
+"Food Pairing:Lebanese Mezze",
+"Food Pairing:Light cheese - Goat cheese"
+],
+"in": true
+},
+{
+"t": "IXSIR Grande Reserve White 2025",
+"u": "https://www.209lebanesewine.com/products/ixsir-grande-reserve-white",
+"p": 16.9,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0970/2132/files/GRWhiteNV.png?v=1706525187&width=400",
+"type": "Dry White Wine",
+"tags": [
+"00Discount",
+"16-25",
+"Adwisely Exclude",
+"Alcohol Level:Medium",
+"Bal",
+"blossom",
+"Food Pairing:Aperitif",
+"Food Pairing:Cold cuts"
+],
+"in": true
+},
+{
+"t": "IXSIR Altitude Red 2021",
+"u": "https://www.209lebanesewine.com/products/ixsir-altitude-red",
+"p": 12.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0970/2132/files/AltRedNV.png?v=1706524985&width=400",
+"type": "Full-bodied Red Wine",
+"tags": [
+"0-15",
+"Alcohol Level:Medium",
+"Bal",
+"Food Pairing:Red meat - Beef - Pork - Lamb",
+"Food Pairing:Strong cheese - Roquefort - Blue cheese",
+"Grape Varieties:Blend",
+"Grape Varieties:Cabernet Sauvignon",
+"Grape Varieties:Caladoc"
+],
+"in": true
+},
+{
+"t": "IXSIR EL Red 2020",
+"u": "https://www.209lebanesewine.com/products/el_ixsir_red",
+"p": 42.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0970/2132/files/ELRedNV.png?v=1706525075&width=400",
+"type": "Full-bodied Red Wine",
+"tags": [
+"36-55",
+"Alcohol Level:Medium",
+"Cozy",
+"Food Pairing:Red meat - Beef - Pork - Lamb",
+"Food Pairing:Strong cheese - Roquefort - Blue cheese",
+"Grape Varieties:Blend",
+"Grape Varieties:Cabernet Sauvignon",
+"Grape Varieties:Merlot"
+],
+"in": true
+},
+{
 "t": "Chateau Kefraya Comte de M 2018",
 "u": "https://www.209lebanesewine.com/products/chateau-kefraya-comte-de-m-2018",
 "p": 29.0,
