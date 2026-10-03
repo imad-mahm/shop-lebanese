@@ -725,7 +725,7 @@
 "korean",
 "Loyalty Program"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Vanilla & Pistachio Deodorant",
@@ -979,7 +979,7 @@
 "SAVE20",
 "SAVE22"
 ],
-"in": true
+"in": false
 },
 {
 "t": "BioPhane",
@@ -6468,7 +6468,7 @@
 "Item Type_Day & Night Care",
 "Item Type_Face Serums"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Azelaic Acid 16BB Calming Serum Mask",
@@ -10552,7 +10552,7 @@
 "new arrivals",
 "No-Sync"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Collagen Jelly Cream",
@@ -10592,7 +10592,7 @@
 "Loyalty Program",
 "Masks & Patches"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Zero Pore Pads 2.0",
@@ -10632,7 +10632,7 @@
 "Item Type_Sunscreens",
 "korean"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Deep Vita C Capsule Cream",
@@ -14840,7 +14840,7 @@
 "Product Type_Hair & Nails",
 "Sub Category_Food Supplements"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Protein Gummies Berries 20 Gr Peach Mango",
@@ -21496,7 +21496,7 @@
 "No-Sync",
 "Product Type_Gift Sets"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Laxeov Cubes Transit - Apple and Apricot",
@@ -21536,7 +21536,7 @@
 "Luxury Skin Care",
 "new arrivals"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Hydra Zen Starter Kit",
@@ -21576,7 +21576,7 @@
 "Luxury",
 "Luxury Skin Care"
 ],
-"in": false
+"in": true
 },
 {
 "t": "L'Oréal Professionnel Serie Expert Color 10 In 1 Perfecting Multipurpose Spray - Gift",
@@ -23227,7 +23227,7 @@
 "No-Sync",
 "Product Type_Value Deals"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Cloudtopia Blush for Cheeks and Lip Mousse & Lifter Serum Concealer & Colossal Bubble Washable Mascara Trio",
@@ -23247,7 +23247,7 @@
 "cheeks",
 "CLOUD6"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Cloudtopia Blush for Cheeks and Lip Mousse Duo",
@@ -23267,7 +23267,7 @@
 "CLOUD6",
 "Lips"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Maybelline New York Pink Blush Brush - Gift",
@@ -23285,7 +23285,7 @@
 "SAVE22",
 "SEARCH_IGNORE"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Colamag",
@@ -41351,7 +41351,7 @@
 "Face Serums",
 "Ingredient_Niacinamide"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Reviving Ice Cubes",
@@ -43640,7 +43640,7 @@
 "Food Supplements",
 "Immunity Weakness"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Novadiet Denzimax & Pileje Lactibiane Reference Offer",
@@ -49468,7 +49468,7 @@
 "Gift Sets",
 "Loyalty Program"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Body Mist FlowerLand MoonLight Petals",
@@ -52219,7 +52219,7 @@
 "Lips",
 "Lipstick"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Born in Roma Uomo Extradose Holiday Gift Set",
@@ -54510,7 +54510,7 @@
 "Eau De Parfum",
 "For Her"
 ],
-"in": true
+"in": false
 },
 {
 "t": "L'Eau Virile Set - EDP 100ml & Shower Gel",
