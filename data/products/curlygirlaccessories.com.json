@@ -52,7 +52,7 @@
 "img": "https://curlygirlaccessories.com/wp-content/uploads/2026/09/7_72cad00d-832f-4853-a113-c828177b14ee-300x300.webp",
 "type": "Masks &amp; Treatments",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Kids Metallic Random Color Brush",
@@ -1381,7 +1381,7 @@
 "img": "https://curlygirlaccessories.com/wp-content/uploads/2026/06/11470053-300x300.jpg",
 "type": "Brushes &amp; Combs",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Denman D83 Paddle B Brush",
@@ -2041,7 +2041,7 @@
 "img": "https://curlygirlaccessories.com/wp-content/uploads/2026/04/shampoo-amo-cachos-frente-8c9639845d2fa7484c17473540206115-640-0-300x300.webp",
 "type": "Shampoo",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Love little curls Modeling Hair Gelatin 240 g – Griffus",
@@ -6405,7 +6405,7 @@
 "tags": [
 "Bounce Curl"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Slick-Flex Define EdgeLift",

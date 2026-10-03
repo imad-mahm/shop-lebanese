@@ -1,5 +1,62 @@
 [
 {
+"t": "XPER Gas Cooker 90Cm",
+"u": "https://kaystore.com/product/xper-xbc90cb/",
+"p": 679.0,
+"c": 799.0,
+"cur": "USD",
+"img": "https://kaystore.com/wp-content/uploads/2026/10/XPER-XBC90CB-247x296.jpg",
+"type": "Gas Cooker",
+"tags": [
+"cooker",
+"cooking",
+"freestanding cooker",
+"freestanding gas",
+"Gas",
+"Gas90",
+"large appliances"
+],
+"in": true
+},
+{
+"t": "XPER Gas Cooker 90Cm",
+"u": "https://kaystore.com/product/xper-xbc90cw/",
+"p": 679.0,
+"c": 799.0,
+"cur": "USD",
+"img": "https://kaystore.com/wp-content/uploads/2026/10/XPER-XBC90CW-1-247x296.jpg",
+"type": "Gas Cooker",
+"tags": [
+"cooker",
+"cooking",
+"freestanding cooker",
+"freestanding gas",
+"Gas",
+"Gas90",
+"large appliances"
+],
+"in": true
+},
+{
+"t": "XPER Gas Cooker 90Cm",
+"u": "https://kaystore.com/product/xper-xgo90ci/",
+"p": 765.0,
+"c": 899.0,
+"cur": "USD",
+"img": "https://kaystore.com/wp-content/uploads/2026/10/XPER-XGO90CI-247x296.jpg",
+"type": "Gas Cooker",
+"tags": [
+"cooker",
+"cooking",
+"freestanding cooker",
+"freestanding gas",
+"Gas",
+"Gas90",
+"large appliances"
+],
+"in": true
+},
+{
 "t": "La Germania Gas Cooker 60Cm",
 "u": "https://kaystore.com/product/la-germania-ltu64032dnci/",
 "p": 782.0,
@@ -4865,7 +4922,7 @@
 "Laundry",
 "washer8KG"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Kelvinator Heat Pump Dryer 9kg",
@@ -46349,7 +46406,7 @@
 {
 "t": "Samsung Vision AI Smart TV Oled 55 Inch 4K",
 "u": "https://kaystore.com/product/samsung-vision-ai-smart-tv-oled-55-inch-4k-s85f/",
-"p": 1430.0,
+"p": 1200.0,
 "c": 1800.0,
 "cur": "USD",
 "img": "https://kaystore.com/wp-content/uploads/2025/06/s85faexzn-247x296.jpg",
@@ -51858,54 +51915,6 @@
 "Kitchenware",
 "La Maison",
 "Salt&amp;Pepper"
-],
-"in": true
-},
-{
-"t": "Lebrillo Bowl Granada Stripes Ceramic Orange",
-"u": "https://kaystore.com/product/lebrillo-bowl-granada-stripes-ceramic-orange/",
-"p": 55.0,
-"c": 79.0,
-"cur": "USD",
-"img": "https://kaystore.com/wp-content/uploads/2025/06/I134350-1-247x296.jpg",
-"type": "Bowls, La Maison",
-"tags": [
-"Bowls",
-"J-Line",
-"La Maison",
-"Tableware"
-],
-"in": true
-},
-{
-"t": "Bowl Granada Stripes High Ceramic Orange Large",
-"u": "https://kaystore.com/product/bowl-granada-stripes-high-ceramic-orange-large/",
-"p": 29.0,
-"c": 42.0,
-"cur": "USD",
-"img": "https://kaystore.com/wp-content/uploads/2025/06/I134349-1-247x296.jpg",
-"type": "Bowls, La Maison",
-"tags": [
-"Bowls",
-"J-Line",
-"La Maison",
-"Tableware"
-],
-"in": true
-},
-{
-"t": "Bowl Granada Stripes High Ceramic Orange Medium",
-"u": "https://kaystore.com/product/bowl-granada-stripes-high-ceramic-orange-medium/",
-"p": 18.0,
-"c": 26.0,
-"cur": "USD",
-"img": "https://kaystore.com/wp-content/uploads/2025/05/I134348-1-247x296.jpg",
-"type": "Bowls, La Maison",
-"tags": [
-"Bowls",
-"J-Line",
-"La Maison",
-"Tableware"
 ],
 "in": true
 }
