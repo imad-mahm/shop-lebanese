@@ -1,5 +1,24 @@
 [
 {
+"t": "Gift From L'Oréal Paris : Cotton Holder",
+"u": "https://looliacloset.com/products/gift-from-loreal-paris-cotton-holder",
+"p": 0.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Untitleddesign_5012f323-cb9b-404f-9dd3-e9edf9b4d966.png?v=1784035263&width=400",
+"type": "GWP",
+"tags": [
+"_appmaker_disable_purchase",
+"BP_France",
+"GWP",
+"Hidden recommendation",
+"hide_product_status",
+"L'Oréal Paris",
+"SEARCHANISE_IGNORE"
+],
+"in": true
+},
+{
 "t": "Skincare Oil Natural",
 "u": "https://looliacloset.com/products/skincare-oil-natural",
 "p": 4.67,
@@ -200,7 +219,7 @@
 "Black Friday OffersMAKEUP",
 "Black Friday | Up To 50%"
 ],
-"in": true
+"in": false
 },
 {
 "t": "ColorRush Electric Blue Mascara",
@@ -247,7 +266,7 @@
 "NYX Professional Makeup",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Buttermelt Blush + Loose Setting Powder + FREE Mirror Suction At 20% OFF",
@@ -440,7 +459,7 @@
 "hide_product_status",
 "SEARCHANISE_IGNORE"
 ],
-"in": true
+"in": false
 },
 {
 "t": "2x Elnett Hairspray At 20% OFF",
@@ -748,7 +767,7 @@
 "haircare must",
 "L'Oréal Paris"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Gift From Avène: Micellar Water 100 ML",
@@ -1084,7 +1103,7 @@
 "Maybelline New York",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Lifter Stix + Lifter Gloss + Sky High Mascara + Free Pair Of Sunglasses At 25% OFF",
@@ -1158,7 +1177,7 @@
 "L'Oréal Paris",
 "Valued Bundles"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Elvive Hyaluron Shampoo + Conditioner + Serum + FREE Pair Of Sunglasses At 30% OFF",
@@ -1194,7 +1213,7 @@
 "Gem_It_Up",
 "L'Oréal Paris"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Glycolic-Bright Foam Cleanser + Anti-Dark Spot Exfoliant Peel + Daily UV Fluid + FREE Pair Of Sunglasses At 20% OFF",
@@ -1778,7 +1797,7 @@
 "Sky_High_Moment",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Vinyl Ink Lipstick + Sky High Mascara +  Lifter Liner Lip Liner Pencil At 25% OFF",
@@ -1924,7 +1943,7 @@
 "Gem_It_Up",
 "L'Oréal Paris"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Gift From L'Oréal Paris : Gem Stickers Mask",
@@ -3559,7 +3578,7 @@
 "L'Oréal Paris",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Any Elvive Shampoo + Any Conditioner + Any Oil Replacement At 35% OFF",
@@ -4645,13 +4664,14 @@
 {
 "t": "Revitalift Triple Power Eye Bag Instant Corrector with Gel-to-tape Technology To Depuff, Smooth, And Firm Eye Bags, 15ml",
 "u": "https://looliacloset.com/products/loreal-revitalift-eye-bag-corrector-15ml",
-"p": 16.2,
-"c": null,
+"p": 12.96,
+"c": 16.2,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/1-RevitaliftTriplePower-EyeTape3600524186234_d47c91f1-9089-40cc-91a2-eaafa9aec598.jpg?v=1786353195&width=400",
 "type": "Eye Cream",
 "tags": [
 "eye cream",
+"Fall_Into_Hydra",
 "FEATURED_PRODUCTS",
 "L'Oréal Paris",
 "OAP_NOV_26"
@@ -6069,7 +6089,7 @@
 "FEATURED_PRODUCTS",
 "Vaseline"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Intensive Care Nourishing Moisture Body Lotion 400ml",
@@ -6317,6 +6337,7 @@
 "BP_France",
 "Eau Thermale Avène",
 "Factory Sync Transfer",
+"Fall_Into_Hydra",
 "Sunscreen"
 ],
 "in": false
@@ -6333,6 +6354,7 @@
 "BP_France",
 "Eau Thermale Avène",
 "Factory Sync Transfer",
+"Fall_Into_Hydra",
 "Moisturizing Cream"
 ],
 "in": false
@@ -6349,7 +6371,8 @@
 "BP_France",
 "Cleanser Gel",
 "Ducray",
-"Factory Sync Transfer"
+"Factory Sync Transfer",
+"Fall_Into_Hydra"
 ],
 "in": true
 },
@@ -6700,6 +6723,7 @@
 "type": "Wipes",
 "tags": [
 "BP_France",
+"Fall_Into_Hydra",
 "Mustela",
 "Skin Glow Edit",
 "wipes"
@@ -7000,7 +7024,7 @@
 "L'Oréal Paris",
 "Skin Glow Edit"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Effaclar Duo+M Acne Treatment Cream + 2x FREE Effaclar Foaming Gel",
@@ -7615,7 +7639,7 @@
 "FEATURED_PRODUCTS",
 "Halloween 2025"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Infaillible Setting Mist Spray + Tinted Serum + Lumi Le Liquid Blush + FREE Pouch At 20% OFF",
@@ -7803,10 +7827,10 @@
 "Body Sunscreen",
 "BP_Lebanon",
 "BP_US",
+"Fall_Into_Hydra",
 "FEATURED_PRODUCTS",
 "Hawaiian Tropic",
-"Skin Glow Edit",
-"SM_Suncare"
+"Skin Glow Edit"
 ],
 "in": false
 },
@@ -7843,6 +7867,7 @@
 "Body Sunscreen",
 "BP_Lebanon",
 "BP_US",
+"Fall_Into_Hydra",
 "FEATURED_PRODUCTS",
 "Hawaiian Tropic",
 "Skin Glow Edit"
@@ -7862,6 +7887,7 @@
 "AFTER SUN",
 "BP_Lebanon",
 "BP_US",
+"Fall_Into_Hydra",
 "FEATURED_PRODUCTS",
 "Hawaiian Tropic",
 "Skin Glow Edit"
@@ -9136,10 +9162,10 @@
 "cleanser",
 "dermo must",
 "Discount_26",
+"Fall_Into_Hydra",
 "FEATURED_PRODUCTS",
 "Mustela",
-"Skin Care",
-"Skin Glow Edit"
+"Skin Care"
 ],
 "in": false
 },
@@ -10168,6 +10194,7 @@
 "tags": [
 "A-derma",
 "BP_France",
+"Fall_Into_Hydra",
 "Skin Glow Edit",
 "SUNSCREEN"
 ],
@@ -10185,11 +10212,11 @@
 "A8_upto60",
 "BP_France",
 "Ducray",
+"Fall_Into_Hydra",
 "Skin Glow Edit",
 "SM_PF_25",
 "SM_Suncare",
-"Summer_Essentials_2026",
-"SUNSCREEN"
+"Summer_Essentials_2026"
 ],
 "in": true
 },
@@ -10690,6 +10717,7 @@
 "tags": [
 "A8_upto60",
 "BP_US",
+"Fall_Into_Hydra",
 "FEATURED_PRODUCTS",
 "Neutrogena",
 "Skin Glow Edit",
@@ -10725,6 +10753,7 @@
 "tags": [
 "A8_upto60",
 "BP_US",
+"Fall_Into_Hydra",
 "FEATURED_PRODUCTS",
 "Neutrogena",
 "Skin Glow Edit",
@@ -10744,6 +10773,7 @@
 "A8_upto60",
 "Body Sunscreen",
 "BP_US",
+"Fall_Into_Hydra",
 "FEATURED_PRODUCTS",
 "Neutrogena",
 "Skin Glow Edit"
@@ -10761,12 +10791,12 @@
 "tags": [
 "A8_upto60",
 "BP_US",
+"Fall_Into_Hydra",
 "FEATURED_PRODUCTS",
 "Neutrogena",
 "Skin Glow Edit",
 "SM_Suncare",
-"Summer_2026",
-"Summer_Essentials_2026"
+"Summer_2026"
 ],
 "in": true
 },
@@ -11188,10 +11218,10 @@
 "A8_upto40",
 "Car_10",
 "Carroten",
+"Fall_Into_Hydra",
 "Skin Glow Edit",
 "SM_Tanning",
-"Summer_2026",
-"Summer_Essentials_2026"
+"Summer_2026"
 ],
 "in": true
 },
@@ -11207,6 +11237,7 @@
 "A8_upto60",
 "Carroten",
 "Facial Water Spray",
+"Fall_Into_Hydra",
 "Skin Glow Edit"
 ],
 "in": true
@@ -11266,6 +11297,7 @@
 "tags": [
 "A8_upto60",
 "Carroten",
+"Fall_Into_Hydra",
 "Skin Glow Edit",
 "SUNSCREEN"
 ],
@@ -11297,6 +11329,7 @@
 "A8_upto60",
 "Car_10",
 "Carroten",
+"Fall_Into_Hydra",
 "Skin Glow Edit",
 "SM_Suncare",
 "Summer_2026",
@@ -11349,11 +11382,11 @@
 "A8_upto60",
 "Car_10",
 "Carroten",
+"Fall_Into_Hydra",
 "Skin Glow Edit",
 "SM_Suncare",
 "Summer_2026",
-"Summer_Essentials_2026",
-"Sunscreen"
+"Summer_Essentials_2026"
 ],
 "in": true
 },
@@ -11369,11 +11402,11 @@
 "A8_upto40",
 "Car_10",
 "Carroten",
+"Fall_Into_Hydra",
 "Skin Glow Edit",
 "SM_Suncare",
 "Summer_2026",
-"Summer_Essentials_2026",
-"Sunscreen Spray"
+"Summer_Essentials_2026"
 ],
 "in": true
 },
@@ -11389,6 +11422,7 @@
 "A8_upto60",
 "Car_10",
 "Carroten",
+"Fall_Into_Hydra",
 "Skin Glow Edit",
 "SM_Suncare",
 "Summer_Essentials_2026"
@@ -11421,11 +11455,11 @@
 "A8_upto60",
 "Car_10",
 "Carroten",
+"Fall_Into_Hydra",
 "Skin Glow Edit",
 "SM_Tanning",
 "Summer_2026",
-"Summer_Essentials_2026",
-"Tanning Gel"
+"Summer_Essentials_2026"
 ],
 "in": true
 },
@@ -11441,6 +11475,7 @@
 "A8_upto60",
 "Car_10",
 "Carroten",
+"Fall_Into_Hydra",
 "Skin Glow Edit",
 "SM_Tanning",
 "Summer_2026",
@@ -11460,6 +11495,7 @@
 "A8_upto40",
 "Car_10",
 "Carroten",
+"Fall_Into_Hydra",
 "Skin Glow Edit",
 "SM_Tanning",
 "Summer_2026",
@@ -11479,6 +11515,7 @@
 "A8_upto40",
 "Car_10",
 "Carroten",
+"Fall_Into_Hydra",
 "Skin Glow Edit",
 "SM_Tanning",
 "Summer_2026",
@@ -13362,6 +13399,7 @@
 "BP_France",
 "Eau Thermale Avène",
 "Face Serum",
+"Fall_Into_Hydra",
 "Skin Glow Edit"
 ],
 "in": true
@@ -13378,6 +13416,7 @@
 "BP_France",
 "Eau Thermale Avène",
 "eye cream",
+"Fall_Into_Hydra",
 "Skin Glow Edit"
 ],
 "in": true
@@ -13395,10 +13434,10 @@
 "Eau Thermale Avène",
 "Face Care",
 "Face Cream",
+"Fall_Into_Hydra",
 "Featured Products",
 "FEATURED_PRODUCTS",
-"Skin Glow Edit",
-"SM_Facecare"
+"Skin Glow Edit"
 ],
 "in": false
 },
@@ -14141,7 +14180,7 @@
 "Gem_It_Up",
 "Glass_Skin"
 ],
-"in": true
+"in": false
 },
 {
 "t": "2x L’Oréal Revitalift Glass Skin Mask + FREE Hair Pins",
@@ -14905,6 +14944,7 @@
 "BP_France",
 "deodorant",
 "Eau Thermale Avène",
+"Fall_Into_Hydra",
 "Skin Glow Edit"
 ],
 "in": false
@@ -15610,7 +15650,7 @@
 "FEATURED_PRODUCTS",
 "Gem_It_Up"
 ],
-"in": true
+"in": false
 },
 {
 "t": "L’Oréal Revitalift Glass Skin Liquid Cream",
@@ -16114,6 +16154,7 @@
 "A8_upto70",
 "BP_Italy",
 "Cleansers & Toners",
+"Fall_Into_Hydra",
 "Pupa Milano",
 "Skin Glow Edit"
 ],
@@ -16263,6 +16304,7 @@
 "Bepanthen",
 "BP_Switzerland",
 "Face Cleanser",
+"Fall_Into_Hydra",
 "Skin Glow Edit"
 ],
 "in": true
@@ -16280,6 +16322,7 @@
 "Bepanthen",
 "BP_Switzerland",
 "dermo must",
+"Fall_Into_Hydra",
 "Night Cream",
 "Skin Glow Edit"
 ],
@@ -16764,8 +16807,8 @@
 {
 "t": "Revitalift Laser X3 Triple Action Anti-Aging Day Cream, firm skin, and Brighten Complexion, SPF 25, 50ml",
 "u": "https://looliacloset.com/products/revitalift-laser-x3-triple-action-anti-aging-day-cream-firm-skin-and-brighten-complexion-spf-25-50mlloreal-revitalift-laser-x3-day-cream-spf25",
-"p": 16.49,
-"c": null,
+"p": 13.19,
+"c": 16.49,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/revitalift-laser-x3-day-cream-001.jpg?v=1775632468&width=400",
 "type": "Face Cream",
@@ -16777,7 +16820,7 @@
 "Discount_26",
 "Everything Except LID LLD",
 "Face Cream",
-"L'Oréal Paris"
+"Fall_Into_Hydra"
 ],
 "in": true
 },
@@ -17203,7 +17246,7 @@
 "NYX Professional Makeup",
 "nyx_Faceglue"
 ],
-"in": true
+"in": false
 },
 {
 "t": "NYX Face Glue & Bare With Me Bundle – Primer, Foundation & Concealer + Free Pouch",
@@ -17852,6 +17895,7 @@
 "BP_US",
 "Collagen Supplements",
 "Earth's Creation",
+"Fall_Into_Hydra",
 "Skin Glow Edit"
 ],
 "in": true
@@ -17886,6 +17930,7 @@
 "BP_US",
 "Collagen Supplement",
 "Earth's Creation",
+"Fall_Into_Hydra",
 "Skin Glow Edit"
 ],
 "in": true
@@ -18074,11 +18119,11 @@
 "BP_France",
 "Ducra_Klorane_OS",
 "Ducray",
+"Fall_Into_Hydra",
 "FEATURED_PRODUCTS",
 "PF-cj",
 "pf-pi-2104",
-"Skin Glow Edit",
-"SM_PF_25"
+"Skin Glow Edit"
 ],
 "in": false
 },
@@ -18173,6 +18218,7 @@
 "A-Derma\nAderma\nCleanser\nMousse\nFoam\nSensitive\nOily\nCombination\nHydrating\nNoncomedogenic\nSoapfree",
 "Baby Category",
 "BP_France",
+"Fall_Into_Hydra",
 "FEATURED_PRODUCTS",
 "Skin Glow Edit",
 "SUNSCREEN"
@@ -18230,12 +18276,12 @@
 "tags": [
 "BP_France",
 "Eau Thermale Avène",
+"Fall_Into_Hydra",
 "FEATURED_PRODUCTS",
 "Skin Glow Edit",
 "SM_PF_25",
 "SM_Suncare",
-"Summer_2026",
-"Summer_Essentials_2026"
+"Summer_2026"
 ],
 "in": true
 },
@@ -18290,12 +18336,12 @@
 "tags": [
 "BP_France",
 "Eau Thermale Avène",
+"Fall_Into_Hydra",
 "FEATURED_PRODUCTS",
 "PF-cj",
 "pf-pi-2104",
 "serum",
-"Skin Glow Edit",
-"SM_PF_25"
+"Skin Glow Edit"
 ],
 "in": false
 },
@@ -18311,6 +18357,7 @@
 "avene \nSunscreen \nSun \nSPF \nsensitive \nprotection \nUV\nPhotoaging \nglow \nblue ligh\nultra-light \nfluid\ndry touch\ntinted\nenhancer\nbb cream",
 "BP_France",
 "Eau Thermale Avène",
+"Fall_Into_Hydra",
 "FEATURED_PRODUCTS",
 "New In Skincare",
 "Skin Glow Edit",
@@ -19816,10 +19863,10 @@
 "BP_France",
 "budget20_50",
 "Eau Thermale Avène",
+"Fall_Into_Hydra",
 "PF_promoX",
 "PFDC_New",
-"Skin Glow Edit",
-"SM_PF_25"
+"Skin Glow Edit"
 ],
 "in": false
 },
@@ -20131,10 +20178,10 @@
 "BP_Switzerland",
 "Cetaphil",
 "eid-offers-1",
+"Fall_Into_Hydra",
 "Lotion",
 "Skin Glow Edit",
-"SM_Facecare",
-"Summer_Essentials_2026"
+"SM_Facecare"
 ],
 "in": true
 },
@@ -20387,11 +20434,11 @@
 "BP_France",
 "cream",
 "Eau Thermale Avène",
+"Fall_Into_Hydra",
 "FEATURED_PRODUCTS",
 "Moisturiser",
 "PF_mega",
-"PF_promoX",
-"PFDC_New"
+"PF_promoX"
 ],
 "in": false
 },
@@ -20409,11 +20456,11 @@
 "Cica_Infused",
 "DCRY_ADRM_AVN",
 "Eau Thermale Avène",
+"Fall_Into_Hydra",
 "Hand Cream",
-"PFDC_New",
-"Ramadan27_Offer"
+"PFDC_New"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Toning Lotion",
@@ -20426,12 +20473,12 @@
 "tags": [
 "BP_France",
 "Eau Thermale Avène",
+"Fall_Into_Hydra",
 "FEATURED_PRODUCTS",
 "New In Skincare",
 "PF_mega",
 "PF_promoX",
-"PFDC_New",
-"Skin Glow Edit"
+"PFDC_New"
 ],
 "in": true
 },
@@ -21958,6 +22005,7 @@
 "tags": [
 "BP_France",
 "Discount_26",
+"Fall_Into_Hydra",
 "Mustela",
 "Skin Glow Edit",
 "Soothing Cream"
@@ -21976,6 +22024,7 @@
 "BP_France",
 "Cream",
 "Discount_26",
+"Fall_Into_Hydra",
 "Mustela",
 "Skin Glow Edit"
 ],
@@ -21993,6 +22042,7 @@
 "A8_upto40",
 "BP_France",
 "Discount_26",
+"Fall_Into_Hydra",
 "Lotion",
 "Mustela",
 "Skin Glow Edit"
@@ -22012,6 +22062,7 @@
 "Cleansing Gel",
 "Day4_Ramadan",
 "Discount_26",
+"Fall_Into_Hydra",
 "Mustela",
 "Skin Glow Edit"
 ],
@@ -22030,6 +22081,7 @@
 "Cleansing Gel",
 "Day4_Ramadan",
 "Discount_26",
+"Fall_Into_Hydra",
 "Mustela",
 "Skin Glow Edit"
 ],
@@ -22047,6 +22099,7 @@
 "BP_France",
 "Cradle Cap Cream",
 "Discount_26",
+"Fall_Into_Hydra",
 "Mustela",
 "Skin Glow Edit"
 ],
@@ -22064,6 +22117,7 @@
 "A8_upto30",
 "BP_France",
 "Discount_26",
+"Fall_Into_Hydra",
 "Lotion",
 "Mustela",
 "Skin Glow Edit"
@@ -22580,6 +22634,7 @@
 "Body Lotion",
 "BP_Germany",
 "Eucerin",
+"Fall_Into_Hydra",
 "Skin Glow Edit",
 "Summer_2026"
 ],
@@ -22640,8 +22695,8 @@
 "budget20-40",
 "cleanser",
 "Day4_Ramadan",
-"FEATURED_PRODUCTS",
-"for-her"
+"Fall_Into_Hydra",
+"FEATURED_PRODUCTS"
 ],
 "in": false
 },
@@ -22659,9 +22714,9 @@
 "Body Spray",
 "BP_France",
 "eid-offers-1",
+"Fall_Into_Hydra",
 "FEATURED_PRODUCTS",
-"New In Skincare",
-"Skin Care"
+"New In Skincare"
 ],
 "in": false
 },
@@ -23234,8 +23289,8 @@
 {
 "t": "UV Defender, Aquafusion Daily Water Gel Sunscreen, SPF50+ PA++++, Defends from all UV aging signs, 50ml",
 "u": "https://looliacloset.com/products/loreal-uv-defender-aquafusion-water-gel-spf50",
-"p": 14.5,
-"c": null,
+"p": 11.6,
+"c": 14.5,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/loreal-paris-uv-defender-aquafusion-001.jpg?v=1774947841&width=400",
 "type": "Sunscreen",
@@ -23244,10 +23299,10 @@
 "CPD_EXMay26",
 "CPD_FS26",
 "Discount_26",
+"Fall_Into_Hydra",
 "FEATURED_PRODUCTS",
 "L'Oréal Paris",
-"New In Skincare",
-"OAP_5_26"
+"New In Skincare"
 ],
 "in": true
 },
@@ -23581,8 +23636,8 @@
 "Eid_offer26",
 "Face Facts",
 "Face Serum",
-"for-her",
-"glow-night"
+"Fall_Into_Hydra",
+"for-her"
 ],
 "in": false
 },
@@ -24222,8 +24277,8 @@
 "budget20",
 "DCRY_ADRM_AVN",
 "Eau Thermale Avène",
-"for-her",
-"glow-shine"
+"Fall_Into_Hydra",
+"for-her"
 ],
 "in": true
 },
@@ -24560,6 +24615,7 @@
 "tags": [
 "BF_GIFT_SET_2025",
 "Face Facts",
+"Fall_Into_Hydra",
 "FF_XMAS_SETS",
 "Skin Glow Edit",
 "Skincare Set"
@@ -24577,6 +24633,7 @@
 "tags": [
 "BF_GIFT_SET_2025",
 "Face Facts",
+"Fall_Into_Hydra",
 "FF_XMAS_SETS",
 "Skin Glow Edit",
 "Skincare Set"
@@ -25078,6 +25135,7 @@
 "Blue_Monday26",
 "BP_SouthKorea",
 "COSRX",
+"Fall_Into_Hydra",
 "Mother's_Day26",
 "Skin Care Set",
 "Skin Glow Edit",
@@ -26414,7 +26472,7 @@
 "christmas-sets-2025",
 "Day21_Ramadan",
 "Dehydrated skin",
-"for-her"
+"Fall_Into_Hydra"
 ],
 "in": false
 },
@@ -26453,8 +26511,8 @@
 "budget60+",
 "christmas-sets-2025",
 "Day21_Ramadan",
-"for-her",
-"Loolia Closet"
+"Fall_Into_Hydra",
+"for-her"
 ],
 "in": false
 },
@@ -26570,9 +26628,9 @@
 "budget20-40",
 "budget20_50",
 "Eau Thermale Avène",
+"Fall_Into_Hydra",
 "for-her",
-"PF-cj",
-"pf-pi-2104"
+"PF-cj"
 ],
 "in": false
 },
@@ -27674,7 +27732,7 @@
 "FEATURED_PRODUCTS",
 "for-her"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Powder Louder, Brow Pencil, 12Hr Wear, Buildable Micro-Fibers",
@@ -28210,7 +28268,7 @@
 "LATTAFA",
 "lattafa_CS"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Afeef",
@@ -29284,8 +29342,8 @@
 {
 "t": "Hyaluron Expert Replumping Face Serum, with 1.5% Hyaluronic Acid, for Fine Lines Reduction, Hydration and Youthful Looking Skin , 30ml",
 "u": "https://looliacloset.com/products/loreal-hyaluron-expert-1-5-hyaluronic-acid-serum",
-"p": 14.9,
-"c": null,
+"p": 11.92,
+"c": 14.9,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/loreal-paris-hyaluron-expert-serum-001.jpg?v=1774941945&width=400",
 "type": "Face Serum",
@@ -29297,7 +29355,7 @@
 "Discount_26",
 "Everything Except LID LLD",
 "Face Serum",
-"L'Oréal Paris"
+"Fall_Into_Hydra"
 ],
 "in": true
 },
@@ -30356,8 +30414,8 @@
 "check-sets",
 "discount-20-and-under",
 "eye cream",
-"FEATURED_PRODUCTS",
-"Lancôme"
+"Fall_Into_Hydra",
+"FEATURED_PRODUCTS"
 ],
 "in": false
 },
@@ -33358,7 +33416,7 @@
 "The_Ordinary",
 "TREAT"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Peeling Solution AHA 30% + BHA 2%",
@@ -33473,10 +33531,10 @@
 "Aging",
 "Dryness",
 "Face Serum",
+"Fall_Into_Hydra",
 "FEATURED_PRODUCTS",
 "glow-night",
-"SEAL",
-"Skin Glow Edit"
+"SEAL"
 ],
 "in": false
 },
@@ -33573,10 +33631,10 @@
 "Aging",
 "budget20-40",
 "Face Serum",
+"Fall_Into_Hydra",
 "FEATURED_PRODUCTS",
 "for-her",
-"glow-night",
-"shop20-40"
+"glow-night"
 ],
 "in": false
 },
@@ -33934,9 +33992,9 @@
 "cleanser",
 "Day4_Ramadan",
 "Dryness",
+"Fall_Into_Hydra",
 "FEATURED_PRODUCTS",
-"for-her",
-"PREP"
+"for-her"
 ],
 "in": false
 },
@@ -34714,7 +34772,7 @@
 "shampoo",
 "Skin Glow Edit"
 ],
-"in": true
+"in": false
 },
 {
 "t": "5 Sens Enhancing Dry Oil",
@@ -34799,8 +34857,8 @@
 {
 "t": "UV Defender Invisible Resist, SPF50+ Daily Sunscreen, with Long UVA Protection, For All Skin Types, 50ml",
 "u": "https://looliacloset.com/products/loreal-uv-defender-invisible-resist-spf50-sunscreen",
-"p": 14.5,
-"c": null,
+"p": 11.6,
+"c": 14.5,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/loreal-paris-uv-defender-001.jpg?v=1774944960&width=400",
 "type": "Sunscreen",
@@ -34812,7 +34870,7 @@
 "CPD_ex_april26",
 "CPD_FS26",
 "Discount_26",
-"L'Oréal Paris"
+"Fall_Into_Hydra"
 ],
 "in": true
 },
@@ -36483,11 +36541,11 @@
 "A8_upto60",
 "budget20",
 "Day13_ramadan",
+"Fall_Into_Hydra",
 "Featured Products",
 "for-her",
 "glow-shine",
-"IDC Institute",
-"Kids_Teens"
+"IDC Institute"
 ],
 "in": false
 },
@@ -36766,8 +36824,8 @@
 "budget20",
 "eid-offers-1",
 "Eid_offer26",
-"for-her",
-"IDC Institute"
+"Fall_Into_Hydra",
+"for-her"
 ],
 "in": true
 },
@@ -36862,11 +36920,11 @@
 "A8_upto40",
 "budget20-40",
 "christmas-sets-2025",
+"Fall_Into_Hydra",
 "Featured Products",
 "for-her",
 "IDC Institute",
-"Kids_Teens",
-"LCANIV_SMALL"
+"Kids_Teens"
 ],
 "in": true
 },
@@ -37023,10 +37081,10 @@
 "budget20",
 "Face Care",
 "face mask",
+"Fall_Into_Hydra",
 "for-her",
 "glow-shine",
-"IDC Institute",
-"Kids_Teens"
+"IDC Institute"
 ],
 "in": true
 },
@@ -37137,11 +37195,11 @@
 "A8_upto30",
 "budget20",
 "Day13_ramadan",
+"Fall_Into_Hydra",
 "for-her",
 "glow-shine",
 "IDC Institute",
-"Kids_Teens",
-"LCANIV_SMALL"
+"Kids_Teens"
 ],
 "in": true
 },
@@ -37678,7 +37736,7 @@
 "check-sets",
 "discount-20-to-30",
 "Discount_26",
-"Kids_Teens"
+"Fall_Into_Hydra"
 ],
 "in": false
 },
@@ -43165,8 +43223,8 @@
 {
 "t": "Glycolic Bright Anti-Dark Spot Daily UV Fluid, SPF 50+ with [Glycolic Acid + Niacinamide], 50ml",
 "u": "https://looliacloset.com/products/loreal-glycolic-bright-uv-fluid-spf50-dark-spots",
-"p": 14.28,
-"c": null,
+"p": 11.42,
+"c": 14.28,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/loreal-paris-glycolic-bright-uv-fluid-001.jpg?v=1774944289&width=400",
 "type": "Sunscreen",
@@ -43174,11 +43232,11 @@
 "BP_France",
 "CPD_FS26",
 "Discount_26",
+"Fall_Into_Hydra",
 "Glycolic_Bright",
 "L'Oréal Paris",
 "OAP_DERMO",
-"OAP_July_Activation",
-"Skin Glow Edit"
+"OAP_July_Activation"
 ],
 "in": true
 },
@@ -43253,11 +43311,11 @@
 "BP_Lebanon",
 "budget60+",
 "christmas-sets-2025",
+"Fall_Into_Hydra",
 "Father's Day",
 "for-her",
 "for-him",
-"Kiehl Sampling Campaign",
-"New In Loolia Closet2025"
+"Kiehl Sampling Campaign"
 ],
 "in": true
 },
@@ -43273,11 +43331,11 @@
 "BP_Lebanon",
 "budget60+",
 "christmas-sets-2025",
+"Fall_Into_Hydra",
 "Father's Day",
 "for-her",
 "for-him",
-"Kiehl Sampling Campaign",
-"New In Loolia Closet2025"
+"Kiehl Sampling Campaign"
 ],
 "in": false
 },
@@ -43671,8 +43729,8 @@
 "BP_Lebanon",
 "budget40-60",
 "christmas-sets-2025",
-"Father's Day",
-"for-her"
+"Fall_Into_Hydra",
+"Father's Day"
 ],
 "in": false
 },
@@ -44512,7 +44570,7 @@
 "check-sets",
 "discount-20-to-30",
 "eid-offers-1",
-"Halloween 2025"
+"Fall_Into_Hydra"
 ],
 "in": false
 },
@@ -44652,7 +44710,7 @@
 "budget20_50",
 "check-sets",
 "discount-20-to-30",
-"Halloween 2025"
+"Fall_Into_Hydra"
 ],
 "in": true
 },
@@ -45906,7 +45964,7 @@
 "discount-20-to-30",
 "Eid_offer26",
 "end-of-year-25-sale",
-"Featured Products"
+"Fall_Into_Hydra"
 ],
 "in": true
 },
@@ -45945,8 +46003,8 @@
 "discount-20-to-30",
 "end-of-year-25-sale",
 "ENDOFSUMMER",
-"Featured Products",
-"Halloween 2025"
+"Fall_Into_Hydra",
+"Featured Products"
 ],
 "in": true
 },
@@ -46066,7 +46124,7 @@
 "Eid_offer26",
 "end-of-year-25-sale",
 "ENDOFSUMMER",
-"Featured Products"
+"Fall_Into_Hydra"
 ],
 "in": true
 },
@@ -46083,10 +46141,10 @@
 "Beach Day Essentials",
 "budget20_50",
 "discount-20-to-30",
+"Fall_Into_Hydra",
 "Featured Products",
 "Halloween 2025",
-"ISDIN",
-"ISDIN_SS"
+"ISDIN"
 ],
 "in": true
 },
@@ -46126,7 +46184,7 @@
 "eid-offers-1",
 "Eid_offer26",
 "end-of-year-25-sale",
-"Featured Products"
+"Fall_Into_Hydra"
 ],
 "in": true
 },
@@ -46173,8 +46231,8 @@
 {
 "t": "Glycolic Bright Face Serum, With 8% [Melasyl ™ + Glycolic Acid + Niacinamide], for Dark Spots and Brightening 30ml",
 "u": "https://looliacloset.com/products/loreal-glycolic-bright-serum-8-dark-spots",
-"p": 14.9,
-"c": null,
+"p": 11.92,
+"c": 14.9,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/loreal-paris-glycolic-bright-serum-001.jpg?v=1774943013&width=400",
 "type": "Face Serum",
@@ -46185,8 +46243,8 @@
 "Discount_26",
 "Everything Except LID LLD",
 "Face Serum",
-"Featured Products",
-"Glycolic_Bright"
+"Fall_Into_Hydra",
+"Featured Products"
 ],
 "in": true
 },
@@ -46566,7 +46624,7 @@
 "Casual_Makeup",
 "Dali Cosmetics",
 "discount-20-and-under",
-"Moisturizer"
+"Fall_Into_Hydra"
 ],
 "in": false
 },
@@ -49252,8 +49310,8 @@
 {
 "t": "3-in-1 Refreshing and Moisturizing Micellar Water, Cleanse, Remove Makeup and Soothe, for Sensitive and Normal to Dry Skin, 400ml",
 "u": "https://looliacloset.com/products/loreal-micellar-water-3-in-1-makeup-remover",
-"p": 7.8,
-"c": null,
+"p": 6.24,
+"c": 7.8,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/loreal-paris-micellar-3in1-001.jpg?v=1774882529&width=400",
 "type": "Makeup Remover",
@@ -49263,17 +49321,17 @@
 "CPD_ALL",
 "CPD_FS26",
 "Discount_26",
+"Fall_Into_Hydra",
 "L'Oréal Paris",
-"Micellar Water",
-"OAP_5_26"
+"Micellar Water"
 ],
 "in": true
 },
 {
 "t": "3-in-1 Bi-Phase Micellar Water, Deeply Cleanse, Remove Water Proof Makeup and Soothe, for All Skin Types and Sensitive Skin, 400ml",
 "u": "https://looliacloset.com/products/loreal-bi-phase-micellar-water-waterproof-makeup",
-"p": 9.0,
-"c": null,
+"p": 7.2,
+"c": 9.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/loreal-paris-micellar-water-oil-001.jpg?v=1774883337&width=400",
 "type": "Makeup Remover",
@@ -49282,10 +49340,10 @@
 "CPD_FS26",
 "CPD_Skincare20",
 "Discount_26",
+"Fall_Into_Hydra",
 "L'Oréal Paris",
 "Micellar Water",
-"OAP_5_26",
-"OAP_July_Activation"
+"OAP_5_26"
 ],
 "in": false
 },
@@ -49367,7 +49425,7 @@
 "CeraVe",
 "check-sets"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Moisturizing Lotion for Normal to Dry Skin",
@@ -49787,7 +49845,7 @@
 "deodorant roll-on",
 "discount-20-to-30"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Invisible Resist 72h Anti-Stain Roll-On",
@@ -51946,7 +52004,7 @@
 "check-sets",
 "cream"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Bésame Nude Waterproof Lipliner",
@@ -55814,7 +55872,7 @@
 "Christmas Sets | Skincare 2024",
 "christmas-sets-2025",
 "discount-20-and-under",
-"Gifting Ideas"
+"Fall_Into_Hydra"
 ],
 "in": false
 },
@@ -55854,7 +55912,7 @@
 "Christmas Sets | Skincare 2024",
 "christmas-sets-2025",
 "discount-20-and-under",
-"Gifting Ideas"
+"Fall_Into_Hydra"
 ],
 "in": false
 },
@@ -55874,7 +55932,7 @@
 "Christmas Sets | Skincare 2024",
 "christmas-sets-2025",
 "discount-20-and-under",
-"Gifting Ideas"
+"Fall_Into_Hydra"
 ],
 "in": false
 },
@@ -55973,8 +56031,8 @@
 "budget<10",
 "check-sets",
 "discount-20-to-30",
-"Halloween 2025",
-"Le Petit Marseillais"
+"Fall_Into_Hydra",
+"Halloween 2025"
 ],
 "in": false
 },
@@ -56576,7 +56634,7 @@
 "discount-20-to-30",
 "ENDOFSUMMER"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Fresh & Clear Daily Exfoliator For Acne Prone skin",
@@ -57135,26 +57193,6 @@
 "Mavala",
 "Mavala x Cetaphil",
 "Mavala | Nail Color"
-],
-"in": false
-},
-{
-"t": "Corrector for Nail Polish",
-"u": "https://looliacloset.com/products/correcteur-for-nail-polish",
-"p": 19.98,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Mavala_correcteur.jpg?v=1746010268&width=400",
-"type": "Nail Care",
-"tags": [
-"BF_2025",
-"BP_Switzerland",
-"budget10_20",
-"check-sets",
-"Mavala",
-"Mavala x Cetaphil",
-"Mavala | Nail Color",
-"Nail Care"
 ],
 "in": false
 }
