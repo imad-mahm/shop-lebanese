@@ -87,7 +87,7 @@
 "Hampers & Gift Baskets",
 "HIM"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Outdoors Dad Giftbox",
@@ -4622,7 +4622,7 @@
 "Hampers & Gift Baskets",
 "HIM"
 ],
-"in": false
+"in": true
 },
 {
 "t": "The Garden Basket",
@@ -5625,25 +5625,6 @@
 "in": true
 },
 {
-"t": "Sailor Beach Set",
-"u": "https://giftonclick.com/products/sailor-beach-set-for-him",
-"p": 75.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0791/9792/9709/files/sailorbeachsetforhimthumb_a52a1823-5280-4e5a-8f57-d2b106d31261.jpg?v=1772622274&width=400",
-"type": "",
-"tags": [
-"beach accessories",
-"beach set",
-"gift for everyone",
-"gift-card",
-"HIM",
-"nautical gift",
-"summer gift"
-],
-"in": true
-},
-{
 "t": "Royal Plush Robe For Him",
 "u": "https://giftonclick.com/products/royal-plush-robe-for-him",
 "p": 80.0,
@@ -6177,24 +6158,6 @@
 "gift-card",
 "HER",
 "top pick"
-],
-"in": true
-},
-{
-"t": "Pink Birthday Chocolate Box",
-"u": "https://giftonclick.com/products/pink-birthday-chocolate-box",
-"p": 38.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0791/9792/9709/files/pink_bday_chocolate_box.jpg?v=1776682791&width=400",
-"type": "",
-"tags": [
-"BIRTHDAY",
-"Chocolate Arrangements",
-"Corporate Gifts",
-"gift-card",
-"HER",
-"Pink Birthday Chocolate Box | Chocolate Arrangement"
 ],
 "in": true
 },
@@ -8504,7 +8467,7 @@
 "HOME VISIT",
 "Occasion Cakes"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Gluten Free Almond Honey Cake",
@@ -8520,24 +8483,6 @@
 "gift-card",
 "HOME VISIT",
 "Occasion Cakes"
-],
-"in": true
-},
-{
-"t": "Glossy Ceramic Ashtray",
-"u": "https://giftonclick.com/products/glossy-ceramic-ashtray",
-"p": 60.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0791/9792/9709/files/brownceramicashtraythum.jpg?v=1772621430&width=400",
-"type": "",
-"tags": [
-"gift-card",
-"HIM",
-"Home Décor",
-"HOME VISIT",
-"OFFICE VISIT",
-"online gifts Lebanon- send gifts to Lebanon-marble ashtary-gifts for him- birthday gifts"
 ],
 "in": true
 },
@@ -9069,7 +9014,7 @@
 "in": true
 },
 {
-"t": "Elie Saab Le Parfum",
+"t": "Elie Saab Le Parfum 50ml",
 "u": "https://giftonclick.com/products/elie-saab-le-parfum",
 "p": 165.0,
 "c": null,
@@ -9377,21 +9322,6 @@
 "HER",
 "LOVE & ROMANCE",
 "TEENS"
-],
-"in": true
-},
-{
-"t": "Cupid Chest Giftbox",
-"u": "https://giftonclick.com/products/cupid-chest-giftbox",
-"p": 94.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0791/9792/9709/files/CupidChestGiftbox.jpg?v=1772621199&width=400",
-"type": "",
-"tags": [
-"Cupid's Chest Giftbox | valentine gift online delivery lebanon",
-"gift-card",
-"Valentine's Day Gifts"
 ],
 "in": true
 },
@@ -10454,26 +10384,6 @@
 "in": false
 },
 {
-"t": "Birthday Chocolate Box",
-"u": "https://giftonclick.com/products/birthday-chocolate-box",
-"p": 39.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0791/9792/9709/files/birthday_chocolate_box_arabic.jpg?v=1776685666&width=400",
-"type": "",
-"tags": [
-"BIRTHDAY",
-"Chocolate Arrangements",
-"gift-card",
-"Happy Birthday Chocolate Box | Chocolate Arrangement",
-"HER",
-"HIM",
-"Same Day Delivery Gifts",
-"Shipping Abroad"
-],
-"in": true
-},
-{
 "t": "Birthday Cake & Roses Gift Pack",
 "u": "https://giftonclick.com/products/birthday-cake-roses-gift-pack",
 "p": 159.0,
@@ -11009,22 +10919,6 @@
 "gift-card",
 "NEWBORN",
 "newborn gift for baby girl- flower arrangement for newborn- hospital gift for newborn girl- send gift to lebanon- online gift lebanon"
-],
-"in": true
-},
-{
-"t": "Adventure Birthday Box For Him",
-"u": "https://giftonclick.com/products/adventure-birthday-box-for-him",
-"p": 80.0,
-"c": 118.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0791/9792/9709/files/adventure_birthday_box_for_him.jpg?v=1778229641&width=400",
-"type": "",
-"tags": [
-"gift-card",
-"giftbox for him- birthday gift for him lebanon- online gift lebanon- send gift to lebanon",
-"Hampers & Gift Baskets",
-"HIM"
 ],
 "in": true
 },
