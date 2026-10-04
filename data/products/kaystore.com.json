@@ -1,5 +1,25 @@
 [
 {
+"t": "Samsung Bespoke Washer 12kg 1400RPM",
+"u": "https://kaystore.com/product/samsung-ww12bb944dgbsp/",
+"p": 809.0,
+"c": 899.0,
+"cur": "USD",
+"img": "https://kaystore.com/wp-content/uploads/2026/10/samsung-1-247x296.jpg",
+"type": "Washers",
+"tags": [
+"Appliances",
+"big appliances",
+"home",
+"Inverter",
+"large appliances",
+"Laundry",
+"samsung",
+"washer12KG"
+],
+"in": true
+},
+{
 "t": "XPER Gas Cooker 90Cm",
 "u": "https://kaystore.com/product/xper-xbc90cb/",
 "p": 679.0,
@@ -4774,7 +4794,7 @@
 "Fan",
 "summer"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Kelvinator Dishwasher 13 Settings",
@@ -23956,7 +23976,7 @@
 "STICK VACUUM",
 "vacuum cleaner"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Sharp Cleaner Vacuum 1800W",
@@ -24169,21 +24189,6 @@
 "vacuum cleaner"
 ],
 "in": true
-},
-{
-"t": "Ariete Portable Steam Cleaner Grey",
-"u": "https://kaystore.com/product/ariete-portable-steam-cleaner-grey/",
-"p": 70.0,
-"c": null,
-"cur": "USD",
-"img": "https://kaystore.com/wp-content/uploads/2026/02/I140448-247x296.jpg",
-"type": "Vacuum Cleaners",
-"tags": [
-"Appliances",
-"Home cleaner",
-"vacuum cleaner"
-],
-"in": false
 },
 {
 "t": "Dual Steam & Scrub Mop Cleaner",
@@ -25741,24 +25746,6 @@
 "kitchen",
 "large appliances",
 "Refrigerator"
-],
-"in": false
-},
-{
-"t": "Olimpic Microwave & Grill 28L Sl",
-"u": "https://kaystore.com/product/olimpic-microwave-grill-28l-sl/",
-"p": 158.0,
-"c": null,
-"cur": "USD",
-"img": "https://kaystore.com/wp-content/uploads/2026/02/I139047-247x296.png",
-"type": "Microwaves, Small Appliances",
-"tags": [
-"Appliances",
-"cooking",
-"Heating",
-"Microwave",
-"Microwave 28L",
-"Microwave grill"
 ],
 "in": false
 },
@@ -32976,21 +32963,6 @@
 "in": true
 },
 {
-"t": "Berlinger Hauss Digital Kettle Blue",
-"u": "https://kaystore.com/product/berlinger-hauss-digital-kettle-blue/",
-"p": 60.0,
-"c": null,
-"cur": "USD",
-"img": "https://kaystore.com/wp-content/uploads/2025/11/I138873-247x296.jpg",
-"type": "Kettles",
-"tags": [
-"Appliances",
-"kettles",
-"water boiler"
-],
-"in": false
-},
-{
 "t": "Berlinger Hauss Air Fryer 5L",
 "u": "https://kaystore.com/product/berlinger-hauss-air-fryer-5l-blue/",
 "p": 130.0,
@@ -34296,36 +34268,6 @@
 "in": true
 },
 {
-"t": "Nutri Bullet Blender Combo Smart  1500W",
-"u": "https://kaystore.com/product/nutri-bullet-blender-combo-smart-1500w/",
-"p": 332.0,
-"c": null,
-"cur": "USD",
-"img": "https://kaystore.com/wp-content/uploads/2025/11/i135468-247x296.jpg",
-"type": "Blenders &amp; Hand Blenders",
-"tags": [
-"Appliances",
-"Blender",
-"Cocktail"
-],
-"in": false
-},
-{
-"t": "Nutri Bullet Blender Combo 1200W Silver",
-"u": "https://kaystore.com/product/nutri-bullet-blender-combo-1200w-silver/",
-"p": 274.0,
-"c": null,
-"cur": "USD",
-"img": "https://kaystore.com/wp-content/uploads/2025/11/I135467-247x296.jpg",
-"type": "Blenders &amp; Hand Blenders",
-"tags": [
-"Appliances",
-"Blender",
-"Cocktail"
-],
-"in": false
-},
-{
 "t": "Mirage Straightening Brush",
 "u": "https://kaystore.com/product/mirage-straightening-brush/",
 "p": 20.0,
@@ -35038,21 +34980,6 @@
 "vacuum cleaner"
 ],
 "in": true
-},
-{
-"t": "Kitchenaid Artisan Toaster Black",
-"u": "https://kaystore.com/product/kitchenaid-artisan-toaster-black/",
-"p": 379.0,
-"c": null,
-"cur": "USD",
-"img": "https://kaystore.com/wp-content/uploads/2025/10/I55254-247x296.jpg",
-"type": "Toasters",
-"tags": [
-"Appliances",
-"Toast",
-"Toasters"
-],
-"in": false
 },
 {
 "t": "Kitchenaid Rechargeable CookingEmpire Red",
@@ -36003,7 +35930,7 @@
 "STICK VACUUM",
 "vacuum cleaner"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Dyson Wireless Vac V11 Fluffy",
@@ -44089,22 +44016,6 @@
 "in": true
 },
 {
-"t": "Ariete Moderna Food Proc. BK",
-"u": "https://kaystore.com/product/ariete-moderna-food-proc-bk/",
-"p": 209.0,
-"c": null,
-"cur": "USD",
-"img": "https://kaystore.com/wp-content/uploads/2025/06/887d5f-1-247x296.jpg",
-"type": "Food Processors",
-"tags": [
-"Appliances",
-"food",
-"food processor",
-"Moderna"
-],
-"in": false
-},
-{
 "t": "Ariete Espresso Machine WH",
 "u": "https://kaystore.com/product/ariete-espresso-machine-wh/",
 "p": 249.0,
@@ -46362,26 +46273,6 @@
 "summer"
 ],
 "in": true
-},
-{
-"t": "Ardes Style Stand Fan 16″",
-"u": "https://kaystore.com/product/ardes-style-stand-fan-16-2/",
-"p": 60.0,
-"c": 95.0,
-"cur": "USD",
-"img": "https://kaystore.com/wp-content/uploads/2025/06/ARDES-AR5S41PB-247x296.jpg",
-"type": "Fans",
-"tags": [
-"Appliances",
-"breeze",
-"cool",
-"Cooling",
-"Electric",
-"electric fan",
-"Fan",
-"summer"
-],
-"in": false
 },
 {
 "t": "Ardes Muna Bladeless Fan",
@@ -50409,21 +50300,6 @@
 "in": true
 },
 {
-"t": "Ariete Capri Kettle 1.7L",
-"u": "https://kaystore.com/product/ariete-capri-kettle-1-7-liters/",
-"p": 115.0,
-"c": null,
-"cur": "USD",
-"img": "https://kaystore.com/wp-content/uploads/2025/05/I134044-247x296.jpg",
-"type": "Kettles",
-"tags": [
-"Appliances",
-"kettles",
-"water boiler"
-],
-"in": false
-},
-{
 "t": "Ariete Multifunction Hand Mixer",
 "u": "https://kaystore.com/product/ariete-multifunction-hand-mixer-white-blue/",
 "p": 47.0,
@@ -51915,6 +51791,134 @@
 "Kitchenware",
 "La Maison",
 "Salt&amp;Pepper"
+],
+"in": true
+},
+{
+"t": "Lebrillo Bowl Granada Stripes Ceramic Orange",
+"u": "https://kaystore.com/product/lebrillo-bowl-granada-stripes-ceramic-orange/",
+"p": 55.0,
+"c": 79.0,
+"cur": "USD",
+"img": "https://kaystore.com/wp-content/uploads/2025/06/I134350-1-247x296.jpg",
+"type": "Bowls, La Maison",
+"tags": [
+"Bowls",
+"J-Line",
+"La Maison",
+"Tableware"
+],
+"in": true
+},
+{
+"t": "Bowl Granada Stripes High Ceramic Orange Large",
+"u": "https://kaystore.com/product/bowl-granada-stripes-high-ceramic-orange-large/",
+"p": 29.0,
+"c": 42.0,
+"cur": "USD",
+"img": "https://kaystore.com/wp-content/uploads/2025/06/I134349-1-247x296.jpg",
+"type": "Bowls, La Maison",
+"tags": [
+"Bowls",
+"J-Line",
+"La Maison",
+"Tableware"
+],
+"in": true
+},
+{
+"t": "Bowl Granada Stripes High Ceramic Orange Medium",
+"u": "https://kaystore.com/product/bowl-granada-stripes-high-ceramic-orange-medium/",
+"p": 18.0,
+"c": 26.0,
+"cur": "USD",
+"img": "https://kaystore.com/wp-content/uploads/2025/05/I134348-1-247x296.jpg",
+"type": "Bowls, La Maison",
+"tags": [
+"Bowls",
+"J-Line",
+"La Maison",
+"Tableware"
+],
+"in": true
+},
+{
+"t": "Bowl Granada Stripes High Ceramic Orange Small",
+"u": "https://kaystore.com/product/bowl-granada-stripes-high-ceramic-orange-small/",
+"p": 13.0,
+"c": 18.0,
+"cur": "USD",
+"img": "https://kaystore.com/wp-content/uploads/2025/05/I134347-2-247x296.jpg",
+"type": "Bowls, La Maison",
+"tags": [
+"Bowls",
+"J-Line",
+"La Maison",
+"Tableware"
+],
+"in": true
+},
+{
+"t": "Bowl Granada Stripes Low Ceramic Orange Large",
+"u": "https://kaystore.com/product/bowl-granada-stripes-low-ceramic-orange-large/",
+"p": 22.0,
+"c": 31.0,
+"cur": "USD",
+"img": "https://kaystore.com/wp-content/uploads/2025/06/I134346-1-247x296.jpg",
+"type": "Bowls, La Maison",
+"tags": [
+"Bowls",
+"J-Line",
+"La Maison",
+"Tableware"
+],
+"in": true
+},
+{
+"t": "Bowl Granada Stripes Low Ceramic Orange Small",
+"u": "https://kaystore.com/product/bowl-granada-stripes-low-ceramic-orange-small/",
+"p": 11.0,
+"c": 16.0,
+"cur": "USD",
+"img": "https://kaystore.com/wp-content/uploads/2025/05/I134345-2-247x296.jpg",
+"type": "Bowls, La Maison",
+"tags": [
+"Bowls",
+"J-Line",
+"La Maison",
+"Tableware"
+],
+"in": true
+},
+{
+"t": "Apero Granada Stripes Ceramic Orange",
+"u": "https://kaystore.com/product/apero-granada-stripes-ceramic-orange/",
+"p": 26.0,
+"c": 37.0,
+"cur": "USD",
+"img": "https://kaystore.com/wp-content/uploads/2025/06/I134344-1-247x296.jpg",
+"type": "Apero, La Maison",
+"tags": [
+"Apero",
+"J-Line",
+"La Maison",
+"Tableware"
+],
+"in": true
+},
+{
+"t": "Ashtray Grana Stripes Ceramic Yellow Small",
+"u": "https://kaystore.com/product/ashtray-grana-stripes-ceramic-yellow-small/",
+"p": 16.0,
+"c": null,
+"cur": "USD",
+"img": "https://kaystore.com/wp-content/uploads/2025/05/I134341-1-247x296.jpg",
+"type": "Ashtrays, La Maison",
+"tags": [
+"Ashtrays",
+"J-Line",
+"Kitchenware",
+"La Maison"
 ],
 "in": true
 }
