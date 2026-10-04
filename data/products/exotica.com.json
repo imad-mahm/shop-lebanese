@@ -684,7 +684,7 @@
 {
 "t": "Cozy Box",
 "u": "https://exotica.com/products/cozy-box",
-"p": 88.0,
+"p": 145.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/cozy-box_295b83d1-8638-4cd2-9260-3927a498fdcc.jpg?v=1735637857&width=400",
@@ -3101,7 +3101,7 @@
 "For Mom",
 "For Teta"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Shining Orchid",
@@ -3190,7 +3190,7 @@
 "Thank You",
 "White"
 ],
-"in": true
+"in": false
 },
 {
 "t": "50 Hugs",
@@ -3922,7 +3922,7 @@
 "For Him",
 "For Kids"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Pop Up",
