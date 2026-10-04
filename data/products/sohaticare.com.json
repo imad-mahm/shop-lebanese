@@ -1,5 +1,45 @@
 [
 {
+"t": "L’Oréal Paris, Revitalift Filler [HA] Night Moisturiser 50ml",
+"u": "https://sohaticare.com/products/hyaluronic-acid-night-cream",
+"p": 9.9,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/image_8a5a5403-86ca-47f5-8a11-d8b277b09b7d.webp?v=1790949973&width=400",
+"type": "Anti-Aging Creams",
+"tags": [
+"10.10OCT25",
+"11.11LOREAL24",
+"15%_SURPRISE_SALE",
+"20%SUMMERBOOST24",
+"20%SUMMERBOOST24_BULK",
+"22.2.22",
+"22.2.22-DG",
+"5BDAY_15%"
+],
+"in": true
+},
+{
+"t": "L’Oréal Paris Revitalift Filler [HA] Day Cream 50ml",
+"u": "https://sohaticare.com/products/hyaluronic-acid-day-cream",
+"p": 9.9,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/ChatGPT_Image_Oct_2_2026_04_50_37_PM_1.png?v=1790949213&width=400",
+"type": "Anti-Aging Creams",
+"tags": [
+"10.10OCT25",
+"11.11LOREAL24",
+"15%_SURPRISE_SALE",
+"20%SUMMERBOOST24",
+"20%SUMMERBOOST24_BULK",
+"22.2.22",
+"22.2.22-DG",
+"5BDAY_15%"
+],
+"in": true
+},
+{
 "t": "Buy Eucerin Hyaluron-Filler 3xEffect Hydra Boost Serum 30ml & get a FREE PhotoAging Control Fluid SPF 50+ 50ml",
 "u": "https://sohaticare.com/products/buy-eucerin-hyaluron-filler-3xeffect-hydra-boost-serum-30ml-get-a-free-photoaging-control-fluid-spf-50-50ml",
 "p": 43.96,
@@ -1950,7 +1990,7 @@
 "pf-bck-to-schl-cmpgn",
 "PF_AUG_26_Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Buy Nutripo Hydraplus Gel 50 ml & get a FREE Matipore Salicylic Acid 30 ml",
@@ -4752,7 +4792,7 @@
 "ALLSUMSPLASH_05.16",
 "backtoschool-exclusive"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Garnier Micellar Vitamin C Brightening Micellar Water 400 ml + 100 ml + Pink Headband",
@@ -16998,7 +17038,7 @@
 "FRENCHWEEK2025",
 "pierre_fabre_portfolio"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Rene Furterer Triphasic active grow Strengthening anti-breakage mask for damaged hair 200ml - Accelerates hair growth",
@@ -19378,7 +19418,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/8800289474682_grande_0047f8fb-e428-4637-90ae-e8afa3bc30bb.webp?v=1769415131&width=400",
 "type": "",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Collagen Lifting Mask",
@@ -24053,7 +24093,7 @@
 "tags": [
 "VIEL_2025"
 ],
-"in": true
+"in": false
 },
 {
 "t": "CLEO-DENT TRAVEL MEDIUM TOOTH BRUSH",
@@ -44086,45 +44126,5 @@
 "restock_june26"
 ],
 "in": true
-},
-{
-"t": "BaByliss C451E Curling Iron",
-"u": "https://sohaticare.com/products/babyliss-c451e-curling-iron",
-"p": 64.38,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/BabylissC451E_2.jpg?v=1707383049&width=400",
-"type": "Hair Curler",
-"tags": [
-"Babyliss",
-"Babyliss_BF24",
-"BabyLiss_OpenStock_14AUG24",
-"babyliss_os_may25",
-"BabyLiss_PriceUpdate_5June24",
-"BLACKFRIDAY24",
-"BLACKFRIDAY24_TPS.BBLISS.OON.PK",
-"BLACKNOV24_COLLECTION"
-],
-"in": false
-},
-{
-"t": "BaByliss C450E Curling Iron",
-"u": "https://sohaticare.com/products/babyliss-c450e-curling-iron",
-"p": 48.84,
-"c": 62.16,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/C450E.jpg?v=1707123048&width=400",
-"type": "Hair Curler",
-"tags": [
-"Babyliss",
-"BabyLiss_OpenStock_14AUG24",
-"babyliss_os_may25",
-"BabyLiss_PriceUpdate_5June24",
-"babyliss_priceupdate_mar25",
-"CLRNC_24",
-"ELECTRONICS_ACTIVE25",
-"oos_babyliss_july25"
-],
-"in": false
 }
 ]

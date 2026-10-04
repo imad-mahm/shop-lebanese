@@ -1,6 +1,6 @@
 [
 {
-"t": "Delonghi Heater Gas IR3020 Grey",
+"t": "Delonghi Heater Gas IR3020 Grey/White",
 "u": "https://aghasarkissian.com/product/delonghi-heater-gas-ir3020-grey-white/",
 "p": 185.0,
 "c": 195.0,
@@ -3831,7 +3831,7 @@
 "img": "https://aghasarkissian.com/wp-content/uploads/2024/03/GNM-732HLL-IMAGE-MAIN-1-430x437.jpg",
 "type": "Fridges, Home Appliances, Refrigeration",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Smeg Toaster TSF01PKEU Pink",
@@ -4329,6 +4329,17 @@
 "in": true
 },
 {
+"t": "Salvado Fire Resistance Safe SA1603E",
+"u": "https://aghasarkissian.com/product/salvado-safe-f1603e/",
+"p": 319.0,
+"c": 338.0,
+"cur": "USD",
+"img": "https://aghasarkissian.com/wp-content/uploads/2024/02/Untitled-design-2025-11-05T111704.159-430x430.jpg",
+"type": "Fire resistant safe, Home Equipments, Safes",
+"tags": [],
+"in": true
+},
+{
 "t": "Midea Microwave EM925A2GU LIght Silver WIthout Grill",
 "u": "https://aghasarkissian.com/product/midea-microwave-em925a2gu-silver-25-liters/",
 "p": 89.0,
@@ -4357,6 +4368,17 @@
 "c": 514.0,
 "cur": "USD",
 "img": "https://aghasarkissian.com/wp-content/uploads/2021/05/Salvado-S-87EL-430x430.jpg",
+"type": "Fire resistant safe, Home Equipments, Safes",
+"tags": [],
+"in": true
+},
+{
+"t": "Salvado Fire Safe S-45E Fire Proof",
+"u": "https://aghasarkissian.com/product/salvado-safe-s-45e/",
+"p": 429.0,
+"c": 451.0,
+"cur": "USD",
+"img": "https://aghasarkissian.com/wp-content/uploads/2024/02/S-45E-430x430.jpeg",
 "type": "Fire resistant safe, Home Equipments, Safes",
 "tags": [],
 "in": true
