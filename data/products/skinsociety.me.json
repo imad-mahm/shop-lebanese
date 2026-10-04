@@ -5511,7 +5511,7 @@
 "Masks",
 "Masks & Patches"
 ],
-"in": true
+"in": false
 },
 {
 "t": "AGE-R Vita C Pro Ampoule",
@@ -9877,7 +9877,7 @@
 "Item Type_Eye Patches",
 "korean"
 ],
-"in": true
+"in": false
 },
 {
 "t": "The Alpha-Arbutin 2 Discoloration Care Serum",
@@ -10413,7 +10413,7 @@
 "Day & Night Care",
 "Dermocosmetics"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Age-R Glutathione Glow Capsule Cream",
@@ -11072,7 +11072,7 @@
 "korean",
 "Loyalty Program"
 ],
-"in": true
+"in": false
 },
 {
 "t": "EGF NAD Firming Gel Mask (4ea)",
@@ -13046,7 +13046,7 @@
 "Product Type_Day & Night Care",
 "Skin Care"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Derma Regenerating Night Cream",
@@ -16515,8 +16515,8 @@
 {
 "t": "GLIDR Shadow Stick",
 "u": "https://skinsociety.me/products/glidr-shadow-stick",
-"p": 37.6,
-"c": 47.0,
+"p": 47.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/689304301152.avif?v=1784886565&width=400",
 "type": "Luxury",
@@ -16525,9 +16525,9 @@
 "Category_Make Up",
 "Eyes",
 "Eyeshadow",
+"Loyalty Program",
 "Luxury Make Up",
 "Make Up",
-"MID20266",
 "new arrivals"
 ],
 "in": true
@@ -16535,8 +16535,8 @@
 {
 "t": "Diamond Lip Gloss",
 "u": "https://skinsociety.me/products/diamond-lip-gloss",
-"p": 24.8,
-"c": 31.0,
+"p": 31.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/689304182317.jpg?v=1739525599&width=400",
 "type": "LUXURY",
@@ -16555,8 +16555,8 @@
 {
 "t": "Volumizing Tinted Brow Gel",
 "u": "https://skinsociety.me/products/volumizing-tinted-brow-gel",
-"p": 27.41,
-"c": 34.26,
+"p": 34.26,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/ABH_2025_VTBG_STD_Allure-Badge_Auburn.webp?v=1761116339&width=400",
 "type": "LUXURY",
@@ -16575,8 +16575,8 @@
 {
 "t": "Brow Wiz",
 "u": "https://skinsociety.me/products/brow-wiz",
-"p": 28.42,
-"c": 35.52,
+"p": 35.52,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/anastasia-beverly-hills-brow-wiz-skin-society-shop-address-country-1.jpg?v=1686497093&width=400",
 "type": "LUXURY",
@@ -16595,8 +16595,8 @@
 {
 "t": "Liquid Lipstick",
 "u": "https://skinsociety.me/products/liquid-lipstick",
-"p": 26.4,
-"c": 33.0,
+"p": 33.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/anastasia-beverly-hills-liquid-lipstick-skin-society-shop-address-country-1.jpg?v=1686497496&width=400",
 "type": "LUXURY",
@@ -16615,8 +16615,8 @@
 {
 "t": "Matte & Satin Lipstick",
 "u": "https://skinsociety.me/products/matte-satin-lipstick",
-"p": 29.82,
-"c": 37.28,
+"p": 37.28,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/anastasia-beverly-hills-matte-and-satin-lipstick-skin-society-shop-address-country-1.jpg?v=1686497326&width=400",
 "type": "LUXURY",
@@ -16635,8 +16635,8 @@
 {
 "t": "Dipbrow Pomade",
 "u": "https://skinsociety.me/products/dipbrow-pomade",
-"p": 26.74,
-"c": 33.43,
+"p": 33.43,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/anastasia-beverly-hills-dipbrow-pomade-skin-society-shop-address-country-1.jpg?v=1686497447&width=400",
 "type": "LUXURY",
@@ -16675,8 +16675,8 @@
 {
 "t": "Perfect Brow Pencil",
 "u": "https://skinsociety.me/products/perfect-brow-pencil",
-"p": 26.13,
-"c": 32.66,
+"p": 32.66,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/anastasia-beverly-hills-perfect-brow-pencil-skin-society-shop-address-country-1.jpg?v=1686497288&width=400",
 "type": "LUXURY",
@@ -17535,8 +17535,8 @@
 {
 "t": "Lash Genius™ Lash Serum",
 "u": "https://skinsociety.me/products/lash-genius-lash-serum",
-"p": 24.0,
-"c": 30.0,
+"p": 30.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/689304191883.jpg?v=1739525621&width=400",
 "type": "Luxury",
@@ -18035,8 +18035,8 @@
 {
 "t": "Powder Bronzer",
 "u": "https://skinsociety.me/products/powder-bronzer",
-"p": 38.4,
-"c": 48.0,
+"p": 48.0,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/anastasia-beverly-hills-powder-bronzer-skin-society-shop-address-country-1.jpg?v=1686497480&width=400",
 "type": "Luxury",
@@ -18055,8 +18055,8 @@
 {
 "t": "Luminous Foundation",
 "u": "https://skinsociety.me/products/luminous-foundation",
-"p": 42.4,
-"c": 53.0,
+"p": 53.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/anastasia-beverly-hills-luminous-foundation-skin-society-shop-address-country-1.jpg?v=1686497151&width=400",
 "type": "LUXURY",
@@ -19273,8 +19273,8 @@
 {
 "t": "Impeccable Blurring Second Skin Matte Foundation",
 "u": "https://skinsociety.me/products/impeccable-blurring-second-skin-matte-foundation",
-"p": 44.8,
-"c": 56.0,
+"p": 56.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/689304361248.jpg?v=1745414524&width=400",
 "type": "Luxury",
@@ -20233,8 +20233,8 @@
 {
 "t": "Anastasia Lip Gloss",
 "u": "https://skinsociety.me/products/anastasia-lip-gloss",
-"p": 26.4,
-"c": 33.0,
+"p": 33.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/products/689304189613.jpg?v=1694692065&width=400",
 "type": "LUXURY",
@@ -25405,7 +25405,7 @@
 "Make Up Removers",
 "Medical Skin Care"
 ],
-"in": true
+"in": false
 },
 {
 "t": "OG Face Pads",
@@ -28311,7 +28311,7 @@
 "Loyalty Program",
 "Medical"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Hidrosis Control Antiperspirant Roll-on Duo",
