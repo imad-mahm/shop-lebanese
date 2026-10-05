@@ -283,7 +283,7 @@
 "img": "https://curlygirlaccessories.com/wp-content/uploads/2026/09/sleekandglaze-300x300.webp",
 "type": "Shampoo",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Revuele Hair Oil Sleek & Glaze 50 ML",
@@ -514,7 +514,7 @@
 "img": "https://curlygirlaccessories.com/wp-content/uploads/2026/09/IMG-1803-300x300.webp",
 "type": "Conditioner",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "As I Am Curl Color Burgundy",
@@ -712,7 +712,7 @@
 "img": "https://curlygirlaccessories.com/wp-content/uploads/2026/08/edited-photo-2-300x300.webp",
 "type": "Gift Hampers",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Gift Hamper – Perfect Curly Hair",
@@ -1155,10 +1155,21 @@
 "in": true
 },
 {
+"t": "6th Anniversary Skala bundle",
+"u": "https://curlygirlaccessories.com/product/6th-anniversary-skala-bundle/",
+"p": 112.5,
+"c": null,
+"cur": "USD",
+"img": "https://curlygirlaccessories.com/wp-content/uploads/2026/07/img_6291-300x300.png",
+"type": "Bundles &amp; Sets",
+"tags": [],
+"in": true
+},
+{
 "t": "Curloo Flexi Brush",
 "u": "https://curlygirlaccessories.com/product/curloo-flexi-brush/",
-"p": 6.75,
-"c": 9.0,
+"p": 9.0,
+"c": null,
 "cur": "USD",
 "img": "https://curlygirlaccessories.com/wp-content/uploads/2026/07/img_6332-300x300.png",
 "type": "Brushes &amp; Combs",
@@ -1168,8 +1179,8 @@
 {
 "t": "Colorful Satin Scrunchies",
 "u": "https://curlygirlaccessories.com/product/curloo-silky-satin-scrunchies-set-of-3/",
-"p": 3.75,
-"c": 5.0,
+"p": 5.0,
+"c": null,
 "cur": "USD",
 "img": "https://curlygirlaccessories.com/wp-content/uploads/2026/08/Cherry-red-scrunchie-300x300.jpg",
 "type": "Scrunchies &amp; Hair Ties",
@@ -1179,7 +1190,7 @@
 {
 "t": "Curloo silky satin pillow cases set of 2",
 "u": "https://curlygirlaccessories.com/product/curloo-silky-satin-pillow-cases-set-of-2/",
-"p": 0.0,
+"p": 29.0,
 "c": null,
 "cur": "USD",
 "img": "https://curlygirlaccessories.com/wp-content/uploads/2026/07/img_6331-300x300.png",
@@ -1190,8 +1201,8 @@
 {
 "t": "Curloo Scalp Massager – Gentle Relief, Deep Relaxation",
 "u": "https://curlygirlaccessories.com/product/curloo-scalp-massager/",
-"p": 6.0,
-"c": 8.0,
+"p": 8.0,
+"c": null,
 "cur": "USD",
 "img": "https://curlygirlaccessories.com/wp-content/uploads/2026/07/img_6324-300x300.png",
 "type": "Tools &amp; Accessories",
@@ -1201,8 +1212,8 @@
 {
 "t": "Curloo Diffuser",
 "u": "https://curlygirlaccessories.com/product/curloo-diffuser/",
-"p": 12.75,
-"c": 17.0,
+"p": 17.0,
+"c": null,
 "cur": "USD",
 "img": "https://curlygirlaccessories.com/wp-content/uploads/2026/07/img_6334-300x300.png",
 "type": "Diffusers &amp; Dryers",
@@ -1241,34 +1252,12 @@
 "in": false
 },
 {
-"t": "Griffus – Shampoo Condtioner & leave in for kinky hair",
-"u": "https://curlygirlaccessories.com/product/griffus-shampoo-condtioner-leave-in-for-kinky-hair/",
-"p": 54.9,
-"c": null,
-"cur": "USD",
-"img": "https://curlygirlaccessories.com/wp-content/uploads/2026/07/Untitled-design-16-300x300.png",
-"type": "Shampoo",
-"tags": [],
-"in": false
-},
-{
 "t": "Griffus – Shampoo Condtioner & leave in for wavy hair",
 "u": "https://curlygirlaccessories.com/product/griffus-shampoo-condtioner-leave-in-for-wavy-hair/",
 "p": 55.17,
 "c": null,
 "cur": "USD",
 "img": "https://curlygirlaccessories.com/wp-content/uploads/2026/07/Untitled-design-15-300x300.png",
-"type": "Shampoo",
-"tags": [],
-"in": false
-},
-{
-"t": "Griffus – Shampoo Condtioner & leave in for curly hair",
-"u": "https://curlygirlaccessories.com/product/griffus-shampoo-condtioner-leave-in-for-curly-hair/",
-"p": 52.8,
-"c": null,
-"cur": "USD",
-"img": "https://curlygirlaccessories.com/wp-content/uploads/2026/07/Untitled-design-14-300x300.png",
 "type": "Shampoo",
 "tags": [],
 "in": false
@@ -3025,8 +3014,8 @@
 {
 "t": "Satin Glow Shimmer Oil 45ml",
 "u": "https://curlygirlaccessories.com/product/satin-glow-shimmer-oil-45ml/",
-"p": 27.2,
-"c": 32.0,
+"p": 32.0,
+"c": null,
 "cur": "USD",
 "img": "https://curlygirlaccessories.com/wp-content/uploads/2026/04/Satin-Glow-Shimmer-Oil-45ml-Object-By-KUndal-300x300.webp",
 "type": "Body Oils &amp; Butters",
@@ -7741,7 +7730,7 @@
 "tags": [
 "Kit"
 ],
-"in": false
+"in": true
 },
 {
 "t": "SKALA Strawberry Shampoo & Conditioner Kit",
@@ -8277,8 +8266,8 @@
 {
 "t": "Large Silky Satin Sleep Cap",
 "u": "https://curlygirlaccessories.com/product/large-silky-satin-sleep-cap/",
-"p": 10.35,
-"c": 13.8,
+"p": 13.8,
+"c": null,
 "cur": "USD",
 "img": "https://curlygirlaccessories.com/wp-content/uploads/2025/06/3608140488-300x300.jpg",
 "type": "Bonnets, Caps &amp; Towels",
@@ -8310,8 +8299,8 @@
 {
 "t": "Silky Satin Scrunchie Original",
 "u": "https://curlygirlaccessories.com/product/silky-satin-scrunchie-original/",
-"p": 3.75,
-"c": 5.0,
+"p": 5.0,
+"c": null,
 "cur": "USD",
 "img": "https://curlygirlaccessories.com/wp-content/uploads/2025/06/2898666129-300x300.jpg",
 "type": "Scrunchies &amp; Hair Ties",
@@ -8328,8 +8317,8 @@
 {
 "t": "Medium Silky Satin Sleep Cap",
 "u": "https://curlygirlaccessories.com/product/medium-silky-satin-sleep-cap/",
-"p": 10.35,
-"c": 13.8,
+"p": 13.8,
+"c": null,
 "cur": "USD",
 "img": "https://curlygirlaccessories.com/wp-content/uploads/2025/06/3608140488-300x300.jpg",
 "type": "Bonnets, Caps &amp; Towels",
@@ -8502,8 +8491,8 @@
 {
 "t": "Medium Satin Sleep Cap",
 "u": "https://curlygirlaccessories.com/product/medium-satin-sleep-cap/",
-"p": 9.78,
-"c": 11.5,
+"p": 11.5,
+"c": null,
 "cur": "USD",
 "img": "https://curlygirlaccessories.com/wp-content/uploads/2025/06/3608140488-300x300.jpg",
 "type": "Bonnets, Caps &amp; Towels",
@@ -8584,8 +8573,8 @@
 {
 "t": "Satin Set",
 "u": "https://curlygirlaccessories.com/product/satin-set/",
-"p": 16.62,
-"c": 19.55,
+"p": 19.55,
+"c": null,
 "cur": "USD",
 "img": "https://curlygirlaccessories.com/wp-content/uploads/2025/06/2529839752-300x300.jpg",
 "type": "Bundles &amp; Sets",
@@ -8884,8 +8873,8 @@
 {
 "t": "Silky Satin Double Sleep Cap",
 "u": "https://curlygirlaccessories.com/product/silky-satin-double-sleep-cap/",
-"p": 15.53,
-"c": 20.7,
+"p": 20.7,
+"c": null,
 "cur": "USD",
 "img": "https://curlygirlaccessories.com/wp-content/uploads/2025/06/3051220345-300x300.jpg",
 "type": "Bonnets, Caps &amp; Towels",
