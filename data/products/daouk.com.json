@@ -1,6 +1,6 @@
 [
 {
-"t": "Style Pro One-Step Hot Air Hair Dryer & Styling Brush",
+"t": "Style Pro One Step Hot Air Hair Dryer and Styling Brush",
 "u": "https://daouk.com/products/one-step-hair-dryer-and-styler",
 "p": 19.99,
 "c": 39.0,
@@ -788,7 +788,7 @@
 "seo-rewritten",
 "Stylist"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Remington MyStylist Straightener S1A100",
@@ -13373,7 +13373,7 @@
 "kb-rewritten",
 "seo-rewritten"
 ],
-"in": true
+"in": false
 },
 {
 "t": "L'Oreal Professionnel Serie Expert Liss Unlimited Smoother Serum 125ml",
@@ -13587,22 +13587,6 @@
 "type": "Eye Cream",
 "tags": [
 "kb-rewritten"
-],
-"in": true
-},
-{
-"t": "Babyliss Pro Program Iron 24mm BAB2173TTE",
-"u": "https://daouk.com/products/babyliss-pro-titanium-tourmaline-hair-curling-iron-25mm",
-"p": 82.0,
-"c": 81.11,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/babyliss-pro-program-iron-24mm-bab2173tte-izzat-daouk-1.png?v=1790511706&width=400",
-"type": "HAIR CURLER",
-"tags": [
-"kb-rewritten",
-"New",
-"new arrival",
-"seo-rewritten"
 ],
 "in": true
 },
@@ -24511,7 +24495,7 @@
 "kb-rewritten",
 "seo-rewritten"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Proraso Refreshing Beard Balm 100ml",
@@ -31386,7 +31370,7 @@
 "tags": [
 "kb-rewritten"
 ],
-"in": true
+"in": false
 },
 {
 "t": "L'Oreal Excellence Creme 6 Dark Blonde",
@@ -41279,7 +41263,7 @@
 "in": true
 },
 {
-"t": "Dr Schmidt Locatelli Waved Hair Pins, Black, 500g Box",
+"t": "Dr Schmidt Locatelli Waved Hair Pins Black 500g Box",
 "u": "https://daouk.com/products/locatelli-hair-pins-art-473",
 "p": 14.0,
 "c": 15.0,
@@ -46330,6 +46314,24 @@
 "c": 14.52,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/products/beauty-glam-superior-mr0726-727-728-acrylic-mirror-with-pouch-5x-izzat-daouk-1.jpg?v=1790541456&width=400",
+"type": "Accessory Mirrors",
+"tags": [
+"acc mrr",
+"Handheld Mirrors",
+"kb-rewritten",
+"light mirror",
+"magnifying mirror",
+"seo-rewritten"
+],
+"in": true
+},
+{
+"t": "Beauty Glam Superior MR0728 Oval Acrylic Mirror with Pouch, 5x",
+"u": "https://daouk.com/products/beauty-glam-superior-mr0728-mirror-5-oval-sac-acrylic",
+"p": 15.0,
+"c": 16.14,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/products/beauty-glam-superior-mr0728-oval-acrylic-mirror-with-pouch-5x-izzat-daouk-1.jpg?v=1790541457&width=400",
 "type": "Accessory Mirrors",
 "tags": [
 "acc mrr",
