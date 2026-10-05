@@ -1,5 +1,30 @@
 [
 {
+"t": "Free Gift Small Hair Brush(Random Color)",
+"u": "https://zedstorelb.com/products/free-gift-small-hair-brushrandom-color",
+"p": 0.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/rn-image_picker_lib_temp_8de4199a-b4f9-4c89-88a1-4f4ed1738b53.png?v=1791010646&width=400",
+"type": "FREE Gift",
+"tags": [
+"freegift",
+"giftcollection"
+],
+"in": true
+},
+{
+"t": "RIimmel London Lasting Finish Lipstick",
+"u": "https://zedstorelb.com/products/riimmel-london-lasting-finish-lipstick",
+"p": 4.44,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/258204_e430b71b-a23d-4631-acc1-b220564971e8.webp?v=1791009009&width=400",
+"type": "Lipstick",
+"tags": [],
+"in": true
+},
+{
 "t": "Free Gift Antibacterial Silicon Bath Sponge",
 "u": "https://zedstorelb.com/products/free-gift-antibacterial-silicon-bath-sponge",
 "p": 0.0,
@@ -81,7 +106,7 @@
 "freegift",
 "giftcollection"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Free Gift Burgundy Pouch",
@@ -95,7 +120,7 @@
 "freegift",
 "giftcollection"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Garnier Salicylic Fresh & Matte 85ml",
@@ -238,7 +263,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/BFBB0038F_1.jpg?v=1790789299&width=400",
 "type": "Eyeshadow Palette",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "By Beauty Bay Berries 42 Colour Palette",
@@ -1399,7 +1424,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/rn-image_picker_lib_temp_e948406e-96a2-441b-947a-b5620238308a.png?v=1790185392&width=400",
 "type": "musk",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Musk Remen Pomegranate - 3",
@@ -1432,7 +1457,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/rn-image_picker_lib_temp_b9a3ae76-b4fa-480e-a366-e7046cb720fd.png?v=1790185120&width=400",
 "type": "musk",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "L'Oreal Paris Wrinkle Expert 45+ Anti-Wrinkle Intensive Care SPF 20",
@@ -1965,7 +1990,7 @@
 "freegift",
 "giftcollection"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Free Gift Mini Maybelline Lash Sensational Mascara",
@@ -2007,7 +2032,7 @@
 "freegift",
 "giftcollection"
 ],
-"in": true
+"in": false
 },
 {
 "t": "L'Oreal Paris Elvive Collagen Lifter Fiber Thickening Conditioner",
@@ -3751,7 +3776,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/n285CashmereNude.webp?v=1786784357&width=400",
 "type": "Nail Polish",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Ice Rosé Merveille N302 15ml",
@@ -4205,7 +4230,7 @@
 "Sebile",
 "sephoracollection"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Makeup Revolution X Kisu Makeup Pigment and Highlighter Palette",
@@ -8052,7 +8077,7 @@
 "tags": [
 "sephoracollection"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Bath And Body Works Waikiki Beach Coconut Body Lotion",
@@ -9081,7 +9106,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/dr-althea-aqua-marine-watery-cream-50ml.avif?v=1779436434&width=400",
 "type": "Cream",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Eqqualberry - Serum Minis Discovery Kit - 5x10ml",
@@ -9554,7 +9579,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/soft-baked___260127.jpg?v=1778170841&width=400",
 "type": "Blush",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Essence Blush Crush! 150",
@@ -11118,7 +11143,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/ruby-beauty-makeup-sponge-with-holder.webp?v=1776028993&width=400",
 "type": "beauty blender",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Mug \"بدنا نروق\"",
@@ -12471,7 +12496,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/essence-pegamento-para-cejas-brow-lift-freeze-glue-01-clear-control-1-90295_377x_3x.progressive_607dd64f-2c74-48a4-8364-c4b4222df279.webp?v=1772616808&width=400",
 "type": "brow glue",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Vichy Dercos Aminexil Clinical 5 Anti-Hair Fall Treatment for Women",
@@ -13051,7 +13076,7 @@
 "l'orealskincare",
 "tancollection"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Avene Buy 1 Get 1 Cleanance Micellar Water - Oily Blemish-Prone Skin",
@@ -14918,7 +14943,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/IMG-6191_grande_78c31881-2011-4688-bd99-597e591afd6e.webp?v=1766134045&width=400",
 "type": "Eyeliner",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Essence Lash Without Limits Length & Volume WP Mascara 03",
@@ -16068,7 +16093,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/D0011138_essenceDropOfSunshineBronzingDrops.png?v=1763828050&width=400",
 "type": "bronzer",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Essence Somebunny Like You Lipgloss Lipstick 01",
@@ -16427,7 +16452,7 @@
 "tags": [
 "Advent calendar"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Essence Inner Eye Brightening Pencil",
@@ -17091,7 +17116,7 @@
 "koreancollection",
 "koreanskincare"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Medicube PDRN Glow Set",
@@ -19607,7 +19632,7 @@
 "tags": [
 "sephoracollection"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Bath and body works PERFECT IN PINK set gift 4 pcs",
@@ -20010,7 +20035,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/ruby-beauty-eyeshadow-palette-4045-version1-open.webp?v=1758356746&width=400",
 "type": "Eyeshadow",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Victoria Secret Mini Set 4 Mist Body Splash",
@@ -22970,7 +22995,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/196425_CosmalCureProfessionalOhMyCurlsLightTouchModerateLatherShampoo500Ml.jpg?v=1753720243&width=400",
 "type": "Shampoo",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Cosmal Cure Professional Oh My Curls Light Touch Conditioner 500ml",
@@ -28414,7 +28439,7 @@
 "tags": [
 "koreancollection"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Skin1004 Centella Hyalu-Cica Moisture Cream 75ml",
@@ -33242,7 +33267,7 @@
 "dollar",
 "Pastel nail polish"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Pastel nail polish - 430",
@@ -33927,7 +33952,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/Studio-Project-2024-10-30T144217.186.jpg?v=1730292186&width=400",
 "type": "Corrector",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Essence Woner Full 5in1 Primer 30ml - 10-light/medium",
@@ -38261,35 +38286,6 @@
 "type": "Deodorant",
 "tags": [
 "Lattafa Yara Deodorant Perfumed Body Spray 200ml for Women"
-],
-"in": false
-},
-{
-"t": "Maybelline Lifter Liner Lip Liner Pencil with Hyaluronic Acid and Jojoba Oil",
-"u": "https://zedstorelb.com/products/maybelline-lifter-liner-lip-liner-pencil-with-hyaluronic-acid-and-jojoba-oil",
-"p": 7.56,
-"c": 8.4,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/03.PlayerLifterLinerA_ContentArtboard1-100.webp?v=1725459268&width=400",
-"type": "Lip Liner",
-"tags": [
-"1212/2025",
-"lorealfinal"
-],
-"in": true
-},
-{
-"t": "Bath And Body Works Fine Fragrance Mist 236ml - Waikiki Beach Coconut",
-"u": "https://zedstorelb.com/products/bath-and-body-works-fine-fragrance-mist-236ml-waikiki-beach-coconut",
-"p": 15.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/Studio-Project_22.jpg?v=1725528083&width=400",
-"type": "body Splash",
-"tags": [
-"Bath And Body Works Fine Fragrance Mist 236ml",
-"sephoracollection",
-"splashlotion"
 ],
 "in": false
 }
