@@ -1,5 +1,113 @@
 [
 {
+"t": "Kérastase Genesis Anti Hair-Fall Fortifying Serum - Gift",
+"u": "https://skinsociety.me/products/kerastase-genesis-anti-hair-fall-fortifying-serum-gift",
+"p": 0.0,
+"c": null,
+"cur": "USD",
+"img": "",
+"type": "POSM",
+"tags": [
+"Category_POSM",
+"No-Sync",
+"POSM",
+"SEARCH_IGNORE"
+],
+"in": true
+},
+{
+"t": "Kérastase Genesis Bain Nutri-Fortifiant Anti Hair-Fall Fortifying Shampoo - Gift",
+"u": "https://skinsociety.me/products/kerastase-genesis-bain-nutri-fortifiant-anti-hair-fall-fortifying-shampoo-gift",
+"p": 0.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/i-kerastase-genesis-nutri-fortifiant-szampon-10-ml.webp?v=1791273118&width=400",
+"type": "POSM",
+"tags": [
+"Category_POSM",
+"No-Sync",
+"POSM",
+"SEARCH_IGNORE"
+],
+"in": true
+},
+{
+"t": "Kérastase Gloss Absolu Insta Glaze Gloss Enhancing Conditioner - Gift",
+"u": "https://skinsociety.me/products/kerastase-gloss-absolu-insta-glaze-gloss-enhancing-conditioner-gift-1",
+"p": 0.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/kerastase-gloss-absolu-insta-glaze-conditioner-10ml-sachet-1321715.webp?v=1791272828&width=400",
+"type": "POSM",
+"tags": [
+"Category_POSM",
+"No-Sync",
+"POSM",
+"SEARCH_IGNORE"
+],
+"in": true
+},
+{
+"t": "Dark Spots Daily Peel Anti-Dark Spot Resurfacing Solution",
+"u": "https://skinsociety.me/products/dark-spots-daily-peel-anti-dark-spot-resurfacing-solution",
+"p": 62.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/en-3540550020969-daily-peel-dark-spots-pdp-1.webp?v=1791185092&width=400",
+"type": "Dermocosmetics",
+"tags": [
+"Brand_Filorga",
+"Category_ Skin Care",
+"Category_Skin Care",
+"Dermocosmetics",
+"Loyalty Program",
+"new arrivals",
+"No-Sync",
+"Product Type_Skin Perfecting & Radiance"
+],
+"in": true
+},
+{
+"t": "Wrinkles Daily Peel Anti-Wrinkle Resurfacing Solution",
+"u": "https://skinsociety.me/products/wrinkles-daily-peel-anti-wrinkle-resurfacing-solution",
+"p": 62.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/en-3540550020938-daily-peel-wrinkles-pdp-1.webp?v=1791184737&width=400",
+"type": "Dermocosmetics",
+"tags": [
+"Anti-Aging",
+"Brand_Filorga",
+"Category_ Skin Care",
+"Category_Skin Care",
+"Dermocosmetics",
+"Face Serums",
+"Item Type_Face Serums",
+"Loyalty Program"
+],
+"in": true
+},
+{
+"t": "Daily Repair Mineral UV 50",
+"u": "https://skinsociety.me/products/daily-repair-mineral-uv-50",
+"p": 49.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/en-3540550020747-daily-repair-mineral-uv-pdp-1.webp?v=1791184292&width=400",
+"type": "Dermocosmetics",
+"tags": [
+"Brand_Filorga",
+"Category_ Skin Care",
+"Category_Skin Care",
+"Dermocosmetics",
+"Item Type_Sunscreens",
+"Loyalty Program",
+"Mineral Sunscreen",
+"new arrivals"
+],
+"in": true
+},
+{
 "t": "Valentino Black Laptop Sleeve - Gift",
 "u": "https://skinsociety.me/products/valentino-black-laptop-sleeve-gift",
 "p": 0.0,
@@ -1792,7 +1900,7 @@
 "No-Sync",
 "Thank You Farmer"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Sun Project Silky Calming Sun Stick",
@@ -3197,7 +3305,7 @@
 "Disney",
 "Eau De Toilette"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Stitch Makeup Toiletry Bag EDT 50 ml + Shower Gel 100 ml",
@@ -3831,7 +3939,7 @@
 "Item Type_Eau de Toilette",
 "Loyalty Program"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Stitch Shoulder Bag & Eau de Toilette 100ml",
@@ -3851,7 +3959,7 @@
 "Loyalty Program",
 "new arrivals"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Frozen ELSA Shower gel & Shampoo 1D 400ml",
@@ -4047,7 +4155,7 @@
 "Loyalty Program",
 "new arrivals"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Eau my Unicorn Gift Set Body Spray 200ml & Shower gel & Shampoo 1D 400ml",
@@ -5160,8 +5268,8 @@
 {
 "t": "Eye Therapy Patch Leopard",
 "u": "https://skinsociety.me/products/eye-therapy-patch-leopard",
-"p": 6.22,
-"c": 7.77,
+"p": 7.77,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3_1b2a4b6b-7762-4a58-a92f-506b0c1add2e.png?v=1788251032&width=400",
 "type": "Dermocosmetics",
@@ -5171,9 +5279,9 @@
 "Category_Skin Care",
 "Dermocosmetics",
 "Eye Masks",
+"Loyalty Program",
 "Masks & Patches",
-"new arrivals",
-"No-Sync"
+"new arrivals"
 ],
 "in": false
 },
@@ -7763,7 +7871,7 @@
 {
 "t": "Vamp! Eyeshadow",
 "u": "https://skinsociety.me/products/vamp-eyeshadow",
-"p": 12.87,
+"p": 19.0,
 "c": 17.16,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/products/8011607368174.jpg?v=1688037538&width=400",
@@ -8083,8 +8191,8 @@
 {
 "t": "Baby & Child Very High Protection Sun Lotion SPF50+",
 "u": "https://skinsociety.me/products/baby-child-very-high-protection-sun-lotion-spf50-mustela",
-"p": 18.4,
-"c": 23.0,
+"p": 23.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/mustela-baby-and-child-very-high-protection-sun-lotion-spf50-skin-society-shop-address-country-1.jpg?v=1686489068&width=400",
 "type": "Dermocosmetics",
@@ -8103,8 +8211,8 @@
 {
 "t": "Hydra Bébé Body Lotion",
 "u": "https://skinsociety.me/products/hydra-bebe-body-lotion-mustela",
-"p": 11.99,
-"c": 14.99,
+"p": 14.99,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/mustela-hydra-bebe-body-lotion-500-ml.jpg?v=1751874516&width=400",
 "type": "Dermocosmetics",
@@ -8163,8 +8271,8 @@
 {
 "t": "K.Therapy Bio Argan Hydrating Shampoo",
 "u": "https://skinsociety.me/products/ktherapy-bio-argan-hydrating-shampoo-lakme",
-"p": 21.77,
-"c": null,
+"p": 22.21,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/lakme-k-therapy-bio-argan-hydrating-shampoo-skin-society-shop-address-country.jpg?v=1686484195&width=400",
 "type": "Dermocosmetics",
@@ -8183,8 +8291,8 @@
 {
 "t": "K.Therapy Bio Argan Hydrating Mask",
 "u": "https://skinsociety.me/products/ktherapy-bio-argan-hydrating-mask-lakme",
-"p": 33.23,
-"c": null,
+"p": 33.9,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/lakme-k-therapy-bio-argan-hydrating-mask-skin-society-shop-address-country.jpg?v=1686484190&width=400",
 "type": "Dermocosmetics",
@@ -8643,8 +8751,8 @@
 {
 "t": "PhytoVolume Volumizing Shampoo",
 "u": "https://skinsociety.me/products/phytovolume-volumizing-shampoo-phyto",
-"p": 15.54,
-"c": 19.43,
+"p": 19.43,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3701436916183.jpg?v=1708351265&width=400",
 "type": "Dermocosmetics",
@@ -8678,7 +8786,7 @@
 "3282770206784",
 "3282770206784-32656189620317"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Color Enhancing Shampoo with Pomegranate - Color-Treated Hair",
@@ -8718,7 +8826,7 @@
 "3282770397925",
 "Brand_Avène"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Guilty Absolute Pour Femme - Eau de Parfum",
@@ -8823,8 +8931,8 @@
 {
 "t": "Eyebrow Lipocils Ink",
 "u": "https://skinsociety.me/products/eyebrow-lipocils-ink-talika",
-"p": 20.42,
-"c": 25.53,
+"p": 25.53,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/talika-eyebrow-lipocils-ink-skin-society-shop-address-country-1.jpg?v=1686485054&width=400",
 "type": "Dermocosmetics",
@@ -8843,8 +8951,8 @@
 {
 "t": "Lash Conditioning Cleanser",
 "u": "https://skinsociety.me/products/lash-conditioning-cleanser-talika",
-"p": 15.54,
-"c": 19.43,
+"p": 19.43,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/products/3139435150008.jpg?v=1674493249&width=400",
 "type": "Dermocosmetics",
@@ -8856,7 +8964,7 @@
 "Cleansers",
 "Dermocosmetics",
 "Eye Wash & Cleansers",
-"Make Up Removers"
+"Loyalty Program"
 ],
 "in": true
 },
@@ -8903,8 +9011,8 @@
 {
 "t": "K.Therapy Bio Argan Oil",
 "u": "https://skinsociety.me/products/ktherapy-bio-argan-oil-lakme",
-"p": 40.82,
-"c": null,
+"p": 41.64,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/lakme-k-therapy-bio-argan-oil-skin-society-shop-address-country.jpg?v=1686484195&width=400",
 "type": "Dermocosmetics",
@@ -10373,7 +10481,7 @@
 "Medicube",
 "Moisturizers"
 ],
-"in": true
+"in": false
 },
 {
 "t": "PDRN Hydrating Gel Cleanser",
@@ -12858,26 +12966,6 @@
 "in": true
 },
 {
-"t": "Hydrogel Eye Patch Aloe Vera",
-"u": "https://skinsociety.me/products/hydrogel-eye-patch-aloe-vera",
-"p": 18.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/8436591924555.jpg?v=1750843439&width=400",
-"type": "Casual",
-"tags": [
-"Brand_IDC Institute",
-"Casual",
-"Casual Skin Care",
-"Category_Skin Care",
-"Eye Masks",
-"Loyalty Program",
-"Masks & Patches",
-"new arrivals"
-],
-"in": false
-},
-{
 "t": "Unicorn  Plumping Lip Mask",
 "u": "https://skinsociety.me/products/unicorn-plumping-lip-mask",
 "p": 3.0,
@@ -12900,8 +12988,8 @@
 {
 "t": "Anti-Wrinkle Protocol Cream",
 "u": "https://skinsociety.me/products/anti-wrinkle-protocol-cream",
-"p": 57.72,
-"c": 72.15,
+"p": 72.15,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/176118.webp?v=1786440549&width=400",
 "type": "Dermocosmetics",
@@ -12912,16 +13000,16 @@
 "Day & Night Care",
 "Ingredient_Retinol",
 "Item Type_Day & Night Care",
-"Moisturizers",
-"new arrivals"
+"Loyalty Program",
+"Moisturizers"
 ],
 "in": true
 },
 {
 "t": "Protocole Hyaluronic Acid Anti Wrinkle Filler",
 "u": "https://skinsociety.me/products/protocole-hyaluronic-acid-anti-wrinkle-filler",
-"p": 35.52,
-"c": 44.4,
+"p": 44.4,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3701436933296-lierac-protocole-anti-rides-le-filler-15ml-boticinal.webp?v=1786440233&width=400",
 "type": "Dermocosmetics",
@@ -12932,8 +13020,8 @@
 "Day & Night Care",
 "Dermocosmetics",
 "Item Type_Day & Night Care",
-"Medical Skin Care",
-"Moisturizers"
+"Loyalty Program",
+"Medical Skin Care"
 ],
 "in": true
 },
@@ -13171,8 +13259,8 @@
 {
 "t": "Protocol Radiance Vitamine C Serum",
 "u": "https://skinsociety.me/products/protocol-radiance-vitamine-c-serum",
-"p": 71.04,
-"c": 88.8,
+"p": 88.8,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3701436926311_1.webp?v=1786357151&width=400",
 "type": "Dermocosmetics",
@@ -13183,16 +13271,16 @@
 "Face Serums",
 "Ingredient_Vitamin C",
 "Item Type_Face Serums",
-"new arrivals",
-"No-Sync"
+"Loyalty Program",
+"new arrivals"
 ],
 "in": true
 },
 {
 "t": "Protocole Radiance Peeling Mask",
 "u": "https://skinsociety.me/products/protocole-radiance-peeling-mask",
-"p": 33.74,
-"c": 42.18,
+"p": 42.18,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3701436926304-lierac-protocole-eclat-le-masque-peeling-75ml.webp?v=1786356296&width=400",
 "type": "Dermocosmetics",
@@ -13204,15 +13292,15 @@
 "Face Masks",
 "Item Type_Day & Night Care",
 "Item Type_Face Masks",
-"new arrivals"
+"Loyalty Program"
 ],
 "in": true
 },
 {
 "t": "Premium The Absolute Mask",
 "u": "https://skinsociety.me/products/premium-the-absolute-mask",
-"p": 71.04,
-"c": 88.8,
+"p": 88.8,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/lieracpremiummask.webp?v=1786355551&width=400",
 "type": "Dermocosmetics",
@@ -13224,15 +13312,15 @@
 "Day & Night Care",
 "Dermocosmetics",
 "Item Type_Day & Night Care",
-"Moisturizers"
+"Loyalty Program"
 ],
 "in": true
 },
 {
 "t": "Sunissime SPF50 Protective Stick",
 "u": "https://skinsociety.me/products/sunissime-spf50-protective-stick",
-"p": 37.3,
-"c": 46.62,
+"p": 46.62,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/Sunissime_Invisible_Sun_Stick_SPF50_10g.webp?v=1786354973&width=400",
 "type": "Dermocosmetics",
@@ -13241,10 +13329,10 @@
 "Category_Skin Care",
 "Dermocosmetics",
 "Item Type_Sunscreens",
+"Loyalty Program",
 "new arrivals",
 "No-Sync",
-"Product Type_Sunscreens",
-"SAVE20"
+"Product Type_Sunscreens"
 ],
 "in": true
 },
@@ -16160,26 +16248,6 @@
 "in": true
 },
 {
-"t": "Maybelline New York Silver Pouch - Gift",
-"u": "https://skinsociety.me/products/maybelline-new-york-silver-pouch",
-"p": 0.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/5283038002702-Silverpouch.png?v=1785147156&width=400",
-"type": "POSM",
-"tags": [
-"Brand_Maybelline New York",
-"Category_POSM",
-"Maybelline New York",
-"No-Sync",
-"POSM",
-"SAVE20",
-"SAVE22",
-"SEARCH_IGNORE"
-],
-"in": false
-},
-{
 "t": "L'oreal Paris Double Sided Face Brush - Gift",
 "u": "https://skinsociety.me/products/loreal-paris-double-sided-fcae-brush-gift",
 "p": 0.0,
@@ -16533,26 +16601,6 @@
 "in": true
 },
 {
-"t": "Diamond Lip Gloss",
-"u": "https://skinsociety.me/products/diamond-lip-gloss",
-"p": 31.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/689304182317.jpg?v=1739525599&width=400",
-"type": "LUXURY",
-"tags": [
-"689304182317",
-"689304182317-43095134503005",
-"Brand_Anastasia Beverly Hills",
-"Category_Make Up",
-"Lip Gloss",
-"Lips",
-"LIQUIDATION30",
-"LIQUIDATIONSALE26"
-],
-"in": false
-},
-{
 "t": "Volumizing Tinted Brow Gel",
 "u": "https://skinsociety.me/products/volumizing-tinted-brow-gel",
 "p": 34.26,
@@ -16655,7 +16703,7 @@
 {
 "t": "Brow Powder - Duo",
 "u": "https://skinsociety.me/products/brow-powder-duo",
-"p": 23.67,
+"p": 33.82,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/anastasia-beverly-hills-brow-powder-duo-skin-society-shop-address-country-1.jpg?v=1686497358&width=400",
@@ -17210,7 +17258,7 @@
 "Product Type_Fatigue & Energy",
 "Sub Category_Food Supplements"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Phytocalm",
@@ -17476,7 +17524,7 @@
 "t": "Ultra-Sheer Invisible Oil Control SPF50+ Sun Care Fluid",
 "u": "https://skinsociety.me/products/ultra-sheer-invisible-oil-control-spf50-sun-care-fluid",
 "p": 22.0,
-"c": null,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3574661875248_1.jpg?v=1783582666&width=400",
 "type": "Dermocosmetics",
@@ -18515,7 +18563,7 @@
 {
 "t": "Double Wear Stay-In-Place Makeup SPF10",
 "u": "https://skinsociety.me/products/double-wear-stay-in-place-makeup-spf10",
-"p": 58.91,
+"p": 68.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/estee-lauder-double-wear-stay-in-place-makeup-spf10-skin-society-shop-address-country-1.jpg?v=1687874444&width=400",
@@ -18715,8 +18763,8 @@
 {
 "t": "Vamp! Eye Pencil",
 "u": "https://skinsociety.me/products/vamp-eye-pencil",
-"p": 12.0,
-"c": 16.0,
+"p": 12.75,
+"c": 17.01,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/products/8011607354801.jpg?v=1691133782&width=400",
 "type": "Casual",
@@ -19233,8 +19281,8 @@
 {
 "t": "Phyto 7 Elixir Universal Subliming Oil, 100 ml",
 "u": "https://skinsociety.me/products/phyto-7-elixir-universal-subliming-oil-100-ml",
-"p": 31.08,
-"c": 38.85,
+"p": 38.85,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/Phyto7ElixirUniversalEnhancingOil.webp?v=1784021573&width=400",
 "type": "Dermocosmetics",
@@ -19245,16 +19293,16 @@
 "Hair Care",
 "Hair Expert",
 "Hair Oils",
-"new arrivals",
-"No-Sync"
+"Loyalty Program",
+"new arrivals"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Phyto 7 Elixir Universal Day Cream",
 "u": "https://skinsociety.me/products/phyto-7-elixir-universal-day-cream",
-"p": 19.54,
-"c": 24.42,
+"p": 24.42,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3701436941321_P_1.jpg?v=1784020171&width=400",
 "type": "Dermocosmetics",
@@ -19264,9 +19312,9 @@
 "Dermocosmetics",
 "Hair Care",
 "Hair Expert",
+"Loyalty Program",
 "new arrivals",
-"No-Sync",
-"SAVE20"
+"No-Sync"
 ],
 "in": true
 },
@@ -19293,8 +19341,8 @@
 {
 "t": "Teknia True Curls Cream",
 "u": "https://skinsociety.me/products/teknia-true-curls-cream",
-"p": 31.5,
-"c": null,
+"p": 32.13,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/GLOW55STORELakmeTrueCurlsCream-200ml.webp?v=1784033183&width=400",
 "type": "Dermocosmetics",
@@ -19333,8 +19381,8 @@
 {
 "t": "Teknia True Curls Moisturizing Shampoo",
 "u": "https://skinsociety.me/products/teknia-true-curls-moisturizing-shampoo",
-"p": 25.0,
-"c": null,
+"p": 25.5,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/Lakme-TekniaTrueCurlsShampoo300ml_3ad4a95d-087d-4245-81b9-594a76b8d259.webp?v=1784022472&width=400",
 "type": "Dermocosmetics",
@@ -19353,8 +19401,8 @@
 {
 "t": "L2 Blonde Instant Detangling Conditioner",
 "u": "https://skinsociety.me/products/l2-blonde-instant-detangling-conditioner",
-"p": 26.0,
-"c": null,
+"p": 26.52,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/LAK.91L2C_PRO_3001-gd.webp?v=1784019578&width=400",
 "type": "Dermocosmetics",
@@ -19393,8 +19441,8 @@
 {
 "t": "L2 Classic Bi Phase Conditioner, Detangling Spray for Hair, Leave In Conditioner Spray For All Hair Types",
 "u": "https://skinsociety.me/products/l2-classic-instant-detangling-conditioner",
-"p": 25.0,
-"c": null,
+"p": 25.5,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/51hL41MeItL._SL1500.jpg?v=1784018599&width=400",
 "type": "Dermocosmetics",
@@ -19413,8 +19461,8 @@
 {
 "t": "Teknia True Curls Conditioner",
 "u": "https://skinsociety.me/products/teknia-true-curls-conditioner",
-"p": 38.0,
-"c": null,
+"p": 38.76,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/Lakme-TekniaTrueCurlsConditioner300ml.webp?v=1784018157&width=400",
 "type": "Dermocosmetics",
@@ -19433,8 +19481,8 @@
 {
 "t": "Teknia True Curls Refresh Mist",
 "u": "https://skinsociety.me/products/teknia-true-curl-mist",
-"p": 33.5,
-"c": null,
+"p": 34.17,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/tekniamist.webp?v=1784017786&width=400",
 "type": "Dermocosmetics",
@@ -19453,8 +19501,8 @@
 {
 "t": "Double-Brow Serum, Brow Strength & Density",
 "u": "https://skinsociety.me/products/double-brow-serum-brow-strength-density",
-"p": 20.81,
-"c": 27.75,
+"p": 27.75,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/7618900930025.jpg?v=1784016533&width=400",
 "type": "Dermocosmetics",
@@ -19462,11 +19510,11 @@
 "Brand_Mavala",
 "Brows",
 "Dermocosmetics",
+"Loyalty Program",
 "new arrivals",
 "No-Sync",
 "Product Type_Brows",
-"SAVE20",
-"SAVE22"
+"SAVE20"
 ],
 "in": true
 },
@@ -20699,7 +20747,7 @@
 "new arrivals",
 "No-Sync"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Kérastase Blond Absolu Bain Lumière Hydrating Illuminating Shampoo - Gift",
@@ -21009,8 +21057,8 @@
 {
 "t": "Isdinceutics Essential Scrub",
 "u": "https://skinsociety.me/products/isdinceutics-essential-scrub",
-"p": 33.3,
-"c": null,
+"p": 33.97,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/US_4320_TH_ISDINCEUTICSESSENTIALSCRUB100G_MAIN_IMAGE_0.webp?v=1776239553&width=400",
 "type": "Dermocosmetics",
@@ -21026,8 +21074,8 @@
 {
 "t": "Isdinceutics Essential Purifier",
 "u": "https://skinsociety.me/products/isdinceutics-essential-purifier",
-"p": 35.52,
-"c": null,
+"p": 36.23,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/US_4684_TH_ISDINCEUTICSESSENTIALPURIFIER150ML_MAIN_IMAGE_0.webp?v=1776236539&width=400",
 "type": "Dermocosmetics",
@@ -21821,8 +21869,8 @@
 {
 "t": "Plage Rehydrating After-Sun Shampoo",
 "u": "https://skinsociety.me/products/plage-rehydrating-after-sun-shampoo",
-"p": 15.54,
-"c": 19.42,
+"p": 19.42,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3701436923044_1366x_394ca4cb-e62e-4c11-bc45-c7b4eceb6582.webp?v=1782739451&width=400",
 "type": "Dermocosmetics",
@@ -21833,8 +21881,8 @@
 "Hair Care",
 "Hair Expert",
 "Item Type_Shampoo",
-"new arrivals",
-"No-Sync"
+"Loyalty Program",
+"new arrivals"
 ],
 "in": true
 },
@@ -24955,7 +25003,7 @@
 "t": "Ultra Sheer Hydration Cream SPF50",
 "u": "https://skinsociety.me/products/ultra-sheer-hydration-cream-spf50",
 "p": 22.0,
-"c": null,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/45_7d086614-5302-4638-b9b8-4e95e64e8b9e.png?v=1779707011&width=400",
 "type": "Dermocosmetics",
@@ -24975,7 +25023,7 @@
 "t": "Ultra Sheer Invisible Hydration Fluid Sunscreen SPF50",
 "u": "https://skinsociety.me/products/ultra-sheer-invisible-hydration-fluid-sunscreen-spf50",
 "p": 22.0,
-"c": null,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/45_1ba4cae2-db01-4f2c-b1fd-92c1fc7c6819.png?v=1779707247&width=400",
 "type": "Dermocosmetics",
@@ -24994,8 +25042,8 @@
 {
 "t": "Collagen Bank SPF 30 Day Face Moisturizer",
 "u": "https://skinsociety.me/products/collagen-bank-spf-30-day-face-moisturizer",
-"p": 32.0,
-"c": null,
+"p": 35.05,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/NTG_USA_US_70501069646_680696400_Collagen_Bank_SPF_Moisturizer_2oz_00000.webp?v=1779696154&width=400",
 "type": "Dermocosmetics",
@@ -25570,7 +25618,7 @@
 {
 "t": "Dermato 48H Deodorant Wipes - 15 Wipes",
 "u": "https://skinsociety.me/products/dermato-48h-deodorant-wipes-15-wipes",
-"p": 11.1,
+"p": 11.32,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/dermatowipes.webp?v=1776326183&width=400",
@@ -25865,7 +25913,7 @@
 "Loyalty Program",
 "Make Up"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Kiss on Cheeks Ph-reacting Lip & Cheek Stick",
@@ -25906,26 +25954,6 @@
 "Make Up"
 ],
 "in": true
-},
-{
-"t": "Stay & Play Gel Eyeliner Pot",
-"u": "https://skinsociety.me/products/stay-play-gel-eyeliner-pot",
-"p": 6.5,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/geleyelinerblack.jpg?v=1730101505&width=400",
-"type": "Casual",
-"tags": [
-"2025 JAN Flash Sale",
-"4059729446640",
-"4059729446640-42823978844253",
-"4059729446657",
-"4059729446657-42823978909789",
-"Brand_Essence",
-"Casual",
-"Casual Make Up"
-],
-"in": false
 },
 {
 "t": "Avene Ultra Fluid Invisible SPF50",
@@ -25970,8 +25998,8 @@
 {
 "t": "Discomfort Dermo-Soothing Shampoo",
 "u": "https://skinsociety.me/products/phytoapaisant-soothing-treatment-shampoo-phyto",
-"p": 15.54,
-"c": 19.42,
+"p": 19.42,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/314155_source_1766014855.webp?v=1778836255&width=400",
 "type": "Dermocosmetics",
@@ -26548,7 +26576,7 @@
 "No-Sync",
 "Parapharmacy"
 ],
-"in": true
+"in": false
 },
 {
 "t": "L-Optizinc 30 Mg",
@@ -26753,8 +26781,8 @@
 {
 "t": "Fotoprotector Body Glow Sun Lotion SPF30",
 "u": "https://skinsociety.me/products/fotoprotector-body-glow-sun-lotion-spf30",
-"p": 42.18,
-"c": null,
+"p": 43.02,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/isdin-body-glow-spf30-200ml_2_1.webp?v=1776236212&width=400",
 "type": "Dermocosmetics",
@@ -29818,7 +29846,7 @@
 "tags": [
 "5032722305120"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Chocolate Granola",
@@ -30787,7 +30815,7 @@
 {
 "t": "Hello Clean  Bi-Phase Micellar Water Waterproof Makeup Remover",
 "u": "https://skinsociety.me/products/ceramide-bi-phase-micellar-water-waterproof-makeup-remover",
-"p": 8.5,
+"p": 11.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/8697711621833.jpg?v=1757330038&width=400",
@@ -32834,8 +32862,8 @@
 {
 "t": "Detangling Cream Shampoo",
 "u": "https://skinsociety.me/products/detangling-cream-shampoo",
-"p": 13.32,
-"c": 16.65,
+"p": 16.65,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/DetanglingandnourishingcreamshampooPNGsansombre.jpg?v=1747639478&width=400",
 "type": "Dermocosmetics",
@@ -32846,8 +32874,8 @@
 "Baby Bath",
 "Category_Baby & Mom",
 "Dermocosmetics",
-"Medical",
-"new arrivals"
+"Loyalty Program",
+"Medical"
 ],
 "in": true
 },
@@ -35149,7 +35177,7 @@
 "Parapharmacy",
 "Product Type_Joints & Cartilages"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Horsetail 500 Mg",
@@ -36932,7 +36960,7 @@
 "Product Type_Body Building",
 "Sub Category_Food Supplements"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Multivitamin-Electrolyte Raspberry",
@@ -37012,7 +37040,7 @@
 "Parapharmacy",
 "Product Type_Fatigue & Energy"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Digestive Crunchy Biscuit",
@@ -38371,7 +38399,7 @@
 "Product Type_Accessories",
 "Product Type_Toothbrushes"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Interdental Brush Size 2 -0.5MM",
@@ -39176,8 +39204,8 @@
 {
 "t": "Premium Absolute Serum Set",
 "u": "https://skinsociety.me/products/premium-serum-set",
-"p": 97.68,
-"c": 122.1,
+"p": 122.1,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/lierac-premium-absolute-serum-30ml-eye-contour-20ml_1.jpg?v=1770020242&width=400",
 "type": "Dermocosmetics",
@@ -39196,8 +39224,8 @@
 {
 "t": "Premium Voluptuous Cream Set",
 "u": "https://skinsociety.me/products/premium-voluptuous-cream-set",
-"p": 97.68,
-"c": 122.1,
+"p": 122.1,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/lierac-premium-voluptuous-cream-50ml-eye-contour-20ml.jpg?v=1770018688&width=400",
 "type": "Dermocosmetics",
@@ -40231,7 +40259,7 @@
 "Product Type_Organic Variety",
 "Sub Category_Nutrition"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Thyme & Sesame Protein Puffs",
@@ -41826,8 +41854,8 @@
 {
 "t": "Retinol Boost Intense Pot",
 "u": "https://skinsociety.me/products/retinol-boost-intense-pot",
-"p": 27.25,
-"c": null,
+"p": 32.7,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3574661759937.jpg?v=1768296345&width=400",
 "type": "Dermocosmetics",
@@ -41846,8 +41874,8 @@
 {
 "t": "Hydro Boost 10% Niacinamide Serum",
 "u": "https://skinsociety.me/products/hydro-boost-10-niacinamide-serum",
-"p": 24.6,
-"c": null,
+"p": 27.06,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3574661813875.jpg?v=1768296198&width=400",
 "type": "Dermocosmetics",
@@ -41866,8 +41894,8 @@
 {
 "t": "Retinol Boost Night Intense Serum",
 "u": "https://skinsociety.me/products/retinol-boost-night-intense-serum",
-"p": 30.3,
-"c": null,
+"p": 36.33,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3574661780511_c9dd5d6b-4e6d-4086-bd24-415c3d93e16f.jpg?v=1768296539&width=400",
 "type": "Dermocosmetics",
@@ -41953,7 +41981,7 @@
 "Category_Tools & Accessories",
 "Hair Brushes"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Muti Tasker Turbo Charged Glow",
@@ -42458,8 +42486,8 @@
 {
 "t": "New Life New Adventures Musti Coffret Blue",
 "u": "https://skinsociety.me/products/new-life-new-adventures-musti-coffret-blue",
-"p": 12.88,
-"c": 16.1,
+"p": 16.1,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/5283004335339.jpg?v=1765970068&width=400",
 "type": "Dermocosmetics",
@@ -42470,16 +42498,16 @@
 "Category_Baby & Mom",
 "Dermocosmetics",
 "Gift Sets",
-"new arrivals",
-"No-Sync"
+"Loyalty Program",
+"new arrivals"
 ],
 "in": false
 },
 {
 "t": "New Life New Adventures Musti Coffret Yellow",
 "u": "https://skinsociety.me/products/new-life-new-adventures-musti-coffret-yellow",
-"p": 12.88,
-"c": 16.1,
+"p": 16.1,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/5283004335346.jpg?v=1765975047&width=400",
 "type": "Dermocosmetics",
@@ -42491,7 +42519,7 @@
 "Dermocosmetics",
 "Eau De Parfum",
 "Gift Sets",
-"new arrivals"
+"Loyalty Program"
 ],
 "in": false
 },
@@ -44520,7 +44548,7 @@
 "Product Type_Organic Variety",
 "Sub Category_Nutrition"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Dark Chocolate Rice Cakes",
@@ -44720,7 +44748,7 @@
 "Sub Category_Dental Care",
 "Toothpaste"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Corn Flakes",
@@ -44780,7 +44808,7 @@
 "Product Type_Gluten Free",
 "Sub Category_Nutrition"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Drak Chocolate & Red Fruits Crispy Cereals",
@@ -45460,7 +45488,7 @@
 "Item Type_Face Wash & Cleansers",
 "Loyalty Program"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Bamboo Travel Towels",
@@ -45680,7 +45708,7 @@
 "Sub Category_Dental Care",
 "Toothbrushes"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Natural Extract Charcoal & Mint Toothpaste",
@@ -45985,7 +46013,7 @@
 {
 "t": "Trav-Ler Interdental Brush 2.6MM -1619",
 "u": "https://skinsociety.me/products/trav-ler-interdental-brush-2-6mm-1619",
-"p": 5.55,
+"p": 7.22,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/7630019904001.jpg?v=1766423685&width=400",
@@ -46000,7 +46028,7 @@
 "Product Type_Accessories",
 "Sub Category_Dental Care"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Triple Fresh Menthol",
@@ -46560,7 +46588,7 @@
 "Product Type_Cereals",
 "Sub Category_Baby Nutrition"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Newborn Starter Set",
@@ -46721,26 +46749,6 @@
 "SAVE22"
 ],
 "in": true
-},
-{
-"t": "Cotton Flower Gift Set",
-"u": "https://skinsociety.me/products/cotton-flower-gift-set",
-"p": 47.63,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3551780012877.jpg?v=1765276212&width=400",
-"type": "Dermocosmetics",
-"tags": [
-"Bath & Body",
-"Bath & Shower",
-"Body Lotion & Oils",
-"Body Moisturizers",
-"Brand_Compagnie De Provence",
-"Category_Bath & Body",
-"Dermocosmetics",
-"Handwash & Soap"
-],
-"in": false
 },
 {
 "t": "Synchro Skin Radiant Lifting Concealer",
@@ -47402,8 +47410,8 @@
 {
 "t": "Acne Defense Set",
 "u": "https://skinsociety.me/products/acne-defense-set",
-"p": 56.76,
-"c": null,
+"p": 57.9,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/5055565740286.jpg?v=1765983420&width=400",
 "type": "Dermocosmetics",
@@ -47422,8 +47430,8 @@
 {
 "t": "Acniben Clear Skin Duo Set",
 "u": "https://skinsociety.me/products/acniben-clear-skin-duo-set",
-"p": 44.16,
-"c": null,
+"p": 45.04,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/5055565728710.jpg?v=1765983297&width=400",
 "type": "Dermocosmetics",
@@ -52399,7 +52407,7 @@
 "Item Type_Mascara",
 "Loyalty Program"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Kit Vamp!Sexy Lashes & Skinny Liner",
@@ -52559,7 +52567,7 @@
 "Eyes",
 "For Her"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Kit Vamp! Mascara & Skinny Liner",
@@ -54098,7 +54106,7 @@
 "Product Type_Accessories",
 "Sub Category_Family Health"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Pill Cutter",
@@ -54278,7 +54286,7 @@
 "Product Type_First Aid",
 "Sub Category_Family Health"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Nebulizer Accessory N1",
@@ -58617,26 +58625,6 @@
 "type": "Parapharmacy",
 "tags": [
 "8720689011549",
-"Baby & Mom",
-"Baby Bottles",
-"Baby Feeding",
-"Brand_Avent",
-"Category_Baby & Mom",
-"Product Type_Baby Bottles",
-"Sub Category_Baby Feeding"
-],
-"in": true
-},
-{
-"t": "Natural Response 0M+ Bottle",
-"u": "https://skinsociety.me/products/natural-response-0m-bottle",
-"p": 19.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/8720689011518.jpg?v=1763393161&width=400",
-"type": "Parapharmacy",
-"tags": [
-"8720689011518",
 "Baby & Mom",
 "Baby Bottles",
 "Baby Feeding",
