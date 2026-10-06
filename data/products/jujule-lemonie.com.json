@@ -127,7 +127,7 @@
 "tops",
 "upperwear"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Lucy Chemise - Sea Buttons Stripes Green",
@@ -175,7 +175,7 @@
 "tops",
 "upperwear"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Kay Pants - Black",
@@ -1489,7 +1489,7 @@
 "in": true
 },
 {
-"t": "Matrahak Be Albi - Black",
+"t": "Matrahak Be Albi Tshirt - Black",
 "u": "https://www.jujule-lemonie.com/products/matrahak-be-albi-black-1",
 "p": 70.0,
 "c": null,
@@ -3746,7 +3746,7 @@
 "tags": [
 "knitwear"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Palm & Plume Cardigan",
@@ -3816,7 +3816,7 @@
 "echoes",
 "knitwear"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Palm Cardigan",
@@ -4225,8 +4225,8 @@
 {
 "t": "Evelyn Gilet - Brown",
 "u": "https://www.jujule-lemonie.com/products/evelyn-gilet-espresso-brown",
-"p": 87.5,
-"c": 125.0,
+"p": 125.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0620/6980/1212/files/VAR_0632_7dcd29b3-cea0-42a0-be8d-ea92f8f27b20.jpg?v=1761896539&width=400",
 "type": "",
@@ -4344,8 +4344,8 @@
 {
 "t": "Maelle Skirt - Brown",
 "u": "https://www.jujule-lemonie.com/products/marl-skirt-espresso-brown",
-"p": 87.5,
-"c": 125.0,
+"p": 125.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0620/6980/1212/files/VAR_0622.jpg?v=1761896020&width=400",
 "type": "",
@@ -4656,7 +4656,7 @@
 "in": false
 },
 {
-"t": "Bisou Bisou Short",
+"t": "Sunshine Shorts - Blue",
 "u": "https://www.jujule-lemonie.com/products/sunshine-short-copy",
 "p": 75.0,
 "c": null,
@@ -5155,7 +5155,7 @@
 "in": true
 },
 {
-"t": "Sunshine Shorts",
+"t": "Sunshine Shorts - Yellow",
 "u": "https://www.jujule-lemonie.com/products/sunshine-short",
 "p": 75.0,
 "c": null,
@@ -6673,7 +6673,7 @@
 "in": true
 },
 {
-"t": "Joy chemise",
+"t": "Joy Chemise",
 "u": "https://www.jujule-lemonie.com/products/joy-chemise",
 "p": 125.0,
 "c": null,
@@ -9000,7 +9000,7 @@
 "in": true
 },
 {
-"t": "Matrahak Be Albi - Red",
+"t": "Matrahak Be Albi Tshirt - Red",
 "u": "https://www.jujule-lemonie.com/products/matrahak-be-albi-black",
 "p": 70.0,
 "c": null,
@@ -9548,7 +9548,7 @@
 "in": true
 },
 {
-"t": "Matrahak Be Albi - Gold",
+"t": "Matrahak Be Albi Tshirt - Gold",
 "u": "https://www.jujule-lemonie.com/products/matrahak-be-albi-gold",
 "p": 70.0,
 "c": null,

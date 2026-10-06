@@ -1,5 +1,49 @@
 [
 {
+"t": "G-legging",
+"u": "https://www.hashtag-lb.com/products/g-legging-1",
+"p": 10.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/7457b151-08fe-4582-99c1-50d0915f6f55.jpg?v=1791196941&width=400",
+"type": "legging",
+"tags": [],
+"in": true
+},
+{
+"t": "G-leather legging 2416",
+"u": "https://www.hashtag-lb.com/products/g-leather-legging-2416",
+"p": 10.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/81826746-c0c4-496a-9d78-b0b35fbedaba.jpg?v=1791196645&width=400",
+"type": "legging",
+"tags": [],
+"in": true
+},
+{
+"t": "G-Legging",
+"u": "https://www.hashtag-lb.com/products/g-legging",
+"p": 10.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/c558cf24-862c-4e92-a423-33d35c90ce41.jpg?v=1791196163&width=400",
+"type": "legging",
+"tags": [],
+"in": true
+},
+{
+"t": "G-legging 918",
+"u": "https://www.hashtag-lb.com/products/g-legging-918",
+"p": 10.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/1001446590.jpg?v=1791194866&width=400",
+"type": "legging",
+"tags": [],
+"in": true
+},
+{
 "t": "G- straight jeans 26860",
 "u": "https://www.hashtag-lb.com/products/g-straight-jeans-26860",
 "p": 45.0,
@@ -756,7 +800,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/2a563b02-9519-46fd-83a3-7b607a88725e.jpg?v=1789047341&width=400",
 "type": "Set",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "G-Pants 9882",
@@ -1966,7 +2010,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/8887.jpg?v=1770453799&width=400",
 "type": "Jeans",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "straight jeans 673",
@@ -2076,7 +2120,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/12_723cf0f3-aa79-40f2-ac4a-d066b6f38760.jpg?v=1771576022&width=400",
 "type": "jeans",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "jeans 785",
