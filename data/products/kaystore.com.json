@@ -5981,7 +5981,7 @@
 "uhd",
 "UltraHD"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Samsung Vision AI Smart 65 Inch Crystal UHD",
@@ -6035,7 +6035,7 @@
 "uhd",
 "UltraHD"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Samsung Vision AI Smart 50 Inch Crystal UHD",
@@ -34285,21 +34285,6 @@
 "in": true
 },
 {
-"t": "Kitchenaid Blender 1.4 LIT BK",
-"u": "https://kaystore.com/product/kitchenaid-blender-1-4-lit-bk/",
-"p": 339.0,
-"c": null,
-"cur": "USD",
-"img": "https://kaystore.com/wp-content/uploads/2025/11/i126009-247x296.jpg",
-"type": "Blenders &amp; Hand Blenders",
-"tags": [
-"Appliances",
-"Blender",
-"Cocktail"
-],
-"in": true
-},
-{
 "t": "Kitchenaid Rechargeable CookingCharcoal",
 "u": "https://kaystore.com/product/kitchenaid-rechargeable-hand-mixer-charcoal/",
 "p": 220.0,
@@ -35586,23 +35571,6 @@
 "beauty",
 "bodycare",
 "face"
-],
-"in": true
-},
-{
-"t": "Beper Hair Curler 25mm",
-"u": "https://kaystore.com/product/beper-hair-curler-25mm/",
-"p": 32.0,
-"c": null,
-"cur": "USD",
-"img": "https://kaystore.com/wp-content/uploads/2025/10/I135679-247x296.jpg",
-"type": "Hair Dryers &amp; Stylers",
-"tags": [
-"Appliances",
-"Curler",
-"Hair",
-"Hair Curler",
-"Hair Styler"
 ],
 "in": true
 },
@@ -39037,7 +39005,7 @@
 "smarttv",
 "Tizen"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Samsung Vision AI Smart TV Neo Qled 65 Inch 4K",
@@ -51919,6 +51887,38 @@
 "J-Line",
 "Kitchenware",
 "La Maison"
+],
+"in": true
+},
+{
+"t": "Pitcher Granada Stripes Ceramic Yellow Large",
+"u": "https://kaystore.com/product/pitcher-granada-stripes-ceramic-yellow-large/",
+"p": 37.0,
+"c": 53.0,
+"cur": "USD",
+"img": "https://kaystore.com/wp-content/uploads/2025/06/I134340-1-247x296.jpg",
+"type": "Bar Accessories, La Maison",
+"tags": [
+"J-Line",
+"La Maison",
+"Pitcher",
+"Tableware"
+],
+"in": true
+},
+{
+"t": "Pitcher Granada Stripes Ceramic Yellow Medium",
+"u": "https://kaystore.com/product/pitcher-granada-stripes-ceramic-yellow-medium/",
+"p": 29.0,
+"c": 42.0,
+"cur": "USD",
+"img": "https://kaystore.com/wp-content/uploads/2025/06/I134339-1-247x296.jpg",
+"type": "Bar Accessories, La Maison",
+"tags": [
+"J-Line",
+"La Maison",
+"Pitcher",
+"Tableware"
 ],
 "in": true
 }
