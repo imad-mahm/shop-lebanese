@@ -92,7 +92,7 @@
 "freegift",
 "giftcollection"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Free Gift Beige Pouch",
@@ -274,7 +274,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/BFBB0507F_1.jpg?v=1790789210&width=400",
 "type": "Eyeshadow Palette",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "By Beauty Bay Nude 42 Colour Palette",
@@ -655,7 +655,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/n66_TipsyRouge.webp?v=1790696742&width=400",
 "type": "naiil polish",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Ice Red Desire N68 15ml",
@@ -1745,7 +1745,7 @@
 "in": false
 },
 {
-"t": "Hot Drops Liquid Bronzer",
+"t": "Wibo Hot Drops Liquid Bronzer",
 "u": "https://zedstorelb.com/products/hot-drops-liquid-bronzer",
 "p": 7.2,
 "c": 8.0,
@@ -1843,7 +1843,7 @@
 "medicube",
 "skin care"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Medicube EGF NAD Firming Gel Mask - Single Sheet",
@@ -1990,7 +1990,7 @@
 "freegift",
 "giftcollection"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Free Gift Mini Maybelline Lash Sensational Mascara",
@@ -5124,7 +5124,7 @@
 "Makeup",
 "New Arrivals"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Essence feelin' comfy lash without limits brown extreme lengthening & volume mascara 01 Lash Cocoon, 13ml",
@@ -5196,7 +5196,7 @@
 "Makeup",
 "New Arrivals"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Essence Inner Eye Khol Kajal 01",
@@ -8354,7 +8354,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/1_7f519c42-06c4-4642-9595-bc9488459e2b.webp?v=1780558651&width=400",
 "type": "perfume",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Lattafa Fakhar Perfume Mist 250ml",
@@ -8420,7 +8420,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/01_3880b8b4-e315-4d0a-8016-20e8b366b4b4.webp?v=1780389433&width=400",
 "type": "Lip Balm",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Bioten Glow Expert 4D Anti-Dark Circles & Antiwrinkle Eye Pearl Serum 15ml",
@@ -9152,7 +9152,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/arencia-vitamin-c-booster-shot-30ml-1-min.jpg?v=1779298118&width=400",
 "type": "Face cream",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Maybelline Cloudtopia Blush For Cheeks And Lip Mousse Pigmented Formula for Up to 14hrs",
@@ -11400,7 +11400,7 @@
 "koreanskincare",
 "tancollection"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Anua Zero-Cast Moisturizing Finish Sunscreen 50ml",
@@ -12113,7 +12113,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/4.png?v=1773398422&width=400",
 "type": "Brush",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Arzea Cedra Foundation Brush",
@@ -14822,7 +14822,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/rn-image_picker_lib_temp_88373385-fc92-412e-bc1b-98be80972fcb.png?v=1766402239&width=400",
 "type": "Nail Polish",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Yves Morel 40 Nail Polish",
@@ -15576,7 +15576,7 @@
 "dryskincollection",
 "teahersday2026"
 ],
-"in": true
+"in": false
 },
 {
 "t": "-10% OFF CeraVe Blemish Control Cleanser Face Wash 236ml + Gel Facial Moisturiser For Acne & Blemishes with Glycolic Acid and Lactic Acid AHA/BHA 40ml",
@@ -15605,7 +15605,7 @@
 "Bundlecollection",
 "teahersday2026"
 ],
-"in": true
+"in": false
 },
 {
 "t": "-10% OFF CeraVe hydrating cleanser 236ml + moisturising lotion 236ml + eye repair cream 14ml",
@@ -15619,7 +15619,7 @@
 "Bundlecollection",
 "teahersday2026"
 ],
-"in": true
+"in": false
 },
 {
 "t": "La Roche Posay Effaclar Duo+M 3H Spot Patches",
@@ -17074,7 +17074,7 @@
 "koreancollection",
 "koreanskincare"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Medicube AGE-R Vita C Pro Ampoule 20ml",
@@ -23426,7 +23426,7 @@
 "koreancollection",
 "Sensitiveskincollection"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Skin1004 Centella Hyalu_ Cica Haydrating Mask",
@@ -24913,7 +24913,7 @@
 "koreancollection",
 "Sensitiveskincollection"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Anua Rice 70 Glow Milky Toner 250ml",
@@ -25172,7 +25172,7 @@
 "koreancollection",
 "Sensitiveskincollection"
 ],
-"in": true
+"in": false
 },
 {
 "t": "L'Oreal Paris Infallible 24H Tinted Serum With 1% Hyaluronic Acid For Radiant Hydrated Skin, Light To Medium Coverage, 30ml",
@@ -27481,7 +27481,7 @@
 "1212/2025",
 "lorealfinal"
 ],
-"in": true
+"in": false
 },
 {
 "t": "L'Oreal Paris Men Expert Barber Club Beard, Face & Hair Wash 200ml",
@@ -28928,7 +28928,7 @@
 "oilyskincollection",
 "tancollection"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Lattafa Hayaati Gold Elixir Perfume 100ml",
@@ -34297,7 +34297,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/Studio-Project-2024-10-26T144839.977.jpg?v=1729943344&width=400",
 "type": "body oil",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Khan Al Saboun Body Splash 100ml - Vanilla Cream",
@@ -35154,7 +35154,7 @@
 "tags": [
 "Elephant Makeup Sponge x2"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Elephant Round Powder Puff ELSP608",

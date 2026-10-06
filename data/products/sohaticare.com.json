@@ -1,5 +1,36 @@
 [
 {
+"t": "Seche Vive Instant Gel Effect Top Coat 14ML",
+"u": "https://sohaticare.com/products/seche-vive-instant-gel-effect-top-coat-14ml",
+"p": 11.1,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/WhatsAppImage2026-10-05at12.44.24PM.jpg?v=1791193564&width=400",
+"type": "Top Coat",
+"tags": [],
+"in": true
+},
+{
+"t": "Beper Rechargeable Pore Vacuum And Black Head Remover",
+"u": "https://sohaticare.com/products/beper-rechargeable-pore-vacuum-and-black-head-remover-p302vis001",
+"p": 21.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/products/P302VIS001_1.jpg?v=1704213477&width=400",
+"type": "Face Cleansing Device",
+"tags": [
+"ALLSUMSPLASH_05.16",
+"beper",
+"device",
+"ELECTRONICS_ACTIVE25",
+"face cleansing",
+"HALLOWEENSALE_2024",
+"skincare",
+"SPRING24_CODE20ALL"
+],
+"in": true
+},
+{
 "t": "L’Oréal Paris, Revitalift Filler [HA] Night Moisturiser 50ml",
 "u": "https://sohaticare.com/products/hyaluronic-acid-night-cream",
 "p": 9.9,
@@ -54,7 +85,7 @@
 "Giftset",
 "TOPOFFER"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Buy Eucerin Urea Repair Plus 10% Urea Lotion 250ml + Hand Cream 5% 75ml & get a FREE Foot Cream 10% 100ml",
@@ -152,8 +183,8 @@
 "p": 20.0,
 "c": null,
 "cur": "USD",
-"img": "",
-"type": "",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/Packshots-2024-01-03T130925.562_68a7eafe-e164-4d60-b4cd-ae2106aa6e41.webp?v=1791193967&width=400",
+"type": "Eye Contour",
 "tags": [],
 "in": true
 },
@@ -163,7 +194,7 @@
 "p": 21.0,
 "c": null,
 "cur": "USD",
-"img": "",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/51dsC8iVg3L._SY741.jpg?v=1791193786&width=400",
 "type": "",
 "tags": [],
 "in": false
@@ -1250,7 +1281,7 @@
 "ADHA23",
 "ADHA23_20%"
 ],
-"in": true
+"in": false
 },
 {
 "t": "A-Derma Exomega Emollient sunscreen SPF50+, for dry to atopic skin, 150ml",
@@ -1329,7 +1360,7 @@
 "Giftset",
 "nutripo_acne_aug26"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Buy Nutripo Hyal-C Facial Serum 30 ml & get a FREE one",
@@ -1681,7 +1712,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/WhatsAppImage2026-09-03at2.22.12PM.jpg?v=1788434672&width=400",
 "type": "Sponge",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Bodycology Body Scrub Watermelon Splash 10.5oz",
@@ -2050,7 +2081,7 @@
 "nutripo_acne_aug26",
 "oily-bundle-nutripo"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Buy Nutripo Facial Wash 500 ml & get a FREE Matipore Salicylic Acid 30 ml",
@@ -2070,7 +2101,7 @@
 "oily-bundle-nutripo",
 "TOPOFFER"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Lipo Redux Cryogel Cafeine 24H 1KG",
@@ -4964,7 +4995,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/Vitamin-C-Booster-Shot-30ml-ARENCIA.webp?v=1784107101&width=400",
 "type": "Vitamin C",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Centella Hyalu-Cica Water-Fit Sun Serum 15ML",
@@ -7769,7 +7800,7 @@
 "Giftset",
 "TOPOFFERS"
 ],
-"in": true
+"in": false
 },
 {
 "t": "BUY 2x Hydrogel Glow Mask  GET Purple Hair Clips FOR FREE",
@@ -8436,7 +8467,7 @@
 "eta_june26_sets",
 "FRENCHWEEK2025"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Buy Avène Sunscreen tinted cream SPF50+ & get a FREE 50ml after-sun repair lotion",
@@ -8476,7 +8507,7 @@
 "eta_june26_sets",
 "FRENCHWEEK2025"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Buy one Avène Cleanance Cleansing Gel & get a FREE 200ml Cleanance Cleansing gel",
@@ -10365,7 +10396,7 @@
 "SEARCHANISE_IGNORE",
 "wizzy-ignore"
 ],
-"in": true
+"in": false
 },
 {
 "t": "SkinCeuticals Simply Clean Gel Cleanser for All Skin Types 195ml",
@@ -11132,10 +11163,11 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/1-Glowmask-3600524259679_1800x1800_9a1cbfcd-ec54-4f69-b879-d8d5a71938fc.webp?v=1780039233&width=400",
 "type": "Face Mask",
 "tags": [
+"cpd-ledefile-openstock",
 "exclude_flash26",
 "glassskin-collection"
 ],
-"in": false
+"in": true
 },
 {
 "t": "L'Oréal Paris Revitalift Filler Glass Skin Liquid Cream 50 ml",
@@ -11146,10 +11178,11 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/l-oreal-paris-revitalift-filler-glass-skin-liquid-cream-50ml.webp?v=1775656344&width=400",
 "type": "Face Cream",
 "tags": [
+"cpd-ledefile-openstock",
 "exclude_flash26",
 "glassskin-collection"
 ],
-"in": false
+"in": true
 },
 {
 "t": "L’Oréal Paris Infaillible 24H Power Glow Loose Powder in Mesh, Pore Blurring, Radiant Glow, and Hydrating Formula with 2 Shades, 9.5g.",
@@ -16330,7 +16363,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/3614819998532-ETIAXILEXTREMEROLLON48h.webp?v=1770294555&width=400",
 "type": "Roll On",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Anti-Transpirant Protection 48h Spray 150ml",
@@ -16516,7 +16549,7 @@
 "hair curler",
 "hair straightener"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Nasmati™ Cordless Comb Hair Straightener",
@@ -17282,12 +17315,13 @@
 "tags": [
 "COMPENSATION_FEB26",
 "CPD",
+"cpd-ledefile-openstock",
 "exclude_flash26",
 "exportOOS",
 "extensionist_26",
 "LpPanorama_Extensionist"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Novus Intimate Wash 100 ml",
@@ -19188,7 +19222,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/Picture1_77d14a62-939a-4c85-9742-ac475cc5247d.png?v=1768985398&width=400",
 "type": "",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Biotic Resurfacing Activator",
@@ -21981,7 +22015,7 @@
 "NeutrogenaRetinol",
 "NO-DISCOUNT"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Neutrogena, Anti Boutons + Facial Wash - Gel Netttoyant, combination of Salicylic acid - a purifying agent and glycolic acid, Clearer Skin In 1 Week, 200ml",
@@ -22779,7 +22813,7 @@
 "available-korean",
 "os_june26_2"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Abib rice probiotics overnight mask barrier jelly 80 ml",
@@ -23607,7 +23641,7 @@
 "Giftset",
 "TOPOFFERS"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Pimple Clear Patch",
@@ -23699,7 +23733,7 @@
 "COMPENSATION_JAN26",
 "Giftset"
 ],
-"in": false
+"in": true
 },
 {
 "t": "15% Off: Vitamin Barrier Cream 50ML + Skin & Hair Freshener 200ML",
@@ -28227,7 +28261,7 @@
 {
 "t": "Sideral Forte",
 "u": "https://sohaticare.com/products/sideral-forte",
-"p": 17.85,
+"p": 18.87,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/SIderalForte.png?v=1718182010&width=400",
@@ -36786,6 +36820,7 @@
 "type": "Setting Spray",
 "tags": [
 "CPD",
+"cpd-ledefile-openstock",
 "exclude_blacknov25_cpd",
 "exclude_cpd_flashsale",
 "exclude_dec25",
@@ -39769,19 +39804,6 @@
 "in": false
 },
 {
-"t": "Lip Stain Mask-Shade Nude",
-"u": "https://sohaticare.com/products/lip-stain-mask-shade-nude",
-"p": 10.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/Untitled_design_13.webp?v=1752152952&width=400",
-"type": "Lip Care",
-"tags": [
-"lipcarecollec"
-],
-"in": true
-},
-{
 "t": "Buy Sunissime Fluid  SPF50+ + BODY NUTRI The Resurfacing Scrub 200ml GET summer bag",
 "u": "https://sohaticare.com/products/buy-sunissime-fluid-spf50-body-nutri-the-resurfacing-scrub-200ml-get-summer-bag",
 "p": 68.82,
@@ -42486,15 +42508,15 @@
 "type": "Leave In",
 "tags": [
 "CPD",
+"cpd-ledefile-openstock",
 "elvive_glyco_hair_25",
 "exclude_blacknov25_cpd",
 "exclude_cpd_flashsale",
 "exclude_dec25",
 "exclude_flash26",
-"exclude_flash_july25",
-"exportOOS"
+"exclude_flash_july25"
 ],
-"in": false
+"in": true
 },
 {
 "t": "L’Oréal Paris, Elvive, Glycolic Gloss Conditioner, Our 1st at home glossing treatment, 5% [Gloss Complex] with Glycolic Acid, 200ml",
@@ -42506,15 +42528,15 @@
 "type": "Conditioner",
 "tags": [
 "CPD",
+"cpd-ledefile-openstock",
 "elvive_glyco_hair_25",
 "exclude_blacknov25_cpd",
 "exclude_cpd_flashsale",
 "exclude_dec25",
 "exclude_flash26",
-"exclude_flash_july25",
-"exportOOS"
+"exclude_flash_july25"
 ],
-"in": false
+"in": true
 },
 {
 "t": "L’Oréal Paris, Elvive, Glycolic Gloss Shampoo, Our First at-home glossing treatment, 3% [Gloss Complex] with Glycolic Acid",
@@ -42526,15 +42548,15 @@
 "type": "Shampo",
 "tags": [
 "CPD",
+"cpd-ledefile-openstock",
 "elvive_glyco_hair_25",
 "exclude_blacknov25_cpd",
 "exclude_cpd_flashsale",
 "exclude_dec25",
 "exclude_flash26",
-"exclude_flash_july25",
-"oap_christmas_activation25"
+"exclude_flash_july25"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Bio filler lip esforliante – lip scrub",
@@ -44104,26 +44126,6 @@
 "NA_BABYLISS_FEB25",
 "oos_babyliss_july25",
 "OpenStock_8MAY24"
-],
-"in": true
-},
-{
-"t": "BaByliss C452E Curling Iron",
-"u": "https://sohaticare.com/products/babyliss-c452e-curling-iron",
-"p": 69.93,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/Layer_1_2__61738.webp?v=1772444418&width=400",
-"type": "Hair Curler",
-"tags": [
-"Babyliss",
-"babyliss_na_apr26",
-"BabyLiss_OpenStock_14AUG24",
-"babyliss_os_may25",
-"BabyLiss_PriceUpdate_5June24",
-"ELECTRONICS_ACTIVE25",
-"NA_BABYLISS_FEB25",
-"restock_june26"
 ],
 "in": true
 }
