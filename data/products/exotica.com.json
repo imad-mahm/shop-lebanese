@@ -1,5 +1,16 @@
 [
 {
+"t": "Hot & Spicy",
+"u": "https://exotica.com/products/spicy-plant",
+"p": 66.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Hot_Spicy_36ed7bed-4972-4577-b395-a5d39fa9f858.png?v=1791192283&width=400",
+"type": "Plants",
+"tags": [],
+"in": true
+},
+{
 "t": "Calluna Vulgaris",
 "u": "https://exotica.com/products/calluna-vulgaris",
 "p": 65.0,
@@ -370,8 +381,10 @@
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/FRA08056.jpg?v=1789643998&width=400",
 "type": "Plants",
-"tags": [],
-"in": false
+"tags": [
+"preorder"
+],
+"in": true
 },
 {
 "t": "Crocodile Green",
@@ -430,7 +443,7 @@
 "Flowers",
 "For Her"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Harvest Hues",
@@ -463,7 +476,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Purple_Haze_-_Flower_Bouquet.jpg?v=1789548342&width=400",
 "type": "Flowers",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Burnt Orange",
@@ -474,7 +487,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Burnt_Orange.png?v=1789555103&width=400",
 "type": "Flowers",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Blush Garden",
@@ -569,8 +582,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/R_colte_d_Automne_-_Fall_Flower.jpg?v=1789546267&width=400",
 "type": "Flowers",
 "tags": [
-"Pink",
-"Pink October"
+"Pink"
 ],
 "in": true
 },
@@ -611,7 +623,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Cookie_Bloom_-_Fall_Flower_with_cookies_1.jpg?v=1789547018&width=400",
 "type": "Flowers",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Colours of Fall",
@@ -652,7 +664,7 @@
 "p": 162.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/CozyBlooms.jpg?v=1758272230&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Cozy___Blooms.jpg?v=1791283350&width=400",
 "type": "Flowers",
 "tags": [
 "Flowers",
@@ -667,7 +679,7 @@
 "p": 110.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/SunnyHarvest.jpg?v=1787919896&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Sunny__Harvest.jpg?v=1791282626&width=400",
 "type": "Flowers",
 "tags": [
 "Birthdays",
@@ -703,7 +715,7 @@
 "p": 86.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/FallinLove2.webp?v=1760486700&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Fall_in_Love_1.jpg?v=1791283866&width=400",
 "type": "Flowers",
 "tags": [],
 "in": false
@@ -714,7 +726,7 @@
 "p": 93.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/HarvestFestival.jpg?v=1758280722&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Harvest___Festival.jpg?v=1791283441&width=400",
 "type": "Flowers",
 "tags": [
 "Congratulations",
@@ -747,7 +759,7 @@
 "p": 102.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/PlumSpice.webp?v=1760486451&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Sagittarius__Celebrations.jpg?v=1791283160&width=400",
 "type": "Flowers",
 "tags": [],
 "in": true
@@ -758,7 +770,7 @@
 "p": 145.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/cozy-box_295b83d1-8638-4cd2-9260-3927a498fdcc.jpg?v=1735637857&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Cozy_Box.jpg?v=1791283564&width=400",
 "type": "Flowers",
 "tags": [],
 "in": true
@@ -789,7 +801,7 @@
 "p": 180.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/zen-bonsai.jpg?v=1735637898&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Zen_Bonsai.jpg?v=1791288996&width=400",
 "type": "Plants",
 "tags": [
 "Bonsai",
@@ -809,7 +821,7 @@
 "p": 58.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/0001_bonsaibliss.jpg?v=1745830875&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/WhatsAppImage2026-10-06at14.58.00.jpg?v=1791288708&width=400",
 "type": "Plants",
 "tags": [
 "Bonsai",
@@ -824,7 +836,7 @@
 "p": 180.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/0002_serenebonsai.jpg?v=1745830895&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Serene_Bonsai.jpg?v=1791289047&width=400",
 "type": "Plants",
 "tags": [
 "Bonsai",
@@ -839,7 +851,7 @@
 "p": 42.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/31_23cd6317-e4d8-4964-a13a-3359b74bef28.jpg?v=1773125455&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Mini_Elm_Bonsai.jpg?v=1791288056&width=400",
 "type": "Plants",
 "tags": [
 "Birthdays",
@@ -1075,7 +1087,7 @@
 "Roses",
 "WHITE"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Double Your Joy",
@@ -1488,8 +1500,7 @@
 "For Kids",
 "Mixed Flowers",
 "New Born",
-"Pink",
-"Pink October"
+"Pink"
 ],
 "in": true
 },
@@ -1986,7 +1997,7 @@
 "p": 40.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Sanciveria_c4d25ce5-4413-46ca-aacd-3b3e02b6697e.png?v=1763362189&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Sansevieria_Desk_Bundle.jpg?v=1791287992&width=400",
 "type": "Plants",
 "tags": [],
 "in": true
@@ -2177,7 +2188,7 @@
 "p": 103.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/delicate-dance_72f56759-4b86-43a1-84dc-d94eb4571492.jpg?v=1735637873&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Delicate_Dance.jpg?v=1791284815&width=400",
 "type": "Plants",
 "tags": [
 "Congratulations",
@@ -2519,7 +2530,7 @@
 "p": 68.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/27.jpg?v=1773126115&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/S-Shape_Elm_Bonsai.jpg?v=1791289276&width=400",
 "type": "Plants",
 "tags": [
 "Birthdays",
@@ -2531,7 +2542,7 @@
 "For Her",
 "For Him"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Ficus Grandeur",
@@ -2539,7 +2550,7 @@
 "p": 709.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/47.jpg?v=1772456964&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Green_Haven.jpg?v=1791263071&width=400",
 "type": "Plants",
 "tags": [
 "For Dad",
@@ -2559,7 +2570,7 @@
 "p": 67.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/40_57c766bd-c28c-479f-b07d-27d367e4fc28.jpg?v=1772440225&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Office_Buddies.jpg?v=1791285734&width=400",
 "type": "Plants",
 "tags": [
 "Birthdays",
@@ -2632,7 +2643,7 @@
 "p": 33.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/6.jpg?v=1776317492&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Artificial_Phalaenopsis.jpg?v=1791295659&width=400",
 "type": "Artificial",
 "tags": [],
 "in": false
@@ -2643,7 +2654,7 @@
 "p": 165.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/9_1.jpg?v=1776317211&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Artificial_Strelitzia_with_Flowers_3.jpg?v=1791297311&width=400",
 "type": "Artificial",
 "tags": [],
 "in": true
@@ -2665,7 +2676,7 @@
 "p": 210.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/4_e40eb377-64aa-4911-893e-6e201837b1da.jpg?v=1776317540&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Artificial_Sansevieria___Green.jpg?v=1791297590&width=400",
 "type": "Artificial",
 "tags": [],
 "in": true
@@ -2729,7 +2740,7 @@
 "p": 407.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/catch-my-heart.jpg?v=1744033118&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Catch_My_Heart.jpg?v=1791288769&width=400",
 "type": "Plants",
 "tags": [
 "Indoor Plants",
@@ -2815,7 +2826,7 @@
 "p": 58.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Bonsai-Harmony.jpg?v=1735638092&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Bonsai_Harmony.jpg?v=1791284953&width=400",
 "type": "Plants",
 "tags": [
 "Indoor Plants",
@@ -2865,7 +2876,7 @@
 "p": 246.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/308.jpg?v=1770026056&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Ficus_Fantasy_1.jpg?v=1791285360&width=400",
 "type": "Plants",
 "tags": [
 "Birthdays",
@@ -2905,7 +2916,7 @@
 "p": 375.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/375.jpg?v=1770201217&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Cascading_Bliss_1.jpg?v=1791288369&width=400",
 "type": "Plants",
 "tags": [
 "Bonsai",
@@ -3025,7 +3036,7 @@
 "p": 293.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/0001_Layer20.jpg?v=1770022300&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Monstera_Plant_1.jpg?v=1791288636&width=400",
 "type": "Plants",
 "tags": [
 "Indoor Plants",
@@ -3096,7 +3107,7 @@
 "Plants",
 "Yellow"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Purple Bamboo",
@@ -3104,7 +3115,7 @@
 "p": 92.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Purple-Bamboo-orchid_4e4a568c-37a4-46e8-8877-41207fd25f55.jpg?v=1735637881&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Purple_Bamboo.jpg?v=1791288825&width=400",
 "type": "Plants",
 "tags": [
 "For Colleagues",
@@ -3143,7 +3154,7 @@
 "p": 139.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Shining-Orchid.jpg?v=1735638073&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Shining_Orchid.jpg?v=1791288939&width=400",
 "type": "Plants",
 "tags": [
 "Congratulations",
@@ -3163,7 +3174,7 @@
 "p": 163.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/tablo-pink-gin-f.jpg?v=1735638070&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Tablo_Pink_Gin.jpg?v=1791285101&width=400",
 "type": "Plants",
 "tags": [
 "Congratulations",
@@ -3264,7 +3275,7 @@
 "p": 155.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/423119.jpg?v=1735637997&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Artificial_Ficus_Lyrata_S.jpg?v=1791295951&width=400",
 "type": "Artificial",
 "tags": [],
 "in": true
@@ -3340,7 +3351,7 @@
 "p": 118.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Optistar-asian.jpg?v=1746442011&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Optistar_Asian.jpg?v=1791288889&width=400",
 "type": "Plants",
 "tags": [
 "Congratulations",
@@ -3789,7 +3800,7 @@
 "p": 42.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Fujian_Bonsai.jpg?v=1777544002&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Fujian__Bonsai.jpg?v=1791288286&width=400",
 "type": "Plants",
 "tags": [
 "Bonsai",
@@ -3804,7 +3815,7 @@
 "p": 68.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Bonsai-Carmona.jpg?v=1735638093&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Bonsai_Carmona.jpg?v=1791289119&width=400",
 "type": "Plants",
 "tags": [
 "Bonsai",
@@ -3820,7 +3831,7 @@
 "p": 42.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/0013_BonsaiLigustrum.jpg?v=1743079673&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Bonsai_Ligustrum.jpg?v=1791288209&width=400",
 "type": "Plants",
 "tags": [
 "Bonsai",
@@ -3835,7 +3846,7 @@
 "p": 40.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/AglaonemaGreyHound_c99bcf62-b727-4553-aa81-bea3bc266d0c.jpg?v=1763363989&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Midnight_Meadow.jpg?v=1791288443&width=400",
 "type": "Plants",
 "tags": [],
 "in": true
@@ -3910,7 +3921,7 @@
 "p": 39.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/0000_coffeaarabica.jpg?v=1743577825&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Coffea_Arabica.jpg?v=1791287935&width=400",
 "type": "Plants",
 "tags": [
 "Indoor Plants",
@@ -3946,7 +3957,7 @@
 "p": 73.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Bamboo-orchid.jpg?v=1735637879&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Bamboo_Orchid.jpg?v=1791285030&width=400",
 "type": "Plants",
 "tags": [
 "Birthdays",
@@ -4031,10 +4042,10 @@
 "p": 78.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/0002_UrbanJungle.jpg?v=1758529973&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Urban_Jungle.jpg?v=1791289229&width=400",
 "type": "Plants",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Green Thumb",
@@ -4053,7 +4064,7 @@
 "p": 44.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/0006_Layer2.jpg?v=1758528248&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Fall_Hues.jpg?v=1791283650&width=400",
 "type": "Plants",
 "tags": [],
 "in": true
@@ -4280,7 +4291,7 @@
 "For Her",
 "Get Well Soon"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Colourful Sprinkles",
@@ -4430,7 +4441,7 @@
 "p": 40.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/purple-fluff.jpg?v=1735637963&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Purple_Fluff.jpg?v=1791285506&width=400",
 "type": "Plants",
 "tags": [
 "Indoor Plants",
@@ -4541,7 +4552,7 @@
 "p": 74.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Sweet-Memories.jpg?v=1749711587&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Sweet_Memories.jpg?v=1791285155&width=400",
 "type": "Plants",
 "tags": [
 "Gift Bundles",
@@ -4557,7 +4568,7 @@
 "p": 134.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/the-silent-guardian-exotica-fathers-day.jpg?v=1749724778&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Desert_Bloom.jpg?v=1791285434&width=400",
 "type": "Plants",
 "tags": [
 "Indoor Plants",
@@ -4572,7 +4583,7 @@
 "p": 190.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/pure-grace-exotica-fathers-day.jpg?v=1749724801&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Pure_Grace.jpg?v=1791285789&width=400",
 "type": "Plants",
 "tags": [
 "Indoor Plants",
@@ -4757,7 +4768,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Blush-Crush.jpg?v=1749537215&width=400",
 "type": "Flowers",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Sablés Gourmets Small Box",
@@ -4816,7 +4827,7 @@
 "p": 58.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/0000_bonsaiessence.jpg?v=1745830907&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Bonsai_Essence.jpg?v=1791285841&width=400",
 "type": "Plants",
 "tags": [],
 "in": true
@@ -5036,7 +5047,7 @@
 "p": 98.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Artificial-Lemon-Tree.jpg?v=1735637995&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Artificial_Lemon_Tree_1.jpg?v=1791296082&width=400",
 "type": "Artificial",
 "tags": [],
 "in": true
@@ -5186,7 +5197,7 @@
 "p": 220.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Artificial-Strelitzia.jpg?v=1735637987&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Artificial_Strelitzia_1.jpg?v=1791297480&width=400",
 "type": "Artificial",
 "tags": [],
 "in": true
@@ -5208,7 +5219,7 @@
 "p": 56.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Morning-Coffee.jpg?v=1735637970&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Morning_Coffee.jpg?v=1791285577&width=400",
 "type": "Plants",
 "tags": [],
 "in": true
@@ -5603,7 +5614,7 @@
 "p": 245.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Artificial-Phoenix.jpg?v=1735637990&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Artificial_Phoenix_1.jpg?v=1791296267&width=400",
 "type": "Artificial",
 "tags": [],
 "in": true
@@ -5614,7 +5625,7 @@
 "p": 175.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Artificial-Monstera-Small.jpg?v=1735637993&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Artificial_Monstera_S.jpg?v=1791296581&width=400",
 "type": "Artificial",
 "tags": [],
 "in": false
@@ -5757,7 +5768,7 @@
 "p": 320.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/dragon-tree_a0165ec6-48ac-4289-9468-1ab0d0656ad7.jpg?v=1735638044&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Dragon_Tree.jpg?v=1791289341&width=400",
 "type": "Plants",
 "tags": [],
 "in": true
@@ -5804,21 +5815,6 @@
 "in": true
 },
 {
-"t": "Spineless Yucca",
-"u": "https://exotica.com/products/spineless-yucca",
-"p": 213.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Spineless-Yucca_d4bde664-b657-4264-a079-be0d830f1472.jpg?v=1735638067&width=400",
-"type": "Plants",
-"tags": [
-"Green",
-"Indoor Plants",
-"Plants"
-],
-"in": true
-},
-{
 "t": "3 Dozen Reds",
 "u": "https://exotica.com/products/3-dozen-reds",
 "p": 156.0,
@@ -5840,7 +5836,7 @@
 "p": 800.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Desert-Giant.jpg?v=1735638086&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Desert_Giant.jpg?v=1791288513&width=400",
 "type": "Plants",
 "tags": [
 "Indoor Plants",
@@ -6251,7 +6247,7 @@
 "Love & Romance",
 "Red"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Ma Vie",
