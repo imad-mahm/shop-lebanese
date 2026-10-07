@@ -71,7 +71,7 @@
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/MAZE-ON-YAS-JACKET-FRONT.jpg?v=1790077418&width=400",
-"type": "",
+"type": "Jacket",
 "tags": [
 "Apparel"
 ],
@@ -84,7 +84,7 @@
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/WOVEN-TAPESTRY-YAS-JACKET-FRONT.jpg?v=1790084639&width=400",
-"type": "",
+"type": "Jacket",
 "tags": [
 "Apparel"
 ],
@@ -97,7 +97,7 @@
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/SECRET-GARDEN-WITH-HANDBEADING-YAS-JACKET-FRONT.jpg?v=1790075022&width=400",
-"type": "",
+"type": "Jacket",
 "tags": [
 "Apparel"
 ],
@@ -110,7 +110,7 @@
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/SAPPHIRE-BLUE-TAPESTRY-ON-BLUE-VELVET-YAS-JACKET-FRONT.jpg?v=1790070468&width=400",
-"type": "",
+"type": "Jacket",
 "tags": [
 "Apparel"
 ],
@@ -123,7 +123,7 @@
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/WOVEN-TAPESTRY-ON-BLACK-VELVET-YAS-JACKET-FRONT.jpg?v=1790075523&width=400",
-"type": "",
+"type": "Jacket",
 "tags": [
 "Apparel"
 ],
@@ -136,7 +136,7 @@
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/RUBY-TAPESTRY-SCARF-WITH-FRINGES-ON-CAMEL-SUEDE-MIDI-YAS-COAT-FRONT1.jpg?v=1790077411&width=400",
-"type": "",
+"type": "Coat",
 "tags": [
 "Apparel"
 ],
@@ -149,7 +149,7 @@
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/OLIVE-TAPESTRY-SCARF-WITH-FRINGES-ON-KHAKI-BOUCLE-LONG-YAS-COAT-FRONT.jpg?v=1790075558&width=400",
-"type": "",
+"type": "Coat",
 "tags": [
 "Apparel"
 ],
@@ -162,7 +162,7 @@
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/WOVEN-TAPESTRY-ON-BLACK-VELVET-MIDI-YAS-COAT-FRONT1.jpg?v=1790075530&width=400",
-"type": "",
+"type": "Coat",
 "tags": [
 "Apparel"
 ],
@@ -175,7 +175,7 @@
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/BLOSSOM-CROCHET-CAPE-FRONT2.jpg?v=1790075816&width=400",
-"type": "",
+"type": "Cape",
 "tags": [
 "Apparel"
 ],
@@ -188,7 +188,7 @@
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/CROCHET-COTTON-BLACK-SCARF-FRONT.jpg?v=1790071911&width=400",
-"type": "",
+"type": "Scarf",
 "tags": [
 "Apparel"
 ],
@@ -201,7 +201,7 @@
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/RUBY-TAPESTRY-SCARF-FRONT.jpg?v=1790070782&width=400",
-"type": "",
+"type": "Scarf",
 "tags": [
 "Apparel"
 ],
@@ -214,7 +214,7 @@
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/OLIVE-TAPESTRY-SCARF-FRONT2.jpg?v=1790071714&width=400",
-"type": "",
+"type": "Scarf",
 "tags": [
 "Apparel"
 ],
@@ -227,7 +227,7 @@
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/BEDOUIN-LE-LONG-FRONT.jpg?v=1789632544&width=400",
-"type": "",
+"type": "Clutch",
 "tags": [
 "Bags"
 ],
@@ -240,7 +240,7 @@
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/TAPESTRY-RED-CLASSIC-BAG-FRONT.jpg?v=1789632548&width=400",
-"type": "",
+"type": "Classic Bag",
 "tags": [
 "Bags"
 ],
@@ -253,7 +253,7 @@
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/TAPESTRY-RED-LE-LONG-FRONT.jpg?v=1789632552&width=400",
-"type": "",
+"type": "Clutch",
 "tags": [
 "Bags"
 ],
@@ -265,7 +265,7 @@
 "p": 555.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/SUL.jpg?v=1789633966&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/BRONZE-CRYSTAL-SULTANA-FRONT.jpg?v=1791291544&width=400",
 "type": "",
 "tags": [
 "Bags"
@@ -279,7 +279,7 @@
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/STARRYNIGHT-BLACK-VELVET-ALICE-FRONT.jpg?v=1790839283&width=400",
-"type": "",
+"type": "Wristlet",
 "tags": [
 "Bags"
 ],
@@ -292,7 +292,7 @@
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/RISING-SUN-LE-PETIT-FRONT.jpg?v=1790583288&width=400",
-"type": "",
+"type": "Mini Bag",
 "tags": [
 "Bags"
 ],
@@ -305,7 +305,7 @@
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/EARTH-ROSES-LE-PETIT-FRONT1.jpg?v=1790686088&width=400",
-"type": "",
+"type": "Mini Bag",
 "tags": [
 "Bags"
 ],
@@ -318,7 +318,7 @@
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/THE-SECRET-GARDEN-CLASSIC-BAG-FRONT.jpg?v=1789632550&width=400",
-"type": "",
+"type": "Classic Bag",
 "tags": [
 "Bags"
 ],
@@ -331,7 +331,7 @@
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/THE-SECRET-GARDEN-CITY-TOTE-FRONT.jpg?v=1789632560&width=400",
-"type": "",
+"type": "Tote",
 "tags": [
 "Bags"
 ],
@@ -344,7 +344,7 @@
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/THE-SECRET-GARDEN-LE-LONG-FRONT.jpg?v=1789632552&width=400",
-"type": "",
+"type": "Clutch",
 "tags": [
 "Bags"
 ],
@@ -357,7 +357,7 @@
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/RISING-PALM-ANTHRACITE-CLASSIC-BAG-FRONT.jpg?v=1787746465&width=400",
-"type": "",
+"type": "Classic Bag",
 "tags": [
 "BAGS",
 "KSA 2026"
@@ -371,7 +371,7 @@
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/PEARL-OF-ARABIA-BOX-CLUTCH-FRONT.jpg?v=1787746460&width=400",
-"type": "",
+"type": "Box Clutch",
 "tags": [
 "BAGS",
 "KSA 2026",
@@ -386,7 +386,7 @@
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/GOLDEN-OASIS-ON-MAZE-LE-PETIT-FRONT.jpg?v=1787816583&width=400",
-"type": "",
+"type": "Mini Bag",
 "tags": [
 "BAGS",
 "KSA 2026",
@@ -401,7 +401,7 @@
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/GREEN-OASIS-ON-MAZE-LE-PETIT-FRONT.jpg?v=1787746400&width=400",
-"type": "",
+"type": "Mini Bag",
 "tags": [
 "BAGS",
 "KSA 2026",
@@ -416,7 +416,7 @@
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/RISING-PALM-MENOTTES-WRISTLET-FRONT.jpg?v=1787746421&width=400",
-"type": "",
+"type": "Wristlet",
 "tags": [
 "BAGS",
 "KSA 2026"
@@ -430,7 +430,7 @@
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/RISING-PALM-CLASSIC-BAG-FRONT.jpg?v=1787746469&width=400",
-"type": "",
+"type": "Classic Bag",
 "tags": [
 "BAGS",
 "KSA 2026"
@@ -444,7 +444,7 @@
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/GOLD-OASIS-STRAW-LE-LONG-FRONT.jpg?v=1787746462&width=400",
-"type": "",
+"type": "Clutch",
 "tags": [
 "BAGS",
 "KSA 2026",
@@ -459,7 +459,7 @@
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/SAOUDIYAH-STRAW-GOLD-MICRO-FRONT.jpg?v=1787746389&width=400",
-"type": "",
+"type": "Mini Bag",
 "tags": [
 "BAGS",
 "KSA 2026",
@@ -474,7 +474,7 @@
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/SAOUDIYAH-STRAW-GOLD-LE-LONG-FRONT.jpg?v=1787746444&width=400",
-"type": "",
+"type": "Clutch",
 "tags": [
 "BAGS"
 ],
@@ -487,7 +487,7 @@
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/SAOUDIYAH-DIRIYAH-MICRO-BAG-FRONT.jpg?v=1787746412&width=400",
-"type": "",
+"type": "Mini Bag",
 "tags": [
 "BAGS"
 ],
@@ -500,7 +500,7 @@
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/SAOUDIYAH-DIRIYAH-LE-LONG-FRONT.jpg?v=1787746422&width=400",
-"type": "",
+"type": "Clutch",
 "tags": [
 "BAGS",
 "KSA EXCLUSIVE"
@@ -1340,19 +1340,6 @@
 "in": true
 },
 {
-"t": "MOON ON GOLD CLASSIC BAG",
-"u": "https://sarahsbag.com/products/moon-on-gold-classic-bag",
-"p": 335.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/MOON-ON-GOLD-CLASSIC-BAG-FRONT-1.jpg?v=1769068689&width=400",
-"type": "Classic Bag",
-"tags": [
-"BAGS"
-],
-"in": true
-},
-{
 "t": "SILVER MOTI",
 "u": "https://sarahsbag.com/products/silver-moti",
 "p": 955.0,
@@ -1628,19 +1615,6 @@
 "in": true
 },
 {
-"t": "MOON ON BLACK VINE VELVET LE LONG",
-"u": "https://sarahsbag.com/products/moon-on-black-vine-velvet-le-long",
-"p": 425.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/MOON-ON-BLACK-VINE-VELVET-LE-LONG-FRONT.jpg?v=1767786536&width=400",
-"type": "Clutch",
-"tags": [
-"BAGS"
-],
-"in": true
-},
-{
 "t": "RISING SUN ON SILVER AYLA DRESS",
 "u": "https://sarahsbag.com/products/rising-sun-on-silver-ayla-dress",
 "p": 425.0,
@@ -1676,32 +1650,6 @@
 "type": "Abaya",
 "tags": [
 "APPAREL"
-],
-"in": true
-},
-{
-"t": "MOON ON BLACK VELVET BOX CLUTCH",
-"u": "https://sarahsbag.com/products/moon-on-black-velvet-box-clutch",
-"p": 455.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/MOON-ON-BLACK-VELVET-BOX-CLUTCH-FRONT.jpg?v=1767786545&width=400",
-"type": "Box Clutch",
-"tags": [
-"BAGS"
-],
-"in": true
-},
-{
-"t": "BLACK VELVET WITH DROP ON ALICE WRISTLET",
-"u": "https://sarahsbag.com/products/black-velvet-with-drop-on-alice-wristlet",
-"p": 295.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/BLACK-VELVET-WITH-DROP-ON-ALICE-FRONT_ca47309b-c861-4ad7-95e7-be5258b71744.jpg?v=1768466239&width=400",
-"type": "Wristlet",
-"tags": [
-"BAGS"
 ],
 "in": true
 },
@@ -1742,19 +1690,6 @@
 "type": "Dress",
 "tags": [
 "APPAREL"
-],
-"in": true
-},
-{
-"t": "SUNBURST BROCADE MENOTTES WRISTLET",
-"u": "https://sarahsbag.com/products/sunburst-brocade-menottes-wristlet",
-"p": 455.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/SUNBURST-BROCARD-MENOTTES-WRISTLET-FRONT.jpg?v=1767786833&width=400",
-"type": "Wristlet",
-"tags": [
-"BAGS"
 ],
 "in": true
 },
@@ -1947,7 +1882,7 @@
 },
 {
 "t": "MEN’S KHAKI JOG ABAYA",
-"u": "https://sarahsbag.com/products/men-s-navy-blue-jog-abaya-copy",
+"u": "https://sarahsbag.com/products/mens-khaki-jog-abaya",
 "p": 285.0,
 "c": null,
 "cur": "USD",

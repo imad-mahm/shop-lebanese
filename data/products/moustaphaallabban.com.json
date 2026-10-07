@@ -166,7 +166,7 @@
 "in": true
 },
 {
-"t": "Paco Rabanne Q Million Red Women Edp",
+"t": "Rabanne Million Red for Her Parfum",
 "u": "https://moustaphaallabban.com/products/paco-rabanne-q-million-red-women-edp",
 "p": 109.5,
 "c": 146.0,
@@ -1894,21 +1894,6 @@
 "NEW"
 ],
 "in": true
-},
-{
-"t": "Rasasi Hawas Kobra For Him Edp",
-"u": "https://moustaphaallabban.com/products/rasasi-hawas-kobra-for-him-edp",
-"p": 37.5,
-"c": 50.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/614514331064.jpg?v=1783052389&width=400",
-"type": "Perfumes & Fragrances",
-"tags": [
-"Eau De Parfume Men",
-"Men",
-"NEW"
-],
-"in": false
 },
 {
 "t": "Rasasi Hawas Eclat For Her Edp",
@@ -7559,6 +7544,7 @@
 "type": "Perfumes & Fragrances",
 "tags": [
 "Eau De Parfume Men",
+"fall winter 27",
 "Men",
 "top20"
 ],
@@ -8315,19 +8301,6 @@
 "Gift Sets"
 ],
 "in": true
-},
-{
-"t": "Rochas Man Edt Gift Set",
-"u": "https://moustaphaallabban.com/products/rochas-man-edt-gift-set",
-"p": 43.2,
-"c": 71.99,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/3386460156967_70b5fa56-65ba-4308-bea6-b83c70b128b5.png?v=1765838492&width=400",
-"type": "Perfumes & Fragrances",
-"tags": [
-"Gift Sets"
-],
-"in": false
 },
 {
 "t": "Rochas Eau de Rochas Edt Women Gift Set",
@@ -9227,6 +9200,7 @@
 "type": "Perfumes & Fragrances",
 "tags": [
 "Eau De Parfume Women",
+"fall winter 27",
 "Women"
 ],
 "in": true
@@ -12393,20 +12367,6 @@
 "Women"
 ],
 "in": true
-},
-{
-"t": "Bella Vita Paradiso Guess for Women",
-"u": "https://moustaphaallabban.com/products/bella-vita-paradiso-guess-for-women",
-"p": 63.0,
-"c": 84.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/81vEX3xVH_L.jpg?v=1709026347&width=400",
-"type": "Perfumes & Fragrances",
-"tags": [
-"Eau De Parfume Women",
-"Women"
-],
-"in": false
 },
 {
 "t": "Elizabeth Arden Red Door",
@@ -17568,6 +17528,7 @@
 "type": "Perfumes & Fragrances",
 "tags": [
 "Eau De Toilette Men",
+"fall winter 27",
 "Men"
 ],
 "in": true
@@ -24437,7 +24398,7 @@
 "Eau De Parfume Women",
 "Women"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Rasasi L'incontournable Blue Lady 2",
@@ -41061,6 +41022,7 @@
 "type": "Perfumes & Fragrances",
 "tags": [
 "Eau De Parfume Women",
+"fall winter 27",
 "top20",
 "Women"
 ],
@@ -42901,6 +42863,49 @@
 "Eau De Parfume Women",
 "mugler",
 "Women"
+],
+"in": true
+},
+{
+"t": "Azzaro The Most Wanted Intense Men Edp",
+"u": "https://moustaphaallabban.com/products/azzaro-the-most-wanted-intense-men-edp",
+"p": 112.2,
+"c": 132.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/products/3614273521307.jpg?v=1736728019&width=400",
+"type": "Perfumes & Fragrances",
+"tags": [
+"Black25",
+"Eau De Parfume Men",
+"Men"
+],
+"in": false
+},
+{
+"t": "Calvin Klein Euphoria Women Edt",
+"u": "https://moustaphaallabban.com/products/calvin-klein-euphoria-women-edt",
+"p": 69.0,
+"c": 92.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/products/3616304248221.jpg?v=1677153289&width=400",
+"type": "Perfumes & Fragrances",
+"tags": [
+"Eau De Toilette Women",
+"Women"
+],
+"in": false
+},
+{
+"t": "Hugo Boss The Scent For Him Magnetic Edp",
+"u": "https://moustaphaallabban.com/products/hugo-boss-the-scent-for-him-magnetic-edp",
+"p": 108.75,
+"c": 145.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/3616305040619.jpg?v=1746374495&width=400",
+"type": "Perfumes & Fragrances",
+"tags": [
+"Eau De Parfume Men",
+"Men"
 ],
 "in": true
 }
