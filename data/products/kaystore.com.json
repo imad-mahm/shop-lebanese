@@ -11395,7 +11395,7 @@
 {
 "t": "Samsung Galaxy A57 – 5G",
 "u": "https://kaystore.com/product/samsung-galaxy-a57-5g/",
-"p": 517.0,
+"p": 533.0,
 "c": null,
 "cur": "USD",
 "img": "https://kaystore.com/wp-content/uploads/2026/04/Galaxy-A57-5G-Awesome-Navy-247x296.jpg",
@@ -11412,7 +11412,7 @@
 {
 "t": "Samsung Galaxy A37 5G",
 "u": "https://kaystore.com/product/samsung-galaxy-a37-5g/",
-"p": 460.0,
+"p": 492.0,
 "c": null,
 "cur": "USD",
 "img": "https://kaystore.com/wp-content/uploads/2026/04/Galaxy-A37-5G-Awesome-Charcoal-247x296.jpg",
@@ -23480,7 +23480,7 @@
 "Gas",
 "Gas90"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Ariston Giant Gas Cooker 90Cm",
@@ -23669,7 +23669,7 @@
 {
 "t": "Samsung Galaxy S26 Ultra",
 "u": "https://kaystore.com/product/samsung-galaxy-s26-ultra/",
-"p": 1467.0,
+"p": 1478.0,
 "c": null,
 "cur": "USD",
 "img": "https://kaystore.com/wp-content/uploads/2026/02/GALAXY-S26-ULTRA-COBALT-VIOLET-247x296.webp",
@@ -23688,7 +23688,7 @@
 {
 "t": "Samsung Galaxy S26+",
 "u": "https://kaystore.com/product/samsung-galaxy-s26plus/",
-"p": 1078.0,
+"p": 1110.0,
 "c": null,
 "cur": "USD",
 "img": "https://kaystore.com/wp-content/uploads/2026/02/GALAXY-S26-PLUS-COBALT-VIOLET-247x296.jpg",
@@ -27287,7 +27287,7 @@
 {
 "t": "Samsung Galaxy Tab A11+",
 "u": "https://kaystore.com/product/samsung-galaxy-tab-a11-plus/",
-"p": 267.0,
+"p": 268.0,
 "c": null,
 "cur": "USD",
 "img": "https://kaystore.com/wp-content/uploads/2026/01/galaxy-tab-a11-plus-sm-x230-Grey-247x296.jpg",
@@ -35528,7 +35528,7 @@
 {
 "t": "Samsung Tab A11",
 "u": "https://kaystore.com/product/samsung-tab-a11/",
-"p": 156.0,
+"p": 158.0,
 "c": null,
 "cur": "USD",
 "img": "https://kaystore.com/wp-content/uploads/2025/10/galaxy-tab-a11-sm-x130-Gray-247x296.jpg",
@@ -35875,22 +35875,6 @@
 "c": null,
 "cur": "USD",
 "img": "https://kaystore.com/wp-content/uploads/2025/09/I137292-1-247x296.jpg",
-"type": "Vacuum Cleaners",
-"tags": [
-"Appliances",
-"Home cleaner",
-"STICK VACUUM",
-"vacuum cleaner"
-],
-"in": true
-},
-{
-"t": "Dyson Wireless Vacuum V8 Abs",
-"u": "https://kaystore.com/product/dyson-wireless-vacuum-v8-abs/",
-"p": 299.0,
-"c": null,
-"cur": "USD",
-"img": "https://kaystore.com/wp-content/uploads/2025/09/i137288-247x296.jpg",
 "type": "Vacuum Cleaners",
 "tags": [
 "Appliances",
@@ -37124,7 +37108,7 @@
 {
 "t": "Samsung Galaxy A17 5G",
 "u": "https://kaystore.com/product/samsung-galaxy-a17-5g/",
-"p": 228.0,
+"p": 243.0,
 "c": null,
 "cur": "USD",
 "img": "https://kaystore.com/wp-content/uploads/2025/09/galaxy-a17-5g-Black-247x296.jpg",
@@ -37160,7 +37144,7 @@
 {
 "t": "Samsung Galaxy Tab S11 Ultra",
 "u": "https://kaystore.com/product/samsung-galaxy-tab-s11-ultra/",
-"p": 1075.0,
+"p": 1284.0,
 "c": null,
 "cur": "USD",
 "img": "https://kaystore.com/wp-content/uploads/2025/09/galaxy-tab-s11-ultra-Gray-247x296.jpg",
@@ -37196,7 +37180,7 @@
 {
 "t": "Samsung Galaxy Tab S10 Lite",
 "u": "https://kaystore.com/product/samsung-galaxy-tab-s10-lite/",
-"p": 350.0,
+"p": 407.0,
 "c": null,
 "cur": "USD",
 "img": "https://kaystore.com/wp-content/uploads/2025/09/galaxy-tab-s10-lite-Gray--247x296.jpg",
@@ -37537,7 +37521,7 @@
 {
 "t": "Samsung Galaxy A07",
 "u": "https://kaystore.com/product/samsung-galaxy-a07/",
-"p": 163.0,
+"p": 164.0,
 "c": null,
 "cur": "USD",
 "img": "https://kaystore.com/wp-content/uploads/2025/08/Samsung-Galaxy-A07-247x296.jpg",
@@ -40944,21 +40928,6 @@
 "cooler",
 "home",
 "large appliances"
-],
-"in": true
-},
-{
-"t": "Samsung Galaxy Z Flip7 FE",
-"u": "https://kaystore.com/product/samsung-galaxy-z-flip7-fe/",
-"p": 894.0,
-"c": null,
-"cur": "USD",
-"img": "https://kaystore.com/wp-content/uploads/2025/07/lb-galaxy-z-flip7-fe-f761-sm-f761bzkemea-547562084-247x296.jpg",
-"type": "Samsung Galaxy",
-"tags": [
-"galaxy",
-"Mobile",
-"samsung"
 ],
 "in": true
 },
@@ -51919,6 +51888,38 @@
 "La Maison",
 "Pitcher",
 "Tableware"
+],
+"in": true
+},
+{
+"t": "Pitcher Granada Stripes Ceramic Yellow Small",
+"u": "https://kaystore.com/product/pitcher-granada-stripes-ceramic-yellow-small/",
+"p": 22.0,
+"c": 32.0,
+"cur": "USD",
+"img": "https://kaystore.com/wp-content/uploads/2025/05/I134338-3-247x296.jpg",
+"type": "Bar Accessories, La Maison",
+"tags": [
+"J-Line",
+"La Maison",
+"Pitcher",
+"Tableware"
+],
+"in": true
+},
+{
+"t": "Salt & Pepper Granada Stripes Ceramic Yellow",
+"u": "https://kaystore.com/product/salt-pepper-granada-stripes-ceramic-yellow/",
+"p": 22.0,
+"c": 31.0,
+"cur": "USD",
+"img": "https://kaystore.com/wp-content/uploads/2025/06/I134337-247x296.jpg",
+"type": "La Maison, Salt &amp; Pepper Shakers",
+"tags": [
+"J-Line",
+"Kitchenware",
+"La Maison",
+"Salt&amp;Pepper"
 ],
 "in": true
 }

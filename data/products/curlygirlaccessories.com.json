@@ -206,7 +206,7 @@
 "img": "https://curlygirlaccessories.com/wp-content/uploads/2026/09/revivenurture-300x300.webp",
 "type": "Shampoo",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Revuele Leave-In Serum Revive & Nurture 50 ML",
@@ -2239,7 +2239,7 @@
 "img": "https://curlygirlaccessories.com/wp-content/uploads/2026/04/image_1920-22-300x300.jpg",
 "type": "Shampoo",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Cosmal Cure Professional Sulfate Free Balsam 60ML",
@@ -7872,19 +7872,6 @@
 "c": null,
 "cur": "USD",
 "img": "https://curlygirlaccessories.com/wp-content/uploads/2025/06/3467185898-300x300.png",
-"type": "Masks &amp; Treatments",
-"tags": [
-"SKALA Masks"
-],
-"in": true
-},
-{
-"t": "Skala Expert Black Mud Treatment Cream 1Kg",
-"u": "https://curlygirlaccessories.com/product/skala-expert-black-mud-treatment-cream-1kg-2/",
-"p": 18.75,
-"c": null,
-"cur": "USD",
-"img": "https://curlygirlaccessories.com/wp-content/uploads/2025/06/3984029676-300x300.png",
 "type": "Masks &amp; Treatments",
 "tags": [
 "SKALA Masks"
