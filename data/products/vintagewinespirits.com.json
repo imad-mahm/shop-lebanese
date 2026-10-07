@@ -1,5 +1,49 @@
 [
 {
+"t": "Greeting Card — Celebration",
+"u": "https://vintagewinespirits.com/products/greeting-card-celebration",
+"p": 3.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0738/8597/4801/files/card-celebration.png?v=1791385965&width=400",
+"type": "Greeting Card",
+"tags": [],
+"in": true
+},
+{
+"t": "Greeting Card — Thank You",
+"u": "https://vintagewinespirits.com/products/greeting-card-thank-you",
+"p": 3.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0738/8597/4801/files/card-thank-you.png?v=1791385964&width=400",
+"type": "Greeting Card",
+"tags": [],
+"in": true
+},
+{
+"t": "Greeting Card — Congratulations",
+"u": "https://vintagewinespirits.com/products/greeting-card-congratulations",
+"p": 3.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0738/8597/4801/files/card-congratulations.png?v=1791385955&width=400",
+"type": "Greeting Card",
+"tags": [],
+"in": true
+},
+{
+"t": "Greeting Card — Birthday",
+"u": "https://vintagewinespirits.com/products/greeting-card-birthday",
+"p": 3.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0738/8597/4801/files/card-birthday.png?v=1791385954&width=400",
+"type": "Greeting Card",
+"tags": [],
+"in": true
+},
+{
 "t": "Roseblood D’Estoublon Rosé",
 "u": "https://vintagewinespirits.com/products/roseblood-d-estoublon-rose",
 "p": 15.0,
@@ -7160,7 +7204,7 @@
 "meat",
 "medium bodied"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Herencia de Plata Silver Tequila",
@@ -15333,7 +15377,7 @@
 "Pasta/Pizza",
 "poultry"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Peyrassol Mediterrannee Rosé",

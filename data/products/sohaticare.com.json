@@ -1,5 +1,47 @@
 [
 {
+"t": "Shea Body Milk Cream",
+"u": "https://sohaticare.com/products/shea-body-milk-cream-500-ml",
+"p": 5.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/products/IKPCreammilk.jpg?v=1663930960&width=400",
+"type": "Body Milk",
+"tags": [
+"5BDAY",
+"5BDAY_15%",
+"8Anniversary",
+"ADHA23",
+"ADHA23_20%",
+"ALLSUMSPLASH_05.16",
+"BF-PRICE2",
+"BLACK22"
+],
+"in": true
+},
+{
+"t": "Eucerin Sun Oil Control Ultra-Light Serum SPF50+ 30ml",
+"u": "https://sohaticare.com/products/eucerin-sun-oil-control-ultra-light-serum-spf50-30ml",
+"p": 38.85,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/99554_4006000233796-EucerinOilControlSerum30ml_Original.jpg?v=1791374894&width=400",
+"type": "Sunscreen",
+"tags": [],
+"in": true
+},
+{
+"t": "Hemaya SPF50+ Daily Protective Sunscreen",
+"u": "https://sohaticare.com/products/hemaya-spf50-daily-protective-sunscreen",
+"p": 31.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/Himaya-Sunscreen_b09fbb06-528f-4b6c-ba06-7cca3cfaf918.webp?v=1791379347&width=400",
+"type": "Sunscreen",
+"tags": [],
+"in": true
+},
+{
 "t": "Seche Vive Instant Gel Effect Top Coat 14ML",
 "u": "https://sohaticare.com/products/seche-vive-instant-gel-effect-top-coat-14ml",
 "p": 11.1,
@@ -197,7 +239,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/51dsC8iVg3L._SY741.jpg?v=1791193786&width=400",
 "type": "",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "ACM DEPIWHITE.M PROTECTIVE CREAM SPF50 40ML",
@@ -233,7 +275,7 @@
 {
 "t": "L'Oréal Paris Matte Signature Liquid Eyeliner",
 "u": "https://sohaticare.com/products/loreal-paris-matte-signature-liquid-eyeliner",
-"p": 0.0,
+"p": 12.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/products/965x1249_1-ink.webp?v=1674671266&width=400",
@@ -258,7 +300,9 @@
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/1-_Revitalift_Triple_Power_-_Eye_Tape_3600524186234_724a9fab-8b32-4952-80fc-56b9099309aa.jpg?v=1785835440&width=400",
 "type": "Eye Cream",
-"tags": [],
+"tags": [
+"CPD BRAND STOCK"
+],
 "in": true
 },
 {
@@ -937,6 +981,7 @@
 "tags": [
 "bundle",
 "COMPENSATION_JULY26",
+"CPD BRAND STOCK",
 "Drugstore Offers",
 "Factorybundle",
 "Giftset",
@@ -1101,7 +1146,7 @@
 "TOPOFFER",
 "TOPOFFERS"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Biafine Skin Emulsion",
@@ -1175,7 +1220,8 @@
 "type": "Hair Serum",
 "tags": [
 "collagen lifter",
-"collagen-lifter-collection"
+"collagen-lifter-collection",
+"CPD BRAND STOCK"
 ],
 "in": false
 },
@@ -1189,7 +1235,8 @@
 "type": "Hair Spray",
 "tags": [
 "collagen lifter",
-"collagen-lifter-collection"
+"collagen-lifter-collection",
+"CPD BRAND STOCK"
 ],
 "in": true
 },
@@ -1236,8 +1283,8 @@
 "COMPENSATION_APR26",
 "COMPENSATION_JAN26",
 "COMPENSATION_SEPT26",
-"CPD_BLACK25",
-"Drugstore Offers"
+"CPD BRAND STOCK",
+"CPD_BLACK25"
 ],
 "in": false
 },
@@ -2664,7 +2711,7 @@
 "pf-bck-to-schl-cmpgn",
 "PF_AUG_26_Bundles"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Buy Avène Radiance Vitamin Activ Cg corrector serum 30ml + Intensive Radiance Vitamin Activ Cg cream 30ml & get a FREE 50ml Thermal Spring Water (x2)",
@@ -3164,8 +3211,8 @@
 {
 "t": "1st Cleansing Cream",
 "u": "https://sohaticare.com/products/1st-cleansing-cream-500ml",
-"p": 16.05,
-"c": null,
+"p": 15.25,
+"c": 16.05,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/Large-BABY-3661434008665-PACK_TEXTURE.jpg?v=1718713231&width=400",
 "type": "Baby Cleanser",
@@ -3184,8 +3231,8 @@
 {
 "t": "Age Absolu Serum 30ML",
 "u": "https://sohaticare.com/products/age-absolu-serum-30ml",
-"p": 64.44,
-"c": null,
+"p": 61.22,
+"c": 64.44,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/7491027-UriageAgeAbsoluSerumMicroRedensificador30ml.jpg?v=1726220809&width=400",
 "type": "Serum",
@@ -3267,7 +3314,7 @@
 "Giftset",
 "summer_bundles_skincare-aug26"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Buy one get one: Phyto Oil Control Shampoo 250ML",
@@ -3392,7 +3439,9 @@
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/2-SugarSpritz-LifterGel-3600531721008.jpg?v=1784618363&width=400",
 "type": "Lip Gloss",
-"tags": [],
+"tags": [
+"CPD BRAND STOCK"
+],
 "in": true
 },
 {
@@ -4104,6 +4153,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/GB_Peel_Amazon.jpg?v=1778482319&width=400",
 "type": "Peeling Serum",
 "tags": [
+"CPD BRAND STOCK",
 "exclude_flash26"
 ],
 "in": false
@@ -4808,8 +4858,8 @@
 {
 "t": "Fotoprotector Fusion Water Non Color SPF50+ 50ML",
 "u": "https://sohaticare.com/products/fotoprotector-fusion-water-spf50-50ml",
-"p": 33.54,
-"c": null,
+"p": 31.86,
+"c": 33.54,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/WhatsAppImage2024-05-10at12.46.51PM.jpg?v=1715336858&width=400",
 "type": "Suncare",
@@ -4823,7 +4873,7 @@
 "ALLSUMSPLASH_05.16",
 "backtoschool-exclusive"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Garnier Micellar Vitamin C Brightening Micellar Water 400 ml + 100 ml + Pink Headband",
@@ -5515,12 +5565,12 @@
 "tags": [
 "Bundle",
 "COMPENSATION_JULY26",
+"CPD BRAND STOCK",
 "Drugstore Offers",
 "Garnier_Haircoloration",
 "Giftset",
 "Hair Coloring",
-"OLIA-BUNDLE",
-"olia-olia"
+"OLIA-BUNDLE"
 ],
 "in": false
 },
@@ -5537,7 +5587,7 @@
 "Face",
 "face serum"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Vegan Collagen Eye Serum 10 ML",
@@ -5557,7 +5607,7 @@
 "korean_game",
 "openstock_april26"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Medicube PDRN pink Capsule cream 55g",
@@ -5977,7 +6027,7 @@
 "tags": [
 "available-korean"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Centella Poremizing Velvet Finish Sunscreen 50ml",
@@ -6965,6 +7015,7 @@
 "tags": [
 "backtoschool-exclusive",
 "COMPENSATION_JUNE26",
+"CPD BRAND STOCK",
 "Drugstore Offers",
 "hyaltintmoment",
 "HYATINT_JUNE26",
@@ -7672,7 +7723,9 @@
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/m.webp?v=1781786212&width=400",
 "type": "Balm",
-"tags": [],
+"tags": [
+"CPD BRAND STOCK"
+],
 "in": true
 },
 {
@@ -7948,8 +8001,8 @@
 {
 "t": "HYSEAC 3 REGUL+SPF50+F 50ML",
 "u": "https://sohaticare.com/products/hyseac-3-regul-spf50-f-50ml",
-"p": 31.0,
-"c": null,
+"p": 29.45,
+"c": 31.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/u1.png?v=1781526020&width=400",
 "type": "Deodorant",
@@ -7957,6 +8010,7 @@
 "adha_26",
 "backtoschool-exclusive",
 "COMPENSATION_JULY26",
+"discount-15-UPO",
 "Sun-40-discount"
 ],
 "in": false
@@ -7964,8 +8018,8 @@
 {
 "t": "BARIESUN SPF50 + EAU SOLAIRE SP 200ML",
 "u": "https://sohaticare.com/products/bariesun-spf50-eau-solaire-sp-200ml",
-"p": 44.8,
-"c": null,
+"p": 42.56,
+"c": 44.8,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/u.png?v=1781526067&width=400",
 "type": "Sun Protection Spray",
@@ -7973,6 +8027,7 @@
 "adha_26",
 "backtoschool-exclusive",
 "COMPENSATION_JULY26",
+"discount-15-UPO",
 "Sun-40-discount"
 ],
 "in": true
@@ -7980,12 +8035,14 @@
 {
 "t": "ISDINCEUTICS RETINAL EYES 20ML",
 "u": "https://sohaticare.com/products/isdinceutics-retinal-eyes-20ml",
-"p": 86.05,
-"c": null,
+"p": 81.75,
+"c": 86.05,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/i_dea503b6-c569-43c5-b7f6-48048a65d10c.png?v=1781525298&width=400",
 "type": "Eye Care",
-"tags": [],
+"tags": [
+"discount-15-UPO"
+],
 "in": false
 },
 {
@@ -8253,6 +8310,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/Untitled_design_-_2026-06-01T180355.702.webp?v=1781081444&width=400",
 "type": "Hair Mask",
 "tags": [
+"CPD BRAND STOCK",
 "exclude_flash26"
 ],
 "in": false
@@ -8260,8 +8318,8 @@
 {
 "t": "Bariesun ultra-matte fluid spf50+ 50 ml",
 "u": "https://sohaticare.com/products/bariesun-spf50-ultra-mat-fluid-b-50ml-bariesun-ultra-matte-aqua-fluid-spf50",
-"p": 29.0,
-"c": null,
+"p": 27.55,
+"c": 29.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/u1_04c65e4f-c2e9-4126-969c-553cbb23801a.jpg?v=1781160399&width=400",
 "type": "Sunscreen",
@@ -8269,6 +8327,7 @@
 "adha_26",
 "backtoschool-exclusive",
 "COMPENSATION_JULY26",
+"discount-15-UPO",
 "Sun-40-discount"
 ],
 "in": true
@@ -8276,23 +8335,27 @@
 {
 "t": "ISDINSEUTICS Essential Scrub 100 G",
 "u": "https://sohaticare.com/products/isdinseutics-essential-scrub-100-g",
-"p": 33.97,
-"c": null,
+"p": 32.27,
+"c": 33.97,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/i1_8e1dd95e-a7f4-4538-9128-24e0fab847d3.webp?v=1781167680&width=400",
 "type": "Face Scrub",
-"tags": [],
+"tags": [
+"discount-15-UPO"
+],
 "in": false
 },
 {
 "t": "ISDINCEUTICS Essential Purifier",
 "u": "https://sohaticare.com/products/isdinceutics-essential-purifier",
-"p": 36.23,
-"c": null,
+"p": 34.42,
+"c": 36.23,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/f1.webp?v=1781168749&width=400",
 "type": "Foaming Cleanser",
-"tags": [],
+"tags": [
+"discount-15-UPO"
+],
 "in": true
 },
 {
@@ -8304,6 +8367,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/2-MNY-LIFTERCONCEALER15-3600531712594_1.jpg?v=1779264201&width=400",
 "type": "Concealer",
 "tags": [
+"CPD BRAND STOCK",
 "exclude_flash26",
 "exportOOS"
 ],
@@ -8612,7 +8676,7 @@
 {
 "t": "Buy Two Get One Klorane Oat Shampoo 400ml",
 "u": "https://sohaticare.com/products/buy-ducray-kelual-squanorm-anti-dandruff-treatment-shampoo-get-a-free-100ml-elution-rebalancing-anti-dandruff-shampoo-copy",
-"p": 20.8,
+"p": 24.0,
 "c": 32.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/1_1_7eb130c2-211b-433c-95e7-90d60b6f53f9.png?v=1780519094&width=400",
@@ -8627,7 +8691,7 @@
 "pf-hair-campaign-klorane",
 "PF_Sale_25"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Buy Ducray Kelual Squanorm anti-dandruff treatment shampoo 200ml & get a FREE 100ml Elution Rebalancing Anti-dandruff shampoo",
@@ -9094,7 +9158,7 @@
 "FRENCHWEEK2025",
 "Giftset"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Buy Hyaluron Activ B3 Concentrated plumping serum Get Free Avène Hyaluron creme du jour pot 7ml",
@@ -9507,6 +9571,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/1-Cloudtopia-CoralIllusion-3600531717216-15.jpg?v=1779262774&width=400",
 "type": "Blush",
 "tags": [
+"CPD BRAND STOCK",
 "exclude_flash26"
 ],
 "in": true
@@ -9683,9 +9748,9 @@
 "Cannes_May26",
 "COMPENSATION_FEB26",
 "COMPENSATION_MAY26",
+"CPD BRAND STOCK",
 "Drugstore Offers",
-"Giftset",
-"oap_makeup"
+"Giftset"
 ],
 "in": false
 },
@@ -9704,8 +9769,8 @@
 "COMPENSATION_MAR26",
 "COMPENSATION_MAY26",
 "COMPENSATION_NOV25",
-"CPD_BLACK25",
-"CPDBUNDLE"
+"CPD BRAND STOCK",
+"CPD_BLACK25"
 ],
 "in": true
 },
@@ -9778,6 +9843,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/3600524242763-HA_Tint-1-worth_it_601.png?v=1778793110&width=400",
 "type": "Lip Stain",
 "tags": [
+"CPD BRAND STOCK",
 "exclude_flash26"
 ],
 "in": true
@@ -10166,6 +10232,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/1--Garnier-Cooling-Gel-8901526680573.jpg?v=1778502211&width=400",
 "type": "Sunscreen",
 "tags": [
+"CPD BRAND STOCK",
 "exclude_flash26",
 "garniersuperuv",
 "sun_june26"
@@ -10238,6 +10305,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/1-RevitaliftTriplePowerSerum-3600524197704.jpg?v=1778502771&width=400",
 "type": "Serum",
 "tags": [
+"CPD BRAND STOCK",
 "exclude_flash26"
 ],
 "in": true
@@ -10911,6 +10979,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/oo1.webp?v=1777026433&width=400",
 "type": "Serum Lipstick",
 "tags": [
+"CPD BRAND STOCK",
 "exclude_flash26",
 "LIPSTICKDAY25"
 ],
@@ -11163,11 +11232,12 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/1-Glowmask-3600524259679_1800x1800_9a1cbfcd-ec54-4f69-b879-d8d5a71938fc.webp?v=1780039233&width=400",
 "type": "Face Mask",
 "tags": [
+"CPD BRAND STOCK",
 "cpd-ledefile-openstock",
 "exclude_flash26",
 "glassskin-collection"
 ],
-"in": true
+"in": false
 },
 {
 "t": "L'Oréal Paris Revitalift Filler Glass Skin Liquid Cream 50 ml",
@@ -11182,7 +11252,7 @@
 "exclude_flash26",
 "glassskin-collection"
 ],
-"in": true
+"in": false
 },
 {
 "t": "L’Oréal Paris Infaillible 24H Power Glow Loose Powder in Mesh, Pore Blurring, Radiant Glow, and Hydrating Formula with 2 Shades, 9.5g.",
@@ -11193,6 +11263,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/1-loosepowder-3600524250355.jpg?v=1776085066&width=400",
 "type": "Loose Powder",
 "tags": [
+"CPD BRAND STOCK",
 "exclude_flash26"
 ],
 "in": true
@@ -11564,9 +11635,9 @@
 "COMPENSATION_APR26",
 "COMPENSATION_FEB25",
 "compensation_sep24",
+"CPD BRAND STOCK",
 "CPD_BLACK25",
-"Drugstore",
-"Drugstore Beauty"
+"Drugstore"
 ],
 "in": true
 },
@@ -11676,6 +11747,7 @@
 "Bigambition_apr26",
 "Bundle",
 "COMPENSATION_APR26",
+"CPD BRAND STOCK",
 "Drugstore Offers",
 "exclusivedeals_may26",
 "Giftset"
@@ -11694,6 +11766,7 @@
 "Bigambition_apr26",
 "Bundle",
 "COMPENSATION_APR26",
+"CPD BRAND STOCK",
 "exclusivedeals_may26",
 "Giftset"
 ],
@@ -12197,7 +12270,7 @@
 "PF_Sale_25",
 "TOPOFFER"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Buy One Get One free A-Derma Biology AC foaming gel 200ml",
@@ -13403,7 +13476,7 @@
 "tags": [
 "facefacts_25%_apr26"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Body Scrub Bergamot & Pepper 400 g",
@@ -14637,7 +14710,7 @@
 "COMPENSATION_JAN26",
 "COMPENSATION_MAR26"
 ],
-"in": false
+"in": true
 },
 {
 "t": "With any Purchase of Mela B3 Cream Get Mela B3 Serum 10ml",
@@ -14797,7 +14870,7 @@
 "GIFSET",
 "Giftset"
 ],
-"in": true
+"in": false
 },
 {
 "t": "SVR [Pepti] Biotic 50ml + Hydraliane Legere 50ml (Gift)",
@@ -14981,13 +15054,13 @@
 "type": "Bundle",
 "tags": [
 "COMPENSATION_MAR26",
+"CPD BRAND STOCK",
 "exclude_cpd_flashsale",
 "EXCLUDE_CPD_MAR25",
 "exclude_dec25",
 "exclusivedeals_may26",
 "PREADHA25BUNDLES",
-"teddytint_launch_bundle",
-"TOTALCPD_PRESUMEXCLUDE"
+"teddytint_launch_bundle"
 ],
 "in": true
 },
@@ -15103,6 +15176,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/1-UDGRAPEMOISTURECONDITIONER-3610340675430.jpg?v=1771937262&width=400",
 "type": "Conditionner",
 "tags": [
+"CPD BRAND STOCK",
 "exclude_flash26"
 ],
 "in": false
@@ -16986,6 +17060,7 @@
 "type": "Serum Cleanser",
 "tags": [
 "CPD",
+"CPD BRAND STOCK",
 "garniersuperuv",
 "SKIN_ACTIVE"
 ],
@@ -17321,7 +17396,7 @@
 "extensionist_26",
 "LpPanorama_Extensionist"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Novus Intimate Wash 100 ml",
@@ -17471,7 +17546,8 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/1-BreakFix-Essie-PDPS-3600531715397_1015b5bc-54b5-488e-a717-710b9d712bbb.jpg?v=1770720980&width=400",
 "type": "Nail Care",
 "tags": [
-"CPD"
+"CPD",
+"CPD BRAND STOCK"
 ],
 "in": false
 },
@@ -17782,6 +17858,7 @@
 "type": "Hair Dye",
 "tags": [
 "CPD",
+"CPD BRAND STOCK",
 "exclude_flash26",
 "Hair Coloring"
 ],
@@ -17909,6 +17986,7 @@
 "type": "Bundle",
 "tags": [
 "COMPENSATION_FEB26",
+"CPD BRAND STOCK",
 "Drugstore Offers",
 "exclusivedeals_may26",
 "OAP_ValentinesFeb26"
@@ -17925,6 +18003,7 @@
 "type": "Bundle",
 "tags": [
 "COMPENSATION_FEB26",
+"CPD BRAND STOCK",
 "Drugstore Offers",
 "OAP_ValentinesFeb26"
 ],
@@ -18035,6 +18114,7 @@
 "tags": [
 "buy2get1_oap26",
 "CPD",
+"CPD BRAND STOCK",
 "sun_june26"
 ],
 "in": false
@@ -19216,7 +19296,7 @@
 {
 "t": "Reviving Ice Cubes",
 "u": "https://sohaticare.com/products/reviving-ice-cubes",
-"p": 14.0,
+"p": 22.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/Picture1_77d14a62-939a-4c85-9742-ac475cc5247d.png?v=1768985398&width=400",
@@ -19227,7 +19307,7 @@
 {
 "t": "Biotic Resurfacing Activator",
 "u": "https://sohaticare.com/products/biotic-resurfacing-activator",
-"p": 22.0,
+"p": 14.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/Picture2_696652ec-84fa-483b-8c7c-b54a1e02d2b2.png?v=1768985461&width=400",
@@ -19267,6 +19347,7 @@
 "type": "Oil - Lip Balm",
 "tags": [
 "CPD",
+"CPD BRAND STOCK",
 "exclude_flash26",
 "LIPSTICKDAY25"
 ],
@@ -19543,6 +19624,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/y1.webp?v=1769160110&width=400",
 "type": "Body Cream",
 "tags": [
+"CPD BRAND STOCK",
 "exclude_flash26"
 ],
 "in": false
@@ -19556,6 +19638,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/c250.jpg?v=1769158084&width=400",
 "type": "Body Lotion",
 "tags": [
+"CPD BRAND STOCK",
 "exclude_flash26"
 ],
 "in": false
@@ -19569,6 +19652,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/p1_b02a56a0-030b-4398-89d5-71037ea5be74.jpg?v=1769156871&width=400",
 "type": "Body Lotion",
 "tags": [
+"CPD BRAND STOCK",
 "exclude_flash26"
 ],
 "in": false
@@ -19582,6 +19666,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/l250.jpg?v=1769158698&width=400",
 "type": "Body Lotion",
 "tags": [
+"CPD BRAND STOCK",
 "exclude_flash26"
 ],
 "in": false
@@ -19622,6 +19707,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/i1_d2f9840c-bbaa-4419-8df9-d41eccaeb51a.jpg?v=1769158400&width=400",
 "type": "Body Cream",
 "tags": [
+"CPD BRAND STOCK",
 "exclude_flash26"
 ],
 "in": false
@@ -19635,6 +19721,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/1-MixaPanthenolComfort-Jar3600551164298_1.webp?v=1769089369&width=400",
 "type": "Body Cream",
 "tags": [
+"CPD BRAND STOCK",
 "exclude_flash26"
 ],
 "in": false
@@ -19722,8 +19809,8 @@
 "Bundle",
 "COMPENSATION_FEB26",
 "COMPENSATION_JAN26",
-"Drugstore Offers",
-"Giftset"
+"CPD BRAND STOCK",
+"Drugstore Offers"
 ],
 "in": false
 },
@@ -21656,10 +21743,10 @@
 "Bundle",
 "COMPENSATION_FEB26",
 "COMPENSATION_JAN26",
+"CPD BRAND STOCK",
 "Drugstore Offers",
 "Giftset",
-"Infallible_jan26",
-"OAP_ValentinesFeb26"
+"Infallible_jan26"
 ],
 "in": false
 },
@@ -21676,10 +21763,10 @@
 "Bundle",
 "COMPENSATION_FEB26",
 "COMPENSATION_JAN26",
+"CPD BRAND STOCK",
 "Drugstore Offers",
 "Giftset",
-"Infallible_jan26",
-"OAP_ValentinesFeb26"
+"Infallible_jan26"
 ],
 "in": false
 },
@@ -21696,10 +21783,10 @@
 "Bundle",
 "COMPENSATION_FEB26",
 "COMPENSATION_JAN26",
+"CPD BRAND STOCK",
 "Drugstore Offers",
 "Giftset",
-"Infallible_jan26",
-"OAP_ValentinesFeb26"
+"Infallible_jan26"
 ],
 "in": false
 },
@@ -21716,10 +21803,10 @@
 "COMPENSATION_DEC25",
 "COMPENSATION_FEB26",
 "COMPENSATION_JAN26",
+"CPD BRAND STOCK",
 "Drugstore Offers",
 "Infallible_jan26",
-"oap_christmas_activation25",
-"OAP_HOLI25"
+"oap_christmas_activation25"
 ],
 "in": false
 },
@@ -22136,6 +22223,7 @@
 "type": "Contouring Stick",
 "tags": [
 "CPD",
+"CPD BRAND STOCK",
 "exclude_flash26",
 "lifter_stix"
 ],
@@ -22813,7 +22901,7 @@
 "available-korean",
 "os_june26_2"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Abib rice probiotics overnight mask barrier jelly 80 ml",
@@ -23484,8 +23572,8 @@
 {
 "t": "FOTOPROTECTOR TRANSPARENT SPRAY WET SKIN SPF50",
 "u": "https://sohaticare.com/products/fotoprotector-transparent-spray-wet-skin-spf50",
-"p": 36.77,
-"c": null,
+"p": 34.93,
+"c": 36.77,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/isdin-fotoprotector-spray-transparent.jpg?v=1745418215&width=400",
 "type": "Sunscreen",
@@ -23494,10 +23582,10 @@
 "8Anniversary",
 "allsunscreen_sohati",
 "CLEAR50",
+"discount-15-UPO",
 "ENDOFSUMMER25",
 "HYGFACE_JUN25",
-"HYGIENEWEEK25",
-"isdin_roger_superdeal"
+"HYGIENEWEEK25"
 ],
 "in": true
 },
@@ -23911,12 +23999,12 @@
 "tags": [
 "22.2.22",
 "CPD",
+"CPD BRAND STOCK",
 "CPD15-23",
 "CPD_BLACK25_FLASH",
 "CPDBF",
 "Drugstore Beauty",
-"exclude_cpd_flashsale",
-"EXCLUDE_CPD_MAR25"
+"exclude_cpd_flashsale"
 ],
 "in": false
 },
@@ -24075,12 +24163,14 @@
 {
 "t": "Uriage Age Absolu Eye Balm",
 "u": "https://sohaticare.com/products/uriage-age-absolu-eye-balm",
-"p": 41.06,
-"c": null,
+"p": 39.01,
+"c": 41.06,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/AgeAbsolueyebalmpackshot_1.png?v=1767605332&width=400",
 "type": "",
-"tags": [],
+"tags": [
+"discount-15-UPO"
+],
 "in": false
 },
 {
@@ -27461,12 +27551,13 @@
 {
 "t": "HYSEAC 3 REGUL SOIN GLOBAL T40 ML+HYS.GEL NET.50ml",
 "u": "https://sohaticare.com/products/hyseac-3-regul-soin-global-t40-ml-hys-gel-net-50ml",
-"p": 20.4,
-"c": null,
+"p": 19.38,
+"c": 20.4,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/Uriage1.png?v=1763543981&width=400",
 "type": "",
 "tags": [
+"discount-15-UPO",
 "UPONOV"
 ],
 "in": true
@@ -27474,12 +27565,13 @@
 {
 "t": "HYSEAC SERUM BOOSTER  F 30ML+HYSEAC GEL NET.50ml",
 "u": "https://sohaticare.com/products/hyseac-serum-booster-f-30ml-hyseac-gel-net-50ml",
-"p": 38.83,
-"c": null,
+"p": 36.89,
+"c": 38.83,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/Uriage2_f98ed46b-4ea0-4271-b33c-38af9223d524.png?v=1763544012&width=400",
 "type": "",
 "tags": [
+"discount-15-UPO",
 "UPONOV"
 ],
 "in": false
@@ -27487,12 +27579,13 @@
 {
 "t": "HYSEAC HYDRA 40ml+HYSEAC GEL NET.50ml",
 "u": "https://sohaticare.com/products/hyseac-hydra-40ml-hyseac-gel-net-50ml",
-"p": 29.66,
-"c": null,
+"p": 28.18,
+"c": 29.66,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/Uriage3_c3470e93-5159-4682-96ac-b41b4ced8f8b.png?v=1763544044&width=400",
 "type": "",
 "tags": [
+"discount-15-UPO",
 "near_expiry26_11_12",
 "UPONOV"
 ],
@@ -27501,12 +27594,13 @@
 {
 "t": "SPECIAL OFFER MOISTURE + REFIL(HM NORMAL)",
 "u": "https://sohaticare.com/products/special-offer-moisture-refilhm-normal",
-"p": 64.94,
-"c": null,
+"p": 61.69,
+"c": 64.94,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/isdin2.png?v=1763543908&width=400",
 "type": "",
 "tags": [
+"discount-15-UPO",
 "UPONOV"
 ],
 "in": true
@@ -27514,12 +27608,13 @@
 {
 "t": "SPECIAL OFFER MOISTURE + REFIL(HM SENSITIVE)",
 "u": "https://sohaticare.com/products/special-offer-moisture-refilhm-sensitive",
-"p": 64.94,
-"c": null,
+"p": 61.69,
+"c": 64.94,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/isdin1_53916c37-d5d4-49ac-b725-d79d1b24f86e.png?v=1763543944&width=400",
 "type": "",
 "tags": [
+"discount-15-UPO",
 "UPONOV"
 ],
 "in": false
@@ -31434,8 +31529,8 @@
 {
 "t": "Eau Thermale Rich Water Cream SPF20 40ML",
 "u": "https://sohaticare.com/products/light-water-cream-spf20",
-"p": 33.02,
-"c": null,
+"p": 31.37,
+"c": 33.02,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/uriage-light-water-p24038.webp?v=1718704581&width=400",
 "type": "Cream",
@@ -32499,7 +32594,7 @@
 {
 "t": "The AloeLab, Aloe 10% Niacinamide +1% Zinc Anti-blemish Serum - 50 ml",
 "u": "https://sohaticare.com/products/the-aloelab-aloe-10-niacinamide-1-zinc-anti-blemish-serum-50-ml",
-"p": 15.0,
+"p": 14.9,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/9_e940b4aa-c26f-4e07-8348-56850b421dce.webp?v=1759303348&width=400",
@@ -33916,13 +34011,13 @@
 "type": "Serum",
 "tags": [
 "CPD",
+"CPD BRAND STOCK",
 "exclude_blacknov25_cpd",
 "exclude_dec25",
 "exclude_flash26",
 "exportOOS",
 "garnier_11.11_25",
-"garnier_new_sep25",
-"garniersuperuv"
+"garnier_new_sep25"
 ],
 "in": false
 },
@@ -34071,13 +34166,13 @@
 "type": "Face Wash",
 "tags": [
 "CPD",
+"CPD BRAND STOCK",
 "exclude_blacknov25_cpd",
 "exclude_dec25",
 "exclude_flash26",
 "garnier_11.11_25",
 "garnier_fastclear",
-"garnier_new_sep25",
-"TOTAL_CPD_25"
+"garnier_new_sep25"
 ],
 "in": false
 },
@@ -34273,13 +34368,13 @@
 "type": "Deodorant",
 "tags": [
 "CPD",
+"CPD BRAND STOCK",
 "CPD_BLACK25_FLASH",
 "exclude_dec25",
 "exclude_flash26",
 "narta_11.11",
 "narta_new_sep25",
-"NOV25DISCOUNTS",
-"Personal Care & Hygiene"
+"NOV25DISCOUNTS"
 ],
 "in": false
 },
@@ -34301,7 +34396,7 @@
 "narta_new_sep25",
 "NOV25DISCOUNTS"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Narta - Resixyl - Spray Deodorant for Sensitive Skin & Excessive Sweating - 48H Anti-Perspirant Protection - For Women - 100ml",
@@ -34333,13 +34428,13 @@
 "type": "Deodorant",
 "tags": [
 "CPD",
+"CPD BRAND STOCK",
 "CPD_BLACK25_FLASH",
 "exclude_dec25",
 "exclude_flash26",
 "mencorner",
 "narta_11.11",
-"narta_new_sep25",
-"NOV25DISCOUNTS"
+"narta_new_sep25"
 ],
 "in": false
 },
@@ -34353,15 +34448,15 @@
 "type": "Deodorant",
 "tags": [
 "CPD",
+"CPD BRAND STOCK",
 "CPD_BLACK25_FLASH",
 "exclude_dec25",
 "exclude_flash26",
 "narta_11.11",
 "narta_new_sep25",
-"NOV25DISCOUNTS",
-"TOTAL_CPD_25"
+"NOV25DISCOUNTS"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Narta - Classic Fresh - 48H Roll On Deodorant - Long-Lasting Freshness for Men - 50 ml",
@@ -34373,13 +34468,13 @@
 "type": "Deodorant",
 "tags": [
 "CPD",
+"CPD BRAND STOCK",
 "CPD_BLACK25_FLASH",
 "exclude_dec25",
 "exclude_flash26",
 "mencorner",
 "narta_11.11",
-"narta_new_sep25",
-"NOV25DISCOUNTS"
+"narta_new_sep25"
 ],
 "in": false
 },
@@ -34393,13 +34488,13 @@
 "type": "Deodorant",
 "tags": [
 "CPD",
+"CPD BRAND STOCK",
 "CPD_BLACK25_FLASH",
 "exclude_dec25",
 "exclude_flash26",
 "mencorner",
 "narta_11.11",
-"narta_new_sep25",
-"NOV25DISCOUNTS"
+"narta_new_sep25"
 ],
 "in": false
 },
@@ -34413,13 +34508,13 @@
 "type": "Deodorant",
 "tags": [
 "CPD",
+"CPD BRAND STOCK",
 "CPD_BLACK25_FLASH",
 "exclude_dec25",
 "exclude_flash26",
 "mencorner",
 "narta_11.11",
-"narta_new_sep25",
-"NOV25DISCOUNTS"
+"narta_new_sep25"
 ],
 "in": true
 },
@@ -35240,13 +35335,13 @@
 "type": "UV Face Creams",
 "tags": [
 "CPD",
+"CPD BRAND STOCK",
 "dermo_menexpert_11.11_25",
 "exclude_blacknov25_cpd",
 "exclude_cpd_flashsale",
 "exclude_dec25",
 "exclude_flash_july25",
-"oap_christmas_activation25",
-"oap_skin_11.11"
+"oap_christmas_activation25"
 ],
 "in": false
 },
@@ -35260,13 +35355,13 @@
 "type": "Pimple Patch",
 "tags": [
 "CPD",
+"CPD BRAND STOCK",
 "exclude_blacknov25_cpd",
 "exclude_dec25",
 "exclude_flash26",
 "first_in_collection",
 "garnier_11.11_25",
-"garnier_fastclear",
-"TOTAL_CPD_25"
+"garnier_fastclear"
 ],
 "in": false
 },
@@ -37035,13 +37130,13 @@
 "type": "Nail polish",
 "tags": [
 "CPD",
+"CPD BRAND STOCK",
 "CPD_BLACK25_FLASH",
 "essie_11.11_25",
 "essie_boho",
 "exclude_cpd_flashsale",
 "exclude_dec25",
-"NOV25DISCOUNTS",
-"TOTAL_CPD_25"
+"NOV25DISCOUNTS"
 ],
 "in": false
 },
@@ -37075,13 +37170,13 @@
 "type": "Nail polish",
 "tags": [
 "CPD",
+"CPD BRAND STOCK",
 "CPD_BLACK25_FLASH",
 "essie_11.11_25",
 "essie_boho",
 "exclude_cpd_flashsale",
 "exclude_dec25",
-"NOV25DISCOUNTS",
-"TOTAL_CPD_25"
+"NOV25DISCOUNTS"
 ],
 "in": true
 },
@@ -37095,13 +37190,13 @@
 "type": "Nail polish",
 "tags": [
 "CPD",
+"CPD BRAND STOCK",
 "CPD_BLACK25_FLASH",
 "essie_11.11_25",
 "essie_boho",
 "exclude_cpd_flashsale",
 "exclude_dec25",
-"NOV25DISCOUNTS",
-"TOTAL_CPD_25"
+"NOV25DISCOUNTS"
 ],
 "in": false
 },
@@ -37135,13 +37230,13 @@
 "type": "Moisturizer",
 "tags": [
 "CPD",
+"CPD BRAND STOCK",
 "exclude_blacknov25_cpd",
 "exclude_cpd_flashsale",
 "exclude_dec25",
 "exclude_flash26",
 "fast-bright_day_may25",
-"garnier_11.11_25",
-"garnier_watergel"
+"garnier_11.11_25"
 ],
 "in": false
 },
@@ -37848,6 +37943,7 @@
 "type": "Lipstick",
 "tags": [
 "CPD",
+"CPD BRAND STOCK",
 "exclude_blacknov25_cpd",
 "exclude_cpd_flashsale",
 "exclude_dec25",
@@ -39123,10 +39219,10 @@
 "backtoschool-exclusive",
 "buy2get1_oap26",
 "CPD",
+"CPD BRAND STOCK",
 "CPD_FLASH26",
 "exclude_blacknov25_cpd",
-"exclude_cpd_flashsale",
-"exclude_dec25"
+"exclude_cpd_flashsale"
 ],
 "in": true
 },
@@ -39197,7 +39293,7 @@
 "tags": [
 "20%offfrenchweek"
 ],
-"in": true
+"in": false
 },
 {
 "t": "ADVANCED MOISTURIZING CREAM WITH NIACINAMIDE 50 ml",
@@ -39371,11 +39467,11 @@
 "adha_26",
 "backtoschool-exclusive",
 "CPD",
+"CPD BRAND STOCK",
 "CPD_BLACK25_FLASH",
 "CPD_FLASH26",
 "exclude_cpd_flashsale",
-"exclude_dec25",
-"exclude_flash_july25"
+"exclude_dec25"
 ],
 "in": false
 },
@@ -41011,10 +41107,10 @@
 "backtoschool-exclusive",
 "buy1_get70%",
 "CPD",
+"CPD BRAND STOCK",
 "CPD_BLACK25_FLASH",
 "CPD_FLASH26",
-"exclude_cpd_flashsale",
-"exclude_flash_july25"
+"exclude_cpd_flashsale"
 ],
 "in": true
 },
@@ -41503,8 +41599,8 @@
 {
 "t": "Isdin Fotoprotector Fusion Water Magic By Alcaraz 50ML",
 "u": "https://sohaticare.com/products/isdin-fotoprotector-fusion-water-magic-by-alcaraz-50ml",
-"p": 22.22,
-"c": 26.14,
+"p": 21.11,
+"c": 22.22,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/23679.webp?v=1750148813&width=400",
 "type": "Sunscreen",
@@ -41513,10 +41609,10 @@
 "8Anniversary",
 "allsunscreen_sohati",
 "CLEAR50",
+"discount-15-UPO",
 "ENDOFSUMMER25",
 "isdin_roger_superdeal",
-"sun_june26",
-"sunscreendiscount"
+"sun_june26"
 ],
 "in": false
 },
@@ -42516,7 +42612,7 @@
 "exclude_flash26",
 "exclude_flash_july25"
 ],
-"in": true
+"in": false
 },
 {
 "t": "L’Oréal Paris, Elvive, Glycolic Gloss Conditioner, Our 1st at home glossing treatment, 5% [Gloss Complex] with Glycolic Acid, 200ml",
@@ -42536,7 +42632,7 @@
 "exclude_flash26",
 "exclude_flash_july25"
 ],
-"in": true
+"in": false
 },
 {
 "t": "L’Oréal Paris, Elvive, Glycolic Gloss Shampoo, Our First at-home glossing treatment, 3% [Gloss Complex] with Glycolic Acid",
@@ -42556,7 +42652,7 @@
 "exclude_flash26",
 "exclude_flash_july25"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Bio filler lip esforliante – lip scrub",
@@ -42589,12 +42685,12 @@
 "tags": [
 "avocado_range",
 "CPD",
+"CPD BRAND STOCK",
 "CPD_BLACK25_FLASH",
 "exclude_cpd_flashsale",
 "exclude_dec25",
 "exclude_flash_july25",
-"garnier_hair_11.11",
-"garnier_hair_colo_11.11"
+"garnier_hair_11.11"
 ],
 "in": false
 },
@@ -42608,13 +42704,13 @@
 "type": "Hair Serum",
 "tags": [
 "CPD",
+"CPD BRAND STOCK",
 "CPD_BLACK25_FLASH",
 "exclude_cpd_flashsale",
 "exclude_dec25",
 "exclude_flash_july25",
 "exportOOS",
-"garnier_hair_11.11",
-"garnier_hair_colo_11.11"
+"garnier_hair_11.11"
 ],
 "in": false
 },
@@ -43705,7 +43801,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/673_103831.jpg?v=1748511075&width=400",
 "type": "Tools",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "EYEBROWSCISSORS SATIN",
@@ -44066,66 +44162,6 @@
 "BabyLiss_OpenStock_14AUG24",
 "babyliss_os_may25",
 "BabyLiss_PriceUpdate_5June24"
-],
-"in": true
-},
-{
-"t": "Babyliss E652E Nose & Ear Hair Trimmer",
-"u": "https://sohaticare.com/products/babyliss-e652enose-ear-hair-trimmer",
-"p": 33.3,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/E652E.jpg?v=1707122651&width=400",
-"type": "Nose Trimmer",
-"tags": [
-"Babyliss",
-"babyliss_na_apr26",
-"BabyLiss_OpenStock_14AUG24",
-"babyliss_os_may25",
-"BabyLiss_PriceUpdate_5June24",
-"ELECTRONICS_ACTIVE25",
-"OpenStock_8MAY24",
-"OpenStock_Babyliss_12JUL24"
-],
-"in": true
-},
-{
-"t": "BaByliss AS90PE Air Brush",
-"u": "https://sohaticare.com/products/babyliss-as90pe-air-brush",
-"p": 88.8,
-"c": 99.9,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/AS90PE.jpg?v=1707122826&width=400",
-"type": "Air Brush",
-"tags": [
-"Babyliss",
-"babyliss_apr26",
-"Babyliss_BF24",
-"babyliss_na_apr26",
-"BabyLiss_OpenStock_14AUG24",
-"babyliss_os_may25",
-"BabyLiss_PriceUpdate_5June24",
-"babyliss_promo_july25"
-],
-"in": false
-},
-{
-"t": "BaByliss 2165E Curling Iron",
-"u": "https://sohaticare.com/products/babyliss-2165e-curling-iron",
-"p": 75.48,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/2165Sde.jpg?v=1707122671&width=400",
-"type": "Hair Curler",
-"tags": [
-"Babyliss",
-"BabyLiss_OpenStock_14AUG24",
-"babyliss_os_may25",
-"BabyLiss_PriceUpdate_5June24",
-"ELECTRONICS_ACTIVE25",
-"NA_BABYLISS_FEB25",
-"oos_babyliss_july25",
-"OpenStock_8MAY24"
 ],
 "in": true
 }

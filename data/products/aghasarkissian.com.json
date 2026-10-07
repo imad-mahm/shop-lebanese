@@ -154,6 +154,17 @@
 "in": false
 },
 {
+"t": "Samsung Dishwasher DW60A8050FB/EU Black",
+"u": "https://aghasarkissian.com/product/samsung-dishwasher-dw60a8050fb-eu-black/",
+"p": 639.0,
+"c": 699.0,
+"cur": "USD",
+"img": "https://aghasarkissian.com/wp-content/uploads/2026/05/Samsung-Dishwasher-DW60A8050FB-EU-Black-430x344.png",
+"type": "Dishwashing, Freestanding Dishwashers, Home Appliances",
+"tags": [],
+"in": false
+},
+{
 "t": "Olimpic Slushie Machine OLK-1203",
 "u": "https://aghasarkissian.com/product/olimpic-slushie-machine-olk-1203/",
 "p": 299.0,
@@ -217,7 +228,7 @@
 "img": "https://aghasarkissian.com/wp-content/uploads/2026/02/Midea-Washer-10-430x287.jpg",
 "type": "Home Appliances, Laundry, Washing Machines",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Toshiba Fridge GR-RT735WE-PGFJ(XK) Black",
@@ -652,17 +663,6 @@
 "in": true
 },
 {
-"t": "France Hob 90cm FG905VPGL Black Matte",
-"u": "https://aghasarkissian.com/product/france-hob-90cm-fg905vpgl-black-matte/",
-"p": 649.0,
-"c": 723.0,
-"cur": "USD",
-"img": "https://aghasarkissian.com/wp-content/uploads/2026/01/Untitled-design-2026-01-12T124204.716-430x430.jpg",
-"type": "Built-in, Built-in Gas Hob, Cooking",
-"tags": [],
-"in": true
-},
-{
 "t": "France Hob 60cm FB604VTGL Black Matte",
 "u": "https://aghasarkissian.com/product/france-hob-60cm-fg604vtgl-black-matte/",
 "p": 489.0,
@@ -672,17 +672,6 @@
 "type": "Built-in, Built-in Gas Hob, Cooking",
 "tags": [],
 "in": false
-},
-{
-"t": "France Oven Built-in 90cm FM90PH02D Black Matte",
-"u": "https://aghasarkissian.com/product/france-oven-built-in-90cm-fm90ph02d-black-matte/",
-"p": 1369.0,
-"c": 1536.0,
-"cur": "USD",
-"img": "https://aghasarkissian.com/wp-content/uploads/2026/01/Untitled-design-2026-01-12T122847.641-430x430.jpg",
-"type": "Buitl-In Gas Oven, Cooking, Home Appliances",
-"tags": [],
-"in": true
 },
 {
 "t": "France Oven Built-in 60cm FM60PG03D Black Matte",
@@ -1081,17 +1070,6 @@
 "in": true
 },
 {
-"t": "HAEGER Portable Speaker  COOL BOOM SP-40W002A",
-"u": "https://aghasarkissian.com/product/haeger-bluetooth-portable-speaker-cool-boom/",
-"p": 65.0,
-"c": 75.0,
-"cur": "USD",
-"img": "https://aghasarkissian.com/wp-content/uploads/2025/08/SP-40W.002A_1-2-430x430.jpg",
-"type": "Audio, Electronics",
-"tags": [],
-"in": true
-},
-{
 "t": "Philips Hair Dryer BHD720 1800W",
 "u": "https://aghasarkissian.com/product/philips-hair-dryer-bhd720-1800w/",
 "p": 135.0,
@@ -1110,6 +1088,17 @@
 "cur": "USD",
 "img": "https://aghasarkissian.com/wp-content/uploads/2025/07/si3042main-430x430.jpg",
 "type": "Home Appliances, Laundry, Steam Irons",
+"tags": [],
+"in": false
+},
+{
+"t": "Hisense Microwave Oven HMMG4211DSVG 42L Grill",
+"u": "https://aghasarkissian.com/product/hisense-microwave-oven-hmmg4211dsvg-42l-grill/",
+"p": 169.0,
+"c": 180.0,
+"cur": "USD",
+"img": "https://aghasarkissian.com/wp-content/uploads/2025/07/HMAS4211DSV-430x430.jpg",
+"type": "Microwaves, Small Kitchen Appliances",
 "tags": [],
 "in": false
 },
@@ -1887,6 +1876,28 @@
 "in": false
 },
 {
+"t": "HISENSE  washer dryer WD3S9043BT 9/6 titanium",
+"u": "https://aghasarkissian.com/product/hisense-washer-dryer-wd3s9043bt-9-6-titanium/",
+"p": 619.0,
+"c": 650.0,
+"cur": "USD",
+"img": "https://aghasarkissian.com/wp-content/uploads/2025/06/Untitled-design-13-430x430.png",
+"type": "Dryers, Home Appliances, Laundry",
+"tags": [],
+"in": false
+},
+{
+"t": "HISENSE  washer dryer WD3S9043BW 9/6 white",
+"u": "https://aghasarkissian.com/product/hisense-washer-dryer-wd3s9043bw-9-6-white/",
+"p": 599.0,
+"c": 630.0,
+"cur": "USD",
+"img": "https://aghasarkissian.com/wp-content/uploads/2025/06/Untitled-design-14-430x430.png",
+"type": "Dryers, Home Appliances, Laundry",
+"tags": [],
+"in": false
+},
+{
 "t": "Samsung Microwave 40L MG40DG5524ATSG",
 "u": "https://aghasarkissian.com/product/samsung-microwave-40-l-mg40dg5524atsg-grill/",
 "p": 189.0,
@@ -1907,6 +1918,17 @@
 "type": "Air Comfort &amp; Quality, Fan, Home Appliances",
 "tags": [],
 "in": true
+},
+{
+"t": "Midea Fridge MDRF692MIE46 Inox",
+"u": "https://aghasarkissian.com/product/midea-fridge-4-doors-mdrf692mie46-stainless/",
+"p": 809.0,
+"c": 899.0,
+"cur": "USD",
+"img": "https://aghasarkissian.com/wp-content/uploads/2025/05/mdrf692-800-430x431.jpg",
+"type": "Fridges, Home Appliances, Multi Door Fridge",
+"tags": [],
+"in": false
 },
 {
 "t": "Samsung Washer 7kg WW70T4020CX1AS",
@@ -1971,6 +1993,17 @@
 "cur": "USD",
 "img": "https://aghasarkissian.com/wp-content/uploads/2025/02/Untitled-design-11-430x430.png",
 "type": "Led TV, Televisions",
+"tags": [],
+"in": false
+},
+{
+"t": "Samsung Washer Dryer WD14T504DBN 14/9 Inox",
+"u": "https://aghasarkissian.com/product/samsung-washer-dryer-wd14t504dbn-14-9-inox/",
+"p": 899.0,
+"c": 999.0,
+"cur": "USD",
+"img": "https://aghasarkissian.com/wp-content/uploads/2025/03/Untitled-design-14-430x430.png",
+"type": "Dryers, Home Appliances, Laundry",
 "tags": [],
 "in": false
 },
@@ -2138,6 +2171,28 @@
 "type": "Hair Dryers, Personal Care, Personal Care &amp; Fitness",
 "tags": [],
 "in": true
+},
+{
+"t": "HISENSE Washer 10.5Kg 1400rpm WF3S1043BT Titanium",
+"u": "https://aghasarkissian.com/product/hisense-washer-10-5kg-1400rpm-wf3s1043bt-titanium/",
+"p": 479.0,
+"c": 519.0,
+"cur": "USD",
+"img": "https://aghasarkissian.com/wp-content/uploads/2025/02/Untitled-design-22-430x430.png",
+"type": "Home Appliances, Laundry, Washing Machines",
+"tags": [],
+"in": false
+},
+{
+"t": "HISENSE Washer 12kg 1400rpm WF3S1243BW White",
+"u": "https://aghasarkissian.com/product/hisense-washer-12kg-1400rpm-wf3s1243bw-white/",
+"p": 579.0,
+"c": 594.0,
+"cur": "USD",
+"img": "https://aghasarkissian.com/wp-content/uploads/2025/02/Untitled-design-24-430x430.png",
+"type": "Home Appliances, Laundry, Washing Machines",
+"tags": [],
+"in": false
 },
 {
 "t": "Hisense Dryer Condenser 9KG DH3S902BT  Heat PumpTitanium",
@@ -2360,17 +2415,6 @@
 "in": false
 },
 {
-"t": "Midea Washer 11k 1400rpm MF200W110WB/T Titanium",
-"u": "https://aghasarkissian.com/product/midea-washer-11k-1400rpm-mf200w110wb-t-titanium/",
-"p": 399.0,
-"c": 496.0,
-"cur": "USD",
-"img": "https://aghasarkissian.com/wp-content/uploads/2025/01/Untitled-design-8-430x430.png",
-"type": "Home Appliances, Laundry, Washing Machines",
-"tags": [],
-"in": false
-},
-{
 "t": "Midea Washer 7k 1000rpm MF100W70/W White",
 "u": "https://aghasarkissian.com/product/midea-washer-7k-1000rpm-mf100w70-w-white/",
 "p": 225.0,
@@ -2412,7 +2456,18 @@
 "img": "https://aghasarkissian.com/wp-content/uploads/2025/01/Untitled-design-2025-11-05T105608.133-430x430.jpg",
 "type": "Home Appliances, Microwaves, Small Kitchen Appliances",
 "tags": [],
-"in": true
+"in": false
+},
+{
+"t": "MIDEA Dryer Condenser 11KG MD200H110WB/T-LB silver",
+"u": "https://aghasarkissian.com/product/midea-dryer-condenser-11kg-md200h110wb-t-lb-silver/",
+"p": 549.0,
+"c": 585.0,
+"cur": "USD",
+"img": "https://aghasarkissian.com/wp-content/uploads/2025/01/Untitled-design-7-430x430.png",
+"type": "Dryers, Home Appliances, Laundry",
+"tags": [],
+"in": false
 },
 {
 "t": "TINECO FW421300UK floor one S6 stretch cordless floor washer",
@@ -2433,17 +2488,6 @@
 "cur": "USD",
 "img": "https://aghasarkissian.com/wp-content/uploads/2024/12/Untitled-design-93-430x430.jpg",
 "type": "Grills, Home Appliances, Sandwich Grill",
-"tags": [],
-"in": true
-},
-{
-"t": "LG Washer 11kg Vivace WR5011PSG Silver",
-"u": "https://aghasarkissian.com/product/lg-washer-11kg-vivace-wr5011psg-silver/",
-"p": 630.0,
-"c": null,
-"cur": "USD",
-"img": "https://aghasarkissian.com/wp-content/uploads/2024/12/Untitled-design-25-430x430.png",
-"type": "Home Appliances, Laundry, Washing Machines",
 "tags": [],
 "in": true
 },
@@ -2595,17 +2639,6 @@
 "u": "https://aghasarkissian.com/product/samsung-led-50-ua50du7000uxtw/",
 "p": 389.0,
 "c": 423.0,
-"cur": "USD",
-"img": "https://aghasarkissian.com/wp-content/uploads/2024/09/Untitled-design-430x430.png",
-"type": "Led TV, Televisions",
-"tags": [],
-"in": true
-},
-{
-"t": "Samsung LED 43″ UA43DU7000UXTW",
-"u": "https://aghasarkissian.com/product/samsung-led-43-ua43du7000uxtw/",
-"p": 319.0,
-"c": 367.0,
 "cur": "USD",
 "img": "https://aghasarkissian.com/wp-content/uploads/2024/09/Untitled-design-430x430.png",
 "type": "Led TV, Televisions",
@@ -2921,6 +2954,17 @@
 "in": true
 },
 {
+"t": "Samsung Fridge RT62K7160SL Titanium",
+"u": "https://aghasarkissian.com/product/samsung-fridge-rt62k7160sl-silver/",
+"p": 999.0,
+"c": 1036.0,
+"cur": "USD",
+"img": "https://aghasarkissian.com/wp-content/uploads/2024/06/RT62K7160SL-IMAGE-2-430x430.jpg",
+"type": "Fridges, Home Appliances, On Sale",
+"tags": [],
+"in": false
+},
+{
 "t": "Kelon Fridge 5ft KRS-12DRW1 White",
 "u": "https://aghasarkissian.com/product/kelon-fridge-5ft-krs-12drw1-white/",
 "p": 158.0,
@@ -3083,7 +3127,7 @@
 "img": "https://aghasarkissian.com/wp-content/uploads/2024/05/Untitled-design-23-430x430.png",
 "type": "Air Comfort &amp; Quality, Dehumidifiers, Home Appliances",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Bionaire (Biwave) Fan Tower BTF003X",
@@ -3260,17 +3304,6 @@
 "type": "Home Appliances, Laundry, Steam Irons",
 "tags": [],
 "in": false
-},
-{
-"t": "Philips Steam Generator Iron GC6815",
-"u": "https://aghasarkissian.com/product/philips-steam-generator-iron-gc6815/",
-"p": 249.0,
-"c": 270.0,
-"cur": "USD",
-"img": "https://aghasarkissian.com/wp-content/uploads/2024/05/Untitled-design-8-1-430x430.png",
-"type": "Home Appliances, Laundry, Steam Irons",
-"tags": [],
-"in": true
 },
 {
 "t": "Philips Iron Steam DST1020 1800W",
@@ -3691,17 +3724,6 @@
 "in": true
 },
 {
-"t": "Haeger Jupiter Vacuum 22.2V Cordeless VC-22V049A",
-"u": "https://aghasarkissian.com/product/haeger-jupiter-vacuum-22-2v-cordless-vc-22v-046a/",
-"p": 109.0,
-"c": 117.0,
-"cur": "USD",
-"img": "https://aghasarkissian.com/wp-content/uploads/2024/04/Untitled-design-94-430x430.jpg",
-"type": "Floor Care, Hand And Stick Vacuum, Vacuum Cleaners",
-"tags": [],
-"in": true
-},
-{
 "t": "Haeger Banquet  Air Fryer AF-D80008A 8L",
 "u": "https://aghasarkissian.com/product/haeger-banquet-air-fryer-af-d80008a-8l/",
 "p": 118.0,
@@ -3812,17 +3834,6 @@
 "in": true
 },
 {
-"t": "LG Fridge 25Ft GNM-732HWL White",
-"u": "https://aghasarkissian.com/product/lg-fridge-gnm-732hwi-547-liters-white/",
-"p": 900.0,
-"c": null,
-"cur": "USD",
-"img": "https://aghasarkissian.com/wp-content/uploads/2024/03/732HWI-430x429.png",
-"type": "Fridges, Home Appliances, Refrigeration",
-"tags": [],
-"in": true
-},
-{
 "t": "LG Fridge Top Mount GNM-732HLI silver",
 "u": "https://aghasarkissian.com/product/lg-fridge-gnm-732hli-547-liters-silver/",
 "p": 900.0,
@@ -3863,17 +3874,6 @@
 "cur": "USD",
 "img": "https://aghasarkissian.com/wp-content/uploads/2024/03/download-19-430x269.jpeg",
 "type": "Cookware, Kitchenware",
-"tags": [],
-"in": true
-},
-{
-"t": "Gree a/c 9000 BTU Pular Inverter K3DNA1A/O R410",
-"u": "https://aghasarkissian.com/product/gree-a-c-9000btu-pular-inverter-gwh09agb-k3dna1e/",
-"p": 399.0,
-"c": 451.0,
-"cur": "USD",
-"img": "https://aghasarkissian.com/wp-content/uploads/2024/03/Untitled-design-4-430x430.png",
-"type": "Air Conditioner, Home Appliances",
 "tags": [],
 "in": true
 },
@@ -3977,6 +3977,28 @@
 "in": true
 },
 {
+"t": "Midea Oven Built-In 60cm 65QME65006 Inox",
+"u": "https://aghasarkissian.com/product/midea-oven-built-in-60cm-65qme65006-stainless-steel/",
+"p": 319.0,
+"c": 360.0,
+"cur": "USD",
+"img": "https://aghasarkissian.com/wp-content/uploads/2024/03/Untitled-design-15-430x430.jpg",
+"type": "Built-in, Buitl-In Gas Oven, Cooking",
+"tags": [],
+"in": false
+},
+{
+"t": "Midea Hob 60cm 60G40ME005-SFT Inox",
+"u": "https://aghasarkissian.com/product/midea-hob-built-in-60cm-60g40me005-sft-stainless-steel/",
+"p": 179.0,
+"c": 199.0,
+"cur": "USD",
+"img": "https://aghasarkissian.com/wp-content/uploads/2024/03/Untitled-design-63-430x430.jpg",
+"type": "Built-in, Built-in Gas Hob, Cooking",
+"tags": [],
+"in": false
+},
+{
 "t": "AEG Hob 60cm HKB64450NB glass black",
 "u": "https://aghasarkissian.com/product/aeg-hob-60cm-hkb64450nb-glass-black/",
 "p": 499.0,
@@ -4007,7 +4029,7 @@
 "img": "https://aghasarkissian.com/wp-content/uploads/2024/03/Untitled-design-2-430x430.png",
 "type": "Home Appliances, Laundry, Washing Machines",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Lagermania Hob 90cm P905CLAGGN Black",
@@ -4186,6 +4208,17 @@
 "in": true
 },
 {
+"t": "Midea Fridge 2.5Ft  MDRD86FGE01 White",
+"u": "https://aghasarkissian.com/product/midea-fridge-2ft-mdrd86fge01-white/",
+"p": 109.0,
+"c": 126.0,
+"cur": "USD",
+"img": "https://aghasarkissian.com/wp-content/uploads/2024/03/Midea-Fridge-2Ft-MDRD86FGE01-White-IMAGE-MAIN-430x431.jpg",
+"type": "Fridges, Home Appliances, Refrigeration",
+"tags": [],
+"in": false
+},
+{
 "t": "Midea Fridge 4 doors MDRM691MIE46 Stainless",
 "u": "https://aghasarkissian.com/product/midea-fridge-4-doors-mdrm691mie46-stainless/",
 "p": 699.0,
@@ -4282,7 +4315,7 @@
 "img": "https://aghasarkissian.com/wp-content/uploads/2024/02/Delonghi-Dehumidifier-16L-DEXD216RF-430x430.png",
 "type": "Air Comfort &amp; Quality, Dehumidifiers, Home Appliances",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Whirlpool Microwave 30L Grill MWP 303 SB Silver",
@@ -4348,7 +4381,7 @@
 "img": "https://aghasarkissian.com/wp-content/uploads/2024/02/EM925A2GU-main-image-430x430.jpg",
 "type": "Home Appliances, Microwaves, Small Kitchen Appliances",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Midea Microwave EG9P032MX-SVE SILVER",
@@ -4668,6 +4701,17 @@
 "type": "Freezers, Home Appliances, Refrigeration",
 "tags": [],
 "in": true
+},
+{
+"t": "Hisense Freezer FV356N4AWU White No Frost",
+"u": "https://aghasarkissian.com/product/hisense-freezer-fv356n4awu-white-no-frost/",
+"p": 649.0,
+"c": 676.0,
+"cur": "USD",
+"img": "https://aghasarkissian.com/wp-content/uploads/2024/02/FV356N4AWU-HISENSE-FREEZER-430x430.jpeg",
+"type": "Freezers, Home Appliances, Refrigeration",
+"tags": [],
+"in": false
 },
 {
 "t": "Hisense Freezer FV356N4ASU Silver No Frost",
@@ -5213,6 +5257,17 @@
 "in": false
 },
 {
+"t": "Hisense Dishwasher HS623E91X Stainless",
+"u": "https://aghasarkissian.com/product/hisense-dishwasher-hs623e90x-stainless-steel/",
+"p": 429.0,
+"c": 450.0,
+"cur": "USD",
+"img": "https://aghasarkissian.com/wp-content/uploads/2024/01/Untitled-design-26-430x430.jpg",
+"type": "Dishwashing, Freestanding Dishwashers, Home Appliances",
+"tags": [],
+"in": false
+},
+{
 "t": "Thomson Cordless Kettle THKE06054",
 "u": "https://aghasarkissian.com/product/thomson-1-7l-cordless-kettle-thke06054-white/",
 "p": 18.0,
@@ -5222,6 +5277,17 @@
 "type": "Breakfast Set, Clearance, Home Appliances",
 "tags": [],
 "in": true
+},
+{
+"t": "Hisense Dishwasher HS623E90G Titanium Grey",
+"u": "https://aghasarkissian.com/product/hisense-dishwasher-hs623e90g-titanium-grey/",
+"p": 399.0,
+"c": 420.0,
+"cur": "USD",
+"img": "https://aghasarkissian.com/wp-content/uploads/2024/01/Untitled-design-27-430x430.jpg",
+"type": "Dishwashing, Freestanding Dishwashers, Home Appliances",
+"tags": [],
+"in": false
 },
 {
 "t": "Moulinex Kettle 1.5L BY150827 BLK",
@@ -5433,17 +5499,6 @@
 "in": true
 },
 {
-"t": "Midea Washer Top Load 15KG MA500W150/WW White",
-"u": "https://aghasarkissian.com/product/midea-washer-top-load-15kg-ma500w150-ww-white/",
-"p": 359.0,
-"c": 432.0,
-"cur": "USD",
-"img": "https://aghasarkissian.com/wp-content/uploads/2024/01/Untitled-design-19-430x430.png",
-"type": "Home Appliances, Laundry, Washing Machines",
-"tags": [],
-"in": true
-},
-{
 "t": "Midea Washer Top Load 18kg MA500W180/G silver",
 "u": "https://aghasarkissian.com/product/midea-washer-top-load-18kg-ma500w180-g-silver/",
 "p": 429.0,
@@ -5452,7 +5507,7 @@
 "img": "https://aghasarkissian.com/wp-content/uploads/2024/01/Untitled-design-18-430x430.png",
 "type": "Home Appliances, Laundry, Washing Machines",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Tefal Easy Fry Oven 9in1 11L FW501827",
@@ -5483,6 +5538,17 @@
 "c": 900.0,
 "cur": "USD",
 "img": "https://aghasarkissian.com/wp-content/uploads/2023/12/DSWC73BDZ-IMAGE-1-430x430.jpeg",
+"type": "Home Appliances, Refrigeration, Wine &amp; Cigar Cellars",
+"tags": [],
+"in": true
+},
+{
+"t": "Carillo Wine Cooler CROW45BDZ",
+"u": "https://aghasarkissian.com/product/carillo-wine-cooler-crow45bdz/",
+"p": 499.0,
+"c": 540.0,
+"cur": "USD",
+"img": "https://aghasarkissian.com/wp-content/uploads/2023/12/45B-430x430.jpg",
 "type": "Home Appliances, Refrigeration, Wine &amp; Cigar Cellars",
 "tags": [],
 "in": true
@@ -5529,7 +5595,7 @@
 "img": "https://aghasarkissian.com/wp-content/uploads/2023/11/Untitled-design-19-430x430.png",
 "type": "Home Appliances, Laundry, Washing Machines",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Samsung Washer 8kg WW80TA046AX1FH Silver",
@@ -5540,18 +5606,7 @@
 "img": "https://aghasarkissian.com/wp-content/uploads/2023/11/Untitled-design-430x430.png",
 "type": "Home Appliances, Laundry, Washing Machines",
 "tags": [],
-"in": true
-},
-{
-"t": "Samsung Microwave 23L MS23K3513AW",
-"u": "https://aghasarkissian.com/product/samsung-microwave-23-l-ms23k3513aw-white/",
-"p": 99.0,
-"c": 117.0,
-"cur": "USD",
-"img": "https://aghasarkissian.com/wp-content/uploads/2023/11/SAMSUNG-1-430x430.jpg",
-"type": "Microwaves, Mother's Day, Small Kitchen Appliances",
-"tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Samsung Washer 8kg 1400 Rpm WW80TA046AE1FH White",
@@ -6040,7 +6095,7 @@
 {
 "t": "AEG Washer Dryer 8+6kg LWX7E8611B WHITE",
 "u": "https://aghasarkissian.com/product/aeg-washer-dryer-lwx7e8611b/",
-"p": 999.0,
+"p": 1099.0,
 "c": 1200.0,
 "cur": "USD",
 "img": "https://aghasarkissian.com/wp-content/uploads/2022/06/Untitled-design-10-430x430.png",
@@ -6126,17 +6181,6 @@
 "in": true
 },
 {
-"t": "G3 Ferrari Wine Cellar Duo DSWCL77BDZ",
-"u": "https://aghasarkissian.com/product/g3-ferrari-wine-cooler-dswc77bdz/",
-"p": 899.0,
-"c": 1000.0,
-"cur": "USD",
-"img": "https://aghasarkissian.com/wp-content/uploads/2022/05/DSWCL77BDZ-WINE-COOLER-430x520.webp",
-"type": "Home Appliances, Refrigeration, Wine &amp; Cigar Cellars",
-"tags": [],
-"in": true
-},
-{
 "t": "Magimix Kitchen Scale MX4",
 "u": "https://aghasarkissian.com/product/magimix-kitchen-scale-mx4/",
 "p": 36.0,
@@ -6204,6 +6248,21 @@
 "HISENSE FRIDGE",
 "Home Appliance",
 "RT729N4WSU"
+],
+"in": false
+},
+{
+"t": "Hisense Fridge Top Mount RT599N4ASU Silver",
+"u": "https://aghasarkissian.com/product/hisense-fridge-rt599n4asu/",
+"p": 589.0,
+"c": 700.0,
+"cur": "USD",
+"img": "https://aghasarkissian.com/wp-content/uploads/2022/03/RT599N4ASU-main-1-430x430.jpg",
+"type": "Fridges, Home Appliances, Refrigeration",
+"tags": [
+"HISENSE FRIDGE",
+"Home Appliance",
+"RT599N4ASU"
 ],
 "in": false
 },
@@ -6781,7 +6840,7 @@
 "img": "https://aghasarkissian.com/wp-content/uploads/2021/04/Untitled-design-2025-09-02T122303.856-430x430.jpg",
 "type": "Cookers, Cooking, Home Appliances",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Midea Cooker 60cm 24BMG4G058 SILVER",

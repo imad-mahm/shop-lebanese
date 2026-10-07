@@ -3201,9 +3201,7 @@
 "tags": [
 "Category_Ring",
 "Collection_Matrix",
-"Material_Rose Gold Plated",
-"Preorder",
-"SALE SEP"
+"Material_Rose Gold Plated"
 ],
 "in": true
 },
@@ -3320,10 +3318,7 @@
 "tags": [
 "Category_Bracelet",
 "Collection_Una",
-"Material_Gold Plated",
-"Preorder",
-"valentine",
-"wedding"
+"Material_Gold Plated"
 ],
 "in": true
 },
@@ -3779,8 +3774,7 @@
 "Best seller",
 "Category_Engagement Rings",
 "Category_Ring",
-"Collection_Constella",
-"Preorder"
+"Collection_Constella"
 ],
 "in": true
 },
@@ -4029,8 +4023,7 @@
 "Collection_Matrix",
 "Collection_Vittore",
 "Holiday",
-"Material_Rhodium Plated",
-"Preorder"
+"Material_Rhodium Plated"
 ],
 "in": true
 },
@@ -4048,9 +4041,7 @@
 "Category_Ring",
 "Collection_Matrix",
 "Collection_Vittore",
-"Material_Rose Gold Plated",
-"Preorder",
-"SALE SEP"
+"Material_Rose Gold Plated"
 ],
 "in": true
 },
@@ -4993,8 +4984,7 @@
 "tags": [
 "Category_Necklace",
 "Collection_Constella",
-"Material_Gold Plated",
-"Preorder"
+"Material_Gold Plated"
 ],
 "in": true
 },
@@ -5778,8 +5768,7 @@
 "bestseller",
 "Category_Bracelet",
 "Collection_Symbolica",
-"Material_Gold Plated",
-"Preorder"
+"Material_Gold Plated"
 ],
 "in": true
 },
@@ -5810,9 +5799,7 @@
 "tags": [
 "Category_Bracelet",
 "Collection_Una",
-"Material_White Rhodium Plated",
-"Preorder",
-"valentine"
+"Material_White Rhodium Plated"
 ],
 "in": true
 },
@@ -5945,8 +5932,7 @@
 "Category_Necklace",
 "Collection_Matrix",
 "Holiday",
-"Material_White Rhodium Plated",
-"Preorder"
+"Material_White Rhodium Plated"
 ],
 "in": true
 },
@@ -6187,8 +6173,7 @@
 "Category_Earrings",
 "Category_Hoop Earrings",
 "Collection_Imber",
-"Material_Gold Plated",
-"Preorder"
+"Material_Gold Plated"
 ],
 "in": true
 },
@@ -6369,8 +6354,7 @@
 "Category_Bracelet",
 "Category_Tennis",
 "Collection_Imber",
-"Material_White Rhodium Plated",
-"Preorder"
+"Material_White Rhodium Plated"
 ],
 "in": true
 },
@@ -6444,9 +6428,7 @@
 "Category_Bracelet",
 "Collection_Matrix",
 "Holiday",
-"Material_White Rhodium Plated",
-"MEA",
-"Preorder"
+"Material_White Rhodium Plated"
 ],
 "in": true
 },
@@ -6536,9 +6518,7 @@
 "Category_Band Rings",
 "Category_Rings",
 "Collection_Matrix",
-"Material_Gold Plated",
-"Preorder",
-"SALE SEP"
+"Material_Gold Plated"
 ],
 "in": true
 },
@@ -8070,7 +8050,6 @@
 "Category_Ring",
 "Collection_Stilla",
 "Material_Gold Plated",
-"Preorder",
 "SALE SEP"
 ],
 "in": true
@@ -8545,7 +8524,6 @@
 "Category_Necklace",
 "Collection_Swan",
 "Material_Rose Gold Plated",
-"Preorder",
 "Selection_Gift"
 ],
 "in": true
@@ -8656,7 +8634,6 @@
 "type": "Key Ring",
 "tags": [
 "Category_Accessories",
-"Preorder",
 "Selection_Gift"
 ],
 "in": true
@@ -8724,7 +8701,8 @@
 "Category_Bracelet",
 "Collection_Matrix",
 "Material_ White Rhodium Plated",
-"New Collection"
+"New Collection",
+"Preorder"
 ],
 "in": true
 },
@@ -8875,7 +8853,8 @@
 "Category_Bracelet",
 "Collection_Matrix",
 "Material_ Rose Gold Plated",
-"New Collection"
+"New Collection",
+"Preorder"
 ],
 "in": true
 },
@@ -9165,8 +9144,7 @@
 "Category_Clip Earrings",
 "Category_Earrings",
 "Collection_Idyllia",
-"Material_Gold Plated",
-"Preorder"
+"Material_Gold Plated"
 ],
 "in": true
 },
@@ -9377,7 +9355,7 @@
 "Category_Pen",
 "Collection_Crystalline Ballpoint",
 "Material_Gold Plated",
-"Prorder",
+"Preorder",
 "Selection_Gift"
 ],
 "in": true
@@ -9884,7 +9862,7 @@
 "tags": [
 "Category_Pen",
 "Collection_Crystalline Ballpoint",
-"Prorder",
+"Preorder",
 "Selection_Gift"
 ],
 "in": true
@@ -10095,7 +10073,6 @@
 "tags": [
 "Category_Home Décor",
 "Collection_Marvel",
-"Preorder",
 "Selection_Gift"
 ],
 "in": true
@@ -10177,7 +10154,6 @@
 "tags": [
 "Category_Watch",
 "Collectio_Octagon",
-"Preorder",
 "Selection_Gift"
 ],
 "in": true
@@ -11644,8 +11620,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/imgi_137_5666643_png_white.jpg?v=1790257927&width=400",
 "type": "Key Ring",
 "tags": [
-"Category_Key Ring",
-"Preorder"
+"Category_Key Ring"
 ],
 "in": true
 },
@@ -12040,8 +12015,7 @@
 "Category_Drop Earrings",
 "Category_Earrings",
 "Collection_Una",
-"Material_Rose Gold Plated",
-"Preorder"
+"Material_Rose Gold Plated"
 ],
 "in": true
 },
@@ -12112,21 +12086,6 @@
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5653705.jpg?v=1788524199&width=400",
-"type": "Home Décor",
-"tags": [
-"category_Home Décor",
-"Preorder",
-"Selection_Gift"
-],
-"in": true
-},
-{
-"t": "23",
-"u": "https://swarovski.com.lb/products/5689423",
-"p": 280440.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5689423.jpg?v=1788523699&width=400",
 "type": "Home Décor",
 "tags": [
 "category_Home Décor",
@@ -12471,7 +12430,7 @@
 "p": 1015.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/imgi_139_5674467_PNG.png?v=1790165694&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/imgi_139_5674467_PNG.png?v=1791376208&width=400",
 "type": "Home Décor",
 "tags": [
 "category_Home Décor",
@@ -13137,7 +13096,6 @@
 "Collection_Crystalline",
 "Material_White Rhodium Plated",
 "New Collection",
-"Preorder",
 "Selection_Gift"
 ],
 "in": true
@@ -13156,7 +13114,6 @@
 "Holiday_collection",
 "Material_White Rhodium Plated",
 "New Collection",
-"Preorder",
 "Selection_Gift"
 ],
 "in": true
@@ -17094,7 +17051,7 @@
 "in": true
 },
 {
-"t": "25",
+"t": "Holiday Magic Classics Crystal Mesh Ball Ornament",
 "u": "https://swarovski.com.lb/products/5760467",
 "p": 125.0,
 "c": null,
@@ -17824,6 +17781,7 @@
 "Category_Ring",
 "Collection_Una",
 "Material_Rose Gold Plated",
+"Preorder",
 "Sale40",
 "Selection_Gift"
 ],
@@ -18077,6 +18035,7 @@
 "tags": [
 "Category_Christmas",
 "Collection_Holiday",
+"Preorder",
 "Selection_Gift"
 ],
 "in": true
@@ -18867,7 +18826,6 @@
 "Collection_Idyllia",
 "Material_Gold Plated",
 "New Collection",
-"Preorder",
 "Selection_Gift"
 ],
 "in": true
@@ -19154,7 +19112,6 @@
 "Category_Necklace",
 "Collection_Gema",
 "Material_Gold Plated",
-"Preorder",
 "Selection_Gift"
 ],
 "in": true
@@ -20158,7 +20115,6 @@
 "Holiday",
 "Material_White Rhodium Plated",
 "New Collection",
-"Preorder",
 "Selection_Gift"
 ],
 "in": true
@@ -20455,7 +20411,6 @@
 "Collection_Hyperbola",
 "Material_Mixed Plated",
 "New Collection",
-"Preorder",
 "Selection_Gift"
 ],
 "in": true
@@ -21045,7 +21000,6 @@
 "Holiday",
 "Material_White Rhodium Plated",
 "New Collection",
-"Preorder",
 "Selection_Gift"
 ],
 "in": true
