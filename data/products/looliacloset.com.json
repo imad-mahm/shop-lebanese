@@ -1,5 +1,83 @@
 [
 {
+"t": "Vitamin C Booster Shot 30ml",
+"u": "https://looliacloset.com/products/arencia-vitamin-c-booster-shot-serum-30ml",
+"p": 24.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Arencia_Vitamin_C_Booster_Shot_Serum_30ml_with_Vitamin_C_and_Niacinamide.png?v=1790769050&width=400",
+"type": "Face Cream",
+"tags": [
+"Arencia",
+"Face Cream"
+],
+"in": true
+},
+{
+"t": "Blurfiller Lip Liner Pencil Blurred Effect",
+"u": "https://looliacloset.com/products/loreal-paris-blurfiller-lip-liner",
+"p": 13.79,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2298/5927/files/1-530_Bordeaux_bisous-_Blurfiller-_3600524253608.jpg?v=1790941166&width=400",
+"type": "Lip Liner",
+"tags": [
+"L'Oréal Paris",
+"lip liner"
+],
+"in": true
+},
+{
+"t": "Niacinamide Bright 4% Niacinamide Lotion 400ml",
+"u": "https://looliacloset.com/products/mixa-niacinamide-bright-4-niacinamide-body-lotion-400ml",
+"p": 8.3,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Untitleddesign_58_a24d1c83-78d9-47ff-af74-7da334cdf070.png?v=1790945090&width=400",
+"type": "Body Lotion",
+"tags": [
+"Body Lotion",
+"Mixa"
+],
+"in": true
+},
+{
+"t": "Gift From Loolia Closet : Pink Phone Sticker",
+"u": "https://looliacloset.com/products/gift-from-loolia-closet-pink-phone-sticker",
+"p": 0.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Untitleddesign_62_0eb6a7ee-645a-4412-aa00-f3f573e0e14c.png?v=1791279829&width=400",
+"type": "GWP",
+"tags": [
+"_appmaker_disable_purchase",
+"GWP",
+"Hidden recommendation",
+"hide_product_status",
+"Loolia Closet",
+"SEARCHANISE_IGNORE"
+],
+"in": true
+},
+{
+"t": "Gift From Anastasia : Liquid Lipstick",
+"u": "https://looliacloset.com/products/gift-from-anastasia-liquid-lipstick",
+"p": 0.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Anastasia_Beverly_Hills_Liquid_Lipstick_-_American_Doll_be0e1106-313c-426c-a8d8-c6681a99ae09.jpg?v=1791278292&width=400",
+"type": "GWP",
+"tags": [
+"_appmaker_disable_purchase",
+"Anastasia Beverly Hills",
+"GWP",
+"Hidden recommendation",
+"hide_product_status",
+"SEARCHANISE_IGNORE"
+],
+"in": true
+},
+{
 "t": "Metal Detox Co-Pack Set - 4 pcs",
 "u": "https://looliacloset.com/products/metal-detox-boutiqaat-copack",
 "p": 52.94,
@@ -293,8 +371,8 @@
 {
 "t": "Brow Care Kit",
 "u": "https://looliacloset.com/products/brow-care-kit",
-"p": 44.0,
-"c": 55.0,
+"p": 55.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Anastasia_Beverly_Hills_-_Brow_Care_Kit.jpg?v=1733919574&width=400",
 "type": "Eyebrow Kit",
@@ -313,8 +391,8 @@
 {
 "t": "Frozen & Fuller Looking Brow Trio",
 "u": "https://looliacloset.com/products/frozen-fuller-looking-brow-trio",
-"p": 27.2,
-"c": 34.0,
+"p": 34.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Anastasia_Beverly_Hills_-_Frozen_Fuller_Looking_Brow_Trio.jpg?v=1734953111&width=400",
 "type": "Eyebrow Kit",
@@ -333,8 +411,8 @@
 {
 "t": "Brush 18 - Precise Conceal Brush",
 "u": "https://looliacloset.com/products/brush-18-precise-conceal-brush",
-"p": 22.15,
-"c": 27.69,
+"p": 27.69,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Anastasia_Beverly_Hills_-_Brush_18_-_Precise_Conceal_Brush.jpg?v=1734457317&width=400",
 "type": "Eye Brush",
@@ -642,7 +720,7 @@
 "le_defile26",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Elvive Glycolic Gloss Shampoo + Conditioner + Leave-in + FREE Le Defile Pouch At 15% OFF",
@@ -660,7 +738,7 @@
 "le_defile26",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Revitalift Triple Power Age-Correcting™ Serum + Day Cream + Night Cream + FREE Le Defile Pouch At 20% OFF",
@@ -1160,7 +1238,7 @@
 "Garnier",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Fast Bright Face Wash + Day Serum + Super UV Sunscreen + FREE Pair Of Sunglasses At 20% OFF",
@@ -1269,7 +1347,7 @@
 "L'Oréal Paris",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Hyper Easy + Lifter Gloss + Vinyl Ink Lipstick + FREE Pair Of Sunglasses At 25% OFF",
@@ -1324,7 +1402,7 @@
 "L'Oréal Paris",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Glass Skin Liquid Cream + Hydrogel Glow Mask + FREE Pair Of Sunglasses",
@@ -1342,7 +1420,7 @@
 "Gem_It_Up",
 "L'Oréal Paris"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Glycolic-Bright Foam Cleanser + Anti-Dark Spot Exfoliant Peel + Daily UV Fluid + FREE Pair Of Sunglasses At 20% OFF",
@@ -1694,7 +1772,7 @@
 "Factory Sync Transfer",
 "Medicube"
 ],
-"in": true
+"in": false
 },
 {
 "t": "PDRN Lip Sleeping Mask 10g",
@@ -2055,7 +2133,7 @@
 "Gem_It_Up",
 "L'Oréal Paris"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Revitalift Glass Skin Hydrogel Glow Mask + Liquid Cream + FREE Gem Sticker Sheet",
@@ -2072,7 +2150,7 @@
 "Gem_It_Up",
 "L'Oréal Paris"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Gift From L'Oréal Paris : Gem Stickers Mask",
@@ -2106,7 +2184,7 @@
 "Garnier",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Instant Bright Day Cream + Glow Serum",
@@ -2543,7 +2621,7 @@
 "Garnier",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Fast Clear Invisible Pimple Patch + Fast Clear Vitamin C Serum At 20% OFF",
@@ -3456,7 +3534,7 @@
 "Garnier",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Day Serum + Fast Bright Serum Cleanser At 15% OFF",
@@ -3474,7 +3552,7 @@
 "Garnier",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Plump Ambition Hyaluron Lip Oil + Lumi Le Liquid Blush At 30% OFF",
@@ -3725,7 +3803,7 @@
 "L'Oréal Paris",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Elvive Extraordinary Oil Midnight Serum + Day Serum At 25% OFF",
@@ -4240,7 +4318,7 @@
 "Glass_Skin",
 "L'Oréal Paris"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Gift From Loolia Closet : Water Bottle",
@@ -6845,8 +6923,8 @@
 {
 "t": "Compostable Cleaning Wipes With Fragrance 60 Wipes",
 "u": "https://looliacloset.com/products/compostable-cleaning-wipes-with-fragrance-60-wipes",
-"p": 8.8,
-"c": 11.0,
+"p": 11.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/DoubleWearStay-In-PlaceFoundation30ML_6.png?v=1784189888&width=400",
 "type": "Wipes",
@@ -7153,7 +7231,7 @@
 "L'Oréal Paris",
 "Skin Glow Edit"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Effaclar Duo+M Acne Treatment Cream + 2x FREE Effaclar Foaming Gel",
@@ -7432,7 +7510,7 @@
 "GarnierSummer26",
 "Skin Glow Edit"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Super UV Invisible Air Mist + Super UV Cooling Watergel Sunscreen + FREE Totebag",
@@ -7451,7 +7529,7 @@
 "GarnierSummer26",
 "Skin Glow Edit"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Super UV Cooling Watergel Sunscreen + Super UV Anti-Acne + FREE Towel Pillow",
@@ -7900,126 +7978,6 @@
 "BP_Germany",
 "Essence",
 "Highlighter"
-],
-"in": false
-},
-{
-"t": "Hydrating After Sun Lotion",
-"u": "https://looliacloset.com/products/hawaiian-tropic-hydrating-after-sun-lotion-180ml",
-"p": 9.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Hawaiian_Tropic_Hydrating_After_Sun_Lotion.jpg?v=1782478531&width=400",
-"type": "Body Lotion",
-"tags": [
-"After Sun Lotion",
-"BP_Lebanon",
-"BP_US",
-"FEATURED_PRODUCTS",
-"Hawaiian Tropic",
-"Skin Glow Edit",
-"SM_Bodycare",
-"Summer_Essentials_2026"
-],
-"in": false
-},
-{
-"t": "Hydrating Protection Lotion SPF 50",
-"u": "https://looliacloset.com/products/hawaiian-tropic-silk-hydration-spf50-lotion-180ml",
-"p": 13.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Hawaiian_Tropic_Silk_Hydration_Protective_Sun_Lotion_SPF50.jpg?v=1782476498&width=400",
-"type": "Body Sunscreen",
-"tags": [
-"Body Sunscreen",
-"BP_Lebanon",
-"BP_US",
-"FEATURED_PRODUCTS",
-"Hawaiian Tropic",
-"Skin Glow Edit",
-"SM_Suncare",
-"Summer_2026"
-],
-"in": false
-},
-{
-"t": "Hydrating Protection Lotion SPF30",
-"u": "https://looliacloset.com/products/hawaiian-tropic-hydrating-protection-lotion-spf30-180ml",
-"p": 5.2,
-"c": 13.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Hawaiian_Tropic_Hydrating_Protection_Lotion_SPF30.jpg?v=1782474033&width=400",
-"type": "Body Sunscreen",
-"tags": [
-"A8_upto70",
-"Body Sunscreen",
-"BP_Lebanon",
-"BP_US",
-"Fall_Into_Hydra",
-"FEATURED_PRODUCTS",
-"Hawaiian Tropic",
-"Skin Glow Edit"
-],
-"in": false
-},
-{
-"t": "Glowing Oil - No SPF Tanning Oil",
-"u": "https://looliacloset.com/products/hawaiian-tropic-glowing-tanning-oil-spf0-200ml",
-"p": 11.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Hawaiian_Tropic_Glowing_Tanning_Oil_SPF0_1.jpg?v=1782469207&width=400",
-"type": "Tanning Essentials",
-"tags": [
-"BP_Lebanon",
-"BP_US",
-"FEATURED_PRODUCTS",
-"Hawaiian Tropic",
-"Skin Glow Edit",
-"SM_Tanning",
-"Summer_2026",
-"Summer_Essentials_2026"
-],
-"in": false
-},
-{
-"t": "Glowing Protection Dry Oil Gel SPF15",
-"u": "https://looliacloset.com/products/hawaiian-tropic-dry-oil-spray-spf15-200ml",
-"p": 4.4,
-"c": 11.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Hawaiian_Tropic_Glowing_Protection_Dry_Oil_Spray_SPF15.jpg?v=1782467633&width=400",
-"type": "Body Sunscreen",
-"tags": [
-"A8_upto70",
-"Body Sunscreen",
-"BP_Lebanon",
-"BP_US",
-"Fall_Into_Hydra",
-"FEATURED_PRODUCTS",
-"Hawaiian Tropic",
-"Skin Glow Edit"
-],
-"in": false
-},
-{
-"t": "Enriching After Sun Body Butter",
-"u": "https://looliacloset.com/products/hawaiian-tropic-after-sun-body-butter-250ml",
-"p": 7.2,
-"c": 9.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Hawaiian_Tropic_Enriching_After_Sun_Body_Butter.jpg?v=1782465307&width=400",
-"type": "Body Cream",
-"tags": [
-"A8_upto30",
-"AFTER SUN",
-"BP_Lebanon",
-"BP_US",
-"Fall_Into_Hydra",
-"FEATURED_PRODUCTS",
-"Hawaiian Tropic",
-"Skin Glow Edit"
 ],
 "in": false
 },
@@ -9281,8 +9239,8 @@
 {
 "t": "Cleansing Water With Avocado 500 mL",
 "u": "https://looliacloset.com/products/mustela-cleansing-water-avocado-500ml",
-"p": 12.43,
-"c": 15.54,
+"p": 15.54,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Untitleddesign-2026-06-16T143507.742.png?v=1781611036&width=400",
 "type": "Cleanser",
@@ -10384,7 +10342,7 @@
 "Gem_It_Up",
 "Glass_Skin"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Gift From L'Oréal Paris : Glass Skin Purple Hair Pins",
@@ -10581,8 +10539,8 @@
 {
 "t": "Modern Renaissance Mini Palette",
 "u": "https://looliacloset.com/products/modern-renaissance-mini-palette",
-"p": 36.0,
-"c": 45.0,
+"p": 45.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Anastasia_Beverly_Hills_Modern_Renaissance_Mini_Palette1.jpg?v=1751375670&width=400",
 "type": "Eyeshadow",
@@ -11934,7 +11892,7 @@
 "CPD_EXC_17March",
 "CPD_EXMay26"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Blueberry Sorbet",
@@ -14309,7 +14267,7 @@
 "Gem_It_Up",
 "Glass_Skin"
 ],
-"in": false
+"in": true
 },
 {
 "t": "2x L’Oréal Revitalift Glass Skin Mask + FREE Hair Pins",
@@ -14329,7 +14287,7 @@
 "Gem_It_Up",
 "Glass_Skin"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Gift From L'Oréal Paris : Glass Skin Purple Pouch",
@@ -17166,7 +17124,7 @@
 "L'Oréal Paris",
 "Two_Ways_to_Hydrate"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Abib Jericho Rose Collagen Pad Firming Touch Hydrating Care 60 Pads",
@@ -18081,7 +18039,7 @@
 "Garnier",
 "Skin Glow Edit"
 ],
-"in": true
+"in": false
 },
 {
 "t": "2x Fast Bright Serum Cleanser 100 ML + FREE Towel",
@@ -18432,7 +18390,7 @@
 "Skin Glow Edit",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Fast Bright Micellar Water 400 ML + Serum Cleanser 100 ML + Vitamin C Day Serum 30 ML + FREE Silver Pouch At 10% OFF",
@@ -18452,7 +18410,7 @@
 "Garnier",
 "Skin Glow Edit"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Ultra Serum SPF 50+ Sunscreen",
@@ -19638,26 +19596,6 @@
 "in": true
 },
 {
-"t": "Gift from Matrix: Food for Soft - Travel Size Shampoo",
-"u": "https://looliacloset.com/products/gift-from-matrix-food-for-soft-travel-size-shampoo",
-"p": 0.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Untitleddesign-2024-12-04T142444.240.jpg?v=1733315097&width=400",
-"type": "GWP",
-"tags": [
-"_appmaker_disable_purchase",
-"BP_US",
-"GWP",
-"Hidden recommendation",
-"hide_product_status",
-"Keep_GWP_2026",
-"Matrix",
-"PRO_HAIR"
-],
-"in": false
-},
-{
 "t": "Gift from Kérastase: Packaging",
 "u": "https://looliacloset.com/products/gift-from-kerastase-packaging",
 "p": 0.0,
@@ -20140,7 +20078,7 @@
 "Kerastase_styling",
 "Kérastase"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Gloss Absolu Fondant Holidays 25 Set",
@@ -20352,7 +20290,7 @@
 "Discount_26",
 "Face Serum"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Eye Power Infusing Concentrate",
@@ -20809,7 +20747,7 @@
 "budget20_50",
 "check-sets"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Body Trim Transparent BG120E",
@@ -21413,7 +21351,7 @@
 "CPD_ex_april26",
 "CPD_EXC_17March"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Panthenol Comfort Body Lotion 400ml",
@@ -22126,8 +22064,8 @@
 {
 "t": "Soothing Moisturising Cream",
 "u": "https://looliacloset.com/products/soothing-moisturising-cream-40ml",
-"p": 7.1,
-"c": 8.88,
+"p": 8.88,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Untitled_design_-_2026-01-22T160117.105.png?v=1769090491&width=400",
 "type": "Soothing Cream",
@@ -22144,8 +22082,8 @@
 {
 "t": "STELATOPIA® Cleansing Gel",
 "u": "https://looliacloset.com/products/stelatopia®-cleansing-gel-200ml",
-"p": 11.1,
-"c": 13.88,
+"p": 13.88,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Untitled_design_-_2026-01-22T162011.426.png?v=1769091627&width=400",
 "type": "Shower Gel",
@@ -22162,8 +22100,8 @@
 {
 "t": "Soothing Moisturizing Lotion",
 "u": "https://looliacloset.com/products/soothing-moisturizing-lotion-200ml",
-"p": 11.1,
-"c": 13.88,
+"p": 13.88,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Untitled_design_-_2026-01-22T163020.185.png?v=1769092235&width=400",
 "type": "Lotion",
@@ -22181,8 +22119,8 @@
 {
 "t": "Nourishing Cleansing Gel with Cold Cream and Beeswax",
 "u": "https://looliacloset.com/products/nourishing-cleansing-gel-with-cold-cream-300ml",
-"p": 8.44,
-"c": 10.55,
+"p": 10.55,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Untitled_design_-_2026-01-22T165744.990.png?v=1769093876&width=400",
 "type": "Cleansing Gel",
@@ -22200,8 +22138,8 @@
 {
 "t": "Baby Intimate Cleansing Gel",
 "u": "https://looliacloset.com/products/intimate-hygiene-gel-200ml",
-"p": 11.99,
-"c": 14.99,
+"p": 14.99,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Untitleddesign-2026-01-22T170408.890.png?v=1769094260&width=400",
 "type": "Cleansing Gel",
@@ -22219,8 +22157,8 @@
 {
 "t": "Cradle Cap Cream",
 "u": "https://looliacloset.com/products/cradle-cap-cream-40ml",
-"p": 8.88,
-"c": 11.1,
+"p": 11.1,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Untitled_design_-_2026-01-22T171158.121.png?v=1769094728&width=400",
 "type": "Cradle Cap Cream",
@@ -22237,8 +22175,8 @@
 {
 "t": "Nourishing Lotion with Cold Cream and Beeswax",
 "u": "https://looliacloset.com/products/nourishing-lotion-with-cold-cream-200ml",
-"p": 11.1,
-"c": 13.88,
+"p": 13.88,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Untitled_design_-_2026-01-22T172140.785.png?v=1769095312&width=400",
 "type": "Lotion",
@@ -24445,7 +24383,7 @@
 "Mother's_Day26",
 "Valued Bundles"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Vitamin Activ Cg Radiance Intensive Cream",
@@ -25375,8 +25313,8 @@
 {
 "t": "Musti Coffrets Terracota 2025",
 "u": "https://looliacloset.com/products/musti-coffrets-terracota-2025",
-"p": 12.88,
-"c": 16.1,
+"p": 16.1,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Tarracota.png?v=1765289134&width=400",
 "type": "Fragrance Set",
@@ -25395,8 +25333,8 @@
 {
 "t": "Musti Coffret Pastel 2025",
 "u": "https://looliacloset.com/products/musti-coffret-pastel-2025",
-"p": 12.88,
-"c": 16.1,
+"p": 16.1,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Pastel_1.png?v=1765289018&width=400",
 "type": "Fragrance Set",
@@ -26801,7 +26739,7 @@
 "CPD_FS26",
 "Discount_26"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Care Bears Hair Brush",
@@ -28888,7 +28826,7 @@
 "budget10_20",
 "DCRY_ADRM_AVN"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Polysianes Sublime Sun Gel Cream SPF 30",
@@ -29479,12 +29417,12 @@
 "tags": [
 "Aging",
 "ALL_PRODUCTS",
-"Birthday26",
 "BP_France",
 "CPD_FS26",
 "Discount_26",
 "Everything Except LID LLD",
-"Face Serum"
+"Face Serum",
+"Fall_Into_Hydra"
 ],
 "in": true
 },
@@ -31022,8 +30960,8 @@
 {
 "t": "Newborn Essentials Pastel Gift Set",
 "u": "https://looliacloset.com/products/newborn-essentials-pastel-gift-set",
-"p": 45.74,
-"c": 57.17,
+"p": 57.17,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Mustela__3_-removebg-preview.png?v=1760450841&width=400",
 "type": "Skin Care Set",
@@ -31042,8 +30980,8 @@
 {
 "t": "Newborn Essentials Terracota Gift Set",
 "u": "https://looliacloset.com/products/newborn-essentials-terracota-gift-set",
-"p": 45.74,
-"c": 57.17,
+"p": 57.17,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Mustela__2_-removebg-preview.png?v=1760450823&width=400",
 "type": "Skin Care Set",
@@ -31902,8 +31840,8 @@
 {
 "t": "MicroStroke Brow Pen",
 "u": "https://looliacloset.com/products/microstroke-brow-pen-2",
-"p": 28.8,
-"c": 36.0,
+"p": 36.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/ABH_2025_STD_Microstroke-Brow-Pen_SoftBrown_01_Hero.webp?v=1759325822&width=400",
 "type": "Brow Pencil",
@@ -37852,8 +37790,8 @@
 {
 "t": "High Protection Sun Spray SPF50",
 "u": "https://looliacloset.com/products/high-protection-sun-spray-spf50",
-"p": 33.74,
-"c": 42.18,
+"p": 42.18,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Beesline_6_4c62af9a-02c9-4fda-8364-256dc25566cd.jpg?v=1754986150&width=400",
 "type": "Body Sunscreen",
@@ -39691,7 +39629,7 @@
 "Pupa",
 "pupa shine bright"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Shine Bright All in One Sparkling Palette Face and Eye",
@@ -39811,7 +39749,7 @@
 "budget20_50",
 "COSRX"
 ],
-"in": true
+"in": false
 },
 {
 "t": "AHA/BHA Clarifying Treatment Toner",
@@ -40136,8 +40074,8 @@
 {
 "t": "* Pucker Up Lip Trio",
 "u": "https://looliacloset.com/products/pucker-up-lip-trio",
-"p": 38.4,
-"c": 48.0,
+"p": 48.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Pink_23.jpg?v=1751277835&width=400",
 "type": "Lip Kit",
@@ -40156,8 +40094,8 @@
 {
 "t": "Magic Touch Blush Trio",
 "u": "https://looliacloset.com/products/magic-touch-blush-trio",
-"p": 44.8,
-"c": 56.0,
+"p": 56.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/MagicTouchBlushTrio-Pink.jpg?v=1751032692&width=400",
 "type": "Blush",
@@ -40176,8 +40114,8 @@
 {
 "t": "Smooth Blur Contour Stick",
 "u": "https://looliacloset.com/products/smooth-blur-contour-stick",
-"p": 40.0,
-"c": 50.0,
+"p": 50.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/SmoothBlurContourStick-Halftone.jpg?v=1751027276&width=400",
 "type": "Contouring Stick",
@@ -40196,8 +40134,8 @@
 {
 "t": "Smooth Blur Bronzer",
 "u": "https://looliacloset.com/products/smooth-blur-bronzer",
-"p": 44.0,
-"c": 55.0,
+"p": 55.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/SunKissedDreams.jpg?v=1751026186&width=400",
 "type": "Bronzer",
@@ -42452,8 +42390,8 @@
 {
 "t": "Very High Protection Facial Sun Lotion SPF50+",
 "u": "https://looliacloset.com/products/mustela-very-high-protection-facial-sun-lotion-spf50",
-"p": 15.1,
-"c": 18.87,
+"p": 18.87,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Mustela_1.jpg?v=1750686971&width=400",
 "type": "Sunscreen",
@@ -42627,7 +42565,7 @@
 "CPD_ex_626",
 "CPD_ex_april26"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Ultra Doux Pure Avocado and Shea Butter Hair Nourisher",
@@ -44166,8 +44104,8 @@
 {
 "t": "Stelatopia Emollient Cream for Face",
 "u": "https://looliacloset.com/products/stela-face-cream",
-"p": 9.33,
-"c": 11.66,
+"p": 11.66,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Untitleddesign_1_71e940c3-b2a4-4ab8-821d-011b6bc2a285.png?v=1747655899&width=400",
 "type": "Face Cream",
@@ -44186,8 +44124,8 @@
 {
 "t": "Cicastela Repairing Cream",
 "u": "https://looliacloset.com/products/cicastela-repairing-cream",
-"p": 12.43,
-"c": 15.54,
+"p": 15.54,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Mustela_-Cicastela_Repairing_Cream.jpg?v=1759235663&width=400",
 "type": "",
@@ -44206,8 +44144,8 @@
 {
 "t": "Certified Organic Micellar Water",
 "u": "https://looliacloset.com/products/certified-organic-micellar-water",
-"p": 13.77,
-"c": 17.21,
+"p": 17.21,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/3504105037963.jpg?v=1747656386&width=400",
 "type": "Makeup Remover",
@@ -44226,8 +44164,8 @@
 {
 "t": "Nourishing Stick with Cold Cream",
 "u": "https://looliacloset.com/products/nourishing-stick-cold-cream",
-"p": 11.54,
-"c": 14.43,
+"p": 14.43,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/3504105036157_1200x_2377e4d9-0dcc-4d28-ac82-e72927a61a71.jpg?v=1747312950&width=400",
 "type": "Cream",
@@ -44246,8 +44184,8 @@
 {
 "t": "Stelatopia Foam Shampoo",
 "u": "https://looliacloset.com/products/stelatopia-foam-shampoo",
-"p": 12.43,
-"c": 15.54,
+"p": 15.54,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/3504105030544_1200x_20b172c3-6631-4489-9d1c-47b24848a1a2.jpg?v=1747314960&width=400",
 "type": "Baby Shampoo",
@@ -44266,8 +44204,8 @@
 {
 "t": "Detangling & Nourishing Cream Shampoo",
 "u": "https://looliacloset.com/products/detangling-cream-shampoo",
-"p": 13.32,
-"c": 16.65,
+"p": 16.65,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/CustomShopifySize-106_1920x_3850df55-e6f1-475e-8a0c-c94c2c71fafa.jpg?v=1747317864&width=400",
 "type": "Baby Shampoo",
@@ -45521,8 +45459,8 @@
 {
 "t": "Sculpt and Stun Mascara Duo",
 "u": "https://looliacloset.com/products/sculpt-and-stun-mascara-duo",
-"p": 31.21,
-"c": 39.01,
+"p": 39.01,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Untitleddesign_c47d034f-0497-4144-92ae-419ef9638e20.png?v=1745999622&width=400",
 "type": "Mascara",
@@ -45601,8 +45539,8 @@
 {
 "t": "Impeccable Blurring Second-Skin Matte Foundation",
 "u": "https://looliacloset.com/products/new-impeccable-foundation-and-setting-spray",
-"p": 44.8,
-"c": 56.0,
+"p": 56.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Untitled_design_1_cebbd6c6-8459-4add-80d4-76297a7f8c86.png?v=1745845026&width=400",
 "type": "Foundation",
@@ -45621,8 +45559,8 @@
 {
 "t": "Impeccable Blurring Matte Setting Spray",
 "u": "https://looliacloset.com/products/impeccable-blurring-matte-setting-spray",
-"p": 23.2,
-"c": 29.0,
+"p": 29.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/ABH_7.jpg?v=1745582902&width=400",
 "type": "Setting Spray",
@@ -46367,13 +46305,13 @@
 "type": "Face Serum",
 "tags": [
 "ALL_PRODUCTS",
-"Birthday26",
 "BP_France",
 "CPD_FS26",
 "Discount_26",
 "Everything Except LID LLD",
 "Face Serum",
-"Fall_Into_Hydra"
+"Fall_Into_Hydra",
+"Featured Products"
 ],
 "in": true
 },
@@ -49474,7 +49412,7 @@
 "Micellar Water",
 "OAP_5_26"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Color Protect Hair Mask",
@@ -50494,7 +50432,7 @@
 "Kiehl Sampling Campaign",
 "LDB"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Dercos Densi-Solutions Hair Thickening Treatment for Weak and Thinning hair",
@@ -50914,7 +50852,7 @@
 "Day4_Ramadan",
 "discount-20-to-30"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Mela B3 Dark Spot Serum with Melasyl™ + Niacinamide",
@@ -50974,7 +50912,7 @@
 "cleansing gel",
 "Day4_Ramadan"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Anthelios Xl Dry Touch Gel-Cream Spf50+ Non-Perfumed Facial Sunscreen",
@@ -51254,7 +51192,7 @@
 "Day13_ramadan",
 "discount-20-to-30"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Effaclar Acne Foaming Cleansing Gel for Oily and Acne Prone Skin",
@@ -51394,7 +51332,7 @@
 "Face Care",
 "Kiehl Sampling Campaign"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Hydraphase HA Rich Moisturiser for Sensitive Skin",
@@ -52098,8 +52036,8 @@
 {
 "t": "Vitamin Barrier Cream",
 "u": "https://looliacloset.com/products/vitamin-barrier-cream-1-94oz-50ml-55g",
-"p": 4.66,
-"c": 5.83,
+"p": 5.83,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Mustela_Vitamin_Barrier_Cream.jpg?v=1758546208&width=400",
 "type": "Cream",
@@ -56928,8 +56866,8 @@
 {
 "t": "Volumizing Tinted Brow Gel",
 "u": "https://looliacloset.com/products/volumizing-tinted-brow-gel",
-"p": 27.42,
-"c": 34.27,
+"p": 34.27,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/ABH_2025_VTBG_STD_Allure-Badge_Soft-Brown.webp?v=1761740672&width=400",
 "type": "Brow Gel",
@@ -56948,8 +56886,8 @@
 {
 "t": "* Mini Sultry Kit",
 "u": "https://looliacloset.com/products/mini-sultry-kit",
-"p": 44.8,
-"c": 56.0,
+"p": 56.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/ABH_2024_Holiday-Kit_STD_Sultry-Kit_01_Hero.jpg?v=1735913547&width=400",
 "type": "Makeup Kit",
@@ -56968,8 +56906,8 @@
 {
 "t": "* Sculpted Brow & Lash Duo",
 "u": "https://looliacloset.com/products/sculpted-brow-lash-duo",
-"p": 37.2,
-"c": 46.5,
+"p": 46.5,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Sculpted_Brow_Lash_Duo.jpg?v=1735913722&width=400",
 "type": "Makeup Kit",
@@ -56988,8 +56926,8 @@
 {
 "t": "Norvina Rainbow Palette Vol. 6",
 "u": "https://looliacloset.com/products/norvina-rainbow-palette-vol-v6",
-"p": 80.11,
-"c": 100.14,
+"p": 100.14,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/NORVINA_ProPigmentPaletteVolABH_NORVINA_VOL6_STANDARD_HERO_optimized.jpg?v=1751456478&width=400",
 "type": "Eyeshadow Palette",
@@ -57008,8 +56946,8 @@
 {
 "t": "Norvina Pro Palette Vol. 5",
 "u": "https://looliacloset.com/products/norvina-pro-palette-vol-5-lilac-25-well-fg",
-"p": 80.11,
-"c": 100.14,
+"p": 100.14,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/norvinav5.jpg?v=1735913463&width=400",
 "type": "Palette",
@@ -57028,8 +56966,8 @@
 {
 "t": "Sugar Palette - Mini",
 "u": "https://looliacloset.com/products/sugar-palette-mini-fg",
-"p": 36.8,
-"c": 46.0,
+"p": 46.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Sugar_1.jpg?v=1737035926&width=400",
 "type": "Palette",
@@ -57048,8 +56986,8 @@
 {
 "t": "Spice Palette - Mini",
 "u": "https://looliacloset.com/products/spice-palette-mini-fg",
-"p": 36.8,
-"c": 46.0,
+"p": 46.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Spice_1.jpg?v=1737035924&width=400",
 "type": "Palette",
@@ -57182,6 +57120,46 @@
 "Mavala",
 "Mavala x Cetaphil",
 "Mavala | foot Cream"
+],
+"in": false
+},
+{
+"t": "Deodorizing Foot Gel",
+"u": "https://looliacloset.com/products/deodorizing-foot-gel-75ml",
+"p": 22.76,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Untitleddesign-2024-12-26T113644.872.jpg?v=1735205828&width=400",
+"type": "Foot gel",
+"tags": [
+"A8_upto40",
+"BF_2025",
+"BP_Switzerland",
+"budget10_20",
+"check-sets",
+"Eid_offer26",
+"Foot Gel",
+"Mavala"
+],
+"in": false
+},
+{
+"t": "Double-Lash",
+"u": "https://looliacloset.com/products/double-lash-10ml",
+"p": 27.75,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Untitleddesign-2024-12-26T110948.961.jpg?v=1735204208&width=400",
+"type": "Eyelash Serum",
+"tags": [
+"BF_2025",
+"BP_Switzerland",
+"budget10_20",
+"check-sets",
+"eyelash serum",
+"glow-night",
+"LASH_DAY",
+"Mavala"
 ],
 "in": false
 }

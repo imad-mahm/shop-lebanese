@@ -1,6 +1,39 @@
 [
 {
-"t": "G-legging",
+"t": "G-jacket 902",
+"u": "https://www.hashtag-lb.com/products/g-jacket-902",
+"p": 32.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/1001448054.jpg?v=1791288672&width=400",
+"type": "jacket",
+"tags": [],
+"in": true
+},
+{
+"t": "Hashtag set",
+"u": "https://www.hashtag-lb.com/products/hashtag-set",
+"p": 35.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/WhatsAppImage2026-10-06at14.56.35.jpg?v=1791288187&width=400",
+"type": "",
+"tags": [],
+"in": true
+},
+{
+"t": "G-set 2015",
+"u": "https://www.hashtag-lb.com/products/g-set-1",
+"p": 35.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/1001448087.jpg?v=1791288052&width=400",
+"type": "Set",
+"tags": [],
+"in": true
+},
+{
+"t": "G-legging 905",
 "u": "https://www.hashtag-lb.com/products/g-legging-1",
 "p": 10.0,
 "c": null,
