@@ -287,7 +287,7 @@
 "tops",
 "upperwear"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Laurie Dress - Red",
@@ -796,7 +796,7 @@
 "in": true
 },
 {
-"t": "Gem Crop Top - Stripes Green & Pink",
+"t": "Gem Crop Top - Stripes Pink Green",
 "u": "https://www.jujule-lemonie.com/products/gem-crop-top-stripes-green",
 "p": 95.0,
 "c": null,
@@ -1068,23 +1068,6 @@
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0620/6980/1212/files/JujuleOasisJacket-BrownFront.jpg?v=1788851095&width=400",
-"type": "",
-"tags": [
-"echoes",
-"jacket",
-"outerwear",
-"Scuba",
-"winter"
-],
-"in": true
-},
-{
-"t": "Blue Moon Jacket - Blue",
-"u": "https://www.jujule-lemonie.com/products/blue-moon-jacket-blue",
-"p": 245.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0620/6980/1212/files/BlueMoon-NavyBlueFront.jpg?v=1788849393&width=400",
 "type": "",
 "tags": [
 "echoes",
@@ -1846,7 +1829,7 @@
 "in": true
 },
 {
-"t": "Sunshine Set - Pink",
+"t": "Sunshine Set - Stripes Pink Orange",
 "u": "https://www.jujule-lemonie.com/products/sunshine-set-pink",
 "p": 225.0,
 "c": null,
@@ -3918,7 +3901,7 @@
 "in": true
 },
 {
-"t": "Nocturne Satin Skirt",
+"t": "Nocturne Satin Skirt - Navy Blue",
 "u": "https://www.jujule-lemonie.com/products/nocturne-satin-skirt",
 "p": 145.0,
 "c": null,
@@ -3992,7 +3975,7 @@
 "Scuba",
 "winter"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Jujule Oasis Jacket - Light Pink",
@@ -4042,7 +4025,7 @@
 "Scuba",
 "winter"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Plume Scarf - Mustard",
@@ -5170,7 +5153,7 @@
 "in": true
 },
 {
-"t": "Sunshine Chemise",
+"t": "Sunshine Chemise - Yellow",
 "u": "https://www.jujule-lemonie.com/products/sunshine-chemise",
 "p": 125.0,
 "c": null,
@@ -9324,7 +9307,7 @@
 "in": true
 },
 {
-"t": "Windy Skirt - Bird of paradise",
+"t": "Windy Skirt - Bird of Paradise",
 "u": "https://www.jujule-lemonie.com/products/windy-skirt-tropical",
 "p": 165.0,
 "c": null,
