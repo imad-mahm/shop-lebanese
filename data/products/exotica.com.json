@@ -81,7 +81,7 @@
 {
 "t": "New Beginnings",
 "u": "https://exotica.com/products/new-beginnings",
-"p": 106.0,
+"p": 116.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/New_Beginnings.png?v=1780650583&width=400",
@@ -94,7 +94,7 @@
 {
 "t": "Super Dad",
 "u": "https://exotica.com/products/super-dad",
-"p": 106.0,
+"p": 114.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Super_Dad.png?v=1780651937&width=400",
@@ -281,7 +281,7 @@
 {
 "t": "Vintage Appreciation",
 "u": "https://exotica.com/products/vintage-appreciation",
-"p": 101.0,
+"p": 118.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Vintage_Appreciation.jpg?v=1780659696&width=400",
@@ -302,7 +302,7 @@
 "p": 30.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Aucklandroundcreamxs.jpg?v=1763369238&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Auckland_Round_S.jpg?v=1791371484&width=400",
 "type": "Pots & Vases",
 "tags": [],
 "in": true
@@ -313,7 +313,7 @@
 "p": 388.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Pot-Square-Fiberstone-Jumbo.jpg?v=1735638020&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Pot_Square_Fiberstone_Jumbo.jpg?v=1791367466&width=400",
 "type": "Pots & Vases",
 "tags": [],
 "in": true
@@ -324,7 +324,7 @@
 "p": 72.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Pot-Cylinder-Fiberstone-Giant-Dark-Grey.jpg?v=1735638035&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Pot_Cylinder_Fiberstone_Giant_S.jpg?v=1791357449&width=400",
 "type": "Pots & Vases",
 "tags": [],
 "in": true
@@ -421,7 +421,7 @@
 {
 "t": "Honey Glow",
 "u": "https://exotica.com/products/honey-glow",
-"p": 70.0,
+"p": 72.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Honeyed_Glow_-_Flower_with_honey.jpg?v=1789547822&width=400",
@@ -432,7 +432,7 @@
 {
 "t": "Violet Aura",
 "u": "https://exotica.com/products/violet-aura",
-"p": 155.0,
+"p": 138.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/VioletAura.png?v=1789625123&width=400",
@@ -459,7 +459,7 @@
 {
 "t": "Autumn Breeze",
 "u": "https://exotica.com/products/autumn-breeze-1",
-"p": 160.0,
+"p": 140.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Autumn_Breeze_2.png?v=1789555758&width=400",
@@ -512,7 +512,7 @@
 {
 "t": "Velvet Bloom",
 "u": "https://exotica.com/products/velvet-bloom",
-"p": 210.0,
+"p": 172.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Velvet_Bloom_-_Flower_Autumn_Arrangement.jpg?v=1789547901&width=400",
@@ -529,7 +529,7 @@
 {
 "t": "Amber Glow",
 "u": "https://exotica.com/products/amber-glow",
-"p": 97.0,
+"p": 71.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Amber_Glow_-_Fall_Flower_with_biscotti.jpg?v=1789546595&width=400",
@@ -541,7 +541,7 @@
 "Mixed Flowers",
 "Orange"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Autumn Centerpiece",
@@ -582,7 +582,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/R_colte_d_Automne_-_Fall_Flower.jpg?v=1789546267&width=400",
 "type": "Flowers",
 "tags": [
-"Pink"
+"Pink",
+"Pink October"
 ],
 "in": true
 },
@@ -623,7 +624,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Cookie_Bloom_-_Fall_Flower_with_cookies_1.jpg?v=1789547018&width=400",
 "type": "Flowers",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Colours of Fall",
@@ -650,7 +651,7 @@
 {
 "t": "Pumpkins & Petals",
 "u": "https://exotica.com/products/pumpkins-petals",
-"p": 175.0,
+"p": 174.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Pumpkin_Petals_Fall_Flower_Arrangement.png?v=1789544778&width=400",
@@ -718,7 +719,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Fall_in_Love_1.jpg?v=1791283866&width=400",
 "type": "Flowers",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Harvest Festival",
@@ -756,7 +757,7 @@
 {
 "t": "Sagittarius Celebrations",
 "u": "https://exotica.com/products/sagittarius-celebrations",
-"p": 102.0,
+"p": 101.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Sagittarius__Celebrations.jpg?v=1791283160&width=400",
@@ -767,7 +768,7 @@
 {
 "t": "Cozy Box",
 "u": "https://exotica.com/products/cozy-box",
-"p": 145.0,
+"p": 134.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Cozy_Box.jpg?v=1791283564&width=400",
@@ -921,7 +922,7 @@
 {
 "t": "Think Pink",
 "u": "https://exotica.com/products/think-pink",
-"p": 225.0,
+"p": 224.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/26_f23bfd4f-0c03-4252-bb1f-dd1c3f3274c4.jpg?v=1773125507&width=400",
@@ -1162,7 +1163,7 @@
 {
 "t": "Matcha Buttercream",
 "u": "https://exotica.com/products/matcha-buttercream",
-"p": 101.0,
+"p": 105.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/MatchaButtercream.jpg?v=1749646973&width=400",
@@ -1173,7 +1174,7 @@
 {
 "t": "Tropic Escape",
 "u": "https://exotica.com/products/tropic-escape",
-"p": 131.0,
+"p": 139.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/TropicEscape.jpg?v=1749648485&width=400",
@@ -1184,7 +1185,7 @@
 {
 "t": "Berry Blush",
 "u": "https://exotica.com/products/berry-blush",
-"p": 93.0,
+"p": 95.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/BerryBlush.jpg?v=1753950405&width=400",
@@ -1292,13 +1293,13 @@
 {
 "t": "Custom Order",
 "u": "https://exotica.com/products/custom-order-2",
-"p": 99.0,
+"p": 80.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/0000_produced_at_exotica.jpg?v=1744022321&width=400",
 "type": "",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Balloons",
@@ -1395,7 +1396,7 @@
 {
 "t": "Little Prince",
 "u": "https://exotica.com/products/little-prince",
-"p": 89.0,
+"p": 97.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Little_Prince.jpg?v=1781167149&width=400",
@@ -1435,7 +1436,7 @@
 {
 "t": "Tiny Dreams",
 "u": "https://exotica.com/products/tiny-dreams",
-"p": 140.0,
+"p": 136.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/New_Baby_Boy_Arrangement.png?v=1790749971&width=400",
@@ -1453,7 +1454,7 @@
 {
 "t": "Little Princess",
 "u": "https://exotica.com/products/little-princess",
-"p": 86.0,
+"p": 96.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Little_Princess.jpg?v=1786701316&width=400",
@@ -1473,7 +1474,7 @@
 {
 "t": "Soon to Be Mrs.",
 "u": "https://exotica.com/products/soon-to-be-mrs",
-"p": 89.0,
+"p": 104.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Soon_to_Be_Mrs..jpg?v=1781094357&width=400",
@@ -1489,7 +1490,7 @@
 {
 "t": "Little Miracle",
 "u": "https://exotica.com/products/little-miracle",
-"p": 136.0,
+"p": 157.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Little_Miracle.jpg?v=1781094097&width=400",
@@ -1507,7 +1508,7 @@
 {
 "t": "Birthday Bliss",
 "u": "https://exotica.com/products/birthday-bliss",
-"p": 95.0,
+"p": 93.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Birthday_Bliss.jpg?v=1781093851&width=400",
@@ -1527,7 +1528,7 @@
 {
 "t": "Love in Full Bloom",
 "u": "https://exotica.com/products/love-in-full-bloom",
-"p": 123.0,
+"p": 141.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/LoveinFullBloom.png?v=1781096176&width=400",
@@ -1547,7 +1548,7 @@
 {
 "t": "Blush and Comfort",
 "u": "https://exotica.com/products/blush-and-comfort",
-"p": 139.0,
+"p": 142.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Blush_and_comfort.jpg?v=1781084277&width=400",
@@ -1573,7 +1574,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Bold_distinction.jpg?v=1780664637&width=400",
 "type": "Flowers",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Rays of Success",
@@ -1589,7 +1590,7 @@
 {
 "t": "Lemon Blossom",
 "u": "https://exotica.com/products/lemon-blossom",
-"p": 117.0,
+"p": 125.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Lemon_Blossom.jpg?v=1780654528&width=400",
@@ -1604,7 +1605,7 @@
 {
 "t": "Into the Spotlight",
 "u": "https://exotica.com/products/into-the-spotlight",
-"p": 124.0,
+"p": 139.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Into_the_Spotlight.png?v=1780652573&width=400",
@@ -1615,7 +1616,7 @@
 {
 "t": "Summer's Glow",
 "u": "https://exotica.com/products/summers-glow",
-"p": 145.0,
+"p": 162.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Graduate_s_Glow.jpg?v=1780662388&width=400",
@@ -1626,7 +1627,7 @@
 {
 "t": "Bold & Brilliant",
 "u": "https://exotica.com/products/bold-brilliant",
-"p": 260.0,
+"p": 315.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Bold_Brilliant.jpg?v=1780662152&width=400",
@@ -1642,7 +1643,7 @@
 {
 "t": "Vibrant Legacy",
 "u": "https://exotica.com/products/vibrant-legacy",
-"p": 205.0,
+"p": 224.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/VibrantLegacy.png?v=1780992734&width=400",
@@ -1678,7 +1679,7 @@
 {
 "t": "Sunlit Cheers",
 "u": "https://exotica.com/products/sunlit-cheers",
-"p": 120.0,
+"p": 127.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Sunlit_Cheers.jpg?v=1780653072&width=400",
@@ -1697,7 +1698,7 @@
 {
 "t": "Forever Grateful",
 "u": "https://exotica.com/products/forever-grateful",
-"p": 108.0,
+"p": 122.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Forever_Grateful.jpg?v=1780652980&width=400",
@@ -1713,7 +1714,7 @@
 {
 "t": "Purple Honors",
 "u": "https://exotica.com/products/purple-honors",
-"p": 143.0,
+"p": 148.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Purple_Honors.jpg?v=1780655535&width=400",
@@ -1731,17 +1732,6 @@
 "type": "Add-Ons",
 "tags": [],
 "in": true
-},
-{
-"t": "Souchet Small Box",
-"u": "https://exotica.com/products/souchet-small-box",
-"p": 13.5,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Souchet_Small_Box..jpg?v=1778482578&width=400",
-"type": "Add-Ons",
-"tags": [],
-"in": false
 },
 {
 "t": "Sablés Gourmets Mini Box",
@@ -1861,7 +1851,7 @@
 {
 "t": "Honey, Honey",
 "u": "https://exotica.com/products/honey-honey",
-"p": 77.0,
+"p": 78.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Honey_Honey.jpg?v=1777297115&width=400",
@@ -1881,7 +1871,7 @@
 {
 "t": "Passionate  Love",
 "u": "https://exotica.com/products/passionate-love",
-"p": 101.0,
+"p": 104.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/FRA04810_b0817a25-1b93-4b16-a044-ef7a68ad96de.jpg?v=1777273108&width=400",
@@ -1901,7 +1891,7 @@
 {
 "t": "Enchanted Blush",
 "u": "https://exotica.com/products/enchanted-blush",
-"p": 187.0,
+"p": 190.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Enchanted_Blush.jpg?v=1777291385&width=400",
@@ -1936,12 +1926,12 @@
 "For Teta",
 "Get Well Soon"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Bees & Sweets",
 "u": "https://exotica.com/products/bees-sweets",
-"p": 127.0,
+"p": 128.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Bees_sweets_W_o_sable.jpg?v=1778053041&width=400",
@@ -2008,7 +1998,7 @@
 "p": 57.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/0001_colorfulbegonia.jpg?v=1745835634&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Colorful_Begonias.jpg?v=1791356151&width=400",
 "type": "",
 "tags": [
 "Birthdays",
@@ -2083,26 +2073,6 @@
 "in": false
 },
 {
-"t": "Marzipan Love",
-"u": "https://exotica.com/products/marzipan-love",
-"p": 112.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/43.jpg?v=1773126512&width=400",
-"type": "Flowers",
-"tags": [
-"Birthdays",
-"Congratulations",
-"For Friends",
-"For Her",
-"For Mom",
-"For Teta",
-"Mixed Colors",
-"Mixed Flowers"
-],
-"in": false
-},
-{
 "t": "Leafy Charm",
 "u": "https://exotica.com/products/leafy-charm",
 "p": 80.0,
@@ -2145,7 +2115,7 @@
 {
 "t": "Rose Prestige",
 "u": "https://exotica.com/products/rose-prestige",
-"p": 127.0,
+"p": 104.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Rose_Prestige.jpg?v=1775728075&width=400",
@@ -2165,7 +2135,7 @@
 {
 "t": "Vanilla Roses",
 "u": "https://exotica.com/products/vanilla-rose",
-"p": 127.0,
+"p": 104.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Vanilla_Rose.jpg?v=1775722997&width=400",
@@ -2205,7 +2175,7 @@
 {
 "t": "Petal Pops",
 "u": "https://exotica.com/products/petal-pops",
-"p": 125.0,
+"p": 126.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/ChatGPT_Image_Apr_8_2026_03_24_12_PM.png?v=1775651077&width=400",
@@ -2225,7 +2195,7 @@
 {
 "t": "Strawberry Sunset",
 "u": "https://exotica.com/products/strawberry-sunset",
-"p": 105.0,
+"p": 137.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Strawberry_Sunset_wo_lakrids.png?v=1782222879&width=400",
@@ -2236,7 +2206,7 @@
 {
 "t": "Spring Symphony",
 "u": "https://exotica.com/products/spring-symphony",
-"p": 177.0,
+"p": 178.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/0001__0004_341970.jpg?v=1745490359&width=400",
@@ -2291,7 +2261,7 @@
 {
 "t": "Pearls Of Pink",
 "u": "https://exotica.com/products/pearls-of-pink",
-"p": 130.0,
+"p": 92.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Pearls-of-Pink.jpg?v=1735638095&width=400",
@@ -2463,20 +2433,9 @@
 "in": true
 },
 {
-"t": "Cookies & Cream",
-"u": "https://exotica.com/products/cookies-cream",
-"p": 181.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/30_7199b18d-7421-4b89-ab8f-777cdfa89871.jpg?v=1773131540&width=400",
-"type": "Flowers",
-"tags": [],
-"in": false
-},
-{
 "t": "Blossoms of Spring",
 "u": "https://exotica.com/products/blossoms-of-spring",
-"p": 158.0,
+"p": 163.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/7_bcb85397-2024-4d20-bac2-0cb2c25eef53.jpg?v=1773129757&width=400",
@@ -2522,7 +2481,7 @@
 "Mixed Colors",
 "Mixed Flowers"
 ],
-"in": true
+"in": false
 },
 {
 "t": "S-Shape Elm Bonsai",
@@ -2547,7 +2506,7 @@
 {
 "t": "Ficus Grandeur",
 "u": "https://exotica.com/products/ficus-grandeur",
-"p": 709.0,
+"p": 730.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Green_Haven.jpg?v=1791263071&width=400",
@@ -2610,7 +2569,7 @@
 "p": 220.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/5_edae1bfe-dcba-4d26-bbaf-c593dee5ab04.jpg?v=1776317636&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Artificial_Dracaena_Reflexa.jpg?v=1791354174&width=400",
 "type": "Artificial",
 "tags": [],
 "in": true
@@ -2621,7 +2580,7 @@
 "p": 53.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/E13385062540AE6739B299DD3DC0E30EAF04B3BE.jpg?v=1772195803&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Artificial_Hanging_Bush.jpg?v=1791354909&width=400",
 "type": "Artificial",
 "tags": [],
 "in": true
@@ -2632,7 +2591,7 @@
 "p": 365.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/2_d86edf34-ca51-41a9-b67b-1cca4c3a523a.jpg?v=1776317609&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Artificial_Ficus_Vine_Tree.jpg?v=1791354211&width=400",
 "type": "Artificial",
 "tags": [],
 "in": true
@@ -2665,7 +2624,7 @@
 "p": 255.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/3_3ec4eba9-8d33-453e-ae65-c5b8a02733ca.jpg?v=1776317473&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Artificial_Olive_Tree_S.jpg?v=1791354015&width=400",
 "type": "Artificial",
 "tags": [],
 "in": true
@@ -2687,7 +2646,7 @@
 "p": 290.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/101.12.jpg?v=1735637913&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Artificial_Bamboo_S.jpg?v=1791354799&width=400",
 "type": "Artificial",
 "tags": [],
 "in": true
@@ -2698,7 +2657,7 @@
 "p": 190.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/ArtificialAreca.jpg?v=1735638001&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Artificial_Areca_1.jpg?v=1791354998&width=400",
 "type": "Artificial",
 "tags": [],
 "in": true
@@ -2754,7 +2713,7 @@
 "p": 107.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/optistar-spears.jpg?v=1744034678&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Optistar_Spears.jpg?v=1791356210&width=400",
 "type": "Plants",
 "tags": [
 "Birthdays",
@@ -2772,7 +2731,7 @@
 "p": 244.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/elite-love_30ede75e-a81d-4cde-b410-fb981a5913bc.jpg?v=1746442230&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Elite_Love.jpg?v=1791356304&width=400",
 "type": "Plants",
 "tags": [
 "Birthdays",
@@ -2789,7 +2748,7 @@
 {
 "t": "Purple Radiance",
 "u": "https://exotica.com/products/purple-radiance",
-"p": 93.0,
+"p": 85.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/0000_ColorRadiance.jpg?v=1743590967&width=400",
@@ -2993,7 +2952,7 @@
 {
 "t": "Make a Wish!",
 "u": "https://exotica.com/products/make-a-wish",
-"p": 93.0,
+"p": 96.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/shopifyproductbg_0000_1822-Pastel-Happy-Birthday-Helium-Balloon_jpg.jpg?v=1770024291&width=400",
@@ -3013,7 +2972,7 @@
 {
 "t": "Vibrant Rose Box",
 "u": "https://exotica.com/products/vibrant-rose-box",
-"p": 151.0,
+"p": 105.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Vibrant_Rose_Box.png?v=1780386710&width=400",
@@ -3061,7 +3020,7 @@
 {
 "t": "Rooted Love",
 "u": "https://exotica.com/products/rooted-love",
-"p": 125.0,
+"p": 145.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/RootedLove.jpg?v=1791196487&width=400",
@@ -3191,7 +3150,7 @@
 {
 "t": "Pink Hues",
 "u": "https://exotica.com/products/pink-hues",
-"p": 101.0,
+"p": 71.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/0002_FRA09348.jpg?v=1767798887&width=400",
@@ -3225,7 +3184,7 @@
 "p": 329.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/White-Nobile.jpg?v=1735638056&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/White_Nobile.jpg?v=1791355770&width=400",
 "type": "Plants",
 "tags": [
 "Birthdays",
@@ -3286,7 +3245,7 @@
 "p": 90.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/nature-lovers1.jpg?v=1735637878&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Nature_Lovers.jpg?v=1791356071&width=400",
 "type": "Plants",
 "tags": [
 "Birthdays",
@@ -3335,7 +3294,7 @@
 "p": 114.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/red-lion_ccff4522-15df-478e-b444-a74df4d6c7fd.jpg?v=1735638074&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Red_Lion.jpg?v=1791356257&width=400",
 "type": "Plants",
 "tags": [
 "For Her",
@@ -3451,7 +3410,7 @@
 "p": 135.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/phalaenopsis-boquetto.jpg?v=1747735927&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Phalaenopsis_Boquetto.jpg?v=1791356478&width=400",
 "type": "Plants",
 "tags": [
 "Birthdays",
@@ -3466,7 +3425,7 @@
 "p": 276.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/E18236AA-3853-4229-8E96-C0DE07FCCCCA.png?v=1773866077&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Blushing_Orchid.jpg?v=1791356363&width=400",
 "type": "Plants",
 "tags": [
 "Birthdays",
@@ -3525,7 +3484,7 @@
 "p": 30.0,
 "c": 52.0,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/0024_ColorBalance6.jpg?v=1763628224&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Seagrass_Weave_Tapered_Planter_Duo.jpg?v=1791381119&width=400",
 "type": "",
 "tags": [],
 "in": true
@@ -3536,7 +3495,7 @@
 "p": 60.0,
 "c": 98.0,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/vasefaceglassfrosted30101004271_afc72ac5-40d2-4a09-b9d1-f33fcc1f4d09.jpg?v=1763966167&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Dual_Serenity_Face_Vase_Set.jpg?v=1791382634&width=400",
 "type": "Pots & Vases",
 "tags": [],
 "in": true
@@ -3558,7 +3517,7 @@
 "p": 54.0,
 "c": 83.0,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/0024895.jpg?v=1763732685&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Frosted_Linework_Ceramic_Vase.jpg?v=1791382578&width=400",
 "type": "Pots & Vases",
 "tags": [],
 "in": true
@@ -3569,7 +3528,7 @@
 "p": 23.0,
 "c": 45.0,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/0015_Layer9.jpg?v=1763622098&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Woven_Coastal_Textured_Basket_-S.jpg?v=1791382126&width=400",
 "type": "Pots & Vases",
 "tags": [],
 "in": true
@@ -3580,7 +3539,7 @@
 "p": 31.0,
 "c": 31.0,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/0001__0014_Layer_7_copy_2.jpg?v=1763707767&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Woven_Coastal_Textured_Basket__M.jpg?v=1791382252&width=400",
 "type": "Pots & Vases",
 "tags": [],
 "in": true
@@ -3591,7 +3550,7 @@
 "p": 68.0,
 "c": 135.0,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/0013_Layer8copy.jpg?v=1763620824&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Two-Tone_Woven_Basket_S.jpg?v=1791358071&width=400",
 "type": "Pots & Vases",
 "tags": [],
 "in": true
@@ -3602,7 +3561,7 @@
 "p": 75.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/0005_Brightness_Contrast_1.jpg?v=1763708966&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/White_Planter_on_Gold_Stand.jpg?v=1791373239&width=400",
 "type": "Pots & Vases",
 "tags": [],
 "in": true
@@ -3613,7 +3572,7 @@
 "p": 33.0,
 "c": 53.0,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Black_GoldModernStandPlanter.jpg?v=1763635929&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Black_Gold_Modern_Stand_Planter.jpg?v=1791380964&width=400",
 "type": "Pots & Vases",
 "tags": [],
 "in": true
@@ -3624,7 +3583,7 @@
 "p": 19.0,
 "c": 18.0,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/0005_ColorBalance6.jpg?v=1763638965&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Indigo_Stitch_Ceramic_Planter.jpg?v=1791381049&width=400",
 "type": "Pots & Vases",
 "tags": [],
 "in": true
@@ -3635,7 +3594,7 @@
 "p": 22.0,
 "c": 39.0,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/0019_Layer13.jpg?v=1763626524&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Sunburst_Textured_Terracotta_Pot.jpg?v=1791381285&width=400",
 "type": "Pots & Vases",
 "tags": [],
 "in": true
@@ -3646,7 +3605,7 @@
 "p": 55.0,
 "c": 50.0,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/SandstoneSelf-WateringTwo-TonePlanter.jpg?v=1763635340&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Sandstone_Self-Watering_Duo-Tone_Planter.jpg?v=1791380757&width=400",
 "type": "Pots & Vases",
 "tags": [],
 "in": true
@@ -3690,7 +3649,7 @@
 "p": 27.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Logan_round_dark_gray_xs.jpg?v=1763385880&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Dark_Grey_Cement_Pot_XS.jpg?v=1791370844&width=400",
 "type": "Pots & Vases",
 "tags": [],
 "in": true
@@ -3701,7 +3660,7 @@
 "p": 155.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Cleveland_rect_gray_s_c51f2d9d-caf4-4117-9bc7-dfce73cb827b.jpg?v=1763042669&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Rectangular_Cement_Pot_-_Grey_M.jpg?v=1791375492&width=400",
 "type": "Pots & Vases",
 "tags": [],
 "in": true
@@ -3712,7 +3671,7 @@
 "p": 27.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Logan_round_light_gray_xs.jpg?v=1763043230&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Round_Textured_Cement_Planter_-_Grey_XS.jpg?v=1791373640&width=400",
 "type": "Pots & Vases",
 "tags": [],
 "in": true
@@ -3723,7 +3682,7 @@
 "p": 27.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Logan_round_brown_xs.jpg?v=1763044168&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Round_Textured_Cement_Planter_Brown_XS.jpg?v=1791365031&width=400",
 "type": "Pots & Vases",
 "tags": [],
 "in": true
@@ -3734,7 +3693,7 @@
 "p": 140.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Logan_rect_light_gray_s.jpg?v=1763044878&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Rectangular_Planter_Pot_-_Light_Grey_M.jpg?v=1791380103&width=400",
 "type": "Pots & Vases",
 "tags": [],
 "in": true
@@ -3745,7 +3704,7 @@
 "p": 140.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Logan_rect_light_brown_s.jpg?v=1763044978&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Rectangular_Planter_Pot_-_Light_Brown_M.jpg?v=1791380491&width=400",
 "type": "Pots & Vases",
 "tags": [],
 "in": true
@@ -3756,7 +3715,7 @@
 "p": 24.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Cleveland_round_gray_xs.jpg?v=1763041889&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Grey_Cement_Pot_XS.jpg?v=1791366996&width=400",
 "type": "Pots & Vases",
 "tags": [],
 "in": true
@@ -3767,7 +3726,7 @@
 "p": 155.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Cleveland_rect_blacks.jpg?v=1763035070&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Rectangular_Cement_Pot_-Black_M.jpg?v=1791374170&width=400",
 "type": "Pots & Vases",
 "tags": [],
 "in": true
@@ -3778,7 +3737,7 @@
 "p": 24.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Cleveland_black_xs.jpg?v=1763383623&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Black_Cement_Pot_XS.jpg?v=1791374734&width=400",
 "type": "Pots & Vases",
 "tags": [],
 "in": true
@@ -3789,7 +3748,7 @@
 "p": 28.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/AucklandConicalBrownxs_a111f474-674f-4f83-8569-f38ad942f3dd.jpg?v=1763368389&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Clay_Conical_Pot_Beige_xs.jpg?v=1791358588&width=400",
 "type": "Pots & Vases",
 "tags": [],
 "in": true
@@ -3854,7 +3813,7 @@
 {
 "t": "Roses Celebration",
 "u": "https://exotica.com/products/roses-celebration",
-"p": 307.0,
+"p": 215.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/0014_Layer1.jpg?v=1769586308&width=400",
@@ -3904,7 +3863,7 @@
 {
 "t": "Inner Peace",
 "u": "https://exotica.com/products/inner-peace",
-"p": 55.0,
+"p": 44.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/inner-peace.jpg?v=1735638188&width=400",
@@ -4008,7 +3967,7 @@
 {
 "t": "Serene Clouds",
 "u": "https://exotica.com/products/serene-clouds",
-"p": 115.0,
+"p": 116.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/0013_SereneClouds.jpg?v=1758530858&width=400",
@@ -4031,7 +3990,7 @@
 "p": 30.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/0004_GreenReverie.jpg?v=1758530246&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Green_Reverie.jpg?v=1791356539&width=400",
 "type": "Plants",
 "tags": [],
 "in": false
@@ -4099,7 +4058,7 @@
 {
 "t": "Magic Roses",
 "u": "https://exotica.com/products/magic-roses",
-"p": 733.0,
+"p": 537.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/magic-roses.jpg?v=1735637868&width=400",
@@ -4118,7 +4077,7 @@
 {
 "t": "Petal Poise",
 "u": "https://exotica.com/products/petal-poise",
-"p": 614.0,
+"p": 450.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/sweet-romance_9ee10b2e-dfd8-4493-b582-628efbd403f1.jpg?v=1735637867&width=400",
@@ -4138,7 +4097,7 @@
 {
 "t": "Garden Whispers",
 "u": "https://exotica.com/products/garden-whispers",
-"p": 152.0,
+"p": 155.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Garden-Whispers_05ad0718-8316-4a04-a55a-d4c39c4c5696.jpg?v=1735638144&width=400",
@@ -4158,7 +4117,7 @@
 {
 "t": "Pink Perfection",
 "u": "https://exotica.com/products/pink-perfection",
-"p": 75.0,
+"p": 53.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/pink-perfection.jpg?v=1735637866&width=400",
@@ -4178,7 +4137,7 @@
 {
 "t": "Pink Bliss",
 "u": "https://exotica.com/products/pink-bliss",
-"p": 337.0,
+"p": 230.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/PinkBliss.jpg?v=1758538587&width=400",
@@ -4198,7 +4157,7 @@
 {
 "t": "Only Roses",
 "u": "https://exotica.com/products/pink-at-heart",
-"p": 390.0,
+"p": 250.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Only-Roses_027b7dca-4572-4858-a975-ddd51b2a79cd.jpg?v=1735638150&width=400",
@@ -4218,7 +4177,7 @@
 {
 "t": "Cascading Roses",
 "u": "https://exotica.com/products/cascading-roses",
-"p": 410.0,
+"p": 297.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Cascading-Roses_b13c9739-8731-489f-9e8b-f308eb245cdf.jpg?v=1766488085&width=400",
@@ -4238,7 +4197,7 @@
 {
 "t": "Splendid Roses",
 "u": "https://exotica.com/products/splendid-roses",
-"p": 258.0,
+"p": 162.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Splended-Roses_771aa16d-58d2-4446-959c-36053aee482a.jpg?v=1735638170&width=400",
@@ -4256,7 +4215,7 @@
 {
 "t": "I'm Blushing",
 "u": "https://exotica.com/products/im-blushing",
-"p": 156.0,
+"p": 102.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/i_m-blushing_91bc22b3-9ca3-49b0-af34-f5d105639dc5.jpg?v=1735638153&width=400",
@@ -4276,7 +4235,7 @@
 {
 "t": "Barbie World",
 "u": "https://exotica.com/products/barbie-world",
-"p": 157.0,
+"p": 127.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Barbie_World_Pink.jpg?v=1758538325&width=400",
@@ -4296,7 +4255,7 @@
 {
 "t": "Colourful Sprinkles",
 "u": "https://exotica.com/products/colourful-sprinkles",
-"p": 124.0,
+"p": 125.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/2_1a98c1f9-e014-4569-87d4-c292d025aafb.jpg?v=1752752661&width=400",
@@ -4314,7 +4273,7 @@
 {
 "t": "Rush of Feelings",
 "u": "https://exotica.com/products/rush-of-feelings",
-"p": 582.0,
+"p": 560.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/rush-of-feelings_2.jpg?v=1735638173&width=400",
@@ -4334,7 +4293,7 @@
 {
 "t": "Colorful Dreams",
 "u": "https://exotica.com/products/colorful-dreams",
-"p": 215.0,
+"p": 145.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/colorful-dreams_e87fa10a-49a8-42c6-8583-47ec66a505d7.jpg?v=1735638159&width=400",
@@ -4374,18 +4333,18 @@
 {
 "t": "Floral Cheers",
 "u": "https://exotica.com/products/floral-cheers",
-"p": 124.0,
+"p": 125.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/FloralCheers.jpg?v=1753952154&width=400",
 "type": "Flowers",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Pink Celebration",
 "u": "https://exotica.com/products/pink-celebration",
-"p": 89.0,
+"p": 91.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Pink_celebration_wo_bottle.png?v=1787054487&width=400",
@@ -4508,21 +4467,10 @@
 "p": 35.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/PotIpalaRoundClay.jpg?v=1749023449&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Pot_Ipala_Round_Clay_White.jpg?v=1791357771&width=400",
 "type": "Pots & Vases",
 "tags": [],
 "in": true
-},
-{
-"t": "Pot Romeo Conical Ceramic White",
-"u": "https://exotica.com/products/pot-romeo-conical-ceramic-white",
-"p": 38.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/PotRomeroWhite.jpg?v=1749023800&width=400",
-"type": "Pots & Vases",
-"tags": [],
-"in": false
 },
 {
 "t": "Pot Tunis Conical Terracotta Blue",
@@ -4530,7 +4478,7 @@
 "p": 40.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/PotTunisTerracottaBlue.jpg?v=1749030025&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Pot_Tunis_Conical_Terracotta_Blue.jpg?v=1791369087&width=400",
 "type": "Pots & Vases",
 "tags": [],
 "in": true
@@ -4541,7 +4489,7 @@
 "p": 38.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/BowlBravoRoundS.jpg?v=1749025416&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Bowl_Bravo_Round_Plastic_Grey_S.jpg?v=1791375042&width=400",
 "type": "Pots & Vases",
 "tags": [],
 "in": true
@@ -4607,7 +4555,7 @@
 {
 "t": "Sunset Dust",
 "u": "https://exotica.com/products/sunset-dust",
-"p": 99.0,
+"p": 103.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/SunsetDust.jpg?v=1748870657&width=400",
@@ -4704,7 +4652,7 @@
 "p": 84.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/mini-orchid-2.jpg?v=1735637880&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Mini_Orchid.jpg?v=1791355958&width=400",
 "type": "Plants",
 "tags": [
 "For Colleagues",
@@ -4724,7 +4672,7 @@
 "p": 272.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/little-orchids_4632823c-018f-4ca3-ab5a-c3358df82f25.jpg?v=1735638075&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Little_Orchids.jpg?v=1791355900&width=400",
 "type": "Plants",
 "tags": [
 "Birthdays",
@@ -4868,7 +4816,7 @@
 {
 "t": "Golden Rays",
 "u": "https://exotica.com/products/golden-rays",
-"p": 104.0,
+"p": 107.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Golden_Rays.jpg?v=1749639033&width=400",
@@ -4905,7 +4853,7 @@
 {
 "t": "The Best",
 "u": "https://exotica.com/products/the-best",
-"p": 489.0,
+"p": 499.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/The-best.jpg?v=1735638167&width=400",
@@ -4940,12 +4888,12 @@
 "For Mom",
 "For Teta"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Shades Of Passion",
 "u": "https://exotica.com/products/shades-of-passion",
-"p": 205.0,
+"p": 145.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/SHADES-OF-PASSION_68fe48b0-23d4-49bc-9b14-7b279aa4ea8b.jpg?v=1756721091&width=400",
@@ -4985,7 +4933,7 @@
 {
 "t": "Love Combination",
 "u": "https://exotica.com/products/love-combination",
-"p": 99.0,
+"p": 80.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Love-Combination.jpg?v=1746691391&width=400",
@@ -5002,7 +4950,7 @@
 {
 "t": "Soft Night",
 "u": "https://exotica.com/products/soft-night",
-"p": 99.0,
+"p": 70.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Soft_Night_Black_701c4bb7-9210-48da-9453-a6bfcb24d4b3.jpg?v=1758537187&width=400",
@@ -5208,7 +5156,7 @@
 "p": 225.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Artificial-Philodendron.jpg?v=1735637991&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Artificial_Red_Philodendron_1.jpg?v=1791352659&width=400",
 "type": "Artificial",
 "tags": [],
 "in": false
@@ -5335,7 +5283,7 @@
 {
 "t": "Hot Pink",
 "u": "https://exotica.com/products/hot-pink",
-"p": 195.0,
+"p": 125.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/hot-pink.jpg?v=1735637864&width=400",
@@ -5353,7 +5301,7 @@
 {
 "t": "White Heart",
 "u": "https://exotica.com/products/white-heart",
-"p": 390.0,
+"p": 250.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/white-heart.jpg?v=1735637865&width=400",
@@ -5373,7 +5321,7 @@
 {
 "t": "Rose Magenta",
 "u": "https://exotica.com/products/rose-magenta",
-"p": 217.0,
+"p": 153.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Rose_Magenta_Black.jpg?v=1758538987&width=400",
@@ -5537,7 +5485,8 @@
 "For Teta",
 "Green",
 "Housewarming",
-"Indoor Plants"
+"Indoor Plants",
+"preorder"
 ],
 "in": true
 },
@@ -5555,7 +5504,7 @@
 "Indoor Plants",
 "Plants"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Gentle Ficus",
@@ -5603,7 +5552,7 @@
 "p": 95.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Artificial-Zamioculcas-Small.jpg?v=1735637986&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Artificial_Zamioculcas_S_1.jpg?v=1791352495&width=400",
 "type": "Artificial",
 "tags": [],
 "in": false
@@ -5636,7 +5585,7 @@
 "p": 98.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Artificial-Orange-Tree.jpg?v=1735637994&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Artificial_Orange_Tree_1.jpg?v=1791354415&width=400",
 "type": "Artificial",
 "tags": [],
 "in": true
@@ -5647,7 +5596,7 @@
 "p": 22.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Artificial-Hanging-Grass.jpg?v=1735637996&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Artificial_Ivy_Bush.jpg?v=1791353158&width=400",
 "type": "Artificial",
 "tags": [],
 "in": true
@@ -5713,7 +5662,7 @@
 "p": 24.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Pot-Square-Fiber-Beaumont-Light-Grey.jpg?v=1735638021&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Pot_Square_Fiber_Beaumont_Light_S.jpg?v=1791368248&width=400",
 "type": "Pots & Vases",
 "tags": [],
 "in": true
@@ -5724,7 +5673,7 @@
 "p": 24.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Pot-Square-Fiber-Beaumont-Dark-Grey.jpg?v=1735638022&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Pot_Square_Fiber_Beaumont_Dark_S.jpg?v=1791368571&width=400",
 "type": "Pots & Vases",
 "tags": [],
 "in": true
@@ -5735,7 +5684,7 @@
 "p": 35.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Pot-Round-Dortmund-Cement.jpg?v=1735638032&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Pot_Round_Dortmund_Cement_S.jpg?v=1791368819&width=400",
 "type": "Pots & Vases",
 "tags": [],
 "in": true
@@ -5746,7 +5695,7 @@
 "p": 133.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Pot-Rectangular-Fiberstone.jpg?v=1735638034&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Pot_Rectangular_Fiberstone_S.jpg?v=1791370447&width=400",
 "type": "Pots & Vases",
 "tags": [],
 "in": true
@@ -5757,7 +5706,7 @@
 "p": 25.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Pot-Conical-Amarante-Terracotta.jpg?v=1735638042&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Pot_Conical_Amarante_Terracotta.jpg?v=1791369831&width=400",
 "type": "Pots & Vases",
 "tags": [],
 "in": true
@@ -5779,7 +5728,7 @@
 "p": 1554.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Pot-Bowl-Round-Fiberstone.jpg?v=1735638046&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Pot_Bowl_Round_Fiberstone.jpg?v=1791375355&width=400",
 "type": "Pots & Vases",
 "tags": [],
 "in": true
@@ -5801,7 +5750,7 @@
 "p": 271.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/the-elegant-one-2.jpg?v=1735638061&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/The_Elegant_One.jpg?v=1791355833&width=400",
 "type": "Plants",
 "tags": [
 "Birthdays",
@@ -5817,7 +5766,7 @@
 {
 "t": "3 Dozen Reds",
 "u": "https://exotica.com/products/3-dozen-reds",
-"p": 156.0,
+"p": 102.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/dress-in-red_3f59766a-38e7-4bfa-bc96-0c4fc5be68fc.jpg?v=1735638164&width=400",
@@ -5849,7 +5798,7 @@
 {
 "t": "Double Your Love",
 "u": "https://exotica.com/products/double-your-love",
-"p": 109.0,
+"p": 72.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Double-your-love.jpg?v=1735638094&width=400",
@@ -5865,7 +5814,7 @@
 {
 "t": "Tender Feeling",
 "u": "https://exotica.com/products/tender-feeling",
-"p": 150.0,
+"p": 151.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/FRA04836.jpg?v=1777277430&width=400",
@@ -5881,7 +5830,7 @@
 {
 "t": "Guardian Angel",
 "u": "https://exotica.com/products/guardian-angel",
-"p": 195.0,
+"p": 125.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/guardian-angel_a604c7be-2395-40a2-9dbc-f1856263d9ad.jpg?v=1735638100&width=400",
@@ -5897,7 +5846,7 @@
 {
 "t": "Serene Blessings",
 "u": "https://exotica.com/products/serene-blessings",
-"p": 932.0,
+"p": 933.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/SereneBlessings_77046d40-a769-4b35-b7c5-edcba96bf301.jpg?v=1735638101&width=400",
@@ -5910,7 +5859,7 @@
 {
 "t": "Healing Tears",
 "u": "https://exotica.com/products/healing-tears",
-"p": 861.0,
+"p": 871.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Healing-Tears_f4810f72-49b0-443d-91e1-d930643628cb.jpg?v=1735638103&width=400",
@@ -5934,7 +5883,7 @@
 {
 "t": "Compassionate Thoughts",
 "u": "https://exotica.com/products/compassionate-thoughts",
-"p": 367.0,
+"p": 371.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Compassionate-Thoughts_8e472d9b-0cee-44da-9bda-6b04c84faf5b.jpg?v=1735638107&width=400",
@@ -5948,7 +5897,7 @@
 {
 "t": "Count From 1 To 100",
 "u": "https://exotica.com/products/count-from-1-to-100",
-"p": 390.0,
+"p": 250.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Count-from-1-to-100.jpg?v=1735638111&width=400",
@@ -5964,7 +5913,7 @@
 {
 "t": "Classic Symbol of Love",
 "u": "https://exotica.com/products/classic-symbol-of-love",
-"p": 62.0,
+"p": 42.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Classic_symbol_of_love_12.png?v=1785480495&width=400",
@@ -5982,7 +5931,7 @@
 {
 "t": "I'm Yours",
 "u": "https://exotica.com/products/im-yours",
-"p": 125.0,
+"p": 90.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/I_mYours1.jpg?v=1758538265&width=400",
@@ -5997,19 +5946,6 @@
 "Roses"
 ],
 "in": true
-},
-{
-"t": "Embargo Añejo Esplendido Rum 70cl",
-"u": "https://exotica.com/products/embargo-anejo-esplendido-rum-70cl",
-"p": 59.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Embargo-Anejo-Esplendido-Rum.jpg?v=1735638124&width=400",
-"type": "Wine & Spirits",
-"tags": [
-"Wine & Spirits"
-],
-"in": false
 },
 {
 "t": "EL IXSIR Red Lebanon",
@@ -6092,7 +6028,7 @@
 {
 "t": "Soft Floral",
 "u": "https://exotica.com/products/soft-floral",
-"p": 732.0,
+"p": 502.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/soft-floral.jpg?v=1735638140&width=400",
@@ -6112,7 +6048,7 @@
 {
 "t": "Rose Surprise",
 "u": "https://exotica.com/products/rose-surprise",
-"p": 62.0,
+"p": 42.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Rose-Surprise.jpg?v=1735638148&width=400",
@@ -6132,7 +6068,7 @@
 {
 "t": "Rose Elegance",
 "u": "https://exotica.com/products/rose-elegance",
-"p": 118.0,
+"p": 79.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Rose-elegance_df494efe-d187-4361-93a8-e084632659fa.jpg?v=1735638149&width=400",
@@ -6152,7 +6088,7 @@
 {
 "t": "Madness Of Love",
 "u": "https://exotica.com/products/madness-of-love",
-"p": 975.0,
+"p": 625.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Madness-of-love_809e4879-942d-4716-9303-de5161428dd9.jpg?v=1735638152&width=400",
@@ -6168,7 +6104,7 @@
 {
 "t": "Hot Love",
 "u": "https://exotica.com/products/hot-love",
-"p": 319.0,
+"p": 219.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Hot-Love.jpg?v=1735638154&width=400",
@@ -6185,7 +6121,7 @@
 {
 "t": "Dress In Red",
 "u": "https://exotica.com/products/dress-in-red",
-"p": 195.0,
+"p": 125.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/3-dozen-reds_0534f050-73f6-40ef-9abc-b4e60d99f503.jpg?v=1735638156&width=400",
@@ -6217,7 +6153,7 @@
 {
 "t": "Rose Box",
 "u": "https://exotica.com/products/rose-box",
-"p": 346.0,
+"p": 234.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Rose-Box.jpg?v=1735638174&width=400",
@@ -6229,12 +6165,12 @@
 "Love & Romance",
 "Red"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Moulin Rouge",
 "u": "https://exotica.com/products/moulin-rouge",
-"p": 110.0,
+"p": 83.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Moulin_Rouge_Black.jpg?v=1770297290&width=400",
@@ -6247,12 +6183,12 @@
 "Love & Romance",
 "Red"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Ma Vie",
 "u": "https://exotica.com/products/ma-vie",
-"p": 179.0,
+"p": 114.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Ma_vie_Black.jpg?v=1759384690&width=400",
@@ -6270,7 +6206,7 @@
 {
 "t": "Joyful Box",
 "u": "https://exotica.com/products/joyful-box",
-"p": 200.0,
+"p": 159.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Joyful_Black.jpg?v=1758538723&width=400",
