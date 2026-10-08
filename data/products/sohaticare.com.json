@@ -1,5 +1,60 @@
 [
 {
+"t": "Arencia TXA Booster Shot 30ml",
+"u": "https://sohaticare.com/products/arencia-txa-booster-shot-30ml",
+"p": 24.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/TXA-Booster-Shot-30-ml-ARENCIA.jpg?v=1791360838&width=400",
+"type": "Face Serum",
+"tags": [],
+"in": true
+},
+{
+"t": "Arencia Retinal Booster Shot 30ml",
+"u": "https://sohaticare.com/products/arencia-retinal-booster-shot-30ml",
+"p": 24.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/Retinal-Booster-Shot-30ml-ARENCIA.jpg?v=1791360833&width=400",
+"type": "Face Serum",
+"tags": [],
+"in": true
+},
+{
+"t": "Arencia PDRN Booster Shot 30ml",
+"u": "https://sohaticare.com/products/arencia-pdrn-booster-shot-30ml",
+"p": 24.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/PDRN-Booster-Shot-30ml-ARENCIA.jpg?v=1791360828&width=400",
+"type": "Face Serum",
+"tags": [],
+"in": true
+},
+{
+"t": "Arencia NAD+ Booster Shot 30ml",
+"u": "https://sohaticare.com/products/arencia-nad-booster-shot-30ml",
+"p": 24.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/NAD-Booster-Shot-30-ml-ARENCIA.jpg?v=1791360823&width=400",
+"type": "Face Serum",
+"tags": [],
+"in": true
+},
+{
+"t": "Arencia Eraser Shot Glycolic Acid Booster 30ml",
+"u": "https://sohaticare.com/products/arencia-eraser-shot-glycolic-acid-booster-30ml",
+"p": 24.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/Eraser-Shot-Glycolic-Acid-Booster-30ml-ARENCIA.jpg?v=1791360817&width=400",
+"type": "Exfoliating Serum",
+"tags": [],
+"in": true
+},
+{
 "t": "Shea Body Milk Cream",
 "u": "https://sohaticare.com/products/shea-body-milk-cream-500-ml",
 "p": 5.0,
@@ -372,8 +427,8 @@
 {
 "t": "Klorane Growth Accelerating Shampoo 200ml",
 "u": "https://sohaticare.com/products/klorane-growth-accelerating-shampoo-200ml",
-"p": 10.0,
-"c": null,
+"p": 7.5,
+"c": 10.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/1_14_a4097557-021d-4d4b-9d61-2f9e39001829.png?v=1790593459&width=400",
 "type": "Shampoo",
@@ -392,8 +447,8 @@
 {
 "t": "Klorane Growth Accelerating Conditioner 200ml",
 "u": "https://sohaticare.com/products/klorane-growth-accelerating-conditioner-200ml",
-"p": 13.0,
-"c": null,
+"p": 9.75,
+"c": 13.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/1_13_4fac8574-75ad-4564-b296-fa42ac646c5a.png?v=1790593395&width=400",
 "type": "Conditioner",
@@ -412,8 +467,8 @@
 {
 "t": "Klorane Quinine Intense Growth Accelerator Serum with Adenosine 100ml",
 "u": "https://sohaticare.com/products/klorane-quinine-intense-growth-accelerator-serum-with-adenosine-100ml",
-"p": 27.99,
-"c": null,
+"p": 20.99,
+"c": 27.99,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/1_12_f9a5ffbb-d0ac-46dd-a235-c2e669c2084d.png?v=1790593300&width=400",
 "type": "Hair Serum",
@@ -843,8 +898,8 @@
 {
 "t": "Ducray Kelual DS Intensive Anti-Dandruff Treatment Shampoo 100ml",
 "u": "https://sohaticare.com/products/ducray-kelual-ds-intensive-anti-dandruff-treatment-shampoo-100ml",
-"p": 21.0,
-"c": null,
+"p": 15.75,
+"c": 21.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/1_17_d9df861e-7790-4ade-9818-695a1eeb6e68.png?v=1790596323&width=400",
 "type": "Shampoo",
@@ -988,46 +1043,6 @@
 "Magic_retouch24"
 ],
 "in": false
-},
-{
-"t": "Buy Eucerin Even Pigment Perfector Exfoliating Cleansing Gel 200ml & get a FREE Even Pigment Perfector Cleansing Gel 20ml",
-"u": "https://sohaticare.com/products/buy-eucerin-even-pigment-perfector-exfoliating-cleansing-gel-200ml-get-a-free-even-pigment-perfector-cleansing-gel-20ml",
-"p": 22.98,
-"c": 25.28,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/EucerinEvenPigmentOffersPackshot1.jpg?v=1790320529&width=400",
-"type": "Bundle",
-"tags": [
-"backtoschool-exclusive",
-"BOGO-Collection",
-"Bundle",
-"Giftset",
-"Pharma_week_26",
-"SKIN_BUNDLE",
-"TOPOFFER",
-"TOPOFFERS"
-],
-"in": true
-},
-{
-"t": "Buy Eucerin Even Pigment Perfector Dual Serum 30ml & get a FREE Even Pigment Perfector Cleansing Gel 20ml",
-"u": "https://sohaticare.com/products/buy-eucerin-even-pigment-perfector-dual-serum-30ml-get-a-free-even-pigment-perfector-cleansing-gel-20ml",
-"p": 68.6,
-"c": 70.9,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/EucerinEvenPigmentOffersPackshot2.jpg?v=1790320905&width=400",
-"type": "Bundle",
-"tags": [
-"backtoschool-exclusive",
-"BOGO-Collection",
-"Bundle",
-"Giftset",
-"Pharma_week_26",
-"SKIN_BUNDLE",
-"TOPOFFER",
-"TOPOFFERS"
-],
-"in": true
 },
 {
 "t": "Buy Avène Sunscreen Tinted Cream SPF 50+ 50ml & get a FREE Towel + SPF Ultra Fluid Sachet",
@@ -1291,7 +1306,7 @@
 {
 "t": "Ducray Ictyane Moisturizing Lip Balm for dry to damaged lips 4g",
 "u": "https://sohaticare.com/products/ducray-ictyane-moisturizing-lip-balm-for-dry-to-damaged-lips-4g",
-"p": 11.0,
+"p": 8.25,
 "c": 11.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/d1_80811cd1-eb65-4b3d-98e2-da1ec4cfeab6.png?v=1778491060&width=400",
@@ -1302,7 +1317,7 @@
 {
 "t": "Ducray Melascreen Tinted protective anti-stain fluid SPF50+ 30ml",
 "u": "https://sohaticare.com/products/ducray-melascreen-tinted-protective-anti-stain-fluid-spf50-30ml",
-"p": 28.0,
+"p": 21.0,
 "c": 28.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/t1_8d833fe1-a953-45de-8aef-16937516b345.png?v=1781164629&width=400",
@@ -1313,7 +1328,7 @@
 {
 "t": "Ducray Melascreen Fluid SPF 50+ 40ml",
 "u": "https://sohaticare.com/products/melascreen-light-cream-spf50-uva",
-"p": 27.0,
+"p": 20.25,
 "c": 27.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/NewProject_1_3dc768b7-1927-485e-bb6c-9b9a0be4e71e.png?v=1700511676&width=400",
@@ -2482,7 +2497,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/Intimate_Mist_35e56d3a-3ff2-46d0-bf83-cdf1f0db5357.png?v=1787136026&width=400",
 "type": "Intimate Mist",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "BloomBloom Royal Rose Intimate Mist",
@@ -2493,7 +2508,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/royal_rose_mist_77c2b87c-9907-4084-974d-208c8f01dc72.png?v=1787136007&width=400",
 "type": "Intimate Mist",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "BloomBloom White Musk Intimate Mist",
@@ -2515,7 +2530,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/BerryCheeks_cheesecake_mist_854d5785-9833-452d-9716-78489d2d24de.png?v=1787136021&width=400",
 "type": "Intimate Mist (Edible)",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "BloomBloom Sweet Whisper Mocha Intimate Mist",
@@ -2537,7 +2552,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/Sugar_touch_caramel_mist_75999b7e-fff6-4b80-8330-174586b81638.png?v=1787136012&width=400",
 "type": "Intimate Mist (Edible)",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "BloomBloom Sweet Skin Intimate Gel Cleanser 80 ml",
@@ -5860,7 +5875,7 @@
 "medi_game",
 "os_june26_2"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Anua heartleaf pore control cleansing oil",
@@ -8491,7 +8506,7 @@
 "PF_Sale_25",
 "pf_sets_june26"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Buy Avène 1.2 Sand cream compact foundation & get a FREE 100ml Avène micellar lotion",
@@ -9158,7 +9173,7 @@
 "FRENCHWEEK2025",
 "Giftset"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Buy Hyaluron Activ B3 Concentrated plumping serum Get Free Avène Hyaluron creme du jour pot 7ml",
@@ -9647,7 +9662,7 @@
 "COMPENSATION_FEB26",
 "eta_june26"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Essie Color Nail Polish - 894 Guilty Pleasure (UN)",
@@ -9989,7 +10004,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/essence-micro-precise-eyebrow-pencil-02-light-brown-0-05g.avif?v=1778578871&width=400",
 "type": "Eyebrow Pencil",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Blur Soufflé Matte Lip Cream",
@@ -15301,7 +15316,7 @@
 {
 "t": "Ducray Melascreen SPF50+ Protective Anti-stain Fluid Invisible for pigmented skin, 30ml",
 "u": "https://sohaticare.com/products/ducray-melascreen-tinted-anti-spots-fluid-sunscreen-spf50-30ml-i-reduces-dark-spots-prevents-dark-spots-prevents-photoaging",
-"p": 14.92,
+"p": 17.21,
 "c": 22.95,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/1_1200x_2b1e8e32-0953-4b5e-abab-b43242eb0e17.webp?v=1780643633&width=400",
@@ -24282,7 +24297,7 @@
 "tags": [
 "CLEODENT_2025"
 ],
-"in": true
+"in": false
 },
 {
 "t": "CLEO-DENT Orthodontic Wax",
@@ -26889,7 +26904,7 @@
 "Oil Control",
 "Paraben-Free"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Hair Mist – Green Tea",
@@ -26949,7 +26964,7 @@
 "Sulfate-Free",
 "Vitamin E"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Hair Mist – Oh Honey!",
@@ -27029,7 +27044,7 @@
 "Omega-9",
 "Paraben-Free"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Miracle Mask",
@@ -27149,7 +27164,7 @@
 "Peptides",
 "Provitamins"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Bouncy Plump Smoothing Primer",
@@ -27312,7 +27327,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/essence-tinte-para-labios-y-mejillas-en-stick-what-a-tint-10-raspberry-vibes-1-91076.jpg?v=1763978256&width=400",
 "type": "Lip & Cheek Tint",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Hydra Kiss Lip Tint",
@@ -30451,7 +30466,7 @@
 "tags": [
 "CLEODENT_2025"
 ],
-"in": true
+"in": false
 },
 {
 "t": "CLEO-DENT DENTAL FLOSS PICKS DISPENSER",
@@ -30464,7 +30479,7 @@
 "tags": [
 "CLEODENT_2025"
 ],
-"in": true
+"in": false
 },
 {
 "t": "CLEO-DENT DOUBLE FLOSS PICK- MINT FLAVORED-1 BAG",
@@ -31853,7 +31868,7 @@
 "Giftset",
 "mothersday26"
 ],
-"in": false
+"in": true
 },
 {
 "t": "SOSKIN Double Action Smoothing Mask 75 ML Get: SOSKIN GENTLE PURIFYING CLEANSING GEL 60ml",
@@ -34741,7 +34756,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/1_e137cb5b-0e50-4124-91bd-78fda1122066.webp?v=1757936928&width=400",
 "type": "",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "GLYCOLIC ACID 7% EXFOLIATING TONER 100ML/3.4FLOZ",
@@ -34752,7 +34767,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/42_0daddae9-609f-4647-92ae-2bc403863309.png?v=1757660562&width=400",
 "type": "",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "ALPHA ARBUTIN 2% + HA 60ML/2FLOZ",
@@ -34873,7 +34888,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/30_6221dd94-48cf-4c54-8924-530e336dfad0.png?v=1757660550&width=400",
 "type": "",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "SOOTHING & BARRIER SUPPORT SERUM 30ML/1FLOZ",
@@ -35094,7 +35109,7 @@
 "tags": [
 "ORDINARYUPS"
 ],
-"in": false
+"in": true
 },
 {
 "t": "NIACINAMIDE 10% + ZINC 1% 30ML/1FLOZ",
@@ -35105,7 +35120,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/10_8517ac85-dfdc-4847-804f-17c63732e7b3.png?v=1757660530&width=400",
 "type": "",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "NATURAL MOISTURIZING FACTORS +HA 30ML/1FLOZ",
@@ -35625,7 +35640,7 @@
 "Eye Cream",
 "Stick"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Sahara Shine Serum",
@@ -40520,7 +40535,7 @@
 "mask",
 "sheet mask"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Heartleaf My Type Calming Cream",
@@ -44102,66 +44117,6 @@
 "BBLISS_CLOSESTOCK_SEP24",
 "CLRNC_24",
 "ELECTRONICS_ACTIVE25"
-],
-"in": true
-},
-{
-"t": "BaByliss T811E Beard Trimmer",
-"u": "https://sohaticare.com/products/babyliss-t811e-beard-trimmer",
-"p": 66.6,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/T881E.jpg?v=1707382633&width=400",
-"type": "Beard Trimmer",
-"tags": [
-"Babyliss",
-"babyliss_dontopenstock",
-"babyliss_father_25",
-"babyliss_na_apr26",
-"BabyLiss_OpenStock_14AUG24",
-"babyliss_os_may25",
-"BabyLiss_PriceUpdate_5June24",
-"BBLISS_CLOSESTOCK_SEP24"
-],
-"in": false
-},
-{
-"t": "BaByliss BG120SDE Body Groomer",
-"u": "https://sohaticare.com/products/babyliss-bg120sde-body-groomer",
-"p": 88.8,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/BG120SDE.jpg?v=1707382671&width=400",
-"type": "Body Groomer",
-"tags": [
-"Babyliss",
-"babyliss_dontopenstock",
-"BabyLiss_OpenStock_14AUG24",
-"babyliss_os_may25",
-"BabyLiss_PriceUpdate_5June24",
-"ELECTRONICS_ACTIVE25",
-"oos_babyliss_july25",
-"OpenStock_8MAY24"
-],
-"in": false
-},
-{
-"t": "BaByliss 8 in 1 Trimmer - MT726E",
-"u": "https://sohaticare.com/products/babyliss-8-in-1-trimmer-mt726e",
-"p": 72.15,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/MT726E_76be008f-e28f-414a-8610-19cd452802d2.jpg?v=1707122578&width=400",
-"type": "Set",
-"tags": [
-"anniversary_2025",
-"Babyliss",
-"Babyliss_BF24",
-"babyliss_father_25",
-"babyliss_father_june26",
-"BabyLiss_OpenStock_14AUG24",
-"babyliss_os_may25",
-"BabyLiss_PriceUpdate_5June24"
 ],
 "in": true
 }

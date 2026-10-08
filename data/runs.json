@@ -1006,5 +1006,25 @@
   },
   "seconds": 264,
   "total_stores": 44
+ },
+ {
+  "at": "2026-10-08T20:57:05+00:00",
+  "new_candidates": 71,
+  "probed": 30,
+  "new_stores": [
+   "unique-vintage.com"
+  ],
+  "synced": 8,
+  "sources": {
+   "seeds": 0,
+   "submissions": 0,
+   "removals": 0,
+   "hubs": 0,
+   "search": 0,
+   "commoncrawl": 0,
+   "links": 71
+  },
+  "seconds": 181,
+  "total_stores": 45
  }
 ]
