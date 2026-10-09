@@ -803,17 +803,6 @@
 "in": true
 },
 {
-"t": "G-Set with thumb hole 5111",
-"u": "https://www.hashtag-lb.com/products/g-set-with-thumb-hole-5111",
-"p": 35.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/14cd7df8-d55f-4349-9f82-ee84a8e6d446.jpg?v=1789048338&width=400",
-"type": "Set",
-"tags": [],
-"in": false
-},
-{
 "t": "G-Heart Set 2081",
 "u": "https://www.hashtag-lb.com/products/g-set-2081",
 "p": 35.0,
@@ -833,7 +822,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/2a563b02-9519-46fd-83a3-7b607a88725e.jpg?v=1789047341&width=400",
 "type": "Set",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "G-Pants 9882",
@@ -1100,28 +1089,6 @@
 "in": true
 },
 {
-"t": "skirt",
-"u": "https://www.hashtag-lb.com/products/skirt-3",
-"p": 12.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/68d1f210-c30e-498e-96e1-e0bd57c9c701.jpg?v=1788094024&width=400",
-"type": "skirt",
-"tags": [],
-"in": true
-},
-{
-"t": "top",
-"u": "https://www.hashtag-lb.com/products/top",
-"p": 12.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/9efa8bb7-2fd7-4084-aff8-48402aa1dc25.jpg?v=1788093564&width=400",
-"type": "TOP",
-"tags": [],
-"in": true
-},
-{
 "t": "chemise",
 "u": "https://www.hashtag-lb.com/products/chemise",
 "p": 32.0,
@@ -1129,72 +1096,6 @@
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/WhatsAppImage2026-08-27at12.11.56.jpg?v=1787824188&width=400",
 "type": "",
-"tags": [],
-"in": true
-},
-{
-"t": "jacket",
-"u": "https://www.hashtag-lb.com/products/jacket-1",
-"p": 45.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/WhatsAppImage2026-08-27at12.11.48_1.jpg?v=1787823012&width=400",
-"type": "",
-"tags": [],
-"in": false
-},
-{
-"t": "Jeans set",
-"u": "https://www.hashtag-lb.com/products/jeans-set",
-"p": 47.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/WhatsAppImage2026-08-14at16.18.42.jpg?v=1786718475&width=400",
-"type": "",
-"tags": [],
-"in": true
-},
-{
-"t": "Pants",
-"u": "https://www.hashtag-lb.com/products/pants-3",
-"p": 29.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/1001393087.jpg?v=1786714815&width=400",
-"type": "Pants",
-"tags": [],
-"in": false
-},
-{
-"t": "SKIRT SET",
-"u": "https://www.hashtag-lb.com/products/skirt-set",
-"p": 20.0,
-"c": 45.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/WhatsAppImage2026-08-14at16.18.08_2.jpg?v=1786717348&width=400",
-"type": "",
-"tags": [],
-"in": false
-},
-{
-"t": "PANT",
-"u": "https://www.hashtag-lb.com/products/pant",
-"p": 29.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/WhatsAppImage2026-08-14at16.18.07_1.jpg?v=1786717157&width=400",
-"type": "",
-"tags": [],
-"in": false
-},
-{
-"t": "skirt 251152",
-"u": "https://www.hashtag-lb.com/products/skirt-251152",
-"p": 15.0,
-"c": 25.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/65ab2e79-0f00-41ec-89de-53106a9ea63a.jpg?v=1785330631&width=400",
-"type": "skirt",
 "tags": [],
 "in": true
 },
@@ -1331,17 +1232,6 @@
 "in": true
 },
 {
-"t": "Top",
-"u": "https://www.hashtag-lb.com/products/top-15",
-"p": 10.0,
-"c": 19.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/1001370884.jpg?v=1784797464&width=400",
-"type": "TOP",
-"tags": [],
-"in": false
-},
-{
 "t": "Pants",
 "u": "https://www.hashtag-lb.com/products/pants-12",
 "p": 35.0,
@@ -1419,28 +1309,6 @@
 "in": true
 },
 {
-"t": "Hashtag skirt set",
-"u": "https://www.hashtag-lb.com/products/hashtag-skirt-set",
-"p": 24.0,
-"c": 32.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/1001368089.jpg?v=1784457188&width=400",
-"type": "Set",
-"tags": [],
-"in": true
-},
-{
-"t": "Vest set",
-"u": "https://www.hashtag-lb.com/products/vest-set",
-"p": 20.0,
-"c": 35.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/1001367544.jpg?v=1784391547&width=400",
-"type": "Set",
-"tags": [],
-"in": true
-},
-{
 "t": "straight  jeans",
 "u": "https://www.hashtag-lb.com/products/straight-jeans-889",
 "p": 30.0,
@@ -1496,61 +1364,6 @@
 "in": true
 },
 {
-"t": "short 261007",
-"u": "https://www.hashtag-lb.com/products/short-261007",
-"p": 15.0,
-"c": 29.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/db0e1a36-a012-436c-a9bd-1ec5adecfbf3.jpg?v=1783261048&width=400",
-"type": "Short",
-"tags": [],
-"in": false
-},
-{
-"t": "set 073",
-"u": "https://www.hashtag-lb.com/products/set-073",
-"p": 20.0,
-"c": 39.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/dc467281-f206-4317-93ac-c9185b1c5f05.jpg?v=1784469842&width=400",
-"type": "set",
-"tags": [],
-"in": true
-},
-{
-"t": "hashtag set 3056",
-"u": "https://www.hashtag-lb.com/products/hashtag-set-3056",
-"p": 10.0,
-"c": 29.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/b115dadb-2024-45bb-ac91-18ad4d1f4c6d.jpg?v=1783247075&width=400",
-"type": "Set",
-"tags": [],
-"in": true
-},
-{
-"t": "hashtag set 3059",
-"u": "https://www.hashtag-lb.com/products/hashtag-set-3059",
-"p": 10.0,
-"c": 32.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/26b5eda1-36e3-4233-acdc-b3794f4c7b6f.jpg?v=1784469082&width=400",
-"type": "set",
-"tags": [],
-"in": false
-},
-{
-"t": "dress with belt 329",
-"u": "https://www.hashtag-lb.com/products/dress-with-belt",
-"p": 29.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/WhatsAppImage2026-06-23at13.18.49_1.jpg?v=1782212158&width=400",
-"type": "",
-"tags": [],
-"in": true
-},
-{
 "t": "short 1020",
 "u": "https://www.hashtag-lb.com/products/short-1020",
 "p": 15.0,
@@ -1558,17 +1371,6 @@
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/d2173eaa-4839-419f-8054-a4d7d1121cea.jpg?v=1781688357&width=400",
 "type": "Short",
-"tags": [],
-"in": true
-},
-{
-"t": "skirt 5179",
-"u": "https://www.hashtag-lb.com/products/skirt-5179",
-"p": 10.0,
-"c": 25.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/164c0a6c-f9b5-4de1-bf80-ef16b2048810.jpg?v=1781687363&width=400",
-"type": "skirt",
 "tags": [],
 "in": true
 },
@@ -1958,17 +1760,6 @@
 "in": true
 },
 {
-"t": "Skirt",
-"u": "https://www.hashtag-lb.com/products/skirt-2",
-"p": 15.0,
-"c": 35.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/IMG_20260509_183813_014.jpg?v=1778424206&width=400",
-"type": "skirt",
-"tags": [],
-"in": true
-},
-{
 "t": "T-shirt",
 "u": "https://www.hashtag-lb.com/products/t-shirt-10",
 "p": 19.0,
@@ -1976,28 +1767,6 @@
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/IMG_20260509_184914_884.jpg?v=1778423222&width=400",
 "type": "T-shirt",
-"tags": [],
-"in": true
-},
-{
-"t": "skirt",
-"u": "https://www.hashtag-lb.com/products/skirt",
-"p": 29.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/WhatsAppImage2026-05-08at14.24.55_2.jpg?v=1778337570&width=400",
-"type": "",
-"tags": [],
-"in": false
-},
-{
-"t": "TOP",
-"u": "https://www.hashtag-lb.com/products/top-3",
-"p": 10.0,
-"c": 19.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/WhatsAppImage2026-05-08at14.24.53_2.jpg?v=1778331853&width=400",
-"type": "",
 "tags": [],
 "in": true
 },
@@ -2112,28 +1881,6 @@
 "in": true
 },
 {
-"t": "pants",
-"u": "https://www.hashtag-lb.com/products/pants-6",
-"p": 17.0,
-"c": 35.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/WhatsAppImage2026-03-25at14.18.40.jpg?v=1774442286&width=400",
-"type": "pants",
-"tags": [],
-"in": false
-},
-{
-"t": "Pants",
-"u": "https://www.hashtag-lb.com/products/pants-1",
-"p": 10.0,
-"c": 27.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/0d8c764e-133d-49fb-9a45-00fb4c7e8bb7.jpg?v=1771841025&width=400",
-"type": "pant",
-"tags": [],
-"in": false
-},
-{
 "t": "jeans 889",
 "u": "https://www.hashtag-lb.com/products/jeans-889",
 "p": 10.0,
@@ -2200,17 +1947,6 @@
 "in": true
 },
 {
-"t": "bag 9705",
-"u": "https://www.hashtag-lb.com/products/bag-2",
-"p": 25.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/baa.jpg?v=1764666756&width=400",
-"type": "bag",
-"tags": [],
-"in": true
-},
-{
 "t": "bag",
 "u": "https://www.hashtag-lb.com/products/bag-1",
 "p": 29.0,
@@ -2228,17 +1964,6 @@
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/83_6f72ded6-6129-438c-960e-55425d891f34.jpg?v=1764598625&width=400",
-"type": "bag",
-"tags": [],
-"in": true
-},
-{
-"t": "bag(27232)",
-"u": "https://www.hashtag-lb.com/products/bag27232",
-"p": 25.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/86.jpg?v=1764595621&width=400",
 "type": "bag",
 "tags": [],
 "in": true
@@ -2283,17 +2008,6 @@
 "c": 39.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/WhatsAppImage2025-10-17at1.01.26AM.jpg?v=1761994260&width=400",
-"type": "jeans",
-"tags": [],
-"in": true
-},
-{
-"t": "Straight cut jeans",
-"u": "https://www.hashtag-lb.com/products/straight-cut-jeans-25380",
-"p": 10.0,
-"c": 39.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/25380_3.jpg?v=1761736651&width=400",
 "type": "jeans",
 "tags": [],
 "in": false
