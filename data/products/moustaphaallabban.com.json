@@ -10826,7 +10826,7 @@
 "Eau De Parfume Women",
 "Women"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Karl Lagerfeld Karl Hamburg Alster Men Edt",
@@ -20196,21 +20196,6 @@
 "in": true
 },
 {
-"t": "Collistar Vitamin C + Ferulic Acid Face Cream Gift Set",
-"u": "https://moustaphaallabban.com/products/collistar-vitamin-c-ferulic-acid-face-cream-gift-set",
-"p": 59.46,
-"c": 66.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/8015150219471_cbe80135-1cec-40c8-ad12-b1249e334d96.jpg?v=1735153240&width=400",
-"type": "Collistar Body",
-"tags": [
-"Collistar Body",
-"Collistar Skincare",
-"Skin Care"
-],
-"in": true
-},
-{
 "t": "Collistar Vitamin C Shampoo Brightening Revitalizing",
 "u": "https://moustaphaallabban.com/products/collistar-vitamin-c-shampoo-brightening-revitalizing",
 "p": 23.4,
@@ -29555,20 +29540,6 @@
 "tags": [
 "Eau De Toilette Women",
 "Women"
-],
-"in": true
-},
-{
-"t": "Collistar Smoothing Anti-Wrinkle Face & Eye Contour Gift Set",
-"u": "https://moustaphaallabban.com/products/collistar-smoothing-anti-wrinkle-face-eye-contour-gift-set",
-"p": 72.0,
-"c": 80.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/products/8015150219198.jpg?v=1678369405&width=400",
-"type": "Collistar Anti- Aging",
-"tags": [
-"Collistar Skincare",
-"Skin Care"
 ],
 "in": true
 },
@@ -42899,5 +42870,37 @@
 "Loreal Skincare"
 ],
 "in": false
+},
+{
+"t": "Loreal Pro XXL Lift Mascara",
+"u": "https://moustaphaallabban.com/products/loreal-pro-xxl-lift-mascara",
+"p": 15.22,
+"c": 17.9,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/products/3600524031091.png?v=1676985655&width=400",
+"type": "Mascara",
+"tags": [
+"Loreal Makeup",
+"LorealPriceList",
+"Makeup",
+"Mascara"
+],
+"in": true
+},
+{
+"t": "Loreal Paris Pro XXL Extension Mascara",
+"u": "https://moustaphaallabban.com/products/loreal-paris-pro-xxl-extension-mascara",
+"p": 14.81,
+"c": 17.42,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/products/3600524031107.jpg?v=1676985512&width=400",
+"type": "Mascara",
+"tags": [
+"Loreal Makeup",
+"LorealPriceList",
+"Makeup",
+"Mascara"
+],
+"in": true
 }
 ]

@@ -1,5 +1,21 @@
 [
 {
+"t": "Happy Charms",
+"u": "https://myholdal.com/products/buy-happy-charms-lebanon",
+"p": 27.0,
+"c": 27.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/010295A001_8011607408863_happy_charm_big_01072025151159.png?v=1791530267&width=400",
+"type": "LIP GLOSS",
+"tags": [
+"BEAUTY",
+"influencer code",
+"LRLDIS20 PUPA MILANO WOMEN",
+"WOMEN MAKEUP"
+],
+"in": false
+},
+{
 "t": "Silver Conditioner For Grey, White Or Light Blonde Hair Serie Expert 200Ml",
 "u": "https://myholdal.com/products/buy-silver-conditioner-for-grey-white-or-light-blonde-hair-serie-expert-200ml-lebanon",
 "p": 24.41,
@@ -488,7 +504,7 @@
 "WOMEN",
 "WOMEN UMBRELLAS"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Taupe short double-face jacket",
@@ -1682,7 +1698,7 @@
 "lacoste to delete march",
 "OUTLET - LACOSTE WOMEN"
 ],
-"in": true
+"in": false
 },
 {
 "t": "L.12.12 Light-Wt 318 3 Caw - 36Caw0057B98",
@@ -1762,7 +1778,7 @@
 "lacoste to delete march",
 "OUTLET - LACOSTE WOMEN"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Short Oversized Recycled Wool Hooded Coat - BF0744",
@@ -1822,7 +1838,7 @@
 "lacoste to delete march",
 "OUTLET - LACOSTE WOMEN"
 ],
-"in": true
+"in": false
 },
 {
 "t": "L.12.12 Unlined 318 1 Cam - 36Cam0043Rd3",
@@ -2002,7 +2018,7 @@
 "lacoste to delete march",
 "LRLDIS15"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Loose Fit L.12.12 Piqué Polo Shirt - PH3922",
@@ -2042,7 +2058,7 @@
 "LACOSTE SHOES",
 "LACOSTE SHOES FW22 I"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Original L.12.12 petit Pique cotton Polo Shirt - L1212",
@@ -3573,7 +3589,7 @@
 "CORE COLLECTION",
 "CORE FOOTWEAR"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Juniors' Carnaby Synthtic Trainers - 43Suj0004092",
@@ -3905,7 +3921,7 @@
 "FRENCH FASHION SPORT",
 "LACOSTE"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Women’S Lacoste X Netflix Crocodile Show Print Polo Shirt - Pf7336",
@@ -3945,7 +3961,7 @@
 "LACOSTE",
 "LACOSTE CLOTHING MEN SALE"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Men's Water-Resistant Cotton Zip Jacket - BH1045",
@@ -4296,7 +4312,7 @@
 "Footwear",
 "LACOSTE"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Men's Court Cage Leather Colour Contrast Trainers - 46SMA0091",
@@ -4512,26 +4528,6 @@
 "clothing bf 25",
 "CORE ACTIVE",
 "CORE COLLECTION",
-"Footwear"
-],
-"in": true
-},
-{
-"t": "Men's Lacoste L001 Baseline Leather Trainers - 45SMA0126",
-"u": "https://myholdal.com/products/buy-men-s-lacoste-l001-baseline-leather-trainers-45sma0126-147-lebanon",
-"p": 68.0,
-"c": 170.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/Square-45SMA0126_147_01.jpg?v=1757494115&width=400",
-"type": "SHOES",
-"tags": [
-"_filter_White",
-"Baseline",
-"BF SHOES25",
-"BRANDS MEN",
-"clothing bf 25",
-"CORE ESSENTIALS",
-"COURT SNEAKERS",
 "Footwear"
 ],
 "in": true
@@ -5674,7 +5670,7 @@
 "LACOSTE FOR HIM",
 "LACOSTE SHOES"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Men's Lacoste Court-Master Pro Textile Colour Block Trainers - 45Sma01211R5",
@@ -5714,7 +5710,7 @@
 "LACOSTE CLOTHING MEN SALE",
 "LACOSTE FOR HIM"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Boys' Crew Neck Striped Lightweight Cotton T-Shirt - Tj2502",
@@ -5754,7 +5750,7 @@
 "MEN T-SHIRTS",
 "MEN TEE SHIRTS"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Cotton Pima T-shirt - TH6709",
@@ -7050,7 +7046,7 @@
 "LACOSTE",
 "LACOSTE CLOTHING MEN SALE"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Croc Print Cotton T-shirt - TJ6920",
@@ -7190,7 +7186,7 @@
 "LACOSTE CLOTHING MEN SALE",
 "Lacoste For Him"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Cotton Pima T-shirt - TH6709",
@@ -7390,7 +7386,7 @@
 "LAC JAN DIS 25 30",
 "LACOSTE"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Men's Slim Fit Cotton-Linen Chinos - HH5321",
@@ -7730,7 +7726,7 @@
 "clothing bf 25",
 "DISRUPTIVE SIMPLICITY"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Men’s Lacoste Recycled Polyester Print Swim Trunks - MH5635",
@@ -8290,7 +8286,7 @@
 "Lacoste for him",
 "Lacoste Textile BF 22"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Lacoste Men's Regular Fit Cotton Twill Chino Pants- Hh9555",
@@ -8470,7 +8466,7 @@
 "Lacoste for him",
 "Lacoste Textile BF 22"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Men's Disney Mickey Graphic Band Cotton Jersey T-Shirt - Th1544",
@@ -15529,7 +15525,7 @@
 "WOMEN",
 "WOMEN SCARVES AND SHAWLS"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Olive alpaca high neck sweater with lace detailing",
@@ -19365,7 +19361,7 @@
 "LANCOME WOMEN",
 "WOMEN SKINCARE"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Absolue Rich Cream",
@@ -21650,7 +21646,7 @@
 "KIPLING BTS26 SECOND DROP",
 "kipling mapping 5"
 ],
-"in": true
+"in": false
 },
 {
 "t": "SEOUL LAP-I5816",
@@ -31397,7 +31393,7 @@
 "LACOSTE CLOTHING MEN",
 "Lacoste Drop I outlet"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Men's Elite Active Sneakers - 49SMA0002",
@@ -36013,7 +36009,7 @@
 "WOMEN",
 "WOMEN SCARVES AND SHAWLS"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Micro yellow leather crossbody bag",
@@ -37618,7 +37614,7 @@
 "Kipling SS26 Second drop",
 "Kipling Women"
 ],
-"in": true
+"in": false
 },
 {
 "t": "CREATIVITY S -01864",
@@ -46308,7 +46304,7 @@
 "MEN LUGGAGES",
 "MEN TRAVEL"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Spectra 3.0 Exp. Frequent Flyer Carry-On",
@@ -51794,7 +51790,7 @@
 "Lacoste FW25 Textile",
 "Lacoste FW25 Wave I Camp Jan"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Medium Tennis Bliss Shoulder Bag - NF5105IT",
