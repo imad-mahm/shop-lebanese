@@ -1,5 +1,83 @@
 [
 {
+"t": "Ufesa, SPLASH Ironing board 110 × 34 cm",
+"u": "https://youneselectric.com/products/ufesa-splash-ironing-board-110-34-cm",
+"p": 73.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0663/6113/1235/files/SPLASH.jpg?v=1791441024&width=400",
+"type": "Cleaning Tools And Laundry",
+"tags": [
+"Ufesa"
+],
+"in": true
+},
+{
+"t": "Ufesa, DEEP Ironing Board 124 × 38 cm",
+"u": "https://youneselectric.com/products/ufesa-deep-ironing-board-124-38-cm",
+"p": 109.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0663/6113/1235/files/DEEP.jpg?v=1791440929&width=400",
+"type": "Cleaning Tools And Laundry",
+"tags": [
+"Ufesa"
+],
+"in": true
+},
+{
+"t": "Ufesa, SANDY Ironing Board 120 × 45 cm",
+"u": "https://youneselectric.com/products/ufesa-sandy-ironing-board-120-45-cm",
+"p": 134.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0663/6113/1235/files/SANDY.jpg?v=1791440850&width=400",
+"type": "Cleaning Tools And Laundry",
+"tags": [
+"Ufesa"
+],
+"in": true
+},
+{
+"t": "Ufesa, DM35S Automatic Alcohol Dispenser",
+"u": "https://youneselectric.com/products/ufesa-dm35s-automatic-alcohol-dispenser",
+"p": 38.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0663/6113/1235/files/DM35S.jpg?v=1791440754&width=400",
+"type": "Health And Beauty",
+"tags": [
+"Ufesa"
+],
+"in": true
+},
+{
+"t": "Ufesa, X TREME CUT Water Proof Trimmer",
+"u": "https://youneselectric.com/products/ufesa-x-treme-cut-water-proof-trimmer",
+"p": 73.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0663/6113/1235/files/XTREME-CUT.jpg?v=1791440640&width=400",
+"type": "Health And Beauty",
+"tags": [
+"Ufesa"
+],
+"in": true
+},
+{
+"t": "Dyson, V8 Cordless Vacuum Cleaner – 150AW, 60 Min, 494706-01",
+"u": "https://youneselectric.com/products/dyson-v8-cordless-vacuum-cleaner-150aw-60-min-494706-01",
+"p": 449.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0663/6113/1235/files/61eOe7Ng49L._AC_SL1500.webp?v=1791439909&width=400",
+"type": "Cleaning Tools And Laundry",
+"tags": [
+"Dyson"
+],
+"in": true
+},
+{
 "t": "Dyson, V16 Animal Piston Submarine",
 "u": "https://youneselectric.com/products/dyson-v16-animal-piston-submarine",
 "p": 1049.0,
@@ -38701,84 +38779,6 @@
 "c": 29.76,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0663/6113/1235/files/302326_thermos-flask-bludrop-sleeve-n3110510--500-ml--black-tefal.jpg?v=1701843041&width=400",
-"type": "Home & Kitchen",
-"tags": [
-"Tefal"
-],
-"in": true
-},
-{
-"t": "Tefal, N3111210 Bludrop Bottle 0.7L, Green Sleeve",
-"u": "https://youneselectric.com/products/tefal-n3111210-bludrop-bottle-0-7l-green-sleeve",
-"p": 26.58,
-"c": 33.86,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0663/6113/1235/files/N3111210.jpg?v=1701842907&width=400",
-"type": "Home & Kitchen",
-"tags": [
-"Tefal"
-],
-"in": true
-},
-{
-"t": "Russell Hobbs, Coffee Maker + Free Barista American Blend",
-"u": "https://youneselectric.com/products/russell-hobbs-c-maker-22620-56",
-"p": 44.0,
-"c": 50.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0663/6113/1235/files/rs-W.png?v=1699391135&width=400",
-"type": "Small Appliances",
-"tags": [
-"Russell Hobbs"
-],
-"in": true
-},
-{
-"t": "Tefal, BluDrop Sleeve Drinking Bottle, 0.7 Liter, Green - N3111010",
-"u": "https://youneselectric.com/products/tefal-bludrop-sleeve-drinking-bottle-0-7-liter-green-n3111010",
-"p": 27.08,
-"c": 30.53,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0663/6113/1235/files/1UqWMn-1690455630.jpg?v=1701766536&width=400",
-"type": "Home & Kitchen",
-"tags": [
-"Tefal"
-],
-"in": true
-},
-{
-"t": "Tefal, Mambo Jug 1.5 L White",
-"u": "https://youneselectric.com/products/tefal-mambo-jug-1-5-l-white",
-"p": 16.68,
-"c": 20.85,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0663/6113/1235/files/4168430000208-w1.webp?v=1701765921&width=400",
-"type": "Home & Kitchen",
-"tags": [
-"Tefal"
-],
-"in": true
-},
-{
-"t": "Tefal, Mambo Jug 1.5 L Orange",
-"u": "https://youneselectric.com/products/tefal-mambo-jug-1-5-l-orange",
-"p": 16.68,
-"c": 20.85,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0663/6113/1235/files/4168430000222-o1.webp?v=1701765797&width=400",
-"type": "Home & Kitchen",
-"tags": [
-"Tefal"
-],
-"in": true
-},
-{
-"t": "Tefal, Masterseal Micro Rectangular Food Box 0.8 L",
-"u": "https://youneselectric.com/products/tefal-masterseal-micro-rectangular-food-box-0-8-l",
-"p": 8.6,
-"c": 10.75,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0663/6113/1235/files/4168430002394-re1.webp?v=1701759108&width=400",
 "type": "Home & Kitchen",
 "tags": [
 "Tefal"

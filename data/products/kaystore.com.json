@@ -9677,8 +9677,8 @@
 {
 "t": "Mirage Twin Tube Washer 15Kg",
 "u": "https://kaystore.com/product/mirage-twin-tube-washer-15kg/",
-"p": 228.0,
-"c": 259.0,
+"p": 259.0,
+"c": null,
 "cur": "USD",
 "img": "https://kaystore.com/wp-content/uploads/2026/05/mirage15kg-247x296.jpg",
 "type": "Washers",
@@ -10110,7 +10110,7 @@
 "washer14KG",
 "Washing Machine"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Novox Washer 10kg 1600RPM",

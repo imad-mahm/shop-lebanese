@@ -1,5 +1,33 @@
 [
 {
+"t": "DongCheng 30471100119 Diamond Core Bit (1-1/4 Thread) 112×455",
+"u": "https://beytech.com.lb/product/dongcheng-30471100119-diamond-core-bit-1-1-4-thread-112x455/",
+"p": 40.0,
+"c": null,
+"cur": "USD",
+"img": "https://beytech.com.lb/wp-content/uploads/2026/10/30471100119-247x247.jpg",
+"type": "Home &amp; Kitchen, Power Tools &amp; Ladders, Tools &amp; Home Improvement",
+"tags": [
+"Dong Cheng",
+"Tool Kit"
+],
+"in": true
+},
+{
+"t": "DongCheng 30471100142 Diamond Core Bit (1-1/4 Thread) 63×455",
+"u": "https://beytech.com.lb/product/dongcheng-30471100142-diamond-core-bit-1-1-4-thread-63x455/",
+"p": 25.0,
+"c": null,
+"cur": "USD",
+"img": "https://beytech.com.lb/wp-content/uploads/2026/10/30471100142-247x247.jpg",
+"type": "Home &amp; Kitchen, Power Tools &amp; Ladders, Tools &amp; Home Improvement",
+"tags": [
+"Dong Cheng",
+"Tool Kit"
+],
+"in": true
+},
+{
 "t": "Samsung UA98DU9000UXTW 98 ” Crystal UHD DU9000 4K Smart TV",
 "u": "https://beytech.com.lb/product/samsung-ua98du9000uxtw-98-inch/",
 "p": 2699.0,
@@ -190,7 +218,7 @@
 {
 "t": "S-MARK Soldering Iron 60W",
 "u": "https://beytech.com.lb/product/s-mark-soldering-iron-60w/",
-"p": 9.99,
+"p": 10.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/10/10649147adec49c63d735f7fb34bac09-247x247.jpeg",
@@ -677,7 +705,7 @@
 "in": true
 },
 {
-"t": "DJI Mini 2 Wireless Microphone – Compact Wireless Mic",
+"t": "DJI Mic Mini 2 Wireless Microphone – Compact Wireless Mic",
 "u": "https://beytech.com.lb/product/dji-mini-2-wireless-microphone-compact-wireless-mic/",
 "p": 102.0,
 "c": 111.0,
@@ -692,7 +720,7 @@
 "in": true
 },
 {
-"t": "DJI Mini Wireless Microphone – Compact Wireless Mic",
+"t": "DJI Mic Mini Wireless Microphone – Compact Wireless Mic",
 "u": "https://beytech.com.lb/product/dji-mini-wireless-microphone-compact-wireless-mic/",
 "p": 83.0,
 "c": 90.0,
@@ -1620,7 +1648,7 @@
 "Dreame",
 "Floor &amp; carpet care"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Dreame Floor Cleaner 1L AWH6-1000M For Wet And Dry Vacuum Cleaners",
@@ -3535,7 +3563,7 @@
 "Vacuum Cleaners",
 "Vacuum stick cleaner"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Dreame N10 Portable Carpet Spot Cleaner",
@@ -3613,7 +3641,7 @@
 "Robot Vacuum Cleaner",
 "Vacuum Cleaners"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Dreame CU20 Pro Steam Carpet Cleaner – UK",
@@ -14454,7 +14482,7 @@
 {
 "t": "DongCheng DSF02-180 750W – ?180mm Drywall Sander",
 "u": "https://beytech.com.lb/product/dongcheng-drywall-sander-electric-power-tool/",
-"p": 117.66,
+"p": 118.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2021/05/DSF02-180-247x247.jpg",
@@ -14468,7 +14496,7 @@
 {
 "t": "DongCheng DSM21-115E 900W – 115mm Variable Speed Small Angle Grinder",
 "u": "https://beytech.com.lb/product/dongcheng-heavy-duty-angle-grinder-electric-power-tool/",
-"p": 57.72,
+"p": 58.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2021/05/DSM21-115E-247x247.jpg",
@@ -14496,7 +14524,7 @@
 {
 "t": "DongCheng DJX10-255 1800W – 10″ Compound Slide Miter Saw",
 "u": "https://beytech.com.lb/product/dongcheng-sliding-compound-miter-saw-electric-power-tool/",
-"p": 305.25,
+"p": 306.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2021/05/DJX10-255-247x247.jpg",
@@ -14510,7 +14538,7 @@
 {
 "t": "DongCheng DQF120 1200W Variable Speed Blower",
 "u": "https://beytech.com.lb/product/dongcheng-variable-speed-blower-and-vacuum-electric-tool/",
-"p": 86.58,
+"p": 87.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2021/05/DQF120-247x247.jpg",
@@ -14524,7 +14552,7 @@
 {
 "t": "DongCheng DSJ06-25 750W – 6mm Die Grinder Variable Speed",
 "u": "https://beytech.com.lb/product/dongcheng-variable-speed-die-grinder-metal-power-tool/",
-"p": 71.04,
+"p": 72.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2021/05/DSJ06-25-247x247.jpg",
@@ -14538,7 +14566,7 @@
 {
 "t": "DongCheng DSM21-115 900W – 115mm Small Angle Grinder",
 "u": "https://beytech.com.lb/product/dongcheng-small-angle-grinder-metal-cutting-power-tool/",
-"p": 37.74,
+"p": 38.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2021/05/DSM21-115E-247x247.jpg",
@@ -14552,7 +14580,7 @@
 {
 "t": "DongCheng DZZ168 2000W – Diamond Drill with Water Source – 102mm",
 "u": "https://beytech.com.lb/product/dongcheng-diamond-core-drill-concrete-power-tool/",
-"p": 144.3,
+"p": 145.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2021/05/DZZ168-247x247.jpg",
@@ -14561,12 +14589,12 @@
 "Dong Cheng",
 "Tool Kit"
 ],
-"in": true
+"in": false
 },
 {
 "t": "DongCheng DCPB358(EM) 20V, 2 x 4  0Ah Li-Ion Battery + Charger, 1/2″ – 358Nm Max   Torque, Variable Speed & Torque Brushless Impact Wrench + Case",
 "u": "https://beytech.com.lb/product/dongcheng-cordless-impact-wrench-brushless-power-tool/",
-"p": 127.65,
+"p": 128.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2021/05/DCPB358EM-247x247.jpg",
@@ -14580,7 +14608,7 @@
 {
 "t": "DongCheng DDE-68 Dust Extract Cover",
 "u": "https://beytech.com.lb/product/dongcheng-hands-free-drill-dust-extraction-cover-shroud/",
-"p": 16.65,
+"p": 17.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2021/05/DDE-68-247x247.jpg",
@@ -14594,7 +14622,7 @@
 {
 "t": "DongCheng DSF04-225 820W – ?225mm Drywall Sander",
 "u": "https://beytech.com.lb/product/dongcheng-long-neck-drywall-sander-telescopic-power-tool/",
-"p": 207.57,
+"p": 208.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2021/05/DSF04-225-247x247.jpg",
@@ -14608,7 +14636,7 @@
 {
 "t": "DongCheng DSB03-234 420W – 114X234mm Anti-Vibrator Orbital Sander",
 "u": "https://beytech.com.lb/product/dongcheng-electric-orbital-sander-finishing-power-tool/",
-"p": 102.12,
+"p": 103.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2021/05/DSB03-234-247x247.jpg",
@@ -14622,7 +14650,7 @@
 {
 "t": "DongCheng DZG06-15 15Kg – 1600W HEX Demolition Hammer + Iron Carrying Case",
 "u": "https://beytech.com.lb/product/dongcheng-light-demolition-hammer-electric-chipping-gun/",
-"p": 327.45,
+"p": 328.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2021/05/DZG06-15-247x247.jpg",
@@ -14636,7 +14664,7 @@
 {
 "t": "DongCheng DZG06-6S 6Kg – 1400W HEX Demolition Hammer + Case",
 "u": "https://beytech.com.lb/product/dongcheng-demolition-hammer-electric-concrete-breaker-tool/",
-"p": 149.85,
+"p": 150.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2021/05/DZG06-6S-247x247.jpg",
@@ -14650,7 +14678,7 @@
 {
 "t": "DongCheng DJC02-23 1600W – ?50mm Magnetic Drill",
 "u": "https://beytech.com.lb/product/dongcheng-magnetic-drill-press-core-drilling-machine/",
-"p": 699.3,
+"p": 700.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2021/05/DJC02-23-247x247.jpg",
@@ -14664,7 +14692,7 @@
 {
 "t": "DongCheng DJZ06-10 380W – 10mm Right Angle Rotary Drill",
 "u": "https://beytech.com.lb/product/dongcheng-right-angle-rotary-drill-tool-tight-spaces/",
-"p": 83.25,
+"p": 84.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2021/05/DJZ06-10-247x247.jpg",
@@ -14678,7 +14706,7 @@
 {
 "t": "DongCheng DCQR32(BM) 20V, 2 x 4  0Ah Li-Ion Battery + Charger,  320 C Cordless PPR Fusion Welder",
 "u": "https://beytech.com.lb/product/dongcheng-ppr-pipe-fusion-welder-socket-welding-tool/",
-"p": 172.05,
+"p": 173.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2021/05/DCQR32BM-247x247.jpg",
@@ -14692,7 +14720,7 @@
 {
 "t": "DongCheng DCMP6(BM) 20V, 2 x 4  0Ah Li-Ion Battery + Charger,  6mm Brushless Laminate Trimmer",
 "u": "https://beytech.com.lb/product/dongcheng-cordless-wood-router-laminate-palm-trimmer/",
-"p": 200.91,
+"p": 201.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2021/05/DCMP6BM-247x247.jpg",
@@ -14706,7 +14734,7 @@
 {
 "t": "DongCheng DCMB82(BM) 20V, 2 x 4  0Ah Li-Ion Battery + Charger,  2mm Brushless Planer",
 "u": "https://beytech.com.lb/product/dongcheng-cordless-brushless-wood-planer-power-tool/",
-"p": 255.3,
+"p": 256.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2021/05/DCMB82BM-247x247.jpg",
@@ -14720,7 +14748,7 @@
 {
 "t": "DongCheng DCMQ85(EM) 20V, 2 x 4  0Ah Li-Ion Battery + Charger, Variable Speed Jig Saw + Case",
 "u": "https://beytech.com.lb/product/dongcheng-cordless-jigsaw-variable-speed-woodworking-tool/",
-"p": 249.75,
+"p": 250.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2021/05/DCMQ85EM-247x247.jpg",
@@ -14748,7 +14776,7 @@
 {
 "t": "DongCheng DCPB04-10(EK) 12V, 2 x 2  0Ah Li-Ion + Charger, 3/8″ – 54Nm Max   Torque, Variable Speed & Brushless Ratchet Wrench + Case",
 "u": "https://beytech.com.lb/product/dongcheng-cordless-ratchet-wrench-12v-electric-socket-tool/",
-"p": 160.95,
+"p": 161.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2021/05/DCPB04-10EK-247x247.jpg",
@@ -14762,7 +14790,7 @@
 {
 "t": "DongCheng DCPL04-5(E) 4V, 5Nm, 6  35mm HEX Cordless Screwdriver",
 "u": "https://beytech.com.lb/product/dongcheng-cordless-screwdriver-4v-compact-electric-driver-tool/",
-"p": 44.4,
+"p": 45.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2021/05/DCPL04-5E-247x247.jpg",
@@ -14776,7 +14804,7 @@
 {
 "t": "DongCheng DSS150 1020W – Straight Grinder",
 "u": "https://beytech.com.lb/product/dongcheng-straight-grinder-150mm-industrial-metal-grinding-tool/",
-"p": 94.35,
+"p": 95.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2021/05/DSS150-247x247.jpg",
@@ -14790,7 +14818,7 @@
 {
 "t": "DongCheng FFBL2050 Battery Li-Ion 20V 5  0Ah",
 "u": "https://beytech.com.lb/product/dongcheng-20v-5-0ah-lithium-ion-battery-pack-power-tool-supply/",
-"p": 88.8,
+"p": 89.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2021/05/FFBL2050-247x247.jpg",
@@ -14804,7 +14832,7 @@
 {
 "t": "DongCheng FFBL2040 Battery Li-Ion 20V 4  0Ah",
 "u": "https://beytech.com.lb/product/dongcheng-20v-battery-4-0ah-high-capacity-lithium-ion-pack-2/",
-"p": 68.82,
+"p": 69.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2021/05/FFBL2040-247x247.jpg",
@@ -14818,7 +14846,7 @@
 {
 "t": "DongCheng FFBL2020 Battery Li-Ion 20V 2  0Ah",
 "u": "https://beytech.com.lb/product/dongcheng-20v-lithium-battery-2-0ah-compact-power-pack/",
-"p": 42.18,
+"p": 43.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2021/05/FFBL2020-247x247.jpg",
@@ -14832,7 +14860,7 @@
 {
 "t": "DongCheng FFCL20-04 20V Charger For DongCheng Battery 4  0Ah",
 "u": "https://beytech.com.lb/product/dongcheng-20v-battery-4-0ah-high-capacity-lithium-ion-pack/",
-"p": 49.95,
+"p": 50.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2021/05/FFCL20-04-247x247.jpg",
@@ -14846,7 +14874,7 @@
 {
 "t": "DongCheng FFCL20-02 20V Charger For DongCheng Battery 2  0A",
 "u": "https://beytech.com.lb/product/dongcheng-20v-battery-2-0ah-lithium-ion-power-tool-pack/",
-"p": 27.75,
+"p": 28.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2021/05/FFCL20-02-247x247.jpg",
@@ -14860,7 +14888,7 @@
 {
 "t": "DongCheng 110x20x1  8 NO  6 Diamond Saw Blade (General Purpose) 110x20x1  8mm",
 "u": "https://beytech.com.lb/product/dongcheng-diamond-saw-blade-110mm-tile-concrete-cutting-disc/",
-"p": 6.11,
+"p": 7.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2021/05/110x20x1.8-247x247.jpg",
@@ -14874,7 +14902,7 @@
 {
 "t": "DongCheng DJX06-255 1650W – 10″ Compound Slide Miter Saw",
 "u": "https://beytech.com.lb/product/dongcheng-slide-miter-saw-255mm-sliding-compound-wood-cutter/",
-"p": 505.05,
+"p": 506.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2021/05/DJX06-255-247x247.jpg",
@@ -14888,7 +14916,7 @@
 {
 "t": "DongCheng DJX255 1650W – 10″ Table Top Miter Saw",
 "u": "https://beytech.com.lb/product/dongcheng-miter-saw-255mm-table-top-compound-wood-cutter/",
-"p": 271.95,
+"p": 272.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2021/05/DJX255-247x247.jpg",
@@ -14902,7 +14930,7 @@
 {
 "t": "DongCheng DJF02-30 1300W Reciprocating Saw + Case",
 "u": "https://beytech.com.lb/product/dongcheng-reciprocating-saw-1010w-electric-demolition-saw/",
-"p": 162.06,
+"p": 163.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2021/05/DJF02-30-247x247.jpg",
@@ -14916,7 +14944,7 @@
 {
 "t": "DongCheng DJF30 590W Reciprocating Saw + Case",
 "u": "https://beytech.com.lb/product/dongcheng-reciprocating-saw-590w-electric-power-saw/",
-"p": 112.11,
+"p": 113.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2021/05/DJF30-247x247.jpg",
@@ -14930,7 +14958,7 @@
 {
 "t": "DongCheng DMY02-235 2000W – 85mm Depth of Cut, 235mm Circular Saw",
 "u": "https://beytech.com.lb/product/dongcheng-circular-saw-185mm-1100w-electric-wood-cutting-saw-2/",
-"p": 138.75,
+"p": 139.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2021/05/DMY02-235-247x247.jpg",
@@ -14944,7 +14972,7 @@
 {
 "t": "DongCheng DMY02-185 1100W – 66mm Depth of Cut, 185mm Circular Saw",
 "u": "https://beytech.com.lb/product/dongcheng-circular-saw-185mm-1100w-electric-wood-cutting-saw/",
-"p": 82.14,
+"p": 83.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2021/05/DMY02-185-247x247.jpg",
@@ -14958,7 +14986,7 @@
 {
 "t": "DongCheng DMQ85S 580W – Jigsaw Variable Speed + Case",
 "u": "https://beytech.com.lb/product/dongcheng-jigsaw-variable-speed-580w-electric-saber-saw-case/",
-"p": 95.46,
+"p": 96.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2021/05/DMQ85S-247x247.jpg",
@@ -14972,7 +15000,7 @@
 {
 "t": "DongCheng DMD320 320W Multi Oscillating Tool, Variable Speed + Accessories",
 "u": "https://beytech.com.lb/product/dongcheng-multi-tool-variable-speed-electric-oscillating-kit/",
-"p": 96.57,
+"p": 97.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2021/05/DMD320-247x247.jpg",
@@ -14986,7 +15014,7 @@
 {
 "t": "DongCheng DZE06-110 1800W – 110mm Marble Cutter",
 "u": "https://beytech.com.lb/product/dongcheng-marble-cutter-110mm-1200w-electric-stone-tile-saw/",
-"p": 79.92,
+"p": 80.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2021/05/DZE06-110-247x247.jpg",
@@ -15000,7 +15028,7 @@
 {
 "t": "DongCheng DQF32 680W Variable Speed Blower",
 "u": "https://beytech.com.lb/product/dongcheng-variable-speed-blower-680w-electric-air-cleaner/",
-"p": 44.4,
+"p": 45.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2021/05/DQF32-247x247.jpg",
@@ -15014,7 +15042,7 @@
 {
 "t": "DongCheng DQB2000 2000W Variable Speed Heat Gun",
 "u": "https://beytech.com.lb/product/dongcheng-heat-gun-2000w-dual-speed-industrial-hot-air-blower/",
-"p": 32.19,
+"p": 33.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2021/05/DQB2000-247x247.jpg",
@@ -15028,7 +15056,7 @@
 {
 "t": "DongCheng DSB234 520W – 114x234mm Orbital Sander",
 "u": "https://beytech.com.lb/product/dongcheng-orbital-sander-114x234mm-520w-half-sheet-wood-sander/",
-"p": 75.48,
+"p": 76.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2021/05/DSB234-247x247.jpg",
@@ -15042,7 +15070,7 @@
 {
 "t": "DongCheng DSB03-100S 240W – 100x110mm Orbital Sander",
 "u": "https://beytech.com.lb/product/dongcheng-orbital-sander-100x110mm-240w-handheld-palm-finishing-tool/",
-"p": 38.85,
+"p": 39.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2021/05/DSB03-100S-247x247.jpg",
@@ -15056,7 +15084,7 @@
 {
 "t": "DongCheng DSA125 300W – 125mm Variable Speed Random Orbit Sander",
 "u": "https://beytech.com.lb/product/dongcheng-random-orbit-sander-125mm-300w-electric-wood-sander/",
-"p": 55.5,
+"p": 56.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2021/05/DSA125-247x247.jpg",
@@ -15070,7 +15098,7 @@
 {
 "t": "DongCheng DMB02-82 500W – 1  0mm Planer",
 "u": "https://beytech.com.lb/product/dongcheng-electric-planer-500w-handheld-wood-shaving-tool/",
-"p": 79.92,
+"p": 80.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2021/05/DMB02-82-247x247.jpg",
@@ -15084,7 +15112,7 @@
 {
 "t": "DongCheng DMP04-6 550W – 6mm Laminate Trimmer",
 "u": "https://beytech.com.lb/product/dongcheng-laminate-trimmer-6mm-550w-handheld-electric-palm-router/",
-"p": 43.29,
+"p": 44.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2021/05/DMP04-6-247x247.jpg",
@@ -15098,7 +15126,7 @@
 {
 "t": "Dong Cheng DMR06-12B 2000W – 12mm Router",
 "u": "https://beytech.com.lb/product/dongcheng-wood-router-12mm-1850w-electric-plunge-saw-machine/",
-"p": 155.4,
+"p": 156.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2021/05/DMR06-12B-247x247.jpg",
@@ -15112,7 +15140,7 @@
 {
 "t": "DongCheng DMR02-12 1850W – 12mm Router",
 "u": "https://beytech.com.lb/product/dongcheng-wood-router-12mm-1650w-electric-plunge-routing-machine/",
-"p": 117.66,
+"p": 118.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2021/05/DMR02-12-247x247.jpg",
@@ -15126,7 +15154,7 @@
 {
 "t": "DongCheng DSP04-180 1400W – 180mm Variable Speed Polisher",
 "u": "https://beytech.com.lb/product/dongcheng-polisher-variable-speed-180mm-electric-car-buffer/",
-"p": 123.21,
+"p": 124.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2021/05/DSP04-180-247x247.jpg",
@@ -15140,7 +15168,7 @@
 {
 "t": "DongCheng DJG04-355S 2200W – 355mm Electric Cut-Off Machine",
 "u": "https://beytech.com.lb/product/dongcheng-cut-off-machine-355mm-2200w-metal-chop-saw/",
-"p": 183.15,
+"p": 184.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2021/05/DJG04-355S-247x247.jpg",
@@ -15154,7 +15182,7 @@
 {
 "t": "DongCheng DSJ08-25 710W – 6mm Die Grinder",
 "u": "https://beytech.com.lb/product/dongcheng-die-grinder-6mm-710w-electric-straight-grinder/",
-"p": 66.6,
+"p": 67.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2021/05/DSJ08-25-247x247.jpg",
@@ -15182,7 +15210,7 @@
 {
 "t": "DongCheng DSM17-115B 1100W – 115mm Small Angle Grinder",
 "u": "https://beytech.com.lb/product/dongcheng-angle-grinder-1400w-industrial-metal-cutting-tool/",
-"p": 57.72,
+"p": 58.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2021/05/DSM17-115B-247x247.jpg",
@@ -15196,7 +15224,7 @@
 {
 "t": "DongCheng DZG10 10Kg   – 1500W SDS-Max Percussion Hammer + Case",
 "u": "https://beytech.com.lb/product/dongcheng-demolition-hammer-1500w-concrete-breaker-jackhammer/",
-"p": 299.7,
+"p": 300.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2021/05/DZG10-247x247.jpg",
@@ -15210,7 +15238,7 @@
 {
 "t": "DongCheng DZC45 45mm – 1500W SDS-Max Combination Hammer 8  2Kg + Case",
 "u": "https://beytech.com.lb/product/dongcheng-rotary-hammer-sds-max-1500w-concrete-demolition-drill/",
-"p": 416.25,
+"p": 417.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2021/05/DZC45-247x247.jpg",
@@ -15224,7 +15252,7 @@
 {
 "t": "Dong Cheng DZC03-38 38mm – 1100W SDS-Max Combination Hammer (2 Mode) 6  2Kg + Case",
 "u": "https://beytech.com.lb/product/dongcheng-rotary-hammer-sds-max-1100w-concrete-breaker-drill/",
-"p": 244.2,
+"p": 245.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2021/05/DZC03-38-247x247.jpg",
@@ -15238,7 +15266,7 @@
 {
 "t": "DongCheng DZC05-26B 26mm – 800W 3 Mode SDS-Plus Hammer + Case",
 "u": "https://beytech.com.lb/product/dongcheng-rotary-hammer-sds-plus-800w-concrete-demolition-drill/",
-"p": 88.8,
+"p": 89.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2021/05/DZC05-26B-247x247.jpg",
@@ -15252,7 +15280,7 @@
 {
 "t": "DongCheng DZZ02-250A 3800W – Heavy Duty Wet & Dry Diamond Drill – 250mm + Stand",
 "u": "https://beytech.com.lb/product/dongcheng-diamond-core-drill-250mm-3800w-rig-with-stand/",
-"p": 577.2,
+"p": 578.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2021/05/DZZ02-250A-247x247.jpg",
@@ -15266,7 +15294,7 @@
 {
 "t": "DongCheng DZJ20 720W – 13mm Electric Impact Drill (2 Gear, Variable Speed)",
 "u": "https://beytech.com.lb/product/dongcheng-impact-drill-20mm-720w-variable-speed-hammer-drill/",
-"p": 92.13,
+"p": 93.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2021/05/DZJ20-247x247.jpg",
@@ -15280,7 +15308,7 @@
 {
 "t": "DongCheng DZJ16 710W – 13mm Electric Impact Drill (Variable Speed)",
 "u": "https://beytech.com.lb/product/dongcheng-impact-drill-16mm-variable-speed-hammer-drill/",
-"p": 56.61,
+"p": 57.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2021/05/DZJ16-247x247.jpg",
@@ -15294,7 +15322,7 @@
 {
 "t": "DongCheng DZJ04-13 500W – 13mm Electric Impact Drill With Tool Kit",
 "u": "https://beytech.com.lb/product/dongcheng-impact-drill-13mm-electric-hammer-drill-tool-kit-case/",
-"p": 87.69,
+"p": 88.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2021/05/DZJ04-13-247x247.jpg",
@@ -15308,7 +15336,7 @@
 {
 "t": "DongCheng DJZ05-10BK 600W – 10mm Electric Drill",
 "u": "https://beytech.com.lb/product/dongcheng-electric-drill-10mm-corded-compact-rotary-driver/",
-"p": 46.62,
+"p": 47.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2021/05/DJZ05-10BK-247x247.jpg",
@@ -15322,7 +15350,7 @@
 {
 "t": "DongCheng DPB22C 620W – Impact Wrench 3/4″",
 "u": "https://beytech.com.lb/product/dongcheng-electric-impact-wrench-3-4-inch-heavy-torque-driver/",
-"p": 122.1,
+"p": 123.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2021/05/DPB22C-247x247.jpg",
@@ -15336,7 +15364,7 @@
 {
 "t": "DongCheng DPB20S 450W – Impact Wrench 1/2″",
 "u": "https://beytech.com.lb/product/dongcheng-cordless-impact-wrench-20v-brushless-1-2-inch-driver/",
-"p": 102.12,
+"p": 103.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2021/05/DPB20S-247x247.jpg",
@@ -15350,7 +15378,7 @@
 {
 "t": "DongCheng DPL6 710W – Drywall Variable Speed Screwdriver (Wood & Metal)",
 "u": "https://beytech.com.lb/product/dongcheng-electric-screwdriver-710w-drywall-wood-metal-tek-gun/",
-"p": 71.04,
+"p": 72.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2021/05/DPL6-247x247.jpg",
@@ -15364,7 +15392,7 @@
 {
 "t": "Dong Cheng DCLB40171(H2S) 20V, Cordless Brushless Garden Blower with Double Port Charger,  BATTERIES ARE SOLD SEPERATELY",
 "u": "https://beytech.com.lb/product/dongcheng-cordless-blower-20v-brushless-leaf-blower-bare-tool/",
-"p": 186.48,
+"p": 187.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2021/05/DCLB40171H2S-247x247.jpg",
@@ -15378,7 +15406,7 @@
 {
 "t": "DongCheng DCML20081(EM) 20V, 2 x 4  0Ah Li-Ion Battery + Charger, 200mm Brushless Chain Saw",
 "u": "https://beytech.com.lb/product/dongcheng-cordless-chainsaw-20v-brushless-10-inch-255mm-kit/",
-"p": 249.75,
+"p": 250.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2021/05/DCML20081EM-247x247.jpg",
@@ -15392,7 +15420,7 @@
 {
 "t": "DongCheng DCYD35(BM) 20V, 2 x 2  0Ah Li-Ion Battery + Charger, Brushless Pruner",
 "u": "https://beytech.com.lb/product/dongcheng-cordless-pruner-20v-brushless-35mm-pruning-shears/",
-"p": 215.34,
+"p": 216.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2021/05/DCYD35BM-247x247.jpg",
@@ -15406,7 +15434,7 @@
 {
 "t": "DongCheng DCMY02-185(BM) 20V, 2 x 4  0Ah Li-Ion Battery + Charger, 185mm Brushless Circular Saw + Case",
 "u": "https://beytech.com.lb/product/dongcheng-cordless-circular-saw-20v-brushless-165mm-kit-case/",
-"p": 254.19,
+"p": 255.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2021/05/DCMY02-185BM-247x247.jpg",
@@ -15420,7 +15448,7 @@
 {
 "t": "DongCheng DCMD20(EM) 20V, 2 x 4  0Ah Li-Ion Battery + Charger, Brushless Oscillating Multi-Tool + Accessories + Case",
 "u": "https://beytech.com.lb/product/dongcheng-multi-tool-20v-cordless-brushless-rotary-drill-kit/",
-"p": 257.52,
+"p": 258.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2021/05/DCMD20EM-247x247.jpg",
@@ -15434,7 +15462,7 @@
 {
 "t": "DongCheng DCJF02-28(EM) 20V, 2 x 4  0Ah Li-Ion Battery + Charger, Cordless Reciprocating Saw",
 "u": "https://beytech.com.lb/product/dongcheng-cordless-reciprocating-saw-20v-brushless-sabre-saw/",
-"p": 284.16,
+"p": 285.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2021/05/DCJF02-28EM-247x247.jpg",
@@ -15448,7 +15476,7 @@
 {
 "t": "DongCheng DCSP02-180(BM) 20V, 2 x 4  0Ah Li-Ion Battery + Charger, 180mm Brushless Variable Speed Polisher",
 "u": "https://beytech.com.lb/product/dongcheng-cordless-polisher-20v-brushless-180mm-variable-speed/",
-"p": 218.67,
+"p": 219.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2021/05/DCSP02-180BM-247x247.jpg",
@@ -15462,7 +15490,7 @@
 {
 "t": "DongCheng DCPB698(FK) 20V, 2 x 5  0Ah Li-Ion Battery + Charger, 1/2″ – 698Nm Max   Torque, Variable Speed & Torque Brushless Impact Wrench + Case",
 "u": "https://beytech.com.lb/product/dongcheng-cordless-impact-wrench-20v-brushless-1-2-inch-kit-case/",
-"p": 317.46,
+"p": 318.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2021/05/DCPB698FK-247x247.jpg",
@@ -15476,7 +15504,7 @@
 {
 "t": "DongCheng DCPB488(EM) 20V, 2 x 4  0Ah Li-Ion Battery + Charger, 1/2″ – 488Nm Max   Torque, Variable Speed & Torque Brushless Impact Wrench + Case",
 "u": "https://beytech.com.lb/product/dongcheng-cordless-impact-wrench-20v-brushless-1-2-inch-kit/",
-"p": 183.15,
+"p": 184.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2021/05/DCPB488EM-247x247.jpg",
@@ -15490,7 +15518,7 @@
 {
 "t": "DongCheng DCPL208(EM) 20V, 2 x 4  0Ah Li-Ion Battery + Charger, 208Nm Max   Torque, Variable Speed & Torque Brushless Impact Driver + Case",
 "u": "https://beytech.com.lb/product/dongcheng-cordless-impact-driver-20v-brushless-fastening-kit/",
-"p": 175.38,
+"p": 176.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2021/05/DCPL208EM-247x247.jpg",
@@ -15504,7 +15532,7 @@
 {
 "t": "DongCheng DCPL04-8(EK) 12V, 2 x 2  0Ah Li-Ion Battery + Charger, 140Nm Max   Torque, 2 Speed Brushless Impact Driver + Case",
 "u": "https://beytech.com.lb/product/dongcheng-cordless-impact-driver-20v-brushless-hex-driver-kit/",
-"p": 107.67,
+"p": 108.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2021/05/DCPL04-8EK-247x247.jpg",
@@ -15518,7 +15546,7 @@
 {
 "t": "DongCheng DCQF32(BM) 20V, 2 x 4  0Ah Li-Ion Battery + Charger, Variable Speed Brushless Blower",
 "u": "https://beytech.com.lb/product/dongcheng-cordless-blower-20v-brushless-air-vacuum-cleaner/",
-"p": 197.58,
+"p": 198.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2021/05/DCQF32BM-247x247.jpg",
@@ -15532,7 +15560,7 @@
 {
 "t": "DongCheng DCSM03-125(EM) 20V, 2 x 4  0Ah Li-Ion Battery + Charger, 125mm Brushless Angle Grinder + Case",
 "u": "https://beytech.com.lb/product/dongcheng-cordless-angle-grinder-20v-brushless-125mm-kit-case/",
-"p": 175.38,
+"p": 176.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2021/05/DCSM03-125EM-247x247.jpg",
@@ -15546,7 +15574,7 @@
 {
 "t": "DongCheng DCZC02-26(EM) 20V, 2 x 4  0Ah Li-Ion Battery + Charger, 26mm Brushless SDS-Plus Rotary Hammer 3 Mode + Case",
 "u": "https://beytech.com.lb/product/dongcheng-cordless-hammer-drill-20v-brushless-13mm-driver-kit/",
-"p": 233.1,
+"p": 234.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2021/05/DCZC02-26EM-247x247.jpg",
@@ -15560,7 +15588,7 @@
 {
 "t": "DongCheng DCJZ03-13(EM) 20V, 2 x 4  0Ah Li-Ion Battery + Charger, 13mm Brushless Driver/Hammer Drill + Case",
 "u": "https://beytech.com.lb/product/dongcheng-cordless-hammer-drill-20v-brushless-impact-driver-kit-2/",
-"p": 249.75,
+"p": 250.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2021/05/DCJZ03-13EM-247x247.jpg",
@@ -15574,7 +15602,7 @@
 {
 "t": "DongCheng DCJZ2060i(EM)4AH 20V, 2 x 4  0Ah Li-Ion Battery + Charger, 13mm Brushless Driver/Hammer Drill + Case",
 "u": "https://beytech.com.lb/product/dongcheng-cordless-hammer-drill-20v-brushless-impact-driver-kit/",
-"p": 166.5,
+"p": 167.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2021/05/DCJZ2060iEM4AH-247x247.jpg",
@@ -15588,7 +15616,7 @@
 {
 "t": "DongCheng DCJZ2060i(AM)2AH 20V, 2 x 2  0Ah Li-Ion Battery + Charger, 13mm Brushless Driver/Hammer Drill + Case",
 "u": "https://beytech.com.lb/product/dongcheng-cordless-hammer-drill-20v-brushless-13mm-driver-case/",
-"p": 116.55,
+"p": 117.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2021/05/DCJZ2060iAM2AH-2-247x247.jpg",
@@ -15602,7 +15630,7 @@
 {
 "t": "DongCheng DCJZ1202i(E) 12V, 2 x 2  0Ah Li-Ion Battery + Charger, 10mm, 2 Speed Driver/Hammer Drill + Case",
 "u": "https://beytech.com.lb/product/dongcheng-cordless-hammer-drill-12v-max-sub-compact-kit-case/",
-"p": 63.27,
+"p": 64.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2021/05/DCJZ1202iE-247x247.jpg",
@@ -15788,7 +15816,7 @@
 {
 "t": "Dong Cheng HD123011 14″ Backsaw Set",
 "u": "https://beytech.com.lb/product/dong-cheng-hd123011-14-backsaw-set-mitre-box-wood-saw/",
-"p": 12.21,
+"p": 13.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD123011-247x247.jpg",
@@ -15802,7 +15830,7 @@
 {
 "t": "Dong Cheng HD074416 16″ Cross Wrench",
 "u": "https://beytech.com.lb/product/dong-cheng-hd074416-16-cross-wrench-lug-wheel-rim-tool/",
-"p": 10.55,
+"p": 11.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD074416-247x247.jpg",
@@ -15816,7 +15844,7 @@
 {
 "t": "Dong Cheng HD213302 10MM Plastering Trowel with Teeth",
 "u": "https://beytech.com.lb/product/dong-cheng-hd213302-10mm-notched-plastering-trowel-tool/",
-"p": 6.11,
+"p": 7.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD213302-247x247.jpg",
@@ -15830,7 +15858,7 @@
 {
 "t": "Dong Cheng HD213102 7″ Bricklaying Trowel",
 "u": "https://beytech.com.lb/product/dong-cheng-hd213102-7-bricklaying-trowel-masonry-tool/",
-"p": 2.44,
+"p": 3.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD213102-247x247.jpg",
@@ -15844,7 +15872,7 @@
 {
 "t": "Dong Cheng HD214206 6″ Putty Trowel",
 "u": "https://beytech.com.lb/product/dong-cheng-hd214206-6-putty-trowel-scraper-knife-tool/",
-"p": 2.94,
+"p": 3.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD214206-247x247.jpg",
@@ -15858,7 +15886,7 @@
 {
 "t": "Dong Cheng HD214205 5″ Putty Trowel",
 "u": "https://beytech.com.lb/product/dong-cheng-hd214205-5-putty-trowel-scraper-knife-tool/",
-"p": 2.61,
+"p": 3.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD214205-247x247.jpg",
@@ -15872,7 +15900,7 @@
 {
 "t": "Dong Cheng HD214203 3″ Putty Trowel",
 "u": "https://beytech.com.lb/product/dong-cheng-hd214203-3-putty-trowel-scraper-knife-tool/",
-"p": 1.89,
+"p": 2.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD214203-247x247.jpg",
@@ -15886,7 +15914,7 @@
 {
 "t": "Dong Cheng HD214202 2  5″ Putty Trowel",
 "u": "https://beytech.com.lb/product/dong-cheng-hd214012-5-putty-trowel-scraper-knife-tool/",
-"p": 1.78,
+"p": 2.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD214202-247x247.jpg",
@@ -15900,7 +15928,7 @@
 {
 "t": "Dong Cheng HD214201 1  5″ Putty Trowel",
 "u": "https://beytech.com.lb/product/dong-cheng-hd214201-1-5-putty-trowel-scraper-knife-tool/",
-"p": 1.67,
+"p": 2.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD214201-247x247.jpg",
@@ -15914,7 +15942,7 @@
 {
 "t": "Dong Cheng HD215003 15″ Aluminum Caulking Gun",
 "u": "https://beytech.com.lb/product/dong-cheng-hd215002-aluminum-caulking-gun-sealant-tool/",
-"p": 16.93,
+"p": 17.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD215003-247x247.jpg",
@@ -15928,7 +15956,7 @@
 {
 "t": "Dong Cheng HD215001 15″ Aluminum Caulking Gun",
 "u": "https://beytech.com.lb/product/dong-cheng-hd215001-15-aluminum-caulking-gun/",
-"p": 4.44,
+"p": 5.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD215001-247x247.jpg",
@@ -15942,7 +15970,7 @@
 {
 "t": "Dong Cheng HD214204 4″ Putty Trowel",
 "u": "https://beytech.com.lb/product/dong-cheng-hd214204-4-putty-trowel-scraper-knife-tool/",
-"p": 2.05,
+"p": 3.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD214204-247x247.jpg",
@@ -15956,7 +15984,7 @@
 {
 "t": "Dong Cheng 400CC Grease Gun",
 "u": "https://beytech.com.lb/product/dong-cheng-400cc-grease-gun-manual-lubrication-tool/",
-"p": 9.6,
+"p": 10.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD072901-247x247.jpg",
@@ -15970,7 +15998,7 @@
 {
 "t": "Dong Cheng HD215603 Glass Sucker Triple-Jaw",
 "u": "https://beytech.com.lb/product/dong-cheng-hd215503-glass-sucker-triple-jaw-suction-lifter/",
-"p": 7.77,
+"p": 8.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD2154603-247x247.jpg",
@@ -15984,7 +16012,7 @@
 {
 "t": "Dong Cheng HD215602 Glass Sucker Double-Jaw",
 "u": "https://beytech.com.lb/product/dong-cheng-hd215502-glass-sucker-double-jaw-suction-lifter/",
-"p": 5.16,
+"p": 6.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD215602-247x247.jpg",
@@ -15998,7 +16026,7 @@
 {
 "t": "Dong Cheng HD215601 Glass Sucker Single-Jaw",
 "u": "https://beytech.com.lb/product/dong-cheng-hd215501-glass-sucker-single-jaw-suction-lifter/",
-"p": 2.61,
+"p": 3.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD215601-247x247.jpg",
@@ -16012,7 +16040,7 @@
 {
 "t": "Dong Cheng HD220205 3″ Paint Brush",
 "u": "https://beytech.com.lb/product/dong-cheng-hd220205-3-paint-brush-wide-coating-tool/",
-"p": 1.86,
+"p": 2.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD220205-247x247.jpg",
@@ -16026,7 +16054,7 @@
 {
 "t": "Dong Cheng HD220204 2  5″ Paint Brush",
 "u": "https://beytech.com.lb/product/dong-cheng-hd220204-2-5-paint-brush-trim-coating-tool/",
-"p": 1.39,
+"p": 2.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD220204-247x247.jpg",
@@ -16040,7 +16068,7 @@
 {
 "t": "Dong Cheng HD220203 2″ Paint Brush",
 "u": "https://beytech.com.lb/product/dong-cheng-hd220203-2-paint-brush-wall-trim-coating-tool/",
-"p": 1.17,
+"p": 2.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD220203-247x247.jpg",
@@ -16054,7 +16082,7 @@
 {
 "t": "Dong Cheng HD220202 1  5″ Paint Brush",
 "u": "https://beytech.com.lb/product/dong-cheng-hd220202-paint-brush-1-5-inch-trim-detail-utility/",
-"p": 0.87,
+"p": 1.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD220202-247x247.jpg",
@@ -16068,7 +16096,7 @@
 {
 "t": "Dong Cheng HD220201 1″ Paint Brush",
 "u": "https://beytech.com.lb/product/dong-cheng-hd220201-paint-brush-1-inch-precision-detailer/",
-"p": 0.57,
+"p": 1.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD220201-247x247.jpg",
@@ -16082,7 +16110,7 @@
 {
 "t": "Dong Cheng HD220206 4″ Paint Brush",
 "u": "https://beytech.com.lb/product/dong-cheng-hd220206-paint-brush-4-inch-heavy-duty-applicator/",
-"p": 2.2,
+"p": 3.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD220206-247x247.jpg",
@@ -16096,7 +16124,7 @@
 {
 "t": "Dong Cheng HD131107 100cm Spirit Level",
 "u": "https://beytech.com.lb/product/dong-cheng-hd131103-spirit-level-30cm-compact-professional-2/",
-"p": 7.66,
+"p": 8.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD131107-247x247.jpg",
@@ -16110,7 +16138,7 @@
 {
 "t": "Dong Cheng HD131106 80cm Spirit Level",
 "u": "https://beytech.com.lb/product/dong-cheng-hd131103-spirit-level-30cm-compact-professional/",
-"p": 6.44,
+"p": 7.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD131106-247x247.jpg",
@@ -16124,7 +16152,7 @@
 {
 "t": "Dong Cheng HD131105 60cm Spirit Level",
 "u": "https://beytech.com.lb/product/dong-cheng-hd131105-spirit-level-80cm-professional-aligner/",
-"p": 5.44,
+"p": 6.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD131105-247x247.jpg",
@@ -16138,7 +16166,7 @@
 {
 "t": "Dong Cheng HD131104 40cm Spirit Level",
 "u": "https://beytech.com.lb/product/dong-cheng-hd131107-spirit-level-100cm-professional-aligner/",
-"p": 4.44,
+"p": 5.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD131104-247x247.jpg",
@@ -16152,7 +16180,7 @@
 {
 "t": "Dong Cheng HD133203 Digital Display Wheel",
 "u": "https://beytech.com.lb/product/dong-cheng-hd133203-digital-display-wheel-measuring-tool/",
-"p": 51.06,
+"p": 52.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD133203-247x247.jpg",
@@ -16166,7 +16194,7 @@
 {
 "t": "Dong Cheng HD130111 10 Meter Steel Measuring Tape",
 "u": "https://beytech.com.lb/product/dong-cheng-hd130111-steel-measuring-tape-10-meter/",
-"p": 5.33,
+"p": 6.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD130111-247x247.jpg",
@@ -16180,7 +16208,7 @@
 {
 "t": "Dong Cheng HD130110 7  5 Meter Steel Measuring Tape",
 "u": "https://beytech.com.lb/product/dong-cheng-hd130110-steel-measuring-tape-heavy-duty-7-5m/",
-"p": 4.16,
+"p": 5.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD130110-247x247.jpg",
@@ -16194,7 +16222,7 @@
 {
 "t": "Dong Cheng HD130109 5 Meter Steel Measuring Tape",
 "u": "https://beytech.com.lb/product/dong-cheng-hd130109-steel-measuring-tape-professional-5m/",
-"p": 2.72,
+"p": 3.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD130109-247x247.jpg",
@@ -16208,7 +16236,7 @@
 {
 "t": "Dong Cheng HD130107 3 Meter Steel Measuring Tape",
 "u": "https://beytech.com.lb/product/dong-cheng-hd130102-steel-measuring-tape-professional-5m/",
-"p": 1.5,
+"p": 2.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD130107-247x247.jpg",
@@ -16222,7 +16250,7 @@
 {
 "t": "Dong Cheng HD131103 30cm Spirit Level",
 "u": "https://beytech.com.lb/product/dong-cheng-hd131105-spirit-level-60cm-professional-aluminum/",
-"p": 4.11,
+"p": 5.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD131103-247x247.jpg",
@@ -16236,7 +16264,7 @@
 {
 "t": "Dong Cheng HD215201 9″ Caulking Gun",
 "u": "https://beytech.com.lb/product/dong-cheng-hd215201-heavy-duty-caulking-gun-9-inch/",
-"p": 2.78,
+"p": 3.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD215201-247x247.jpg",
@@ -16250,7 +16278,7 @@
 {
 "t": "Dong Chang HD160290A Electric Soldering Iron 900W",
 "u": "https://beytech.com.lb/product/dong-cheng-hd162102-dual-power-hot-melt-glue-gun/",
-"p": 12.77,
+"p": 13.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD160290A-247x247.jpg",
@@ -16264,7 +16292,7 @@
 {
 "t": "Dong Cheng HD162615A 15(60)W Glue Gun",
 "u": "https://beytech.com.lb/product/dong-cheng-hd162103-hot-melt-glue-gun-60w-2/",
-"p": 9.44,
+"p": 10.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD162615A-247x247.jpg",
@@ -16278,7 +16306,7 @@
 {
 "t": "Dong Cheng HD162608A 20(60)W Glue Gun",
 "u": "https://beytech.com.lb/product/dong-cheng-hd162103-hot-melt-glue-gun-60w/",
-"p": 6.49,
+"p": 7.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD162608A-247x247.jpg",
@@ -16292,7 +16320,7 @@
 {
 "t": "Dong Cheng HD131108 120cm Spirit Level",
 "u": "https://beytech.com.lb/product/dong-cheng-hd131302-magnetic-spirit-level-40cm/",
-"p": 9.27,
+"p": 10.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD131108-247x247.jpg",
@@ -16306,7 +16334,7 @@
 {
 "t": "Dong Cheng HD154202 8″ Automatic Wire Stripper",
 "u": "https://beytech.com.lb/product/dong-cheng-hd154202-automatic-wire-stripper-8-inch/",
-"p": 12.49,
+"p": 13.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD154202-247x247.jpg",
@@ -16320,7 +16348,7 @@
 {
 "t": "Dong Cheng HD133702 Infrared Thermometer",
 "u": "https://beytech.com.lb/product/dong-cheng-hd133702-infrared-thermometer/",
-"p": 21.09,
+"p": 22.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD133702-247x247.jpg",
@@ -16334,7 +16362,7 @@
 {
 "t": "Dong Cheng HD133701 Infrared Thermometer",
 "u": "https://beytech.com.lb/product/dong-cheng-hd133701-non-contact-infrared-thermometer/",
-"p": 12.21,
+"p": 13.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD133701-247x247.jpg",
@@ -16348,7 +16376,7 @@
 {
 "t": "Dong Cheng HD132311 6″ Digital Vernier Caliper",
 "u": "https://beytech.com.lb/product/dong-cheng-hd132001-stainless-steel-vernier-caliper/",
-"p": 32.19,
+"p": 33.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD132311-247x247.jpg",
@@ -16362,7 +16390,7 @@
 {
 "t": "Dong Cheng HD156102 Modular Crimping 4/6/8P",
 "u": "https://beytech.com.lb/product/dong-cheng-hd156102-modular-crimping-tool-4-6-8p/",
-"p": 7.27,
+"p": 8.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD156102-247x247.jpg",
@@ -16376,7 +16404,7 @@
 {
 "t": "Dong Cheng HD051712A 12 Pieces Double Open-End Spanner Set",
 "u": "https://beytech.com.lb/product/dong-cheng-hd051712a-combination-spanner-set-12pc/",
-"p": 34.41,
+"p": 35.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD051712A-247x247.jpg",
@@ -16390,7 +16418,7 @@
 {
 "t": "Dong Cheng HD053908 8 Pieces Double Open-End Spanner Set",
 "u": "https://beytech.com.lb/product/dong-cheng-hd053908-double-open-end-spanner-set-8pc/",
-"p": 12.77,
+"p": 13.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD053908-247x247.jpg",
@@ -16404,7 +16432,7 @@
 {
 "t": "Dong Cheng HD032103 1/2″ Ratchet Wrench",
 "u": "https://beytech.com.lb/product/dong-cheng-hd032002-reversible-ratchet-wrench-1-2/",
-"p": 10.55,
+"p": 11.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD032103-247x247.jpg",
@@ -16419,7 +16447,7 @@
 {
 "t": "Dong Cheng HD032101 1/4″ Ratchet Wrench",
 "u": "https://beytech.com.lb/product/dong-cheng-hd032001-reversible-ratchet-wrench-1-4/",
-"p": 6.44,
+"p": 7.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD032101-247x247.jpg",
@@ -16434,7 +16462,7 @@
 {
 "t": "DongCheng HD034302 1/4″ & 1/2″ Drive Socket Set – 108pcs (metric)",
 "u": "https://beytech.com.lb/product/dong-cheng-hd034301-metric-socket-set-108pcs/",
-"p": 108.78,
+"p": 109.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD034302-247x247.jpg",
@@ -16449,7 +16477,7 @@
 {
 "t": "Dong Cheng HD033924 1/2″ Drive Socket Set – 24pcs (metric)",
 "u": "https://beytech.com.lb/product/dong-cheng-hd033008-24-piece-metric-socket-set/",
-"p": 59.94,
+"p": 60.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD033924-247x247.jpg",
@@ -16464,7 +16492,7 @@
 {
 "t": "DongCheng HD032102 3/8″ Ratchet Wrench",
 "u": "https://beytech.com.lb/product/dong-cheng-dcpb05-10-12v-cordless-ratchet-wrench/",
-"p": 8.44,
+"p": 9.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD032102-247x247.jpg",
@@ -16479,7 +16507,7 @@
 {
 "t": "Dong Cheng HD171702 16″ Tool Bag",
 "u": "https://beytech.com.lb/product/dong-cheng-hd171702-heavy-duty-power-tool-carrying-bag/",
-"p": 13.04,
+"p": 14.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD171702-247x247.jpg",
@@ -16494,7 +16522,7 @@
 {
 "t": "Dong Cheng HD171701 13″ Tool Bag",
 "u": "https://beytech.com.lb/product/dong-cheng-hd171701-heavy-duty-power-tool-bag/",
-"p": 7.33,
+"p": 8.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD171701-247x247.jpg",
@@ -16509,7 +16537,7 @@
 {
 "t": "Dong Cheng HD170806 18″ Plastic Toolbox",
 "u": "https://beytech.com.lb/product/dong-cheng-hd170805-16-inch-plastic-toolbox/",
-"p": 13.88,
+"p": 14.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD170806-247x247.jpg",
@@ -16524,7 +16552,7 @@
 {
 "t": "Dong Cheng HD170805 16″ Plastic Toolbox",
 "u": "https://beytech.com.lb/product/dong-cheng-hd170806-18-inch-plastic-toolbox-2/",
-"p": 10.88,
+"p": 11.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD170805-247x247.jpg",
@@ -16539,7 +16567,7 @@
 {
 "t": "Dong Cheng HD170804 14″ Plastic Toolbox",
 "u": "https://beytech.com.lb/product/dong-cheng-hd170806-18-inch-plastic-toolbox/",
-"p": 8.33,
+"p": 9.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD170804-247x247.jpg",
@@ -16554,7 +16582,7 @@
 {
 "t": "Dong Cheng HD171103 19″ Metal Toolbox",
 "u": "https://beytech.com.lb/product/dong-cheng-hd171019-19-inch-metal-toolbox/",
-"p": 41.07,
+"p": 42.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD171103-247x247.jpg",
@@ -16569,7 +16597,7 @@
 {
 "t": "Dong Cheng HD054310 10″ Adjustable Wrench",
 "u": "https://beytech.com.lb/product/dong-cheng-hd054010-adjustable-wrench-10-inch-250mm/",
-"p": 7.33,
+"p": 8.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD054310-247x247.jpg",
@@ -16584,7 +16612,7 @@
 {
 "t": "Dong Cheng HD054308 8″ Adjustable Wrench",
 "u": "https://beytech.com.lb/product/dong-cheng-8-inch-adjustable-wrench/",
-"p": 5.38,
+"p": 6.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD054308-247x247.jpg",
@@ -16599,7 +16627,7 @@
 {
 "t": "Dong Cheng HD054306 6″ Adjustable Wrench",
 "u": "https://beytech.com.lb/product/dong-cheng-heavy-duty-pipe-wrench/",
-"p": 4.11,
+"p": 5.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD054306-247x247.jpg",
@@ -16614,7 +16642,7 @@
 {
 "t": "Dong Cheng HD054108 8 Pieces Ratchet Spanner Set",
 "u": "https://beytech.com.lb/product/dong-cheng-8-piece-combination-ratchet-spanner-set/",
-"p": 29.97,
+"p": 30.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD054108-247x247.jpg",
@@ -16629,7 +16657,7 @@
 {
 "t": "Dong Cheng HD051612A 12 Pieces Combination Spanner Set",
 "u": "https://beytech.com.lb/product/dong-cheng-hd051006-combination-ratchet-spanner-set/",
-"p": 25.53,
+"p": 26.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD051612A-247x247.jpg",
@@ -16644,7 +16672,7 @@
 {
 "t": "Dong Cheng HD053808 8 Pieces Combination Spanner Set",
 "u": "https://beytech.com.lb/product/dong-cheng-hd053008-combination-spanner-set/",
-"p": 12.54,
+"p": 13.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD053808-247x247.jpg",
@@ -16659,7 +16687,7 @@
 {
 "t": "Dong Cheng HD054312 12″ Adjustable Wrench",
 "u": "https://beytech.com.lb/product/dong-cheng-hd054006-adjustable-wrench/",
-"p": 9.66,
+"p": 10.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD054312-247x247.jpg",
@@ -16674,7 +16702,7 @@
 {
 "t": "Dong Cheng HD110525 25mm Snap-Off Blade (10pcs)",
 "u": "https://beytech.com.lb/product/dong-cheng-snap-off-utility-blades-10pcs/",
-"p": 1.67,
+"p": 2.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD110525-247x247.jpg",
@@ -16689,7 +16717,7 @@
 {
 "t": "Dong Cheng HD110518 18mm Snap-Off Blade (10pcs)",
 "u": "https://beytech.com.lb/product/dong-cheng-snap-off-utility-blades-18mm/",
-"p": 0.56,
+"p": 1.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD110518-247x247.jpg",
@@ -16704,7 +16732,7 @@
 {
 "t": "Dong Cheng HD110502 Utility Knife Blade (10pcs)",
 "u": "https://beytech.com.lb/product/dong-cheng-utility-knife-blades-10pcs-2/",
-"p": 1.94,
+"p": 2.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD110502-247x247.jpg",
@@ -16719,7 +16747,7 @@
 {
 "t": "Dong Cheng HD110501 Utility Knife Blade (10pcs)",
 "u": "https://beytech.com.lb/product/dong-cheng-utility-knife-blades-10pcs/",
-"p": 0.67,
+"p": 1.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD110501-247x247.jpg",
@@ -16734,7 +16762,7 @@
 {
 "t": "Dong Cheng HD110406 Folding Utility Knife",
 "u": "https://beytech.com.lb/product/dong-cheng-retractable-utility-knife-hd110402/",
-"p": 4.44,
+"p": 5.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD110406-247x247.jpg",
@@ -16749,7 +16777,7 @@
 {
 "t": "Dong Cheng HD110402 Retractable Utility Knife",
 "u": "https://beytech.com.lb/product/dong-cheng-hd110402-retractable-utility-knife/",
-"p": 3.16,
+"p": 4.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD110402-247x247.jpg",
@@ -16764,7 +16792,7 @@
 {
 "t": "Dong Cheng HD110218 18mm Snap-Off Knife",
 "u": "https://beytech.com.lb/product/dong-cheng-18mm-snap-off-blades-10pcs/",
-"p": 2.55,
+"p": 3.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD110218-247x247.jpg",
@@ -16779,7 +16807,7 @@
 {
 "t": "Dong Cheng HD110119 18mm Snap-Off Knife",
 "u": "https://beytech.com.lb/product/dong-cheng-18mm-snap-off-knife-3/",
-"p": 1.5,
+"p": 2.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD110119-247x247.jpg",
@@ -16794,7 +16822,7 @@
 {
 "t": "Dong Cheng HD110118 18mm Snap-Off Knife",
 "u": "https://beytech.com.lb/product/dong-cheng-18mm-snap-off-knife-2/",
-"p": 0.89,
+"p": 1.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD110118-247x247.jpg",
@@ -16809,7 +16837,7 @@
 {
 "t": "Dong Cheng HD110109 9mm Snap-Off Knife",
 "u": "https://beytech.com.lb/product/dong-cheng-18mm-snap-off-knife/",
-"p": 0.67,
+"p": 1.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD110109-247x247.jpg",
@@ -16824,7 +16852,7 @@
 {
 "t": "Dong Cheng HD110405 Folding Utility Knife",
 "u": "https://beytech.com.lb/product/dong-cheng-hd110406-folding-utility-knife/",
-"p": 5.49,
+"p": 6.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD110405-247x247.jpg",
@@ -16839,7 +16867,7 @@
 {
 "t": "Dong Cheng HD034406 1/2″ Drive Socket Set – 12pcs (metric)",
 "u": "https://beytech.com.lb/product/dong-cheng-12-piece-metric-combination-spanner-set/",
-"p": 24.42,
+"p": 25.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD034406-247x247.jpg",
@@ -16854,7 +16882,7 @@
 {
 "t": "Dong Cheng HD034402 1/4″ Drive Socket Set – 12pcs (metric)",
 "u": "https://beytech.com.lb/product/dong-cheng-12-piece-combination-spanner-set/",
-"p": 12.21,
+"p": 13.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD034402-247x247.jpg",
@@ -16869,7 +16897,7 @@
 {
 "t": "Dong Cheng HD116001 6pcs File Set",
 "u": "https://beytech.com.lb/product/dong-cheng-hd116001-6-piece-file-set/",
-"p": 4.16,
+"p": 5.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD116001-247x247.jpg",
@@ -16884,7 +16912,7 @@
 {
 "t": "Dong Cheng HD114601 250mm 3pcs Aviation Snip Set",
 "u": "https://beytech.com.lb/product/dong-cheng-3-piece-professional-aviation-snip-set/",
-"p": 17.43,
+"p": 18.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD114601-247x247.jpg",
@@ -16899,7 +16927,7 @@
 {
 "t": "Dong Cheng HD115203 250mm Right Aviation Snip",
 "u": "https://beytech.com.lb/product/dong-cheng-hd115201-250mm-left-cut-aviation-snips/",
-"p": 5.99,
+"p": 6.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD115203-247x247.jpg",
@@ -16914,7 +16942,7 @@
 {
 "t": "Dong Cheng HD115202 250mm Straight Aviation Snip",
 "u": "https://beytech.com.lb/product/dong-cheng-hd115202-250mm-straight-cut-aviation-snips/",
-"p": 5.99,
+"p": 6.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD115202-247x247.jpg",
@@ -16929,7 +16957,7 @@
 {
 "t": "Dong Cheng HD115201 250mm Left Aviation Snip",
 "u": "https://beytech.com.lb/product/dong-cheng-professional-aviation-snips/",
-"p": 5.99,
+"p": 6.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD115201-247x247.jpg",
@@ -16944,7 +16972,7 @@
 {
 "t": "Dong Cheng HD111019 190mm Metal Scraper",
 "u": "https://beytech.com.lb/product/50mm-professional-metal-scraper/",
-"p": 1.72,
+"p": 2.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD111019-247x247.jpg",
@@ -16959,7 +16987,7 @@
 {
 "t": "Dong Cheng HD115902 5pcs File Set",
 "u": "https://beytech.com.lb/product/dong-cheng-hd115902-5-piece-file-set/",
-"p": 15.82,
+"p": 16.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD115902-247x247.jpg",
@@ -16974,7 +17002,7 @@
 {
 "t": "Dong Cheng HD093101 9pcs Long Torx Key Set",
 "u": "https://beytech.com.lb/product/dong-cheng-hd093005-9-piece-extra-long-torx-key-set/",
-"p": 4.88,
+"p": 5.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD093101-247x247.jpg",
@@ -16989,7 +17017,7 @@
 {
 "t": "Dong Cheng HD094200 8pcs T-Handle Hex Wrench Set",
 "u": "https://beytech.com.lb/product/dong-cheng-hd094008-9-piece-extra-long-hex-wrench-set/",
-"p": 13.6,
+"p": 14.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD094200-247x247.jpg",
@@ -17004,7 +17032,7 @@
 {
 "t": "Dong Cheng HD092603 8pcs Folding Hex Key Set",
 "u": "https://beytech.com.lb/product/dong-cheng-ball-point-extra-long-hex-key-set/",
-"p": 3.89,
+"p": 4.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD092603-247x247.jpg",
@@ -17019,7 +17047,7 @@
 {
 "t": "Dong Cheng HD092602 9pcs Extra Long Hex Key Set",
 "u": "https://beytech.com.lb/product/dong-cheng-hd092-long-hex-key-set/",
-"p": 4.94,
+"p": 5.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD092602-247x247.jpg",
@@ -17034,7 +17062,7 @@
 {
 "t": "Dong Cheng HD092600 9pcs Hex Key Set",
 "u": "https://beytech.com.lb/product/dong-cheng-hd092-9pcs-hex-key-set/",
-"p": 3.44,
+"p": 4.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD092600-247x247.jpg",
@@ -17049,7 +17077,7 @@
 {
 "t": "Dong Cheng HD094101 Nut Rivet 350mm/14″",
 "u": "https://beytech.com.lb/product/dong-cheng-hd094-hand-rivet-350mm-14/",
-"p": 44.4,
+"p": 45.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD094101-247x247.jpg",
@@ -17064,7 +17092,7 @@
 {
 "t": "Dong Cheng HD094001 Hand Rivet 425mm/17″",
 "u": "https://beytech.com.lb/product/dong-cheng-hd094-blind-rivet-425mm-17/",
-"p": 9.71,
+"p": 10.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD094001-247x247.jpg",
@@ -17079,7 +17107,7 @@
 {
 "t": "Dong Cheng HD093001 Hand Rivet 200mm/8″",
 "u": "https://beytech.com.lb/product/dong-cheng-hd093001-200mm-hand-rivet-tool/",
-"p": 12.49,
+"p": 13.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD093001-247x247.jpg",
@@ -17094,7 +17122,7 @@
 {
 "t": "Dong Cheng HD093000 Hand Rivet 230mm/9″",
 "u": "https://beytech.com.lb/product/dong-cheng-hd093000-230mm-hand-rivet-tool/",
-"p": 4.55,
+"p": 5.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD093000-247x247.jpg",
@@ -17109,7 +17137,7 @@
 {
 "t": "Dong Cheng HD092601 9pcs Long Hex Key Set",
 "u": "https://beytech.com.lb/product/dong-cheng-hd092001-9-piece-ball-point-extra-long-hex-key-set/",
-"p": 4.27,
+"p": 5.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD092601-247x247.jpg",
@@ -17124,7 +17152,7 @@
 {
 "t": "Dong Cheng HD121502 12″/300mm Bi-Metal Hacksaw Blade",
 "u": "https://beytech.com.lb/product/dong-cheng-hd121-metal-hacksaw-blade/",
-"p": 1.03,
+"p": 2.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD121502-247x247.jpg",
@@ -17139,7 +17167,7 @@
 {
 "t": "Dong Cheng HD121112 12″/300mm Aluminum Hacksaw Frame",
 "u": "https://beytech.com.lb/product/dong-cheng-hd121-aluminum-hacksaw-frame/",
-"p": 9.27,
+"p": 10.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD121112-247x247.jpg",
@@ -17154,7 +17182,7 @@
 {
 "t": "Dong Cheng HD112502 12″/300mm Mini Hacksaw Frame",
 "u": "https://beytech.com.lb/product/dong-cheng-hd112-mini-hacksaw-frame/",
-"p": 1.94,
+"p": 2.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD112502-247x247.jpg",
@@ -17169,7 +17197,7 @@
 {
 "t": "Dong Cheng HD114000 3-19mm Pipe Cutter Set",
 "u": "https://beytech.com.lb/product/dong-cheng-hd114-pipe-cutter-set/",
-"p": 25.53,
+"p": 26.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD114000-247x247.jpg",
@@ -17184,7 +17212,7 @@
 {
 "t": "Dong Cheng HD114028 3-28mm Metal Pipe Cutter",
 "u": "https://beytech.com.lb/product/dong-cheng-hd114-metal-pipe-cutter-2/",
-"p": 4.55,
+"p": 5.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD114028-247x247.jpg",
@@ -17199,7 +17227,7 @@
 {
 "t": "Dong Cheng HD113063 63mm PVC Pipe Cutter",
 "u": "https://beytech.com.lb/product/dong-cheng-hd113-pvc-pipe-cutter-2/",
-"p": 16.1,
+"p": 17.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD113063-247x247.jpg",
@@ -17214,7 +17242,7 @@
 {
 "t": "Dong Cheng HD113042 42mm PVC Pipe Cutter",
 "u": "https://beytech.com.lb/product/dong-cheng-hd113-pvc-pipe-cutter/",
-"p": 7.49,
+"p": 8.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD113042-247x247.jpg",
@@ -17229,7 +17257,7 @@
 {
 "t": "Dong Cheng HD094202 8pcs T-Handle Torx Wrench Set",
 "u": "https://beytech.com.lb/product/dong-cheng-hd094-torx-wrench-set/",
-"p": 14.43,
+"p": 15.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD094202-247x247.jpg",
@@ -17244,7 +17272,7 @@
 {
 "t": "Dong Cheng HD093103 8pcs Folding Torx Key Set",
 "u": "https://beytech.com.lb/product/dong-cheng-hd093-folding-torx-key-set/",
-"p": 4.22,
+"p": 5.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD093103-247x247.jpg",
@@ -17259,7 +17287,7 @@
 {
 "t": "Dong Cheng HD114032 4-32mm Metal Pipe Cutter",
 "u": "https://beytech.com.lb/product/dong-cheng-hd114-metal-pipe-cutter/",
-"p": 15.1,
+"p": 16.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD114032-247x247.jpg",
@@ -17274,7 +17302,7 @@
 {
 "t": "Dong Cheng HD091253 8pcs Screwdriver Set",
 "u": "https://beytech.com.lb/product/dong-cheng-hd091-screwdriver-set-4/",
-"p": 8.44,
+"p": 9.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD091253-247x247.jpg",
@@ -17289,7 +17317,7 @@
 {
 "t": "Dong Cheng HD091410 6pcs Precision Screwdriver Set",
 "u": "https://beytech.com.lb/product/dong-cheng-hd091-screwdriver-set-3/",
-"p": 2.33,
+"p": 3.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD091410-247x247.jpg",
@@ -17304,7 +17332,7 @@
 {
 "t": "Dong Cheng HD091430 6pcs Precision Screwdriver Set",
 "u": "https://beytech.com.lb/product/dong-cheng-hd091-screwdriver-set-2/",
-"p": 5.83,
+"p": 6.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD091430-247x247.jpg",
@@ -17319,7 +17347,7 @@
 {
 "t": "Dong Cheng HD091252 6pcs Screwdriver Set",
 "u": "https://beytech.com.lb/product/dong-cheng-hd091-screwdriver-set/",
-"p": 6.27,
+"p": 7.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD091252-247x247.jpg",
@@ -17334,7 +17362,7 @@
 {
 "t": "Dong Cheng HD090417 Phillips Screwdriver PH3x300mm",
 "u": "https://beytech.com.lb/product/dong-cheng-hd090-screwdriver-ph3x300mm/",
-"p": 2.33,
+"p": 3.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD090417-247x247.jpg",
@@ -17349,7 +17377,7 @@
 {
 "t": "Dong Cheng HD090412 Phillips Screwdriver PH2x200mm",
 "u": "https://beytech.com.lb/product/dong-cheng-hd090-screwdriver-ph2x200mm/",
-"p": 1.5,
+"p": 2.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD090412-247x247.jpg",
@@ -17364,7 +17392,7 @@
 {
 "t": "Dong Cheng HD090411 Phillips Screwdriver PH2x150mm",
 "u": "https://beytech.com.lb/product/dong-cheng-hd090-screwdriver-ph2x150mm/",
-"p": 1.44,
+"p": 2.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD090411-247x247.jpg",
@@ -17379,7 +17407,7 @@
 {
 "t": "Dong Cheng HD090410 Phillips Screwdriver PH2x125mm",
 "u": "https://beytech.com.lb/product/dong-cheng-hd090-screwdriver-ph2x125mm/",
-"p": 1.28,
+"p": 2.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD090410-247x247.jpg",
@@ -17394,7 +17422,7 @@
 {
 "t": "Dong Cheng HD090404 Phillips Screwdriver PH1x100mm",
 "u": "https://beytech.com.lb/product/dong-cheng-hd090-screwdriver-ph1x100mm/",
-"p": 1.05,
+"p": 2.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD090404-247x247.jpg",
@@ -17409,7 +17437,7 @@
 {
 "t": "Dong Cheng HD090604 2 in 1 Screwdriver Set",
 "u": "https://beytech.com.lb/product/dong-cheng-hd090-screwdriver-set/",
-"p": 1.94,
+"p": 2.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD090604-247x247.jpg",
@@ -17439,7 +17467,7 @@
 {
 "t": "Dong Cheng HD102400 Concrete Point Chisel 4x16x250mm",
 "u": "https://beytech.com.lb/product/dong-cheng-hd102-point-chisel-4x16x250mm/",
-"p": 3.5,
+"p": 4.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD102400-247x247.jpg",
@@ -17469,7 +17497,7 @@
 {
 "t": "Dong Cheng HD102300 Cold Flat Chisel 22x16x250mm",
 "u": "https://beytech.com.lb/product/dong-cheng-hd102-flat-chisel-22x16x250mm/",
-"p": 3.5,
+"p": 4.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD102300-247x247.jpg",
@@ -17484,7 +17512,7 @@
 {
 "t": "Dong Cheng HD092502 55pcs Screwdriver Set",
 "u": "https://beytech.com.lb/product/dong-cheng-hd092-screwdriver-set-2/",
-"p": 14.87,
+"p": 15.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD092502-247x247.jpg",
@@ -17499,7 +17527,7 @@
 {
 "t": "Dong Cheng HD092500 49pcs Impact Screwdriver Bit Set",
 "u": "https://beytech.com.lb/product/dong-cheng-hd092-screwdriver-bit-set/",
-"p": 18.09,
+"p": 19.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD092500-247x247.jpg",
@@ -17514,7 +17542,7 @@
 {
 "t": "Dong Cheng HD092503 37pcs Precision Screwdriver Set",
 "u": "https://beytech.com.lb/product/dong-cheng-hd092-screwdriver-set/",
-"p": 6.33,
+"p": 7.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD092503-247x247.jpg",
@@ -17529,7 +17557,7 @@
 {
 "t": "Dong Cheng HD092501 26pcs Impact Screwdriver Bit Set",
 "u": "https://beytech.com.lb/product/dong-cheng-hd092-screwdriver-bit-set-2/",
-"p": 18.87,
+"p": 19.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD092501-247x247.jpg",
@@ -17544,7 +17572,7 @@
 {
 "t": "Dong Cheng HD090690 21pcs Screwdriver Set",
 "u": "https://beytech.com.lb/product/dong-cheng-hd090-screwdriver-set-2/",
-"p": 4.44,
+"p": 5.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD090690-247x247.jpg",
@@ -17559,7 +17587,7 @@
 {
 "t": "Dong Cheng HD102200 3pcs Wood Chisel Set",
 "u": "https://beytech.com.lb/product/dong-cheng-hd102-wood-chisel-set/",
-"p": 13.32,
+"p": 14.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD102200-247x247.jpg",
@@ -17574,7 +17602,7 @@
 {
 "t": "Dong Cheng HD100602 300g Machinist Hammer",
 "u": "https://beytech.com.lb/product/dong-cheng-hd100-machinist-hammer-2/",
-"p": 4.11,
+"p": 5.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD100602-247x247.jpg",
@@ -17589,7 +17617,7 @@
 {
 "t": "Dong Cheng HD100601 200g Machinist Hammer",
 "u": "https://beytech.com.lb/product/dong-cheng-hd100-machinist-hammer/",
-"p": 3.61,
+"p": 4.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD100601-247x247.jpg",
@@ -17604,7 +17632,7 @@
 {
 "t": "Dong Cheng HD100402 24 OZ Claw Hammer",
 "u": "https://beytech.com.lb/product/dong-cheng-hd100-24-oz-claw-hammer/",
-"p": 6.77,
+"p": 7.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD100402-247x247.jpg",
@@ -17619,7 +17647,7 @@
 {
 "t": "Dong Cheng HD100401 16 OZ Claw Hammer",
 "u": "https://beytech.com.lb/product/dong-cheng-hd100-16-oz-claw-hammer/",
-"p": 5.44,
+"p": 6.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD100401-247x247.jpg",
@@ -17634,7 +17662,7 @@
 {
 "t": "Dong Cheng HD070708 8″ Bench Vice",
 "u": "https://beytech.com.lb/product/dong-cheng-hd070708-8-bench-vice/",
-"p": 183.15,
+"p": 184.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD070708-247x247.jpg",
@@ -17649,7 +17677,7 @@
 {
 "t": "Dong Cheng HD070706 6″ Bench Vice",
 "u": "https://beytech.com.lb/product/dong-cheng-hd070706-6-bench-vice/",
-"p": 133.2,
+"p": 134.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD070706-247x247.jpg",
@@ -17664,7 +17692,7 @@
 {
 "t": "Dong Cheng HD070705 5″ Bench Vice",
 "u": "https://beytech.com.lb/product/dong-cheng-hd070705-5-bench-vice/",
-"p": 91.02,
+"p": 92.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD070705-247x247.jpg",
@@ -17679,7 +17707,7 @@
 {
 "t": "Dong Cheng HD070704 4″ Bench Vice",
 "u": "https://beytech.com.lb/product/dong-cheng-hd070704-4-bench-vice/",
-"p": 61.05,
+"p": 62.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD070704-247x247.jpg",
@@ -17694,7 +17722,7 @@
 {
 "t": "Dong Cheng HD071303 Quick Bar Clamp 63x450mm",
 "u": "https://beytech.com.lb/product/dong-cheng-hd071-f-clamp-63x450mm/",
-"p": 5.83,
+"p": 6.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD071303-247x247.jpg",
@@ -17709,7 +17737,7 @@
 {
 "t": "Dong Cheng HD100400 8 OZ Claw Hammer",
 "u": "https://beytech.com.lb/product/dong-cheng-hd100-8-oz-claw-hammer/",
-"p": 4.11,
+"p": 5.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD100400-247x247.jpg",
@@ -17724,7 +17752,7 @@
 {
 "t": "Dong Cheng HD090311 Slotted Screwdriver 6x150mm",
 "u": "https://beytech.com.lb/product/dong-cheng-hd090-6x150mm-screwdriver/",
-"p": 1.39,
+"p": 2.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD090311-247x247.jpg",
@@ -17739,7 +17767,7 @@
 {
 "t": "Dong Cheng HD090304 Slotted Screwdriver 5x100mm",
 "u": "https://beytech.com.lb/product/dong-cheng-hd090-5x100mm-screwdriver/",
-"p": 1.11,
+"p": 2.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD090304-247x247.jpg",
@@ -17754,7 +17782,7 @@
 {
 "t": "Dong Cheng HD101500 600g Rubber Handle Axe",
 "u": "https://beytech.com.lb/product/dong-cheng-rubber-handle-axe/",
-"p": 7.33,
+"p": 8.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD101500-247x247.jpg",
@@ -17769,7 +17797,7 @@
 {
 "t": "Dong Cheng HD101801 16 OZ Rubber Hammer",
 "u": "https://beytech.com.lb/product/dong-cheng-rubber-mallet-hammer/",
-"p": 4.11,
+"p": 5.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD101801-247x247.jpg",
@@ -17784,7 +17812,7 @@
 {
 "t": "Dong Cheng HD101002 1500g Stoning Hammer",
 "u": "https://beytech.com.lb/product/dong-cheng-hd101-masonry-stone-hammer-2/",
-"p": 9.16,
+"p": 10.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD101002-247x247.jpg",
@@ -17799,7 +17827,7 @@
 {
 "t": "Dong Cheng HD101001 1250g Stoning Hammer",
 "u": "https://beytech.com.lb/product/dong-cheng-hd101-masonry-stone-hammer/",
-"p": 8.66,
+"p": 9.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD101001-247x247.jpg",
@@ -17814,7 +17842,7 @@
 {
 "t": "Dong Cheng HD101000 1000g Stoning Hammer",
 "u": "https://beytech.com.lb/product/dong-cheng-machinist-hammer-3/",
-"p": 7.33,
+"p": 8.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD101000-247x247.jpg",
@@ -17829,7 +17857,7 @@
 {
 "t": "Dong Cheng HD100604 500g Machinist Hammer",
 "u": "https://beytech.com.lb/product/dong-cheng-machinist-hammer-2/",
-"p": 4.77,
+"p": 5.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD100604-247x247.jpg",
@@ -17844,7 +17872,7 @@
 {
 "t": "Dong Cheng HD100603 400g Machinist Hammer",
 "u": "https://beytech.com.lb/product/dong-cheng-machinist-hammer/",
-"p": 4.44,
+"p": 5.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD100603-247x247.jpg",
@@ -17859,7 +17887,7 @@
 {
 "t": "Dong Cheng HD101800 8 OZ Rubber Hammer",
 "u": "https://beytech.com.lb/product/dong-cheng-hd101800-8-oz-rubber-hammer/",
-"p": 3.33,
+"p": 4.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD101800-247x247.jpg",
@@ -17874,7 +17902,7 @@
 {
 "t": "Dong Cheng HD071010 10″ G-Clamp",
 "u": "https://beytech.com.lb/product/dong-cheng-hd071010-10-g-clamp/",
-"p": 15.82,
+"p": 16.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD071010-247x247.jpg",
@@ -17889,7 +17917,7 @@
 {
 "t": "Dong Cheng HD071008 8″ G-Clamp",
 "u": "https://beytech.com.lb/product/dong-cheng-hd071008-8-g-clamp/",
-"p": 13.1,
+"p": 14.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD071008-247x247.jpg",
@@ -17904,7 +17932,7 @@
 {
 "t": "Dong Cheng HD071006 6″ G-Clamp",
 "u": "https://beytech.com.lb/product/dong-cheng-hd071006-6-g-clamp/",
-"p": 8.33,
+"p": 9.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD071006-247x247.jpg",
@@ -17919,7 +17947,7 @@
 {
 "t": "Dong Cheng HD071005 5″ G-Clamp",
 "u": "https://beytech.com.lb/product/dong-cheng-hd071005-5-g-clamp/",
-"p": 7.66,
+"p": 8.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD071005-247x247.jpg",
@@ -17934,7 +17962,7 @@
 {
 "t": "Dong Cheng HD071003 3″ G-Clamp",
 "u": "https://beytech.com.lb/product/dong-cheng-hd071003-3-g-clamp/",
-"p": 4.11,
+"p": 5.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD071003-247x247.jpg",
@@ -17949,7 +17977,7 @@
 {
 "t": "Dong Cheng HD071002 2″ G-Clamp",
 "u": "https://beytech.com.lb/product/dong-cheng-hd071002-2-g-clamp/",
-"p": 2.5,
+"p": 3.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD071002-247x247.jpg",
@@ -17964,7 +17992,7 @@
 {
 "t": "Dong Cheng HD071507 7″ 4pcs Circlip Pliers Set",
 "u": "https://beytech.com.lb/product/dong-cheng-circlip-pliers-set/",
-"p": 14.99,
+"p": 15.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD071507-247x247.jpg",
@@ -17979,7 +18007,7 @@
 {
 "t": "Dong Cheng HD071414 7″ Bent Head External Circlip Plier",
 "u": "https://beytech.com.lb/product/dong-cheng-7-inch-external-circlip-plier/",
-"p": 4.11,
+"p": 5.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD071414-247x247.jpg",
@@ -17994,7 +18022,7 @@
 {
 "t": "Dong Cheng HD071410 7″ Bent Head Internal Circlip Plier",
 "u": "https://beytech.com.lb/product/dong-cheng-7-inch-circlip-plier/",
-"p": 4.11,
+"p": 5.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD071410-247x247.jpg",
@@ -18009,7 +18037,7 @@
 {
 "t": "Dong Cheng HD071004 4″ G-Clamp",
 "u": "https://beytech.com.lb/product/dong-cheng-hd071004-4-g-clamp/",
-"p": 6.11,
+"p": 7.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD071004-247x247.jpg",
@@ -18024,7 +18052,7 @@
 {
 "t": "Dong Cheng HD071302 Quick Bar Clamp 63x300mm",
 "u": "https://beytech.com.lb/product/dong-cheng-63x300mm-f-clamp/",
-"p": 5.11,
+"p": 6.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD071302-247x247.jpg",
@@ -18039,7 +18067,7 @@
 {
 "t": "Dong Cheng HD071301 Quick Bar Clamp 63x150mm",
 "u": "https://beytech.com.lb/product/dong-cheng-63x150mm-f-clamp/",
-"p": 4.38,
+"p": 5.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD071301-247x247.jpg",
@@ -18054,7 +18082,7 @@
 {
 "t": "Dong Cheng HD071209 F-Clamp with Plastic Handle 120x800mm",
 "u": "https://beytech.com.lb/product/dong-cheng-120x800mm-f-clamp-wooden-handle/",
-"p": 18.65,
+"p": 19.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD071209-247x247.jpg",
@@ -18069,7 +18097,7 @@
 {
 "t": "Dong Cheng HD071207 F-Clamp with Plastic Handle 120x500mm",
 "u": "https://beytech.com.lb/product/dong-cheng-120x500mm-f-clamp-wooden-handle/",
-"p": 14.54,
+"p": 15.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD071207-247x247.jpg",
@@ -18084,7 +18112,7 @@
 {
 "t": "Dong Cheng HD071204 F-Clamp with Plastic Handle 80x300mm",
 "u": "https://beytech.com.lb/product/dong-cheng-80x300mm-f-clamp-wooden-handle/",
-"p": 7.22,
+"p": 8.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD071204-247x247.jpg",
@@ -18099,7 +18127,7 @@
 {
 "t": "Dong Cheng HD071203 F-Clamp with Plastic Handle 50x250mm",
 "u": "https://beytech.com.lb/product/dong-cheng-50x250mm-f-clamp-wooden-handle/",
-"p": 4.11,
+"p": 5.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD071203-247x247.jpg",
@@ -18114,7 +18142,7 @@
 {
 "t": "Dong Cheng HD071202 F-Clamp with Plastic Handle 50x200mm",
 "u": "https://beytech.com.lb/product/dong-cheng-50x200mm-f-clamp-wooden-handle/",
-"p": 3.89,
+"p": 4.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD071202-247x247.jpg",
@@ -18129,7 +18157,7 @@
 {
 "t": "Dong Cheng HD071201 F-Clamp with Plastic Handle 50x150mm",
 "u": "https://beytech.com.lb/product/dong-cheng-50x150mm-f-clamp-wooden-handle/",
-"p": 3.77,
+"p": 4.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD071201-247x247.jpg",
@@ -18144,7 +18172,7 @@
 {
 "t": "Dong Cheng HD071012 12″ G-Clamp",
 "u": "https://beytech.com.lb/product/dong-cheng-hd071012-12-g-clamp/",
-"p": 19.43,
+"p": 20.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD071012-247x247.jpg",
@@ -18159,7 +18187,7 @@
 {
 "t": "Dong Cheng HD071205 F-Clamp with Plastic Handle 120x300mm",
 "u": "https://beytech.com.lb/product/dong-cheng-120x300mm-f-clamp-wooden-handle/",
-"p": 12.43,
+"p": 13.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD071205-247x247.jpg",
@@ -18174,7 +18202,7 @@
 {
 "t": "DongCheng HD070316 152mm High Leverage Long Nose Plier",
 "u": "https://beytech.com.lb/product/dong-cheng-8-inch-long-nose-plier/",
-"p": 6.33,
+"p": 7.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD070316-247x247.jpg",
@@ -18189,7 +18217,7 @@
 {
 "t": "Dong Cheng HD070308 200mm High Leverage Combination Plier",
 "u": "https://beytech.com.lb/product/dong-cheng-8-inch-heavy-duty-combination-plier/",
-"p": 6.66,
+"p": 7.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD070308-247x247.jpg",
@@ -18204,7 +18232,7 @@
 {
 "t": "Dong Cheng HD070307 180mm High Leverage Combination Plier",
 "u": "https://beytech.com.lb/product/dong-cheng-combination-plier/",
-"p": 6.44,
+"p": 7.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD070307-247x247.jpg",
@@ -18219,7 +18247,7 @@
 {
 "t": "Dong Cheng HD070101 3Pcs Plier Set",
 "u": "https://beytech.com.lb/product/dong-cheng-3pcs-plier-set/",
-"p": 12.21,
+"p": 13.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD070101-247x247.jpg",
@@ -18234,7 +18262,7 @@
 {
 "t": "Dong Cheng HD070126 152mm Diagonal Cutting Plier",
 "u": "https://beytech.com.lb/product/dong-cheng-diagonal-cutting-plier-2/",
-"p": 3.66,
+"p": 4.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD070126-247x247.jpg",
@@ -18249,7 +18277,7 @@
 {
 "t": "Dong Cheng HD070118 200mm Long Nose Plier",
 "u": "https://beytech.com.lb/product/dong-cheng-8-inch-long-nose-plier-2/",
-"p": 4.27,
+"p": 5.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD070118-247x247.jpg",
@@ -18264,7 +18292,7 @@
 {
 "t": "Dong Cheng HD070116 152mm Long Nose Plier",
 "u": "https://beytech.com.lb/product/dong-cheng-long-nose-plier/",
-"p": 3.5,
+"p": 4.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD070116-247x247.jpg",
@@ -18279,7 +18307,7 @@
 {
 "t": "Dong Cheng HD070108 200mm Combination Plier",
 "u": "https://beytech.com.lb/product/dong-cheng-8-inch-combination-plier/",
-"p": 4.66,
+"p": 5.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD070108-247x247.jpg",
@@ -18294,7 +18322,7 @@
 {
 "t": "Dong Cheng HD070107 180mm Combination Plier",
 "u": "https://beytech.com.lb/product/dong-cheng-combination-plier-2/",
-"p": 4.11,
+"p": 5.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD070107-247x247.jpg",
@@ -18309,7 +18337,7 @@
 {
 "t": "Dong Cheng HD070127 180mm Diagonal Cutting Plier",
 "u": "https://beytech.com.lb/product/dong-cheng-diagonal-cutting-plier/",
-"p": 4.66,
+"p": 5.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD070127-247x247.jpg",
@@ -18324,7 +18352,7 @@
 {
 "t": "Dong Cheng HD071406 7″ Straight Head External Circlip Plier",
 "u": "https://beytech.com.lb/product/dong-cheng-hd0714-straight-head-external-circlip-plier/",
-"p": 4.11,
+"p": 5.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD071406-247x247.jpg",
@@ -18339,7 +18367,7 @@
 {
 "t": "Dong Cheng HD071402 7″ Straight Head Internal Circlip Plier",
 "u": "https://beytech.com.lb/product/dong-cheng-hd071402-7-straight-head-internal-circlip-plier/",
-"p": 4.11,
+"p": 5.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD071402-247x247.jpg",
@@ -18354,7 +18382,7 @@
 {
 "t": "Dong Cheng HD071611 10″ Straight Jaw Plier",
 "u": "https://beytech.com.lb/product/dong-cheng-straight-jaw-plier/",
-"p": 7.38,
+"p": 8.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD071611-247x247.jpg",
@@ -18369,7 +18397,7 @@
 {
 "t": "Dong Cheng HD072012 12″ Pump Plier",
 "u": "https://beytech.com.lb/product/dong-cheng-hd072012-12-pump-plier/",
-"p": 8.99,
+"p": 9.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD072012-247x247.jpg",
@@ -18384,7 +18412,7 @@
 {
 "t": "Dong Cheng HD070608 6Pcs Mini Pliers Set",
 "u": "https://beytech.com.lb/product/dong-cheng-mini-pliers-set/",
-"p": 12.77,
+"p": 13.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD070608-247x247.jpg",
@@ -18399,7 +18427,7 @@
 {
 "t": "Dong Cheng HD070301 3Pcs High Leverage Plier Set",
 "u": "https://beytech.com.lb/product/dong-cheng-hd070301-3pcs-high-leverage-plier-set/",
-"p": 18.32,
+"p": 19.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD070301-247x247.jpg",
@@ -18414,7 +18442,7 @@
 {
 "t": "Dong Cheng HD070327 200mm High Leverage Diagonal Cutting Plier",
 "u": "https://beytech.com.lb/product/dong-cheng-hd070127-180mm-diagonal-cutting-plier/",
-"p": 7.33,
+"p": 8.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD070327-247x247.jpg",
@@ -18429,7 +18457,7 @@
 {
 "t": "Dong Cheng HD070326 152mm High Leverage Diagonal Cutting Plier",
 "u": "https://beytech.com.lb/product/dong-cheng-hd0702-7-diagonal-cutting-plier/",
-"p": 6.44,
+"p": 7.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD070326-247x247.jpg",
@@ -18444,7 +18472,7 @@
 {
 "t": "DongCheng HD070318 200mm High Leverage Long Nose Plier",
 "u": "https://beytech.com.lb/product/dongcheng-hd0703-6-inch-long-nose-plier/",
-"p": 7.05,
+"p": 8.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD070318-247x247.jpg",
@@ -18459,7 +18487,7 @@
 {
 "t": "Dong Cheng HD072010 10″ Pump Plier",
 "u": "https://beytech.com.lb/product/dong-cheng-hd072010-10-pump-plier/",
-"p": 6.44,
+"p": 7.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HD072010-247x247.jpg",
@@ -25286,7 +25314,7 @@
 {
 "t": "Samsung Mobile  Galaxy A57",
 "u": "https://beytech.com.lb/product/samsung-mobile-galaxy-a57/",
-"p": 485.0,
+"p": 500.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/04/A57-Lilac-247x247.jpg",
@@ -25300,7 +25328,7 @@
 {
 "t": "Samsung Mobile  Galaxy A37",
 "u": "https://beytech.com.lb/product/mobile-galaxy-a37/",
-"p": 420.0,
+"p": 445.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/04/A37-Green-247x247.jpg",
@@ -26037,7 +26065,7 @@
 {
 "t": "Samsung Tab A11+ 11″ WIFI |   128-6 GB | 256 GB 8 GB | OS :Android 16 with One UI 8",
 "u": "https://beytech.com.lb/product/samsung-tab-a11-11-wifi-128-6-gb-256-gb-8-gb-os-android-16-with-one-ui-8/",
-"p": 240.0,
+"p": 235.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2025/09/X-135-TAB-A11-3-247x247.jpg",
@@ -27758,7 +27786,7 @@
 "Bakeware",
 "Pyrex"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Pyrex GL06BU6 6 Cup Muffin Tray",
@@ -27837,11 +27865,11 @@
 {
 "t": "Haier H100S90FUX 100″ Smart Mini Led Tv 4K  Google Tv 144Hz  Ai",
 "u": "https://beytech.com.lb/product/haier-h100s90fux-100-smart-mini-led-tv-4k-google-tv-144hz-ai/",
-"p": 2897.0,
-"c": null,
+"p": 2549.0,
+"c": 2897.0,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/03/H100S90FUX-for-website-247x247.jpg",
-"type": "Electronics, Haier, Home Audio &amp; Video",
+"type": "Autumn Offers 🍂, Electronics, Haier",
 "tags": [
 "Haier",
 "LED",
@@ -27968,7 +27996,7 @@
 "Frypan",
 "Pyrex"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Pyrex Cook & Care Ceramic Non-Stick Frying Pan  28 cm",
@@ -27982,7 +28010,7 @@
 "Frypan",
 "Pyrex"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Pyrex Cook & Care Ceramic Non-Stick Frying Pan  26 cm",
@@ -28010,7 +28038,7 @@
 "Pyrex",
 "Roaster"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Pyrex Borosilicate Glass Storage Dish  2 L",
@@ -29205,7 +29233,7 @@
 },
 {
 "t": "Samsung Galaxy Buds4 Pro",
-"u": "https://beytech.com.lb/product/samsung-galaxy-buds4-pro-pre-order/",
+"u": "https://beytech.com.lb/product/samsung-galaxy-buds4-pro/",
 "p": 185.0,
 "c": null,
 "cur": "USD",
@@ -29419,7 +29447,7 @@
 "Frypan",
 "Pyrex"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Pyrex Cook & Care Non Stick Frying Pan 30cm CR30BF6 Cook&Care Frying Pan – 30 cm",
@@ -29461,7 +29489,7 @@
 "Frypan",
 "Pyrex"
 ],
-"in": true
+"in": false
 },
 {
 "t": "yrex Cook & Care Frypan 24 cm (Model CR24BF6)",
@@ -29503,7 +29531,7 @@
 "Frypan",
 "Pyrex"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Pyrex PY 913S660 Cook & Store Rectangular with Lid, Set of 3 Red",
@@ -29531,7 +29559,7 @@
 "Pyrex",
 "Roaster"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Pyrex 913S677 Set of 2 Rectangular Dishes + Lid Cook & Go",
@@ -29573,7 +29601,7 @@
 "Pyrex",
 "Roaster"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Pyrex 212B100 Air Fryer Compatible Square Glass Dish Roaster 25cm",
@@ -29587,7 +29615,7 @@
 "Pyrex",
 "Roaster"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Pyrex 211B100 Air Fryer Compatible Glass Square Dish Roaster 20cm",
@@ -29643,7 +29671,7 @@
 "Kenwood",
 "Wine Coolers"
 ],
-"in": true
+"in": false
 },
 {
 "t": "kenwood 290886",
@@ -29951,7 +29979,7 @@
 "Robot Vacuum Cleaner",
 "Vacuum Cleaners"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Nutricook NC-PM150 Popcorn Maker Up to 16 cups",
@@ -31278,7 +31306,7 @@
 "Bissell",
 "Vacuum Cleaners"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Smeg KLF03SBMEU Kettle 1  7L Storm Blue Matt",
@@ -31992,7 +32020,7 @@
 "samsung",
 "Samsung S26"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Samsung Galaxy S26 plus 256GB",
@@ -32391,7 +32419,7 @@
 {
 "t": "DongCheng DCPL04-5(E) 4V, 5Nm, 6  35mm HEX Cordless Screwdriver",
 "u": "https://beytech.com.lb/product/dongcheng-dcpl04-5e-4v-5nm-6-35mm-hex-cordless-screwdriver/",
-"p": 44.4,
+"p": 45.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/01/ddbd3332ca046be802bffa4fc7f8944e-247x247.jpg",
@@ -33480,7 +33508,7 @@
 "Bissell",
 "Vacuum Cleaners"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Bissel 48F3E Upright Carpet Washer BigGreen Commercial Deep Cleaner",
@@ -33650,7 +33678,7 @@
 "Hair Straightener",
 "Hair Straighteners"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Dreame Pocket Gold Hair Dryer",
@@ -33665,7 +33693,7 @@
 "Hair care",
 "Hair Dryer"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Dreame Pocket Grey Hair Dryer",
@@ -33731,7 +33759,7 @@
 {
 "t": "Samsung Tab A11+ 11″ 5G |   128-6 GB | 256 GB 8 GB | OS :Android 16 with One UI 8",
 "u": "https://beytech.com.lb/product/samsung-tab-a11-11-5-gb-128-6-256-gb-8/",
-"p": 299.0,
+"p": 295.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2025/09/X-135-TAB-A11-3-247x247.jpg",
@@ -36255,7 +36283,7 @@
 "Korkmaz",
 "Pressure cooker"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Korkmaz A173-01 Elissa Pressure Cooker 12L",
@@ -36908,7 +36936,7 @@
 "Karcher",
 "Water Pressure Machines"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Karcher GB 1  676-102  0 K 3 Power Control",
@@ -44629,33 +44657,5 @@
 "Televisions"
 ],
 "in": false
-},
-{
-"t": "ELICA PRF0080075B Tube Pro Wall mounted cooker hood Stainless steel",
-"u": "https://beytech.com.lb/product/elica-prf0080075b-tube-pro-wall-mounted-cooker-hood-stainless-steel/",
-"p": 1449.0,
-"c": null,
-"cur": "USD",
-"img": "https://beytech.com.lb/wp-content/uploads/2025/10/PRF0080075B.jpeg-247x247.png",
-"type": "Home Appliances, Hoods, Large Appliances",
-"tags": [
-"Elica",
-"Hoods"
-],
-"in": true
-},
-{
-"t": "Samsung Tab A11 8  7″ WIFI   Grey and Silver",
-"u": "https://beytech.com.lb/product/samsung-tab-a11-8-7-wifi-grey-and-silver/",
-"p": 139.0,
-"c": null,
-"cur": "USD",
-"img": "https://beytech.com.lb/wp-content/uploads/2025/09/X-135-TAB-A11-3-247x247.jpg",
-"type": "Electronics, Ipad &amp; Tablets, Mobiles &amp; Tablets",
-"tags": [
-"samsung",
-"Tablets"
-],
-"in": true
 }
 ]
