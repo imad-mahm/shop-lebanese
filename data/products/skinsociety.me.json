@@ -695,7 +695,7 @@
 "Moisturizers",
 "new arrivals"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Plactive Neural",
@@ -1606,7 +1606,7 @@
 "tags": [
 "No-Sync"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Kérastase Genesis Anti Hair-Fall Fortifying Serum - Gift",
@@ -2124,7 +2124,7 @@
 "Item Type_Day & Night Care",
 "Item Type_Face Serums"
 ],
-"in": true
+"in": false
 },
 {
 "t": "L'eau Bleue Eau de Parfum",
@@ -2462,7 +2462,7 @@
 "Item Type_Underarms",
 "korean"
 ],
-"in": true
+"in": false
 },
 {
 "t": "NOW Magnesium Glycinate",
@@ -4117,7 +4117,7 @@
 "No-Sync",
 "Value Deals"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Thermal Micellar Water Sensitive Skin 500ml + 100ml Free",
@@ -4868,7 +4868,7 @@
 "Category_Bath & Body",
 "Disney"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Spider-Man Toiletry Bag EDT 50 ml + Shower Gel 100 ml",
@@ -5838,7 +5838,7 @@
 "Product Type_Value Deals",
 "Sub Category_Value Deals"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Hydra Genius Normal to Combination Skin Duo",
@@ -5912,7 +5912,7 @@
 "Product Type_Value Deals",
 "Sub Category_Value Deals"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Stitch Round Makeup Case",
@@ -6616,7 +6616,7 @@
 "POSM",
 "SEARCH_IGNORE"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Silky & Buttery Hand Cream",
@@ -7126,7 +7126,7 @@
 "Masks & Patches",
 "Medicube"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Deep Vita C Pad",
@@ -7546,7 +7546,7 @@
 "Loyalty Program",
 "Luxury"
 ],
-"in": true
+"in": false
 },
 {
 "t": "1 Million Gold For Her Eau De Parfum",
@@ -8683,7 +8683,7 @@
 "Loyalty Program",
 "new arrivals"
 ],
-"in": true
+"in": false
 },
 {
 "t": "One Step Original Peptide Collagen Lifting Glow Pads",
@@ -8804,19 +8804,6 @@
 "Eau De Parfum"
 ],
 "in": true
-},
-{
-"t": "GNC Men Prostate Formula",
-"u": "https://skinsociety.me/products/gnc-men-prostate-formula",
-"p": 55.0,
-"c": null,
-"cur": "USD",
-"img": "",
-"type": "Parapharmacy",
-"tags": [
-"48107246051"
-],
-"in": false
 },
 {
 "t": "Healthy Mix Glow Tint Essence",
@@ -12241,7 +12228,7 @@
 "Face Wash & Cleansers",
 "Item Type_Face Masks"
 ],
-"in": true
+"in": false
 },
 {
 "t": "PDRN Pink Collagen Gel Mask (4EA)",
@@ -13175,7 +13162,7 @@
 "Loyalty Program",
 "Luxury"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Flower By Kenzo Coffret",
@@ -15711,7 +15698,7 @@
 "POSM",
 "SEARCH_IGNORE"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Sebiaclear Cleansing Cream Moisturising Soothing",
@@ -19744,7 +19731,7 @@
 "887167500303-40978899206237",
 "887167500310"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Revitalizing Supreme+ Youth Power Soft Creme",
@@ -19764,7 +19751,7 @@
 "887167539570-40155089633373",
 "Anniversary27"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Double Wear Stay-in-Place Waterproof Gel Eye Pencil",
@@ -20962,7 +20949,7 @@
 "No-Sync",
 "SAVE20"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Revolution Mega Bronzer",
@@ -20982,7 +20969,7 @@
 "Bronzer",
 "Casual"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Teknia True Curls Moisturizing Shampoo",
@@ -23556,7 +23543,7 @@
 "Luxury Skin Care",
 "new arrivals"
 ],
-"in": true
+"in": false
 },
 {
 "t": "UV Cellular-Protect After Sun Tan-Boosting Gel",
@@ -25398,26 +25385,6 @@
 "in": false
 },
 {
-"t": "Maybelline New York Lash Sensational Sky High Mascara - Volumizing & Lengthening",
-"u": "https://skinsociety.me/products/lash-sensational-sky-high-maybelline-new-york",
-"p": 8.8,
-"c": 11.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/MaybellineNewYorkLashSensationalSkyHighMascara-Volumizing_Lengthening.webp?v=1770110944&width=400",
-"type": "Casual",
-"tags": [
-"2025 JAN Flash Sale",
-"30166967",
-"30166967-40279120019549",
-"Best Seller",
-"Brand_Maybelline New York",
-"Casual",
-"Casual Make Up",
-"Category_Make Up"
-],
-"in": true
-},
-{
 "t": "Estée Lauder Pure Color Envy Color Replenish Lip Balm - Gift",
 "u": "https://skinsociety.me/products/estee-lauder-pure-color-envy-color-replenish-lip-balm-gift",
 "p": 0.0,
@@ -26260,8 +26227,8 @@
 {
 "t": "Isdinceutics Rejuvenate Retinal Eyes",
 "u": "https://skinsociety.me/products/isdinceutics-rejuvenate-retinal-eyes",
-"p": 67.49,
-"c": 84.36,
+"p": 68.84,
+"c": 86.05,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/206872-800-auto.webp?v=1780053291&width=400",
 "type": "Dermocosmetics",
@@ -27107,7 +27074,7 @@
 "Hair Treatment",
 "Hair Treatment/Others"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Soft Baked Blush",
@@ -27447,7 +27414,7 @@
 "highlighter",
 "Highlighter & Luminizer"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Lash PRINCESS False Lash Effect Mascara EXTREME Waterproof",
@@ -31731,7 +31698,7 @@
 "oapm",
 "Product Type_Value Deals"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Glycolic Bright Face Serum, Night Cream & Daily Cleanser Foam Offer",
@@ -32528,7 +32495,7 @@
 "Loyalty Program",
 "Mineral Sunscreen"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Lip Scrub Mango Gelato",
@@ -39158,7 +39125,7 @@
 "Parapharmacy",
 "Product Type_Body Building"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Iso Whey Zero Chocolate White 454 Gr",
@@ -46527,7 +46494,7 @@
 "Parapharmacy",
 "Product Type_Gluten Free"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Kids Organic Crispy Chocolate Stars",
@@ -49124,7 +49091,7 @@
 "Eyes",
 "Loyalty Program"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Hydratation étoilée",
@@ -56117,7 +56084,7 @@
 "For Her",
 "Fragrances"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Lady Glitter Gold Edition Set - EDP 30ml & Shower Gel",
@@ -56137,7 +56104,7 @@
 "Category_Fragrances",
 "Eau De Parfum"
 ],
-"in": true
+"in": false
 },
 {
 "t": "L'Eau Virile Set - EDP 100ml & Shower Gel",
@@ -56237,7 +56204,7 @@
 "For Her",
 "Fragrances"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Wonderful Single Set",
@@ -57103,7 +57070,7 @@
 "Highlighter & Luminizer",
 "Loyalty Program"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Macaron Melt Lip & Cheeks",
@@ -57438,7 +57405,7 @@
 "Hair Expert",
 "Hair Treatment"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Narcisso Rodriguez For Her Music Nude Set",
@@ -57878,7 +57845,7 @@
 "SAVE22",
 "Soft Toys"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Baby Care Video Monitor BY110",
@@ -58677,6 +58644,46 @@
 "Category_Fragrances",
 "Eau De Toilette",
 "For Him"
+],
+"in": false
+},
+{
+"t": "Avène Radiance Revealing Kit",
+"u": "https://skinsociety.me/products/avene-radiance-revealing-kit",
+"p": 70.5,
+"c": 94.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/avene-reaveling-kit.jpg?v=1764059179&width=400",
+"type": "Dermocosmetics",
+"tags": [
+"Brand_Avène",
+"Category_ Skin Care",
+"Category_Skin Care",
+"Dermocosmetics",
+"Gift Sets",
+"Loyalty Program",
+"Medical Skin Care",
+"mother26"
+],
+"in": false
+},
+{
+"t": "Avène Skin Renewal Kit",
+"u": "https://skinsociety.me/products/avene-skin-renewal-kit",
+"p": 60.58,
+"c": 80.77,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/2050010427535.jpg?v=1764059148&width=400",
+"type": "Dermocosmetics",
+"tags": [
+"Brand_Avène",
+"Category_ Skin Care",
+"Category_Skin Care",
+"Dermocosmetics",
+"Gift Sets",
+"Loyalty Program",
+"Medical Skin Care",
+"mother26"
 ],
 "in": false
 }
