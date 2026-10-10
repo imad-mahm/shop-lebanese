@@ -624,7 +624,7 @@
 "img": "https://curlygirlaccessories.com/wp-content/uploads/2026/08/edited-photo-10-300x300.webp",
 "type": "Gift Hampers",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Gift Hamper – All Hair Types",
@@ -1163,7 +1163,7 @@
 "img": "https://curlygirlaccessories.com/wp-content/uploads/2026/07/img_6291-300x300.png",
 "type": "Bundles &amp; Sets",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Curloo Flexi Brush",
@@ -1766,7 +1766,7 @@
 "img": "https://curlygirlaccessories.com/wp-content/uploads/2026/05/Curly_Shampoo-300x300.webp",
 "type": "Shampoo",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Kundal Travel Kit – Baby Powder",
@@ -5231,7 +5231,7 @@
 "img": "https://curlygirlaccessories.com/wp-content/uploads/2026/04/The-Ceramide-Skin-Barrier-Moisturizer-COSRX-300x300.webp",
 "type": "Moisturisers",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "AGE-R Glutathione Glow Capsule Cream",
@@ -6368,7 +6368,7 @@
 "img": "https://curlygirlaccessories.com/wp-content/uploads/2026/03/img_1934-300x300.jpeg",
 "type": "Hair Care",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Slick-Dense Define EdgeLift",
@@ -7133,7 +7133,7 @@
 "img": "https://curlygirlaccessories.com/wp-content/uploads/2025/11/5054283638-300x300.jpg",
 "type": "Curl Creams, Kids",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Oils Of Nature Botanical Hair Conditioner 500ml",
@@ -7509,7 +7509,7 @@
 "tags": [
 "Kit"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Skala Avocado treatment cream 1Kg",
@@ -7548,7 +7548,7 @@
 "tags": [
 "Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Straight Strengthen Routine Bundle OFFER",
@@ -7561,7 +7561,7 @@
 "tags": [
 "Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Curly Deep Hudration Full Routine Bundle OFFER",
@@ -7574,7 +7574,7 @@
 "tags": [
 "Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Skala Mais Cachos Strengthen Bundle OFFER",
@@ -7678,7 +7678,7 @@
 "tags": [
 "SKALA Masks"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Skala 2 in 1 Watermelon Treatment Mask",
@@ -11227,20 +11227,6 @@
 "in": false
 },
 {
-"t": "Curls – Blueberry Bliss – Reparative Hair Mask",
-"u": "https://curlygirlaccessories.com/product/curls-blueberry-bliss-reparative-hair-mask/",
-"p": 33.35,
-"c": null,
-"cur": "USD",
-"img": "https://curlygirlaccessories.com/wp-content/uploads/2025/06/3178430646-300x300.jpg",
-"type": "Masks &amp; Treatments",
-"tags": [
-"All Products",
-"Curls"
-],
-"in": false
-},
-{
 "t": "Kinky Curly Curl Custard Gel, 8 oz",
 "u": "https://curlygirlaccessories.com/product/kinky-curly-curl-custard-gel-8-oz/",
 "p": 40.25,
@@ -11474,20 +11460,6 @@
 "in": false
 },
 {
-"t": "Cantu Jamaican Black Castor Oil Finishing Spray 118ml",
-"u": "https://curlygirlaccessories.com/product/cantu-jamaican-black-castor-oil-finishing-spray-118ml/",
-"p": 16.1,
-"c": null,
-"cur": "USD",
-"img": "https://curlygirlaccessories.com/wp-content/uploads/2025/06/3331347655-300x300.jpg",
-"type": "Refresher Sprays &amp; Mists",
-"tags": [
-"All Products",
-"Cantu"
-],
-"in": false
-},
-{
 "t": "Cantu, Shea Butter for Natural Hair, Coconut Oil for Shine & Hold Spray, 8 fl oz (237 ml)",
 "u": "https://curlygirlaccessories.com/product/cantu-shea-butter-for-natural-hair-coconut-oil-for-shine-hold-spray-8-fl-oz-237-ml/",
 "p": 19.0,
@@ -11616,35 +11588,6 @@
 "Clarifying Shampoo",
 "Heat Damaged &amp; Colored Hair High Porosity Curly Hair",
 "Shea Moisture"
-],
-"in": false
-},
-{
-"t": "Noughty, Wave Hello, Curl Defining Taming Cream, 5 fl oz (150 ml) N",
-"u": "https://curlygirlaccessories.com/product/noughty-wave-hello-curl-defining-taming-cream-5-fl-oz-150-ml-n/",
-"p": 27.6,
-"c": null,
-"cur": "USD",
-"img": "https://curlygirlaccessories.com/wp-content/uploads/2025/06/3394934865-300x300.jpg",
-"type": "Curl Creams",
-"tags": [
-"All Products",
-"Noughty"
-],
-"in": false
-},
-{
-"t": "Noughty, Intensive Care, Leave-In Conditioner, 5 fl oz",
-"u": "https://curlygirlaccessories.com/product/noughty-intensive-care-leave-in-conditioner-5-fl-oz/",
-"p": 34.5,
-"c": null,
-"cur": "USD",
-"img": "https://curlygirlaccessories.com/wp-content/uploads/2025/06/3394958071.jpg",
-"type": "Leave-In",
-"tags": [
-"All Products",
-"Leave-in",
-"Noughty"
 ],
 "in": false
 },
@@ -12635,19 +12578,6 @@
 "in": false
 },
 {
-"t": "Marc Anthony, Dream BIG VOLUME, 7-in-1 Thickening Treatment Foam, 200 mL, 6.8 oz",
-"u": "https://curlygirlaccessories.com/product/marc-anthony-dream-big-volume-7-in-1-thickening-treatment-foam-200-ml-6-8-oz/",
-"p": 19.55,
-"c": null,
-"cur": "USD",
-"img": "https://curlygirlaccessories.com/wp-content/uploads/2025/06/3978286776-300x300.webp",
-"type": "Masks &amp; Treatments",
-"tags": [
-"All Products"
-],
-"in": false
-},
-{
 "t": "Hair Grant, Repair & Nutrition Shampoo, Avocado & Soy, 250ml",
 "u": "https://curlygirlaccessories.com/product/hair-grant-repair-nutrition-shampoo-avocado-soy-250ml/",
 "p": 13.8,
@@ -12810,7 +12740,7 @@
 "tags": [
 "All Products"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Divine Gardenia and Jasmine Hair Mist",
@@ -12974,133 +12904,6 @@
 "All Products",
 "Aunt Jackie's",
 "Gel"
-],
-"in": false
-},
-{
-"t": "Aunt Jackie, Soft & Sassy – Super Duper Softening Conditioner, 426g",
-"u": "https://curlygirlaccessories.com/product/aunt-jackie-soft-sassy-super-duper-softening-conditioner-426g/",
-"p": 18.4,
-"c": null,
-"cur": "USD",
-"img": "https://curlygirlaccessories.com/wp-content/uploads/2025/06/4056158338-300x300.webp",
-"type": "Conditioner",
-"tags": [
-"All Products",
-"Aunt Jackie's"
-],
-"in": false
-},
-{
-"t": "Aunt Jackie, Curl Boss – Coconut Curling Gelée, 426g",
-"u": "https://curlygirlaccessories.com/product/aunt-jackie-curl-boss-coconut-curling-gelee-426g/",
-"p": 14.95,
-"c": null,
-"cur": "USD",
-"img": "https://curlygirlaccessories.com/wp-content/uploads/2025/06/4056151374-300x300.webp",
-"type": "Gels &amp; Custards",
-"tags": [
-"All Products",
-"Aunt Jackie's",
-"Gel"
-],
-"in": false
-},
-{
-"t": "Aunt Jackie, Soft All Over – Multi-purpose Oil Therapy 237ml",
-"u": "https://curlygirlaccessories.com/product/aunt-jackie-soft-all-over-multi-purpose-oil-therapy-237ml/",
-"p": 18.4,
-"c": null,
-"cur": "USD",
-"img": "https://curlygirlaccessories.com/wp-content/uploads/2025/06/4056180055-300x300.webp",
-"type": "Oils &amp; Serums",
-"tags": [
-"All Products",
-"Aunt Jackie's"
-],
-"in": false
-},
-{
-"t": "Aunt Jackie, Oh So Clean – Moisturizing & Softening Shampoo, 355ml",
-"u": "https://curlygirlaccessories.com/product/aunt-jackie-oh-so-clean-moisturizing-softening-shampoo-355ml/",
-"p": 14.95,
-"c": null,
-"cur": "USD",
-"img": "https://curlygirlaccessories.com/wp-content/uploads/2025/06/4056194292-300x300.webp",
-"type": "Shampoo",
-"tags": [
-"All Products",
-"Aunt Jackie's"
-],
-"in": false
-},
-{
-"t": "Cantu Protective Styles by Angela Hair Freshener, 118ml",
-"u": "https://curlygirlaccessories.com/product/cantu-protective-styles-by-angela-hair-freshener-118ml/",
-"p": 19.0,
-"c": null,
-"cur": "USD",
-"img": "https://curlygirlaccessories.com/wp-content/uploads/2025/06/4056202628-300x300.jpg",
-"type": "Refresher Sprays &amp; Mists",
-"tags": [
-"All Products",
-"Cantu"
-],
-"in": false
-},
-{
-"t": "Cantu Protective Styles by Angela, Set & Refresh Foam 227g",
-"u": "https://curlygirlaccessories.com/product/cantu-protective-styles-by-angela-set-refresh-foam-227g/",
-"p": 17.25,
-"c": null,
-"cur": "USD",
-"img": "https://curlygirlaccessories.com/wp-content/uploads/2025/06/4056277798-300x300.jpg",
-"type": "Bundles &amp; Sets, Mousse &amp; Foams",
-"tags": [
-"All Products",
-"Cantu"
-],
-"in": false
-},
-{
-"t": "Cantu Protective Styles by Angela, Hair Bath & Cleanser 283g",
-"u": "https://curlygirlaccessories.com/product/cantu-protective-styles-by-angela-hair-bath-cleanser-283g/",
-"p": 17.25,
-"c": null,
-"cur": "USD",
-"img": "https://curlygirlaccessories.com/wp-content/uploads/2025/06/4056277842-300x300.jpg",
-"type": "Shampoo",
-"tags": [
-"All Products",
-"Cantu"
-],
-"in": false
-},
-{
-"t": "Cantu Protective Styles by Angela, Daily Oil Drops, 59mL",
-"u": "https://curlygirlaccessories.com/product/cantu-protective-styles-by-angela-daily-oil-drops-59ml/",
-"p": 19.0,
-"c": null,
-"cur": "USD",
-"img": "https://curlygirlaccessories.com/wp-content/uploads/2025/06/4056279857.webp",
-"type": "Oils &amp; Serums",
-"tags": [
-"All Products",
-"Cantu"
-],
-"in": false
-},
-{
-"t": "Cantu Protective Styles by Angela | Conditioning Detangler, 227g",
-"u": "https://curlygirlaccessories.com/product/cantu-protective-styles-by-angela-conditioning-detangler-227g/",
-"p": 18.0,
-"c": null,
-"cur": "USD",
-"img": "https://curlygirlaccessories.com/wp-content/uploads/2025/06/4056266247-300x300.jpg",
-"type": "Leave-In",
-"tags": [
-"All Products",
-"Cantu"
 ],
 "in": false
 },
@@ -13370,21 +13173,6 @@
 "in": true
 },
 {
-"t": "THE POWERPUFF GIRLS Pink Plush Cosmetic Bag",
-"u": "https://curlygirlaccessories.com/product/the-powerpuff-girls-pink-plush-cosmetic-bag/",
-"p": 8.05,
-"c": null,
-"cur": "USD",
-"img": "https://curlygirlaccessories.com/wp-content/uploads/2025/06/4154914851-300x300.png",
-"type": "Bags &amp; Pouches",
-"tags": [
-"All Products",
-"For Her",
-"Hair Accessories"
-],
-"in": false
-},
-{
 "t": "Barri Dry Shampoo Bundle",
 "u": "https://curlygirlaccessories.com/product/barri-dry-shampoo-bundle/",
 "p": 14.95,
@@ -13499,21 +13287,6 @@
 "img": "https://curlygirlaccessories.com/wp-content/uploads/2025/06/4183367138-300x300.jpg",
 "type": "Clips &amp; Pins",
 "tags": [
-"All Products",
-"Hair Accessories"
-],
-"in": false
-},
-{
-"t": "Transparent Retro Frosted Shark Hair Clip",
-"u": "https://curlygirlaccessories.com/product/transparent-retro-frosted-shark-hair-clip/",
-"p": 4.6,
-"c": null,
-"cur": "USD",
-"img": "https://curlygirlaccessories.com/wp-content/uploads/2025/06/4183407608-300x300.jpg",
-"type": "Clips &amp; Pins",
-"tags": [
-"Accessories",
 "All Products",
 "Hair Accessories"
 ],
@@ -13832,75 +13605,6 @@
 "in": false
 },
 {
-"t": "Aunt Jackie’s Curls & Coils, Curl La La, Defining Curl Custard, 3 oz (85 g)",
-"u": "https://curlygirlaccessories.com/product/aunt-jackies-curls-coils-curl-la-la-defining-curl-custard-3-oz-85-g/",
-"p": 12.65,
-"c": null,
-"cur": "USD",
-"img": "https://curlygirlaccessories.com/wp-content/uploads/2025/06/4294566689-300x300.jpg",
-"type": "Gels &amp; Custards",
-"tags": [
-"All Products",
-"Aunt Jackie's"
-],
-"in": false
-},
-{
-"t": "Not Your Mother’s, Way to Grow, Leave -In Conditioner, Long & Strong, 6 fl oz (177 ml)",
-"u": "https://curlygirlaccessories.com/product/not-your-mothers-way-to-grow-leave-in-conditioner-long-strong-6-fl-oz-177-ml/",
-"p": 21.85,
-"c": null,
-"cur": "USD",
-"img": "https://curlygirlaccessories.com/wp-content/uploads/2025/06/4431579945-300x300.webp",
-"type": "Conditioner",
-"tags": [
-"All Products"
-],
-"in": false
-},
-{
-"t": "Curls, Creme Brule Whipped Curl Cream , 2 fl oz (60 ml)",
-"u": "https://curlygirlaccessories.com/product/curls-creme-brule-whipped-curl-cream-2-fl-oz-60-ml/",
-"p": 16.1,
-"c": null,
-"cur": "USD",
-"img": "https://curlygirlaccessories.com/wp-content/uploads/2025/06/4320411726-300x300.png",
-"type": "Curl Creams",
-"tags": [
-"All Products",
-"Curls"
-],
-"in": false
-},
-{
-"t": "Camille Rose, Curl Love, Moisture Milk, 2 oz (59 ml)",
-"u": "https://curlygirlaccessories.com/product/camille-rose-curl-love-moisture-milk-2-oz-59-ml/",
-"p": 14.95,
-"c": null,
-"cur": "USD",
-"img": "https://curlygirlaccessories.com/wp-content/uploads/2025/06/4320445987-300x300.png",
-"type": "Curl Creams",
-"tags": [
-"All Products",
-"Camille Rose"
-],
-"in": false
-},
-{
-"t": "Camille Rose, Curl Maker, Marshmallow & Agave Leaf Extract, 2 oz (59 ml)",
-"u": "https://curlygirlaccessories.com/product/camille-rose-curl-maker-marshmallow-agave-leaf-extract-2-oz-59-ml/",
-"p": 19.55,
-"c": null,
-"cur": "USD",
-"img": "https://curlygirlaccessories.com/wp-content/uploads/2025/06/4320478363-300x300.png",
-"type": "Curl Creams",
-"tags": [
-"All Products",
-"Camille Rose"
-],
-"in": false
-},
-{
 "t": "Umberto Giannini Curl Jelly Scrunching Jelly",
 "u": "https://curlygirlaccessories.com/product/umberto-giannini-curl-jelly-scrunching-jelly/",
 "p": 29.9,
@@ -13943,19 +13647,6 @@
 "cur": "USD",
 "img": "https://curlygirlaccessories.com/wp-content/uploads/2025/06/4335993157-300x300.jpg",
 "type": "Gels &amp; Custards",
-"tags": [
-"All Products"
-],
-"in": false
-},
-{
-"t": "Small Scalp Applicator oil comb",
-"u": "https://curlygirlaccessories.com/product/small-scalp-applicator-oil-comb/",
-"p": 5.75,
-"c": null,
-"cur": "USD",
-"img": "https://curlygirlaccessories.com/wp-content/uploads/2025/06/4347448101-300x300.jpg",
-"type": "Scalp Care",
 "tags": [
 "All Products"
 ],
@@ -14006,38 +13697,6 @@
 "in": false
 },
 {
-"t": "Xsmart Curly Hair Conditioner",
-"u": "https://curlygirlaccessories.com/product/xsmart-curly-hair-conditioner/",
-"p": 5.75,
-"c": null,
-"cur": "USD",
-"img": "https://curlygirlaccessories.com/wp-content/uploads/2025/06/4402670694-300x300.jpg",
-"type": "Conditioner",
-"tags": [
-"Extremely Dry Hair Low Porosity Curly Hair",
-"Heat Damaged &amp; Colored Hair High Porosity Curly Hair",
-"Rinse Out Conditioner",
-"Straight &amp; Wavy Hair"
-],
-"in": false
-},
-{
-"t": "Xsmart Curly Hair Leave in",
-"u": "https://curlygirlaccessories.com/product/xsmart-curly-hair-leave-in/",
-"p": 4.75,
-"c": null,
-"cur": "USD",
-"img": "https://curlygirlaccessories.com/wp-content/uploads/2025/06/4400815924-300x300.png",
-"type": "Leave-In",
-"tags": [
-"Extremely Dry Hair Low Porosity Curly Hair",
-"Heat Damaged &amp; Colored Hair High Porosity Curly Hair",
-"Rinse Out Conditioner",
-"Straight &amp; Wavy Hair"
-],
-"in": false
-},
-{
 "t": "Xsmart Curly Bundle",
 "u": "https://curlygirlaccessories.com/product/xsmart-curly-bundle/",
 "p": 19.55,
@@ -14048,20 +13707,6 @@
 "tags": [
 "All Products",
 "Bundles"
-],
-"in": false
-},
-{
-"t": "THE INKEY LIST Glycolic Acid Exfoliating Scalp Scrub 150 mL",
-"u": "https://curlygirlaccessories.com/product/the-inkey-list-glycolic-acid-exfoliating-scalp-scrub-150-ml/",
-"p": 47.15,
-"c": null,
-"cur": "USD",
-"img": "https://curlygirlaccessories.com/wp-content/uploads/2025/06/4410318380-300x300.webp",
-"type": "Scalp Care",
-"tags": [
-"All Products",
-"THE INKEY LIST"
 ],
 "in": false
 },
@@ -14119,19 +13764,6 @@
 "Hair Accessories"
 ],
 "in": true
-},
-{
-"t": "Cantu Flaxseed Smoothing Oil – 100 mL",
-"u": "https://curlygirlaccessories.com/product/cantu-flaxseed-smoothing-oil-100-ml/",
-"p": 13.8,
-"c": null,
-"cur": "USD",
-"img": "https://curlygirlaccessories.com/wp-content/uploads/2025/06/4491500227-300x300.webp",
-"type": "Oils &amp; Serums",
-"tags": [
-"Cantu"
-],
-"in": false
 },
 {
 "t": "Cantu Grapeseed Strengthening Deep Treatment Masque – 340 g",
@@ -14221,20 +13853,6 @@
 "cur": "USD",
 "img": "https://curlygirlaccessories.com/wp-content/uploads/2025/06/4601996364-1-300x300.webp",
 "type": "Curl Creams",
-"tags": [
-"All Products",
-"Curl Smith"
-],
-"in": false
-},
-{
-"t": "Curl Smith Shape Up Aqua Gel  Full 237ml",
-"u": "https://curlygirlaccessories.com/product/curl-smith-shape-up-aqua-gel-full-237ml/",
-"p": 60.95,
-"c": null,
-"cur": "USD",
-"img": "https://curlygirlaccessories.com/wp-content/uploads/2025/06/4601975236-300x300.webp",
-"type": "Gels &amp; Custards",
 "tags": [
 "All Products",
 "Curl Smith"
@@ -14410,7 +14028,7 @@
 "Curly Tools",
 "Remington"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Revive Hair Oil",
@@ -14527,19 +14145,6 @@
 "img": "https://curlygirlaccessories.com/wp-content/uploads/2025/06/4700835588-300x300.webp",
 "type": "Gels &amp; Custards",
 "tags": [],
-"in": false
-},
-{
-"t": "Not Your Mother’s, Plump for Joy, Mousse 198 g",
-"u": "https://curlygirlaccessories.com/product/not-your-mothers-plump-for-joy-mousse-198-g/",
-"p": 21.85,
-"c": null,
-"cur": "USD",
-"img": "https://curlygirlaccessories.com/wp-content/uploads/2025/06/4700861779-300x300.webp",
-"type": "Mousse &amp; Foams",
-"tags": [
-"Mousse"
-],
 "in": false
 },
 {
@@ -14932,19 +14537,6 @@
 "Scalp Massager"
 ],
 "in": true
-},
-{
-"t": "BabyLiss, Hair Dryer",
-"u": "https://curlygirlaccessories.com/product/babyliss-hair-dryer/",
-"p": 113.85,
-"c": null,
-"cur": "USD",
-"img": "https://curlygirlaccessories.com/wp-content/uploads/2025/06/4885779795-300x300.jpg",
-"type": "Diffusers &amp; Dryers",
-"tags": [
-"All Products"
-],
-"in": false
 },
 {
 "t": "Automatic Spray Bottle Black 200 ml",
@@ -15944,20 +15536,6 @@
 "cur": "USD",
 "img": "https://curlygirlaccessories.com/wp-content/uploads/2025/06/3143960840-300x300.jpg",
 "type": "Conditioner",
-"tags": [
-"All Products",
-"Mielle"
-],
-"in": false
-},
-{
-"t": "MIELLE | Sea Moss Anti-Shedding Shampoo 8oz",
-"u": "https://curlygirlaccessories.com/product/mielle-sea-moss-anti-shedding-shampoo-8oz/",
-"p": 28.75,
-"c": null,
-"cur": "USD",
-"img": "https://curlygirlaccessories.com/wp-content/uploads/2025/06/3331396356-300x300.jpg",
-"type": "Shampoo",
 "tags": [
 "All Products",
 "Mielle"

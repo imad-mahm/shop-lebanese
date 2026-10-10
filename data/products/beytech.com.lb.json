@@ -1,5 +1,93 @@
 [
 {
+"t": "DongCheng 30471100116 Diamond Core Bit (1-1/4 Thread) 32×455",
+"u": "https://beytech.com.lb/product/dongcheng-30471100116-diamond-core-bit-1-1-4-thread-32x455/",
+"p": 19.0,
+"c": null,
+"cur": "USD",
+"img": "https://beytech.com.lb/wp-content/uploads/2026/10/30471100119-247x247.jpg",
+"type": "Home &amp; Kitchen, Power Tools &amp; Ladders, Tools &amp; Home Improvement",
+"tags": [
+"Dong Cheng",
+"Tool Kit"
+],
+"in": true
+},
+{
+"t": "DongCheng 30471100115 Diamond Core Bit (1-1/4 Thread) 25×455",
+"u": "https://beytech.com.lb/product/dongcheng-30471100115-diamond-core-bit-1-1-4-thread-25x455/",
+"p": 18.0,
+"c": null,
+"cur": "USD",
+"img": "https://beytech.com.lb/wp-content/uploads/2026/10/30471100119-247x247.jpg",
+"type": "Home &amp; Kitchen, Power Tools &amp; Ladders, Tools &amp; Home Improvement",
+"tags": [
+"Dong Cheng",
+"Tool Kit"
+],
+"in": true
+},
+{
+"t": "Bissell 20383 Cleaning Formula Spot & Stain Carpet & Fabric Solution",
+"u": "https://beytech.com.lb/product/bissell-20383-cleaning-formula-spot-stain-carpet-fabric-solution/",
+"p": 30.0,
+"c": null,
+"cur": "USD",
+"img": "https://beytech.com.lb/wp-content/uploads/2026/10/Bissell_Wash_Protect_Stain_Odor-247x247.jpg",
+"type": "Home Appliances, Small Appliances, Vacuum &amp; Floor Accessories",
+"tags": [
+"Bissell",
+"vacuum cleaner",
+"Vacuum Cleaners"
+],
+"in": true
+},
+{
+"t": "Bissell 4263 Stick Vacuum Power Clean Dual Brush Cordless",
+"u": "https://beytech.com.lb/product/bissell-4263-stick-vacuum-power-clean-dual-brush-cordless/",
+"p": 630.0,
+"c": null,
+"cur": "USD",
+"img": "https://beytech.com.lb/wp-content/uploads/2026/10/4263-247x247.jpg",
+"type": "Home Appliances, Small Appliances, Vacuum Cleaners",
+"tags": [
+"Bissell",
+"Cordless Vacuum",
+"Vacuum Cleaners"
+],
+"in": true
+},
+{
+"t": "Bissell 3619N Portable Deep Cleaner SpotClean C3",
+"u": "https://beytech.com.lb/product/bissell-3619n-portable-deep-cleaner-spotclean-c3/",
+"p": 315.0,
+"c": null,
+"cur": "USD",
+"img": "https://beytech.com.lb/wp-content/uploads/2026/10/3619N-247x247.jpg",
+"type": "Home Appliances, Small Appliances, Vacuum Cleaners",
+"tags": [
+"Bissell",
+"Floor &amp; carpet care",
+"Vacuum Cleaners"
+],
+"in": true
+},
+{
+"t": "Bissell 4201K Carpet Powerwash Hydrosteam Deep Cleaner",
+"u": "https://beytech.com.lb/product/bissell-4201k-carpet-powerwash-hydrosteam-deep-cleaner/",
+"p": 540.0,
+"c": null,
+"cur": "USD",
+"img": "https://beytech.com.lb/wp-content/uploads/2026/10/4201K-247x247.jpg",
+"type": "Home Appliances, Small Appliances, Vacuum Cleaners",
+"tags": [
+"Bissell",
+"Floor &amp; carpet care",
+"Vacuum Cleaners"
+],
+"in": true
+},
+{
 "t": "DongCheng 30471100119 Diamond Core Bit (1-1/4 Thread) 112×455",
 "u": "https://beytech.com.lb/product/dongcheng-30471100119-diamond-core-bit-1-1-4-thread-112x455/",
 "p": 40.0,
@@ -12548,38 +12636,6 @@
 "in": true
 },
 {
-"t": "Kenwood HomeBake Stand Mixer KHH01  000SI Silver",
-"u": "https://beytech.com.lb/product/kenwood-khh01-000si-homebake-stand-mixer/",
-"p": 179.0,
-"c": null,
-"cur": "USD",
-"img": "https://beytech.com.lb/wp-content/uploads/2026/06/713q2D49JZL._AC_SL1500-247x247.jpg",
-"type": "Food Preparation, Home Appliances, Mixers",
-"tags": [
-"Appliances MGT",
-"Kenwood",
-"Mixer",
-"Mixers"
-],
-"in": true
-},
-{
-"t": "Kenwood KHH01  120SI Kitchen Machine 5L Silver with 1  5L Blender",
-"u": "https://beytech.com.lb/product/kenwood-electric-kettle-zjp01-a0/",
-"p": 199.0,
-"c": null,
-"cur": "USD",
-"img": "https://beytech.com.lb/wp-content/uploads/2026/06/webp-3-8__06975.1752672645-247x247.jpg",
-"type": "Food Preparation, Home Appliances, Mixers",
-"tags": [
-"Appliances MGT",
-"Kenwood",
-"Mixer",
-"Mixers"
-],
-"in": true
-},
-{
 "t": "Braun HF5030 MultiFry 5 Air Fryer Black",
 "u": "https://beytech.com.lb/product/braun-multifry-5-air-fryer/",
 "p": 119.0,
@@ -13898,7 +13954,7 @@
 "Kitchen",
 "Korkmaz"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Korkmaz Set of 2 Ornella Casseroles 20 + 24 cm",
@@ -21444,6 +21500,21 @@
 "in": true
 },
 {
+"t": "Kenwood ZJP01  A0BK Kettle Black",
+"u": "https://beytech.com.lb/product/kenwood-zjp01-a0bk-kettle-black/",
+"p": 39.0,
+"c": null,
+"cur": "USD",
+"img": "https://beytech.com.lb/wp-content/uploads/2026/10/273143-247x247.jpg",
+"type": "Breakfast, Home Appliances, Kettles",
+"tags": [
+"Appliances MGT",
+"Kenwood",
+"Kettles"
+],
+"in": false
+},
+{
 "t": "Samsung MS32DG4504ATSG Solo Microwave Oven with Power Defrost and Home Dessert, 32L, Silver",
 "u": "https://beytech.com.lb/product/samsung-ms32dg4504atsg-solo-microwave-oven-with-power-defrost-and-home-dessert-32l-silver/",
 "p": 180.0,
@@ -26902,39 +26973,6 @@
 "in": true
 },
 {
-"t": "Dreame X50 Ultra Complete Robot Vacuum",
-"u": "https://beytech.com.lb/product/dreame-x50-ultra-complete-robot-vacuum/",
-"p": 1849.0,
-"c": null,
-"cur": "USD",
-"img": "https://beytech.com.lb/wp-content/uploads/2022/04/295990-247x247.jpg",
-"type": "Home Appliances, Small Appliances, Vacuum Cleaners",
-"tags": [
-"Appliances MGT",
-"Dreame",
-"Robot Vacuum Cleaner",
-"Vacuum Cleaners"
-],
-"in": false
-},
-{
-"t": "Sony PS5  Slim Console Disk Edition Demon’s Souls Bundle  2 Years  Warranty",
-"u": "https://beytech.com.lb/product/sony-ps5-slim-console-disk-edition-demons-souls-bundle-2-years-warranty/",
-"p": 749.0,
-"c": 799.0,
-"cur": "USD",
-"img": "https://beytech.com.lb/wp-content/uploads/2026/04/20210721164214_sony_playstation_5_demon_s_souls-247x247.jpeg",
-"type": "Autumn Offers 🍂, Electronics, Gaming Consoles",
-"tags": [
-"Games",
-"Gaming",
-"PlayStation",
-"PS5",
-"Sony"
-],
-"in": false
-},
-{
 "t": "Samsung HW-S800D/ZN  3  1  2 Ch Soundbar and Subwoofer",
 "u": "https://beytech.com.lb/product/samsung-hw-s800d-zn-3-1-2-ch-soundbar-and-subwoofer/",
 "p": 369.0,
@@ -31290,6 +31328,7 @@
 "type": "Home Appliances, Small Appliances, Vacuum Cleaners",
 "tags": [
 "Bissell",
+"Floor &amp; carpet care",
 "Vacuum Cleaners"
 ],
 "in": true
@@ -35324,7 +35363,7 @@
 "Steam Irons",
 "Ufesa"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Ufesa  NYON-IMC Smart Bathroom Scale",
@@ -36049,6 +36088,21 @@
 "in": true
 },
 {
+"t": "Leifheit 51320 Hand window wiper PLUS 3",
+"u": "https://beytech.com.lb/product/leifheit-51320-hand-window-wiper-plus-3/",
+"p": 13.0,
+"c": null,
+"cur": "USD",
+"img": "https://beytech.com.lb/wp-content/uploads/2026/10/228108-247x247.jpg",
+"type": "Home &amp; Kitchen, Kitchen &amp; Dining, Kitchen Gadgets &amp; Cleaning Tools",
+"tags": [
+"Appliances MGT",
+"Leifheit",
+"MOP"
+],
+"in": true
+},
+{
 "t": "Korkmaz A1852 OrnElectroluxla Frypan 20×4,4",
 "u": "https://beytech.com.lb/product/korkmaz-a1852-ornelectroluxla-frypan-20x44/",
 "p": 20.0,
@@ -36269,6 +36323,23 @@
 "in": false
 },
 {
+"t": "Korkmaz A178 Alessa 4 pcs Pressure Cookenwoodr Set",
+"u": "https://beytech.com.lb/product/korkmaz-a178-alessa-4-pcs-pressure-cookenwoodr-set/",
+"p": 199.0,
+"c": null,
+"cur": "USD",
+"img": "https://beytech.com.lb/wp-content/uploads/2026/10/291792-247x247.jpg",
+"type": "Cookware &amp; Accessories, Home &amp; Kitchen, Kitchen &amp; Dining",
+"tags": [
+"Appliances MGT",
+"Cookware",
+"Kitchen",
+"Korkmaz",
+"Pressure cooker"
+],
+"in": true
+},
+{
 "t": "Korkmaz A173-02 Alessa Pressure Cooker 10L",
 "u": "https://beytech.com.lb/product/korkmaz-a173-02-alessa-pressure-cookenwoodr-100-lt/",
 "p": 179.0,
@@ -36437,12 +36508,114 @@
 "in": false
 },
 {
+"t": "Korkmaz A2035 Astra2 Low Casserole 26×8,5",
+"u": "https://beytech.com.lb/product/korkmaz-a2035-astra2-low-casserole-26x85/",
+"p": 49.0,
+"c": null,
+"cur": "USD",
+"img": "https://beytech.com.lb/wp-content/uploads/2026/10/HX9f6f7vXabil2cMRwi5VGXTGYaVW47n-247x247.jpg",
+"type": "Cookware &amp; Accessories, Home &amp; Kitchen, Kitchen &amp; Dining",
+"tags": [
+"Appliances MGT",
+"Casserole",
+"Cookware",
+"Kitchen",
+"Korkmaz"
+],
+"in": true
+},
+{
+"t": "Korkmaz A2047 Astra2 Saucepan 16×9",
+"u": "https://beytech.com.lb/product/korkmaz-a2047-astra2-saucepan-16x9/",
+"p": 28.0,
+"c": null,
+"cur": "USD",
+"img": "https://beytech.com.lb/wp-content/uploads/2026/10/276752-247x247.jpg",
+"type": "Cookware &amp; Accessories, Home &amp; Kitchen, Kitchen &amp; Dining",
+"tags": [
+"Appliances MGT",
+"Cookware",
+"Kitchen",
+"Korkmaz",
+"Saucepan"
+],
+"in": false
+},
+{
+"t": "Korkmaz A2028 Astra2 Casserole 30×18",
+"u": "https://beytech.com.lb/product/korkmaz-a2028-astra2-casserole-30x18/",
+"p": 79.0,
+"c": null,
+"cur": "USD",
+"img": "https://beytech.com.lb/wp-content/uploads/2026/10/ruve0t3AJiwmLy6Eq3lrSi8cLQ902xJQ-247x247.jpg",
+"type": "Cookware &amp; Accessories, Home &amp; Kitchen, Kitchen &amp; Dining",
+"tags": [
+"Appliances MGT",
+"Casserole",
+"Cookware",
+"Kitchen",
+"Korkmaz"
+],
+"in": true
+},
+{
+"t": "Korkmaz A2027 Astra2 Casserole 28×16",
+"u": "https://beytech.com.lb/product/korkmaz-a2027-astra2-casserole-28x16/",
+"p": 69.0,
+"c": null,
+"cur": "USD",
+"img": "https://beytech.com.lb/wp-content/uploads/2026/10/ruve0t3AJiwmLy6Eq3lrSi8cLQ902xJQ-247x247.jpg",
+"type": "Cookware &amp; Accessories, Home &amp; Kitchen, Kitchen &amp; Dining",
+"tags": [
+"Appliances MGT",
+"Casserole",
+"Cookware",
+"Kitchen",
+"Korkmaz"
+],
+"in": true
+},
+{
 "t": "Korkmaz A2026 Astra2 Casserole 26X14",
 "u": "https://beytech.com.lb/product/korkmaz-a2026-astra2-casserole-26x14/",
 "p": 54.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/06/276749-247x247.jpg",
+"type": "Cookware &amp; Accessories, Home &amp; Kitchen, Kitchen &amp; Dining",
+"tags": [
+"Appliances MGT",
+"Casserole",
+"Cookware",
+"Kitchen",
+"Korkmaz"
+],
+"in": false
+},
+{
+"t": "Korkmaz A2025 Astra2 Casserole 24X13",
+"u": "https://beytech.com.lb/product/korkmaz-a2025-astra2-casserole-24x13/",
+"p": 48.0,
+"c": null,
+"cur": "USD",
+"img": "https://beytech.com.lb/wp-content/uploads/2026/10/ruve0t3AJiwmLy6Eq3lrSi8cLQ902xJQ-247x247.jpg",
+"type": "Cookware &amp; Accessories, Home &amp; Kitchen, Kitchen &amp; Dining",
+"tags": [
+"Appliances MGT",
+"Casserole",
+"Cookware",
+"Kitchen",
+"Korkmaz"
+],
+"in": false
+},
+{
+"t": "Korkmaz A2023 Astra2 Casserole 20X11,5",
+"u": "https://beytech.com.lb/product/korkmaz-a2023-astra2-casserole-20x115/",
+"p": 37.0,
+"c": null,
+"cur": "USD",
+"img": "https://beytech.com.lb/wp-content/uploads/2026/10/ruve0t3AJiwmLy6Eq3lrSi8cLQ902xJQ-247x247.jpg",
 "type": "Cookware &amp; Accessories, Home &amp; Kitchen, Kitchen &amp; Dining",
 "tags": [
 "Appliances MGT",
@@ -36505,6 +36678,23 @@
 "in": true
 },
 {
+"t": "Korkmaz A1944 Mega Casserole 32×20 cm 15,0 Lt",
+"u": "https://beytech.com.lb/product/korkmaz-a1944-mega-casserole-32x20-cm-150-lt/",
+"p": 70.0,
+"c": null,
+"cur": "USD",
+"img": "https://beytech.com.lb/wp-content/uploads/2026/10/262938-247x247.jpg",
+"type": "Cookware &amp; Accessories, Home &amp; Kitchen, Kitchen &amp; Dining",
+"tags": [
+"Appliances MGT",
+"Casserole",
+"Cookware",
+"Kitchen",
+"Korkmaz"
+],
+"in": false
+},
+{
 "t": "Korkmaz A1274 Practical Grill Frypan 35x25cm, 3  2L",
 "u": "https://beytech.com.lb/product/korkmaz-a1274-granita-practical-grill-frypan-35x25-cm-3-2-lt/",
 "p": 35.0,
@@ -36520,6 +36710,40 @@
 "Korkmaz"
 ],
 "in": true
+},
+{
+"t": "Korkmaz  A1272 GRANITA ALU Cookware Set (7 pcs)",
+"u": "https://beytech.com.lb/product/korkmaz-a1272-granita-alu-cookware-set-7-pcs/",
+"p": 149.0,
+"c": null,
+"cur": "USD",
+"img": "https://beytech.com.lb/wp-content/uploads/2026/10/242930-247x247.jpg",
+"type": "Cookware &amp; Accessories, Home &amp; Kitchen, Kitchen &amp; Dining",
+"tags": [
+"Appliances MGT",
+"Casserole",
+"Cookware",
+"Kitchen",
+"Korkmaz"
+],
+"in": false
+},
+{
+"t": "Korkmaz A1032 ALeifheita Extra Deep Casserole 30×20 cm / 14,0 Lt",
+"u": "https://beytech.com.lb/product/korkmaz-a1032-aleifheita-extra-deep-casserole-30x20-cm-140-lt/",
+"p": 76.0,
+"c": null,
+"cur": "USD",
+"img": "https://beytech.com.lb/wp-content/uploads/2026/10/239139-247x247.jpg",
+"type": "Cookware &amp; Accessories, Home &amp; Kitchen, Kitchen &amp; Dining",
+"tags": [
+"Appliances MGT",
+"Casserole",
+"Cookware",
+"Kitchen",
+"Korkmaz"
+],
+"in": false
 },
 {
 "t": "Korkmaz A286 Pera Serving Tray",
@@ -36579,6 +36803,21 @@
 "tags": [
 "Appliances MGT",
 "Grills",
+"Kenwood"
+],
+"in": false
+},
+{
+"t": "kenwood HFP50  000WH AIRFRYER 5,5L DGT WH",
+"u": "https://beytech.com.lb/product/kenwood-hfp50-000wh-airfryer-55l-dgt-wh/",
+"p": 99.0,
+"c": null,
+"cur": "USD",
+"img": "https://beytech.com.lb/wp-content/uploads/2026/10/258523-247x247.jpg",
+"type": "Autumn Offers 🍂, Food Preparation, Fryers",
+"tags": [
+"Air Fryers",
+"Appliances MGT",
 "Kenwood"
 ],
 "in": false
@@ -36687,7 +36926,11 @@
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/03/290887-247x247.jpg",
 "type": "Breakfast, Home Appliances, Kettles",
-"tags": [],
+"tags": [
+"Appliances MGT",
+"Kenwood",
+"Kettles"
+],
 "in": false
 },
 {
@@ -36698,7 +36941,11 @@
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/02/287184-247x247.jpg",
 "type": "Breakfast, Home Appliances, Kettles",
-"tags": [],
+"tags": [
+"Appliances MGT",
+"Kenwood",
+"Kettles"
+],
 "in": true
 },
 {
@@ -36709,7 +36956,11 @@
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/02/270485-247x247.jpg",
 "type": "Breakfast, Home Appliances, Kettles",
-"tags": [],
+"tags": [
+"Appliances MGT",
+"Kenwood",
+"Kettles"
+],
 "in": false
 },
 {
@@ -36725,7 +36976,7 @@
 "Coffee Makers",
 "Kenwood"
 ],
-"in": true
+"in": false
 },
 {
 "t": "kenwood ZJP00  000WH Kettle White",
@@ -36735,7 +36986,11 @@
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/02/264345-247x247.jpg",
 "type": "Breakfast, Home Appliances, Kettles",
-"tags": [],
+"tags": [
+"Appliances MGT",
+"Kenwood",
+"Kettles"
+],
 "in": false
 },
 {
@@ -37246,40 +37501,6 @@
 "Televisions"
 ],
 "in": true
-},
-{
-"t": "Sony PS5 Pro 2TB Console + FC26 Bundle | PlayStation 5 Pro | 2-Year Warranty Included",
-"u": "https://beytech.com.lb/product/sony-ps5-pro-2tb-console-fc26-bundle-playstation-5-pro-2-year-warranty-included/",
-"p": 1049.0,
-"c": 1099.0,
-"cur": "USD",
-"img": "https://beytech.com.lb/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-15-at-12.35.39_0f58d14e-247x247.jpg",
-"type": "Autumn Offers 🍂, Electronics, Gaming Consoles",
-"tags": [
-"Games",
-"Gaming",
-"PlayStation",
-"PS5",
-"Sony"
-],
-"in": false
-},
-{
-"t": "Sony PS5 | PlayStation 5 Console 1TB Fortnite – Flowering Chaos Bundle| 2-Year Warranty Included",
-"u": "https://beytech.com.lb/product/sony-ps5-slim-1tb-console-playstation-5-slim-2-year-warranty-included/",
-"p": 599.0,
-"c": 719.0,
-"cur": "USD",
-"img": "https://beytech.com.lb/wp-content/uploads/2025/11/WhatsApp-Image-2025-12-11-at-10.16.38-247x247.jpeg",
-"type": "Autumn Offers 🍂, Electronics, Gaming Consoles",
-"tags": [
-"Games",
-"Gaming",
-"PlayStation",
-"PS5",
-"Sony"
-],
-"in": false
 },
 {
 "t": "BaByliss T881SDE Beard Trimmer",
@@ -41641,7 +41862,7 @@
 "PS5",
 "Sony"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Raffa Eyewear Eco Wheat Reader Display  |  Frames for Every Style",
@@ -44469,193 +44690,5 @@
 "Electric Oven"
 ],
 "in": true
-},
-{
-"t": "Ariete 3919/04 Vintage Oven 10L, 800W, Green",
-"u": "https://beytech.com.lb/product/ariete-3919-04-vintage-oven-10l-800w-green/",
-"p": 72.0,
-"c": 90.0,
-"cur": "USD",
-"img": "https://beytech.com.lb/wp-content/uploads/2025/10/3919.04-247x247.jpg",
-"type": "Autumn Offers 🍂, Electric Ovens, Home Appliances",
-"tags": [
-"Ariete",
-"Electric Oven"
-],
-"in": true
-},
-{
-"t": "Ariete 3919/03 Vintage Oven 10L, 800W, Beige",
-"u": "https://beytech.com.lb/product/ariete-3919-03-vintage-oven-10l-800w-beige/",
-"p": 72.0,
-"c": 90.0,
-"cur": "USD",
-"img": "https://beytech.com.lb/wp-content/uploads/2025/10/3919.03-247x247.jpg",
-"type": "Autumn Offers 🍂, Electric Ovens, Home Appliances",
-"tags": [
-"Ariete",
-"Electric Oven"
-],
-"in": true
-},
-{
-"t": "Ariete 2869/0 PA Kettle 1  7L,  2200W, Positano",
-"u": "https://beytech.com.lb/product/ariete-2869-0-pa-kettle-1-7l-2200w-positano/",
-"p": 88.0,
-"c": 110.0,
-"cur": "USD",
-"img": "https://beytech.com.lb/wp-content/uploads/2025/10/2869.0-PA-247x247.jpg",
-"type": "Autumn Offers 🍂, Breakfast, Home Appliances",
-"tags": [
-"Ariete",
-"Kettles"
-],
-"in": true
-},
-{
-"t": "Ariete 2869/0 CA Kettle 1  7L, 2200W, Capri",
-"u": "https://beytech.com.lb/product/ariete-2869-0-ca-kettle-1-7l-2200w-capri/",
-"p": 88.0,
-"c": 110.0,
-"cur": "USD",
-"img": "https://beytech.com.lb/wp-content/uploads/2025/10/2869.0-CA-247x247.jpg",
-"type": "Autumn Offers 🍂, Breakfast, Home Appliances",
-"tags": [
-"Ariete",
-"Kettles"
-],
-"in": true
-},
-{
-"t": "Ariete 583/0 PA Blender 1  5L,1000W,Glass Jar, Positano",
-"u": "https://beytech.com.lb/product/ariete-583-0-pa-blender-1-5l1000wglass-jar-positano/",
-"p": 120.0,
-"c": 150.0,
-"cur": "USD",
-"img": "https://beytech.com.lb/wp-content/uploads/2025/10/583.0-PA-247x247.jpg",
-"type": "Autumn Offers 🍂, Blenders, Breakfast",
-"tags": [
-"Ariete",
-"Blenders"
-],
-"in": false
-},
-{
-"t": "Ariete 413/0 PA PRO Citrus Juicer, 85W, Positano",
-"u": "https://beytech.com.lb/product/ariete-413-0-pa-pro-citrus-juicer-85w-positano/",
-"p": 96.0,
-"c": 120.0,
-"cur": "USD",
-"img": "https://beytech.com.lb/wp-content/uploads/2025/10/413.0-PA-247x247.jpg",
-"type": "Autumn Offers 🍂, Breakfast, Home Appliances",
-"tags": [
-"Ariete",
-"Juicer"
-],
-"in": true
-},
-{
-"t": "Ariete 156/0 PA Toaster 4 Slices 1630W Positano",
-"u": "https://beytech.com.lb/product/ariete-156-0-pa-toaster-4-slices-1630w-positano/",
-"p": 128.0,
-"c": 160.0,
-"cur": "USD",
-"img": "https://beytech.com.lb/wp-content/uploads/2025/10/156.0-PA-247x247.jpg",
-"type": "Autumn Offers 🍂, Breakfast, Home Appliances",
-"tags": [
-"Ariete",
-"Toasters"
-],
-"in": true
-},
-{
-"t": "Ariete 1389/1 PA Positano Espresso Machine, 850W",
-"u": "https://beytech.com.lb/product/ariete-1389-1-pa-positano-espresso-machine-850w/",
-"p": 256.0,
-"c": 320.0,
-"cur": "USD",
-"img": "https://beytech.com.lb/wp-content/uploads/2025/10/1389.1-PA-247x247.jpg",
-"type": "Autumn Offers 🍂, Breakfast, Coffee Makers",
-"tags": [
-"Ariete",
-"Coffee",
-"Coffee Grinders",
-"Coffee Machines"
-],
-"in": true
-},
-{
-"t": "Ariete 1389/1C Capri 850W Espresso Machine",
-"u": "https://beytech.com.lb/product/ariete-1389-1-ca-capri-espresso-machine850w/",
-"p": 256.0,
-"c": 320.0,
-"cur": "USD",
-"img": "https://beytech.com.lb/wp-content/uploads/2025/10/1389.1-CA-247x247.jpg",
-"type": "Autumn Offers 🍂, Breakfast, Coffee Makers",
-"tags": [
-"Ariete",
-"Coffee",
-"Coffee Grinders",
-"Coffee Machines"
-],
-"in": true
-},
-{
-"t": "Ariete 1588/0 PA  Positano Kitchen Machine 5  5L, 1200W",
-"u": "https://beytech.com.lb/product/ariete-1588-0-pa-positano-kitchen-machine-5-5l-1200w/",
-"p": 256.0,
-"c": 320.0,
-"cur": "USD",
-"img": "https://beytech.com.lb/wp-content/uploads/2025/10/Ariete-Positano-1588-Copy-247x247.jpg",
-"type": "Autumn Offers 🍂, Food Preparation, Home Appliances",
-"tags": [
-"Ariete",
-"Kitchen Machine"
-],
-"in": true
-},
-{
-"t": "Ariete 1588/0 CA  Capri Kitchen Machine 5  5L, 1200W",
-"u": "https://beytech.com.lb/product/ariete-1588-0-ca-capri-kitchen-machine-5-5l-1200w/",
-"p": 256.0,
-"c": 320.0,
-"cur": "USD",
-"img": "https://beytech.com.lb/wp-content/uploads/2025/10/Ariete-15880-CA-Copy-247x247.jpg",
-"type": "Autumn Offers 🍂, Food Preparation, Home Appliances",
-"tags": [
-"Ariete",
-"Kitchen Machine"
-],
-"in": true
-},
-{
-"t": "Hisense  43A6500N TV  43-Inch LED Smart 4K UHD Google TV",
-"u": "https://beytech.com.lb/product/hisense-43a6500n-tv-43-inch-led-smart-4k-uhd-google-tv/",
-"p": 309.0,
-"c": null,
-"cur": "USD",
-"img": "https://beytech.com.lb/wp-content/uploads/2025/10/43A6500N-1-247x247.jpg",
-"type": "Electronics, Home Audio &amp; Video, Televisions",
-"tags": [
-"Hisense",
-"Hisense Audio Video",
-"Televisions"
-],
-"in": true
-},
-{
-"t": "Hisense 43A4Q  43″ FHD VIDAA Smart TV",
-"u": "https://beytech.com.lb/product/hisense-43a4q-43-fhd-vidaa-smart-tv/",
-"p": 240.0,
-"c": null,
-"cur": "USD",
-"img": "https://beytech.com.lb/wp-content/uploads/2025/10/43A4Q-1-247x247.jpg",
-"type": "Electronics, Home Audio &amp; Video, Televisions",
-"tags": [
-"Hisense",
-"Hisense Audio Video",
-"Televisions"
-],
-"in": false
 }
 ]

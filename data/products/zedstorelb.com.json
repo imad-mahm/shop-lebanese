@@ -90,7 +90,7 @@
 {
 "t": "Bath & Body Works A Thousand Wishes Mini Gift Set",
 "u": "https://zedstorelb.com/products/bath-body-works-a-thousand-wishes-mini-gift-set",
-"p": 0.0,
+"p": 25.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/025501908.avif?v=1791386570&width=400",
@@ -1084,7 +1084,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/n153RoyalIris.webp?v=1790698170&width=400",
 "type": "naiil polish",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Ice Purple Majesty N155 15ml",
@@ -2270,7 +2270,7 @@
 "cosmaline",
 "fragrance"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Cosmaline Hair & Body Mist - Illuminate Captivate Conquer Eternal Glow",
@@ -3009,7 +3009,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/thebrightset_grande_a0bcb84c-bab0-4132-9a11-62a301174e96.webp?v=1788616548&width=400",
 "type": "Skincare Set",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Lancome Idole Travel Exclusive Set - EDP & Lash Lifting Mascara",
@@ -3408,7 +3408,7 @@
 "freegift",
 "giftcollection"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Free Gift Avocado hair Clip",
@@ -4380,7 +4380,7 @@
 "Reloaded",
 "sephoracollection"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Makeup Revolution Reloaded Eyeshadow Palette Velvet Rose",
@@ -7799,7 +7799,7 @@
 "tags": [
 "Pastel"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Pastel Nail Polish 464",
@@ -8728,7 +8728,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/1000PX_5__43854.jpg?v=1780558287&width=400",
 "type": "perfume",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Lattafa Angham Unisex Perfume Mist 250ml",
@@ -12388,7 +12388,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/GarnierUltraDouxGrapeMoistureDeepRegenerativeMaskforDehydratedHairWithHydratingGrapeWater_AntioxidantGrapeseedOil200ml.webp?v=1773480604&width=400",
 "type": "Mask",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Mug \"على رمشي بتمشي\"",
@@ -26530,7 +26530,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/01_34aaac66-78a4-4eb5-9801-ebd8a56b198f.webp?v=1745841405&width=400",
 "type": "Deodorant",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Badee Al Oud Amethyst Lattafa Deodarant 200ml",
@@ -28549,7 +28549,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/wpall.jpg?v=1742398453&width=400",
 "type": "face palette",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Wibo Nam Contouring Pressed Powder",
@@ -35970,7 +35970,7 @@
 "tags": [
 "Dali Trio Palette"
 ],
-"in": true
+"in": false
 },
 {
 "t": "The Ordinary Caffeine 5% + EGCG Depuffing Eye Serum 30 ML",
@@ -37154,7 +37154,7 @@
 "sephoracollection",
 "splashlotion"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Bath And Body Works Fine Fragrance Mist 236ml - Water Lily Springs",
