@@ -160,7 +160,7 @@
 "tags": [
 "checked"
 ],
-"in": true
+"in": false
 },
 {
 "t": "CLASSIC SHIRT IN LINEN WITH LEAVES APPLIQUE",
@@ -1772,7 +1772,7 @@
 "tags": [
 "checked"
 ],
-"in": true
+"in": false
 },
 {
 "t": "ADJUSTABLE SKIRT (GREY)",
@@ -4273,7 +4273,7 @@
 "Shirts",
 "small"
 ],
-"in": true
+"in": false
 },
 {
 "t": "FISH POUCH (BLACK)",
@@ -4852,7 +4852,7 @@
 "in": true
 },
 {
-"t": "BLACK 'TEDDY' WEATER",
+"t": "BLACK 'TEDDY' SWEATER",
 "u": "https://emergencyroombeirut.com/products/black-teddy-weater",
 "p": 60.0,
 "c": 120.0,

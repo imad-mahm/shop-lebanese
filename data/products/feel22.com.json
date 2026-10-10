@@ -1,5 +1,114 @@
 [
 {
+"t": "Kocostar Rose Lip Mask Gift",
+"u": "https://feel22.com/products/kocostar-rose-lip-mask-gift",
+"p": 0.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/KocostarRoseLipMaskGift.png?v=1791542138&width=400",
+"type": "GWP",
+"tags": [
+"Hidden recommendation",
+"SEARCHANISE_IGNORE"
+],
+"in": true
+},
+{
+"t": "OGX Argan Oil of Morocco Reviving Dry Oil",
+"u": "https://feel22.com/products/ogx-argan-oil-of-morocco-reviving-dry-oil",
+"p": 11.47,
+"c": 8.27,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/OGXArganOilofMoroccoRevivingDryOil.png?v=1789636352&width=400",
+"type": "Hair Oil and Serum",
+"tags": [
+"SEPTSKU26"
+],
+"in": true
+},
+{
+"t": "Mercedes Benz AMG Red Eau De Parfum 100ml",
+"u": "https://feel22.com/products/mercedes-benz-amg-red-eau-de-parfum-100ml",
+"p": 139.01,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshots_61_487f295a-c9dc-4646-a38a-38dfe36ab4c0.png?v=1702475522&width=400",
+"type": "Perfume For Him",
+"tags": [
+"ANNIVERSARYBRANDS",
+"BNW25",
+"BUNCH01",
+"EVERYTHING",
+"forhimluxe",
+"freshperfume",
+"giftid-7922296422538",
+"giftid-8233553428618"
+],
+"in": true
+},
+{
+"t": "Mercedes Benz AMG Silver Eau De Parfum 100ml",
+"u": "https://feel22.com/products/mercedes-benz-amg-silver-eau-de-parfum-100ml",
+"p": 139.01,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshots_60_0ec3870b-bc5b-4beb-a9ba-8ef4b1075eae.png?v=1702475383&width=400",
+"type": "Perfume For Him",
+"tags": [
+"ANNIVERSARYBRANDS",
+"BNW25",
+"BUNCH01",
+"EVERYTHING",
+"forhimluxe",
+"freshperfume",
+"giftid-7922296422538",
+"giftid-8233553428618"
+],
+"in": true
+},
+{
+"t": "Kérastase Travel size Resistance Mask GIFT",
+"u": "https://feel22.com/products/kerastase-travel-size-resistance-mask-gift",
+"p": 0.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshotstemp-Lynn_8_22878c8b-d694-4bc2-898b-1af07811ad30.png?v=1778059230&width=400",
+"type": "GWP",
+"tags": [
+"Hidden recommendation",
+"SEARCHANISE_IGNORE"
+],
+"in": true
+},
+{
+"t": "Mustela Coloring Book Gift",
+"u": "https://feel22.com/products/mustela-coloring-book-gift",
+"p": 0.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/MustelaColoringBookGift.png?v=1791400466&width=400",
+"type": "GWP",
+"tags": [
+"Hidden recommendation",
+"SEARCHANISE_IGNORE"
+],
+"in": true
+},
+{
+"t": "Mercedes AMG Sling Bag Gift",
+"u": "https://feel22.com/products/mercedes-amg-sling-bag-gift",
+"p": 0.0,
+"c": null,
+"cur": "USD",
+"img": "",
+"type": "GWP",
+"tags": [
+"Hidden recommendation",
+"SEARCHANISE_IGNORE"
+],
+"in": true
+},
+{
 "t": "Milton Baby Bottle Cleaner & Sterilizing Tablets Bundle + Free Wipes",
 "u": "https://feel22.com/products/milton-baby-bottle-cleaner-sterilizing-tablets-bundle-free-wipes",
 "p": 16.0,
@@ -1963,7 +2072,7 @@
 "Hidden recommendation",
 "SEARCHANISE_IGNORE"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Yves Saint-Laurent Myself Absolu 10ml GIFT",
@@ -2391,8 +2500,8 @@
 {
 "t": "Babyliss Hair Dryer 6714E",
 "u": "https://feel22.com/products/babyliss-hair-dryer-6714e",
-"p": 127.65,
-"c": null,
+"p": 89.0,
+"c": 127.65,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Untitleddesign_9_bada86dd-e6c2-4ae9-b394-45c3183dd074.png?v=1753180816&width=400",
 "type": "Electricals Hair Styling",
@@ -3654,7 +3763,7 @@
 "giftid-8721285185674",
 "HBYT725"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Axis-Y Complete No-Stress Physical Sunscreen (SPF50+/PA++++) 50ml",
@@ -4593,7 +4702,7 @@
 "CPDTODO426",
 "DEC25"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Mixa Body Cream Jar Duo Bundle + Free Body Scrubber",
@@ -4844,7 +4953,7 @@
 "CPDQ1",
 "EVERYTHING"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Arencia Vitamin C Booster Shot Radiance And Boosting Serum",
@@ -5047,7 +5156,7 @@
 "Hidden recommendation",
 "SEARCHANISE_IGNORE"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Garnier Ultra Doux Silk Pillow Case GIFT",
@@ -5075,7 +5184,7 @@
 "tags": [
 "falling926"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Flormar K-Spirit Glow Lip Tint",
@@ -5323,7 +5432,7 @@
 "tags": [
 "falling926"
 ],
-"in": true
+"in": false
 },
 {
 "t": "L’Oréal Paris Voluminous Panorama Mascara Nudes Duo Bundle + Free Mirror",
@@ -5651,7 +5760,7 @@
 "tags": [
 "BTG926"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Maybelline Gloss, Matte and shine Bundle At 25% Off",
@@ -5664,7 +5773,7 @@
 "tags": [
 "BTG926"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Maybelline Basic Needs Bundle At 25% Off",
@@ -5802,7 +5911,7 @@
 "CPDALL426",
 "EVERYTHING"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Garnier Micellar X Maybelline Sky High & Concealer Bundle At 20% Off",
@@ -5822,7 +5931,7 @@
 "CPDALL426",
 "CPDBF25"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Maybelline x Garnier Multi-Use , Volumizing and Super UV Sunscreen Bundle At 20% Off",
@@ -5835,7 +5944,7 @@
 "tags": [
 "BTG926"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Essie Originals Top Coat Bundle At 25% Off",
@@ -6108,7 +6217,7 @@
 "tags": [
 "AUGSKU26"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Rosy The Panda Bridal Compact Powder Brush",
@@ -6336,7 +6445,7 @@
 "ELGB2025",
 "EVERYTHING"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Garnier Ultra Doux Honey Treasures Shampoo , Conditioner , Leave In and Repairing Serum Bundle At 20% Off",
@@ -6350,7 +6459,7 @@
 "BTG926",
 "IMCOOL926"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Garnier Fast Bright Dual Cleansing & Brightening Bundle At 15% Off",
@@ -6395,7 +6504,7 @@
 "tags": [
 "BTG926"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Garnier Fast Clear Full Routine Bundle  At 15% Off",
@@ -6414,7 +6523,7 @@
 "EVERYTHING",
 "OCT25"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Garnier Vitamin C 4 Step Routine Bundle At 25% Off",
@@ -6430,7 +6539,7 @@
 "CPDALL426",
 "GRSKIN226"
 ],
-"in": true
+"in": false
 },
 {
 "t": "L'Oréal Paris Elvive Hyaluron Pure Full Range Bundle At 30% Off + Free Glasses",
@@ -6450,7 +6559,7 @@
 "CPDQ1",
 "DEC24"
 ],
-"in": true
+"in": false
 },
 {
 "t": "L’Oréal Paris Glycolic-Bright Daily Glowing Bundle + Free Glasses",
@@ -6463,7 +6572,7 @@
 "tags": [
 "BTG926"
 ],
-"in": true
+"in": false
 },
 {
 "t": "L’Oréal Paris Glycolic Bright Serum, Cream & SPF Bundle At 30% Off",
@@ -6477,7 +6586,7 @@
 "BTG926",
 "CPDBTS926"
 ],
-"in": true
+"in": false
 },
 {
 "t": "L'Oréal Paris Infallible Concealer & Foundation Bundle + Free Glasses At 20% Off",
@@ -6490,7 +6599,7 @@
 "tags": [
 "BTG926"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Yves Saint-Laurent The Inks Matte",
@@ -7092,7 +7201,7 @@
 "BTG926",
 "cannes526"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Giorgio Armani Acqua Di Gio Parfum For Men",
@@ -7169,7 +7278,7 @@
 "MUPRA",
 "OAPRAM26"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Garnier Skin Active Fast Bright Day & Night Basic Routine Bundle At 20% Off",
@@ -10952,7 +11061,7 @@
 "MUPSKINALL926",
 "OCT26"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Face Facts Multipurpose Peach Glow Tinted Balm",
@@ -11032,7 +11141,7 @@
 "MUPSKINALL926",
 "OCT26"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Face Facts Peptide Radiance Drops Gel Serum",
@@ -11457,8 +11566,8 @@
 {
 "t": "Babyliss Airbrush AS136E",
 "u": "https://feel22.com/products/babyliss-airbrush-as136e",
-"p": 89.91,
-"c": null,
+"p": 77.0,
+"c": 89.91,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Babyliss-Airbrush-AS136E_330aa6bd-6409-4ffc-8e92-9e08a100ca6a.png?v=1753100772&width=400",
 "type": "Electricals Hair Styling",
@@ -11470,8 +11579,8 @@
 {
 "t": "Babyliss Curling Iron C452E",
 "u": "https://feel22.com/products/babyliss-curling-iron-c452e",
-"p": 69.93,
-"c": null,
+"p": 58.0,
+"c": 69.93,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Babyliss-Curling-Iron-C452E.png?v=1753100890&width=400",
 "type": "Electricals Hair Styling",
@@ -11587,7 +11696,7 @@
 "tags": [
 "mixa826"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Mixa Urea Cica Cream & Balm Bundle + Free Gift",
@@ -11601,7 +11710,7 @@
 "CPDBTS926",
 "mixa826"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Ducray Kelual DS Anti-scales Cleansing Gel",
@@ -17991,7 +18100,7 @@
 "LUXEALL",
 "MUPSKINALL926"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Estee Lauder Revitalizing Supreme+ Bright Radiance Power Soft Cream Moisturizer 50ml",
@@ -18030,7 +18139,7 @@
 "luxuryweddingmakeup",
 "MUPSKINALL926"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Estee Lauder Take It Away Makeup Remover Lotion 200ml",
@@ -18050,7 +18159,7 @@
 "LUXEALL",
 "MUPSKINALL926"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Estee Lauder Re-Nutriv Ultimate Diamond Soft Creme Moisturizer 50ml",
@@ -18067,7 +18176,7 @@
 "LUXEALL",
 "MUPSKINALL926"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Estee Lauder Futurist Hydra Rescue Moisturizing Foundation SPF45",
@@ -18127,7 +18236,7 @@
 "giftid-8256735740042",
 "LUXEALL"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Estee Lauder Pure Color Matte Lipstick",
@@ -18167,7 +18276,7 @@
 "giftid-7887944482954",
 "giftid-8119732338826"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Estee Lauder Cinnabar Eau De Parfum 50ml",
@@ -18207,7 +18316,7 @@
 "EVERYTHING",
 "giftid-8119732338826"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Estee Lauder DayWear Eye Cooling Anti-Oxidant Moisture GelCreme",
@@ -18247,7 +18356,7 @@
 "luxury",
 "luxuryskincare"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Estee Lauder Beautiful Perfumed Body Powder",
@@ -19332,7 +19441,7 @@
 "JULY25",
 "nobundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Neutrogena Norwegian Formula SPF 20 Lip Balm",
@@ -23675,7 +23784,7 @@
 "LUXEALL",
 "travelsize"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Clinique Makeup Bag Mvp'S Set",
@@ -26311,7 +26420,7 @@
 "WS726",
 "ws926"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Women'Secret So Captivating Body Mist",
@@ -31089,7 +31198,7 @@
 "MUPSKINALL926",
 "pupa1025"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Pupa Milano Prime Me Corrective Face Primer 003",
@@ -31209,7 +31318,7 @@
 "abhrest826",
 "abhvday"
 ],
-"in": false
+"in": true
 },
 {
 "t": "L'Oréal Paris Revitalift Laser Day Cream & Night Serum Bundle + Free Pouch",
@@ -32175,7 +32284,7 @@
 "ESTEEBF25",
 "esteeskincare"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Estee Lauder Double Wear Smooth & Blur Primer 40ml",
@@ -32295,7 +32404,7 @@
 "giftid-8233553428618",
 "luxe"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Estee Lauder Ladies Estee Eau De Parfum 50ml",
@@ -32432,7 +32541,7 @@
 "CLSLTC626",
 "EVERYTHING"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Clinique High Impact Shadow Play Shadow + Definer",
@@ -32572,7 +32681,7 @@
 "clchubby726",
 "clinique826"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Clinique High Impact Hi-Fi Full Volume Mascara",
@@ -32612,7 +32721,7 @@
 "CLBOGO",
 "CLEXCM625"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Clinique My Happy Cocoa & Cashmere",
@@ -32672,7 +32781,7 @@
 "clinique826",
 "cliniquebf24"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Clinique Smart Value Set 1",
@@ -32892,7 +33001,7 @@
 "CLQ826",
 "CLSKIN"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Clinique Liquid Facial Soap 200ml - Oily Skin",
@@ -37468,8 +37577,8 @@
 {
 "t": "Babyliss Ceramic Coating Curling Iron C451E",
 "u": "https://feel22.com/products/babyliss-ceramic-coating-curling-iron-c451e",
-"p": 64.38,
-"c": null,
+"p": 53.0,
+"c": 64.38,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Untitleddesign_7_ca8e9bba-062b-4668-9943-da50cc45d3b1.png?v=1753180571&width=400",
 "type": "Electricals Hair Styling",
@@ -37861,7 +37970,7 @@
 "REVOXBF25",
 "SC15"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Revox B77 Japanese Ritual Smoothing Face Serum 20ml",
@@ -38133,7 +38242,7 @@
 "pall726",
 "PALL826"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Beesline Face Mineral Sunscreen Stick SPF30 18ml",
@@ -38237,7 +38346,7 @@
 "CPDTODO426",
 "GRSER326"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Garnier Vitamin C Upgraded Routine Bundle + Free Pouch At 15% Off",
@@ -38586,7 +38695,7 @@
 "pupamsc826",
 "pupaskincare"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Pupa Milano Flower Artist Scented Water Set",
@@ -38868,7 +38977,7 @@
 "pupabody",
 "pupamsc826"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Pupa Milano Teddyland Body Scrub Set",
@@ -39674,7 +39783,7 @@
 "lagoonhand",
 "MARCHSKU26"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Lagoon Orange Blossom Hand Wash",
@@ -39716,7 +39825,7 @@
 "lagoonhand",
 "MARCHSKU26"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Lagoon Oriental Cedar Hand Wash",
@@ -40719,8 +40828,8 @@
 {
 "t": "Babyliss Hair Dryer 6709DE",
 "u": "https://feel22.com/products/babyliss-hair-dryer-6709de",
-"p": 78.81,
-"c": null,
+"p": 59.0,
+"c": 78.81,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Babyliss-Hair-Dryer-6709DE.png?v=1753101079&width=400",
 "type": "Electricals Hair Styling",
@@ -42197,7 +42306,7 @@
 "hbtadha526",
 "MUPSKINALL926"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Cosrx 5 PDRN B5 Vital Soothing Toner",
@@ -42958,8 +43067,8 @@
 {
 "t": "Babyliss Hair Dryer D215DE",
 "u": "https://feel22.com/products/babyliss-hair-dryer-d215de",
-"p": 47.0,
-"c": null,
+"p": 39.5,
+"c": 47.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/BabylissHairDryerD215DE.png?v=1766395222&width=400",
 "type": "Electricals Hair Styling",
@@ -43752,8 +43861,8 @@
 {
 "t": "Babyliss Hair Dryer 2000W Black Color 5344SDE",
 "u": "https://feel22.com/products/babyliss-hair-dryer-2000w-black-color-5344sde",
-"p": 39.0,
-"c": null,
+"p": 33.0,
+"c": 39.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/1764821_main.jpg?v=1630331032&width=400",
 "type": "Hair Dryer",
@@ -44612,7 +44721,7 @@
 "ABH326",
 "ABH826"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Anastasia Beverly Hills Pointed Eye Liner Brush",
@@ -45862,7 +45971,7 @@
 "FEBSKU26",
 "OCT26"
 ],
-"in": true
+"in": false
 },
 {
 "t": "NHCO Artixine Joint Comfort Dietary Supplement Capsules",
@@ -46403,7 +46512,7 @@
 "Hidden recommendation",
 "SEARCHANISE_IGNORE"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Garnier Fast Bright Vitamin C + Niacinamide Serum 30ml (Reward)",
@@ -46497,8 +46606,8 @@
 {
 "t": "Cetaphil Gentle Exfoliating Salicylic Acid Moisturizing Lotion",
 "u": "https://feel22.com/products/cetaphil-gentle-exfoliating-salicylic-acid-moisturizing-lotion",
-"p": 25.9,
-"c": 32.37,
+"p": 32.37,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/CetaphilGentleExfoliatingSaLotion236Ml.png?v=1770292273&width=400",
 "type": "Day and Night Cream",
@@ -46517,8 +46626,8 @@
 {
 "t": "Cetaphil Gentle Salicylic Acid Exfoliating Cleanser",
 "u": "https://feel22.com/products/cetaphil-gentle-salicylic-acid-exfoliating-cleanser-1",
-"p": 23.74,
-"c": 29.67,
+"p": 29.67,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/CetaphilGentleExfoliatingSaCleanser236Ml.png?v=1770292499&width=400",
 "type": "Cleanser and Face Soap",
@@ -47324,7 +47433,7 @@
 "JANSKU26",
 "OCT26"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Flormar Full Color Nail Enamel FC45 Peach Sparkler Nail Polish",
@@ -47806,7 +47915,7 @@
 "MUPSKINALL926",
 "OCT26"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Flormar Breathing Color Nail Enamel Top Coat",
@@ -48536,7 +48645,7 @@
 "MUPSKINALL926",
 "OCT26"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Flormar Metaglam Face & Body Glitter",
@@ -49898,7 +50007,7 @@
 "EVERYTHING",
 "pupamsc826"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Medicube Red Acne Body Wash",
@@ -50145,125 +50254,5 @@
 "abhpalettes"
 ],
 "in": false
-},
-{
-"t": "Anastasia Beverly Hills Sharpener",
-"u": "https://feel22.com/products/anastasia-beverly-hills-sharpener",
-"p": 9.37,
-"c": 0.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/products/Untitleddesign_52_7000001a-0da5-4692-b3e7-046b4579c725.png?v=1656512742&width=400",
-"type": "Eyebrows",
-"tags": [
-"3RANDO826",
-"ABH1025",
-"ABH1026",
-"ABH1125",
-"ABH325",
-"ABH326",
-"ABH525",
-"ABH826"
-],
-"in": false
-},
-{
-"t": "Anastasia Beverly Hills Contour Kit - Light to Medium",
-"u": "https://feel22.com/products/anastasia-beverly-hills-contour-kit-light-to-medium",
-"p": 67.34,
-"c": 0.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/products/FACE_CONTOURKIT_Powder_LightToMedium_OPTIMIZED.jpg?v=1644309061&width=400",
-"type": "Face Palette",
-"tags": [
-"3RANDO826",
-"ABH1025",
-"ABH1026",
-"ABH1125",
-"ABH325",
-"ABH326",
-"ABH525",
-"ABH826"
-],
-"in": false
-},
-{
-"t": "Eterna P+A Body Care 200ml",
-"u": "https://feel22.com/products/eterna-p-a-body-care-200ml",
-"p": 11.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/LaRoche-PosayEffaclarDuo_Cream_GelMoussantGift-2023-09-21T182813.180.png?v=1695309833&width=400",
-"type": "Body Lotion and Oil",
-"tags": [
-"ANNIVERSARYBRANDS",
-"bestof2023pharma",
-"EVERYTHING",
-"MEDA225",
-"MEDAPHARM2026",
-"medapharm226",
-"medapharmbf",
-"MPC22125"
-],
-"in": true
-},
-{
-"t": "Colgate Big Kids Smiles 6 To 9 Years Soft Toothbrush 1+1",
-"u": "https://feel22.com/products/colgate-big-kids-smiles-6-to-9-years-soft-toothbrush-1-1",
-"p": 3.54,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/ColgateBigKidsSmiles6To9YearsSoftToothbrush1_1.png?v=1766097994&width=400",
-"type": "Toothbrush",
-"tags": [
-"COLPUB",
-"DECSKU25",
-"EVERYTHING"
-],
-"in": true
-},
-{
-"t": "Colgate Little Kids Smiles 3 To 5 Years Super Soft Toothbrush 1+1",
-"u": "https://feel22.com/products/colgate-little-kids-smiles-3-to-5-years-super-soft-toothbrush-1-1",
-"p": 3.54,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/ColgateLittleKidsSmiles3To5YearsSuperSoftToothbrush1_1.png?v=1766075790&width=400",
-"type": "Toothbrush",
-"tags": [
-"COLPUB",
-"DECSKU25",
-"EVERYTHING"
-],
-"in": true
-},
-{
-"t": "Essence Jelly Grip Refreshing Aloe Spray",
-"u": "https://feel22.com/products/essence-jelly-grip-refreshing-aloe-spray",
-"p": 4.75,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/EssenceJellyGripRefreshingAloeSpray.png?v=1762868782&width=400",
-"type": "Setting Spray",
-"tags": [
-"essence426",
-"EVERYTHING",
-"MUPSKINALL926"
-],
-"in": false
-},
-{
-"t": "Essence What A Tint! Staining Lip & Cheek Tint",
-"u": "https://feel22.com/products/essence-what-a-tint-staining-lip-cheek-tint",
-"p": 4.45,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/EssenceWhatATint_StainingLip_CheekTint101.png?v=1762867485&width=400",
-"type": "Lip Gloss and Lip Tint",
-"tags": [
-"essence426",
-"EVERYTHING",
-"MUPSKINALL926"
-],
-"in": true
 }
 ]
