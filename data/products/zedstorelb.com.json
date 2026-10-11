@@ -1,5 +1,19 @@
 [
 {
+"t": "Pastel nail polish - 404",
+"u": "https://zedstorelb.com/products/pastel-nail-polish-404",
+"p": 1.35,
+"c": 1.5,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/rn-image_picker_lib_temp_d409519e-a1b2-4612-90d1-5c1b24568eef.jpg?v=1791643463&width=400",
+"type": "Nail polish",
+"tags": [
+"dollar",
+"Pastel nail polish"
+],
+"in": true
+},
+{
 "t": "Dali 08 Ballerina Nail Polish",
 "u": "https://zedstorelb.com/products/dali-08-ballerina-nail-polish",
 "p": 2.5,
@@ -1863,7 +1877,7 @@
 "Mature Skin",
 "Moisturizer"
 ],
-"in": true
+"in": false
 },
 {
 "t": "L'Oreal Paris Age Perfect Collagen Expert Re-Hydrating Eye Care",
@@ -3064,7 +3078,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/images_d12a35e3-9513-4bb0-bc0d-d0192aaafb59.jpg?v=1788288695&width=400",
 "type": "Eyeshadow",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "essence What The Fluff?! Powder Puff Duo",
@@ -3339,7 +3353,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/45-Lilac.webp?v=1787745840&width=400",
 "type": "Nail Polish",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Dali 49 Rose All Day Nail Polish",
@@ -5707,7 +5721,7 @@
 "New Arrivals",
 "Skincare"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Numbuzin No.9 NAD+ Collagen Eye Patches",
@@ -6001,7 +6015,7 @@
 "dollar",
 "Pastel nail polish"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Medicube EGF NAD+ Firming Serum, Anti-Aging Serum for Face & Neck, 30ml",
@@ -6289,7 +6303,7 @@
 "SPF 50",
 "Sunscreen"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Rare Beauty Soft Pinch Matte Bouncy Blush, Cream-to-Powder Cheek Color",
@@ -7864,7 +7878,7 @@
 "tags": [
 "Pastel"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Pastel Nail Polish 455",
@@ -10709,7 +10723,7 @@
 "tags": [
 "l'orealskincare"
 ],
-"in": true
+"in": false
 },
 {
 "t": "L'Oreal Paris Infaillible 24H Power Glow Loose Powder",
@@ -15411,7 +15425,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/pastel-lakier-do-paznokci-nr-906-13ml.jpg?v=1766049807&width=400",
 "type": "Nail Polish",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Pastel 901",
@@ -15444,7 +15458,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/pastel-lakier-do-paznokci-nr-903-13ml.jpg?v=1766048898&width=400",
 "type": "Nail Polish",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Pastel 902",
@@ -15466,7 +15480,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/pastel-lakier-do-paznokci-nr-907-13ml.jpg?v=1766048679&width=400",
 "type": "Nail Polish",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Pastel 905",
@@ -16710,7 +16724,7 @@
 "tags": [
 "Bundlecollection"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Lattafa Angham Perfume 100ml",
@@ -26028,7 +26042,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/pastel-oje-448-summer-collection-aura-2025-9192-12-B.jpg?v=1747055256&width=400",
 "type": "nail polish",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Pastel nail polish - 440",
@@ -26061,7 +26075,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/pastel-oje-446-summer-collection-aura-2025-9194-12-B.jpg?v=1747054006&width=400",
 "type": "nail polish",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Pastel nail polish - 447",
@@ -26072,7 +26086,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/pastel-oje-447-summer-collection-aura-2025-9191-12-B.jpg?v=1747053566&width=400",
 "type": "nail polish",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Pastel nail polish - 441",
@@ -29249,7 +29263,7 @@
 "tags": [
 "sephoracollection"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Some By Mi AHA BHA PHA 30 Days Miracle Starter Kit (4pcs).",
@@ -30304,7 +30318,7 @@
 "tags": [
 "sephoracollection"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Charlotte Tilbury Air Brush Bronzer Powder",
@@ -32594,7 +32608,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/GREEN-TEA-Hair-Nourishing-Oil.webp?v=1734097587&width=400",
 "type": "hair oil",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Khan Al Saboun Roll On Green Tea & Lemon Grass 5ml",
@@ -32832,7 +32846,7 @@
 "nail",
 "nailtools"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Lattafa Ejaazi For Men 100ml",
@@ -33521,7 +33535,7 @@
 "dollar",
 "Pastel nail polish"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Pastel nail polish - 432",
@@ -33563,7 +33577,7 @@
 "dollar",
 "Pastel nail polish"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Pastel nail polish - 423",
@@ -33605,7 +33619,7 @@
 "dollar",
 "Pastel nail polish"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Pastel nail polish - 427",
@@ -33678,7 +33692,7 @@
 "dollar",
 "Pastel nail polish"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Skin1004 Madagascar Centella Ampoule Serum",
@@ -38150,21 +38164,6 @@
 "type": "Eye cream",
 "tags": [
 "Cosrx Advanced Snail Peptide Eye Cream 25 ml",
-"koreancollection",
-"sephoracollection"
-],
-"in": true
-},
-{
-"t": "Cosrx Ultimate Nourishing Rice Overnight Spa Mask 60 ml",
-"u": "https://zedstorelb.com/products/cosrx-ultimate-nourishing-rice-overnight-spa-mask-60-ml",
-"p": 18.0,
-"c": 20.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/cosrx-ultimate-nourishing-rice-spa-overnight-mask.jpg?v=1726157100&width=400",
-"type": "Mask",
-"tags": [
-"Cosrx Ultimate Nourishing Rice Overnight Spa Mask 60 ml",
 "koreancollection",
 "sephoracollection"
 ],
