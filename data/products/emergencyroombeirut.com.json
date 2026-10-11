@@ -3037,7 +3037,7 @@
 "medium",
 "skirts"
 ],
-"in": true
+"in": false
 },
 {
 "t": "DOUBLE TRENCH COAT",
@@ -4131,7 +4131,7 @@
 "Shirts",
 "small"
 ],
-"in": false
+"in": true
 },
 {
 "t": "LACE CURTAIN SHORT SHIRT",
@@ -4833,7 +4833,7 @@
 "small",
 "t-shirts"
 ],
-"in": true
+"in": false
 },
 {
 "t": "T-SHIRT 'DAWA'",

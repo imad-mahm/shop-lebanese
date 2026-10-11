@@ -659,7 +659,7 @@
 {
 "t": "Maybelline Fit Me Concealer Duo Bundle At 15% Off",
 "u": "https://feel22.com/products/maybelline-fit-me-concealer-duo-bundle-15-off",
-"p": 12.48,
+"p": 13.26,
 "c": 15.6,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/MNYfeelbundlesArtboard2-100.jpg?v=1698660753&width=400",
@@ -1625,20 +1625,6 @@
 "in": false
 },
 {
-"t": "Estee Lauder Laduree Paris Pink Pouch With 6 Minis",
-"u": "https://feel22.com/products/estee-lauder-laduree-paris-pink-pouch-with-6-minis",
-"p": 0.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshotstemp-Lynn_8e184a24-03b6-4cc3-ae20-1c8208982203.png?v=1780664131&width=400",
-"type": "GWP",
-"tags": [
-"Hidden recommendation",
-"SEARCHANISE_IGNORE"
-],
-"in": false
-},
-{
 "t": "Clinique Mini Black Honey Gift",
 "u": "https://feel22.com/products/clinique-mini-black-honey-gift",
 "p": 0.0,
@@ -2061,20 +2047,6 @@
 "in": true
 },
 {
-"t": "Yves Saint-Laurent Libre Couture Eau De Parfum 1.2ML Gift",
-"u": "https://feel22.com/products/yves-saint-laurent-libre-couture-edp-1-2ml-gift",
-"p": 0.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshotstemp-Lynn_2_fb5c9dba-5685-419b-a4c6-ff1488e12b24.png?v=1777888314&width=400",
-"type": "GWP",
-"tags": [
-"Hidden recommendation",
-"SEARCHANISE_IGNORE"
-],
-"in": false
-},
-{
 "t": "Yves Saint-Laurent Myself Absolu 10ml GIFT",
 "u": "https://feel22.com/products/yves-saint-laurent-free-myself-absolu-10ml",
 "p": 0.0,
@@ -2338,24 +2310,23 @@
 {
 "t": "Lattafa Angham Eau De Parfum",
 "u": "https://feel22.com/products/lattafa-angham-eau-de-parfum",
-"p": 21.86,
-"c": 27.32,
+"p": 27.32,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/lattafa-anghameau-de-parfum_page-0001_1.jpg?v=1760948590&width=400",
 "type": "Unisex Perfume",
 "tags": [
 "best25",
 "EVERYTHING",
-"LATT925",
-"OCT26"
+"LATT925"
 ],
 "in": false
 },
 {
 "t": "Lattafa Eclaire Women Eau De Parfum 100ml",
 "u": "https://feel22.com/products/lattafa-eclaire-women-eau-de-parfum-100ml",
-"p": 28.69,
-"c": 35.86,
+"p": 35.86,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Addaheading-2025-04-24T132648.075.png?v=1745490415&width=400",
 "type": "Perfume For Her",
@@ -2367,15 +2338,15 @@
 "LATT925",
 "LATTAFA525",
 "lattafa725",
-"OCT26"
+"pink26"
 ],
 "in": true
 },
 {
 "t": "Lattafa Hayaati Perfume For Men 100ml",
 "u": "https://feel22.com/products/lattafa-hayaati-eau-de-parfum-for-men",
-"p": 14.8,
-"c": 18.5,
+"p": 18.5,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/BFRegularposts-Karen.png?v=1700483733&width=400",
 "type": "Perfume For Him",
@@ -2384,7 +2355,6 @@
 "EVERYTHING",
 "LATT925",
 "lattafabf",
-"OCT26",
 "papaday",
 "Sdd",
 "VAL2024HIM"
@@ -2394,8 +2364,8 @@
 {
 "t": "Lattafa Al Dur Al Maknoun Perfume For Men 100ml",
 "u": "https://feel22.com/products/lattafa-al-dur-al-maknoun",
-"p": 13.32,
-"c": 16.65,
+"p": 16.65,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/LaRoche-PosayEffaclarDuo_Cream_GelMoussantGift-2023-11-20T124928.802.png?v=1700477071&width=400",
 "type": "Perfume For Him",
@@ -2414,8 +2384,8 @@
 {
 "t": "Lattafa Haya Eau De Parfum",
 "u": "https://feel22.com/products/lattafa-haya-eau-de-parfum",
-"p": 27.32,
-"c": 34.15,
+"p": 34.15,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/289_3_2c79f652-30fd-47d7-be93-5130902d7f33.png?v=1697617129&width=400",
 "type": "Perfume For Her",
@@ -2427,15 +2397,15 @@
 "LATTAFA525",
 "lattafa725",
 "lattafabf",
-"OCT26"
+"SD2023"
 ],
 "in": true
 },
 {
 "t": "Lattafa Fakhar Lattafa Men Perfume",
 "u": "https://feel22.com/products/lattafa-fakhar-lattafa-men-perfume",
-"p": 20.5,
-"c": 25.62,
+"p": 25.62,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/58_7eb3a295-0271-4510-8d8b-96f41e767811.png?v=1693554213&width=400",
 "type": "Perfume For Him",
@@ -2447,15 +2417,15 @@
 "LATTAFA525",
 "lattafa725",
 "lattafabf",
-"OCT26"
+"SD2023"
 ],
 "in": true
 },
 {
 "t": "Lattafa Asad Men Perfume 100ml",
 "u": "https://feel22.com/products/lattafa-asad-men-perfume",
-"p": 21.86,
-"c": 27.32,
+"p": 27.32,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/68_d5e1cd11-f423-4886-91ca-5be03b4ae5e5.png?v=1704705550&width=400",
 "type": "Perfume For Him",
@@ -3763,7 +3733,7 @@
 "giftid-8721285185674",
 "HBYT725"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Axis-Y Complete No-Stress Physical Sunscreen (SPF50+/PA++++) 50ml",
@@ -5510,7 +5480,7 @@
 "JULY26",
 "MUPSKINALL926"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Potion Kitchen Kisses to the Universe Lip Balm",
@@ -7823,8 +7793,8 @@
 {
 "t": "Beesline Nourishing Facial Day Cream - Oily to Combination Skin",
 "u": "https://feel22.com/products/nourishing-facial-day-cream-50ml-for-oily-skin",
-"p": 6.17,
-"c": 10.29,
+"p": 10.29,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/NourishingDayCreamOilywithBox.png?v=1632126364&width=400",
 "type": "Day and Night Cream",
@@ -8010,15 +7980,14 @@
 {
 "t": "Samoa Chili LiLiLi Spicy Gel Lip Plumper",
 "u": "https://feel22.com/products/samoa-chili-lilili-spicygel-lip-plumper",
-"p": 7.23,
-"c": 8.5,
+"p": 8.5,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/5281011197131-SamoaChiliLiLiLiSpicyGelLipPlumper-LipPlumper.png?v=1786959876&width=400",
 "type": "Lip Gloss and Lip Tint",
 "tags": [
 "AUGSKU26",
 "MUPSKINALL926",
-"OCT26",
 "SAMOA1026"
 ],
 "in": true
@@ -8339,8 +8308,8 @@
 {
 "t": "Elementre 0.5% Retinol Revitalizing Serum 30ml",
 "u": "https://feel22.com/products/elementre-0-5-retinol-revitalizing-serum-30ml",
-"p": 61.6,
-"c": 77.0,
+"p": 77.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Elementre0.5_RetinolRevitalizingSerum30ml.png?v=1781263124&width=400",
 "type": "Serum and Treatment",
@@ -8359,8 +8328,8 @@
 {
 "t": "Elementre Enzyme Peel 75ml",
 "u": "https://feel22.com/products/elementre-enzyme-peel-75ml",
-"p": 28.8,
-"c": 36.0,
+"p": 36.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/ElementreEnzymePeel75ml.png?v=1781511166&width=400",
 "type": "Cleanser and Face Soap",
@@ -8470,8 +8439,8 @@
 {
 "t": "Essie Muchi Muchi 17 Nail Polish",
 "u": "https://feel22.com/products/essie-muchi-muchi-586-nail-polish",
-"p": 5.99,
-"c": 7.49,
+"p": 7.49,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/30095199.jpg?v=1599656265&width=400",
 "type": "Nail Polish",
@@ -8490,15 +8459,14 @@
 {
 "t": "Face Facts Kiwi Paradise Body Scrub",
 "u": "https://feel22.com/products/face-facts-kiwi-paradise-body-scrub",
-"p": 12.43,
-"c": 15.54,
+"p": 15.54,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FaceFactsBodyScrub-KiwiParadise400g.png?v=1763370663&width=400",
 "type": "Body Scrubs and Exfoliators",
 "tags": [
 "EVERYTHING",
-"FF926",
-"OCT26"
+"FF926"
 ],
 "in": true
 },
@@ -8650,8 +8618,8 @@
 {
 "t": "Elementre 2% Salicylic Acid Advanced Blemish Control Gel",
 "u": "https://feel22.com/products/elementre-2-salicylic-acid-advanced-blemish-control-gel",
-"p": 37.6,
-"c": 47.0,
+"p": 47.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Elementre2_SalicylicAcidAdvancedBlemishControlGel_c71e6bb7-40cf-48fa-9649-c26254b959d9.png?v=1781508685&width=400",
 "type": "Serum and Treatment",
@@ -8661,7 +8629,6 @@
 "ELEM926",
 "JUNESKU26",
 "MUPSKINALL926",
-"OCT26",
 "OCTOBERSALEPHARMA",
 "PHARMAALL"
 ],
@@ -8783,94 +8750,88 @@
 {
 "t": "Face Facts Balance Prebiotic Moisturiser",
 "u": "https://feel22.com/products/face-facts-balance-prebiotic-moisturiser",
-"p": 11.54,
-"c": 14.43,
+"p": 14.43,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FaceFactsBalance-PrebioticMoisturiser50mL.png?v=1763370209&width=400",
 "type": "Day and Night Cream",
 "tags": [
 "EVERYTHING",
 "FF926",
-"MUPSKINALL926",
-"OCT26"
+"MUPSKINALL926"
 ],
 "in": true
 },
 {
 "t": "Face Facts Balance Niacinamide Gel Serum",
 "u": "https://feel22.com/products/face-facts-balance-niacinamide-gel-serum",
-"p": 11.54,
-"c": 14.43,
+"p": 14.43,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FaceFactsBalance-NiacinamideGelSerum30mL.png?v=1763370266&width=400",
 "type": "Serum and Treatment",
 "tags": [
 "EVERYTHING",
 "FF926",
-"MUPSKINALL926",
-"OCT26"
+"MUPSKINALL926"
 ],
 "in": true
 },
 {
 "t": "Face Facts Balance Niacinamide Cleanser",
 "u": "https://feel22.com/products/face-facts-balance-niacinamide-cleanser",
-"p": 11.54,
-"c": 14.43,
+"p": 14.43,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FaceFactsBalance-NiacinamideCleanser200mL.png?v=1763370361&width=400",
 "type": "Cleanser and Face Soap",
 "tags": [
 "EVERYTHING",
 "FF926",
-"MUPSKINALL926",
-"OCT26"
+"MUPSKINALL926"
 ],
 "in": true
 },
 {
 "t": "Face Facts Balance BHA Toner",
 "u": "https://feel22.com/products/face-facts-balance-bha-toner",
-"p": 7.99,
-"c": 9.99,
+"p": 9.99,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FaceFactsBalance-BHAToner30mL.png?v=1763370423&width=400",
 "type": "Toner",
 "tags": [
 "EVERYTHING",
 "FF926",
-"MUPSKINALL926",
-"OCT26"
+"MUPSKINALL926"
 ],
 "in": true
 },
 {
 "t": "Face Facts Watermelon Sugar Body Scrub",
 "u": "https://feel22.com/products/face-facts-watermelon-sugar-body-scrub",
-"p": 12.43,
-"c": 15.54,
+"p": 15.54,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FaceFactsBodyScrub-WatermelonSugar400g.png?v=1763370501&width=400",
 "type": "Body Scrubs and Exfoliators",
 "tags": [
 "EVERYTHING",
-"FF926",
-"OCT26"
+"FF926"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Face Facts Lemon Swirl Body Scrub",
 "u": "https://feel22.com/products/face-facts-lemon-swirl-body-scrub",
-"p": 12.43,
-"c": 15.54,
+"p": 15.54,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FaceFactsBodyScrub-LemonSwirl400g.png?v=1763370608&width=400",
 "type": "Body Scrubs and Exfoliators",
 "tags": [
 "EVERYTHING",
-"FF926",
-"OCT26"
+"FF926"
 ],
 "in": true
 },
@@ -8914,8 +8875,8 @@
 {
 "t": "Elementre Mineral Sun Protection SPF50+ 50ml",
 "u": "https://feel22.com/products/elementre-mineral-sun-protection-spf50-50ml",
-"p": 33.6,
-"c": 42.0,
+"p": 42.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/ElementreMineralSunProtectionSPF50_50ml.png?v=1781264164&width=400",
 "type": "Sun Protection",
@@ -9020,8 +8981,8 @@
 {
 "t": "Beesline Sunscreen Lotion SPF30 200ml",
 "u": "https://feel22.com/products/beesline-sunscreen-lotion-spf30-200ml",
-"p": 1.97,
-"c": 3.29,
+"p": 3.29,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/SunscreenLotionSPF30.png?v=1632129755&width=400",
 "type": "Sun Protection",
@@ -9040,16 +9001,15 @@
 {
 "t": "Face Facts Overnight Renew Replenishing Cleansing Balm",
 "u": "https://feel22.com/products/face-facts-overnight-renew-replenishing-cleansing-balm",
-"p": 11.54,
-"c": 14.43,
+"p": 14.43,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FaceFactsOvernightRenewReplenishingCleansingBalm70mL_80e4cffc-a7c2-4171-87f6-40c7c4b216da.png?v=1763370882&width=400",
 "type": "Cleanser and Face Soap",
 "tags": [
 "EVERYTHING",
 "FF926",
-"MUPSKINALL926",
-"OCT26"
+"MUPSKINALL926"
 ],
 "in": true
 },
@@ -9146,8 +9106,8 @@
 {
 "t": "Elementre Cleansing Gel",
 "u": "https://feel22.com/products/elementre-cleansing-gel-250ml",
-"p": 19.2,
-"c": 24.0,
+"p": 24.0,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/ElementreCleansingGel.png?v=1781509187&width=400",
 "type": "Cleanser and Face Soap",
@@ -9639,8 +9599,8 @@
 {
 "t": "CeraVe Intensive Moisturising Lotion For Very Dry To Itchy Skin",
 "u": "https://feel22.com/products/cerave-intensive-moisturising-lotion-for-very-dry-to-itchy-skin",
-"p": 17.55,
-"c": 21.94,
+"p": 21.94,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/3337875904285-CeraVeIntensiveMoisturisingLotionForVeryDryToItchySkin-236ml.png?v=1785359639&width=400",
 "type": "Body Lotion and Oil",
@@ -9649,7 +9609,6 @@
 "cerave926",
 "JULYSKU26",
 "MUPSKINALL926",
-"OCT26",
 "OCTOBERSALEPHARMA",
 "PHARMAALL"
 ],
@@ -9658,8 +9617,8 @@
 {
 "t": "Vichy Liftactiv Hydrating and Boosting Collagen Specialist 16 Collagel",
 "u": "https://feel22.com/products/vichy-liftactiv-hydrating-and-boosting-collagen-specialist-16-collagel",
-"p": 29.88,
-"c": 39.84,
+"p": 39.84,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/3337875945851-VichyLiftactivHydratingandBoostingCollagenSpecialist16Collagel-50ml.png?v=1787247207&width=400",
 "type": "Day and Night Cream",
@@ -9668,7 +9627,6 @@
 "BTSPHARMA26",
 "lrpvichy926",
 "MUPSKINALL926",
-"OCT26",
 "OCTOBERSALEPHARMA",
 "PHARMAALL"
 ],
@@ -9677,8 +9635,8 @@
 {
 "t": "La Roche-Posay Mela B3 Dual Action Body Treatment",
 "u": "https://feel22.com/products/la-roche-posay-mela-b3-dual-action-body-treatment",
-"p": 25.11,
-"c": 33.48,
+"p": 33.48,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/3337875952958-LaRoche-PosayMelaB3DualActionBodyTreatment-200ml.png?v=1787246578&width=400",
 "type": "Body Lotion and Oil",
@@ -9687,7 +9645,6 @@
 "BTSPHARMA26",
 "lrpvichy926",
 "MUPSKINALL926",
-"OCT26",
 "OCTOBERSALEPHARMA",
 "PHARMAALL"
 ],
@@ -9696,8 +9653,8 @@
 {
 "t": "La Roche-Posay Thermal Spring Water Face Mist 150g",
 "u": "https://feel22.com/products/la-roche-posay-thermal-spring-water-face-mist-for-sensitive-skin-150g",
-"p": 7.64,
-"c": 10.18,
+"p": 10.18,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Untitleddesign-2025-03-11T114058.436.png?v=1749637306&width=400",
 "type": "Face Mist and Spray",
@@ -9970,8 +9927,8 @@
 {
 "t": "Vichy Thermal Mineralizing Water 150ml",
 "u": "https://feel22.com/products/vichy-thermal-mineralizing-water-150ml",
-"p": 8.69,
-"c": 11.58,
+"p": 11.58,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/3337871308612_1.jpg?v=1678270072&width=400",
 "type": "Face Mist and Spray",
@@ -9990,8 +9947,8 @@
 {
 "t": "La Roche-Posay Anthelios UVAIR Daily SPF50+ Complexion 50ml",
 "u": "https://feel22.com/products/la-roche-posay-anthelios-uvair-daily-spf50-complexion-50ml",
-"p": 33.74,
-"c": 44.98,
+"p": 44.98,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/3337875932301-LaRoche-PosayAntheliosUVAIRDailySPF50_Complexion50ml-Light.png?v=1787246576&width=400",
 "type": "Sun Protection",
@@ -10000,7 +9957,6 @@
 "BTSPHARMA26",
 "lrpvichy926",
 "MUPSKINALL926",
-"OCT26",
 "OCTOBERSALEPHARMA",
 "PHARMAALL"
 ],
@@ -10089,8 +10045,8 @@
 {
 "t": "Beesline Express Facial Anti-Shine Mask",
 "u": "https://feel22.com/products/beesline-facial-anti-shine-mask-20-g",
-"p": 0.92,
-"c": 1.53,
+"p": 1.53,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshots_88_0a3b33e5-149d-4c0b-b71a-edd2524a8adf.png?v=1704721470&width=400",
 "type": "Face Mask",
@@ -11050,252 +11006,236 @@
 {
 "t": "Face Facts Multipurpose Pink Blush Tinted Balm",
 "u": "https://feel22.com/products/face-facts-multipurpose-pink-blush-tinted-balm",
-"p": 4.44,
-"c": 5.55,
+"p": 5.55,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/5031413945980-FaceFacts-FaceFactsMultipurposePinkBlushTintedBalm-15mL.png?v=1785624900&width=400",
 "type": "Blush",
 "tags": [
 "AUGSKU26",
 "FF926",
-"MUPSKINALL926",
-"OCT26"
+"MUPSKINALL926"
 ],
 "in": true
 },
 {
 "t": "Face Facts Multipurpose Peach Glow Tinted Balm",
 "u": "https://feel22.com/products/face-facts-multipurpose-peach-glow-tinted-balm",
-"p": 4.44,
-"c": 5.55,
+"p": 5.55,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/5031413946086-FaceFacts-FaceFactsMultipurposePeachGlowTintedBalm-15mL-FaceFacts-FaceFactsMultipurposePeachGlowTintedBalm-15mL.png?v=1785624892&width=400",
 "type": "Blush",
 "tags": [
 "AUGSKU26",
 "FF926",
-"MUPSKINALL926",
-"OCT26"
+"MUPSKINALL926"
 ],
 "in": false
 },
 {
 "t": "Face Facts Multipurpose Natural Nude Tinted Balm",
 "u": "https://feel22.com/products/face-facts-multipurpose-natural-nude-tinted-balm",
-"p": 4.44,
-"c": 5.55,
+"p": 5.55,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/5031413946048-FaceFacts-FaceFactsMultipurposeNaturalNudeTintedBalm-15mL-FaceFacts-FaceFactsMultipurposeNaturalNudeTintedBalm-15mL.png?v=1785624884&width=400",
 "type": "Blush",
 "tags": [
 "AUGSKU26",
 "FF926",
-"MUPSKINALL926",
-"OCT26"
+"MUPSKINALL926"
 ],
 "in": true
 },
 {
 "t": "Face Facts Soft Sugar Mellow Mango Lip Scrub",
 "u": "https://feel22.com/products/face-facts-soft-sugar-mellow-mango-lip-scrub",
-"p": 5.33,
-"c": 6.66,
+"p": 6.66,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/5031413942576-FaceFacts-FaceFactsSoftSugarMellowMangoLipScrub-10g-FaceFacts-FaceFactsSoftSugarLipScrub-MellowMango-10g.png?v=1785624877&width=400",
 "type": "Lip Care",
 "tags": [
 "AUGSKU26",
 "FF926",
-"MUPSKINALL926",
-"OCT26"
+"MUPSKINALL926"
 ],
 "in": true
 },
 {
 "t": "Face Facts Soft Sugar Candied Cocoa Lip Scrub",
 "u": "https://feel22.com/products/face-facts-soft-sugar-candied-cocoa-lip-scrub",
-"p": 5.33,
-"c": 6.66,
+"p": 6.66,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/5031413942545-FaceFacts-FaceFactsSoftSugarCandiedCocoaLipScrub-10g.png?v=1785624871&width=400",
 "type": "Lip Care",
 "tags": [
 "AUGSKU26",
 "FF926",
-"MUPSKINALL926",
-"OCT26"
+"MUPSKINALL926"
 ],
 "in": true
 },
 {
 "t": "Face Facts Soft Sugar Sweet Strawberry Lip Scrub",
 "u": "https://feel22.com/products/face-facts-soft-sugar-sweet-strawberry-lip-scrub",
-"p": 5.33,
-"c": 6.66,
+"p": 6.66,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/5031413942606-FaceFacts-FaceFactsSoftSugarSweetStrawberryLipScrub-10g.png?v=1785624863&width=400",
 "type": "Lip Care",
 "tags": [
 "AUGSKU26",
 "FF926",
-"MUPSKINALL926",
-"OCT26"
+"MUPSKINALL926"
 ],
 "in": true
 },
 {
 "t": "Face Facts Peptide Radiance Drops Gel Serum",
 "u": "https://feel22.com/products/face-facts-peptide-radiance-drops-gel-serum",
-"p": 11.99,
-"c": 14.99,
+"p": 14.99,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/5031413973365-FaceFacts-FaceFactsPeptideRadianceDropsGelSerum-45mL.png?v=1785624857&width=400",
 "type": "Serum and Treatment",
 "tags": [
 "AUGSKU26",
 "FF926",
-"MUPSKINALL926",
-"OCT26"
+"MUPSKINALL926"
 ],
 "in": true
 },
 {
 "t": "Face Facts Peptide Detox Foam Cleanser",
 "u": "https://feel22.com/products/face-facts-peptide-detox-foam-cleanser",
-"p": 11.99,
-"c": 14.99,
+"p": 14.99,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/5031413971224-FaceFacts-FaceFactsPeptideDetoxFoamCleanser-150mL.png?v=1785624848&width=400",
 "type": "Cleanser and Face Soap",
 "tags": [
 "AUGSKU26",
 "FF926",
-"MUPSKINALL926",
-"OCT26"
+"MUPSKINALL926"
 ],
 "in": true
 },
 {
 "t": "Face Facts Peptide Restore Cream",
 "u": "https://feel22.com/products/face-facts-peptide-restore-cream",
-"p": 11.99,
-"c": 14.99,
+"p": 14.99,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/5031413973396-FaceFacts-FaceFactsPeptideRestoreCream-50mL.png?v=1785624841&width=400",
 "type": "Day and Night Cream",
 "tags": [
 "AUGSKU26",
 "FF926",
-"MUPSKINALL926",
-"OCT26"
+"MUPSKINALL926"
 ],
 "in": true
 },
 {
 "t": "Face Facts Peptide Glow Milk Toner",
 "u": "https://feel22.com/products/face-facts-peptide-glow-milk-toner",
-"p": 11.99,
-"c": 14.99,
+"p": 14.99,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/5031413972436-FaceFacts-FaceFactsPeptideGlowMilkToner-145mL.png?v=1785624834&width=400",
 "type": "Toner",
 "tags": [
 "AUGSKU26",
 "FF926",
-"MUPSKINALL926",
-"OCT26"
+"MUPSKINALL926"
 ],
 "in": false
 },
 {
 "t": "Face Facts Sweet Sunrise Hair & Body Mist",
 "u": "https://feel22.com/products/face-facts-sweet-sunrise-hair-body-mist",
-"p": 12.43,
-"c": 15.54,
+"p": 15.54,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/5031413972849-FaceFacts-FaceFactsSweetSunriseHair_BodyMist-240mL.png?v=1785624829&width=400",
 "type": "Mist and Spray For Her",
 "tags": [
 "AUGSKU26",
-"FF926",
-"OCT26"
+"FF926"
 ],
 "in": true
 },
 {
 "t": "Face Facts Tropic Serenity Hair & Body Mist",
 "u": "https://feel22.com/products/face-facts-tropic-serenity-hair-body-mist",
-"p": 12.43,
-"c": 15.54,
+"p": 15.54,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/5031413972863-FaceFacts-FaceFactsTropicSerenityHair_BodyMist-240mL.png?v=1785624816&width=400",
 "type": "Mist and Spray For Her",
 "tags": [
 "AUGSKU26",
-"FF926",
-"OCT26"
+"FF926"
 ],
 "in": true
 },
 {
 "t": "Face Facts Velvet Blossom Hair & Body Mist",
 "u": "https://feel22.com/products/face-facts-velvet-blossom-hair-body-mist",
-"p": 12.43,
-"c": 15.54,
+"p": 15.54,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/5031413973341-FaceFacts-FaceFactsVelvetBlossomHair_BodyMist-240mL.png?v=1785624809&width=400",
 "type": "Mist and Spray For Her",
 "tags": [
 "AUGSKU26",
-"FF926",
-"OCT26"
+"FF926"
 ],
 "in": true
 },
 {
 "t": "Face Facts Twilight Oud Hair & Body Mist",
 "u": "https://feel22.com/products/face-facts-twilight-oud-hair-body-mist",
-"p": 12.43,
-"c": 15.54,
+"p": 15.54,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/5031413973327-FaceFacts-FaceFactsTwilightOudHair_BodyMist-240mL.png?v=1785624802&width=400",
 "type": "Mist and Spray For Her",
 "tags": [
 "AUGSKU26",
-"FF926",
-"OCT26"
+"FF926"
 ],
 "in": true
 },
 {
 "t": "Face Facts Cica Correcting Multi-Balm",
 "u": "https://feel22.com/products/face-facts-cica-correcting-multi-balm",
-"p": 10.22,
-"c": 12.77,
+"p": 12.77,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/5031413952957-FaceFacts-FaceFactsCicaCorrectingMulti-Balm-50mL.png?v=1785624791&width=400",
 "type": "Body Lotion and Oil",
 "tags": [
 "AUGSKU26",
 "FF926",
-"MUPSKINALL926",
-"OCT26"
+"MUPSKINALL926"
 ],
 "in": true
 },
 {
 "t": "Face Facts Cica Soothing Lip Balm",
 "u": "https://feel22.com/products/face-facts-cica-soothing-lip-balm",
-"p": 4.44,
-"c": 5.55,
+"p": 5.55,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/5031413960969-FaceFacts-FaceFactsCicaSoothingLipBalm-10mL.png?v=1785624760&width=400",
 "type": "Lip Care",
 "tags": [
 "AUGSKU26",
 "FF926",
-"MUPSKINALL926",
-"OCT26"
+"MUPSKINALL926"
 ],
 "in": true
 },
@@ -11411,15 +11351,14 @@
 {
 "t": "Samoa LumiMelt Pink Setting Powder",
 "u": "https://feel22.com/products/samoa-lumimelt-pink-setting-powder",
-"p": 7.82,
-"c": 9.2,
+"p": 9.2,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/5281011240042-SamoaLumiMeltPinkSettingPowder.png?v=1785406599&width=400",
 "type": "Powder",
 "tags": [
 "JULYSKU26",
 "MUPSKINALL926",
-"OCT26",
 "SAMOA1026",
 "samoalumimelt"
 ],
@@ -11428,15 +11367,14 @@
 {
 "t": "Samoa PrimeMelt Hydrating And Smoothing Primer",
 "u": "https://feel22.com/products/samoa-primemelt-hydrating-and-smoothing-primer",
-"p": 10.2,
-"c": 12.0,
+"p": 12.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/5281011240035-SamoaPrimeMeltHydratingAndSmoothingPrimer.png?v=1785406627&width=400",
 "type": "Primer",
 "tags": [
 "JULYSKU26",
 "MUPSKINALL926",
-"OCT26",
 "SAMOA1026"
 ],
 "in": true
@@ -11444,15 +11382,14 @@
 {
 "t": "Samoa LumiMelt Radiant Long-wear Concealer",
 "u": "https://feel22.com/products/samoa-lumimelt-radiant-long-wear-concealer",
-"p": 7.82,
-"c": 9.2,
+"p": 9.2,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/5281011240028-SamoaLumiMeltRadiantLong-wearConcealer-451Porcelain-SamoaLumiMeltRadiantLong-wearConcealer-451Porcelain.png?v=1785406648&width=400",
 "type": "Concealer and Corrector",
 "tags": [
 "JULYSKU26",
 "MUPSKINALL926",
-"OCT26",
 "SAMOA1026",
 "samoalumimelt"
 ],
@@ -11461,15 +11398,14 @@
 {
 "t": "Samoa LumiMelt Radiant Long-wear Foundation",
 "u": "https://feel22.com/products/samoa-lumimelt-radiant-long-wear-foundation",
-"p": 11.73,
-"c": 13.8,
+"p": 13.8,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/5281011240011-SamoaLumiMeltRadiantLong-wearFoundation-401Porcelain.png?v=1785406741&width=400",
 "type": "Foundation",
 "tags": [
 "JULYSKU26",
 "MUPSKINALL926",
-"OCT26",
 "SAMOA1026",
 "samoalumimelt"
 ],
@@ -11775,8 +11711,8 @@
 {
 "t": "Lattafa Ana Abiyedh Unisex Perfume",
 "u": "https://feel22.com/products/lattafa-ana-abiyedh-unisex-perfume",
-"p": 15.02,
-"c": 18.78,
+"p": 18.78,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/76_3152596e-b7a7-470d-b42e-1835ec77fa57.png?v=1693556341&width=400",
 "type": "Unisex Perfume",
@@ -11787,7 +11723,6 @@
 "LATTAFA525",
 "lattafa725",
 "lattafabf",
-"OCT26",
 "Sdd"
 ],
 "in": false
@@ -12195,24 +12130,23 @@
 {
 "t": "Lattafa Ameerat Al Arab Eau De Parfum 100ml",
 "u": "https://feel22.com/products/lattafa-ameerat-al-arab-eau-de-parfum150ml",
-"p": 16.39,
-"c": 20.49,
+"p": 20.49,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/1_f65b6367-8ffb-4a0f-b1ae-6c9edba2420d.png?v=1749041153&width=400",
 "type": "Perfume For Her",
 "tags": [
 "ANNIVERSARYBRANDS",
 "EVERYTHING",
-"LATT925",
-"OCT26"
+"LATT925"
 ],
 "in": true
 },
 {
 "t": "Lattafa Qimmah For Men Eau De Parfum 100ml",
 "u": "https://feel22.com/products/lattafa-qimmah-for-men-eau-de-parfum-100ml",
-"p": 15.02,
-"c": 18.78,
+"p": 18.78,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshotstemp_5_3c01fe59-0f08-4e7e-8cdb-b36ca5f41e9f.png?v=1735554430&width=400",
 "type": "Perfume For Him",
@@ -12222,16 +12156,15 @@
 "LATT925",
 "LATTAFA225",
 "LATTAFA525",
-"lattafa725",
-"OCT26"
+"lattafa725"
 ],
 "in": false
 },
 {
 "t": "Lattafa Washwasha Women Perfume 100ml",
 "u": "https://feel22.com/products/lattafa-washwasha-women-perfume",
-"p": 13.66,
-"c": 17.08,
+"p": 17.08,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/5_8eb09280-95b2-4492-a755-459bbf712eb1.png?v=1693477775&width=400",
 "type": "Perfume For Her",
@@ -12242,16 +12175,16 @@
 "LATTAFA225",
 "lattafa725",
 "lattafabf",
-"OCT26",
-"SD2023"
+"SD2023",
+"Sdd"
 ],
 "in": true
 },
 {
 "t": "Lattafa Musk Mood Unisex Perfume 100ml",
 "u": "https://feel22.com/products/lattafa-musk-mood-unisex-perfume",
-"p": 17.76,
-"c": 22.2,
+"p": 22.2,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/34_a77a134d-6bf4-495e-9d7a-f50d28dd5457.png?v=1693488291&width=400",
 "type": "Unisex Perfume",
@@ -12263,15 +12196,15 @@
 "LATTAFA525",
 "lattafa725",
 "lattafabf",
-"OCT26"
+"papaday"
 ],
 "in": true
 },
 {
 "t": "Lattafa Maahir Unisex Perfume 100ml",
 "u": "https://feel22.com/products/lattafa-maahir-unisex-perfume",
-"p": 28.69,
-"c": 35.86,
+"p": 35.86,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/40_575381ff-fe28-449a-9158-79e43f3f2787.png?v=1693489079&width=400",
 "type": "Unisex Perfume",
@@ -12283,15 +12216,15 @@
 "LATTAFA525",
 "lattafa725",
 "lattafabf",
-"OCT26"
+"papaday"
 ],
 "in": true
 },
 {
 "t": "Lattafa Hayaati Gold Elixir Perfume",
 "u": "https://feel22.com/products/lattafa-hayati-perfume",
-"p": 15.02,
-"c": 18.78,
+"p": 18.78,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/LaRoche-PosayEffaclarDuo_Cream_GelMoussantGift-2023-12-04T124624.120.png?v=1704705671&width=400",
 "type": "Perfume For Her",
@@ -12303,15 +12236,15 @@
 "LATTAFA225",
 "LATTAFA525",
 "lattafa725",
-"OCT26"
+"SD2023"
 ],
 "in": true
 },
 {
 "t": "Lattafa Mahasin Crystal Gift Set",
 "u": "https://feel22.com/products/lattafa-mahasin-crystal-gift-set",
-"p": 14.2,
-"c": 17.75,
+"p": 17.75,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/LattafaPackshots_d88c0ebb-0e3d-4413-be47-52e13001af85.png?v=1693557462&width=400",
 "type": "Perfume Set For Her",
@@ -12322,7 +12255,6 @@
 "LATTAFA225",
 "LATTAFA525",
 "nobundles",
-"OCT26",
 "SDCOLLECTION"
 ],
 "in": false
@@ -12330,8 +12262,8 @@
 {
 "t": "La Roche-Posay Lipikar Baume AP+Max Triple-action Balm 72h With Neurobioma For Ultra-dry To Atopic Eczema-prone Skin",
 "u": "https://feel22.com/products/la-roche-posay-lipikar-baume-ap-max-triple-action-balm-72h-with-neurobioma-for-ultra-dry-to-atopic-eczema-prone-skin",
-"p": 25.27,
-"c": 33.69,
+"p": 33.69,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/3337875930239-LaRoche-PosayLIPIKARBalmAP_MaxTriple-actionbalmwithNeurobiomaforultra-drytoatopiceczema-proneskin-400ml.png?v=1785360960&width=400",
 "type": "Body Lotion and Oil",
@@ -12341,7 +12273,6 @@
 "lrpall826",
 "lrpvichy926",
 "MUPSKINALL926",
-"OCT26",
 "OCTOBERSALEPHARMA",
 "PHARMAALL"
 ],
@@ -12350,8 +12281,8 @@
 {
 "t": "CeraVe Invisible Hydrating Fluid Sunscreen SPF50 For Normal To Dry Skin",
 "u": "https://feel22.com/products/cerave-invisible-hydrating-fluid-sunscreen-spf50-for-normal-to-dry-skin",
-"p": 17.69,
-"c": 22.11,
+"p": 22.11,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/3337875945660-CeraVeInvisibleHydratingFluidSunscreenSPF50ForNormalToDrySkin-50ml.png?v=1785360652&width=400",
 "type": "Sun Protection",
@@ -12361,7 +12292,6 @@
 "CRVSLC826",
 "JULYSKU26",
 "MUPSKINALL926",
-"OCT26",
 "OCTOBERSALEPHARMA",
 "PHARMAALL"
 ],
@@ -12370,8 +12300,8 @@
 {
 "t": "CeraVe Invisible Dry Touch Fluid Sunscreen SPF50 For Normal To Oily Skin",
 "u": "https://feel22.com/products/cerave-invisible-dry-touch-fluid-sunscreen-spf50-for-normal-to-oily-skin",
-"p": 17.69,
-"c": 22.11,
+"p": 22.11,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/3337875945622-CeraVeInvisibleDryTouchFluidSunscreenSPF50_-50ml.png?v=1785360314&width=400",
 "type": "Sun Protection",
@@ -12381,7 +12311,6 @@
 "CRVSLC826",
 "JULYSKU26",
 "MUPSKINALL926",
-"OCT26",
 "OCTOBERSALEPHARMA",
 "PHARMAALL"
 ],
@@ -12390,8 +12319,8 @@
 {
 "t": "CeraVe SA Smoothing Cream For Dry, Rough And Bumpy Skin",
 "u": "https://feel22.com/products/cerave-sa-smoothing-cream-for-dry-rough-and-bumpy-skin",
-"p": 21.74,
-"c": 27.17,
+"p": 27.17,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/3337875684101-CeraVeSASmoothingCream-340g.png?v=1785359922&width=400",
 "type": "Body Lotion and Oil",
@@ -12401,7 +12330,6 @@
 "CRVSLC826",
 "JULYSKU26",
 "MUPSKINALL926",
-"OCT26",
 "OCTOBERSALEPHARMA",
 "PHARMAALL"
 ],
@@ -12491,8 +12419,8 @@
 {
 "t": "Wibo Powder 3 Steps Contouring Palette",
 "u": "https://feel22.com/products/wibo-powder-3-steps-contouring-palette",
-"p": 6.4,
-"c": 8.0,
+"p": 8.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/packshotaya.png?v=1718097647&width=400",
 "type": "Face Palette",
@@ -12501,18 +12429,18 @@
 "best25",
 "EVERYTHING",
 "MUPSKINALL926",
-"OCT26",
 "raneemsami",
 "tag1",
-"WIBO325"
+"WIBO325",
+"WIBO426"
 ],
 "in": false
 },
 {
 "t": "Wibo Matte Lipgloss Million Dollar Lips 10",
 "u": "https://feel22.com/products/wibo-matte-lipgloss-million-dollar-lips-10",
-"p": 4.8,
-"c": 6.0,
+"p": 6.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/16_7e15ab90-11d2-4b86-a522-cbb120624fff.png?v=1718097110&width=400",
 "type": "Lip Gloss and Lip Tint",
@@ -12521,18 +12449,18 @@
 "EVERYTHING",
 "MK15",
 "MUPSKINALL926",
-"OCT26",
 "raneemsami",
 "tag1",
-"WIBO325"
+"WIBO325",
+"WIBO426"
 ],
 "in": true
 },
 {
 "t": "Wibo Fixing Powder",
 "u": "https://feel22.com/products/wibo-fixing-powder",
-"p": 4.0,
-"c": 5.0,
+"p": 5.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/BestOftemplate2023-2024-01-05T151800.797.png?v=1732570919&width=400",
 "type": "Powder",
@@ -12543,16 +12471,16 @@
 "EVERYTHING",
 "MK15",
 "MUPSKINALL926",
-"OCT26",
-"SD2023"
+"SD2023",
+"tag1"
 ],
 "in": true
 },
 {
 "t": "Wibo Lip Define Pencil",
 "u": "https://feel22.com/products/wibo-lip-define-pencil",
-"p": 2.2,
-"c": 2.75,
+"p": 2.75,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/6_30.png?v=1694423741&width=400",
 "type": "Lip Liner",
@@ -12561,10 +12489,10 @@
 "EVERYTHING",
 "MK15",
 "MUPSKINALL926",
-"OCT26",
 "raneemsami",
 "SD2023",
-"tag1"
+"tag1",
+"WIBO325"
 ],
 "in": true
 },
@@ -13728,14 +13656,13 @@
 {
 "t": "Palmer's Coconut Oil Formula Moisture Boost Hair Polisher Serum",
 "u": "https://feel22.com/products/palmers-coconut-oil-formula-moisture-boost-hair-polisher-serum",
-"p": 13.32,
-"c": 17.76,
+"p": 17.76,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Palmer_sCoconutOilFormulaMoistureBoostHairPolisherSerum.png?v=1784281427&width=400",
 "type": "Hair Oil and Serum",
 "tags": [
 "JULYSKU26",
-"OCT26",
 "PALMER1026"
 ],
 "in": true
@@ -17414,8 +17341,8 @@
 {
 "t": "Elementre 6% Lactic & Glycolic Body & Intimate Glow 120ml",
 "u": "https://feel22.com/products/elementre-6-lactic-glycolic-body-intimate-glow-120ml",
-"p": 35.52,
-"c": 44.4,
+"p": 44.4,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Elementre6_Lactic_GlycolicBody_IntimateGlow120ml.png?v=1781262081&width=400",
 "type": "Body Scrubs and Exfoliators",
@@ -17957,8 +17884,8 @@
 {
 "t": "Neutrogena Ultra Sheer Oil Control Invisible Fluid Sunscreen SPF50",
 "u": "https://feel22.com/products/neutrogena-ultra-sheer-oil-control-invisible-fluid-sunscreen-spf50",
-"p": 16.5,
-"c": 22.0,
+"p": 22.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/NeutrogenaUltraSheerOilControlFluidSunscreenSPF50.png?v=1783601530&width=400",
 "type": "Sun Protection",
@@ -17967,7 +17894,6 @@
 "JULYSKU26",
 "KFF1026",
 "MUPSKINALL926",
-"OCT26",
 "PHARMAALL"
 ],
 "in": true
@@ -18740,14 +18666,13 @@
 {
 "t": "Palmer's Coconut oil Formula Moist Boost Hair Shampoo",
 "u": "https://feel22.com/products/palmers-coconut-oil-formula-moist-boost-hair-shampoo",
-"p": 10.41,
-"c": 13.88,
+"p": 13.88,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Palmer_sCoconutoilFormulaMoistBoostHairShampoo313ml.png?v=1783030128&width=400",
 "type": "Shampoo",
 "tags": [
 "JULYSKU26",
-"OCT26",
 "PALMER1026"
 ],
 "in": true
@@ -18755,14 +18680,13 @@
 {
 "t": "Palmer's Rosemary Mint Formula Rosemary Mint Strengthening Hair & Scalp Oil",
 "u": "https://feel22.com/products/palmers-rosemary-mint-formula-rosemary-mint-strengthening-hair-scalp-oil",
-"p": 13.32,
-"c": 17.76,
+"p": 17.76,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Palmer_sRosemaryMintFormulaRosemaryMintStrengtheningHair_ScalpOil97ml.png?v=1783030122&width=400",
 "type": "Hair Oil and Serum",
 "tags": [
 "JULYSKU26",
-"OCT26",
 "PALMER1026"
 ],
 "in": true
@@ -18770,14 +18694,13 @@
 {
 "t": "Palmer's Rosemary Mint Formula Rosemary Mint Hair Strengtening Pack",
 "u": "https://feel22.com/products/palmers-rosemary-mint-formula-rosemary-mint-hair-strengtening-pack",
-"p": 5.0,
-"c": 6.66,
+"p": 6.66,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Palmer_sRosemaryMintFormulaRosemaryMintHairStrengteningPack60g.png?v=1783030113&width=400",
 "type": "Hair Mask",
 "tags": [
 "JULYSKU26",
-"OCT26",
 "PALMER1026"
 ],
 "in": true
@@ -18785,14 +18708,13 @@
 {
 "t": "Palmer's Cocoa Butter Formula Tahitian Vanilla Hair & Scalp Oil",
 "u": "https://feel22.com/products/palmers-cocoa-butter-formula-tahitian-vanilla-hair-scalp-oil",
-"p": 12.49,
-"c": 16.65,
+"p": 16.65,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Palmer_sCocoaButterFormulaTahitianVanillaHair_ScalpOil150ml.png?v=1783030102&width=400",
 "type": "Hair Oil and Serum",
 "tags": [
 "JULYSKU26",
-"OCT26",
 "PALMER1026"
 ],
 "in": true
@@ -18800,14 +18722,13 @@
 {
 "t": "Palmer's Cocoa Butter Formula Tahitian Vanilla Hair Leave-in Conditioner",
 "u": "https://feel22.com/products/palmers-cocoa-butter-formula-tahitian-vanilla-hair-leave-in-conditioner",
-"p": 12.49,
-"c": 16.65,
+"p": 16.65,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Palmer_sCocoaButterFormulaTahitianVanillaHairLeave-inConditioner250ml.png?v=1783030089&width=400",
 "type": "Conditioner",
 "tags": [
 "JULYSKU26",
-"OCT26",
 "PALMER1026"
 ],
 "in": true
@@ -18815,14 +18736,13 @@
 {
 "t": "Palmer's Coconut oil Formula Moist Boost Hair Foaming Mousse",
 "u": "https://feel22.com/products/palmers-coconut-oil-formula-moist-boost-hair-foaming-mousse",
-"p": 12.49,
-"c": 16.65,
+"p": 16.65,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Palmer_sCoconutoilFormulaMoistBoostHairFoamingMousse209ml.png?v=1783030134&width=400",
 "type": "Hair Styling",
 "tags": [
 "JULYSKU26",
-"OCT26",
 "PALMER1026"
 ],
 "in": true
@@ -18830,14 +18750,13 @@
 {
 "t": "Palmer's Coconut oil Formula Moist Boost Hair Conditioner",
 "u": "https://feel22.com/products/palmers-coconut-oil-formula-moist-boost-hair-conditioner",
-"p": 10.41,
-"c": 13.88,
+"p": 13.88,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Palmer_sCoconutoilFormulaMoistBoostHairConditioner313ml.png?v=1783030142&width=400",
 "type": "Conditioner",
 "tags": [
 "JULYSKU26",
-"OCT26",
 "PALMER1026"
 ],
 "in": true
@@ -18845,15 +18764,14 @@
 {
 "t": "Palmer's Coconut oil Formula Brazilian Coco Firming Oil",
 "u": "https://feel22.com/products/palmers-coconut-oil-formula-brazilian-coco-firming-oil",
-"p": 24.14,
-"c": 32.19,
+"p": 32.19,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Palmer_sCoconutoilFormulaBrazilianCocoFirmingOil192ml.png?v=1783030149&width=400",
 "type": "Body Lotion and Oil",
 "tags": [
 "JULYSKU26",
 "MUPSKINALL926",
-"OCT26",
 "PALMER1026"
 ],
 "in": true
@@ -18861,14 +18779,13 @@
 {
 "t": "Palmer's Coconut oil Formula Amino Biotin Collagen Bonding Shampoo",
 "u": "https://feel22.com/products/palmers-coconut-oil-formula-amino-biotin-collagen-bonding-shampoo",
-"p": 14.99,
-"c": 19.98,
+"p": 19.98,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Palmer_sCoconutoilFormulaAminoBiotinCollagenBondingShampoo250ml.png?v=1783030175&width=400",
 "type": "Shampoo",
 "tags": [
 "JULYSKU26",
-"OCT26",
 "PALMER1026"
 ],
 "in": true
@@ -18876,14 +18793,13 @@
 {
 "t": "Palmer's Coconut oil Formula Amino Biotin Collagen Bonding Pre-Shampoo",
 "u": "https://feel22.com/products/palmers-coconut-oil-formula-amino-biotin-collagen-bonding-pre-shampoo",
-"p": 14.99,
-"c": 19.98,
+"p": 19.98,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Palmer_sCoconutoilFormulaAminoBiotinCollagenBondingPre-Shampoo150ml.png?v=1783030185&width=400",
 "type": "Shampoo",
 "tags": [
 "JULYSKU26",
-"OCT26",
 "PALMER1026"
 ],
 "in": true
@@ -18891,15 +18807,14 @@
 {
 "t": "Palmer's Cocoa Butter Formula Tahitian Vanilla Moisture Drenching Body Oil",
 "u": "https://feel22.com/products/palmers-cocoa-butter-formula-tahitian-vanilla-moisture-drenching-body-oil",
-"p": 24.98,
-"c": 33.3,
+"p": 33.3,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Palmer_sCocoaButterFormulaTahitianVanillaMoistureDrenchingBodyOil192ml.png?v=1783030196&width=400",
 "type": "Body Lotion and Oil",
 "tags": [
 "JULYSKU26",
 "MUPSKINALL926",
-"OCT26",
 "PALMER1026"
 ],
 "in": true
@@ -18907,15 +18822,14 @@
 {
 "t": "Palmer's Cocoa Butter Formula Tahitian Vanilla Body Lotion",
 "u": "https://feel22.com/products/palmers-cocoa-butter-formula-tahitian-vanilla-body-lotion",
-"p": 9.16,
-"c": 12.21,
+"p": 12.21,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Palmer_sCocoaButterFormulaTahitianVanillaBodyLotion250ml.png?v=1783030203&width=400",
 "type": "Body Lotion and Oil",
 "tags": [
 "JULYSKU26",
 "MUPSKINALL926",
-"OCT26",
 "PALMER1026"
 ],
 "in": true
@@ -18923,15 +18837,14 @@
 {
 "t": "Palmer's Cocoa Butter Formula Tahitian Vanilla Body Cream",
 "u": "https://feel22.com/products/palmers-cocoa-butter-formula-tahitian-vanilla-body-cream",
-"p": 24.98,
-"c": 33.3,
+"p": 33.3,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Palmer_sCocoaButterFormulaTahitianVanillaBodyCream250g.png?v=1783030219&width=400",
 "type": "Body Lotion and Oil",
 "tags": [
 "JULYSKU26",
 "MUPSKINALL926",
-"OCT26",
 "PALMER1026"
 ],
 "in": true
@@ -19355,13 +19268,12 @@
 {
 "t": "Samoa Never Nude Purple Water No.247 Nail Polish",
 "u": "https://feel22.com/products/samoa-never-nude-purple-water-no-247-nail-polish",
-"p": 2.93,
-"c": 3.45,
+"p": 3.45,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/packshottemp-aleen_28.png?v=1780998549&width=400",
 "type": "Nail Polish",
 "tags": [
-"OCT26",
 "SAMOA1026",
 "SAMOANAILS"
 ],
@@ -19370,13 +19282,12 @@
 {
 "t": "Samoa Never Nude Lemon Butter No.246 Nail Polish",
 "u": "https://feel22.com/products/samoa-never-nude-lemon-butter-no-246-nail-polish",
-"p": 2.93,
-"c": 3.45,
+"p": 3.45,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/packshottemp-aleen_27.png?v=1780998409&width=400",
 "type": "Nail Polish",
 "tags": [
-"OCT26",
 "SAMOA1026",
 "SAMOANAILS"
 ],
@@ -19385,13 +19296,12 @@
 {
 "t": "Samoa Never Nude Blush Wind No.245 Nail Polish",
 "u": "https://feel22.com/products/samoa-never-nude-blush-wind-no-245-nail-polish",
-"p": 2.93,
-"c": 3.45,
+"p": 3.45,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/packshottemp-aleen_26.png?v=1780998257&width=400",
 "type": "Nail Polish",
 "tags": [
-"OCT26",
 "SAMOA1026",
 "SAMOANAILS"
 ],
@@ -19400,13 +19310,12 @@
 {
 "t": "Samoa Never Nude Très Sage No.244 Nail Polish",
 "u": "https://feel22.com/products/samoa-never-nude-tres-sage-no-244-nail-polish",
-"p": 2.93,
-"c": 3.45,
+"p": 3.45,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/packshottemp-aleen_25.png?v=1780997859&width=400",
 "type": "Nail Polish",
 "tags": [
-"OCT26",
 "SAMOA1026",
 "SAMOANAILS"
 ],
@@ -19415,13 +19324,12 @@
 {
 "t": "Samoa Never Nude Still Blue No.243 Nail Polish",
 "u": "https://feel22.com/products/samoa-never-nude-still-blue-no-243-nail-polish",
-"p": 2.93,
-"c": 3.45,
+"p": 3.45,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/packshottemp-aleen_24.png?v=1780997632&width=400",
 "type": "Nail Polish",
 "tags": [
-"OCT26",
 "SAMOA1026",
 "SAMOANAILS"
 ],
@@ -19446,8 +19354,8 @@
 {
 "t": "Neutrogena Norwegian Formula SPF 20 Lip Balm",
 "u": "https://feel22.com/products/neutrogena-norwegian-formula-spf-20-lip-care",
-"p": 2.39,
-"c": 3.19,
+"p": 3.19,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/NGLipBalm.png?v=1782718847&width=400",
 "type": "Lip Care",
@@ -19458,7 +19366,6 @@
 "KFF1026",
 "MUPSKINALL926",
 "neutdc726",
-"OCT26",
 "PHARMAALL"
 ],
 "in": false
@@ -21409,8 +21316,8 @@
 {
 "t": "Gamarde Hydrating Elixir Moisturizing Serum",
 "u": "https://feel22.com/products/gamarde-hydrating-elixir-moisturizing-serum",
-"p": 23.8,
-"c": 29.75,
+"p": 29.75,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/GamardeHydratingElixirMoisturizingSerum30ml.png?v=1782771858&width=400",
 "type": "Serum and Treatment",
@@ -21429,8 +21336,8 @@
 {
 "t": "Gamarde Peppermint Freshness And Lightness For Oily Hair Toning Shampoo",
 "u": "https://feel22.com/products/gamarde-peppermint-freshness-and-lightness-for-oily-hair-toning-shampoo",
-"p": 15.1,
-"c": 18.87,
+"p": 18.87,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/GamardePeppermintFreshnessAndLightnessForOilyHairToningShampoo500ml.png?v=1782771861&width=400",
 "type": "Shampoo",
@@ -21442,15 +21349,15 @@
 "JUNESKU26",
 "Margam826",
 "NUTRI826",
-"OCT26"
+"OCTOBERSALEPHARMA"
 ],
 "in": true
 },
 {
 "t": "Gamarde Cade Wood Hair With Dandruff Purifying Shampoo",
 "u": "https://feel22.com/products/gamarde-cade-wood-hair-with-dandruff-purifying-shampoo",
-"p": 15.1,
-"c": 18.87,
+"p": 18.87,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/GamardeCadeWoodHairWithDandruffPurifyingShampoo500ml.png?v=1782771874&width=400",
 "type": "Shampoo",
@@ -21462,15 +21369,15 @@
 "JUNESKU26",
 "Margam826",
 "NUTRI826",
-"OCT26"
+"OCTOBERSALEPHARMA"
 ],
 "in": true
 },
 {
 "t": "Gamarde Aloe Vera Dull Hair Brightening Shampoo",
 "u": "https://feel22.com/products/gamarde-aloe-vera-dull-hair-brightening-shampoo",
-"p": 15.1,
-"c": 18.87,
+"p": 18.87,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/GamardeAloeVeraDullHairBrighteningShampoo500ml.png?v=1782771884&width=400",
 "type": "Shampoo",
@@ -21482,15 +21389,15 @@
 "JUNESKU26",
 "Margam826",
 "NUTRI826",
-"OCT26"
+"OCTOBERSALEPHARMA"
 ],
 "in": true
 },
 {
 "t": "Gamarde Orange Normal Hair Vitality Shampoo",
 "u": "https://feel22.com/products/gamarde-orange-normal-hair-vitality-shampoo",
-"p": 15.1,
-"c": 18.87,
+"p": 18.87,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/GamardeOrangeNormalHairVitalityShampoo500ml.png?v=1782771908&width=400",
 "type": "Shampoo",
@@ -21502,15 +21409,15 @@
 "JUNESKU26",
 "Margam826",
 "NUTRI826",
-"OCT26"
+"OCTOBERSALEPHARMA"
 ],
 "in": true
 },
 {
 "t": "Gamarde Moisturizing Hand Cream",
 "u": "https://feel22.com/products/gamarde-moisturizing-hand-cream",
-"p": 3.9,
-"c": 4.88,
+"p": 4.88,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/GamardeMoisturizingHandCream40ml.png?v=1782771918&width=400",
 "type": "Hand Care",
@@ -21522,15 +21429,15 @@
 "JUNESKU26",
 "Margam826",
 "NUTRI826",
-"OCT26"
+"OCTOBERSALEPHARMA"
 ],
 "in": true
 },
 {
 "t": "Gamarde Balancing Anti-Spots Care Stop Imperfections Roll on",
 "u": "https://feel22.com/products/gamarde-balancing-anti-spots-care-stop-imperfections-roll-on",
-"p": 11.1,
-"c": 13.88,
+"p": 13.88,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/GamardeBalancingAnti-SpotsCareStopImperfectionsRollon10ml.png?v=1782772259&width=400",
 "type": "Serum and Treatment",
@@ -21549,8 +21456,8 @@
 {
 "t": "Gamarde Face Foaming Clarifying Cleanser Cleanser",
 "u": "https://feel22.com/products/gamarde-face-foaming-clarifying-cleanser-cleanser",
-"p": 13.14,
-"c": 16.43,
+"p": 16.43,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/GamardeFaceFoamingClarifyingCleanserCleanser160ml.png?v=1782772267&width=400",
 "type": "Shower Gel and Body Wash",
@@ -21562,15 +21469,15 @@
 "JUNESKU26",
 "Margam826",
 "NUTRI826",
-"OCT26"
+"OCTOBERSALEPHARMA"
 ],
 "in": true
 },
 {
 "t": "Gamarde Sebum-regulating Treatment Balancing Fluid",
 "u": "https://feel22.com/products/gamarde-sebum-regulating-treatment-balancing-fluid",
-"p": 12.34,
-"c": 15.43,
+"p": 15.43,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/GamardeSebum-regulatingTreatmentBalancingFluid40ml.png?v=1782772275&width=400",
 "type": "Serum and Treatment",
@@ -21589,8 +21496,8 @@
 {
 "t": "Gamarde Thermal Soothing And Skin-protecting Treatment Water Spray",
 "u": "https://feel22.com/products/gamarde-thermal-soothing-and-skin-protecting-treatment-water-spray",
-"p": 10.74,
-"c": 13.43,
+"p": 13.43,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/GamardeThermalSoothingAndSkin-protectingTreatmentWaterSpray250ml.png?v=1782772285&width=400",
 "type": "Face Mist and Spray",
@@ -21602,15 +21509,15 @@
 "JUNESKU26",
 "Margam826",
 "NUTRI826",
-"OCT26"
+"OCTOBERSALEPHARMA"
 ],
 "in": true
 },
 {
 "t": "Gamarde Protective Foaming Body Shower Gel",
 "u": "https://feel22.com/products/gamarde-protective-foaming-body-shower-gel",
-"p": 15.01,
-"c": 18.76,
+"p": 18.76,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/GamardeProtectiveFoamingbodyShowerGel200ml.png?v=1782772292&width=400",
 "type": "Shower Gel and Body Wash",
@@ -21622,15 +21529,15 @@
 "JUNESKU26",
 "Margam826",
 "NUTRI826",
-"OCT26"
+"OCTOBERSALEPHARMA"
 ],
 "in": true
 },
 {
 "t": "Gamarde Gentle For Daily Use Soft Shampoo",
 "u": "https://feel22.com/products/gamarde-gentle-for-daily-use-soft-shampoo",
-"p": 15.01,
-"c": 18.76,
+"p": 18.76,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/GamardeGentleForDailyUseSoftShampoo200ml.png?v=1782772300&width=400",
 "type": "Shampoo",
@@ -21642,7 +21549,7 @@
 "JUNESKU26",
 "Margam826",
 "NUTRI826",
-"OCT26"
+"OCTOBERSALEPHARMA"
 ],
 "in": true
 },
@@ -21669,8 +21576,8 @@
 {
 "t": "Gamarde Soothing And Nourishing Lip Balm",
 "u": "https://feel22.com/products/gamarde-soothing-and-nourishing-lip-balm",
-"p": 9.5,
-"c": 11.88,
+"p": 11.88,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/GamardeSoothingAndNourishingLipBalm10ml.png?v=1782772316&width=400",
 "type": "Lip Care",
@@ -21689,8 +21596,8 @@
 {
 "t": "Gamarde Baby Nourishing Face & Body Cream",
 "u": "https://feel22.com/products/gamarde-baby-nourishing-face-body-cream",
-"p": 4.44,
-"c": 5.55,
+"p": 5.55,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/GamardeBabyNourishingFace_BodyCream100ml.png?v=1782772324&width=400",
 "type": "Kids Bath and Body",
@@ -21709,8 +21616,8 @@
 {
 "t": "Gamarde Baby Diaper Change Cream",
 "u": "https://feel22.com/products/gamarde-baby-diaper-change-cream",
-"p": 13.14,
-"c": 16.43,
+"p": 16.43,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/GamardeBabyDiaperChangeCream100ml.png?v=1782772333&width=400",
 "type": "Kids Bath and Body",
@@ -21729,8 +21636,8 @@
 {
 "t": "Gamarde Baby Body & Hair Cleansing Gel",
 "u": "https://feel22.com/products/gamarde-baby-body-hair-cleansing-gel",
-"p": 26.29,
-"c": 32.86,
+"p": 32.86,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/GamardeBabyBody_HairCleansingGel400ml.png?v=1782772341&width=400",
 "type": "Kids Bath and Body",
@@ -21749,8 +21656,8 @@
 {
 "t": "Gamarde Gentle Floral Bouquet Roll-On Deodorant",
 "u": "https://feel22.com/products/gamarde-gentle-floral-bouquet-roll-on-deodorant",
-"p": 12.34,
-"c": 15.43,
+"p": 15.43,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/GamardeGentleFloralBouquetRoll-OnDeodorant50ml.png?v=1782772349&width=400",
 "type": "Deodorant For Her",
@@ -21762,15 +21669,15 @@
 "JUNESKU26",
 "Margam826",
 "NUTRI826",
-"OCT26"
+"OCTOBERSALEPHARMA"
 ],
 "in": true
 },
 {
 "t": "Gamarde Soft Green Tea Roll-On Deodorant",
 "u": "https://feel22.com/products/gamarde-soft-green-tea-roll-on-deodorant",
-"p": 12.34,
-"c": 15.43,
+"p": 15.43,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/GamardeSoftGreenTeaRoll-OnDeodorant50ml.png?v=1782772357&width=400",
 "type": "Unisex Deodorant",
@@ -21782,15 +21689,15 @@
 "JUNESKU26",
 "Margam826",
 "NUTRI826",
-"OCT26"
+"OCTOBERSALEPHARMA"
 ],
 "in": true
 },
 {
 "t": "Gamarde Hyaluronic Acid Moisturizing Rich Face Cream",
 "u": "https://feel22.com/products/gamarde-hyaluronic-acid-moisturizing-rich-face-cream",
-"p": 14.12,
-"c": 17.65,
+"p": 17.65,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/GamardeHyaluronicAcidMoisturizingRichFaceCream40ml.png?v=1782772366&width=400",
 "type": "Day and Night Cream",
@@ -21809,8 +21716,8 @@
 {
 "t": "Gamarde For Delicate Skin Light Moisturizing Facial Fluid",
 "u": "https://feel22.com/products/gamarde-for-delicate-skin-light-moisturizing-facial-fluid",
-"p": 13.23,
-"c": 16.54,
+"p": 16.54,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/GamardeForDelicateSkinLightMoisturizingFacialFluid40ml.png?v=1782772376&width=400",
 "type": "Day and Night Cream",
@@ -21829,8 +21736,8 @@
 {
 "t": "Gamarde Intimate Hygiene Gel",
 "u": "https://feel22.com/products/gamarde-intimate-hygiene-gel",
-"p": 12.7,
-"c": 15.87,
+"p": 15.87,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/GamardeIntimateHygieneGel200ml.png?v=1782772384&width=400",
 "type": "Intimate Hygiene",
@@ -21842,15 +21749,15 @@
 "JUNESKU26",
 "Margam826",
 "NUTRI826",
-"OCT26"
+"OCTOBERSALEPHARMA"
 ],
 "in": true
 },
 {
 "t": "Gamarde Protective And Nourishing For Dry And Damaged Feet Repairing Cream",
 "u": "https://feel22.com/products/gamarde-protective-and-nourishing-for-dry-and-damaged-feet-repairing-cream",
-"p": 14.3,
-"c": 17.87,
+"p": 17.87,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/GamardeProtectiveAndNourishingForDryAndDamagedFeetRepairingCream100g.png?v=1782772393&width=400",
 "type": "Foot Care",
@@ -21862,15 +21769,15 @@
 "JUNESKU26",
 "Margam826",
 "NUTRI826",
-"OCT26"
+"OCTOBERSALEPHARMA"
 ],
 "in": true
 },
 {
 "t": "Gamarde Golden Glittering Body Lotion",
 "u": "https://feel22.com/products/gamarde-golden-glittering-body-lotion",
-"p": 26.29,
-"c": 32.86,
+"p": 32.86,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/GamardeGoldenGlitteringBodyLotion.png?v=1782772403&width=400",
 "type": "Tanning",
@@ -21882,15 +21789,15 @@
 "JUNESKU26",
 "Margam826",
 "NUTRI826",
-"OCT26"
+"OCTOBERSALEPHARMA"
 ],
 "in": true
 },
 {
 "t": "Gamarde Stimulating Lavande-Myrtille-Cassis For Asphyxiated Scalp Revivifying Lotion",
 "u": "https://feel22.com/products/gamarde-stimulating-lavande-myrtille-cassis-for-asphyxiated-scalp-revivifying-lotion",
-"p": 14.3,
-"c": 17.87,
+"p": 17.87,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/GamardeStimulatingForAsphyxiatedScalpLotionBoxof6vialsof5ml.png?v=1782773052&width=400",
 "type": "Scalp Treatment and Vials",
@@ -21902,15 +21809,15 @@
 "JUNESKU26",
 "Margam826",
 "NUTRI826",
-"OCT26"
+"OCTOBERSALEPHARMA"
 ],
 "in": true
 },
 {
 "t": "Gamarde Acacia Honey Dy Or Damaged Hair Nourishing Shampoo",
 "u": "https://feel22.com/products/gamarde-acacia-honey-dy-or-damaged-hair-nourishing-shampoo",
-"p": 15.1,
-"c": 18.87,
+"p": 18.87,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/GamardeAcaciaHoneyDyOrDamagedHairNourishingShampoo500ml.png?v=1782771896&width=400",
 "type": "Shampoo",
@@ -21922,7 +21829,7 @@
 "JUNESKU26",
 "Margam826",
 "NUTRI826",
-"OCT26"
+"OCTOBERSALEPHARMA"
 ],
 "in": true
 },
@@ -22069,8 +21976,8 @@
 {
 "t": "La Roche Posay Hydraphase HA Light Daily Face Moisturiser, Suitable for Normal to Dry & Dehydrated Skin",
 "u": "https://feel22.com/products/la-roche-posay-hydraphase-ha-light-daily-face-moisturiser-suitable-for-normal-to-dry-dehydrated-skin",
-"p": 19.51,
-"c": 26.01,
+"p": 26.01,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/LaRochePosayHydraphaseHALightDailyFaceMoisturiser_SuitableforNormaltoDry_DehydratedSkin.png?v=1781775689&width=400",
 "type": "Day and Night Cream",
@@ -24187,15 +24094,14 @@
 {
 "t": "Palmer's Natural Vitamin E Concentrated Cream",
 "u": "https://feel22.com/products/palmers-natural-vitamin-e-concentrated-cream",
-"p": 8.33,
-"c": 11.1,
+"p": 11.1,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Palmer_sNaturalVitaminEConcentratedCream.png?v=1776893774&width=400",
 "type": "Body Lotion and Oil",
 "tags": [
 "APRSKU26",
 "MUPSKINALL926",
-"OCT26",
 "PALMER1026"
 ],
 "in": true
@@ -24203,14 +24109,13 @@
 {
 "t": "Palmer's Olive Oil Formula Hairdress Jar Hair And Scalp Conditioner And Styler",
 "u": "https://feel22.com/products/palmers-olive-oil-formula-hairdress-jar-hair-and-scalp-conditioner-and-styler",
-"p": 9.99,
-"c": 13.32,
+"p": 13.32,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Palmer_sOliveOilFormulaHairdressJarHairAndScalpConditionerAndStyler.png?v=1776893934&width=400",
 "type": "Conditioner",
 "tags": [
 "APRSKU26",
-"OCT26",
 "PALMER1026"
 ],
 "in": true
@@ -24218,14 +24123,13 @@
 {
 "t": "Palmer's Coconut Oil Formula Leave In Conditioner",
 "u": "https://feel22.com/products/palmers-coconut-oil-formula-leave-in-conditioner",
-"p": 13.32,
-"c": 17.76,
+"p": 17.76,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Palmer_sCoconutOilFormulaLeaveInConditioner250ml.png?v=1776893976&width=400",
 "type": "Conditioner",
 "tags": [
 "APRSKU26",
-"OCT26",
 "PALMER1026"
 ],
 "in": true
@@ -24233,15 +24137,14 @@
 {
 "t": "Palmer's Cocoa Butter Formula Heals Softens Pump Body Lotion",
 "u": "https://feel22.com/products/palmers-cocoa-butter-formula-heals-softens-pump-body-lotion",
-"p": 10.82,
-"c": 14.43,
+"p": 14.43,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Palmer_sCocoaButterFormulaHealsSoftensPumpBodyLotion400ml.png?v=1776893985&width=400",
 "type": "Body Lotion and Oil",
 "tags": [
 "APRSKU26",
 "MUPSKINALL926",
-"OCT26",
 "PALMER1026"
 ],
 "in": true
@@ -24249,15 +24152,14 @@
 {
 "t": "Palmer's Cocoa Butter Formula Moisturizing Swivel Stick Lip Balm",
 "u": "https://feel22.com/products/palmers-cocoa-butter-formula-moisturizing-swivel-stick-lip-balm",
-"p": 5.0,
-"c": 6.66,
+"p": 6.66,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Palmer_sCocoaButterFormulaMoisturizingSwivelStickLipBalm14g.png?v=1776893994&width=400",
 "type": "Lip Care",
 "tags": [
 "APRSKU26",
 "MUPSKINALL926",
-"OCT26",
 "PALMER1026"
 ],
 "in": true
@@ -24265,8 +24167,8 @@
 {
 "t": "Palmer's Olive Oil Formula Olive Hairdress Jar 150g",
 "u": "https://feel22.com/products/palmers-olive-oil-formula-olive-hairdress-jar-150g",
-"p": 5.0,
-"c": 6.66,
+"p": 6.66,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/PAL-2505AR.png?v=1713188555&width=400",
 "type": "Hair Oil and Serum",
@@ -24274,7 +24176,6 @@
 "EVERYTHING",
 "giftid-8709322178698",
 "HC15",
-"OCT26",
 "PALMER1026"
 ],
 "in": true
@@ -24282,8 +24183,8 @@
 {
 "t": "Palmer's Coconut Water Facial Moisturizer",
 "u": "https://feel22.com/products/palmers-coconut-water-facial-moisturizer",
-"p": 14.15,
-"c": 18.87,
+"p": 18.87,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Thebold_5_3614405e-cc63-4626-b7d8-87faed991073.png?v=1696232023&width=400",
 "type": "Day and Night Cream",
@@ -24293,17 +24194,17 @@
 "MUPSKINALL926",
 "NAIPHARMA",
 "nightcream",
-"OCT26",
 "PALMER1026",
-"PAMCO21"
+"PAMCO21",
+"SC15"
 ],
 "in": true
 },
 {
 "t": "Palmer's Cocoa Butter Formula Massage Cream for Stretch Marks",
 "u": "https://feel22.com/products/palmers-cocoa-butter-formula-massage-cream-for-stretch-marks",
-"p": 12.49,
-"c": 16.65,
+"p": 16.65,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Palmer_sCocoaButterFormulaMassageCreamforStretchMarks_1.png?v=1773247018&width=400",
 "type": "Wound Care and Soothing",
@@ -24315,15 +24216,15 @@
 "giftid-8709322178698",
 "iamgold",
 "NAIPHARMA",
-"OCT26"
+"PALMER1026"
 ],
 "in": true
 },
 {
 "t": "Palmer's Cocoa Butter Formula Massage Lotion for stretch Marks 250ml",
 "u": "https://feel22.com/products/palmers-cocoa-butter-formula-massage-lotion-for-stretch-marks",
-"p": 12.49,
-"c": 16.65,
+"p": 16.65,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Thebold_8_ec1959bd-793a-452d-bcd8-36397867a59b.png?v=1695983127&width=400",
 "type": "Wound Care and Soothing",
@@ -24334,8 +24235,8 @@
 "giftid-8709322178698",
 "iamgold",
 "NAIPHARMA",
-"OCT26",
-"PALMER1026"
+"PALMER1026",
+"palmers"
 ],
 "in": true
 },
@@ -24433,15 +24334,14 @@
 {
 "t": "Samoa ColorRush Electric Blue Mascara",
 "u": "https://feel22.com/products/samoa-colorrush-electric-blue-mascara",
-"p": 10.75,
-"c": 12.65,
+"p": 12.65,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/SamoaColorRushElectricBlueMascara.png?v=1780867904&width=400",
 "type": "Mascara",
 "tags": [
 "JUNESKU26",
 "MUPSKINALL926",
-"OCT26",
 "SAMMAK",
 "SAMOA1026",
 "SAMOAEYES"
@@ -24451,15 +24351,14 @@
 {
 "t": "Samoa WaterRush Waterproof Black Mascara",
 "u": "https://feel22.com/products/samoa-waterrush-waterproof-black-mascara",
-"p": 10.75,
-"c": 12.65,
+"p": 12.65,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/SamoaWaterRushWaterproofBlackMascara.png?v=1780867910&width=400",
 "type": "Mascara",
 "tags": [
 "JUNESKU26",
 "MUPSKINALL926",
-"OCT26",
 "SAMMAK",
 "SAMOA1026"
 ],
@@ -26146,8 +26045,8 @@
 {
 "t": "Vichy Dercos Oil Correct Shampoo For Oily Hair 200ml",
 "u": "https://feel22.com/products/vichy-dercos-oil-correct-shampoo-for-oily-hair-200ml",
-"p": 13.77,
-"c": 18.36,
+"p": 18.36,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Untitleddesign-2025-06-11T154130.412.png?v=1749645827&width=400",
 "type": "Shampoo",
@@ -26166,240 +26065,224 @@
 {
 "t": "Khan El Kaser Snatch Hair Wax Stick",
 "u": "https://feel22.com/products/khan-el-kaser-snatch-hair-wax-stick",
-"p": 14.4,
-"c": 18.0,
+"p": 18.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/KhanElKaserSnatchHairWaxStick65g.png?v=1780183744&width=400",
 "type": "Hair Styling",
 "tags": [
 "KEK626",
-"MAYSKU26",
-"OCT26"
+"MAYSKU26"
 ],
 "in": true
 },
 {
 "t": "Khan El Kaser Hair Sol Hair Serum",
 "u": "https://feel22.com/products/khan-el-kaser-hair-sol-hair-serum",
-"p": 14.4,
-"c": 18.0,
+"p": 18.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/KhanElKaserHairSolHairSerum60ml.png?v=1780183760&width=400",
 "type": "Hair Oil and Serum",
 "tags": [
 "KEK626",
-"MAYSKU26",
-"OCT26"
+"MAYSKU26"
 ],
 "in": true
 },
 {
 "t": "Khan El Kaser Hair Sol Leave In Cream",
 "u": "https://feel22.com/products/khan-el-kaser-hair-sol-leave-in-cream",
-"p": 14.4,
-"c": 18.0,
+"p": 18.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/KhanElKaserHairSolLeaveInCream250ml.png?v=1780183770&width=400",
 "type": "Conditioner",
 "tags": [
 "KEK626",
-"MAYSKU26",
-"OCT26"
+"MAYSKU26"
 ],
 "in": true
 },
 {
 "t": "Khan El Kaser Hair Sol Musk Al Tahara Hair Mist",
 "u": "https://feel22.com/products/khan-el-kaser-hair-sol-musk-al-tahara-hair-mist",
-"p": 12.0,
-"c": 15.0,
+"p": 15.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/KhanElKaserHairSolMuskAlTaharaHairMist60ml.png?v=1780183788&width=400",
 "type": "Mist and Spray For Her",
 "tags": [
 "KEK626",
-"MAYSKU26",
-"OCT26"
+"MAYSKU26"
 ],
 "in": true
 },
 {
 "t": "Khan El Kaser Hair Sol Argan Hair Mist",
 "u": "https://feel22.com/products/khan-el-kaser-hair-sol-argan-hair-mist",
-"p": 12.0,
-"c": 15.0,
+"p": 15.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/KhanElKaserHairSolArganHairMist60ml.png?v=1780183798&width=400",
 "type": "Mist and Spray For Her",
 "tags": [
 "KEK626",
-"MAYSKU26",
-"OCT26"
+"MAYSKU26"
 ],
 "in": true
 },
 {
 "t": "Khan El Kaser Hair Sol Hair Mask",
 "u": "https://feel22.com/products/khan-el-kaser-hair-sol-hair-mask",
-"p": 16.0,
-"c": 20.0,
+"p": 20.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/KhanElKaserHairSolHairMask300g.png?v=1780183805&width=400",
 "type": "Hair Mask",
 "tags": [
 "KEK626",
-"MAYSKU26",
-"OCT26"
+"MAYSKU26"
 ],
 "in": true
 },
 {
 "t": "Khan El Kaser Hair Sol Hijabi Hair Conditioner",
 "u": "https://feel22.com/products/khan-el-kaser-hair-sol-hijabi-hair-conditioner",
-"p": 12.0,
-"c": 15.0,
+"p": 15.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/KhanElKaserHairSolHijabiHairConditioner500ml.png?v=1780183814&width=400",
 "type": "Conditioner",
 "tags": [
 "KEK626",
-"MAYSKU26",
-"OCT26"
+"MAYSKU26"
 ],
 "in": true
 },
 {
 "t": "Khan El Kaser Hair Sol Oily Hair Conditioner",
 "u": "https://feel22.com/products/khan-el-kaser-hair-sol-oily-hair-conditioner",
-"p": 12.0,
-"c": 15.0,
+"p": 15.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/KhanElKaserHairSolOilyHairConditioner500ml.png?v=1780183819&width=400",
 "type": "Conditioner",
 "tags": [
 "KEK626",
-"MAYSKU26",
-"OCT26"
+"MAYSKU26"
 ],
 "in": true
 },
 {
 "t": "Khan El Kaser Hair Sol Dry Hair Conditioner",
 "u": "https://feel22.com/products/khan-el-kaser-hair-sol-dry-hair-conditioner",
-"p": 12.0,
-"c": 15.0,
+"p": 15.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/KhanElKaserHairSolDryHairConditioner500ml.png?v=1780183824&width=400",
 "type": "Conditioner",
 "tags": [
 "KEK626",
-"MAYSKU26",
-"OCT26"
+"MAYSKU26"
 ],
 "in": true
 },
 {
 "t": "Khan El Kaser Hair Sol Normal Hair Conditioner",
 "u": "https://feel22.com/products/khan-el-kaser-hair-sol-normal-hair-conditioner",
-"p": 12.0,
-"c": 15.0,
+"p": 15.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/KhanElKaserHairSolNormalHairConditioner500ml.png?v=1780183831&width=400",
 "type": "Conditioner",
 "tags": [
 "KEK626",
-"MAYSKU26",
-"OCT26"
+"MAYSKU26"
 ],
 "in": true
 },
 {
 "t": "Khan El Kaser Hair Sol Curly Hair Conditioner",
 "u": "https://feel22.com/products/khan-el-kaser-hair-sol-curly-hair-conditioner",
-"p": 12.0,
-"c": 15.0,
+"p": 15.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/KhanElKaserHairSolCurlyHairConditioner500ml.png?v=1780183917&width=400",
 "type": "Conditioner",
 "tags": [
 "KEK626",
-"MAYSKU26",
-"OCT26"
+"MAYSKU26"
 ],
 "in": true
 },
 {
 "t": "Khan El Kaser Hair Sol Hijabi Hair Shampoo",
 "u": "https://feel22.com/products/khan-el-kaser-hair-sol-hijabi-hair-shampoo",
-"p": 12.0,
-"c": 15.0,
+"p": 15.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/KhanElKaserHairSolHijabiHairShampoo500ml.png?v=1780183925&width=400",
 "type": "Shampoo",
 "tags": [
 "KEK626",
-"MAYSKU26",
-"OCT26"
+"MAYSKU26"
 ],
 "in": true
 },
 {
 "t": "Khan El Kaser Hair Sol Oily Hair Shampoo",
 "u": "https://feel22.com/products/khan-el-kaser-hair-sol-oily-hair-shampoo",
-"p": 12.0,
-"c": 15.0,
+"p": 15.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/KhanElKaserHairSolOilyHairShampoo500ml.png?v=1780183934&width=400",
 "type": "Shampoo",
 "tags": [
 "KEK626",
-"MAYSKU26",
-"OCT26"
+"MAYSKU26"
 ],
 "in": true
 },
 {
 "t": "Khan El Kaser Hair Sol Dry Hair Shampoo",
 "u": "https://feel22.com/products/khan-el-kaser-hair-sol-dry-hair-shampoo",
-"p": 12.0,
-"c": 15.0,
+"p": 15.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/KhanElKaserHairSolDryHairShampoo500ml.png?v=1780183940&width=400",
 "type": "Shampoo",
 "tags": [
 "KEK626",
-"MAYSKU26",
-"OCT26"
+"MAYSKU26"
 ],
 "in": true
 },
 {
 "t": "Khan El Kaser Hair Sol Normal Hair Shampoo",
 "u": "https://feel22.com/products/khan-el-kaser-hair-sol-normal-hair-shampoo",
-"p": 12.0,
-"c": 15.0,
+"p": 15.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/KhanElKaserHairSolNormalHairShampoo500ml.png?v=1780183946&width=400",
 "type": "Shampoo",
 "tags": [
 "KEK626",
-"MAYSKU26",
-"OCT26"
+"MAYSKU26"
 ],
 "in": true
 },
 {
 "t": "Khan El Kaser Hair Sol Curly Hair Shampoo",
 "u": "https://feel22.com/products/khan-el-kaser-hair-sol-curly-hair-shampoo",
-"p": 12.0,
-"c": 15.0,
+"p": 15.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/KhanElKaserHairSolCurlyHairShampoo500ml.png?v=1780183952&width=400",
 "type": "Shampoo",
 "tags": [
 "KEK626",
-"MAYSKU26",
-"OCT26"
+"MAYSKU26"
 ],
 "in": true
 },
@@ -26601,14 +26484,13 @@
 {
 "t": "Samoa Coco Cleanse Gentle Oil Remover 80ml",
 "u": "https://feel22.com/products/samoa-coco-cleanse-gentle-oil-remover-80ml",
-"p": 1.47,
-"c": 1.73,
+"p": 1.73,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/SamoaCocoCleanseGentleOilRemover80ml.png?v=1781687603&width=400",
 "type": "Nail Polish Remover",
 "tags": [
 "EVERYTHING",
-"OCT26",
 "SAMOA1026",
 "SAMOANAILS"
 ],
@@ -26617,14 +26499,13 @@
 {
 "t": "Samoa Talk To Me In French Nails Set At 12% Off",
 "u": "https://feel22.com/products/samoa-talk-to-me-in-french-nails-set-at-12-off",
-"p": 12.2,
-"c": 14.35,
+"p": 14.35,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/SamoaTalkToMeInFrenchNailsSetAt12_Off.png?v=1776618146&width=400",
 "type": "Nail Tools and Sets",
 "tags": [
 "APRSKU26",
-"OCT26",
 "SAMOA1026",
 "SAMOANAILS"
 ],
@@ -26633,14 +26514,13 @@
 {
 "t": "Samoa See You In Spring Nails Set At 12% Off",
 "u": "https://feel22.com/products/samoa-see-you-in-spring-nails-set-at-12-off",
-"p": 11.82,
-"c": 13.9,
+"p": 13.9,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/SamoaSeeYouInSpringNailsSetAt12_Off.png?v=1776618258&width=400",
 "type": "Nail Tools and Sets",
 "tags": [
 "APRSKU26",
-"OCT26",
 "SAMOA1026",
 "SAMOANAILS"
 ],
@@ -26649,14 +26529,13 @@
 {
 "t": "Samoa Brightening Boost Top Coat",
 "u": "https://feel22.com/products/samoa-brightening-boost-top-coat",
-"p": 2.45,
-"c": 2.88,
+"p": 2.88,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/SamoaBrighteningBoostTopCoat6ml.png?v=1776618339&width=400",
 "type": "Nail Care",
 "tags": [
 "APRSKU26",
-"OCT26",
 "SAMOA1026",
 "samoa626",
 "SAMOANAILS"
@@ -26666,14 +26545,13 @@
 {
 "t": "Samoa White Beautifier Nail Hero + Care",
 "u": "https://feel22.com/products/samoa-white-beautifier-nail-hero-care",
-"p": 2.45,
-"c": 2.88,
+"p": 2.88,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/SamoaWhiteBeautifierNailHero_Care.png?v=1776869475&width=400",
 "type": "Nail Care",
 "tags": [
 "APRSKU26",
-"OCT26",
 "SAMOA1026",
 "samoa626",
 "SAMOANAILS"
@@ -26683,14 +26561,13 @@
 {
 "t": "Samoa Pink Beautifier Nail Hero + Care",
 "u": "https://feel22.com/products/samoa-pink-beautifier-nail-hero-care",
-"p": 2.45,
-"c": 2.88,
+"p": 2.88,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/SamoaPinkBeautifierNailHero_Care6ml.png?v=1776618408&width=400",
 "type": "Nail Care",
 "tags": [
 "APRSKU26",
-"OCT26",
 "SAMOA1026",
 "samoa626",
 "SAMOANAILS"
@@ -26700,14 +26577,13 @@
 {
 "t": "Samoa Grip & Go Sticky Base Coat",
 "u": "https://feel22.com/products/samoa-grip-go-sticky-base-coat",
-"p": 2.45,
-"c": 2.88,
+"p": 2.88,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/SamoaGrip_GoStickyBaseCoat6ml.png?v=1776618413&width=400",
 "type": "Nail Care",
 "tags": [
 "APRSKU26",
-"OCT26",
 "SAMOA1026",
 "samoa626",
 "SAMOANAILS"
@@ -26737,8 +26613,8 @@
 {
 "t": "Neutrogena Ultra Sheer SPF50 Body Sun Screen",
 "u": "https://feel22.com/products/neutrogena-ultra-sheer-spf50-body-sun-screen",
-"p": 18.75,
-"c": 25.0,
+"p": 25.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Neutrogena_Ultra_Sheer_SPF50_Body_Sun_Screen.png?v=1779719211&width=400",
 "type": "Sun Protection",
@@ -26749,7 +26625,6 @@
 "KFF1026",
 "MUPSKINALL926",
 "neutdc726",
-"OCT26",
 "ultrasheer"
 ],
 "in": true
@@ -26757,8 +26632,8 @@
 {
 "t": "Neutrogena Ultra Sheer SPF30 Body Sun Screen",
 "u": "https://feel22.com/products/neutrogena-ultra-sheer-spf30-body-sun-screen",
-"p": 18.75,
-"c": 25.0,
+"p": 25.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/NeutrogenaUltraSheerSPF30BodySunScreen.png?v=1779719838&width=400",
 "type": "Sun Protection",
@@ -26769,7 +26644,6 @@
 "KFF1026",
 "MUPSKINALL926",
 "neutdc726",
-"OCT26",
 "ultrasheer"
 ],
 "in": true
@@ -26777,8 +26651,8 @@
 {
 "t": "Neutrogena Ultra Sheer Hydration SPF50 Cream Sun Screen",
 "u": "https://feel22.com/products/neutrogena-ultra-sheer-hydration-spf50-cream-sun-screen",
-"p": 16.5,
-"c": 22.0,
+"p": 22.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/NeutrogenaUltraSheerSPF30BodySunScreen_1.png?v=1779719923&width=400",
 "type": "Sun Protection",
@@ -26789,7 +26663,6 @@
 "KFF1026",
 "MUPSKINALL926",
 "neutdc726",
-"OCT26",
 "ultrasheer"
 ],
 "in": true
@@ -26797,8 +26670,8 @@
 {
 "t": "Neutrogena Ultra Sheer Hydration SPF50 Fluid Sun Screen",
 "u": "https://feel22.com/products/neutrogena-ultra-sheer-hydration-spf50-fluid-sun-screen",
-"p": 16.5,
-"c": 22.0,
+"p": 22.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/NeutrogenaUltraSheerHydrationSPF50FluidSunScreen.png?v=1779720089&width=400",
 "type": "Sun Protection",
@@ -26809,7 +26682,6 @@
 "KFF1026",
 "MUPSKINALL926",
 "neutdc726",
-"OCT26",
 "ultrasheer"
 ],
 "in": false
@@ -26817,8 +26689,8 @@
 {
 "t": "Neutrogena Ultra Sheer Age Shield SPF50 Sun Screen",
 "u": "https://feel22.com/products/neutrogena-ultra-sheer-age-shield-spf50-sun-screen",
-"p": 18.75,
-"c": 25.0,
+"p": 25.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/NeutrogenaUltraSheerAgeShieldSPF50SunScreen.png?v=1779720245&width=400",
 "type": "Sun Protection",
@@ -26829,7 +26701,6 @@
 "KFF1026",
 "MUPSKINALL926",
 "neutdc726",
-"OCT26",
 "ultrasheer"
 ],
 "in": true
@@ -26883,8 +26754,8 @@
 {
 "t": "Elementre 20% Lactic & Glycolic Acid Intense Body Bright Cream",
 "u": "https://feel22.com/products/elementre-20-lactic-glycolic-acid-intense-body-bright-cream",
-"p": 42.4,
-"c": 53.0,
+"p": 53.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Elementre20_Lactic_GlycolicAcidIntenseBodyBrightCream.png?v=1781510448&width=400",
 "type": "Body Lotion and Oil",
@@ -27481,12 +27352,11 @@
 "t": "Dr Pawpaw Lip Scrub & Nourish 16g (Rewards)",
 "u": "https://feel22.com/products/dr-pawpaw-lip-scrub-nourish-16g-rewards",
 "p": 0.0,
-"c": 0.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/DrPawpawLipScrub_Nourish16g_Rewards.png?v=1779357133&width=400",
 "type": "Reward",
 "tags": [
-"OCT26",
 "PAW726",
 "pawpaw726",
 "SEARCHANISE_IGNORE"
@@ -27581,15 +27451,14 @@
 {
 "t": "Thank You Farmer Phyto Relieful Cica Toner Pad",
 "u": "https://feel22.com/products/thank-you-farmer-phyto-relieful-cica-toner-pad",
-"p": 46.62,
-"c": 66.6,
+"p": 66.6,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/ThankYouFarmerPhytoReliefulCicaTonerPad210ml.png?v=1778959188&width=400",
 "type": "Toner",
 "tags": [
 "MAYSKU26",
 "MUPSKINALL926",
-"OCT26",
 "TYFSLC926"
 ],
 "in": true
@@ -28458,8 +28327,8 @@
 {
 "t": "Forreal Floral Cloud Hair & Body Mist",
 "u": "https://feel22.com/products/forreal-floral-cloud-hair-body-mist",
-"p": 6.8,
-"c": 8.5,
+"p": 8.5,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/ForrealFloralCloudHair_BodyMist100Ml_aa80b1df-340c-4f49-b62b-ad8a3a717402.png?v=1778769327&width=400",
 "type": "Mist and Spray For Her",
@@ -28467,7 +28336,6 @@
 "4REAL826",
 "forrealmist",
 "MAYSKU26",
-"OCT26",
 "pink26"
 ],
 "in": true
@@ -28475,32 +28343,30 @@
 {
 "t": "Forreal Lavender Rush Hair & Body Mist",
 "u": "https://feel22.com/products/forreal-lavender-rush-hair-body-mist",
-"p": 6.8,
-"c": 8.5,
+"p": 8.5,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Forreal_Lavender_Rush_Hair_Body_Mist.png?v=1779090081&width=400",
 "type": "Mist and Spray For Her",
 "tags": [
 "4REAL826",
 "forrealmist",
-"MAYSKU26",
-"OCT26"
+"MAYSKU26"
 ],
 "in": true
 },
 {
 "t": "Forreal Coco Crush Hair & Body Mist",
 "u": "https://feel22.com/products/forreal-coco-crush-hair-body-mist",
-"p": 6.8,
-"c": 8.5,
+"p": 8.5,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/ForrealCocoCrushHair_BodyMist100Ml.png?v=1778769296&width=400",
 "type": "Mist and Spray For Her",
 "tags": [
 "4REAL826",
 "forrealmist",
-"MAYSKU26",
-"OCT26"
+"MAYSKU26"
 ],
 "in": true
 },
@@ -28869,8 +28735,8 @@
 {
 "t": "Soskin Shine-Control Purifying Moisturizer 60ml",
 "u": "https://feel22.com/products/soskin-shine-control-purifying-moisturizer-60ml",
-"p": 25.6,
-"c": 32.0,
+"p": 32.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshotstemp_5_0ca5eeb4-a4d3-4134-9f13-94d0c8c3119b.png?v=1726663859&width=400",
 "type": "Day and Night Cream",
@@ -29121,8 +28987,8 @@
 {
 "t": "Vichy Dercos Aminexil Clinical R.E.G.E.N. Booster Hair Serum",
 "u": "https://feel22.com/products/vichy-dercos-aminexil-clinical-r-e-g-e-n-booster-hair-serum",
-"p": 55.04,
-"c": 73.38,
+"p": 73.38,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/VichyDercosAminexilClinicalR.E.G.E.N.BoosterHairSerum.png?v=1778492462&width=400",
 "type": "Hair Oil and Serum",
@@ -29131,7 +28997,6 @@
 "BTSPHARMA26",
 "lrpvichy926",
 "MAYSKU26",
-"OCT26",
 "OCTOBERSALEPHARMA",
 "PHARMAALL"
 ],
@@ -29375,8 +29240,8 @@
 {
 "t": "CeraVe Blemish Barrier With 3 Essential Ceramides And Niacinamide Patches",
 "u": "https://feel22.com/products/cerave-blemish-barrier-with-3-essential-ceramides-and-niacinamide-patches",
-"p": 8.21,
-"c": 10.26,
+"p": 10.26,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/CeraVeBlemishBarrierWith3EssentialCeramidesAndNiacinamidePatches.png?v=1778497446&width=400",
 "type": "Skincare Tools and Accessories",
@@ -29387,8 +29252,8 @@
 "CERAVEACNE",
 "ceraveskin726",
 "MAYSKU26",
-"OCT26",
-"OCTOBERSALEPHARMA"
+"OCTOBERSALEPHARMA",
+"PHARMAALL"
 ],
 "in": true
 },
@@ -29515,8 +29380,8 @@
 {
 "t": "La Roche-Posay Anthelios UV Air Daily Ultra Light SPF50+",
 "u": "https://feel22.com/products/la-roche-posay-anthelios-uv-air-daily-ultra-light-spf50",
-"p": 19.51,
-"c": 26.01,
+"p": 26.01,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/LaRoche-PosayAntheliosUVAirDailyUltraLightSPF50.png?v=1778245477&width=400",
 "type": "Sun Protection",
@@ -30045,64 +29910,60 @@
 {
 "t": "Forreal Cinnamon Spice Lip Serum 6ml",
 "u": "https://feel22.com/products/forreal-cinnamon-spice-lip-serum-6ml",
-"p": 6.0,
-"c": 7.5,
+"p": 7.5,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Forreal_Cinnamon_Spice_Lip_Serum_6ml.png?v=1777540689&width=400",
 "type": "Lip Care",
 "tags": [
 "4REAL826",
 "FORSLCTD526",
-"MUPSKINALL926",
-"OCT26"
+"MUPSKINALL926"
 ],
 "in": true
 },
 {
 "t": "Forreal Cherry Bomb Lip Serum 6ml",
 "u": "https://feel22.com/products/forreal-cherry-bomb-lip-serum-6ml",
-"p": 6.0,
-"c": 7.5,
+"p": 7.5,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Forreal_Cherry_Bomb_Lip_Serum_6ml.png?v=1777540650&width=400",
 "type": "Lip Care",
 "tags": [
 "4REAL826",
 "FORSLCTD526",
-"MUPSKINALL926",
-"OCT26"
+"MUPSKINALL926"
 ],
 "in": true
 },
 {
 "t": "Forreal Vanilla Glaze Lip Serum 6ml",
 "u": "https://feel22.com/products/forreal-vanilla-glaze-lip-serum-6ml",
-"p": 6.0,
-"c": 7.5,
+"p": 7.5,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Forreal_Vanilla_Glaze_Lip_Serum_6ml_9ba45c73-85a0-4cd2-a5e7-84dd622cb89f.png?v=1777540629&width=400",
 "type": "Lip Care",
 "tags": [
 "4REAL826",
 "FORSLCTD526",
-"MUPSKINALL926",
-"OCT26"
+"MUPSKINALL926"
 ],
 "in": true
 },
 {
 "t": "Forreal Choco Bliss Lip Serum 6ml",
 "u": "https://feel22.com/products/forreal-choco-bliss-lip-serum-6ml",
-"p": 6.0,
-"c": 7.5,
+"p": 7.5,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Forreal_Choco_Bliss_Lip_Serum_6ml.png?v=1777540612&width=400",
 "type": "Lip Care",
 "tags": [
 "4REAL826",
 "FORSLCTD526",
-"MUPSKINALL926",
-"OCT26"
+"MUPSKINALL926"
 ],
 "in": true
 },
@@ -31338,7 +31199,7 @@
 {
 "t": "Garnier Color Naturals Nourishing Permanent Hair Color Bundle At 15% Off",
 "u": "https://feel22.com/products/garnier-color-naturals-hair-color-bundle-20-off-gift",
-"p": 5.62,
+"p": 5.97,
 "c": 7.02,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/sArtboard2copy2-100_1.jpg?v=1761212761&width=400",
@@ -31358,7 +31219,7 @@
 {
 "t": "Garnier Olia Ammonia Free Permanent Hair Coloration Bundle At 15% Off",
 "u": "https://feel22.com/products/olia-hair-color-bundle-25-off-free-green-tablier",
-"p": 7.71,
+"p": 8.19,
 "c": 9.64,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/sArtboard57-100.jpg?v=1754558074&width=400",
@@ -35427,15 +35288,14 @@
 {
 "t": "Palmer's Skin Success Eventone Facial Milk Foaming Cleanser",
 "u": "https://feel22.com/products/palmers-skin-success-eventone-facial-milk-foaming-cleanser",
-"p": 12.49,
-"c": 16.65,
+"p": 16.65,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Palmer_sSkinSuccessEventoneFacialMilkFoamingCleanser150ml.png?v=1775520931&width=400",
 "type": "Cleanser and Face Soap",
 "tags": [
 "APRSKU26",
 "MUPSKINALL926",
-"OCT26",
 "PALMER1026"
 ],
 "in": true
@@ -35443,14 +35303,13 @@
 {
 "t": "Palmer's Coconut Oil Formula Moisture Boost Conditioner",
 "u": "https://feel22.com/products/palmers-coconut-oil-formula-moisture-boost-conditioner",
-"p": 9.99,
-"c": 13.32,
+"p": 13.32,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Palmer_sCoconutOilFormulaMoistureBoostConditioner400ml.png?v=1775521325&width=400",
 "type": "Conditioner",
 "tags": [
 "APRSKU26",
-"OCT26",
 "PALMER1026"
 ],
 "in": true
@@ -35458,14 +35317,13 @@
 {
 "t": "Palmer's Coconut Oil Formula Hand Cream",
 "u": "https://feel22.com/products/palmers-coconut-oil-formula-hand-cream",
-"p": 8.33,
-"c": 11.1,
+"p": 11.1,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Palmer_sCoconutOilFormulaHandCream96g.png?v=1775521448&width=400",
 "type": "Hand Care",
 "tags": [
 "APRSKU26",
-"OCT26",
 "PALMER1026"
 ],
 "in": true
@@ -35473,14 +35331,13 @@
 {
 "t": "Palmer's Coconut Oil Formula Amino Bonding Complex Pump Conditioning Hair Mask",
 "u": "https://feel22.com/products/palmers-coconut-oil-formula-amino-bonding-complex-pump-conditioning-hair-mask",
-"p": 19.98,
-"c": 26.64,
+"p": 26.64,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Palmer_sCoconutOilFormulaAminoBondingComplexPumpConditioningHairMask355ml.png?v=1775521642&width=400",
 "type": "Hair Mask",
 "tags": [
 "APRSKU26",
-"OCT26",
 "PALMER1026"
 ],
 "in": true
@@ -35488,14 +35345,13 @@
 {
 "t": "Palmer's Coconut Oil Formula Amino Bonding Complex Leave-In Treatment",
 "u": "https://feel22.com/products/palmers-coconut-oil-formula-amino-bonding-complex-leave-in-treatment",
-"p": 18.74,
-"c": 24.98,
+"p": 24.98,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Palmer_sCoconutOilFormulaAminoBondingComplexLeave-InTreatment198ml.png?v=1775521784&width=400",
 "type": "Conditioner",
 "tags": [
 "APRSKU26",
-"OCT26",
 "PALMER1026"
 ],
 "in": true
@@ -35503,14 +35359,13 @@
 {
 "t": "Palmer's Coconut Oil Formula Amino Bonding Complex Hair Gloss Treatment",
 "u": "https://feel22.com/products/palmers-coconut-oil-formula-amino-bonding-complex-hair-gloss-treatment",
-"p": 18.74,
-"c": 24.98,
+"p": 24.98,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Palmer_sCoconutOilFormulaAminoBondingComplexHairGlossTreatment118ml.png?v=1775522045&width=400",
 "type": "Hair Oil and Serum",
 "tags": [
 "APRSKU26",
-"OCT26",
 "PALMER1026"
 ],
 "in": true
@@ -35518,15 +35373,14 @@
 {
 "t": "Palmer's Cocoa Butter Formula Fade Cream Eventone Daily Moisturizer",
 "u": "https://feel22.com/products/palmers-cocoa-butter-formula-fade-cream-eventone-daily-moisturizer",
-"p": 15.82,
-"c": 21.09,
+"p": 21.09,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Palmer_sCocoaButterFormulaFadeCreamEventoneDailyMoisturizer75g.png?v=1775520904&width=400",
 "type": "Day and Night Cream",
 "tags": [
 "APRSKU26",
 "MUPSKINALL926",
-"OCT26",
 "PALMER1026"
 ],
 "in": true
@@ -35534,15 +35388,14 @@
 {
 "t": "Palmer's Cocoa Butter Formula Skin Therapy Cleansing Oil Face",
 "u": "https://feel22.com/products/palmers-cocoa-butter-formula-skin-therapy-cleansing-oil-face",
-"p": 14.99,
-"c": 19.98,
+"p": 19.98,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Palmer_sCocoaButterFormulaSkinTherapyCleansingOilFace190ml.png?v=1775522283&width=400",
 "type": "Cleanser and Face Soap",
 "tags": [
 "APRSKU26",
 "MUPSKINALL926",
-"OCT26",
 "PALMER1026"
 ],
 "in": true
@@ -35550,15 +35403,14 @@
 {
 "t": "Palmer's Coconut Oil Formula Coconut Monoi Facial Cleansing Balm",
 "u": "https://feel22.com/products/palmers-coconut-oil-formula-coconut-monoi-facial-cleansing-balm",
-"p": 16.65,
-"c": 22.2,
+"p": 22.2,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Palmer_sCoconutOilFormulaCoconutMonoiFacialCleansingBalm64g.png?v=1775521538&width=400",
 "type": "Makeup Remover",
 "tags": [
 "APRSKU26",
 "MUPSKINALL926",
-"OCT26",
 "PALMER1026"
 ],
 "in": true
@@ -35566,14 +35418,13 @@
 {
 "t": "Palmer's Cocoa Butter Formula Foot Magic Scrub",
 "u": "https://feel22.com/products/palmers-cocoa-butter-formula-foot-magic-scrub",
-"p": 7.49,
-"c": 9.99,
+"p": 9.99,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Palmer_sCocoaButterFormulaFootMagicScrub60g.png?v=1775521069&width=400",
 "type": "Foot Care",
 "tags": [
 "APRSKU26",
-"OCT26",
 "PALMER1026"
 ],
 "in": true
@@ -35581,15 +35432,14 @@
 {
 "t": "Palmer's Cocoa Butter Formula Moisture Rich Facial Night Cream",
 "u": "https://feel22.com/products/palmers-cocoa-butter-formula-moisture-rich-facial-night-cream",
-"p": 18.32,
-"c": 24.42,
+"p": 24.42,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Palmer_sCocoaButterFormulaMoistureRichFacialNightCream75g.png?v=1775522444&width=400",
 "type": "Day and Night Cream",
 "tags": [
 "APRSKU26",
 "MUPSKINALL926",
-"OCT26",
 "PALMER1026"
 ],
 "in": true
@@ -35597,14 +35447,13 @@
 {
 "t": "Palmer's Cocoa Butter Formula And Biotin Length Retention Biotin Pack Hair Mask",
 "u": "https://feel22.com/products/palmers-cocoa-butter-formula-and-biotin-length-retention-biotin-pack-hair-mask",
-"p": 2.5,
-"c": 3.33,
+"p": 3.33,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Palmer_sCocoaButterFormulaAndBiotinLengthRetentionBiotinPackHairMask.png?v=1775522169&width=400",
 "type": "Hair Mask",
 "tags": [
 "APRSKU26",
-"OCT26",
 "PALMER1026"
 ],
 "in": true
@@ -35612,14 +35461,13 @@
 {
 "t": "Palmer's Coconut Oil Formula Amino Bonding Complex Healing Oil",
 "u": "https://feel22.com/products/palmers-coconut-oil-formula-amino-bonding-complex-healing-oil",
-"p": 19.98,
-"c": 26.64,
+"p": 26.64,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Palmer_sCoconutOilFormulaAminoBondingComplexHealingOil118ml.png?v=1775521857&width=400",
 "type": "Hair Oil and Serum",
 "tags": [
 "APRSKU26",
-"OCT26",
 "PALMER1026"
 ],
 "in": true
@@ -35627,14 +35475,13 @@
 {
 "t": "Palmer's Coconut Oil Formula Amino Bonding Complex Conditioning Hair Mask",
 "u": "https://feel22.com/products/palmers-coconut-oil-formula-amino-bonding-complex-conditioning-hair-mask",
-"p": 5.0,
-"c": 6.66,
+"p": 6.66,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Palmer_sCoconutOilFormulaAminoBondingComplexConditioningHairMask60g.png?v=1775521923&width=400",
 "type": "Hair Mask",
 "tags": [
 "APRSKU26",
-"OCT26",
 "PALMER1026"
 ],
 "in": true
@@ -35642,14 +35489,13 @@
 {
 "t": "Palmer's Cocoa Butter Formula With Vitamin E Baby Oil",
 "u": "https://feel22.com/products/palmers-cocoa-butter-formula-with-vitamin-e-baby-oil",
-"p": 14.57,
-"c": 19.43,
+"p": 19.43,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Palmer_sCocoaButterFormulaWithVitaminEBabyOil150ml.png?v=1775522589&width=400",
 "type": "Kids Bath and Body",
 "tags": [
 "APRSKU26",
-"OCT26",
 "PALMER1026"
 ],
 "in": true
@@ -35657,14 +35503,13 @@
 {
 "t": "Palmer's Cocoa Butter Formula Baby Lotion",
 "u": "https://feel22.com/products/palmers-cocoa-butter-formula-baby-lotion",
-"p": 14.57,
-"c": 19.43,
+"p": 19.43,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Palmer_sCocoaButterFormulaBabyLotion400ml.png?v=1775521090&width=400",
 "type": "Kids Bath and Body",
 "tags": [
 "APRSKU26",
-"OCT26",
 "PALMER1026"
 ],
 "in": true
@@ -35672,14 +35517,13 @@
 {
 "t": "Palmer's Cocoa Butter Formula Baby Balm",
 "u": "https://feel22.com/products/palmers-cocoa-butter-formula-baby-balm",
-"p": 10.82,
-"c": 14.43,
+"p": 14.43,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Palmer_sCocoaButterFormulaBabyBalm100g.png?v=1775522757&width=400",
 "type": "Kids Bath and Body",
 "tags": [
 "APRSKU26",
-"OCT26",
 "PALMER1026"
 ],
 "in": true
@@ -35687,14 +35531,13 @@
 {
 "t": "Palmer's Aloe Vera Extra-Rich Moisturizing Gel",
 "u": "https://feel22.com/products/palmers-aloe-vera-extra-rich-moisturizing-gel",
-"p": 8.33,
-"c": 11.1,
+"p": 11.1,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Palmer_sAloeVeraExtra-RichMoisturizingGel125g.png?v=1775521105&width=400",
 "type": "Wound Care and Soothing",
 "tags": [
 "APRSKU26",
-"OCT26",
 "PALMER1026"
 ],
 "in": true
@@ -35702,8 +35545,8 @@
 {
 "t": "Neutrogena Collagen Bank Day Cream SPF30",
 "u": "https://feel22.com/products/neutrogena-collagen-bank-day-cream-spf30",
-"p": 26.29,
-"c": 35.05,
+"p": 35.05,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/NeutrogenaCollagenBankDayCreamSPF30.png?v=1776243552&width=400",
 "type": "Day and Night Cream",
@@ -35722,8 +35565,8 @@
 {
 "t": "Neutrogena Collagen Bank Moisturiser Night Cream",
 "u": "https://feel22.com/products/neutrogena-collagen-bank-moisturiser-night-cream",
-"p": 26.29,
-"c": 35.05,
+"p": 35.05,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/NeutrogenaCollagenBankMoisturiserNightCream.png?v=1776243237&width=400",
 "type": "Day and Night Cream",
@@ -36695,8 +36538,8 @@
 {
 "t": "Flormar Mattifying Bb Cream",
 "u": "https://feel22.com/products/flormar-mattifying-bb-cream",
-"p": 11.46,
-"c": 16.37,
+"p": 16.37,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarMattifyingBbCream-01Fair.png?v=1769466163&width=400",
 "type": "BB and CC Cream",
@@ -36704,32 +36547,30 @@
 "FLMF",
 "flormar826",
 "JANSKU26",
-"MUPSKINALL926",
-"OCT26"
+"MUPSKINALL926"
 ],
 "in": true
 },
 {
 "t": "Flormar Gel Look Top Coat",
 "u": "https://feel22.com/products/flormar-gel-look-top-coat",
-"p": 9.32,
-"c": 13.32,
+"p": 13.32,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarGelLookTopCoat.png?v=1769466316&width=400",
 "type": "Nail Care",
 "tags": [
 "FLMN",
 "flormar826",
-"JANSKU26",
-"OCT26"
+"JANSKU26"
 ],
 "in": true
 },
 {
 "t": "Flormar Breathing Color Nail Enamel 017 More Optimistic Nail Polish",
 "u": "https://feel22.com/products/flormar-breathing-color-nail-enamel-017-more-optimistic-nail-polish",
-"p": 3.89,
-"c": 5.55,
+"p": 5.55,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarBreathingColorNailEnamel017MoreOptimisticNailPolish.png?v=1767956124&width=400",
 "type": "Nail Polish",
@@ -36737,16 +36578,15 @@
 "EVERYTHING",
 "FLMN",
 "flormar826",
-"JANSKU26",
-"OCT26"
+"JANSKU26"
 ],
 "in": false
 },
 {
 "t": "Flormar Breathing Color Nail Enamel 015 Energized Nail Polish",
 "u": "https://feel22.com/products/flormar-breathing-color-nail-enamel-015-energized-nail-polish",
-"p": 3.89,
-"c": 5.55,
+"p": 5.55,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarBreathingColorNailEnamel015EnergizedNailPolish.png?v=1767956241&width=400",
 "type": "Nail Polish",
@@ -36754,16 +36594,15 @@
 "EVERYTHING",
 "FLMN",
 "flormar826",
-"JANSKU26",
-"OCT26"
+"JANSKU26"
 ],
 "in": true
 },
 {
 "t": "Flormar Breathing Color Nail Enamel 014 Pretty Blue Nail Polish",
 "u": "https://feel22.com/products/flormar-breathing-color-nail-enamel-014-pretty-blue-nail-polish",
-"p": 3.89,
-"c": 5.55,
+"p": 5.55,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarBreathingColorNailEnamel014PrettyBlueNailPolish.png?v=1767956250&width=400",
 "type": "Nail Polish",
@@ -36771,16 +36610,15 @@
 "EVERYTHING",
 "FLMN",
 "flormar826",
-"JANSKU26",
-"OCT26"
+"JANSKU26"
 ],
 "in": true
 },
 {
 "t": "Flormar Breathing Color Nail Enamel 007 Slow Dancing Nail Polish",
 "u": "https://feel22.com/products/flormar-breathing-color-nail-enamel-007-slow-dancing-nail-polish",
-"p": 3.89,
-"c": 5.55,
+"p": 5.55,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarBreathingColorNailEnamel007SlowDancingNailPolish.png?v=1767956262&width=400",
 "type": "Nail Polish",
@@ -36788,16 +36626,15 @@
 "EVERYTHING",
 "FLMN",
 "flormar826",
-"JANSKU26",
-"OCT26"
+"JANSKU26"
 ],
 "in": false
 },
 {
 "t": "Flormar Full Color Nail Enamel FC32 Victory Of Black Nail Polish",
 "u": "https://feel22.com/products/flormar-full-color-nail-enamel-fc32-victory-of-black-nail-polish",
-"p": 2.53,
-"c": 3.61,
+"p": 3.61,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarFullColorNailEnamelFC32VictoryOfBlackNailPolish.png?v=1767956290&width=400",
 "type": "Nail Polish",
@@ -36805,16 +36642,15 @@
 "EVERYTHING",
 "FLMN",
 "flormar826",
-"JANSKU26",
-"OCT26"
+"JANSKU26"
 ],
 "in": false
 },
 {
 "t": "Flormar Gentle Cuticle Remover",
 "u": "https://feel22.com/products/flormar-gentle-cuticle-remover",
-"p": 5.83,
-"c": 8.33,
+"p": 8.33,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarGentleCuticleRemover.png?v=1767875737&width=400",
 "type": "Nail Care",
@@ -36822,16 +36658,15 @@
 "EVERYTHING",
 "FLMN",
 "flormar826",
-"JANSKU26",
-"OCT26"
+"JANSKU26"
 ],
 "in": false
 },
 {
 "t": "Flormar C.Powder Compact Powder",
 "u": "https://feel22.com/products/flormar-c-powder-compact-powder",
-"p": 13.99,
-"c": 19.98,
+"p": 19.98,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarC.PowderCompactPowder-089MediumCream_2.png?v=1767880903&width=400",
 "type": "Powder",
@@ -36840,16 +36675,15 @@
 "FLMF",
 "flormar826",
 "JANSKU26",
-"MUPSKINALL926",
-"OCT26"
+"MUPSKINALL926"
 ],
 "in": true
 },
 {
 "t": "Flormar Flormar Longer Than Ever Mascara",
 "u": "https://feel22.com/products/flormar-flormar-longer-than-ever-mascara",
-"p": 18.84,
-"c": 26.92,
+"p": 26.92,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarFlormarLongerThanEverMascara.png?v=1767699715&width=400",
 "type": "Mascara",
@@ -36858,16 +36692,15 @@
 "FLME",
 "flormar826",
 "JANSKU26",
-"MUPSKINALL926",
-"OCT26"
+"MUPSKINALL926"
 ],
 "in": true
 },
 {
 "t": "Flormar Lift Up Caring Lip Plumper",
 "u": "https://feel22.com/products/flormar-lift-up-caring-lip-plumper",
-"p": 12.82,
-"c": 18.32,
+"p": 18.32,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarLiftUpCaringLipPlumper-001SoftPink.png?v=1767700503&width=400",
 "type": "Lip Gloss and Lip Tint",
@@ -36876,16 +36709,15 @@
 "FLML",
 "flormar826",
 "JANSKU26",
-"MUPSKINALL926",
-"OCT26"
+"MUPSKINALL926"
 ],
 "in": true
 },
 {
 "t": "Flormar Lift Up Lip Plumper Lip Liner",
 "u": "https://feel22.com/products/flormar-lift-up-lip-plumper-lip-liner",
-"p": 12.43,
-"c": 17.76,
+"p": 17.76,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarLiftUpLipPlumperLipLiner-001IceMocha.png?v=1767700221&width=400",
 "type": "Lip Liner",
@@ -36894,16 +36726,15 @@
 "FLML",
 "flormar826",
 "JANSKU26",
-"MUPSKINALL926",
-"OCT26"
+"MUPSKINALL926"
 ],
 "in": true
 },
 {
 "t": "Flormar Brow Pomade",
 "u": "https://feel22.com/products/flormar-brow-pomade",
-"p": 12.63,
-"c": 18.04,
+"p": 18.04,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarBrowPomade-03Brown.png?v=1767700986&width=400",
 "type": "Eyebrows",
@@ -36912,16 +36743,15 @@
 "FLMF",
 "flormar826",
 "JANSKU26",
-"MUPSKINALL926",
-"OCT26"
+"MUPSKINALL926"
 ],
 "in": true
 },
 {
 "t": "Flormar Matte Waterproof Dipliner Eyeliner",
 "u": "https://feel22.com/products/flormar-matte-waterproof-dipliner-eyeliner",
-"p": 10.49,
-"c": 14.99,
+"p": 14.99,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarMatteWaterproofDiplinerEyeliner-001Black.png?v=1767701009&width=400",
 "type": "Eyeliner",
@@ -36930,16 +36760,15 @@
 "FLME",
 "flormar826",
 "JANSKU26",
-"MUPSKINALL926",
-"OCT26"
+"MUPSKINALL926"
 ],
 "in": true
 },
 {
 "t": "Flormar Lightweight Lip Powder Lipstick",
 "u": "https://feel22.com/products/flormar-lightweight-lip-powder-lipstick",
-"p": 11.85,
-"c": 16.93,
+"p": 16.93,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarLightweightLipPowderLipstick-06Precious.png?v=1767701676&width=400",
 "type": "Lipstick",
@@ -36948,16 +36777,15 @@
 "FLML",
 "flormar826",
 "JANSKU26",
-"MUPSKINALL926",
-"OCT26"
+"MUPSKINALL926"
 ],
 "in": true
 },
 {
 "t": "Wibo Lip Pencil Nude Lips 5",
 "u": "https://feel22.com/products/wibo-lip-pencil-nude-lips-5",
-"p": 2.4,
-"c": 3.0,
+"p": 3.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Untitleddesign_8af73613-9ba1-4237-a592-5199b9b6afae.png?v=1718096691&width=400",
 "type": "Lip Liner",
@@ -36967,9 +36795,9 @@
 "EVERYTHING",
 "MK15",
 "MUPSKINALL926",
-"OCT26",
 "tag1",
-"WIBO325"
+"WIBO325",
+"WIBO426"
 ],
 "in": true
 },
@@ -37487,8 +37315,8 @@
 {
 "t": "Soskin Fluid Foundation Spf30",
 "u": "https://feel22.com/products/soskin-fluid-foundation-spf30",
-"p": 24.0,
-"c": 30.0,
+"p": 30.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/SoskinFluidFoundationSpf30.png?v=1775167183&width=400",
 "type": "Foundation",
@@ -37499,8 +37327,8 @@
 "BTSPHARMA26",
 "MEDA826",
 "MUPSKINALL926",
-"OCT26",
-"OCTOBERSALEPHARMA"
+"OCTOBERSALEPHARMA",
+"PHARMAALL"
 ],
 "in": false
 },
@@ -38230,15 +38058,14 @@
 {
 "t": "Palladio Under Eye Brightening Cream",
 "u": "https://feel22.com/products/palladio-under-eye-brightening-cream",
-"p": 12.41,
-"c": 14.6,
+"p": 14.6,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/PalladioUnderEyeBrighteningCream.png?v=1774857988&width=400",
 "type": "Concealer and Corrector",
 "tags": [
 "MARCHSKU26",
 "MUPSKINALL926",
-"OCT26",
 "pall726",
 "PALL826"
 ],
@@ -38247,8 +38074,8 @@
 {
 "t": "Beesline Face Mineral Sunscreen Stick SPF30 18ml",
 "u": "https://feel22.com/products/beesline-face-mineral-sunscreen-stick-spf30-18ml",
-"p": 8.4,
-"c": 14.0,
+"p": 14.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Untitleddesign_52_e30b735b-72c4-4168-8f6f-69d641b17494.png?v=1775557074&width=400",
 "type": "Sun Protection",
@@ -38259,8 +38086,7 @@
 "beesexlm926",
 "beeskin726",
 "MARCHSKU26",
-"MUPSKINALL926",
-"OCT26"
+"MUPSKINALL926"
 ],
 "in": true
 },
@@ -38492,8 +38318,8 @@
 {
 "t": "Retinol Skincare The Eye Stick",
 "u": "https://feel22.com/products/skincare-retinol-the-eye-stick",
-"p": 31.2,
-"c": 39.0,
+"p": 39.0,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/BestOftemplate2023-2024-01-08T200709.624.png?v=1732544326&width=400",
 "type": "Eye Cream",
@@ -38512,8 +38338,8 @@
 {
 "t": "Soskin Glow Stick SPF30",
 "u": "https://feel22.com/products/soskin-glow-stick-spf30",
-"p": 24.0,
-"c": 30.0,
+"p": 30.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/SoskinGlowStickSPF30.png?v=1761301350&width=400",
 "type": "Sun Protection",
@@ -38532,8 +38358,8 @@
 {
 "t": "Soskin HydraWear Light Weight Moisturizing Cream",
 "u": "https://feel22.com/products/soskin-hydrawear-light-weight-moisturizing-cream",
-"p": 25.6,
-"c": 32.0,
+"p": 32.0,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/BestOftemplate2023_18_6e0c4042-b9f0-4dfe-953f-d41d6752c63a.png?v=1704361057&width=400",
 "type": "Day and Night Cream",
@@ -38552,8 +38378,8 @@
 {
 "t": "Soskin nBTX Tightening Serum",
 "u": "https://feel22.com/products/soskin-nbtx-tightening-serum",
-"p": 39.2,
-"c": 49.0,
+"p": 49.0,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/3_3c80f067-de2e-426e-9c66-3c271fd401ff.png?v=1686047520&width=400",
 "type": "Serum and Treatment",
@@ -38572,8 +38398,8 @@
 {
 "t": "Soskin Sun Fluid Very High Protection SPF50+ - Normal To Combination",
 "u": "https://feel22.com/products/soskin-sun-fluid-spf50",
-"p": 18.4,
-"c": 23.0,
+"p": 23.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/BestOftemplate2023-2024-01-08T151037.248.png?v=1732569139&width=400",
 "type": "Sun Protection",
@@ -39177,14 +39003,13 @@
 {
 "t": "Palmer's Coconut Bronze Oil And Hydrate Lip Balm Set",
 "u": "https://feel22.com/products/palmers-coconut-bronze-oil-and-hydrate-lip-balm-set",
-"p": 9.16,
+"p": 9.99,
 "c": 12.21,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Palmer_sCoconutBronzeOilAndHydrateLipBalmSet.png?v=1773923110&width=400",
 "type": "Body Gifts and Sets",
 "tags": [
 "MARCHSKU26",
-"OCT26",
 "PALMER1026"
 ],
 "in": false
@@ -39192,14 +39017,13 @@
 {
 "t": "Palmer's Coconut Bronze Oil Set At 15% Off",
 "u": "https://feel22.com/products/palmers-coconut-bronze-oil-set-at-15-off",
-"p": 13.32,
+"p": 15.1,
 "c": 17.76,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Palmer_sCoconutBronzeOilSetAt15_Off.png?v=1773922960&width=400",
 "type": "Body Gifts and Sets",
 "tags": [
 "MARCHSKU26",
-"OCT26",
 "PALMER1026"
 ],
 "in": false
@@ -39240,15 +39064,14 @@
 {
 "t": "Wibo Wild Cat Eye Pencil",
 "u": "https://feel22.com/products/wibo-wild-cat-eye-pencil",
-"p": 3.2,
-"c": 4.0,
+"p": 4.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/WiboWildCatEyePencil_2.png?v=1773995691&width=400",
 "type": "Eyeliner",
 "tags": [
 "MARCHSKU26",
 "MUPSKINALL926",
-"OCT26",
 "WIBO426",
 "WIZE826"
 ],
@@ -39284,15 +39107,14 @@
 {
 "t": "Lattafa Body Mist Ameerat Al Arab 150ml",
 "u": "https://feel22.com/products/lattafa-body-mist-ameerat-al-arab-150ml",
-"p": 14.8,
-"c": 18.5,
+"p": 18.5,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/LattafaBodyMistAmeeratAlArab150ml.png?v=1773918566&width=400",
 "type": "Mist and Spray For Her",
 "tags": [
 "EVERYTHING",
-"LATT925",
-"OCT26"
+"LATT925"
 ],
 "in": true
 },
@@ -39545,7 +39367,7 @@
 "lagoondeow",
 "MARCHSKU26"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Lagoon Amber Touch Roll-On For Women",
@@ -39573,7 +39395,7 @@
 "lagoondeow",
 "MARCHSKU26"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Lagoon Petal Whisper Roll-On For Women",
@@ -39671,7 +39493,7 @@
 "lagoondeom",
 "MARCHSKU26"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Lagoon Ice Chill Roll-On For Men",
@@ -39797,7 +39619,7 @@
 "lagoonhand",
 "MARCHSKU26"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Lagoon Tropical Touch Hand Wash",
@@ -40150,53 +39972,50 @@
 {
 "t": "Lattafa Brioche Vanille Eau De Parfum 3pcs Set",
 "u": "https://feel22.com/products/lattafa-brioche-vanille-eau-de-parfum-3pcs-set",
-"p": 34.15,
-"c": 42.69,
+"p": 42.69,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/packshotscarelle_2.png?v=1760953826&width=400",
 "type": "Unisex Perfume",
 "tags": [
 "EVERYTHING",
-"LATT925",
-"OCT26"
+"LATT925"
 ],
 "in": false
 },
 {
 "t": "Lattafa Habik For Women Eau De Parfum",
 "u": "https://feel22.com/products/lattafa-habik-for-women-eau-de-parfum",
-"p": 23.22,
-"c": 29.03,
+"p": 29.03,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/lattafa-habikforwomeneau-de-parfum_page-0001.jpg?v=1760952275&width=400",
 "type": "Perfume For Her",
 "tags": [
 "EVERYTHING",
-"LATT925",
-"OCT26"
+"LATT925"
 ],
 "in": true
 },
 {
 "t": "Lattafa Habik For Men Eau De Parfum",
 "u": "https://feel22.com/products/lattafa-habik-for-men-eau-de-parfum",
-"p": 23.22,
-"c": 29.03,
+"p": 29.03,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/lattafa-habikformeneau-de-parfum_page-0001.jpg?v=1760952033&width=400",
 "type": "Perfume For Him",
 "tags": [
 "EVERYTHING",
-"LATT925",
-"OCT26"
+"LATT925"
 ],
 "in": true
 },
 {
 "t": "Lattafa Ana Abiyedh Rouge Body Mist 150ml",
 "u": "https://feel22.com/products/lattafa-ana-abiyedh-rouge-body-mist-150ml",
-"p": 13.66,
-"c": 17.08,
+"p": 17.08,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshotstemp-Lynn_297b8df7-1c1d-4a79-86f9-562a506c081d.png?v=1753347203&width=400",
 "type": "Mist and Spray for Him",
@@ -40204,7 +40023,6 @@
 "ANNIVERSARYBRANDS",
 "EVERYTHING",
 "LATT925",
-"OCT26",
 "SDCOLLECTION"
 ],
 "in": false
@@ -40212,8 +40030,8 @@
 {
 "t": "Lattafa Ana Abiyedh Rouge Unisex Perfume",
 "u": "https://feel22.com/products/lattafa-ana-abiyedh-rouge-unisex-perfume-1",
-"p": 15.02,
-"c": 18.78,
+"p": 18.78,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/70_1eabc1b4-a008-4d96-b536-7200cb9823b0.png?v=1753346825&width=400",
 "type": "Unisex Perfume",
@@ -40221,16 +40039,15 @@
 "ANNIVERSARYBRANDS",
 "EVERYTHING",
 "LATT925",
-"OCT26",
 "SDCOLLECTION"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Lattafa Badee Al Oud Noble Blush Eau De Parfum 100ml",
 "u": "https://feel22.com/products/lattafa-badee-al-oud-noble-blush-eau-de-parfum-100ml",
-"p": 27.32,
-"c": 34.15,
+"p": 34.15,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/1_548ef127-862a-4145-a786-968a0d89a59a.png?v=1749033128&width=400",
 "type": "Perfume For Her",
@@ -40239,7 +40056,6 @@
 "EVERYTHING",
 "LATT925",
 "lattafa725",
-"OCT26",
 "SDCOLLECTION"
 ],
 "in": true
@@ -40247,8 +40063,8 @@
 {
 "t": "Lattafa Asad Bourbon Eau De Parfum 100ml",
 "u": "https://feel22.com/products/lattafa-asad-bourbon-100ml",
-"p": 21.86,
-"c": 27.32,
+"p": 27.32,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshotstemp-Lynn_a03db392-94bf-4bca-b829-fa5423cd5146.png?v=1745932984&width=400",
 "type": "Perfume For Him",
@@ -40256,7 +40072,6 @@
 "ANNIVERSARYBRANDS",
 "EVERYTHING",
 "LATT925",
-"OCT26",
 "SDCOLLECTION"
 ],
 "in": false
@@ -40264,8 +40079,8 @@
 {
 "t": "Lattafa Atheeri Eau De Parfum 100ml",
 "u": "https://feel22.com/products/lattafa-atheeri-100ml",
-"p": 34.15,
-"c": 42.69,
+"p": 42.69,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshots-tania_96.png?v=1745417682&width=400",
 "type": "Unisex Perfume",
@@ -40275,7 +40090,6 @@
 "LATT925",
 "LATTAFA525",
 "lattafa725",
-"OCT26",
 "SDCOLLECTION"
 ],
 "in": true
@@ -40283,8 +40097,8 @@
 {
 "t": "Lattafa Victoria Unisex Eau De Parfum 100ml",
 "u": "https://feel22.com/products/lattafa-victoria-100ml",
-"p": 27.32,
-"c": 34.15,
+"p": 34.15,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshots-tania_97.png?v=1745418033&width=400",
 "type": "Unisex Perfume",
@@ -40294,7 +40108,6 @@
 "LATT925",
 "LATTAFA525",
 "lattafa725",
-"OCT26",
 "SDCOLLECTION"
 ],
 "in": true
@@ -40320,8 +40133,8 @@
 {
 "t": "Lattafa Pride Leen Eau De Parfum 100ml",
 "u": "https://feel22.com/products/lattafa-pride-leen-eau-de-parfum-100ml",
-"p": 47.82,
-"c": 59.77,
+"p": 59.77,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshots-tania_14.png?v=1742394735&width=400",
 "type": "Unisex Perfume",
@@ -40330,7 +40143,6 @@
 "EVERYTHING",
 "LATT925",
 "lattafa725",
-"OCT26",
 "SDCOLLECTION"
 ],
 "in": true
@@ -40338,8 +40150,8 @@
 {
 "t": "Lattafa Pride La Collection 1886 Eau De Parfum 100ml",
 "u": "https://feel22.com/products/lattafa-pride-la-collection-1886-eau-de-parfum-100ml",
-"p": 47.95,
-"c": 59.94,
+"p": 59.94,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshots-tania_16.png?v=1742459403&width=400",
 "type": "Unisex Perfume",
@@ -40349,7 +40161,6 @@
 "LATT925",
 "LATTAFA525",
 "lattafa725",
-"OCT26",
 "SDCOLLECTION"
 ],
 "in": true
@@ -40357,8 +40168,8 @@
 {
 "t": "Lattafa Pride Pisa Eau De Parfum 100ml",
 "u": "https://feel22.com/products/lattafa-pride-pisa-eau-de-parfum-100ml",
-"p": 47.95,
-"c": 59.94,
+"p": 59.94,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshots-tania_41.png?v=1742477486&width=400",
 "type": "Perfume For Him",
@@ -40367,7 +40178,6 @@
 "EVERYTHING",
 "LATT925",
 "lattafa725",
-"OCT26",
 "SDCOLLECTION"
 ],
 "in": true
@@ -40375,8 +40185,8 @@
 {
 "t": "Lattafa Pride Art Of Nature 1 Eau De Parfum 100ml",
 "u": "https://feel22.com/products/lattafa-pride-art-of-nature-1-eau-de-parfum-100ml",
-"p": 47.95,
-"c": 59.94,
+"p": 59.94,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshots-tania_25.png?v=1742460751&width=400",
 "type": "Unisex Perfume",
@@ -40386,7 +40196,6 @@
 "LATT925",
 "LATTAFA525",
 "lattafa725",
-"OCT26",
 "SDCOLLECTION"
 ],
 "in": false
@@ -40394,8 +40203,8 @@
 {
 "t": "Lattafa Pride Art Of Wood Eau De Parfum 100ml",
 "u": "https://feel22.com/products/lattafa-pride-art-of-wood-eau-de-parfum-100ml",
-"p": 33.74,
-"c": 42.18,
+"p": 42.18,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshots-tania_24.png?v=1742460625&width=400",
 "type": "Unisex Perfume",
@@ -40405,7 +40214,6 @@
 "LATT925",
 "LATTAFA525",
 "lattafa725",
-"OCT26",
 "SDCOLLECTION"
 ],
 "in": false
@@ -40413,15 +40221,14 @@
 {
 "t": "Lattafa Pride Art Of Arabia 1 Eau De Parfum 100ml",
 "u": "https://feel22.com/products/lattafa-pride-art-of-arabia-1-eau-de-parfum-100ml",
-"p": 47.95,
-"c": 59.94,
+"p": 59.94,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshots-tania_19.png?v=1742459655&width=400",
 "type": "Perfume For Him",
 "tags": [
 "EVERYTHING",
 "LATT925",
-"OCT26",
 "SDCOLLECTION"
 ],
 "in": true
@@ -40429,8 +40236,8 @@
 {
 "t": "Lattafa Pride Vintage Radio Eau De Parfum 100ml",
 "u": "https://feel22.com/products/lattafa-pride-vintage-radio-eau-de-parfum-100ml",
-"p": 34.15,
-"c": 42.69,
+"p": 42.69,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshots-tania_20.png?v=1742459823&width=400",
 "type": "Unisex Perfume",
@@ -40439,16 +40246,15 @@
 "EVERYTHING",
 "LATT925",
 "LATTAFA525",
-"lattafa725",
-"OCT26"
+"lattafa725"
 ],
 "in": true
 },
 {
 "t": "Lattafa Pride Ansaam Silver Eau De Parfum 100ml",
 "u": "https://feel22.com/products/lattafa-pride-ansaam-silver-eau-de-parfum-100ml",
-"p": 33.74,
-"c": 42.18,
+"p": 42.18,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshots-tania_21.png?v=1742460142&width=400",
 "type": "Unisex Perfume",
@@ -40457,7 +40263,6 @@
 "EVERYTHING",
 "LATT925",
 "lattafa725",
-"OCT26",
 "SDCOLLECTION"
 ],
 "in": true
@@ -40465,8 +40270,8 @@
 {
 "t": "Lattafa Mashrabya Eau De Parfum 100ml",
 "u": "https://feel22.com/products/lattafa-mashrabya-eau-de-parfum-100ml",
-"p": 24.59,
-"c": 30.74,
+"p": 30.74,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshots-tania_29.png?v=1742461965&width=400",
 "type": "Unisex Perfume",
@@ -40475,7 +40280,6 @@
 "EVERYTHING",
 "LATT925",
 "lattafa725",
-"OCT26",
 "SDCOLLECTION"
 ],
 "in": true
@@ -40483,8 +40287,8 @@
 {
 "t": "Lattafa His Confession Eau De Parfum 100ml",
 "u": "https://feel22.com/products/lattafa-his-confession-eau-de-parfum-100ml",
-"p": 34.15,
-"c": 42.69,
+"p": 42.69,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshots-tania_27.png?v=1742461718&width=400",
 "type": "Perfume For Him",
@@ -40493,7 +40297,6 @@
 "EVERYTHING",
 "LATT925",
 "lattafa725",
-"OCT26",
 "SDCOLLECTION"
 ],
 "in": false
@@ -40501,8 +40304,8 @@
 {
 "t": "Lattafa Kashan Unisex Eau De Parfum 100ml",
 "u": "https://feel22.com/products/lattafa-kashan-unisex-eau-de-parfum-100ml",
-"p": 47.82,
-"c": 59.77,
+"p": 59.77,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/pachotsceliner_4.png?v=1731676693&width=400",
 "type": "Unisex Perfume",
@@ -40512,7 +40315,6 @@
 "LATT925",
 "LATTAFA525",
 "lattafa725",
-"OCT26",
 "SDCOLLECTION"
 ],
 "in": true
@@ -40520,8 +40322,8 @@
 {
 "t": "Lattafa Al Nashama Perfume 100ml",
 "u": "https://feel22.com/products/lattafa-al-nashama-perfume-100ml",
-"p": 27.32,
-"c": 34.15,
+"p": 34.15,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshotstemp_14_9831bcfd-03be-4e8b-91af-2b57113ca628.png?v=1729246613&width=400",
 "type": "Unisex Perfume",
@@ -40533,15 +40335,15 @@
 "LATTAFA525",
 "lattafa725",
 "lattafabf",
-"OCT26"
+"SDCOLLECTION"
 ],
 "in": true
 },
 {
 "t": "Lattafa Fakhar Lattafa Extrait Perfume 100ml",
 "u": "https://feel22.com/products/lattafa-fakhar-lattafa-extrait-perfume-100ml",
-"p": 20.5,
-"c": 25.62,
+"p": 25.62,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshotstemp_20_2ebcaf4c-4f30-4eb2-add1-65214c1286fc.png?v=1729247483&width=400",
 "type": "Unisex Perfume",
@@ -40552,16 +40354,16 @@
 "LATTAFA225",
 "LATTAFA525",
 "lattafabf",
-"OCT26",
-"SDCOLLECTION"
+"SDCOLLECTION",
+"Sdd"
 ],
 "in": true
 },
 {
 "t": "Lattafa Badee Al Oud Sublime Men Perfume 100ml",
 "u": "https://feel22.com/products/lattafa-badee-al-oud-sublime-men-perfume-100ml",
-"p": 27.32,
-"c": 34.15,
+"p": 34.15,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshotstemp_21_8441a4ec-95e1-481b-9f38-161024471aa0.png?v=1729247562&width=400",
 "type": "Perfume For Him",
@@ -40580,8 +40382,8 @@
 {
 "t": "Lattafa Asad Zanzibar Perfume Men 100ml",
 "u": "https://feel22.com/products/lattafa-asad-zanzibar-perfume-men-100ml",
-"p": 21.86,
-"c": 27.32,
+"p": 27.32,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshotstemp_18_47dbbfbc-8782-4069-a5e3-8055dcbb4c7e.png?v=1729247290&width=400",
 "type": "Perfume For Him",
@@ -40593,15 +40395,15 @@
 "LATTAFA525",
 "lattafa725",
 "lattafabf",
-"OCT26"
+"SDCOLLECTION"
 ],
 "in": true
 },
 {
 "t": "Lattafa Hayaati Florence Perfume 100ml",
 "u": "https://feel22.com/products/lattafa-hayaati-florence-perfume-100ml",
-"p": 15.02,
-"c": 18.78,
+"p": 18.78,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshotstemp_17_12fe51df-a50e-4089-bab8-896c097a411f.png?v=1729247215&width=400",
 "type": "Unisex Perfume",
@@ -40610,7 +40412,6 @@
 "EVERYTHING",
 "LATT925",
 "lattafabf",
-"OCT26",
 "Sdd"
 ],
 "in": false
@@ -40618,8 +40419,8 @@
 {
 "t": "Lattafa Teriaq Women Perfume 100ml",
 "u": "https://feel22.com/products/lattafa-teriaq-women-perfume-100ml",
-"p": 32.78,
-"c": 40.98,
+"p": 40.98,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshots-lynn_5_220d2710-f352-40be-bf99-3b60bcc2f845.png?v=1710250410&width=400",
 "type": "Perfume For Her",
@@ -40631,15 +40432,15 @@
 "LATTAFA525",
 "lattafa725",
 "MAJOR725",
-"OCT26"
+"SDCOLLECTION"
 ],
 "in": true
 },
 {
 "t": "Lattafa Najdia Men Perfume 100ml",
 "u": "https://feel22.com/products/lattafa-najdia-perfume-100ml",
-"p": 13.66,
-"c": 17.08,
+"p": 17.08,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshots-lynn_9_ae51553d-c93a-44da-9671-6313bafa6c02.png?v=1710251948&width=400",
 "type": "Perfume For Him",
@@ -40658,8 +40459,8 @@
 {
 "t": "Lattafa Mayar Women Perfume 100ml",
 "u": "https://feel22.com/products/lattafa-mayar-women-perfume-100ml",
-"p": 21.86,
-"c": 27.32,
+"p": 27.32,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/LaRoche-PosayEffaclarDuo_Cream_GelMoussantGift-2023-11-28T114915.648.png?v=1701164650&width=400",
 "type": "Perfume For Her",
@@ -40669,16 +40470,15 @@
 "LATT925",
 "LATTAFA525",
 "lattafa725",
-"MAJOR725",
-"OCT26"
+"MAJOR725"
 ],
 "in": true
 },
 {
 "t": "Lattafa Yara Tous Women Perfume 100ml",
 "u": "https://feel22.com/products/lattfa-yara-tous-eau-de-parfum",
-"p": 21.86,
-"c": 27.32,
+"p": 27.32,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/LaRoche-PosayEffaclarDuo_Cream_GelMoussantGift-2023-11-28T120956.690.png?v=1701165908&width=400",
 "type": "Perfume For Her",
@@ -40690,15 +40490,15 @@
 "LATTAFA525",
 "lattafa725",
 "lattafabf",
-"OCT26"
+"SD2023"
 ],
 "in": true
 },
 {
 "t": "Lattafa Hayaati Al Malaky Perfume 100ml",
 "u": "https://feel22.com/products/lattafa-hayaati-al-malaky-eau-de-parfum",
-"p": 15.02,
-"c": 18.78,
+"p": 18.78,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/289_1_538dbbb6-63e1-48b1-9c24-3f7c2d65aac9.png?v=1697554264&width=400",
 "type": "Perfume For Him",
@@ -40709,16 +40509,16 @@
 "LATTAFA525",
 "lattafa725",
 "MAJOR725",
-"OCT26",
-"papaday"
+"papaday",
+"SD2023"
 ],
 "in": false
 },
 {
 "t": "Lattafa Ramz Lattafa Silver Men Perfume 100ml",
 "u": "https://feel22.com/products/lattafa-ramz-lattafa-silver-men-perfume",
-"p": 15.02,
-"c": 18.78,
+"p": 18.78,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/7_cf3b5234-2d88-471b-be97-d63d06f48f7a.png?v=1693481757&width=400",
 "type": "Perfume For Him",
@@ -40727,18 +40527,18 @@
 "EVERYTHING",
 "LATT925",
 "lattafabf",
-"OCT26",
 "SD2023",
 "SDCOLLECTION",
-"Sdd"
+"Sdd",
+"VAL2024HIM"
 ],
 "in": true
 },
 {
 "t": "Lattafa Hareem Al Sultan Women Perfume",
 "u": "https://feel22.com/products/lattafa-hareem-al-sultan-women-perfume",
-"p": 13.32,
-"c": 16.65,
+"p": 16.65,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/50_85b0d251-46a3-4488-befb-746538df354d.png?v=1693490815&width=400",
 "type": "Perfume For Her",
@@ -40746,16 +40546,15 @@
 "ANNIVERSARYBRANDS",
 "EVERYTHING",
 "LATT925",
-"LATTAFA525",
-"OCT26"
+"LATTAFA525"
 ],
 "in": true
 },
 {
 "t": "Lattafa Ekhtiari Unisex Perfume",
 "u": "https://feel22.com/products/lattafa-ekhtiari-unisex-perfume",
-"p": 13.66,
-"c": 17.08,
+"p": 17.08,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/60_b6e7213f-beef-4eeb-a4a1-a4fdbb31401a.png?v=1693554536&width=400",
 "type": "Unisex Perfume",
@@ -40765,17 +40564,17 @@
 "LATT925",
 "LATTAFA225",
 "lattafabf",
-"OCT26",
 "papaday",
-"SD2023"
+"SD2023",
+"Sdd"
 ],
 "in": true
 },
 {
 "t": "Lattafa Badee Al Oud Amethyst Women Perfume",
 "u": "https://feel22.com/products/lattafa-badee-al-oud-amethyst-women-perfume",
-"p": 27.32,
-"c": 34.15,
+"p": 34.15,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/64_cbc941d8-f592-432c-9a33-ee5fb223c9cf.png?v=1693555043&width=400",
 "type": "Perfume For Her",
@@ -40787,15 +40586,15 @@
 "LATTAFA525",
 "lattafa725",
 "lattafabf",
-"OCT26"
+"SD2023"
 ],
 "in": true
 },
 {
 "t": "Lattafa Ajwad Women Perfume",
 "u": "https://feel22.com/products/lattafa-ajwad-women-perfume",
-"p": 20.5,
-"c": 25.62,
+"p": 25.62,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/80.png?v=1693556834&width=400",
 "type": "Perfume For Her",
@@ -40807,7 +40606,7 @@
 "LATTAFA525",
 "lattafa725",
 "lattafabf",
-"OCT26"
+"SD2023"
 ],
 "in": false
 },
@@ -41582,15 +41381,14 @@
 {
 "t": "Indolor Chlorhexidine Mouthwash 300ml",
 "u": "https://feel22.com/products/indolor-chlorhexidine-mouthwash",
-"p": 7.44,
-"c": 9.3,
+"p": 9.3,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/grid-2023-05-16T103907.492.png?v=1684222563&width=400",
 "type": "Mouthwash",
 "tags": [
 "3rdMIXBF25",
 "EVERYTHING",
-"OCT26",
 "pharma",
 "pharmakey1224",
 "PHARMAKEY125",
@@ -41602,8 +41400,8 @@
 {
 "t": "TrioPharm TrioNails Fast & Effective Nail Treatment 15ml",
 "u": "https://feel22.com/products/triopharm-trionails-fast-effective-nail-treatment-15ml",
-"p": 15.14,
-"c": 18.93,
+"p": 18.93,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/Trionails1.jpg?v=1681808318&width=400",
 "type": "Nail Care",
@@ -41612,10 +41410,10 @@
 "EIDSALE2026",
 "EVERYTHING",
 "novofferspharma",
-"OCT26",
 "phanniversary",
 "pharma",
-"PHARMAALL"
+"PHARMAALL",
+"PHARMAALL2.0"
 ],
 "in": true
 },
@@ -42634,15 +42432,14 @@
 {
 "t": "Wibo Aqua Grip Fixing Spray",
 "u": "https://feel22.com/products/wibo-aqua-grip-fixing-spray",
-"p": 6.4,
-"c": 8.0,
+"p": 8.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/WiboAquaGripFixingSpray.png?v=1771848769&width=400",
 "type": "Setting Spray",
 "tags": [
 "FEBSKU26",
 "MUPSKINALL926",
-"OCT26",
 "WIBO426",
 "WIZE826"
 ],
@@ -42850,8 +42647,8 @@
 {
 "t": "Wibo Fixing Spray",
 "u": "https://feel22.com/products/wibo-fixing-spray",
-"p": 5.6,
-"c": 7.0,
+"p": 7.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/WiboFixingSpray.png?v=1761315263&width=400",
 "type": "Setting Spray",
@@ -42859,7 +42656,6 @@
 "ANNIVERSARYBRANDS",
 "EVERYTHING",
 "MUPSKINALL926",
-"OCT26",
 "tag1",
 "WIBO325",
 "WIBO426",
@@ -43431,8 +43227,8 @@
 {
 "t": "Beesline Radiant Bright Underarm Serum Cucumber & Green Tea",
 "u": "https://feel22.com/products/beesline-radiant-bright-underarm-serum-cucumber-green-tea",
-"p": 6.3,
-"c": 10.5,
+"p": 10.5,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/pachotscelines_99_6c9dedfb-7def-4cda-97aa-bd059bcededd.png?v=1736953231&width=400",
 "type": "Unisex Deodorant",
@@ -43451,8 +43247,8 @@
 {
 "t": "Beesline Radiant Bright Underarm Serum Fragrance Free",
 "u": "https://feel22.com/products/beesline-radiant-bright-underarm-serum-fragrance-free",
-"p": 6.3,
-"c": 10.5,
+"p": 10.5,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/pachotscelines_97_4c066cce-eef9-473a-afd1-e373f2757058.png?v=1736953187&width=400",
 "type": "Unisex Deodorant",
@@ -43471,8 +43267,8 @@
 {
 "t": "Vichy 48 Hour Mineral Spray Deodorant 125ml",
 "u": "https://feel22.com/products/vichy-48-hour-mineral-aluminum-free-spray-deodorant-50ml",
-"p": 10.72,
-"c": 14.29,
+"p": 14.29,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/3337875553155_1.jpg?v=1690987201&width=400",
 "type": "Deodorant For Her",
@@ -43687,15 +43483,14 @@
 {
 "t": "Wibo Nam New Contouring Pressed Powder",
 "u": "https://feel22.com/products/wibo-nam-new-contouring-pressed-powder",
-"p": 8.8,
-"c": 11.0,
+"p": 11.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/WiboNamContouringPressedPowder_2Naked.png?v=1771364187&width=400",
 "type": "Contour",
 "tags": [
 "FEBSKU26",
 "MUPSKINALL926",
-"OCT26",
 "WIBO426",
 "WIZE826"
 ],
@@ -43704,15 +43499,14 @@
 {
 "t": "Wibo Pink Off Setting Loose Powder",
 "u": "https://feel22.com/products/wibo-pink-off-setting-loose-powder",
-"p": 4.8,
-"c": 6.0,
+"p": 6.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/WiboPinkOffSettingLoosePowder.png?v=1771363793&width=400",
 "type": "Powder",
 "tags": [
 "FEBSKU26",
 "MUPSKINALL926",
-"OCT26",
 "WIBO426",
 "WIZE826"
 ],
@@ -43879,8 +43673,8 @@
 {
 "t": "Wibo Highlighter Flawless Goddess",
 "u": "https://feel22.com/products/wibo-highlighter-flawless-goddess",
-"p": 6.0,
-"c": 7.5,
+"p": 7.5,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/WiboHighlighterFlawlessGoddess.png?v=1776435423&width=400",
 "type": "Highlighter",
@@ -43890,9 +43684,9 @@
 "BESTOF2023",
 "EVERYTHING",
 "MK15",
-"OCT26",
 "raneemsami",
-"SD2023"
+"SD2023",
+"tag1"
 ],
 "in": false
 },
@@ -44241,8 +44035,8 @@
 {
 "t": "Triopharm TrioT Wash 280ml",
 "u": "https://feel22.com/products/triopharm-triot-wash-280ml",
-"p": 13.24,
-"c": 16.55,
+"p": 16.55,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshotstemp_9_32c3f26f-ecec-4b13-aa95-78532b0f613d.png?v=1740994928&width=400",
 "type": "Mouthwash",
@@ -44250,7 +44044,6 @@
 "EASTERSALE26PHARMA",
 "EIDSALE2026",
 "EVERYTHING",
-"OCT26",
 "PHARMAALL",
 "PHARMAALL2.0",
 "PHARMAW/OLDB",
@@ -44314,8 +44107,8 @@
 {
 "t": "Essie Bachelorette Bach 563 Nail Polish",
 "u": "https://feel22.com/products/essie-bachelorette-bach-563-nail-polish",
-"p": 5.99,
-"c": 7.49,
+"p": 7.49,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/30095328.jpg?v=1599651288&width=400",
 "type": "Nail Polish",
@@ -44334,8 +44127,8 @@
 {
 "t": "Vichy Liftactiv Collagen Specialist Eye Care Cream Anti-Ageing 15ml",
 "u": "https://feel22.com/products/vichy-liftactiv-collagen-specialist-eye-care-cream-anti-ageing-15ml",
-"p": 29.05,
-"c": 38.73,
+"p": 38.73,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshotstemp-Lynn_3_a76ca0bf-5467-4103-8efb-729f16ebd054.png?v=1742821253&width=400",
 "type": "Day and Night Cream",
@@ -44424,15 +44217,14 @@
 {
 "t": "Schwarzkopf Taft Wet Look Effect Styling Gel",
 "u": "https://feel22.com/products/schwarzkopf-taft-wet-look-effect-styling-gel",
-"p": 3.01,
-"c": 4.01,
+"p": 4.01,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/SchwarzkopfTaftWetLookEffectStylingGel.png?v=1757487825&width=400",
 "type": "Hair Styling",
 "tags": [
 "EVERYTHING",
 "OCP826",
-"OCT26",
 "taft726",
 "taftmen"
 ],
@@ -44606,8 +44398,8 @@
 {
 "t": "L'Oréal Paris Paradise Extatic Waterproof Mascara",
 "u": "https://feel22.com/products/loreal-paris-paradise-extatic-waterproof-mascara",
-"p": 11.92,
-"c": 14.9,
+"p": 14.9,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/191919_1.png?v=1697118551&width=400",
 "type": "Mascara",
@@ -45109,15 +44901,14 @@
 {
 "t": "Wibo Wild Plum Liquid Eyeliner",
 "u": "https://feel22.com/products/wibo-wild-plum-liquid-eyeliner",
-"p": 3.6,
-"c": 4.5,
+"p": 4.5,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/WiboWildPlumLiquidEyeliner.png?v=1771238316&width=400",
 "type": "Eyeliner",
 "tags": [
 "FEBSKU26",
 "MUPSKINALL926",
-"OCT26",
 "WIBO426",
 "WIZE826"
 ],
@@ -45126,15 +44917,14 @@
 {
 "t": "Wibo Nam Touch Of Color Blush",
 "u": "https://feel22.com/products/wibo-nam-touch-of-color-blush",
-"p": 8.0,
-"c": 10.0,
+"p": 10.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/WiboNamTouchOfColorBlush_4Sunkissed.png?v=1771238353&width=400",
 "type": "Blush",
 "tags": [
 "FEBSKU26",
 "MUPSKINALL926",
-"OCT26",
 "pink26",
 "WIBO426",
 "WIZE826"
@@ -45144,14 +44934,13 @@
 {
 "t": "Wibo Nam Glass Highlighter",
 "u": "https://feel22.com/products/wibo-nam-glass-highlighter",
-"p": 7.2,
-"c": 9.0,
+"p": 9.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/WiboNamGlassHighlighter_1LIGHTCHASER.png?v=1771239446&width=400",
 "type": "Highlighter",
 "tags": [
 "FEBSKU26",
-"OCT26",
 "WIBO426",
 "WIZE826"
 ],
@@ -45160,15 +44949,14 @@
 {
 "t": "Wibo Lovely Perfect Line Lip Liner",
 "u": "https://feel22.com/products/wibo-lovely-perfect-line-lip-liner",
-"p": 2.8,
-"c": 3.5,
+"p": 3.5,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Wibo_Lovely_Perfect_Line_Lip_Liner_09.png?v=1775733255&width=400",
 "type": "Lip Liner",
 "tags": [
 "FEBSKU26",
 "MUPSKINALL926",
-"OCT26",
 "WIBO426",
 "WIZE826"
 ],
@@ -45177,15 +44965,14 @@
 {
 "t": "Wibo Lovely Double Shot 2 In 1 Lip And Cheek Blush",
 "u": "https://feel22.com/products/wibo-lovely-double-shot-2-in-1-lip-and-cheek-blush",
-"p": 3.6,
-"c": 4.5,
+"p": 4.5,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/WiboLovelyDoubleShot2In1CheekBlushAndLipBalm.png?v=1771240078&width=400",
 "type": "Blush",
 "tags": [
 "FEBSKU26",
 "MUPSKINALL926",
-"OCT26",
 "WIBO426",
 "WIZE826"
 ],
@@ -45194,15 +44981,14 @@
 {
 "t": "Wibo Lovely Floral Fantasy Lip Oil",
 "u": "https://feel22.com/products/wibo-lovely-floral-fantasy-lip-oil",
-"p": 3.6,
-"c": 4.5,
+"p": 4.5,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/WiboLovelyFloralFantasyLipOil1FloralFantasy.png?v=1771240027&width=400",
 "type": "Lip Oil",
 "tags": [
 "FEBSKU26",
 "MUPSKINALL926",
-"OCT26",
 "WIBO426",
 "WIZE826"
 ],
@@ -45211,15 +44997,14 @@
 {
 "t": "Wibo Nam Styling Brow Mascara",
 "u": "https://feel22.com/products/wibo-nam-styling-brow-mascara",
-"p": 6.4,
-"c": 8.0,
+"p": 8.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/WiboNamStylingBrowMascara1CoolAshBrown.png?v=1771240254&width=400",
 "type": "Eyebrows",
 "tags": [
 "FEBSKU26",
 "MUPSKINALL926",
-"OCT26",
 "WIBO426",
 "WIZE826"
 ],
@@ -45228,15 +45013,14 @@
 {
 "t": "Wibo Nam Loose Mineral Foundation",
 "u": "https://feel22.com/products/wibo-nam-loose-mineral-foundation",
-"p": 4.8,
-"c": 6.0,
+"p": 6.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/WiboNamLooseMineralFoundation1NAKED.png?v=1771240319&width=400",
 "type": "Foundation",
 "tags": [
 "FEBSKU26",
 "MUPSKINALL926",
-"OCT26",
 "WIBO426",
 "WIZE826"
 ],
@@ -45245,15 +45029,14 @@
 {
 "t": "Wibo Nam Bronzing Face Pressed Powder",
 "u": "https://feel22.com/products/wibo-nam-bronzing-face-pressed-powder",
-"p": 8.8,
-"c": 11.0,
+"p": 11.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/WiboNamBronzingFacePressedPowder1Cappuccino.png?v=1771240536&width=400",
 "type": "Bronzer",
 "tags": [
 "FEBSKU26",
 "MUPSKINALL926",
-"OCT26",
 "WIBO426",
 "WIZE826"
 ],
@@ -45262,15 +45045,14 @@
 {
 "t": "Wibo Million Dollar Lip Liner",
 "u": "https://feel22.com/products/wibo-million-dollar-lip-liner",
-"p": 3.2,
-"c": 4.0,
+"p": 4.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/WiboMillionDollarLipLiner12.png?v=1771240549&width=400",
 "type": "Lip Liner",
 "tags": [
 "FEBSKU26",
 "MUPSKINALL926",
-"OCT26",
 "WIBO426",
 "WIZE826"
 ],
@@ -45279,15 +45061,14 @@
 {
 "t": "Wibo Hottie Baked Blush",
 "u": "https://feel22.com/products/wibo-hottie-baked-blush",
-"p": 5.2,
-"c": 6.5,
+"p": 6.5,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/WiboHottieBakedBlusher03.png?v=1771240559&width=400",
 "type": "Blush",
 "tags": [
 "FEBSKU26",
 "MUPSKINALL926",
-"OCT26",
 "WIBO426",
 "WIZE826"
 ],
@@ -45296,15 +45077,14 @@
 {
 "t": "Wibo 2 Hot 2 Handle 2 In 1 Double Eyepencil And Eyeliner",
 "u": "https://feel22.com/products/wibo-2-hot-2-handle-2-in-1-double-eyepencil-and-eyeliner",
-"p": 5.6,
-"c": 7.0,
+"p": 7.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Wibo2Hot2Handle2In1DoubleEyepencilAndEyeliner.png?v=1771240677&width=400",
 "type": "Eyeliner",
 "tags": [
 "FEBSKU26",
 "MUPSKINALL926",
-"OCT26",
 "WIBO426",
 "WIZE826"
 ],
@@ -45313,8 +45093,8 @@
 {
 "t": "Wibo Panoramic Lashes Mascara",
 "u": "https://feel22.com/products/wibo-panoramic-lashes-mascara",
-"p": 5.2,
-"c": 6.5,
+"p": 6.5,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/2_f127eb2e-7ef2-4c9d-ba3b-fb17e966e3cc.png?v=1694419265&width=400",
 "type": "Mascara",
@@ -45322,11 +45102,11 @@
 "ANNIVERSARYBRANDS",
 "EVERYTHING",
 "MUPSKINALL926",
-"OCT26",
 "raneemsami",
 "SD2023",
 "tag1",
-"WIBO325"
+"WIBO325",
+"WIBO426"
 ],
 "in": true
 },
@@ -45836,8 +45616,8 @@
 {
 "t": "Beesline Whitening Eye Contour Cream Spf30",
 "u": "https://feel22.com/products/beesline-whitening-eye-contour-cream-spf30-30-ml",
-"p": 4.46,
-"c": 7.44,
+"p": 7.44,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshots-2024-01-02T162224.637.png?v=1704735453&width=400",
 "type": "Eye Cream",
@@ -45856,8 +45636,8 @@
 {
 "t": "Beesline Moisturizing Body Lotion Honey & Olive Oil 400ml",
 "u": "https://feel22.com/products/beesline-moisturizing-body-lotion-honey-olive-oil-400ml",
-"p": 3.49,
-"c": 5.82,
+"p": 5.82,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/BestOftemplate2023-2024-01-05T152227.398.png?v=1731678140&width=400",
 "type": "Body Lotion and Oil",
@@ -45876,8 +45656,8 @@
 {
 "t": "Beesline Keratin Shampoo 400ml",
 "u": "https://feel22.com/products/beesline-keratin-shampoo-400ml",
-"p": 1.61,
-"c": 2.69,
+"p": 2.69,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/BestOftemplate2023_f0d69861-8175-44a3-bccc-602dca454690.png?v=1704194869&width=400",
 "type": "Shampoo",
@@ -45896,8 +45676,8 @@
 {
 "t": "Beesline Instant Bright Day Cream",
 "u": "https://feel22.com/products/beesline-instant-white-day-cream",
-"p": 9.09,
-"c": 15.15,
+"p": 15.15,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/3760139254039_54.png?v=1675156697&width=400",
 "type": "Day and Night Cream",
@@ -45916,8 +45696,8 @@
 {
 "t": "Beesline Express Eye Contour Whitening Mask",
 "u": "https://feel22.com/products/beesline-eye-contour-whitening-mask-20-g",
-"p": 0.98,
-"c": 1.64,
+"p": 1.64,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshots_86_aa1b29c0-d0da-42f3-a555-3d7018c31f0a.png?v=1704201707&width=400",
 "type": "Eye Mask",
@@ -45936,8 +45716,8 @@
 {
 "t": "Beesline Express Facial Lifting Mask",
 "u": "https://feel22.com/products/beesline-facial-lifting-mask-20-g",
-"p": 0.98,
-"c": 1.64,
+"p": 1.64,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshots_90_c170ead9-539a-4b44-b7dd-2a68d893e39c.png?v=1704721604&width=400",
 "type": "Face Mask",
@@ -45956,8 +45736,8 @@
 {
 "t": "Essie Break Fix Liquid Nail Care and Treatment Patch",
 "u": "https://feel22.com/products/essie-break-fix-liquid-nail-care-and-treatment-patch",
-"p": 7.37,
-"c": 9.21,
+"p": 9.21,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/EssieBreakFixLiquidNailCareandTreatmentPatch.png?v=1770373565&width=400",
 "type": "Nail Care",
@@ -45968,8 +45748,7 @@
 "CPDPW626",
 "CPDTODO426",
 "ESSIE826",
-"FEBSKU26",
-"OCT26"
+"FEBSKU26"
 ],
 "in": false
 },
@@ -46702,8 +46481,8 @@
 {
 "t": "Azalia Lip & Cheek Tint New container 3X BIGGER",
 "u": "https://feel22.com/products/azalia-lip-cheek-tint-new-container-3x-bigger",
-"p": 7.49,
-"c": 9.99,
+"p": 9.99,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/AzaliaN1RedRoseLip_CheekTint.png?v=1770133987&width=400",
 "type": "Lip Gloss and Lip Tint",
@@ -46714,16 +46493,15 @@
 "AZAL726",
 "azalia526",
 "FEBSKU26",
-"MUPSKINALL926",
-"OCT26"
+"MUPSKINALL926"
 ],
 "in": true
 },
 {
 "t": "Azalia Bebe Plump With Light Red Tint Strong Instant Lip Plumper",
 "u": "https://feel22.com/products/azalia-bebe-plump-with-light-red-tint-strong-instant-lip-plumper",
-"p": 14.99,
-"c": 19.99,
+"p": 19.99,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/AzaliaBebePlumpWithLightRedTintStrongInstantLipPlumper.png?v=1770134428&width=400",
 "type": "Lip Gloss and Lip Tint",
@@ -46732,16 +46510,15 @@
 "AZAL426",
 "azalia526",
 "FEBSKU26",
-"MUPSKINALL926",
-"OCT26"
+"MUPSKINALL926"
 ],
 "in": true
 },
 {
 "t": "Azalia Bebe Plump Strong Instant Lip Plumper",
 "u": "https://feel22.com/products/azalia-bebe-plump-strong-instant-lip-plumper",
-"p": 13.32,
-"c": 17.76,
+"p": 17.76,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/AzaliaBebePlumpStrongInstantLipPlumper.png?v=1770134346&width=400",
 "type": "Lip Gloss and Lip Tint",
@@ -46750,16 +46527,15 @@
 "AZAL426",
 "azalia526",
 "FEBSKU26",
-"MUPSKINALL926",
-"OCT26"
+"MUPSKINALL926"
 ],
 "in": true
 },
 {
 "t": "Etiaxil Anti Transpirant Tolerance 48H Aerosol",
 "u": "https://feel22.com/products/etiaxil-anti-transpirant-tolerance-48h-aerosol",
-"p": 11.25,
-"c": 15.0,
+"p": 15.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/EtiaxilAntiTranspirantTolerance48HAerosol150ml.png?v=1770192234&width=400",
 "type": "Unisex Deodorant",
@@ -46778,8 +46554,8 @@
 {
 "t": "Etiaxil Anti Transpirant Tolerance 48H Roll On",
 "u": "https://feel22.com/products/etiaxil-anti-transpirant-tolerance-48h-roll-on",
-"p": 11.25,
-"c": 15.0,
+"p": 15.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/EtiaxilAntiTranspirantTolerance48HRollOn.png?v=1770192520&width=400",
 "type": "Unisex Deodorant",
@@ -46798,8 +46574,8 @@
 {
 "t": "Etiaxil Detranspirant Roll On Sensitive Skin 15ml",
 "u": "https://feel22.com/products/etiaxil-detranspirant-roll-on-sensitive-skin-15ml",
-"p": 15.75,
-"c": 21.0,
+"p": 21.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/LaRoche-PosayEffaclarDuo_Cream_GelMoussantGift_49.png?v=1686731320&width=400",
 "type": "Deodorant For Her",
@@ -46818,8 +46594,8 @@
 {
 "t": "Etiaxil Men Antiperspirant 48h Control Aerosol 150ml",
 "u": "https://feel22.com/products/etiaxil-men-antiperspirant-48h-control-aerosol-150ml",
-"p": 9.75,
-"c": 13.0,
+"p": 13.0,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/Packshots_16_11fb102b-e024-490e-9c33-e9c32d6f2cf8.png?v=1666272948&width=400",
 "type": "Deodorant For Him",
@@ -46838,8 +46614,8 @@
 {
 "t": "Etiaxil Antiperspirant 48h Protection Aerosol 150ml",
 "u": "https://feel22.com/products/etiaxil-antiperspirant-48h-protection-aerosol-150ml",
-"p": 12.0,
-"c": 16.0,
+"p": 16.0,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/Packshots_6_0839e435-3486-4a2b-8c11-45bf35f3168c.png?v=1666259654&width=400",
 "type": "Deodorant For Her",
@@ -46858,8 +46634,8 @@
 {
 "t": "Etiaxil Antiperspirant Sensitive Skin Armpits Roll-On",
 "u": "https://feel22.com/products/etiaxil-antiperspirant-normal-skin-armpits-roll-on",
-"p": 12.76,
-"c": 17.01,
+"p": 17.01,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/Packshots_3_2f9fbcbc-e07d-4e7a-915c-5cd5b3d15d3c.png?v=1668594552&width=400",
 "type": "Deodorant For Her",
@@ -46878,8 +46654,8 @@
 {
 "t": "Etiaxil Detranspirant Normal Skin Armpits Roll-On",
 "u": "https://feel22.com/products/etiaxil-detranspirant-sensitive-skin-armpits-roll-on",
-"p": 12.76,
-"c": 17.01,
+"p": 17.01,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/BestOftemplate2023_5_cbedb7f1-3660-4e73-b721-9097723319b1.png?v=1731681699&width=400",
 "type": "Deodorant For Her",
@@ -46899,14 +46675,13 @@
 "t": "Khan El Kaser Body Lotion - Random Scent (Reward)",
 "u": "https://feel22.com/products/khan-el-kaser-body-lotion-random-scent-reward",
 "p": 0.0,
-"c": 0.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/KhanElKaserBodyLotion-RandomScent_Reward.png?v=1770208371&width=400",
 "type": "Reward",
 "tags": [
 "Hidden recommendation",
 "KEK626",
-"OCT26",
 "raneemsami",
 "SEARCHANISE_IGNORE"
 ],
@@ -47313,8 +47088,8 @@
 {
 "t": "Flormar Breathing Color 001 Clear Nail Polish",
 "u": "https://feel22.com/products/flormar-breathing-color-001-clear-nail-polish",
-"p": 3.89,
-"c": 5.55,
+"p": 5.55,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarBreathingColorNailEnamel001Clear.png?v=1769466010&width=400",
 "type": "Nail Polish",
@@ -47322,16 +47097,15 @@
 "FLMN",
 "flormar226",
 "flormar826",
-"JANSKU26",
-"OCT26"
+"JANSKU26"
 ],
 "in": false
 },
 {
 "t": "Flormar Quick Dry 001 Transparent Nail Drops",
 "u": "https://feel22.com/products/flormar-quick-dry-001-transparent-nail-drops",
-"p": 9.91,
-"c": 14.15,
+"p": 14.15,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarQuickDry001TransparentNailDrops.png?v=1767955855&width=400",
 "type": "Nail Care",
@@ -47340,16 +47114,15 @@
 "FLMN",
 "flormar226",
 "flormar826",
-"JANSKU26",
-"OCT26"
+"JANSKU26"
 ],
 "in": false
 },
 {
 "t": "Flormar Jelly Look Nail Enamel JL52 Barbie Nail Polish",
 "u": "https://feel22.com/products/flormar-jelly-look-nail-enamel-jl52-barbie-nail-polish",
-"p": 4.08,
-"c": 5.83,
+"p": 5.83,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Flormar_Jelly_Look_Nail_Enamel_JL52_Barbie_Nail_Polish.png?v=1767955990&width=400",
 "type": "Nail Polish",
@@ -47358,16 +47131,15 @@
 "FLMN",
 "flormar226",
 "flormar826",
-"JANSKU26",
-"OCT26"
+"JANSKU26"
 ],
 "in": false
 },
 {
 "t": "Flormar Jelly Look Nail Enamel JL37 Marmelade Nail Polish",
 "u": "https://feel22.com/products/flormar-jelly-look-nail-enamel-jl37-marmelade-nail-polish",
-"p": 4.08,
-"c": 5.83,
+"p": 5.83,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarJellyLookNailEnamelJL37MarmeladeNailPolish.png?v=1767956078&width=400",
 "type": "Nail Polish",
@@ -47376,16 +47148,15 @@
 "FLMN",
 "flormar226",
 "flormar826",
-"JANSKU26",
-"OCT26"
+"JANSKU26"
 ],
 "in": true
 },
 {
 "t": "Flormar Breathing Color Nail Enamel 018 Rich Girl Nail Polish",
 "u": "https://feel22.com/products/flormar-breathing-color-nail-enamel-018-rich-girl-nail-polish",
-"p": 3.89,
-"c": 5.55,
+"p": 5.55,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarBreathingColorNailEnamel018RichGirlNailPolish.png?v=1767956116&width=400",
 "type": "Nail Polish",
@@ -47394,16 +47165,15 @@
 "FLMN",
 "flormar226",
 "flormar826",
-"JANSKU26",
-"OCT26"
+"JANSKU26"
 ],
 "in": false
 },
 {
 "t": "Flormar Breathing Color Nail Enamel 016 Happy With You Nail Polish",
 "u": "https://feel22.com/products/flormar-breathing-color-nail-enamel-016-happy-with-you-nail-polish",
-"p": 3.89,
-"c": 5.55,
+"p": 5.55,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarBreathingColorNailEnamel016HappyWithYouNailPolish.png?v=1767956133&width=400",
 "type": "Nail Polish",
@@ -47412,16 +47182,15 @@
 "FLMN",
 "flormar226",
 "flormar826",
-"JANSKU26",
-"OCT26"
+"JANSKU26"
 ],
 "in": false
 },
 {
 "t": "Flormar Breathing Color Nail Enamel 012 Burgundy Nail Polish",
 "u": "https://feel22.com/products/flormar-breathing-color-nail-enamel-012-burgundy-nail-polish",
-"p": 3.89,
-"c": 5.55,
+"p": 5.55,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarBreathingColorNailEnamel012BurgundyNailPolish.png?v=1767956258&width=400",
 "type": "Nail Polish",
@@ -47430,16 +47199,15 @@
 "FLMN",
 "flormar226",
 "flormar826",
-"JANSKU26",
-"OCT26"
+"JANSKU26"
 ],
 "in": false
 },
 {
 "t": "Flormar Full Color Nail Enamel FC45 Peach Sparkler Nail Polish",
 "u": "https://feel22.com/products/flormar-full-color-nail-enamel-fc45-peach-sparkler-nail-polish",
-"p": 2.53,
-"c": 3.61,
+"p": 3.61,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarFullColorNailEnamelFC45PeachSparklerNailPolish.png?v=1767956277&width=400",
 "type": "Nail Polish",
@@ -47448,16 +47216,15 @@
 "FLMN",
 "flormar226",
 "flormar826",
-"JANSKU26",
-"OCT26"
+"JANSKU26"
 ],
 "in": true
 },
 {
 "t": "Flormar Full Color Nail Enamel FC36 Crystal Glam Nail Polish",
 "u": "https://feel22.com/products/flormar-full-color-nail-enamel-fc36-crystal-glam-nail-polish",
-"p": 2.53,
-"c": 3.61,
+"p": 3.61,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarFullColorNailEnamelFC36CrystalGlamNailPolish.png?v=1767956281&width=400",
 "type": "Nail Polish",
@@ -47466,16 +47233,15 @@
 "FLMN",
 "flormar226",
 "flormar826",
-"JANSKU26",
-"OCT26"
+"JANSKU26"
 ],
 "in": true
 },
 {
 "t": "Flormar Full Color Nail Enamel FC02 Love Dust Nail Polish",
 "u": "https://feel22.com/products/flormar-full-color-nail-enamel-fc02-love-dust-nail-polish",
-"p": 2.53,
-"c": 3.61,
+"p": 3.61,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarFullColorNailEnamelFC02LoveDustNailPolish.png?v=1767956329&width=400",
 "type": "Nail Polish",
@@ -47484,16 +47250,15 @@
 "FLMN",
 "flormar226",
 "flormar826",
-"JANSKU26",
-"OCT26"
+"JANSKU26"
 ],
 "in": true
 },
 {
 "t": "Flormar Nail Enamel 555 Flare Nail Polish",
 "u": "https://feel22.com/products/flormar-nail-enamel-555-flare-nail-polish",
-"p": 2.53,
-"c": 3.61,
+"p": 3.61,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarNailEnamel555FlareNailPolish.png?v=1767874581&width=400",
 "type": "Nail Polish",
@@ -47502,16 +47267,15 @@
 "FLMN",
 "flormar226",
 "flormar826",
-"JANSKU26",
-"OCT26"
+"JANSKU26"
 ],
 "in": true
 },
 {
 "t": "Flormar Nail Enamel 554 Diamond Nail Polish",
 "u": "https://feel22.com/products/flormar-nail-enamel-554-diamond-nail-polish",
-"p": 2.53,
-"c": 3.61,
+"p": 3.61,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarNailEnamel554DiamondNailPolish.png?v=1767874616&width=400",
 "type": "Nail Polish",
@@ -47520,16 +47284,15 @@
 "FLMN",
 "flormar226",
 "flormar826",
-"JANSKU26",
-"OCT26"
+"JANSKU26"
 ],
 "in": true
 },
 {
 "t": "Flormar Nail Enamel 541 Autumn Story Nail Polish",
 "u": "https://feel22.com/products/flormar-nail-enamel-541-autumn-story-nail-polish",
-"p": 2.53,
-"c": 3.61,
+"p": 3.61,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarNailEnamel541AutumnStoryNailPolish.png?v=1767874824&width=400",
 "type": "Nail Polish",
@@ -47538,16 +47301,15 @@
 "FLMN",
 "flormar226",
 "flormar826",
-"JANSKU26",
-"OCT26"
+"JANSKU26"
 ],
 "in": true
 },
 {
 "t": "Flormar Nail Enamel 313 Black Minimalism Nail Polish",
 "u": "https://feel22.com/products/flormar-nail-enamel-313-black-minimalism-nail-polish",
-"p": 2.53,
-"c": 3.61,
+"p": 3.61,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarNailEnamel313BlackMinimalismNailPolish.png?v=1767874902&width=400",
 "type": "Nail Polish",
@@ -47556,16 +47318,15 @@
 "FLMN",
 "flormar226",
 "flormar826",
-"JANSKU26",
-"OCT26"
+"JANSKU26"
 ],
 "in": true
 },
 {
 "t": "Flormar Nail Enamel 301 Glass Effect Nail Polish",
 "u": "https://feel22.com/products/flormar-nail-enamel-301-glass-effect-nail-polish",
-"p": 2.53,
-"c": 3.61,
+"p": 3.61,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarNailEnamel301GlassEffectNailPolish.png?v=1767874953&width=400",
 "type": "Nail Polish",
@@ -47574,16 +47335,15 @@
 "FLMN",
 "flormar226",
 "flormar826",
-"JANSKU26",
-"OCT26"
+"JANSKU26"
 ],
 "in": true
 },
 {
 "t": "Flormar Nail Enamel 128 Bordeaux Scream Nail Polish",
 "u": "https://feel22.com/products/flormar-nail-enamel-128-bordeaux-scream-nail-polish",
-"p": 2.53,
-"c": 3.61,
+"p": 3.61,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarNailEnamel128BordeauxScreamNailPolish.png?v=1767874973&width=400",
 "type": "Nail Polish",
@@ -47592,16 +47352,15 @@
 "FLMN",
 "flormar226",
 "flormar826",
-"JANSKU26",
-"OCT26"
+"JANSKU26"
 ],
 "in": true
 },
 {
 "t": "Flormar Nourishing Oil Vitamin E Cuticle Care",
 "u": "https://feel22.com/products/flormar-nourishing-oil-vitamin-e-cuticle-care",
-"p": 5.83,
-"c": 8.33,
+"p": 8.33,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarNourishingOilVitaminECuticleCare.png?v=1767875752&width=400",
 "type": "Nail Care",
@@ -47610,16 +47369,15 @@
 "FLMN",
 "flormar226",
 "flormar826",
-"JANSKU26",
-"OCT26"
+"JANSKU26"
 ],
 "in": false
 },
 {
 "t": "Flormar Acetone Free Nail Polish Remover",
 "u": "https://feel22.com/products/flormar-acetone-free-nail-polish-remover",
-"p": 5.05,
-"c": 7.22,
+"p": 7.22,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarAcetoneFreeNailPolishRemover.png?v=1767876036&width=400",
 "type": "Nail Polish Remover",
@@ -47628,16 +47386,15 @@
 "FLMN",
 "flormar226",
 "flormar826",
-"JANSKU26",
-"OCT26"
+"JANSKU26"
 ],
 "in": false
 },
 {
 "t": "Flormar Expert Nail Polish Remover",
 "u": "https://feel22.com/products/flormar-expert-nail-polish-remover",
-"p": 5.05,
-"c": 7.22,
+"p": 7.22,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarExpertNailPolishRemover.png?v=1767876062&width=400",
 "type": "Nail Polish Remover",
@@ -47646,16 +47403,15 @@
 "FLMN",
 "flormar226",
 "flormar826",
-"JANSKU26",
-"OCT26"
+"JANSKU26"
 ],
 "in": false
 },
 {
 "t": "Flormar Eye Makeup Remover",
 "u": "https://feel22.com/products/flormar-eye-makeup-remover",
-"p": 11.27,
-"c": 16.1,
+"p": 16.1,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarEyeMakeupRemover.png?v=1767876076&width=400",
 "type": "Makeup Remover",
@@ -47665,16 +47421,15 @@
 "flormar226",
 "flormar826",
 "JANSKU26",
-"MUPSKINALL926",
-"OCT26"
+"MUPSKINALL926"
 ],
 "in": false
 },
 {
 "t": "Flormar Sunscreen Stick Spf50",
 "u": "https://feel22.com/products/flormar-sunscreen-stick-spf50",
-"p": 21.76,
-"c": 31.08,
+"p": 31.08,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarSunscreenStickSpf50-001Transparent.png?v=1767876355&width=400",
 "type": "Sun Protection",
@@ -47684,16 +47439,15 @@
 "flormar226",
 "flormar826",
 "JANSKU26",
-"MUPSKINALL926",
-"OCT26"
+"MUPSKINALL926"
 ],
 "in": true
 },
 {
 "t": "Flormar Blush-On Powder Blush",
 "u": "https://feel22.com/products/flormar-blush-on-powder-blush",
-"p": 11.85,
-"c": 16.93,
+"p": 16.93,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarBlush-On102RosePink.png?v=1767882587&width=400",
 "type": "Blush",
@@ -47703,16 +47457,15 @@
 "flormar226",
 "flormar826",
 "JANSKU26",
-"MUPSKINALL926",
-"OCT26"
+"MUPSKINALL926"
 ],
 "in": true
 },
 {
 "t": "Flormar Dewy Bomb Serum & Primer",
 "u": "https://feel22.com/products/flormar-dewy-bomb-serum-primer",
-"p": 18.26,
-"c": 26.09,
+"p": 26.09,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarDewyBombSerum_Primer.png?v=1767792226&width=400",
 "type": "Primer",
@@ -47722,16 +47475,15 @@
 "flormar226",
 "flormar826",
 "JANSKU26",
-"MUPSKINALL926",
-"OCT26"
+"MUPSKINALL926"
 ],
 "in": true
 },
 {
 "t": "Flormar Hydro Bomb Serum & Primer",
 "u": "https://feel22.com/products/flormar-hydro-bomb-serum-primer",
-"p": 18.26,
-"c": 26.09,
+"p": 26.09,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarHydroBombSerum_Primer.png?v=1767810353&width=400",
 "type": "Primer",
@@ -47741,16 +47493,15 @@
 "flormar226",
 "flormar826",
 "JANSKU26",
-"MUPSKINALL926",
-"OCT26"
+"MUPSKINALL926"
 ],
 "in": true
 },
 {
 "t": "Flormar Double Radiance Highlighter Primer",
 "u": "https://feel22.com/products/flormar-double-radiance-highlighter-primer",
-"p": 23.7,
-"c": 33.86,
+"p": 33.86,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarDoubleRadianceHighlighterPrimer-001Champagne.png?v=1767867075&width=400",
 "type": "Primer",
@@ -47760,16 +47511,15 @@
 "flormar226",
 "flormar826",
 "JANSKU26",
-"MUPSKINALL926",
-"OCT26"
+"MUPSKINALL926"
 ],
 "in": true
 },
 {
 "t": "Flormar Illuminating Plus Makeup Primer",
 "u": "https://feel22.com/products/flormar-illuminating-plus-makeup-primer",
-"p": 13.99,
-"c": 19.98,
+"p": 19.98,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarIlluminatingPlusMakeupPrimer.png?v=1767867700&width=400",
 "type": "Primer",
@@ -47779,16 +47529,15 @@
 "flormar226",
 "flormar826",
 "JANSKU26",
-"MUPSKINALL926",
-"OCT26"
+"MUPSKINALL926"
 ],
 "in": true
 },
 {
 "t": "Flormar Hero Volume & Curl Brown Mascara",
 "u": "https://feel22.com/products/flormar-hero-volume-curl-brown-mascara",
-"p": 18.84,
-"c": 26.92,
+"p": 26.92,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarHeroVolume_CurlBrownMascara.png?v=1767700138&width=400",
 "type": "Mascara",
@@ -47798,16 +47547,15 @@
 "flormar226",
 "flormar826",
 "JANSKU26",
-"MUPSKINALL926",
-"OCT26"
+"MUPSKINALL926"
 ],
 "in": true
 },
 {
 "t": "Flormar Carefull Volume Mascara",
 "u": "https://feel22.com/products/flormar-carefull-volume-mascara",
-"p": 19.82,
-"c": 28.31,
+"p": 28.31,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarCarefullVolumeMascara.png?v=1767700082&width=400",
 "type": "Mascara",
@@ -47817,16 +47565,15 @@
 "flormar226",
 "flormar826",
 "JANSKU26",
-"MUPSKINALL926",
-"OCT26"
+"MUPSKINALL926"
 ],
 "in": true
 },
 {
 "t": "Flormar Gel Eyeliner",
 "u": "https://feel22.com/products/flormar-gel-eyeliner",
-"p": 13.6,
-"c": 19.43,
+"p": 19.43,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarGelEyeliner-01GelBlack.png?v=1767700842&width=400",
 "type": "Eyeliner",
@@ -47836,16 +47583,15 @@
 "flormar226",
 "flormar826",
 "JANSKU26",
-"MUPSKINALL926",
-"OCT26"
+"MUPSKINALL926"
 ],
 "in": true
 },
 {
 "t": "Flormar Hero Volume & Curl Waterproof Mascara",
 "u": "https://feel22.com/products/flormar-hero-volume-curl-waterproof-mascara",
-"p": 18.84,
-"c": 26.92,
+"p": 26.92,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarHeroVolume_CurlWaterproofMascara.png?v=1767700926&width=400",
 "type": "Mascara",
@@ -47855,16 +47601,15 @@
 "flormar226",
 "flormar826",
 "JANSKU26",
-"MUPSKINALL926",
-"OCT26"
+"MUPSKINALL926"
 ],
 "in": true
 },
 {
 "t": "Flormar Hero Volume & Curl Mascara",
 "u": "https://feel22.com/products/flormar-hero-volume-curl-mascara",
-"p": 18.84,
-"c": 26.92,
+"p": 26.92,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarHeroVolume_CurlMascara.png?v=1767700931&width=400",
 "type": "Mascara",
@@ -47874,16 +47619,15 @@
 "flormar226",
 "flormar826",
 "JANSKU26",
-"MUPSKINALL926",
-"OCT26"
+"MUPSKINALL926"
 ],
 "in": false
 },
 {
 "t": "Flormar Dipliner Eyeliner",
 "u": "https://feel22.com/products/flormar-dipliner-eyeliner",
-"p": 8.16,
-"c": 11.66,
+"p": 11.66,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarDiplinerEyeliner.png?v=1767701178&width=400",
 "type": "Eyeliner",
@@ -47893,16 +47637,15 @@
 "flormar226",
 "flormar826",
 "JANSKU26",
-"MUPSKINALL926",
-"OCT26"
+"MUPSKINALL926"
 ],
 "in": true
 },
 {
 "t": "Flormar Eyebrow Fixator Mascara",
 "u": "https://feel22.com/products/flormar-eyebrow-fixator-mascara",
-"p": 12.43,
-"c": 17.76,
+"p": 17.76,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarEyebrowFixatorMascara.png?v=1767701415&width=400",
 "type": "Eyebrows",
@@ -47912,16 +47655,15 @@
 "flormar226",
 "flormar826",
 "JANSKU26",
-"MUPSKINALL926",
-"OCT26"
+"MUPSKINALL926"
 ],
 "in": false
 },
 {
 "t": "Flormar Breathing Color Nail Enamel Top Coat",
 "u": "https://feel22.com/products/flormar-breathing-color-nail-enamel-top-coat",
-"p": 3.89,
-"c": 5.55,
+"p": 5.55,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarBreathingColorNailEnamelTopCoat.png?v=1769465942&width=400",
 "type": "Nail Care",
@@ -47929,16 +47671,15 @@
 "FLMN",
 "flormar226",
 "flormar826",
-"JANSKU26",
-"OCT26"
+"JANSKU26"
 ],
 "in": true
 },
 {
 "t": "Flormar Perfect Legs Foundation",
 "u": "https://feel22.com/products/flormar-perfect-legs-foundation",
-"p": 23.89,
-"c": 34.13,
+"p": 34.13,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarPerfectLegsFoundation-01Light.png?v=1769466410&width=400",
 "type": "Foundation",
@@ -47947,16 +47688,15 @@
 "flormar226",
 "flormar826",
 "JANSKU26",
-"MUPSKINALL926",
-"OCT26"
+"MUPSKINALL926"
 ],
 "in": true
 },
 {
 "t": "Flormar Color Treasure Mascara",
 "u": "https://feel22.com/products/flormar-color-treasure-mascara",
-"p": 17.87,
-"c": 25.53,
+"p": 25.53,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarColorTreasure001SapphireMascara.png?v=1767955271&width=400",
 "type": "Mascara",
@@ -47965,16 +47705,15 @@
 "flormar226",
 "flormar826",
 "JANSKU26",
-"MUPSKINALL926",
-"OCT26"
+"MUPSKINALL926"
 ],
 "in": true
 },
 {
 "t": "Flormar Silk Matte Liquid Lipstick",
 "u": "https://feel22.com/products/flormar-silk-matte-liquid-lipstick",
-"p": 11.85,
-"c": 16.93,
+"p": 16.93,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarSilkMatteLiquidLipstick-02FallRose.png?v=1767955574&width=400",
 "type": "Lipstick",
@@ -47983,16 +47722,15 @@
 "flormar226",
 "flormar826",
 "JANSKU26",
-"MUPSKINALL926",
-"OCT26"
+"MUPSKINALL926"
 ],
 "in": true
 },
 {
 "t": "Flormar Jelly Look Nail Enamel JL51 Perfect Selfie Nail Polish",
 "u": "https://feel22.com/products/flormar-jelly-look-nail-enamel-jl51-perfect-selfie-nail-polish",
-"p": 4.08,
-"c": 5.83,
+"p": 5.83,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarJellyLookNailEnamelJL51PerfectSelfieNailPolish.png?v=1767956069&width=400",
 "type": "Nail Polish",
@@ -48001,16 +47739,15 @@
 "FLMN",
 "flormar226",
 "flormar826",
-"JANSKU26",
-"OCT26"
+"JANSKU26"
 ],
 "in": true
 },
 {
 "t": "Flormar Jelly Look Nail Enamel JL35 Crystal Blue Nail Polish",
 "u": "https://feel22.com/products/flormar-jelly-look-nail-enamel-jl35-crystal-blue-nail-polish",
-"p": 4.08,
-"c": 5.83,
+"p": 5.83,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarJellyLookNailEnamelJL35CrystalBlueNailPolish.png?v=1767956086&width=400",
 "type": "Nail Polish",
@@ -48019,16 +47756,15 @@
 "FLMN",
 "flormar226",
 "flormar826",
-"JANSKU26",
-"OCT26"
+"JANSKU26"
 ],
 "in": true
 },
 {
 "t": "Flormar 4 In 1 Complete Care Redesign Base & Top Coat",
 "u": "https://feel22.com/products/flormar-4-in-1-complete-care-redesign-base-top-coat",
-"p": 5.83,
-"c": 8.33,
+"p": 8.33,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Flormar4In1CompleteCareRedesignBase_TopCoat_63ca49e3-e5d0-4cfe-800a-da2326e6b751.png?v=1767875632&width=400",
 "type": "Nail Care",
@@ -48037,16 +47773,15 @@
 "FLMN",
 "flormar226",
 "flormar826",
-"JANSKU26",
-"OCT26"
+"JANSKU26"
 ],
 "in": true
 },
 {
 "t": "Flormar Calcium Gel Base Coat",
 "u": "https://feel22.com/products/flormar-calcium-gel-base-coat",
-"p": 5.83,
-"c": 8.33,
+"p": 8.33,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarCalciumGelBaseCoat.png?v=1767875669&width=400",
 "type": "Nail Care",
@@ -48055,16 +47790,15 @@
 "FLMN",
 "flormar226",
 "flormar826",
-"JANSKU26",
-"OCT26"
+"JANSKU26"
 ],
 "in": true
 },
 {
 "t": "Flormar Nail Polish Drying Spray",
 "u": "https://feel22.com/products/flormar-nail-polish-drying-spray",
-"p": 11.27,
-"c": 16.1,
+"p": 16.1,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarNailPolishDryingSpray.png?v=1767876089&width=400",
 "type": "Nail Care",
@@ -48073,16 +47807,15 @@
 "FLMN",
 "flormar226",
 "flormar826",
-"JANSKU26",
-"OCT26"
+"JANSKU26"
 ],
 "in": true
 },
 {
 "t": "Flormar Micellar Cleansing Water",
 "u": "https://feel22.com/products/flormar-micellar-cleansing-water",
-"p": 9.32,
-"c": 13.32,
+"p": 13.32,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarMicellarCleansingWater.png?v=1767876115&width=400",
 "type": "Makeup Remover",
@@ -48092,16 +47825,15 @@
 "flormar226",
 "flormar826",
 "JANSKU26",
-"MUPSKINALL926",
-"OCT26"
+"MUPSKINALL926"
 ],
 "in": true
 },
 {
 "t": "Flormar Tinted Moisturizer Spf50",
 "u": "https://feel22.com/products/flormar-tinted-moisturizer-spf50",
-"p": 18.84,
-"c": 26.92,
+"p": 26.92,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarTintedMoisturizerSpf50002SoftBeige.png?v=1767876198&width=400",
 "type": "BB and CC Cream",
@@ -48111,16 +47843,15 @@
 "flormar226",
 "flormar826",
 "JANSKU26",
-"MUPSKINALL926",
-"OCT26"
+"MUPSKINALL926"
 ],
 "in": true
 },
 {
 "t": "Flormar Blossom Creamy Blush",
 "u": "https://feel22.com/products/flormar-blossom-creamy-blush",
-"p": 12.82,
-"c": 18.32,
+"p": 18.32,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarBlossomCreamyBlush001PetiteTulip.png?v=1767882974&width=400",
 "type": "Blush",
@@ -48130,16 +47861,15 @@
 "flormar226",
 "flormar826",
 "JANSKU26",
-"MUPSKINALL926",
-"OCT26"
+"MUPSKINALL926"
 ],
 "in": true
 },
 {
 "t": "Flormar Mood Booster Blush",
 "u": "https://feel22.com/products/flormar-mood-booster-blush",
-"p": 14.38,
-"c": 20.54,
+"p": 20.54,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarMoodBoosterBlush-002ImmortalFlower.png?v=1767876387&width=400",
 "type": "Blush",
@@ -48149,16 +47879,15 @@
 "flormar226",
 "flormar826",
 "JANSKU26",
-"MUPSKINALL926",
-"OCT26"
+"MUPSKINALL926"
 ],
 "in": true
 },
 {
 "t": "Flormar Puffy Liquid Contour",
 "u": "https://feel22.com/products/flormar-puffy-liquid-contour",
-"p": 18.65,
-"c": 26.64,
+"p": 26.64,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarPuffyLiquidContour-001Amber.png?v=1767882798&width=400",
 "type": "Contour",
@@ -48168,16 +47897,15 @@
 "flormar226",
 "flormar826",
 "JANSKU26",
-"MUPSKINALL926",
-"OCT26"
+"MUPSKINALL926"
 ],
 "in": true
 },
 {
 "t": "Flormar Baked Powder",
 "u": "https://feel22.com/products/flormar-baked-powder",
-"p": 17.87,
-"c": 25.53,
+"p": 25.53,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarBakedPowder-021BeigeWithGold.png?v=1767882368&width=400",
 "type": "Powder",
@@ -48187,16 +47915,15 @@
 "flormar226",
 "flormar826",
 "JANSKU26",
-"MUPSKINALL926",
-"OCT26"
+"MUPSKINALL926"
 ],
 "in": true
 },
 {
 "t": "Flormar Baked Blush-On Blush",
 "u": "https://feel22.com/products/flormar-baked-blush-on-blush",
-"p": 16.9,
-"c": 24.14,
+"p": 24.14,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarBakedBlush-On-040ShimmerPink.png?v=1767881512&width=400",
 "type": "Blush",
@@ -48206,16 +47933,15 @@
 "flormar226",
 "flormar826",
 "JANSKU26",
-"MUPSKINALL926",
-"OCT26"
+"MUPSKINALL926"
 ],
 "in": true
 },
 {
 "t": "Flormar Bronzing Powder",
 "u": "https://feel22.com/products/flormar-bronzing-powder",
-"p": 18.84,
-"c": 26.92,
+"p": 26.92,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarBronzingPowder-002RoseGold.png?v=1767881306&width=400",
 "type": "Bronzer",
@@ -48225,16 +47951,15 @@
 "flormar226",
 "flormar826",
 "JANSKU26",
-"MUPSKINALL926",
-"OCT26"
+"MUPSKINALL926"
 ],
 "in": true
 },
 {
 "t": "Flormar Banana Pudding Loose Powder",
 "u": "https://feel22.com/products/flormar-banana-pudding-loose-powder",
-"p": 18.84,
-"c": 26.92,
+"p": 26.92,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarBananaPuddingLoosePowder.png?v=1767876493&width=400",
 "type": "Powder",
@@ -48244,16 +47969,15 @@
 "flormar226",
 "flormar826",
 "JANSKU26",
-"MUPSKINALL926",
-"OCT26"
+"MUPSKINALL926"
 ],
 "in": true
 },
 {
 "t": "Flormar Loose Powder",
 "u": "https://feel22.com/products/flormar-loose-powder",
-"p": 15.74,
-"c": 22.48,
+"p": 22.48,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarLoosePowder001PaleSand.png?v=1767876845&width=400",
 "type": "Powder",
@@ -48263,16 +47987,15 @@
 "flormar226",
 "flormar826",
 "JANSKU26",
-"MUPSKINALL926",
-"OCT26"
+"MUPSKINALL926"
 ],
 "in": true
 },
 {
 "t": "Flormar Perfect Coverage Foundation",
 "u": "https://feel22.com/products/flormar-perfect-coverage-foundation",
-"p": 18.84,
-"c": 26.92,
+"p": 26.92,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarPerfectCoverageFoundation-100LightIvory.png?v=1767877027&width=400",
 "type": "Foundation",
@@ -48282,16 +48005,15 @@
 "flormar226",
 "flormar826",
 "JANSKU26",
-"MUPSKINALL926",
-"OCT26"
+"MUPSKINALL926"
 ],
 "in": true
 },
 {
 "t": "Flormar Perfect Coverage Touch Foundation",
 "u": "https://feel22.com/products/flormar-perfect-coverage-touch-foundation",
-"p": 18.84,
-"c": 26.92,
+"p": 26.92,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarPerfectCoverageTouchFoundation-301SftBeige.png?v=1767877344&width=400",
 "type": "Foundation",
@@ -48301,16 +48023,15 @@
 "flormar226",
 "flormar826",
 "JANSKU26",
-"MUPSKINALL926",
-"OCT26"
+"MUPSKINALL926"
 ],
 "in": true
 },
 {
 "t": "Flormar Perfect Coverage Liquid Concealer",
 "u": "https://feel22.com/products/flormar-perfect-coverage-liquid-concealer",
-"p": 10.49,
-"c": 14.99,
+"p": 14.99,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarPerfectCoverageLiquidConcealer-02Ivory.png?v=1767884494&width=400",
 "type": "Concealer and Corrector",
@@ -48320,16 +48041,15 @@
 "flormar226",
 "flormar826",
 "JANSKU26",
-"MUPSKINALL926",
-"OCT26"
+"MUPSKINALL926"
 ],
 "in": true
 },
 {
 "t": "Flormar Stay Perfect Concealer",
 "u": "https://feel22.com/products/flormar-stay-perfect-concealer",
-"p": 13.99,
-"c": 19.98,
+"p": 19.98,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarStayPerfectConcealer-001Fair.png?v=1767883113&width=400",
 "type": "Concealer and Corrector",
@@ -48339,16 +48059,15 @@
 "flormar226",
 "flormar826",
 "JANSKU26",
-"MUPSKINALL926",
-"OCT26"
+"MUPSKINALL926"
 ],
 "in": true
 },
 {
 "t": "Flormar Glam Strobing Cream",
 "u": "https://feel22.com/products/flormar-glam-strobing-cream",
-"p": 13.99,
-"c": 19.98,
+"p": 19.98,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarGlamStrobingCream-01Silver.png?v=1767877124&width=400",
 "type": "Highlighter",
@@ -48357,16 +48076,15 @@
 "FLMF",
 "flormar226",
 "flormar826",
-"JANSKU26",
-"OCT26"
+"JANSKU26"
 ],
 "in": true
 },
 {
 "t": "Flormar BB Cream",
 "u": "https://feel22.com/products/flormar-bb-cream",
-"p": 11.46,
-"c": 16.37,
+"p": 16.37,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarBBCream-01Fair.png?v=1767791795&width=400",
 "type": "BB and CC Cream",
@@ -48376,16 +48094,15 @@
 "flormar226",
 "flormar826",
 "JANSKU26",
-"MUPSKINALL926",
-"OCT26"
+"MUPSKINALL926"
 ],
 "in": true
 },
 {
 "t": "Flormar CC Cream",
 "u": "https://feel22.com/products/flormar-cc-cream",
-"p": 12.24,
-"c": 17.48,
+"p": 17.48,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarCCCream-01Anti-Dullness.png?v=1767791890&width=400",
 "type": "BB and CC Cream",
@@ -48395,16 +48112,15 @@
 "flormar226",
 "flormar826",
 "JANSKU26",
-"MUPSKINALL926",
-"OCT26"
+"MUPSKINALL926"
 ],
 "in": true
 },
 {
 "t": "Flormar All Day Fix Setting Spray",
 "u": "https://feel22.com/products/flormar-all-day-fix-setting-spray",
-"p": 13.99,
-"c": 19.98,
+"p": 19.98,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarAllDayFixSettingSpray.png?v=1767867122&width=400",
 "type": "Setting Spray",
@@ -48414,16 +48130,15 @@
 "flormar226",
 "flormar826",
 "JANSKU26",
-"MUPSKINALL926",
-"OCT26"
+"MUPSKINALL926"
 ],
 "in": true
 },
 {
 "t": "Flormar All Day Fix Matte Setting Spray",
 "u": "https://feel22.com/products/flormar-all-day-fix-matte-setting-spray",
-"p": 13.99,
-"c": 19.98,
+"p": 19.98,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarAllDayFixMatteSettingSpray_8f5e1a6d-fb1c-4e04-9452-10246fa6f401.png?v=1767866985&width=400",
 "type": "Setting Spray",
@@ -48433,16 +48148,15 @@
 "flormar226",
 "flormar826",
 "JANSKU26",
-"MUPSKINALL926",
-"OCT26"
+"MUPSKINALL926"
 ],
 "in": true
 },
 {
 "t": "Flormar Illuminating Makeup Base Primer",
 "u": "https://feel22.com/products/flormar-illuminating-makeup-base-primer",
-"p": 15.16,
-"c": 21.65,
+"p": 21.65,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarIlluminatingMakeupBasePrimer.png?v=1767867031&width=400",
 "type": "Primer",
@@ -48452,16 +48166,15 @@
 "flormar226",
 "flormar826",
 "JANSKU26",
-"MUPSKINALL926",
-"OCT26"
+"MUPSKINALL926"
 ],
 "in": true
 },
 {
 "t": "Flormar Pore Minimizer Makeup Primer",
 "u": "https://feel22.com/products/flormar-pore-minimizer-makeup-primer",
-"p": 13.99,
-"c": 19.98,
+"p": 19.98,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarPoreMinimizerMakeupPrimer.png?v=1767867742&width=400",
 "type": "Primer",
@@ -48471,16 +48184,15 @@
 "flormar226",
 "flormar826",
 "JANSKU26",
-"MUPSKINALL926",
-"OCT26"
+"MUPSKINALL926"
 ],
 "in": true
 },
 {
 "t": "Flormar Brow Micro Filler Pen",
 "u": "https://feel22.com/products/flormar-brow-micro-filler-pen",
-"p": 11.27,
-"c": 16.1,
+"p": 16.1,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarBrowMicroFillerPen-01LightBrown.png?v=1767871518&width=400",
 "type": "Eyebrows",
@@ -48490,16 +48202,15 @@
 "flormar226",
 "flormar826",
 "JANSKU26",
-"MUPSKINALL926",
-"OCT26"
+"MUPSKINALL926"
 ],
 "in": true
 },
 {
 "t": "Flormar All I Need Face Palette",
 "u": "https://feel22.com/products/flormar-all-i-need-face-palette",
-"p": 21.76,
-"c": 31.08,
+"p": 31.08,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarAllINeedFacePalette.png?v=1767871464&width=400",
 "type": "Face Palette",
@@ -48509,16 +48220,15 @@
 "flormar226",
 "flormar826",
 "JANSKU26",
-"MUPSKINALL926",
-"OCT26"
+"MUPSKINALL926"
 ],
 "in": true
 },
 {
 "t": "Flormar Baked Eyeshadow",
 "u": "https://feel22.com/products/flormar-baked-eyeshadow",
-"p": 12.05,
-"c": 17.21,
+"p": 17.21,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarBakedEyeshadow-001Beige.png?v=1767871370&width=400",
 "type": "Eyeshadow",
@@ -48528,16 +48238,15 @@
 "flormar226",
 "flormar826",
 "JANSKU26",
-"MUPSKINALL926",
-"OCT26"
+"MUPSKINALL926"
 ],
 "in": true
 },
 {
 "t": "Flormar Color Eyeshadow Palette",
 "u": "https://feel22.com/products/flormar-color-eyeshadow-palette",
-"p": 15.34,
-"c": 21.92,
+"p": 21.92,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarColorEyeshadowPalette-001RisingStar.png?v=1767870487&width=400",
 "type": "Eyeshadow",
@@ -48547,16 +48256,15 @@
 "flormar226",
 "flormar826",
 "JANSKU26",
-"MUPSKINALL926",
-"OCT26"
+"MUPSKINALL926"
 ],
 "in": true
 },
 {
 "t": "Flormar Eyeshadow Palette",
 "u": "https://feel22.com/products/flormar-eyeshadow-palette",
-"p": 18.84,
-"c": 26.92,
+"p": 26.92,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarEyeshadowPalette-001FallenAngel.png?v=1767870332&width=400",
 "type": "Eyeshadow",
@@ -48566,16 +48274,15 @@
 "flormar226",
 "flormar826",
 "JANSKU26",
-"MUPSKINALL926",
-"OCT26"
+"MUPSKINALL926"
 ],
 "in": true
 },
 {
 "t": "Flormar Extreme Tattoo Gel Pencil",
 "u": "https://feel22.com/products/flormar-extreme-tattoo-gel-pencil",
-"p": 12.24,
-"c": 17.48,
+"p": 17.48,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarExtremeTattooGelPencil-01GlitzyBrown.png?v=1767869898&width=400",
 "type": "Eyeliner",
@@ -48585,16 +48292,15 @@
 "flormar226",
 "flormar826",
 "JANSKU26",
-"MUPSKINALL926",
-"OCT26"
+"MUPSKINALL926"
 ],
 "in": true
 },
 {
 "t": "Flormar Angled Brow Pencil",
 "u": "https://feel22.com/products/flormar-angled-brow-pencil",
-"p": 13.01,
-"c": 18.59,
+"p": 18.59,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarAngledBrowPencil-01Beige.png?v=1767869329&width=400",
 "type": "Eyebrows",
@@ -48604,16 +48310,15 @@
 "flormar226",
 "flormar826",
 "JANSKU26",
-"MUPSKINALL926",
-"OCT26"
+"MUPSKINALL926"
 ],
 "in": true
 },
 {
 "t": "Flormar Waterproof Eyeliner",
 "u": "https://feel22.com/products/flormar-waterproof-eyeliner",
-"p": 6.99,
-"c": 9.99,
+"p": 9.99,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarWaterproofEyeliner-101BlackIce.png?v=1767869151&width=400",
 "type": "Eyeliner",
@@ -48623,16 +48328,15 @@
 "flormar226",
 "flormar826",
 "JANSKU26",
-"MUPSKINALL926",
-"OCT26"
+"MUPSKINALL926"
 ],
 "in": true
 },
 {
 "t": "Flormar Eyeliner Pen",
 "u": "https://feel22.com/products/flormar-eyeliner-pen",
-"p": 10.88,
-"c": 15.54,
+"p": 15.54,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarEyelinerPen-01Black.png?v=1767868910&width=400",
 "type": "Eyeliner",
@@ -48642,16 +48346,15 @@
 "flormar226",
 "flormar826",
 "JANSKU26",
-"MUPSKINALL926",
-"OCT26"
+"MUPSKINALL926"
 ],
 "in": false
 },
 {
 "t": "Flormar Metaglam Face & Body Glitter",
 "u": "https://feel22.com/products/flormar-metaglam-face-body-glitter",
-"p": 12.82,
-"c": 18.32,
+"p": 18.32,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarMetaglamFace_BodyGlitter001Skyflakes.png?v=1767868707&width=400",
 "type": "Highlighter",
@@ -48660,16 +48363,15 @@
 "FLMF",
 "flormar226",
 "flormar826",
-"JANSKU26",
-"OCT26"
+"JANSKU26"
 ],
 "in": true
 },
 {
 "t": "Flormar To Go Stick Blush",
 "u": "https://feel22.com/products/flormar-to-go-stick-blush",
-"p": 12.05,
-"c": 17.21,
+"p": 17.21,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarToGoStickBlush-01PeachyGlam.png?v=1767699806&width=400",
 "type": "Blush",
@@ -48679,16 +48381,15 @@
 "flormar226",
 "flormar826",
 "JANSKU26",
-"MUPSKINALL926",
-"OCT26"
+"MUPSKINALL926"
 ],
 "in": true
 },
 {
 "t": "Flormar Tinted Brow Gel Mascara",
 "u": "https://feel22.com/products/flormar-tinted-brow-gel-mascara",
-"p": 12.24,
-"c": 17.48,
+"p": 17.48,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarTintedBrowGelMascara-001Beige.png?v=1767701041&width=400",
 "type": "Eyebrows",
@@ -48699,16 +48400,15 @@
 "flormar226",
 "flormar826",
 "JANSKU26",
-"MUPSKINALL926",
-"OCT26"
+"MUPSKINALL926"
 ],
 "in": true
 },
 {
 "t": "Flormar Water Lip Stain",
 "u": "https://feel22.com/products/flormar-water-lip-stain",
-"p": 12.82,
-"c": 18.32,
+"p": 18.32,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarWaterLipStain-002LoveCraft.png?v=1767701507&width=400",
 "type": "Lip Gloss and Lip Tint",
@@ -48718,16 +48418,15 @@
 "flormar226",
 "flormar826",
 "JANSKU26",
-"MUPSKINALL926",
-"OCT26"
+"MUPSKINALL926"
 ],
 "in": true
 },
 {
 "t": "Flormar Dewy Lip Booster Lip Gloss",
 "u": "https://feel22.com/products/flormar-dewy-lip-booster-lip-gloss",
-"p": 12.43,
-"c": 17.76,
+"p": 17.76,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarDewyLipBoosterLipGloss-01Match.png?v=1767701639&width=400",
 "type": "Lip Gloss and Lip Tint",
@@ -48737,16 +48436,15 @@
 "flormar226",
 "flormar826",
 "JANSKU26",
-"MUPSKINALL926",
-"OCT26"
+"MUPSKINALL926"
 ],
 "in": true
 },
 {
 "t": "Flormar Duoglam Lipstick",
 "u": "https://feel22.com/products/flormar-duoglam-lipstick",
-"p": 17.09,
-"c": 24.42,
+"p": 24.42,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarDuoglamLipstick-001DayToNight.png?v=1767612705&width=400",
 "type": "Lipstick",
@@ -48756,16 +48454,15 @@
 "flormar226",
 "flormar826",
 "JANSKU26",
-"MUPSKINALL926",
-"OCT26"
+"MUPSKINALL926"
 ],
 "in": true
 },
 {
 "t": "Flormar Style Matic Lip Liner",
 "u": "https://feel22.com/products/flormar-style-matic-lip-liner",
-"p": 10.88,
-"c": 15.54,
+"p": 15.54,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Flormar_Style_Matic_Lipliner_-SL01_Rosewood.png?v=1767615058&width=400",
 "type": "Lip Liner",
@@ -48775,16 +48472,15 @@
 "flormar226",
 "flormar826",
 "JANSKU26",
-"MUPSKINALL926",
-"OCT26"
+"MUPSKINALL926"
 ],
 "in": true
 },
 {
 "t": "Flormar Waterproof Lip Liner",
 "u": "https://feel22.com/products/flormar-waterproof-lip-liner",
-"p": 6.99,
-"c": 9.99,
+"p": 9.99,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarWaterproofLipliner-201NaturallyNude.png?v=1767616298&width=400",
 "type": "Lip Liner",
@@ -48794,16 +48490,15 @@
 "flormar226",
 "flormar826",
 "JANSKU26",
-"MUPSKINALL926",
-"OCT26"
+"MUPSKINALL926"
 ],
 "in": true
 },
 {
 "t": "Flormar Kiss Me More Lip Tattoo Liquid Lipstick",
 "u": "https://feel22.com/products/flormar-kiss-me-more-lip-tattoo-liquid-lipstick",
-"p": 12.63,
-"c": 18.04,
+"p": 18.04,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarKissMeMoreLipTattooLiquidLipstick-001Babe.png?v=1767619036&width=400",
 "type": "Lipstick",
@@ -48813,16 +48508,15 @@
 "flormar226",
 "flormar826",
 "JANSKU26",
-"MUPSKINALL926",
-"OCT26"
+"MUPSKINALL926"
 ],
 "in": true
 },
 {
 "t": "Flormar Dewy Lip Glaze Lip Gloss",
 "u": "https://feel22.com/products/flormar-dewy-lip-glaze-lip-gloss",
-"p": 12.43,
-"c": 17.76,
+"p": 17.76,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarDewyLipGlazeLipGloss-002LightBeige.png?v=1767622370&width=400",
 "type": "Lip Gloss and Lip Tint",
@@ -48832,16 +48526,15 @@
 "flormar226",
 "flormar826",
 "JANSKU26",
-"MUPSKINALL926",
-"OCT26"
+"MUPSKINALL926"
 ],
 "in": true
 },
 {
 "t": "Flormar Shine Kiss Me More Lip Tattoo Liquid Lipstick",
 "u": "https://feel22.com/products/flormar-shine-kiss-me-more-lip-tattoo-liquid-lipstick",
-"p": 14.38,
-"c": 20.54,
+"p": 20.54,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarShineKissMeMoreLipTattooLiquidLipstick-001HomeOfficeDay.png?v=1767633188&width=400",
 "type": "Lipstick",
@@ -48851,8 +48544,7 @@
 "flormar226",
 "flormar826",
 "JANSKU26",
-"MUPSKINALL926",
-"OCT26"
+"MUPSKINALL926"
 ],
 "in": true
 },
@@ -49290,8 +48982,8 @@
 {
 "t": "L'Oreal Paris Revitalift Laser Day Cream 50ml",
 "u": "https://feel22.com/products/loreal-paris-revitalift-laser-day-cream-50ml",
-"p": 13.19,
-"c": 16.49,
+"p": 16.49,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/1-350x350_0_da71be24-3aa9-4071-b320-d2c9e096b695.jpg?v=1571439874&width=400",
 "type": "Day and Night Cream",
@@ -49310,8 +49002,8 @@
 {
 "t": "L'Oréal Paris, Revitalift Laser x3 Anti-Aging Moisturizing Night Cream, against Wrinkles and Signs of Aging, with Pro-Retinol 50ml",
 "u": "https://feel22.com/products/loreal-paris-revitalift-laser-night-cream-50ml",
-"p": 12.4,
-"c": 15.5,
+"p": 15.5,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/1_dbb105a4-264c-4a34-9b68-40372d35a38f.jpg?v=1728466992&width=400",
 "type": "Day and Night Cream",
@@ -50052,8 +49744,8 @@
 {
 "t": "Khan El Kaser Qamar Body Butter",
 "u": "https://feel22.com/products/khan-el-kaser-qamar-body-butter",
-"p": 14.4,
-"c": 18.0,
+"p": 18.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/KhanElKaserQamarBodyButter.png?v=1768579140&width=400",
 "type": "Body Lotion and Oil",
@@ -50062,7 +49754,6 @@
 "KEK326",
 "KEK626",
 "MUPSKINALL926",
-"OCT26",
 "raneemsami"
 ],
 "in": true
@@ -50070,8 +49761,8 @@
 {
 "t": "Khan El Kaser Qamar Body Oil",
 "u": "https://feel22.com/products/khan-el-kaser-qamar-body-oil",
-"p": 20.0,
-"c": 25.0,
+"p": 25.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/KhanElKaserQamarBodyOil.png?v=1768579191&width=400",
 "type": "Body Lotion and Oil",
@@ -50080,7 +49771,6 @@
 "KEK326",
 "KEK626",
 "MUPSKINALL926",
-"OCT26",
 "raneemsami"
 ],
 "in": true
@@ -50088,8 +49778,8 @@
 {
 "t": "Khan El Kaser Qamar Body Scrub",
 "u": "https://feel22.com/products/khan-el-kaser-qamar-body-scrub",
-"p": 20.0,
-"c": 25.0,
+"p": 25.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/KhanElKaserQamarBodyScrub.png?v=1768579231&width=400",
 "type": "Body Scrubs and Exfoliators",
@@ -50097,7 +49787,6 @@
 "JANSKU26",
 "KEK326",
 "KEK626",
-"OCT26",
 "raneemsami"
 ],
 "in": true
@@ -50105,8 +49794,8 @@
 {
 "t": "Khan El Kaser Ghazal Body Butter",
 "u": "https://feel22.com/products/khan-el-kaser-ghazal-body-butter",
-"p": 14.4,
-"c": 18.0,
+"p": 18.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/KhanElKaserGhazalBodyButter_3db9d853-76c9-4254-93e7-dba1e7764309.png?v=1768579619&width=400",
 "type": "Body Lotion and Oil",
@@ -50115,7 +49804,6 @@
 "KEK326",
 "KEK626",
 "MUPSKINALL926",
-"OCT26",
 "raneemsami"
 ],
 "in": true
@@ -50123,8 +49811,8 @@
 {
 "t": "Khan El Kaser Ghazal Body Oil",
 "u": "https://feel22.com/products/khan-el-kaser-ghazal-body-oil",
-"p": 20.0,
-"c": 25.0,
+"p": 25.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/KhanElKaserGhazalBodyOil.png?v=1768579670&width=400",
 "type": "Body Lotion and Oil",
@@ -50133,7 +49821,6 @@
 "KEK326",
 "KEK626",
 "MUPSKINALL926",
-"OCT26",
 "raneemsami"
 ],
 "in": true
@@ -50141,8 +49828,8 @@
 {
 "t": "Khan El Kaser Ghazal Body Scrub",
 "u": "https://feel22.com/products/khan-el-kaser-ghazal-body-scrub",
-"p": 20.0,
-"c": 25.0,
+"p": 25.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/KhanElKaserGhazalBodyScrub.png?v=1768579724&width=400",
 "type": "Body Scrubs and Exfoliators",
@@ -50150,7 +49837,6 @@
 "JANSKU26",
 "KEK326",
 "KEK626",
-"OCT26",
 "raneemsami"
 ],
 "in": true
@@ -50252,6 +49938,46 @@
 "abheyeshadow",
 "abhgetgift",
 "abhpalettes"
+],
+"in": false
+},
+{
+"t": "Anastasia Beverly Hills Sharpener",
+"u": "https://feel22.com/products/anastasia-beverly-hills-sharpener",
+"p": 9.37,
+"c": 0.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/products/Untitleddesign_52_7000001a-0da5-4692-b3e7-046b4579c725.png?v=1656512742&width=400",
+"type": "Eyebrows",
+"tags": [
+"3RANDO826",
+"ABH1025",
+"ABH1026",
+"ABH1125",
+"ABH325",
+"ABH326",
+"ABH525",
+"ABH826"
+],
+"in": false
+},
+{
+"t": "Anastasia Beverly Hills Contour Kit - Light to Medium",
+"u": "https://feel22.com/products/anastasia-beverly-hills-contour-kit-light-to-medium",
+"p": 67.34,
+"c": 0.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/products/FACE_CONTOURKIT_Powder_LightToMedium_OPTIMIZED.jpg?v=1644309061&width=400",
+"type": "Face Palette",
+"tags": [
+"3RANDO826",
+"ABH1025",
+"ABH1026",
+"ABH1125",
+"ABH325",
+"ABH326",
+"ABH525",
+"ABH826"
 ],
 "in": false
 }
