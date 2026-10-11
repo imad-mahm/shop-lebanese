@@ -1,5 +1,23 @@
 [
 {
+"t": "Gift From Kérastase",
+"u": "https://looliacloset.com/products/gift-from-kerastase",
+"p": 0.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Untitleddesign_52_be74ef7b-a48c-4e4b-9a12-ee17974b040e_2.png?v=1786722331&width=400",
+"type": "GWP",
+"tags": [
+"_appmaker_disable_purchase",
+"GWP",
+"Hidden recommendation",
+"hide_product_status",
+"Kérastase",
+"SEARCHANISE_IGNORE"
+],
+"in": true
+},
+{
 "t": "Buy Klorane Petit Brin Scented Water & get a FREE 100ml Organic Change Cream",
 "u": "https://looliacloset.com/products/buy-klorane-petit-brin-scented-water-get-a-free-100ml-organic-change-cream",
 "p": 15.59,
@@ -96,7 +114,7 @@
 "Garnier",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Fast Bright Serum Cleanser + Day Serum + Overnight Serum + Vitamin C Fresh & Bright Cream At 15% OFF",
@@ -114,7 +132,7 @@
 "Garnier",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Vitamin C Micellar Water + Face Gel Wash + Day Cream + Day Serum At 20% OFF",
@@ -132,7 +150,7 @@
 "Garnier",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Fast Bright Face Wash + Day Serum + Super UV Sunscreen At 20% OFF",
@@ -168,7 +186,7 @@
 "Garnier",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Fast Bright Serum Cleanser + Day Serum At 20% OFF",
@@ -188,7 +206,7 @@
 "TotalGarnier_8/26",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "2x Fresh & Bright Creams + FREE Small Plushies Mochi",
@@ -699,7 +717,7 @@
 "Starry_eyes_OAP",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Lip Comfort Oil Shimmer",
@@ -1072,7 +1090,7 @@
 "L'Oréal Professionnel",
 "New In Haircare"
 ],
-"in": true
+"in": false
 },
 {
 "t": "* Vitamino Color Spectrum Duo Set",
@@ -1145,7 +1163,7 @@
 "le_defile26",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Infaillible Freshwear Liquid Foundation + Extensionist Mascara + Hyaluron Tint Lip Stain Serum + FREE Le Defile Pouch At 25% OFF",
@@ -1344,7 +1362,7 @@
 "NYX Professional Makeup",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Brow Care Kit",
@@ -1384,7 +1402,7 @@
 "check-sets",
 "Christmas Sets | Makeup 2024"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Brush 18 - Precise Conceal Brush",
@@ -1451,7 +1469,7 @@
 "NYX Professional Makeup",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Buttermelt Blush + Loose Setting Powder + FREE Mirror Suction At 20% OFF",
@@ -1468,7 +1486,7 @@
 "NYX Professional Makeup",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Buttermelt Blush + Lip Lingerie Lip Liner + Jelly Job Gloss + FREE Mirror Suction At 20% OFF",
@@ -1485,7 +1503,7 @@
 "NYX Professional Makeup",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Buttermelt Blush + Buttermelt Bronzer + Buttermelt Highlighter + FREE Mirror Suction At 20% OFF",
@@ -1519,7 +1537,7 @@
 "NYX Professional Makeup",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "2x Buttermelt Blush + Free Mirror Suction At 20% OFF",
@@ -1536,7 +1554,7 @@
 "NYX Professional Makeup",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Breakout Control Blemish Treatment Facial Lotion - 60ml",
@@ -1770,7 +1788,7 @@
 "le_defile26",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Telescopic Extensionist Mascara + Hyaluron Tint Serum + Foundation + FREE Le Defile Pouch At 25% OFF",
@@ -1914,7 +1932,7 @@
 "le_defile26",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Panorama Mascara + Concealer + FREE Le Defile Pouch At 20% OFF",
@@ -1932,7 +1950,7 @@
 "le_defile26",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Any 2 Treatments + FREE Le Defile Pouch At 25% OFF",
@@ -1952,7 +1970,7 @@
 "haircare must",
 "L'Oréal Paris"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Gift From Avène: Micellar Water 100 ML",
@@ -2036,7 +2054,7 @@
 "Garnier",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Ultra Doux Honey Treasures Shampoo + Conditioner + Leave-in + Serum + FREE Pair Of Sunglasses At 20% OFF",
@@ -2198,7 +2216,7 @@
 "Garnier",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Fast Bright Face Wash + Day Serum + Super UV Sunscreen + FREE Pair Of Sunglasses At 20% OFF",
@@ -2216,7 +2234,7 @@
 "Garnier",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Fast Clean Face Wash + Micellar Water Facial Anti-Acne + Fast Clear Anti-Acne Serum + FREE Pair of Sunglasses At 15% OFF",
@@ -2251,7 +2269,7 @@
 "Garnier",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Sky High Mascara + Lifter Glaze + Nudes of New York Palette + FREE Pair Of Sunglasses At 25% OFF",
@@ -2344,7 +2362,7 @@
 "L'Oréal Paris",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Elvive Hyaluron Shampoo + Conditioner + Serum + FREE Pair Of Sunglasses At 30% OFF",
@@ -2380,7 +2398,7 @@
 "Gem_It_Up",
 "L'Oréal Paris"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Glycolic-Bright Foam Cleanser + Anti-Dark Spot Exfoliant Peel + Daily UV Fluid + FREE Pair Of Sunglasses At 20% OFF",
@@ -2450,7 +2468,7 @@
 "L'Oréal Paris",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Khamrah Dukhan 100ml",
@@ -2646,7 +2664,7 @@
 "L'Oréal Paris",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Any Ultra Doux Shampoo + Serum At 15% OFF",
@@ -3078,7 +3096,7 @@
 "Gem_It_Up",
 "L'Oréal Paris"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Revitalift Glass Skin Hydrogel Glow Mask + Liquid Cream + FREE Gem Sticker Sheet",
@@ -3095,7 +3113,7 @@
 "Gem_It_Up",
 "L'Oréal Paris"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Gift From L'Oréal Paris : Gem Stickers Mask",
@@ -3530,7 +3548,7 @@
 "Garnier",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Vitamin C Micellar Water + Fast Bright Serum Cleanser + Day Serum + Moisturizer At 25% OFF",
@@ -3548,7 +3566,7 @@
 "Garnier",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Fast Clear Invisible Pimple Patch + Fast Clear Vitamin C Serum At 20% OFF",
@@ -3656,7 +3674,7 @@
 "Garnier",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Honey Treasures Shampoo + Conditioner + Leave in + Serum + FREE Brush At 15% OFF",
@@ -4441,7 +4459,7 @@
 "Garnier",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Plump Ambition Hyaluron Lip Oil + Lumi Le Liquid Blush At 30% OFF",
@@ -4477,7 +4495,7 @@
 "Garnier",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Fast Bright Face Wash + Day Serum 30ml At 15% OFF",
@@ -4495,7 +4513,7 @@
 "Garnier",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Micellar Water Facial Cleanser Pink 700ml + Micellar Water Facial Cleanser Pink 400ml + Micellar Vitamin C Cleansing Water 100ml At 20% OFF",
@@ -4513,7 +4531,7 @@
 "Garnier",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Micellar Water Facial Cleanser Pink 700ml + Micellar Water Facial Cleanser Pink 400ml + Micellar Water Facial Cleanser Pink 100ml At 15% OFF",
@@ -4531,7 +4549,7 @@
 "Garnier",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Skin Active Fast Bright Day Serum + Overnight Serum At 20% OFF",
@@ -4550,7 +4568,7 @@
 "Garnier",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "2x Olia Hair Coloration At 20% OFF",
@@ -4602,7 +4620,7 @@
 "Garnier",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Fast Clear Anti-Acne Serum + Micellar Water Anti-Acne Cleanser 400 ml At 15% OFF",
@@ -5171,7 +5189,7 @@
 "Glass_Skin",
 "L'Oréal Paris"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Gift From Loolia Closet : Water Bottle",
@@ -5423,7 +5441,7 @@
 "NYX Professional Makeup",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Lift & Snatch! Brow Tint Pen + Bare With Me Concealer Serum At 25% OFF",
@@ -5538,7 +5556,7 @@
 "Factorybundle",
 "NYX Professional Makeup"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Buttermelt Glow Boosting Highlighter Stix + Powder Bronzer + FREE Shiny Pouch",
@@ -6122,7 +6140,7 @@
 "cpd-exc-0426",
 "CPD_ALL"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Gift From Loolia Closet: Full Size",
@@ -7681,7 +7699,7 @@
 "NYX Professional Makeup",
 "Nyx_Summer26"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Pro Fix Stick Correcting Concealer + Fat Cheeks Juicy Blush + Buttermelt Glaze Foundation + FREE Pouch",
@@ -7974,7 +7992,7 @@
 "L'Oréal Paris",
 "Skin Glow Edit"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Effaclar Duo+M Acne Treatment Cream + 2x FREE Effaclar Foaming Gel",
@@ -8275,7 +8293,7 @@
 "Skin Glow Edit",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Super UV Cooling Watergel Sunscreen + Serum Sunscreen + FREE Towel Pillow",
@@ -8331,7 +8349,7 @@
 "New In Makeup",
 "Royal Cosmetics"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Pointed Detail R205",
@@ -9835,7 +9853,7 @@
 "Factorybundle",
 "NYX Professional Makeup"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Wonder Snatch Loose Setting Powder + Wonder Snatch Concealer + FREE Powder Puff",
@@ -10991,7 +11009,7 @@
 "Gem_It_Up",
 "Glass_Skin"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Gift From L'Oréal Paris : Glass Skin Purple Hair Pins",
@@ -14058,7 +14076,7 @@
 "Fall_Into_Hydra",
 "Skin Glow Edit"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Hyaluron Activ Procedure Lifting Cream - 0.1% Retinal",
@@ -14781,7 +14799,7 @@
 "Gem_It_Up",
 "Glass_Skin"
 ],
-"in": true
+"in": false
 },
 {
 "t": "2x L’Oréal Revitalift Glass Skin Mask + FREE Hair Pins",
@@ -14801,7 +14819,7 @@
 "Gem_It_Up",
 "Glass_Skin"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Gift From L'Oréal Paris : Glass Skin Purple Pouch",
@@ -16235,7 +16253,7 @@
 "FEATURED_PRODUCTS",
 "Gem_It_Up"
 ],
-"in": true
+"in": false
 },
 {
 "t": "L’Oréal Revitalift Glass Skin Liquid Cream",
@@ -16275,7 +16293,7 @@
 "L'Oréal Paris",
 "Skin Glow Edit"
 ],
-"in": true
+"in": false
 },
 {
 "t": "L’Oréal Glycolic-Bright Bundle: Cleanser, Serum, Night Cream + FREE Pouch At 15% OFF",
@@ -17138,7 +17156,7 @@
 "Eyelash Curler",
 "Makeup Tools"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Bizu Silky Matt Blush",
@@ -17754,7 +17772,7 @@
 "NYX Professional Makeup",
 "nyx_Faceglue"
 ],
-"in": true
+"in": false
 },
 {
 "t": "NYX Face Glue Bundle – Primer, Setting Spray & Brow Glue Kit + Free Pouch",
@@ -17772,7 +17790,7 @@
 "NYX Professional Makeup",
 "nyx_Faceglue"
 ],
-"in": true
+"in": false
 },
 {
 "t": "NYX Face Glue & Bare With Me Bundle – Primer, Foundation & Concealer + Free Pouch",
@@ -25151,7 +25169,7 @@
 "in": false
 },
 {
-"t": "Ultra Doux with Camomile and Flower Honey Illuminating Conditioner",
+"t": "Ultra Doux Chamomile and Flower Honey Illuminating Conditioner",
 "u": "https://looliacloset.com/products/ultra-doux-with-camomile-and-flower-honey-illuminating-conditioner",
 "p": 4.06,
 "c": null,
@@ -27758,7 +27776,7 @@
 "CPD_FS26",
 "Epic_Inky"
 ],
-"in": true
+"in": false
 },
 {
 "t": "On The Rise Volume Liftscara Mascara",
@@ -28018,7 +28036,7 @@
 "Epic_Inky",
 "FEATURED_PRODUCTS"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Powder Louder, Brow Pencil, 12Hr Wear, Buildable Micro-Fibers",
@@ -36953,7 +36971,7 @@
 "Disney Pixar Up",
 "Eid_offer26"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Disney Pixar Up Eyeshadow Brush",
@@ -40407,26 +40425,6 @@
 "christmas-sets-2025",
 "discount-20-and-under",
 "Featured Products"
-],
-"in": false
-},
-{
-"t": "Fresh Affair Dry Shampoo",
-"u": "https://looliacloset.com/products/fresh-affair-dry-shampoo",
-"p": 33.79,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2298/5927/files/KerastaseDryShampoo.jpg?v=1752666769&width=400",
-"type": "Dry Shampoo",
-"tags": [
-"BP_France",
-"budget20_50",
-"check-sets",
-"discount-20-and-under",
-"dry shampoo",
-"haircare must",
-"Kérastase",
-"LC Anniversary 2025"
 ],
 "in": false
 },
@@ -49851,7 +49849,7 @@
 "check-sets",
 "Day4_Ramadan"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Blemish Control Cleanser Face Wash For Acne & Blemish Prone Skin",
