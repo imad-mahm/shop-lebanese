@@ -1,5 +1,60 @@
 [
 {
+"t": "D31 The Freeflow Curl Definer & Styler",
+"u": "https://curlygirlaccessories.com/product/d31-the-freeflow-curl-definer-styler/",
+"p": 23.95,
+"c": null,
+"cur": "USD",
+"img": "https://curlygirlaccessories.com/wp-content/uploads/2026/10/D31F031SBLK_1_ea533788-b480-4aa2-a987-082691f58b6f-300x300.webp",
+"type": "Brushes &amp; Combs, Tools &amp; Accessories",
+"tags": [],
+"in": true
+},
+{
+"t": "Beesline Daily Use Shampoo 150 ML",
+"u": "https://curlygirlaccessories.com/product/beesline-daily-use-shampoo-150-ml/",
+"p": 4.4,
+"c": null,
+"cur": "USD",
+"img": "https://curlygirlaccessories.com/wp-content/uploads/2026/10/daily_20use_20shampoo4_1080x_86811777-f8d3-4570-b567-86fe13add289-300x300.jpg",
+"type": "Hair Care, Shampoo",
+"tags": [],
+"in": true
+},
+{
+"t": "Aussie Curls Shampoo – 600ml",
+"u": "https://curlygirlaccessories.com/product/aussie-curls-shampoo-600ml/",
+"p": 12.0,
+"c": null,
+"cur": "USD",
+"img": "https://curlygirlaccessories.com/wp-content/uploads/2026/10/NewList_4-300x300.webp",
+"type": "",
+"tags": [],
+"in": true
+},
+{
+"t": "Aussie Repair & Reconstruct Hair Mask 300ml",
+"u": "https://curlygirlaccessories.com/product/aussie-repair-reconstruct-hair-mask-300ml/",
+"p": 12.0,
+"c": null,
+"cur": "USD",
+"img": "https://curlygirlaccessories.com/wp-content/uploads/2026/10/Reconstruct-Hair-Mask1-300x300.webp",
+"type": "Masks &amp; Treatments, Hair Care",
+"tags": [],
+"in": true
+},
+{
+"t": "Aussie Miracle Moist Shampoo 600 ml",
+"u": "https://curlygirlaccessories.com/product/aussie-miracle-moist-shampoo-600-ml/",
+"p": 12.0,
+"c": null,
+"cur": "USD",
+"img": "https://curlygirlaccessories.com/wp-content/uploads/2026/10/prd-front-853213-600x600-1-300x300.avif",
+"type": "Shampoo, Hair Care",
+"tags": [],
+"in": true
+},
+{
 "t": "Morfose Milk Therapy Hair Spray, Nourishing Hold",
 "u": "https://curlygirlaccessories.com/product/morfose-milk-therapy-hair-spray-nourishing-hold/",
 "p": 5.55,
@@ -1064,7 +1119,7 @@
 "img": "https://curlygirlaccessories.com/wp-content/uploads/2026/08/edited-photo-10-300x300.webp",
 "type": "Gift Hampers",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Gift Hamper – All Hair Types",
@@ -1799,7 +1854,7 @@
 "img": "https://curlygirlaccessories.com/wp-content/uploads/2026/06/images-300x300.jpeg",
 "type": "Brushes &amp; Combs",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Denman Classic Styling Brush 7 Rows D3",
@@ -7899,7 +7954,7 @@
 "tags": [
 "SKALA Masks"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Skala Expert Kit shampoo & Conditioner Crespinho Divino",
@@ -7949,7 +8004,7 @@
 "tags": [
 "Kit"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Skala Avocado treatment cream 1Kg",
@@ -8913,7 +8968,7 @@
 "All Products",
 "Curly Girl Accessories SHOP"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Medium Satin Sleep Cap",
@@ -9516,7 +9571,7 @@
 "Cantu",
 "Curly Kids"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Cantu Kids Styling Custard",
@@ -10702,7 +10757,7 @@
 "BIO BALANCE",
 "Shampoo"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Camille Rose, Algae Renew Deep Conditioning Mask, Cocoa & Mango Butter, 8 oz (240 ml)",
@@ -12390,7 +12445,7 @@
 "tags": [
 "All Products"
 ],
-"in": true
+"in": false
 },
 {
 "t": "OLAPLEX NO. 4C CLARIFYING SHAMPOO 250 ml",

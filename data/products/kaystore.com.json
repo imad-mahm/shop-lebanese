@@ -1,5 +1,45 @@
 [
 {
+"t": "JBR Bluetooth Portable Speaker",
+"u": "https://kaystore.com/product/jbr-1206-portable-speaker/",
+"p": 79.0,
+"c": 99.0,
+"cur": "USD",
+"img": "https://kaystore.com/wp-content/uploads/2026/10/JBR-1206-247x296.jpg",
+"type": "Speakers",
+"tags": [
+"audio and video",
+"bluetooth",
+"bt",
+"Electronic",
+"mobile speaker",
+"music",
+"Portable Speaker",
+"sound"
+],
+"in": true
+},
+{
+"t": "BAAB Karaoke Portable Speaker",
+"u": "https://kaystore.com/product/baab-b-q12-karaoke-speaker/",
+"p": 99.0,
+"c": 129.0,
+"cur": "USD",
+"img": "https://kaystore.com/wp-content/uploads/2026/10/BAAB-B-Q12-247x296.jpg",
+"type": "Speakers",
+"tags": [
+"audio and video",
+"bluetooth",
+"bt",
+"Electronic",
+"mobile speaker",
+"music",
+"Portable Speaker",
+"sound"
+],
+"in": true
+},
+{
 "t": "Samsung Bespoke Washer 12kg 1400RPM",
 "u": "https://kaystore.com/product/samsung-ww12bb944dgbsp/",
 "p": 809.0,
@@ -5981,7 +6021,7 @@
 "uhd",
 "UltraHD"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Samsung Vision AI Smart 65 Inch Crystal UHD",
@@ -6035,7 +6075,7 @@
 "uhd",
 "UltraHD"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Samsung Vision AI Smart 50 Inch Crystal UHD",
@@ -25883,38 +25923,6 @@
 "in": true
 },
 {
-"t": "Perfetto Short Patio Heater",
-"u": "https://kaystore.com/product/perfetto-short-patio-heater/",
-"p": 209.0,
-"c": null,
-"cur": "USD",
-"img": "https://kaystore.com/wp-content/uploads/2026/02/I140374-247x296.jpg",
-"type": "Heaters",
-"tags": [
-"Appliances",
-"Gaz Heater",
-"heaters",
-"home heater"
-],
-"in": true
-},
-{
-"t": "Perfetto Stand Patio Heater",
-"u": "https://kaystore.com/product/perfetto-stand-patio-heater/",
-"p": 178.0,
-"c": null,
-"cur": "USD",
-"img": "https://kaystore.com/wp-content/uploads/2026/02/PRFOD1-247x296.webp",
-"type": "Heaters",
-"tags": [
-"Appliances",
-"Gaz Heater",
-"heaters",
-"home heater"
-],
-"in": true
-},
-{
 "t": "Knives Bloc Met+Bam Sensia Ast Five",
 "u": "https://kaystore.com/product/knives-bloc-metbam-sensia-ast-five/",
 "p": 37.0,
@@ -33196,39 +33204,6 @@
 "in": true
 },
 {
-"t": "Midea Inverter Microwave 20L",
-"u": "https://kaystore.com/product/midea-inverter-microwave-20l-wh/",
-"p": 65.0,
-"c": 77.0,
-"cur": "USD",
-"img": "https://kaystore.com/wp-content/uploads/2025/11/I133659-247x296.jpg",
-"type": "Microwaves, Weekly Deals",
-"tags": [
-"Appliances",
-"cooking",
-"Heating",
-"Microwave",
-"Microwave 20L"
-],
-"in": true
-},
-{
-"t": "Philips Robot Vaccum 2in1",
-"u": "https://kaystore.com/product/philips-robot-vaccum-2in1/",
-"p": 473.0,
-"c": 557.0,
-"cur": "USD",
-"img": "https://kaystore.com/wp-content/uploads/2025/11/I138995-247x296.jpg",
-"type": "Vacuum Cleaners",
-"tags": [
-"Appliances",
-"Home cleaner",
-"Robot vacuum",
-"vacuum cleaner"
-],
-"in": true
-},
-{
 "t": "Philips Thermoshield Straightener",
 "u": "https://kaystore.com/product/philips-thermoshield-straightener/",
 "p": 192.0,
@@ -33416,21 +33391,6 @@
 "beauty",
 "facial",
 "pedicare"
-],
-"in": true
-},
-{
-"t": "Grundig Kettle 1.7L",
-"u": "https://kaystore.com/product/grundig-kettle-1-7-lit-black/",
-"p": 46.0,
-"c": 52.0,
-"cur": "USD",
-"img": "https://kaystore.com/wp-content/uploads/2025/11/i137167-247x296.jpg",
-"type": "Kettles",
-"tags": [
-"Appliances",
-"kettles",
-"water boiler"
 ],
 "in": true
 },
@@ -33685,7 +33645,7 @@
 "large appliances",
 "silver"
 ],
-"in": false
+"in": true
 },
 {
 "t": "LG Dishwasher 14 Settings",
@@ -34291,21 +34251,6 @@
 "c": null,
 "cur": "USD",
 "img": "https://kaystore.com/wp-content/uploads/2025/11/i118849-247x296.jpg",
-"type": "Blenders &amp; Hand Blenders",
-"tags": [
-"Appliances",
-"cooking",
-"Hand Blender"
-],
-"in": true
-},
-{
-"t": "Haeger Hand Blender Full Set",
-"u": "https://kaystore.com/product/haeger-hand-blender-full-set/",
-"p": 98.0,
-"c": 111.0,
-"cur": "USD",
-"img": "https://kaystore.com/wp-content/uploads/2025/11/i135761-247x296.jpg",
 "type": "Blenders &amp; Hand Blenders",
 "tags": [
 "Appliances",
@@ -36022,7 +35967,7 @@
 "Tizen",
 "uhd"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Ariete Wet&Dry Handy Vac 14.8V",
@@ -41039,22 +40984,6 @@
 "electric fan",
 "Fan",
 "summer"
-],
-"in": true
-},
-{
-"t": "Farco Electric Oven  40L White",
-"u": "https://kaystore.com/product/farco-electric-oven-40l-white/",
-"p": 77.0,
-"c": 88.0,
-"cur": "USD",
-"img": "https://kaystore.com/wp-content/uploads/2025/07/I135773-247x296.webp",
-"type": "Ovens",
-"tags": [
-"Appliances",
-"Electric Oven",
-"Oven",
-"Oven 40L"
 ],
 "in": true
 },
@@ -50176,22 +50105,6 @@
 "in": true
 },
 {
-"t": "Ariete Positano Toaster 4Sl",
-"u": "https://kaystore.com/product/ariete-toaster-positano-4sl/",
-"p": 169.0,
-"c": null,
-"cur": "USD",
-"img": "https://kaystore.com/wp-content/uploads/2025/05/I134040-247x296.jpg",
-"type": "Toasters",
-"tags": [
-"Appliances",
-"Positano",
-"Toast",
-"Toasters"
-],
-"in": true
-},
-{
 "t": "Ariete Capri Toaster 4Sl",
 "u": "https://kaystore.com/product/ariete-capri-toaster-4sl/",
 "p": 169.0,
@@ -50392,23 +50305,6 @@
 "c": 265.0,
 "cur": "USD",
 "img": "https://kaystore.com/wp-content/uploads/2025/05/I134050-247x296.jpg",
-"type": "Air Fryers",
-"tags": [
-"Air Fryer",
-"air frying",
-"Appliances",
-"Fryer Oven",
-"Healthy"
-],
-"in": true
-},
-{
-"t": "Ariete Vintage Air Fryer Oven",
-"u": "https://kaystore.com/product/ariete-air-fryer-oven-vtg-bl/",
-"p": 209.0,
-"c": 265.0,
-"cur": "USD",
-"img": "https://kaystore.com/wp-content/uploads/2025/05/I134051-247x296.jpg",
 "type": "Air Fryers",
 "tags": [
 "Air Fryer",
@@ -51920,6 +51816,118 @@
 "Kitchenware",
 "La Maison",
 "Salt&amp;Pepper"
+],
+"in": true
+},
+{
+"t": "Plate Granada Stripes Ceramic Yellow",
+"u": "https://kaystore.com/product/plate-granada-stripes-ceramic-yellow/",
+"p": 26.0,
+"c": 37.0,
+"cur": "USD",
+"img": "https://kaystore.com/wp-content/uploads/2025/06/I134336-1-247x296.jpg",
+"type": "La Maison, Serving Plates",
+"tags": [
+"J-Line",
+"La Maison",
+"Serving Plates",
+"Tableware"
+],
+"in": true
+},
+{
+"t": "Lebrillo Bowl Granada Stripes Ceramic Yellow",
+"u": "https://kaystore.com/product/lebrillo-bowl-granada-stripes-ceramic-yellow/",
+"p": 55.0,
+"c": 79.0,
+"cur": "USD",
+"img": "https://kaystore.com/wp-content/uploads/2025/06/I134335-1-247x296.jpg",
+"type": "Bowls, La Maison",
+"tags": [
+"Bowls",
+"J-Line",
+"La Maison",
+"Tableware"
+],
+"in": true
+},
+{
+"t": "Bowl Granada Stripes High Ceramic Yellow Large",
+"u": "https://kaystore.com/product/bowl-granada-stripes-high-ceramic-yellow-large/",
+"p": 29.0,
+"c": 42.0,
+"cur": "USD",
+"img": "https://kaystore.com/wp-content/uploads/2025/06/I134334-1-247x296.jpg",
+"type": "Bowls, La Maison",
+"tags": [
+"Bowls",
+"J-Line",
+"La Maison",
+"Tableware"
+],
+"in": true
+},
+{
+"t": "Bowl Granada Stripes High Ceramic Yellow Medium",
+"u": "https://kaystore.com/product/bowl-granada-stripes-high-ceramic-yellow-medium/",
+"p": 22.0,
+"c": 32.0,
+"cur": "USD",
+"img": "https://kaystore.com/wp-content/uploads/2025/06/I134333-1-247x296.jpg",
+"type": "Bowls, La Maison",
+"tags": [
+"Bowls",
+"J-Line",
+"La Maison",
+"Tableware"
+],
+"in": true
+},
+{
+"t": "Bowl Granada Stripes Low Ceramic Yellow Large",
+"u": "https://kaystore.com/product/bowl-granada-stripes-low-ceramic-yellow-large/",
+"p": 22.0,
+"c": 31.0,
+"cur": "USD",
+"img": "https://kaystore.com/wp-content/uploads/2025/06/I134332-1-247x296.jpg",
+"type": "Bowls, La Maison",
+"tags": [
+"Bowls",
+"J-Line",
+"La Maison",
+"Tableware"
+],
+"in": true
+},
+{
+"t": "Bowl Granada Stripes Low Ceramic Yellow Small",
+"u": "https://kaystore.com/product/bowl-granada-stripes-low-ceramic-yellow-small/",
+"p": 11.0,
+"c": 16.0,
+"cur": "USD",
+"img": "https://kaystore.com/wp-content/uploads/2025/05/I134331-2-247x296.jpg",
+"type": "Bowls, La Maison",
+"tags": [
+"Bowls",
+"J-Line",
+"La Maison",
+"Tableware"
+],
+"in": true
+},
+{
+"t": "Ashtray Granada Ceramic Blue Small",
+"u": "https://kaystore.com/product/ashtray-granada-ceramic-blue-small/",
+"p": 9.6,
+"c": 16.0,
+"cur": "USD",
+"img": "https://kaystore.com/wp-content/uploads/2025/05/I134327-1-247x296.jpg",
+"type": "Ashtrays, La Maison",
+"tags": [
+"Ashtrays",
+"J-Line",
+"Kitchenware",
+"La Maison"
 ],
 "in": true
 }

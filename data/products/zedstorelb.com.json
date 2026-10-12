@@ -1,5 +1,61 @@
 [
 {
+"t": "Free Gift Hair Brush",
+"u": "https://zedstorelb.com/products/free-gift-hair-brush",
+"p": 0.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/rn-image_picker_lib_temp_db329bab-4360-4212-9e4f-bf01fdff4b36.png?v=1791799456&width=400",
+"type": "FREE Gift",
+"tags": [
+"freegift",
+"giftcollection"
+],
+"in": true
+},
+{
+"t": "Free Gift Mini Shaped Egg Hair Comb",
+"u": "https://zedstorelb.com/products/free-gift-mini-shaped-egg-hair-comb",
+"p": 0.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/rn-image_picker_lib_temp_ae065025-125a-4109-bb65-d5479838104c.png?v=1791799239&width=400",
+"type": "FREE Gift",
+"tags": [
+"freegift",
+"giftcollection"
+],
+"in": true
+},
+{
+"t": "Free Gift L'Oreal Mirror 1",
+"u": "https://zedstorelb.com/products/free-gift-loreal-mirror-1",
+"p": 0.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/rn-image_picker_lib_temp_90f9617e-d304-4068-99b7-5ec3d8c515f2.jpg?v=1783441894&width=400",
+"type": "FREE Gift",
+"tags": [
+"freegift",
+"giftcollection"
+],
+"in": true
+},
+{
+"t": "Free Gift Black Bucket Hat",
+"u": "https://zedstorelb.com/products/free-gift-black-bucket-hat",
+"p": 0.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/rn-image_picker_lib_temp_a6c3a0a6-cb96-4216-a6ce-4d86d494975a.png?v=1791797607&width=400",
+"type": "FREE Gift",
+"tags": [
+"freegift",
+"giftcollection"
+],
+"in": true
+},
+{
 "t": "Pastel nail polish - 404",
 "u": "https://zedstorelb.com/products/pastel-nail-polish-404",
 "p": 1.35,
@@ -377,7 +433,7 @@
 "freegift",
 "giftcollection"
 ],
-"in": false
+"in": true
 },
 {
 "t": "RIimmel London Lasting Finish Lipstick",
@@ -444,7 +500,7 @@
 "freegift",
 "giftcollection"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Free Gift Summer Pouch(Random Color)",
@@ -458,7 +514,7 @@
 "freegift",
 "giftcollection"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Free Gift Beige Pouch",
@@ -486,7 +542,7 @@
 "freegift",
 "giftcollection"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Garnier Salicylic Fresh & Matte 85ml",
@@ -1167,7 +1223,7 @@
 "freegift",
 "giftcollection"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Free Gift Random Tote Bag",
@@ -2356,7 +2412,7 @@
 "freegift",
 "giftcollection"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Free Gift Mini Maybelline Lash Sensational Mascara",
@@ -2398,7 +2454,7 @@
 "freegift",
 "giftcollection"
 ],
-"in": false
+"in": true
 },
 {
 "t": "L'Oreal Paris Elvive Collagen Lifter Fiber Thickening Conditioner",
@@ -2957,7 +3013,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/s2911774-main-zoom.webp?v=1788620951&width=400",
 "type": "Gift Set",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "NYX Professional Makeup Wonder Stick - WSB05 Bright Amber + Fuchsia",
@@ -3422,7 +3478,7 @@
 "freegift",
 "giftcollection"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Free Gift Avocado hair Clip",
@@ -5689,7 +5745,7 @@
 "freegift",
 "giftcollection"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Free Gift L'Oreal Pouch Navy Blue",
@@ -6637,7 +6693,7 @@
 "freegift",
 "giftcollection"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Byphasse Mousse Definition Boucles 300ml",
@@ -6815,7 +6871,7 @@
 "freegift",
 "giftcollection"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Free Gift Maybelline Super Stay Matte Ink mini 65 Seductress",
@@ -6885,7 +6941,7 @@
 "freegift",
 "giftcollection"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Free Gift L'Oreal Apron Pink",
@@ -7158,7 +7214,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/61pxLn9yJkL.jpg?v=1783412266&width=400",
 "type": "Body mist",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Bodycology Coconut Hibiscus Body Mist 237ml",
@@ -7169,7 +7225,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/images_e9454888-c082-4387-9991-e7e425738bf7.jpg?v=1783411567&width=400",
 "type": "Body mist",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Bodycology Coconut Hibiscus Shea Butter Body Cream 227g",
@@ -7202,7 +7258,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/sugar.webp?v=1783410624&width=400",
 "type": "Body mist",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Bodycology Fragrance Body Mist, Whipped Vanilla 237ml",
@@ -7213,7 +7269,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/Bodycology-Whipped-Vanilla-Body-Mist-8-fl-oz_0c153834-20c4-4531-9f02-3dfb56707f10.64813a32130e55b26157ccf2bd6cd45a.avif?v=1783410487&width=400",
 "type": "Body mist",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Bodycology Shea Butter Body Cream, Whipped Vanilla 227g",
@@ -7246,7 +7302,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/Bodycology-Fragrance-Body-Mist-Sweet-Love-8-fl-oz_6fd5ea83-f80d-4b95-b778-b05759c783ec.3a25efdb4aec9131f171480ad80331a8.avif?v=1783409776&width=400",
 "type": "Body mist",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Ruby rose liquid glitter eyeliner HB 8416",
@@ -8720,7 +8776,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/1_7f519c42-06c4-4642-9595-bc9488459e2b.webp?v=1780558651&width=400",
 "type": "perfume",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Lattafa Fakhar Perfume Mist 250ml",
@@ -8731,7 +8787,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/1_af32bb0d-d475-465a-a525-5eda47c548d3.webp?v=1780558409&width=400",
 "type": "perfume",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Lattafa Yara Tous Women’s Perfume Mist 250ml",
@@ -8742,7 +8798,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/1000PX_5__43854.jpg?v=1780558287&width=400",
 "type": "perfume",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Lattafa Angham Unisex Perfume Mist 250ml",
@@ -8753,7 +8809,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/1000PX_6__14367.jpg?v=1780558151&width=400",
 "type": "perfume",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Lattafa Badee Al Oud noble Blush Women Fragrance Mist 205ml",
@@ -8764,7 +8820,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/1000PX_-_2026-02-17T194822886-Picsart-AiImageEnhancer__04219.jpg?v=1780558016&width=400",
 "type": "perfume",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Lattafa  Haya Perfume Mist",
@@ -8775,7 +8831,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/1_8cd4cfe9-d5fc-4fe9-ad9d-a994b798957f.webp?v=1780557434&width=400",
 "type": "perfume",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Medicube PDRN Pink Collagen Volume Multi Balm – 10g",
@@ -8929,7 +8985,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/img_8d86277b-83d0-44ce-89f4-3777bfb37b54.webp?v=1780472630&width=400",
 "type": "body gel",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Bioten Face Mask Firming 40ml",
@@ -13316,7 +13372,7 @@
 "tags": [
 "l'orealmakeup"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Dior Backstage Blush Rosy Glow 001 Pink",
@@ -22219,7 +22275,7 @@
 "tags": [
 "koreancollection"
 ],
-"in": true
+"in": false
 },
 {
 "t": "BEAUTY OF JOSEON Matte Sun Stick: Mugwort + Camelia (SPF 50+ PA++++)",
@@ -25393,7 +25449,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/asad-bourbon_700x700_40c8aaa1-15bc-4abf-af40-64e3c61b0dd3.webp?v=1749575201&width=400",
 "type": "perfume",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Lattafa Intense Teriaq Eau De Parfum Pour Homme- 100ml",
@@ -31445,7 +31501,7 @@
 "tags": [
 "sephoracollection"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Makeup by Mario SoftSculpt Bronzer Powder",
@@ -34344,7 +34400,7 @@
 "Essence Juicy Bomb Butter Balm",
 "essence1"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Vaseline Lip Care Balm Mint 4.8G",
@@ -38103,70 +38159,5 @@
 "sephoracollection"
 ],
 "in": false
-},
-{
-"t": "Axis - Y Vegan Collagen Eye Serum 10 ml",
-"u": "https://zedstorelb.com/products/axis-y-vegan-collagen-eye-serum-10-ml",
-"p": 22.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/Vegan-Collagen-Eye-Serum-10-ML-AXIS-Y.webp?v=1726159116&width=400",
-"type": "eye serum",
-"tags": [
-"Axis - Y Vegan Collagen Eye Serum 10 ml",
-"koreancollection",
-"Sensitiveskincollection",
-"sephoracollection"
-],
-"in": true
-},
-{
-"t": "Cosrx ALL ABOUT SNAIL KIT 4-step set",
-"u": "https://zedstorelb.com/products/cosrx-all-about-snail-kit-4-step-set",
-"p": 27.0,
-"c": 30.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/kit_1.webp?v=1726158388&width=400",
-"type": "gift set",
-"tags": [
-"acnepronecollection",
-"Cosrx ALL ABOUT SNAIL KIT 4-step set",
-"koreancollection",
-"sephoracollection"
-],
-"in": true
-},
-{
-"t": "Cosrx AC Collection Calming Foam Cleanser",
-"u": "https://zedstorelb.com/products/cosrx-ac-collection-calming-foam-cleanser",
-"p": 17.1,
-"c": 19.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/AC-Collection-Calming-Foam-Cleanser-COSRX.webp?v=1726158114&width=400",
-"type": "cleanser",
-"tags": [
-"acnepronecollection",
-"Cosrx AC Collection Calming Foam Cleanser",
-"koreancollection",
-"oilyskincollection",
-"Sensitiveskincollection",
-"sephoracollection"
-],
-"in": true
-},
-{
-"t": "Cosrx Advanced Snail Peptide Eye Cream 25 ml",
-"u": "https://zedstorelb.com/products/cosrx-advanced-snail-peptide-eye-cream-25-ml",
-"p": 26.1,
-"c": 29.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/Advanced-Snail-Peptide-Eye-Cream-COSRX.webp?v=1726157628&width=400",
-"type": "Eye cream",
-"tags": [
-"Cosrx Advanced Snail Peptide Eye Cream 25 ml",
-"koreancollection",
-"sephoracollection"
-],
-"in": true
 }
 ]
