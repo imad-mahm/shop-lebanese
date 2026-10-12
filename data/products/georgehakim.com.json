@@ -143,7 +143,7 @@
 "tags": [
 "Celeste",
 "Celeste Lunaire",
-"Colored Diamond",
+"Coloured Diamond",
 "Diamond",
 "Earrings",
 "Request Price",
@@ -163,7 +163,7 @@
 "tags": [
 "Celeste",
 "Celeste Lunaire",
-"Colored Diamond",
+"Coloured Diamond",
 "Diamond",
 "Request Price",
 "Ring",
@@ -185,7 +185,7 @@
 "Bracelet",
 "Celeste",
 "Celeste Lunaire",
-"Colored Diamond",
+"Coloured Diamond",
 "Diamond",
 "Rose Gold",
 "White and Rose Gold"
@@ -373,7 +373,7 @@
 "Bridal",
 "Diamond",
 "Emerald Cut",
-"High Jewelry",
+"High Jewellery",
 "Necklace",
 "White Gold"
 ],
@@ -513,7 +513,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0938/5364/7123/files/1EKO03DMXPRP-7667_1.png?v=1770557939&width=400",
 "type": "Necklace",
 "tags": [
-"Chocker",
+"Choker",
 "Diamond",
 "Echo",
 "Necklaces & Pendants",
@@ -533,7 +533,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0938/5364/7123/files/1EKO03DMXHHP-7666_1_81e7135d-c446-4ebe-a8e3-c8032b26fc55.png?v=1770558550&width=400",
 "type": "Necklace",
 "tags": [
-"Chocker",
+"Choker",
 "Diamond",
 "Echo",
 "Heart",
@@ -553,9 +553,10 @@
 "img": "https://cdn.shopify.com/s/files/1/0938/5364/7123/files/1xxx4RM001P_1_664b733f-3a57-4ce8-856d-92cba4d746fa.png?v=1769079267&width=400",
 "type": "Bracelet",
 "tags": [
-"Black Diamond",
 "Bracelet",
+"Rose Gold",
 "Ruby",
+"White and Rose Gold",
 "White Gold"
 ],
 "in": true
@@ -694,6 +695,7 @@
 "type": "Pendant",
 "tags": [
 "Diamond",
+"Emerald",
 "Pendant",
 "Rose Gold",
 "White Gold"
@@ -1178,7 +1180,7 @@
 "Diamond",
 "Dots",
 "Ring",
-"White Gold"
+"Yellow Gold"
 ],
 "in": true
 },
@@ -1635,11 +1637,12 @@
 "tags": [
 "Diamond",
 "Engagement Ring",
-"High Jewelry",
+"High Jewellery",
 "Ring",
 "Rose Gold",
 "Sapphire",
-"Solitaire"
+"Solitaire",
+"White and Rose Gold"
 ],
 "in": true
 },
@@ -2029,9 +2032,9 @@
 "Gorgeous",
 "Necklaces & Pendants",
 "Pendant",
-"Red Coral",
 "Rose Gold",
-"Sapphire"
+"Sapphire",
+"Turquoise"
 ],
 "in": true
 },
@@ -2174,7 +2177,7 @@
 "tags": [
 "Diamond",
 "Engagement Ring",
-"High Jewelry",
+"High Jewellery",
 "Marquise",
 "Request Price",
 "Ring",
@@ -3433,6 +3436,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0938/5364/7123/files/1xxx7WP001P_1.png?v=1758130962&width=400",
 "type": "Pendant",
 "tags": [
+"Brown Diamond",
 "Diamond",
 "Pendant",
 "Rose Gold",
@@ -3498,7 +3502,8 @@
 "Diamond",
 "Pendant",
 "Rose Gold",
-"White Gold"
+"White Gold",
+"Yellow Diamond"
 ],
 "in": true
 },
@@ -3512,7 +3517,6 @@
 "type": "Pendant",
 "tags": [
 "Diamond",
-"Emerald",
 "Pendant",
 "Round",
 "White Gold"
@@ -3531,6 +3535,7 @@
 "Diamond",
 "Pendant",
 "Rose Gold",
+"Ruby",
 "White Gold"
 ],
 "in": true
@@ -3563,6 +3568,7 @@
 "Diamond",
 "Pendant",
 "Rose Gold",
+"Sapphire",
 "White Gold"
 ],
 "in": true
@@ -3579,6 +3585,7 @@
 "Diamond",
 "Pendant",
 "Rose Gold",
+"Sapphire",
 "White Gold"
 ],
 "in": true
@@ -3596,6 +3603,7 @@
 "Necklace",
 "Pendant",
 "Rose Gold",
+"Ruby",
 "White Gold"
 ],
 "in": true
@@ -3646,6 +3654,7 @@
 "Diamond",
 "Pendant",
 "Rose Gold",
+"Ruby",
 "White Gold"
 ],
 "in": true
@@ -3660,6 +3669,7 @@
 "type": "Pendant",
 "tags": [
 "Diamond",
+"Emerald",
 "Pendant",
 "Rose Gold",
 "White Gold"
@@ -3736,7 +3746,8 @@
 "Diamond",
 "Necklaces & Pendants",
 "Pendant",
-"Rose Gold"
+"Rose Gold",
+"Sapphire"
 ],
 "in": true
 },
@@ -3749,6 +3760,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0938/5364/7123/files/1xxx7WR004P.png?v=1758130616&width=400",
 "type": "Pendant",
 "tags": [
+"Brown Diamond",
 "Diamond",
 "Pendant",
 "Rose Gold",
@@ -3783,6 +3795,7 @@
 "tags": [
 "Bangle",
 "Bracelet",
+"Brown Diamond",
 "Diamond",
 "Rose Gold"
 ],
@@ -3867,6 +3880,7 @@
 "Bracelet",
 "Diamond",
 "Dots",
+"Rose Gold",
 "Sapphire"
 ],
 "in": true
@@ -4605,7 +4619,7 @@
 "tags": [
 "Diamond",
 "Engagement Ring",
-"High Jewelry",
+"High Jewellery",
 "Ring",
 "Sapphire",
 "Solitaire",
@@ -4953,7 +4967,7 @@
 "tags": [
 "Diamond",
 "Engagement Ring",
-"High Jewelry",
+"High Jewellery",
 "Ring",
 "Sapphire",
 "Solitaire",
@@ -4973,7 +4987,7 @@
 "Diamond",
 "Emerald",
 "Engagement Ring",
-"High Jewelry",
+"High Jewellery",
 "Request Price",
 "Ring",
 "Rose Gold",
@@ -4992,10 +5006,11 @@
 "tags": [
 "Emerald",
 "Engagement Ring",
-"High Jewelry",
+"High Jewellery",
 "Request Price",
 "Ring",
-"Rose Gold",
+"White and Yellow Gold",
+"White Gold",
 "Yellow Diamond"
 ],
 "in": true
@@ -5230,7 +5245,7 @@
 "Rose Gold",
 "Round",
 "White and Rose Gold",
-"white Gold"
+"White Gold"
 ],
 "in": true
 },
@@ -5248,7 +5263,7 @@
 "Rose Gold",
 "Round",
 "White and Rose Gold",
-"white Gold"
+"White Gold"
 ],
 "in": true
 },
@@ -5282,7 +5297,7 @@
 "Rose Gold",
 "Round",
 "White and Rose Gold",
-"white Gold"
+"White Gold"
 ],
 "in": true
 },
@@ -5366,7 +5381,9 @@
 "Ring",
 "Rose Gold",
 "Sapphire",
-"Solitaire"
+"Solitaire",
+"White and Rose Gold",
+"White Gold"
 ],
 "in": true
 },
@@ -5452,11 +5469,11 @@
 "type": "Ring",
 "tags": [
 "Diamond",
-"Emerald",
 "Ring",
 "Rose Gold",
 "White and Rose Gold",
-"White Gold"
+"White Gold",
+"Yellow Diamond"
 ],
 "in": true
 },
@@ -5507,7 +5524,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0938/5364/7123/files/1xx12FM001P_1_a9a4251d-79f9-43b9-bce2-635d3f8a6475.png?v=1762942736&width=400",
 "type": "Ring",
 "tags": [
-"Colored Diamond",
+"Coloured Diamond",
 "Diamond",
 "Ring",
 "Rose Gold",
@@ -5718,7 +5735,7 @@
 "tags": [
 "Bridal",
 "Diamond",
-"gold band",
+"Gold Band",
 "Ring",
 "Round",
 "Wedding Band",
@@ -5737,7 +5754,7 @@
 "tags": [
 "Bridal",
 "Diamond",
-"gold band",
+"Gold Band",
 "Ring",
 "Round",
 "Wedding Band",
@@ -5761,7 +5778,7 @@
 "Ring",
 "Round",
 "Wedding Band",
-"White Gold"
+"Yellow Gold"
 ],
 "in": true
 },
@@ -5776,7 +5793,7 @@
 "tags": [
 "Bridal",
 "Diamond",
-"gold band",
+"Gold Band",
 "Ring",
 "Rose Gold",
 "Round",
@@ -5796,7 +5813,7 @@
 "tags": [
 "Bridal",
 "Diamond",
-"gold band",
+"Gold Band",
 "Ring",
 "Rose Gold",
 "Round",
@@ -5816,7 +5833,7 @@
 "tags": [
 "Bridal",
 "Diamond",
-"gold band",
+"Gold Band",
 "Ring",
 "Round",
 "Wedding Band",
@@ -5835,7 +5852,7 @@
 "tags": [
 "Bridal",
 "Diamond",
-"gold band",
+"Gold Band",
 "Ring",
 "Round",
 "Wedding Band",
@@ -6295,7 +6312,7 @@
 "Request Price",
 "Ring",
 "Solitaire",
-"Yellow Gold"
+"White and Yellow Gold"
 ],
 "in": true
 },

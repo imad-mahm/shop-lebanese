@@ -8,7 +8,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Hot_Spicy_36ed7bed-4972-4577-b395-a5d39fa9f858.png?v=1791192283&width=400",
 "type": "Plants",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Calluna Vulgaris",
@@ -427,7 +427,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Honeyed_Glow_-_Flower_with_honey.jpg?v=1789547822&width=400",
 "type": "Flowers",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Violet Aura",
@@ -443,7 +443,7 @@
 "Flowers",
 "For Her"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Harvest Hues",
@@ -635,7 +635,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/ColoursofFall_2.png?v=1789626006&width=400",
 "type": "Flowers",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Fallen Leaves",
@@ -719,7 +719,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Fall_in_Love_1.jpg?v=1791283866&width=400",
 "type": "Flowers",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Harvest Festival",
@@ -752,7 +752,7 @@
 "Mixed Flowers",
 "Orange"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Sagittarius Celebrations",
@@ -794,7 +794,7 @@
 "For Mom",
 "For Teta"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Zen Bonsai",
@@ -1079,7 +1079,7 @@
 "p": 109.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/White24roses.png?v=1785754518&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/24_white_roses_bouquet.png?v=1791813885&width=400",
 "type": "Flowers",
 "tags": [
 "For Her",
@@ -1114,7 +1114,7 @@
 "p": 62.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Classic_Symbol_of_Purity.png?v=1785752783&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/12_white_roses_bouquet_1.png?v=1791813647&width=400",
 "type": "Flowers",
 "tags": [
 "For Her",
@@ -1202,7 +1202,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/LilacHugs.jpg?v=1753950429&width=400",
 "type": "Flowers",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Trust our Florists",
@@ -1766,7 +1766,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Love_Balloons.jpg?v=1779105858&width=400",
 "type": "Add-Ons",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Get Well Soon Balloon",
@@ -1799,7 +1799,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Untitled_design.jpg?v=1779106820&width=400",
 "type": "Add-Ons",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Pick Love Red",
@@ -1926,7 +1926,7 @@
 "For Teta",
 "Get Well Soon"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Bees & Sweets",
@@ -2170,7 +2170,7 @@
 "Get Well Soon",
 "Indoor Plants"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Petal Pops",
@@ -2430,7 +2430,7 @@
 "Indoor Plants",
 "Plants"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Blossoms of Spring",
@@ -2481,7 +2481,7 @@
 "Mixed Colors",
 "Mixed Flowers"
 ],
-"in": false
+"in": true
 },
 {
 "t": "S-Shape Elm Bonsai",
@@ -2561,7 +2561,7 @@
 "For Teta",
 "Get Well Soon"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Artificial Dracaena Reflexa",
@@ -4117,10 +4117,10 @@
 {
 "t": "Pink Perfection",
 "u": "https://exotica.com/products/pink-perfection",
-"p": 53.0,
+"p": 42.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/pink-perfection.jpg?v=1735637866&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/12_Fuchsia_roses_Bouquet.png?v=1791806483&width=400",
 "type": "Flowers",
 "tags": [
 "Birthdays",
@@ -4132,7 +4132,7 @@
 "Fuschia",
 "Graduation"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Pink Bliss",
@@ -4160,7 +4160,7 @@
 "p": 250.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Only-Roses_027b7dca-4572-4858-a975-ddd51b2a79cd.jpg?v=1735638150&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/100_mix_roses_bouquet.png?v=1791809248&width=400",
 "type": "Flowers",
 "tags": [
 "Birthdays",
@@ -4169,8 +4169,8 @@
 "For Mom",
 "Handheld Bouquets",
 "Large Vase",
-"Pink",
-"Pink October"
+"Mixed Colors",
+"Roses"
 ],
 "in": true
 },
@@ -4296,7 +4296,7 @@
 "p": 145.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/colorful-dreams_e87fa10a-49a8-42c6-8583-47ec66a505d7.jpg?v=1735638159&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/50_mix_roses_bouquet.png?v=1791809129&width=400",
 "type": "Flowers",
 "tags": [
 "Birthdays",
@@ -4308,15 +4308,15 @@
 "For Him",
 "For Mom"
 ],
-"in": false
+"in": true
 },
 {
 "t": "36 Hugs",
 "u": "https://exotica.com/products/36-hugs",
-"p": 156.0,
+"p": 102.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/36-hugs_3.jpg?v=1735638163&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/36_mix_roses_bouquet_2.png?v=1791807968&width=400",
 "type": "Flowers",
 "tags": [
 "Birthdays",
@@ -4339,7 +4339,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/FloralCheers.jpg?v=1753952154&width=400",
 "type": "Flowers",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Pink Celebration",
@@ -4356,7 +4356,7 @@
 "For Mom",
 "Gift Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Endless Bloom",
@@ -4716,7 +4716,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Blush-Crush.jpg?v=1749537215&width=400",
 "type": "Flowers",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Sablés Gourmets Small Box",
@@ -4908,7 +4908,7 @@
 "Get Well Soon",
 "Love & Romance"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Artistic Touch",
@@ -5304,7 +5304,7 @@
 "p": 250.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/white-heart.jpg?v=1735637865&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/100_white_roses_bouquet_1.png?v=1791814842&width=400",
 "type": "Flowers",
 "tags": [
 "Flowers",
@@ -5504,7 +5504,7 @@
 "Indoor Plants",
 "Plants"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Gentle Ficus",
@@ -5801,7 +5801,7 @@
 "p": 72.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Double-your-love.jpg?v=1735638094&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/24_red_roses_bouquet.png?v=1791806163&width=400",
 "type": "Flowers",
 "tags": [
 "For Her",
@@ -5833,7 +5833,7 @@
 "p": 125.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/guardian-angel_a604c7be-2395-40a2-9dbc-f1856263d9ad.jpg?v=1735638100&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/50_white_roses_bouquet.png?v=1791814633&width=400",
 "type": "Flowers",
 "tags": [
 "Handheld Bouquets",
@@ -5841,7 +5841,7 @@
 "Roses",
 "White"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Serene Blessings",
@@ -5916,7 +5916,7 @@
 "p": 42.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Classic_symbol_of_love_12.png?v=1785480495&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/12_red_roses_Bouquet_1.png?v=1791805998&width=400",
 "type": "Flowers",
 "tags": [
 "For Her",
@@ -6051,7 +6051,7 @@
 "p": 42.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Rose-Surprise.jpg?v=1735638148&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/SmilingWomanwithColourfulRoseBouquet_2.png?v=1791813999&width=400",
 "type": "Flowers",
 "tags": [
 "Birthdays",
@@ -6071,7 +6071,7 @@
 "p": 79.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Rose-elegance_df494efe-d187-4361-93a8-e084632659fa.jpg?v=1735638149&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/24_mix_roses_bouquet.png?v=1791807828&width=400",
 "type": "Flowers",
 "tags": [
 "Birthdays",
@@ -6135,7 +6135,7 @@
 "Red",
 "Roses"
 ],
-"in": false
+"in": true
 },
 {
 "t": "IXSIR Grande Réserve Red Lebanon",
@@ -6188,7 +6188,7 @@
 {
 "t": "Ma Vie",
 "u": "https://exotica.com/products/ma-vie",
-"p": 114.0,
+"p": 139.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Ma_vie_Black.jpg?v=1759384690&width=400",
@@ -6201,7 +6201,7 @@
 "Red",
 "Roses"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Joyful Box",

@@ -1,5 +1,165 @@
 [
 {
+"t": "NEW BALANCE ABZORB 2000 LUXE SNEAKERS",
+"u": "https://comostore.me/products/new-balance-abzorb-2000-luxe-sneakers",
+"p": 275.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1367/5161/files/comowebsitedesign-2026-10-12T134518.452.png?v=1791802017&width=400",
+"type": "Sneakers",
+"tags": [
+"nada-hidden",
+"new balance",
+"new balance 530",
+"new balance 530 black",
+"new balance 530 blue",
+"new balance 530 grey and white",
+"new balance 530 in lebanon",
+"new balance 530 red"
+],
+"in": true
+},
+{
+"t": "NEW BALANCE U9835DU SHADOW BLUE SNEAKERS",
+"u": "https://comostore.me/products/new-balance-u9835du-dark-navy-sneakers",
+"p": 270.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1367/5161/files/comowebsitedesign-2026-10-12T141510.684.png?v=1791803847&width=400",
+"type": "Sneakers",
+"tags": [
+"nada-hidden",
+"new balance",
+"new balance 530",
+"new balance 530 black",
+"new balance 530 blue",
+"new balance 530 grey and white",
+"new balance 530 in lebanon",
+"new balance 530 red"
+],
+"in": true
+},
+{
+"t": "NEW BALANCE U190662U SNEAKERS",
+"u": "https://comostore.me/products/new-balance-u190662u-sneakers",
+"p": 275.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1367/5161/files/comowebsitedesign-2026-10-12T141053.332.png?v=1791803556&width=400",
+"type": "Sneakers",
+"tags": [
+"nada-hidden",
+"new balance",
+"new balance 530",
+"new balance 530 black",
+"new balance 530 blue",
+"new balance 530 grey and white",
+"new balance 530 in lebanon",
+"new balance 530 red"
+],
+"in": true
+},
+{
+"t": "NEW BALANCE U9833M7 BLACK SNEAKERS",
+"u": "https://comostore.me/products/new-balance-u9833m7-black-sneakers",
+"p": 270.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1367/5161/files/comowebsitedesign-2026-10-12T140751.840.png?v=1791803349&width=400",
+"type": "Sneakers",
+"tags": [
+"nada-hidden",
+"new balance",
+"new balance 530",
+"new balance 530 black",
+"new balance 530 blue",
+"new balance 530 grey and white",
+"new balance 530 in lebanon",
+"new balance 530 red"
+],
+"in": true
+},
+{
+"t": "CRIME LONDON 2.0 BROWN DOWNSTONE MEN SNEAKERS",
+"u": "https://comostore.me/products/crime-london-2-0-brown-downstone-men-sneakers",
+"p": 260.0,
+"c": 260.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1367/5161/files/comowebsitedesign-2026-10-12T130946.567.png?v=1791800104&width=400",
+"type": "Sneakers",
+"tags": [
+"crime",
+"crime london",
+"crime London collection",
+"crime london in lebanon",
+"crime London shoes",
+"crime London sneaker",
+"crime London Sneakers",
+"crime London Sneakers lebanon"
+],
+"in": true
+},
+{
+"t": "ASH OFF WHITE EAGLE SNEAKERS",
+"u": "https://comostore.me/products/ash-off-white-eagle-sneakers",
+"p": 160.0,
+"c": 320.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1367/5161/files/comowebsitedesign-2026-10-09T142802.094.png?v=1791545381&width=400",
+"type": "Sneakers",
+"tags": [
+"ASH",
+"ash ballerina",
+"ASH BOOTS",
+"ash collection in lebanon",
+"ash in lebanon",
+"ASH ITALIA",
+"ASH ITALIA AT COMO STORE",
+"ASH ITALIA BOOTS"
+],
+"in": true
+},
+{
+"t": "CRIME LONDON DISTRESSED DARK COFFEE SNEAKERS",
+"u": "https://comostore.me/products/crime-london-distressed-dark-coffee-sneakers",
+"p": 255.0,
+"c": 255.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1367/5161/files/comowebsitedesign-2026-10-12T125850.415_639c757e-2004-424f-aca9-ac6744abdbe4.png?v=1791799497&width=400",
+"type": "Sneakers",
+"tags": [
+"crime",
+"crime london",
+"crime London collection",
+"crime london in lebanon",
+"crime London shoes",
+"crime London sneaker",
+"crime London Sneakers",
+"crime London Sneakers lebanon"
+],
+"in": true
+},
+{
+"t": "ASH EAGLE PURPLE/BLACK SNEAKERS",
+"u": "https://comostore.me/products/ash-eagle-purple-black-sneakers",
+"p": 320.0,
+"c": 320.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1367/5161/files/comowebsitedesign-2026-10-09T142155.668.png?v=1791545068&width=400",
+"type": "Sneakers",
+"tags": [
+"ASH",
+"ash ballerina",
+"ASH BOOTS",
+"ash collection in lebanon",
+"ash in lebanon",
+"ASH ITALIA",
+"ASH ITALIA AT COMO STORE",
+"ASH ITALIA BOOTS"
+],
+"in": true
+},
+{
 "t": "UGG TAZZ BOTANIC SLIDES",
 "u": "https://comostore.me/products/ugg-tazz-botanic-slides",
 "p": 205.0,
@@ -610,7 +770,7 @@
 "online shopping",
 "Original UGGs"
 ],
-"in": false
+"in": true
 },
 {
 "t": "UGG GOLDENSTAR EVELINA CHESTNUT CLOGS",
@@ -3687,7 +3847,7 @@
 "karl lagerfeld in lebanon",
 "karl lagerfeld lebanon"
 ],
-"in": true
+"in": false
 },
 {
 "t": "KARL LAGERFELD TOTE GUILLAUME BAG",
@@ -5199,7 +5359,7 @@
 "birkenstock for women",
 "birkenstock gizeh"
 ],
-"in": false
+"in": true
 },
 {
 "t": "BIRKENSTOCK BOSTON BOILED OIL LEATHER MEN SLIDES",
@@ -5393,7 +5553,7 @@
 "birkenstock in lebanon",
 "Colors of California"
 ],
-"in": true
+"in": false
 },
 {
 "t": "COLORS OF CALIFORNIA TWO BUCKLE DENIM FLATS",
@@ -5748,7 +5908,7 @@
 "Mario Valentino collection",
 "Mario Valentino in lebanon"
 ],
-"in": true
+"in": false
 },
 {
 "t": "MARIO VALENTINO BRIXTON LARGE TAUPE TOTE BAG",
@@ -6848,7 +7008,7 @@
 "birkenstock gizeh",
 "birkenstock pink"
 ],
-"in": true
+"in": false
 },
 {
 "t": "BIRKENSTOCK GIZEH EVA PINKCLAY SANDALS",
@@ -6868,7 +7028,7 @@
 "birkenstock for women",
 "birkenstock gizeh"
 ],
-"in": true
+"in": false
 },
 {
 "t": "BIRKENSTOCK ARIZONA SANDCASTLE SANDALS",
@@ -6908,7 +7068,7 @@
 "birkenstock gizeh",
 "birkenstock pink"
 ],
-"in": true
+"in": false
 },
 {
 "t": "BIRKENSTOCK GIZEH EVA EGGSHELL SANDALS",
@@ -6928,7 +7088,7 @@
 "birkenstock for women",
 "birkenstock gizeh"
 ],
-"in": true
+"in": false
 },
 {
 "t": "SAINT BARTH RAYA COTTON FLOWER DRESS",
@@ -7408,7 +7568,7 @@
 "birkenstock gizeh",
 "birkenstock pink"
 ],
-"in": true
+"in": false
 },
 {
 "t": "CRIME LONDON DISTRESSED PLATFORM DISCO JUNGLE SNEAKERS",
@@ -11000,8 +11160,8 @@
 {
 "t": "CRIME LONDON DISTRESSED SPRING FROST SNEAKERS",
 "u": "https://comostore.me/products/crime-london-sk8-spring-frost-sneakers",
-"p": 204.0,
-"c": 240.0,
+"p": 240.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1367/5161/files/comowebsitedesign-2026-03-19T125102.791.png?v=1773917493&width=400",
 "type": "Sneakers",
@@ -11015,7 +11175,7 @@
 "crime London Sneakers",
 "crime London Sneakers lebanon"
 ],
-"in": false
+"in": true
 },
 {
 "t": "CRIME LONDON SK8 FLASH CAMO SNEAKERS",
@@ -11969,7 +12129,7 @@
 "in": true
 },
 {
-"t": "BIRKENSTOCK ARIZONA SHEERLING BROWN SLIDES",
+"t": "BIRKENSTOCK ARIZONA SHEERLING MINK SLIDES",
 "u": "https://comostore.me/products/birkenstock-arizona-sheerling-brown-slides",
 "p": 205.0,
 "c": 205.0,
@@ -11986,7 +12146,7 @@
 "birkenstock for women",
 "birkenstock gizeh"
 ],
-"in": true
+"in": false
 },
 {
 "t": "BIRKENSTOCK ARIZONA SHEERLING TAUPE SLIDES",
@@ -14950,7 +15110,7 @@
 {
 "t": "MOON BOOT LOW GLANCE SILVER BOOTS",
 "u": "https://comostore.me/products/moon-boot-low-glance-silver-boots",
-"p": 250.0,
+"p": 245.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1367/5161/files/comowebsitedesign-2026-01-22T160918.955_ac4cdb0d-30b5-4ce0-8e33-f61e497b9adc.png?v=1769091145&width=400",
@@ -16256,7 +16416,7 @@
 "metisse in Lebanon",
 "metisse made in italy"
 ],
-"in": true
+"in": false
 },
 {
 "t": "METISSE DX2021 LEATHER & JEANS BOOTS",
@@ -22578,7 +22738,7 @@
 "birkenstock for women",
 "birkenstock gizeh"
 ],
-"in": true
+"in": false
 },
 {
 "t": "BIRKENSTOCK GIZEH EVA WHITE SANDALS",
@@ -22598,7 +22758,7 @@
 "birkenstock for women",
 "birkenstock gizeh"
 ],
-"in": true
+"in": false
 },
 {
 "t": "ON RUNNING CLOUD 6 WP BLACK WOMEN SNEAKERS",
@@ -22998,7 +23158,7 @@
 "JUST CAVALLI bags in lebanon",
 "JUST CAVALLI BAGS LEBANON"
 ],
-"in": false
+"in": true
 },
 {
 "t": "JUST CAVALLI STUDDED CROC BLACK BAG",
@@ -23398,7 +23558,7 @@
 "Como Store Lebanon",
 "como store number"
 ],
-"in": true
+"in": false
 },
 {
 "t": "CRIME LONDON IVORY OPEN SNEAKERS",
@@ -33733,7 +33893,7 @@
 "birkenstock for women",
 "birkenstock gizeh"
 ],
-"in": true
+"in": false
 },
 {
 "t": "BIRKENSTOCK GIZEH EVA BLACK MEN SANDALS",
@@ -33753,7 +33913,7 @@
 "birkenstock for women",
 "birkenstock gizeh"
 ],
-"in": true
+"in": false
 },
 {
 "t": "BIRKENSTOCK ARIZONA EVA NAVY MEN SANDALS",
@@ -33793,7 +33953,7 @@
 "birkenstock for women",
 "birkenstock gizeh"
 ],
-"in": true
+"in": false
 },
 {
 "t": "BIRKENSTOCK ARIZONA EVA METALLIC SILVER Sandals",
@@ -34033,7 +34193,7 @@
 "birkenstock for women",
 "birkenstock gizeh"
 ],
-"in": true
+"in": false
 },
 {
 "t": "UGG GOLDENGLOW SEASALT SANDALS",
@@ -34158,8 +34318,8 @@
 {
 "t": "CRIME LONDON DISTRESSED GLITTER Sneakers",
 "u": "https://comostore.me/products/crime-london-distressed-glitter-glaze-sneakers",
-"p": 150.0,
-"c": 210.0,
+"p": 210.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1367/5161/files/distressedglitter2.jpg?v=1741246869&width=400",
 "type": "Sneakers",
@@ -34173,7 +34333,7 @@
 "crime London Sneakers",
 "crime London Sneakers lebanon"
 ],
-"in": false
+"in": true
 },
 {
 "t": "CRIME LONDON DISTRESSED GLITTER GLAZE Sneakers",
