@@ -795,7 +795,7 @@
 "Product Type_Fatigue & Energy",
 "Sub Category_Food Supplements"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Makulin Plus",
@@ -1289,7 +1289,7 @@
 "Loyalty Program",
 "new arrivals"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Institute Aloe Vera Calming Series Moisturizing Set for Hydration",
@@ -2920,7 +2920,7 @@
 "Brand_Klorane",
 "Category_Hair Expert"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Bactigyn",
@@ -4968,7 +4968,7 @@
 "Moisturizers",
 "new arrivals"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Dark Spot Correcting Glow Toner",
@@ -11197,7 +11197,7 @@
 "Anniversary27",
 "Value Deals"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Devotion Eau De Parfum Intense",
@@ -11648,7 +11648,7 @@
 "Item Type_Make Up Removers",
 "korean"
 ],
-"in": true
+"in": false
 },
 {
 "t": "The Vitamin C 23 Serum",
@@ -13827,7 +13827,7 @@
 "SAVE22",
 "SEARCH_IGNORE"
 ],
-"in": true
+"in": false
 },
 {
 "t": "DRAW ENTRY CARD - ESTEE LAUDER GIFT",
@@ -18991,7 +18991,7 @@
 "Product Type_Digestive Problems",
 "Sub Category_Food Supplements"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Magic Drops Glow Highlighting Body Concentrate",
@@ -31408,19 +31408,6 @@
 "in": false
 },
 {
-"t": "Nova Extra Soft Toothbrush",
-"u": "https://skinsociety.me/products/nova-extra-soft-toothbrush",
-"p": 5.55,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/7317400000848.jpg?v=1774952382&width=400",
-"type": "Parapharmacy",
-"tags": [
-"7350121250932"
-],
-"in": false
-},
-{
 "t": "Organic Agave Light Amber Syrup",
 "u": "https://skinsociety.me/products/organic-agave-light-amber-syrup",
 "p": 11.62,
@@ -32930,7 +32917,7 @@
 "Hair Mist",
 "Hair Spray"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Amber Hair and Body Spray",
@@ -37312,7 +37299,7 @@
 "Dermocosmetics",
 "Face Serums"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Cleanance Comedomed Anti-Blemishes Concentrate - Acne-Prone Skin With Cleanance Gel Pack",
@@ -38425,7 +38412,7 @@
 "Product Type_Body Building",
 "Sub Category_Food Supplements"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Plant Based Protein Vanilla",
@@ -43475,7 +43462,7 @@
 "Item Type_Face Serums",
 "Loyalty Program"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Retinol Boost Night Intense Serum",
@@ -55396,25 +55383,6 @@
 "in": true
 },
 {
-"t": "Self-Fix Band",
-"u": "https://skinsociety.me/products/self-fix-band",
-"p": 0.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/PICSELF-FIXBAND10CMX4M.jpg?v=1764683036&width=400",
-"type": "Parapharmacy",
-"tags": [
-"Brand_Pic Solution",
-"Category_Parapharmacy",
-"Family Health",
-"First Aid",
-"Parapharmacy",
-"Product Type_First Aid",
-"Sub Category_Family Health"
-],
-"in": false
-},
-{
 "t": "Foam Wrap",
 "u": "https://skinsociety.me/products/foam-wrap",
 "p": 7.48,
@@ -55592,7 +55560,7 @@
 "Product Type_Foot Health Care",
 "Sub Category_Family Health"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Sheet NG-301",
@@ -58684,6 +58652,46 @@
 "Loyalty Program",
 "Medical Skin Care",
 "mother26"
+],
+"in": false
+},
+{
+"t": "Coffret Le Parfum",
+"u": "https://skinsociety.me/products/coffret-le-parfum-edp",
+"p": 187.6,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/PierreFabreSetsdec24Artboard20.jpg?v=1734340261&width=400",
+"type": "Luxury",
+"tags": [
+"2025 JAN Flash Sale",
+"7640233342268",
+"7640233342268-42940237807709",
+"Brand_Elie Saab",
+"Category_Fragrances",
+"Eau De Parfum",
+"For Her",
+"Fragrances"
+],
+"in": false
+},
+{
+"t": "For Her Eau de Parfum Intense Set",
+"u": "https://skinsociety.me/products/for-her-eau-de-parfum-intense-set",
+"p": 159.85,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3423222133825-1.jpg?v=1764056476&width=400",
+"type": "Luxury",
+"tags": [
+"Brand_Narciso Rodriguez",
+"Category_Fragrances",
+"Eau De Parfum",
+"For Her",
+"Fragrances",
+"Gift Sets",
+"Loyalty Program",
+"Luxury"
 ],
 "in": false
 }
