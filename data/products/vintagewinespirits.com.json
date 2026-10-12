@@ -1,5 +1,41 @@
 [
 {
+"t": "Château Bellevue Figeac St-Emilion 2022",
+"u": "https://vintagewinespirits.com/products/chateau-bellevue-figeac-st-emilion-2020-copy",
+"p": 29.5,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0738/8597/4801/files/BellevueFigeac.jpg?v=1753343890&width=400",
+"type": "Wine",
+"tags": [
+"red",
+"red wine",
+"WF25",
+"Wine New Arrivals & Back in Stock"
+],
+"in": true
+},
+{
+"t": "Les Fiefs De Lagrange St-Julien 2019",
+"u": "https://vintagewinespirits.com/products/les-fiefs-de-lagrange-st-julien-2018-copy",
+"p": 71.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0738/8597/4801/files/LESFIEFSDELAGRANCEST-JULIEN.jpg?v=1717579073&width=400",
+"type": "Wine",
+"tags": [
+"2018",
+"aged cheese",
+"Bordeaux",
+"cheese",
+"cold cuts",
+"FB",
+"France",
+"Full Bodied"
+],
+"in": true
+},
+{
 "t": "Michel Lynch 2023",
 "u": "https://vintagewinespirits.com/products/michel-lynch-2022-copy",
 "p": 11.99,
@@ -101,7 +137,7 @@
 "red",
 "red meat"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Bodega Chacra, ROKA Patagonis, Malbec 2024",
@@ -265,7 +301,7 @@
 "meat",
 "medium bodied"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Glenfiddich 18 Years Old",
@@ -560,7 +596,7 @@
 "tags": [
 "WBIS26"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Joseph Drouhin Nuits-Saint-Georges Procès 2023",
@@ -1286,7 +1322,7 @@
 {
 "t": "Château Giscours 2019",
 "u": "https://vintagewinespirits.com/products/chateau-giscours-2015-copy-1",
-"p": 205.0,
+"p": 218.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0738/8597/4801/products/giscours.png?v=1680179035&width=400",
@@ -1301,7 +1337,7 @@
 "meat",
 "medium bodied"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Arnaud Boué, Coteaux Bourguignons Gamay 2021",
@@ -1950,7 +1986,7 @@
 "red meat",
 "Tuscany"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Heaven Sake Baby Junmai Daiginjo 300ml",
@@ -2255,7 +2291,7 @@
 {
 "t": "Lacoste-Borie Pauillac 2019",
 "u": "https://vintagewinespirits.com/products/lacoste-borie-pauillac-2018-copy",
-"p": 83.0,
+"p": 73.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0738/8597/4801/files/LACOSTEBORIE2018PAUILLAC.jpg?v=1717579136&width=400",
@@ -2270,7 +2306,7 @@
 "meat",
 "poultry"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Soto de Torres Ibéricos Rioja Crianza 2021",
@@ -2392,7 +2428,7 @@
 "SpringW26",
 "SS"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Western Cellars Colombard Chardonnay USA 2022",
@@ -2733,7 +2769,7 @@
 {
 "t": "Château La Croix Saint-Vincent",
 "u": "https://vintagewinespirits.com/products/chateau-la-croix-saint-vincent",
-"p": 56.5,
+"p": 60.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0738/8597/4801/files/spiritueux-chateau-la-croix-saint-vincent-rouge-2013.jpg?v=1758265503&width=400",
@@ -2819,7 +2855,7 @@
 "Festive Spirits",
 "ITD"
 ],
-"in": true
+"in": false
 },
 {
 "t": "1800 Milenio",
@@ -3254,7 +3290,7 @@
 {
 "t": "Ségla Margaux 2016",
 "u": "https://vintagewinespirits.com/products/segla-magnum-rouge-margaux-2008-150cl-copy",
-"p": 90.0,
+"p": 95.5,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0738/8597/4801/products/Segla_2010.png?v=1680179031&width=400",
@@ -3269,7 +3305,7 @@
 "poultry",
 "red"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Château Tour de Pez Saint-Estèphe 2022",
@@ -3346,7 +3382,7 @@
 {
 "t": "Château Roquefort 2022",
 "u": "https://vintagewinespirits.com/products/chateau-roquefort-2022",
-"p": 19.5,
+"p": 20.5,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0738/8597/4801/files/RoquefortRouge.png?v=1753344579&width=400",
@@ -3358,22 +3394,6 @@
 "Wine New Arrivals & Back in Stock"
 ],
 "in": true
-},
-{
-"t": "Château Bellevue Figeac St-Emilion 2020",
-"u": "https://vintagewinespirits.com/products/chateau-bellevue-figeac-st-emilion-2020",
-"p": 29.5,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0738/8597/4801/files/BellevueFigeac.jpg?v=1753343890&width=400",
-"type": "Wine",
-"tags": [
-"red",
-"red wine",
-"WF25",
-"Wine New Arrivals & Back in Stock"
-],
-"in": false
 },
 {
 "t": "Suntory Roku Gin + Glass",
@@ -7421,7 +7441,7 @@
 "white wine",
 "wine"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Chateau Ksara Sunset",
@@ -9745,7 +9765,7 @@
 "Provence",
 "rosé"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Spritz By Chenet (Cocktail Arom)",

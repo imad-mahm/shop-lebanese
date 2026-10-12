@@ -1582,7 +1582,7 @@
 "Giftset",
 "nutripo_acne_aug26"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Buy Nutripo Hyal-C Facial Serum 30 ml & get a FREE one",
@@ -1620,7 +1620,7 @@
 "nutripo_acne_aug26",
 "Pharma_week_26"
 ],
-"in": true
+"in": false
 },
 {
 "t": "🎁 Congratulations! Your order qualifies you for our giveaway! Your order number is now in the list to get the chance to WIN the MDO Transforming Kit. Good luck!",
@@ -3086,7 +3086,7 @@
 "HAIR_BUNDLE",
 "pf-bck-to-schl-cmpgn"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Buy Rene Furterer Color Glow repairing mask 200ml & get a FREE Hairbrush",
@@ -11443,7 +11443,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/SafaRenewalLipOil.png?v=1777020480&width=400",
 "type": "Lip Oil",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Kanz Hydrating Lip Oil",
@@ -25160,7 +25160,7 @@
 "exclusivedeals_may26",
 "mencorner"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Buy 2% Hyaluronic acid +B5 Serum  + 10% Niacinamide + Gel Cleanser",
@@ -34911,7 +34911,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/42_0daddae9-609f-4647-92ae-2bc403863309.png?v=1757660562&width=400",
 "type": "",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "ALPHA ARBUTIN 2% + HA 60ML/2FLOZ",
@@ -35032,7 +35032,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/30_6221dd94-48cf-4c54-8924-530e336dfad0.png?v=1757660550&width=400",
 "type": "",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "SOOTHING & BARRIER SUPPORT SERUM 30ML/1FLOZ",
@@ -35264,7 +35264,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/10_8517ac85-dfdc-4847-804f-17c63732e7b3.png?v=1757660530&width=400",
 "type": "",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "NATURAL MOISTURIZING FACTORS +HA 30ML/1FLOZ",
@@ -37157,7 +37157,7 @@
 "NOV25DISCOUNTS_KLORANE",
 "NOV25DISCOUNTS_PF"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Klorane Prickly Pear Thirst-Quenching Shampoo 200ml",
