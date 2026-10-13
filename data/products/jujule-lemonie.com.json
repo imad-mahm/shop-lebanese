@@ -1076,7 +1076,7 @@
 "Scuba",
 "winter"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Jujule Signature Kaftan",
@@ -2069,7 +2069,7 @@
 "in": true
 },
 {
-"t": "Leaf Top - Pale Coral",
+"t": "Leaf Top - Linen Saumon",
 "u": "https://www.jujule-lemonie.com/products/leaf-top-pale-coral",
 "p": 175.0,
 "c": null,
@@ -3975,7 +3975,7 @@
 "Scuba",
 "winter"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Jujule Oasis Jacket - Light Pink",
