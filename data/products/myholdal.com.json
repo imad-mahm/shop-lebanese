@@ -1,5 +1,38 @@
 [
 {
+"t": "Pink Heart-shaped Mirror",
+"u": "https://myholdal.com/products/pink-heart-shaped-mirror",
+"p": 0.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/ChatGPTImageSep25_2026_09_47_08AM.png?v=1791810695&width=400",
+"type": "",
+"tags": [
+"hide-cart"
+],
+"in": true
+},
+{
+"t": "CeraVe Moisturising Cream for Dry to Very Dry Skin 3 Essential Ceramides 340g",
+"u": "https://myholdal.com/products/buy-cerave-moisturising-cream-for-dry-to-very-dry-skin-3-essential-ceramides-340g-lebanon",
+"p": 21.31,
+"c": 21.31,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/8901526652945-01.jpg?v=1785920251&width=400",
+"type": "BODY CARE",
+"tags": [
+"BEAUTY",
+"BRANDS UNISEX",
+"CERAVE UNISEX",
+"GROOMING",
+"influencer code",
+"MEN SKINCARE",
+"SKINCARE sunscreens",
+"WOMEN SKINCARE"
+],
+"in": true
+},
+{
 "t": "Happy Charms",
 "u": "https://myholdal.com/products/buy-happy-charms-lebanon",
 "p": 27.0,
@@ -13,7 +46,7 @@
 "LRLDIS20 PUPA MILANO WOMEN",
 "WOMEN MAKEUP"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Silver Conditioner For Grey, White Or Light Blonde Hair Serie Expert 200Ml",
@@ -977,7 +1010,7 @@
 "WOMEN",
 "WOMEN NECKLACES"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Letter E pearl and multicolor stones necklace",
@@ -1681,26 +1714,6 @@
 "in": true
 },
 {
-"t": "Sideline 119 4 Cfa - 37Cfa006740F",
-"u": "https://myholdal.com/products/buy-sideline-119-4-cfa-37cfa006740f-lebanon",
-"p": 24.8,
-"c": 124.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/products/37CFA006740F.jpg?v=1757495338&width=400",
-"type": "SNEAKERS",
-"tags": [
-"BRANDS WOMEN",
-"clothing bf 25",
-"LACOSTE",
-"Lacoste BF 22",
-"LACOSTE FOR HER",
-"LACOSTE SHOES WOMEN SALE",
-"lacoste to delete march",
-"OUTLET - LACOSTE WOMEN"
-],
-"in": false
-},
-{
 "t": "L.12.12 Light-Wt 318 3 Caw - 36Caw0057B98",
 "u": "https://myholdal.com/products/buy-l-12-12-light-wt-318-3-caw-36caw0057b98-lebanon",
 "p": 31.6,
@@ -2018,7 +2031,7 @@
 "lacoste to delete march",
 "LRLDIS15"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Loose Fit L.12.12 Piqué Polo Shirt - PH3922",
@@ -2058,7 +2071,7 @@
 "LACOSTE SHOES",
 "LACOSTE SHOES FW22 I"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Original L.12.12 petit Pique cotton Polo Shirt - L1212",
@@ -3310,7 +3323,7 @@
 "LACOSTE SHOES MEN SALE",
 "lacoste to delete march"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Women's V-Neck Loose Fit Cotton T-Shirt - TF8392",
@@ -3961,7 +3974,7 @@
 "LACOSTE",
 "LACOSTE CLOTHING MEN SALE"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Men's Water-Resistant Cotton Zip Jacket - BH1045",
@@ -4293,26 +4306,6 @@
 "lacoste ss26 women"
 ],
 "in": true
-},
-{
-"t": "Men's Elite Active Textile Trainers - 46SMA0123",
-"u": "https://myholdal.com/products/buy-men-s-elite-active-textile-trainers-46sma0123-075-lebanon",
-"p": 82.0,
-"c": 205.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/Square-46SMA0123_075_01.jpg?v=1757494110&width=400",
-"type": "SHOES",
-"tags": [
-"_filter_Black",
-"ATHLEISURE SNEAKERS",
-"BF SHOES25",
-"BRANDS MEN",
-"clothing bf 25",
-"CORE ACTIVE",
-"Footwear",
-"LACOSTE"
-],
-"in": false
 },
 {
 "t": "Men's Court Cage Leather Colour Contrast Trainers - 46SMA0091",
@@ -5670,7 +5663,7 @@
 "LACOSTE FOR HIM",
 "LACOSTE SHOES"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Men's Lacoste Court-Master Pro Textile Colour Block Trainers - 45Sma01211R5",
@@ -7026,7 +7019,7 @@
 "lacoste to delete march",
 "LACOSTE WOMEN"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Men's Stretch Buttoned Straight Fit Cotton Blazer - Vh3494",
@@ -7186,7 +7179,7 @@
 "LACOSTE CLOTHING MEN SALE",
 "Lacoste For Him"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Cotton Pima T-shirt - TH6709",
@@ -8106,7 +8099,7 @@
 "OUTLET - LACOSTE WOMEN",
 "outlet lacoste shoes 25"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Juniors' Lerond Tonal Synthetic Trainers - 37Cuj0027",
@@ -8466,7 +8459,7 @@
 "Lacoste for him",
 "Lacoste Textile BF 22"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Men's Disney Mickey Graphic Band Cotton Jersey T-Shirt - Th1544",
@@ -8806,7 +8799,7 @@
 "LACOSTE NS FW23",
 "lacoste to delete march"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Men's V-Neck Caviar Pique Accent Cotton Jersey Sweater - AH4087",
@@ -9186,7 +9179,7 @@
 "Lacoste Textile BF 22",
 "lacoste to delete march"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Men's Slim Fit 5-Pocket Stretch Cotton Pants - HH9561",
@@ -10005,7 +9998,7 @@
 "LACOSTE FW 25 MEN TEXTILE",
 "lacoste fw25"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Men's Elite Active Sneakers - 49SMA0002",
@@ -19361,7 +19354,7 @@
 "LANCOME WOMEN",
 "WOMEN SKINCARE"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Absolue Rich Cream",
@@ -22571,7 +22564,7 @@
 "ramadan offers 26",
 "RETAIL CORPORATE DISCOUNTED ITEMS"
 ],
-"in": true
+"in": false
 },
 {
 "t": "SEIKO 5 SKELETON SEA GREEN DIAL SILVER STEEL 42.5MM - SRPJ45K1Q",
@@ -22891,7 +22884,7 @@
 "SKINCARE sunscreens",
 "WOMEN SKINCARE"
 ],
-"in": true
+"in": false
 },
 {
 "t": "PRESTIGE BLUE DIAL SILVER STEEL 40MM- A6B005X1",
@@ -25652,7 +25645,7 @@
 "WOMEN BACKPACKS",
 "WOMEN BAGS"
 ],
-"in": true
+"in": false
 },
 {
 "t": "SUPERTABOO BTS PRT AC -I5637",
@@ -27241,7 +27234,7 @@
 "MIU MIU WOMEN",
 "WOMEN FRAGRANCES"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Prada Paragdime Eau De Parfum Set",
@@ -27311,7 +27304,7 @@
 "MEN FRAGRANCES",
 "YVES SAINT LAURENT MEN"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Y Eau De Parfum Set",
@@ -27383,7 +27376,7 @@
 "MEN FRAGRANCES",
 "YVES SAINT LAURENT MEN"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Idôle Eau de Parfum Set",
@@ -27455,7 +27448,7 @@
 "MAPPING TALA 21",
 "WOMEN FRAGRANCES"
 ],
-"in": true
+"in": false
 },
 {
 "t": "My Way Eau De Parfum Set",
@@ -27509,7 +27502,7 @@
 "MAPPING TALA 21",
 "MEN FRAGRANCES"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Si Passione Red Bloom Eau De Parfum",
@@ -27547,7 +27540,7 @@
 "MAPPING TALA 21",
 "WOMEN FRAGRANCES"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Faceglass™ Hydrating Skin Gloss",
@@ -28873,7 +28866,7 @@
 "LONGCHAMP FW25 DELIVERY I",
 "Longchamp FW26 Del I"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Le Foulonné  Pouch  -  30051021",
@@ -32326,7 +32319,7 @@
 "WOMEN",
 "WOMEN SCARVES"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Sun and moon earrings with brushed gold chains and pearls",
@@ -32477,7 +32470,7 @@
 "WOMEN",
 "WOMEN VANITY POUCHES"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Sun and moon necklace with brushed gold chains and pearls",
@@ -33238,7 +33231,7 @@
 "WOMEN",
 "WOMEN BAGS"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Large gold plaited bag",
@@ -34651,7 +34644,7 @@
 "WOMEN",
 "WOMEN SCARVES AND SHAWLS"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Black leather platform sandal",
@@ -36465,7 +36458,7 @@
 "RETAIL CORPORATE DISCOUNTED ITEMS",
 "SEIKO BLACK FRIDAY"
 ],
-"in": true
+"in": false
 },
 {
 "t": "SEIKO 5 GMT GLOSS BLACK BLK DIAL JUBILEE BRACELET 42.5MM - SSK001K1",
@@ -36957,7 +36950,7 @@
 "Kipling SS26 Second drop",
 "Kipling Women"
 ],
-"in": true
+"in": false
 },
 {
 "t": "YENNA -I6721",
@@ -36992,7 +36985,7 @@
 "Kipling SS26 Second drop",
 "Kipling Women"
 ],
-"in": true
+"in": false
 },
 {
 "t": "RIRI -I5358",
@@ -37389,7 +37382,7 @@
 "Kipling SS26 Second drop",
 "Kipling Women"
 ],
-"in": true
+"in": false
 },
 {
 "t": "MONEY LOVE-I3738",
@@ -37442,7 +37435,7 @@
 "Kipling Women",
 "WOMEN WALLETS & POUCHES"
 ],
-"in": true
+"in": false
 },
 {
 "t": "CREATIVITY S -01864",
@@ -37460,7 +37453,7 @@
 "Kipling Women",
 "WOMEN WALLETS & POUCHES"
 ],
-"in": true
+"in": false
 },
 {
 "t": "NAIRA -I9514",
@@ -38587,7 +38580,7 @@
 "LID & LLD NEW ITEMS",
 "MEN FRAGRANCES"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Power of You Eau de Parfum",
@@ -38605,7 +38598,7 @@
 "LID & LLD NEW ITEMS",
 "WOMEN FRAGRANCES"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Libre Berry Crush Eau de Parfum Intense",
@@ -38642,7 +38635,7 @@
 "WOMEN MAKEUP",
 "YVES SAINT LAURENT WOMEN"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Macstack Black Mascara 3ML",
@@ -44910,7 +44903,7 @@
 "LANCOME WOMEN",
 "WOMEN SKINCARE"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Armani Privé Orange Meditérranée",
@@ -44930,7 +44923,7 @@
 "influencer code",
 "MEN FRAGRANCES"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Kenzo Travel Pouch",
@@ -45991,22 +45984,6 @@
 "in": true
 },
 {
-"t": "Dyson V8™ Absolute Vacuum",
-"u": "https://myholdal.com/products/dyson-v8-absolute-vacuum",
-"p": 299.0,
-"c": 299.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/V8Absolute1.jpg?v=1777529171&width=400",
-"type": "FLOORCARE",
-"tags": [
-"Dyson FLOOR CARE",
-"Dyson new",
-"Dyson Regular",
-"Floor Care"
-],
-"in": false
-},
-{
 "t": "Spectra 3.0, Exp. Global Carry-On-611754",
 "u": "https://myholdal.com/products/buy-spectra-3-0-exp-global-carry-on-611754-lebanon",
 "p": 547.2,
@@ -46656,7 +46633,7 @@
 "mapping 28",
 "MEN FRAGRANCES"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Angel Blush Eau de Parfum Musquée",
@@ -46765,7 +46742,7 @@
 "june armani men",
 "MEN FRAGRANCES"
 ],
-"in": true
+"in": false
 },
 {
 "t": "CICA REPAIR+  MASK - AFTER SUN",
@@ -46802,7 +46779,7 @@
 "MEN HAIRCARE",
 "VICHY MEN"
 ],
-"in": false
+"in": true
 },
 {
 "t": "PencilVac Fluffycones Vaccum",
@@ -47855,7 +47832,7 @@
 "MEN FRAGRANCES",
 "VIKTOR & ROLF MEN"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Born In Roma Uomo Set",
@@ -47975,7 +47952,7 @@
 "valentino june men",
 "VALENTINO MEN"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Rénergie H.C.F. Triple Serum Set",
@@ -48294,7 +48271,7 @@
 "june armani women",
 "WOMEN FRAGRANCES"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Sì Passione Red Musk Eau de Parfum Gift Set",
@@ -48384,7 +48361,7 @@
 "june armani women",
 "WOMEN FRAGRANCES"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Armani Privé Oud Nacré Eau de Parfum",
@@ -48403,7 +48380,7 @@
 "MEN FRAGRANCES",
 "WOMEN FRAGRANCES"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Armani Privé Thé Yulong Eau de Toilette",
@@ -50253,26 +50230,6 @@
 "in": true
 },
 {
-"t": "Unisex Chantaco Zippered Fine Leather Small Coin Pouch - NF3855KL",
-"u": "https://myholdal.com/products/buy-unisex-chantaco-zippered-fine-leather-small-coin-pouch-nf3855klss23-ii-lebanon",
-"p": 58.0,
-"c": 145.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/NF3855KL_000_24.jpg?v=1757491101&width=400",
-"type": "WALLETS",
-"tags": [
-"0",
-"2 - LUGGAGE",
-"5yearsann",
-"_filter_Black",
-"BRANDS WOMEN",
-"CHANTACO CLASSICS",
-"Eight interior and exterior card slots",
-"Lac Textile SS23 II"
-],
-"in": false
-},
-{
 "t": "Kids' Lacoste Regular Fit Petit Pique Polo Shirt - Pj2909",
 "u": "https://myholdal.com/products/buy-kids-lacoste-regular-fit-petit-pique-polo-shirt-pj2909ss23-ii-lebanon",
 "p": 35.2,
@@ -51790,7 +51747,7 @@
 "Lacoste FW25 Textile",
 "Lacoste FW25 Wave I Camp Jan"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Medium Tennis Bliss Shoulder Bag - NF5105IT",
@@ -54375,7 +54332,7 @@
 "WOMEN",
 "WOMEN JEANS"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Blue Ikat floral striped scarf",
@@ -57668,7 +57625,7 @@
 "LANCOME WOMEN",
 "live sale WOMEN"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Lash Idôle Mascara",
@@ -57747,6 +57704,43 @@
 "lrl 40 not discounted",
 "LRLDIS40",
 "mapping ysl"
+],
+"in": true
+},
+{
+"t": "Lip Idôle Butterglow",
+"u": "https://myholdal.com/products/buy-lip-idole-butterglow-lebanon",
+"p": 47.23,
+"c": 47.23,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/lan_dmi_makl_lip_idole_butterglow_21_closed_and_open_product_3614274169737_packshot-front-with-shadow_1x1_vi.jpg?v=1774248480&width=400",
+"type": "LIPSTICKS",
+"tags": [
+"BEAUTY",
+"influencer code",
+"lancome june makeup",
+"lancome makeup",
+"LANCOME WOMEN",
+"LID & LLD NEW ITEMS",
+"WOMEN MAKEUP"
+],
+"in": true
+},
+{
+"t": "Lip Idôle Juicy Treat",
+"u": "https://myholdal.com/products/buy-lip-idole-juicy-treat-lebanon",
+"p": 44.41,
+"c": 44.41,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614274382617_lip-idole-juicytreat_10-pink-oh-la-la.webp?v=1774247728&width=400",
+"type": "LIPSTICKS",
+"tags": [
+"BEAUTY",
+"influencer code",
+"lancome june makeup",
+"lancome makeup",
+"LANCOME WOMEN",
+"WOMEN MAKEUP"
 ],
 "in": true
 }
