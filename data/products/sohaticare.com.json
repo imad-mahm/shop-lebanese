@@ -1,5 +1,61 @@
 [
 {
+"t": "Buy 1, Get 1 Free Novus Nose Patches",
+"u": "https://sohaticare.com/products/buy-1-get-1-free-novus-nose-patches",
+"p": 12.0,
+"c": 24.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/NovusBundlesPackshot2.jpg?v=1791811228&width=400",
+"type": "Bundle",
+"tags": [
+"Bogo-collection",
+"Bundle",
+"COMPENSATION_OCT26",
+"Giftset",
+"Novus_oct26",
+"TOPOFFER"
+],
+"in": true
+},
+{
+"t": "Buy 1, Get 1 Free Novus Pimple Patches",
+"u": "https://sohaticare.com/products/buy-1-get-1-free-novus-pimple-patches",
+"p": 9.99,
+"c": 19.98,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/NovusBundlesPackshot3_d1f1cc92-75c1-4420-880c-30a698a3cb9b.jpg?v=1791811157&width=400",
+"type": "Bundle",
+"tags": [
+"Bogo-collection",
+"Bundle",
+"COMPENSATION_OCT26",
+"Giftset",
+"Novus_oct26",
+"TOPOFFER"
+],
+"in": true
+},
+{
+"t": "Coffret Whitening Roll On Super Dry Powder Soft (1+1 FREE)",
+"u": "https://sohaticare.com/products/coffret-whitening-roll-on-super-dry-powder-soft-1-1-free",
+"p": 9.16,
+"c": 16.2,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/beesline-packshot-1.jpg?v=1716967465&width=400",
+"type": "Set",
+"tags": [
+"ALLSUMSPLASH_05.16",
+"beesline",
+"Beesline_NewPriceUpdate_28AUG24",
+"Beesline_NewPriceUpdate_29AUG24",
+"Beesline_NOV24",
+"Beesline_OfferMAY24",
+"Bundle",
+"Bundles"
+],
+"in": true
+},
+{
 "t": "Buy Eucerin Hyaluron-Filler 3xEffect Hydra Boost Serum 30ml & get a FREE PhotoAging Control Fluid SPF 50+ 50ml",
 "u": "https://sohaticare.com/products/buy-eucerin-hyaluron-filler-3xeffect-hydra-boost-serum-30ml-get-a-free-photoaging-control-fluid-spf-50-50ml-copy",
 "p": 43.96,
@@ -1427,7 +1483,7 @@
 "collagen lifter",
 "collagen-lifter-collection"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Elvive Collagen Lifter Shampoo",
@@ -2459,7 +2515,7 @@
 {
 "t": "CeraVe Invisible Hydrating Fluid Sunscreen SPF50 50ml",
 "u": "https://sohaticare.com/products/cerave-invisible-hydrating-fluid-sunscreen-spf50-50ml",
-"p": 17.69,
+"p": 19.9,
 "c": 22.11,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/3337875945660-01_d8438335-8602-4fa5-b935-8cb1453b927c.jpg?v=1785497029&width=400",
@@ -2473,7 +2529,7 @@
 {
 "t": "CeraVe Invisible Dry Touch Fluid Sunscreen SPF 50+ 50 ml",
 "u": "https://sohaticare.com/products/cerave-invisible-dry-touch-fluid-sunscreen-spf-50-50-ml",
-"p": 17.69,
+"p": 19.9,
 "c": 22.11,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/3337875945622-01_8ef7a198-b6e4-4549-ae0e-0d4ea20d70f8.jpg?v=1785497020&width=400",
@@ -2487,7 +2543,7 @@
 {
 "t": "La Roche-Posay LIPIKAR Balm AP+Max Triple-Action Balm with Neurobioma for Ultra-Dry to Atopic Eczema-Prone Skin 75ML",
 "u": "https://sohaticare.com/products/la-roche-posay-lipikar-balm-ap-max-triple-action-balm-with-neurobioma-for-ultra-dry-to-atopic-eczema-prone-skin-75ml",
-"p": 13.26,
+"p": 15.91,
 "c": 17.68,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/3337875930116_1_3e33fd3c-b1ec-4c40-949a-54acca3f0b96.jpg?v=1787559047&width=400",
@@ -2566,7 +2622,7 @@
 {
 "t": "SA Smoothing Cream 340g",
 "u": "https://sohaticare.com/products/sa-smoothing-cream-340g",
-"p": 21.74,
+"p": 24.45,
 "c": 27.17,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/337875782357-01_55a2588e-42dc-4e81-80fc-a1b8f13dd046.jpg?v=1785497773&width=400",
@@ -2580,7 +2636,7 @@
 {
 "t": "CeraVe Intensive Moisturising Lotion for Very Dry, Itchy Skin 236ml",
 "u": "https://sohaticare.com/products/cerave-intensive-moisturising-lotion-for-very-dry-itchy-skin-236ml",
-"p": 17.55,
+"p": 19.75,
 "c": 21.94,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/3337875904285-01_31f67662-da21-482d-9de0-f1b9a73d1ea3.jpg?v=1785497012&width=400",
@@ -3298,7 +3354,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/3700221313145.webp?v=1771850728&width=400",
 "type": "Food Supplement",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "TurboDraine Pineapple 500ml",
@@ -3777,7 +3833,7 @@
 {
 "t": "CeraVe Salicylic Acid Smoothing Cleanser For Normal, Dry And Rough Skin 236ml",
 "u": "https://sohaticare.com/products/cerave-sa-smoothing-cleanser-for-normal-dry-and-rough-skin-236ml",
-"p": 10.98,
+"p": 12.35,
 "c": 13.72,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/3337875684118_1.jpg?v=1705501665&width=400",
@@ -3792,7 +3848,7 @@
 "BLACKFRIDAY24",
 "BLACKFRIDAY24_LDB"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Gala PuffAway Eye Cream - 30ml",
@@ -4382,7 +4438,7 @@
 "tags": [
 "lumi collection"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Samao Prime Melt Hydrating Smoothing Primer",
@@ -4993,7 +5049,7 @@
 {
 "t": "CeraVe Moisturising Lotion for Normal to Dry Skin with 3 Essential Ceramides",
 "u": "https://sohaticare.com/products/cerave-moisturizing-lotion-24h-body-and-face-moisturizer-for-normal-to-dry-skin-with-hyaluronic-acid-and-ceramides-non-comedogenic-oil-free-fragrance-free",
-"p": 21.55,
+"p": 24.25,
 "c": 26.94,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/3337875597395_1.jpg?v=1698220647&width=400",
@@ -5013,7 +5069,7 @@
 {
 "t": "CeraVe Hydrating Cleanser - Normal to Dry skin",
 "u": "https://sohaticare.com/products/cerave-hydrating-cleanser-face-and-body-wash-for-normal-to-dry-skin-with-hyaluronic-acid-and-ceramides-fragrance-free-paraben-free",
-"p": 11.54,
+"p": 12.98,
 "c": 14.42,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/cerave-hydrating-face-wash-front_a8ddf80a-6b98-4309-b950-e92af5c9e393.png?v=1784207458&width=400",
@@ -5194,7 +5250,7 @@
 {
 "t": "La Roche-Posay Hyalu B5 Suractivated Anti-wrinkle Replumping Serum with a new technology: 4 Hyaluronic Acid System combining 4 forms of Hyaluronic Acid and Vitamin B5 30ml",
 "u": "https://sohaticare.com/products/hyalu-b5-serum",
-"p": 35.18,
+"p": 42.22,
 "c": 46.91,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/Copyof3337875920582_1.jpg?v=1784100205&width=400",
@@ -6035,7 +6091,7 @@
 "medi_game",
 "os_june26_2"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Anua heartleaf pore control cleansing oil",
@@ -8555,7 +8611,7 @@
 {
 "t": "Dercos Densi-Solutions - Thickening Shampoo 250ML",
 "u": "https://sohaticare.com/products/vichy-densi-solutions-thickening-shampoo",
-"p": 14.58,
+"p": 17.5,
 "c": 19.44,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/products/3337875574358_1.jpg?v=1678708369&width=400",
@@ -9762,7 +9818,7 @@
 {
 "t": "Anthelios UV Air Daily Ultra Light SPF50+",
 "u": "https://sohaticare.com/products/anthelios-serum-sunscreen-spf50",
-"p": 20.17,
+"p": 24.21,
 "c": 26.9,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/r1_2da9b07a-348c-4f52-9922-7c149f05c012.webp?v=1779366435&width=400",
@@ -11489,7 +11545,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/lollisbrushes-25.jpg?v=1776857334&width=400",
 "type": "Brushes",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "T015 Puffs - 2 Pcs Both Pink Color",
@@ -11522,7 +11578,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/WhatsAppImage2026-04-23at9.27.30AM.jpg?v=1776936224&width=400",
 "type": "Brushes",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "T012 Double Ended Nose Shadow & Highlight Brush",
@@ -12191,7 +12247,7 @@
 {
 "t": "Cicaplast Gel Accel B5 40ML",
 "u": "https://sohaticare.com/products/cicaplast-gel-accel-b5-40ml",
-"p": 14.31,
+"p": 17.17,
 "c": 19.08,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/01_Cicaplast-Gel-front-shadow.webp?v=1766596781&width=400",
@@ -16095,7 +16151,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/clea.jpg?v=1761302230&width=400",
 "type": "Sponge",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Cleansing Sponge 2 Pcs",
@@ -24743,7 +24799,7 @@
 {
 "t": "Vichy liftactiv collagen specialist 16 bonding anti aging serum for men & women 30ml",
 "u": "https://sohaticare.com/products/liftactiv-collagen-specialist-16-eye-care-15ml",
-"p": 43.6,
+"p": 52.32,
 "c": 58.13,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/images_5.avif?v=1766820731&width=400",
@@ -25480,7 +25536,7 @@
 {
 "t": "La Roche-Posay Effaclar Duo+M Acne Treatment Cream For Oily, Sensitive and Acne-Prone Skin; Corrects Blackheads, Blemishes, and Post-Acne Marks Skincare Spot Treatment 40ML",
 "u": "https://sohaticare.com/products/effaclar-duo-m-40ml-for-acne-prone-skin",
-"p": 19.1,
+"p": 22.92,
 "c": 25.47,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/3337875863377_1.jpg?v=1701355756&width=400",
@@ -26375,7 +26431,7 @@
 {
 "t": "Facial Moisturizing Lotion Spf50 52ML",
 "u": "https://sohaticare.com/products/facial-moisturizing-lotion-spf50",
-"p": 15.05,
+"p": 16.93,
 "c": 18.81,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/22256222_01.jpg?v=1764837853&width=400",
@@ -26902,7 +26958,7 @@
 {
 "t": "La Roche-Posay Effaclar Effaclar Duo+M 3H Invisible Pimple Patch Spot Treatment For Acne-Prone Skin, 22 Patches per Pack",
 "u": "https://sohaticare.com/products/la-roche-posay-effaclar-duo-m-3h-spot-patches-for-acne-prone-skin",
-"p": 11.47,
+"p": 13.76,
 "c": 15.29,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/3337875924887_1.jpg?v=1764336275&width=400",
@@ -27535,7 +27591,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/4059729541703_1.webp?v=1763971738&width=400",
 "type": "Mascara",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Sundrop-Vitamin D infused Serum",
@@ -28412,7 +28468,7 @@
 "near-expiry-feb27",
 "samenear_expiry26_6_10"
 ],
-"in": true
+"in": false
 },
 {
 "t": "NIZORAL DAILYCARE SHAMPOO For Oily Scalp 200ML",
@@ -28427,7 +28483,7 @@
 "near-expiry-jan27",
 "samenear_expiry26_6_10"
 ],
-"in": true
+"in": false
 },
 {
 "t": "NIZORAL CONDITIONER BALM 200ML",
@@ -28440,7 +28496,7 @@
 "tags": [
 "20%offfrenchweek"
 ],
-"in": true
+"in": false
 },
 {
 "t": "NIZORAL CARE TONIC 100ML",
@@ -28455,7 +28511,7 @@
 "near-expiry-feb27",
 "samenear_expiry26_6_10"
 ],
-"in": true
+"in": false
 },
 {
 "t": "L’Oréal Paris, Collagen Expert Age-Correcting Serum with Glycerin & Collagen Peptide Fractions, for Firmness Boosting and Improved Elasticity, 30ml",
@@ -31478,7 +31534,7 @@
 {
 "t": "Vichy Dercos Anti Dandruff Shampoo for Dry hair 400ml",
 "u": "https://sohaticare.com/products/vichy-dercos-anti-dandruff-shampoo-for-dry-hair-400ml",
-"p": 23.71,
+"p": 28.46,
 "c": 31.62,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/3337875492799_1_0abaafa8-3322-4fe1-8a65-acce498525c2.jpg?v=1760620505&width=400",
@@ -32678,7 +32734,7 @@
 {
 "t": "La Roche-Posay Anthelios UVMune 400 Anti-Dark Spots Fluid SPF 50+ for Men/Women; Dermatologically-Tested With Melasyl, Corrects and Protects Un-Even Skin Tone 50ML",
 "u": "https://sohaticare.com/products/la-roche-posay-anthelios-uvmune-400-spf-50-invisible-fluid-for-dark-spots-50ml-1",
-"p": 21.41,
+"p": 25.7,
 "c": 28.55,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/3337875917407_1.jpg?v=1758030575&width=400",
@@ -33008,7 +33064,7 @@
 {
 "t": "La Roche-Posay Anthelios UVMune 400 Oil Control Fluid Sunscreen SPF 50+ for Men/Women; Dermatologically-Tested Sunblock for Sensitive Oily Skin 50ML",
 "u": "https://sohaticare.com/products/la-roche-posay-anthelios-uvmune-400-oil-control-invisible-fluid-sunscreen-spf-50-for-oily-skin-50ml",
-"p": 20.26,
+"p": 24.31,
 "c": 27.01,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/3337875847292_1.jpg?v=1758030451&width=400",
@@ -33261,7 +33317,7 @@
 {
 "t": "CeraVe Oil Control Moisturising Gel-Cream for Oily Skin 52ml",
 "u": "https://sohaticare.com/products/cerave-oil-control-moisturising-gel-cream-for-oily-skin-52ml",
-"p": 15.05,
+"p": 16.93,
 "c": 18.81,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/3337875904513_01-min.jpg?v=1758872659&width=400",
@@ -33293,7 +33349,7 @@
 {
 "t": "Cerave Hydrating Hyaluronic Acid Serum for Dry Skin 30ml",
 "u": "https://sohaticare.com/products/cerave-hydrating-hyaluronic-acid-serum-for-dry-skin-30ml",
-"p": 17.74,
+"p": 19.96,
 "c": 22.18,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/3606000560833_1.jpg?v=1758872106&width=400",
@@ -33311,7 +33367,7 @@
 {
 "t": "CERAVE RESURFACING RETINOL SERUM",
 "u": "https://sohaticare.com/products/cerave-resurfacing-retinol-serum",
-"p": 20.01,
+"p": 22.51,
 "c": 25.01,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/3337875829007_01.jpg?v=1758871984&width=400",
@@ -33452,7 +33508,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/e34.avif?v=1758799053&width=400",
 "type": "Makeup Brushes & Tools",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Essence Brush It Like Its Art Eyeshadow Brush 01",
@@ -34555,7 +34611,7 @@
 "narta_new_sep25",
 "NOV25DISCOUNTS"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Narta - Resixyl - Spray Deodorant for Sensitive Skin & Excessive Sweating - 48H Anti-Perspirant Protection - For Women - 100ml",
@@ -37008,7 +37064,7 @@
 {
 "t": "Liftactiv Pure Retinol Deep Wrinkles Serum Night 30ML",
 "u": "https://sohaticare.com/products/liftactiv-pure-retinol-deep-wrinkles-serum-night-30ml",
-"p": 38.24,
+"p": 45.89,
 "c": 50.99,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/Vichy_-_Liftactiv_Retinol_Specialist_A_Night_Serum_30_ml.webp?v=1790678217&width=400",
@@ -38988,7 +39044,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/conditionnerpro.jpg?v=1751980473&width=400",
 "type": "Conditioner",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "L’Oréal Professionnel | Pro Longer mask | With Filler-A100 and Amino Acid  for long hair with thinned ends | SERIE EXPERT | 250ml",
@@ -39895,8 +39951,8 @@
 {
 "t": "Shield Dryplus STRONG 30 ml",
 "u": "https://sohaticare.com/products/shield-dry-plus-strong-30-ml",
-"p": 25.5,
-"c": null,
+"p": 22.95,
+"c": 25.5,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/DRYPLUSSTRONG30ML.png?v=1750663737&width=400",
 "type": "Roll On",
@@ -39906,8 +39962,8 @@
 {
 "t": "Shield Dryplus SENSITIVE 30 ml",
 "u": "https://sohaticare.com/products/shield-dry-plus-sensitive-30-ml",
-"p": 25.5,
-"c": null,
+"p": 22.95,
+"c": 25.5,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/DRYPLUSSENSITIVE30ML.png?v=1750663540&width=400",
 "type": "Roll On",
@@ -39917,8 +39973,8 @@
 {
 "t": "Shield Dryplus ORIGINAL 30 ml",
 "u": "https://sohaticare.com/products/shield-dry-plus-original-30-ml",
-"p": 25.5,
-"c": null,
+"p": 22.95,
+"c": 25.5,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/DRYPLUSORIGINAL30ML.png?v=1750663219&width=400",
 "type": "Roll On",
@@ -39990,7 +40046,7 @@
 {
 "t": "La Roche-Posay Effaclar MAT Mattifying Face Moisturizer; Face Moisturizing Cream Combating Shine & Reducing Pore Size for Acne-Prone Dry and Oily Skin 40ML",
 "u": "https://sohaticare.com/products/effaclar-mat",
-"p": 9.95,
+"p": 11.93,
 "c": 13.26,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/products/3337872413025_1.jpg?v=1678441331&width=400",
@@ -41219,7 +41275,7 @@
 {
 "t": "Vichy Liftactiv Vitamin C 16% Serum for Anti Aging & Brightening 20ml",
 "u": "https://sohaticare.com/products/vichy-liftactiv-vitamin-c-16-serum-for-anti-aging-brightening-20ml",
-"p": 47.24,
+"p": 56.69,
 "c": 62.99,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/vichy1_ddf7977d-9ac3-4123-bf52-56b0de1ef0ac.jpg?v=1750766445&width=400",
@@ -44098,39 +44154,6 @@
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/OPTIMALYELLOWTWEETYBATHSPONGE.jpg?v=1748512066&width=400",
-"type": "Tools",
-"tags": [],
-"in": true
-},
-{
-"t": "PINK KIDS BATH SPONGE",
-"u": "https://sohaticare.com/products/brown-kids-bath-sponge",
-"p": 3.33,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/images_433246d0-5beb-4867-86d3-7209033eeeda.jpg?v=1762852092&width=400",
-"type": "Tools",
-"tags": [],
-"in": true
-},
-{
-"t": "GREEN KIDS BATH SPONGE",
-"u": "https://sohaticare.com/products/green-kids-bath-sponge",
-"p": 3.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/THE-BODY-SET-Kids-Bath-Sponge-Green.png?v=1748512111&width=400",
-"type": "Tools",
-"tags": [],
-"in": true
-},
-{
-"t": "PADDLE BEECH HAIR BRUSH",
-"u": "https://sohaticare.com/products/paddle-beech-hair-brush",
-"p": 6.5,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/OPT-3047-1.jpg?v=1748511587&width=400",
 "type": "Tools",
 "tags": [],
 "in": true

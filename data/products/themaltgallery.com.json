@@ -2,14 +2,12 @@
 {
 "t": "SKINOS MASTIHA COFFEE",
 "u": "https://themaltgallery.com/products/skinos-mastiha-coffee",
-"p": 22.4,
+"p": 28.0,
 "c": 28.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0551/7695/4062/files/skinos-dark.jpg?v=1788156320&width=400",
 "type": "LIQUEUR",
-"tags": [
-"Great Deals"
-],
+"tags": [],
 "in": true
 },
 {
@@ -32,13 +30,12 @@
 {
 "t": "SALVETO PINOT GRIGIO BLANC",
 "u": "https://themaltgallery.com/products/salveto-pinot-grigio-blanc",
-"p": 8.79,
+"p": 10.99,
 "c": 10.99,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0551/7695/4062/files/CON-0006.jpg?v=1786450161&width=400",
 "type": "WINE",
 "tags": [
-"Great Deals",
 "new",
 "New at the Malt Gallery",
 "Our New Discoveries"
@@ -48,13 +45,12 @@
 {
 "t": "SALVETO PINOT GRIGIO ROSE 2024",
 "u": "https://themaltgallery.com/products/salveto-pinot-grigio-rose-2024",
-"p": 9.59,
+"p": 11.99,
 "c": 11.99,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0551/7695/4062/files/CON-0007.jpg?v=1786450126&width=400",
 "type": "WINE",
 "tags": [
-"Great Deals",
 "new",
 "New at the Malt Gallery",
 "Our New Discoveries"
@@ -64,20 +60,20 @@
 {
 "t": "SARTI",
 "u": "https://themaltgallery.com/products/sarti",
-"p": 18.06,
+"p": 22.58,
 "c": 22.58,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0551/7695/4062/files/sarti-rosa.jpg?v=1785223592&width=400",
 "type": "LIQUEUR",
 "tags": [
-"Great Deals",
 "Italy",
 "Liqueur",
 "Liqueur & Syrup",
 "new",
 "New at the Malt Gallery",
 "Our New Discoveries",
-"Premium Liqueur"
+"Premium Liqueur",
+"Summer Essentials"
 ],
 "in": true
 },
@@ -99,13 +95,12 @@
 {
 "t": "CONTARINI PROSECCO TREVISIO BRUT 75 CL",
 "u": "https://themaltgallery.com/products/contarini-prosecco-trevisio-brut-75-cl",
-"p": 8.79,
+"p": 10.99,
 "c": 10.99,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0551/7695/4062/files/CON-0001.jpg?v=1784280737&width=400",
 "type": "PROSECCO",
 "tags": [
-"Great Deals",
 "new",
 "New at the Malt Gallery",
 "Our New Discoveries"
@@ -115,18 +110,17 @@
 {
 "t": "CONTARINI PROSECCO TREVISIO EXTRA DRY 75CL",
 "u": "https://themaltgallery.com/products/contarini-prosecco-trevisio-extra-dry-75cl",
-"p": 8.79,
+"p": 10.99,
 "c": 10.99,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0551/7695/4062/files/CONTARINI.jpg?v=1788419602&width=400",
 "type": "PROSECCO",
 "tags": [
-"Great Deals",
 "new",
 "New at the Malt Gallery",
 "Our New Discoveries"
 ],
-"in": true
+"in": false
 },
 {
 "t": "CONTARINI PROSECCO EXTRA DRY 20 CL",
@@ -223,13 +217,12 @@
 {
 "t": "PALLINI LIMONCELLO SPRITZ",
 "u": "https://themaltgallery.com/products/pallini-limoncello-spritz",
-"p": 3.4,
+"p": 4.25,
 "c": 4.25,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0551/7695/4062/files/pallinispritz.jpg?v=1781098514&width=400",
 "type": "APERITIFS",
 "tags": [
-"Great Deals",
 "new",
 "New at the Malt Gallery",
 "Our New Discoveries",
@@ -240,13 +233,12 @@
 {
 "t": "PALLINI LIMONCELLO",
 "u": "https://themaltgallery.com/products/pallini-limoncello",
-"p": 18.74,
+"p": 24.99,
 "c": 24.99,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0551/7695/4062/files/pallini.jpg?v=1781098000&width=400",
 "type": "LIQUEUR & SPIRITS",
 "tags": [
-"Great Deals",
 "new",
 "New at the Malt Gallery",
 "Our New Discoveries"
@@ -256,7 +248,7 @@
 {
 "t": "TUTTAVIA COCKTAIL SPRITZ",
 "u": "https://themaltgallery.com/products/tuttavia-cocktail-spritz",
-"p": 2.98,
+"p": 3.5,
 "c": 3.5,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0551/7695/4062/files/TUT-0005.jpg?v=1781097853&width=400",
@@ -272,13 +264,12 @@
 {
 "t": "TUTTAVIA ROSE",
 "u": "https://themaltgallery.com/products/tuttavia-rose",
-"p": 2.98,
+"p": 3.5,
 "c": 3.5,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0551/7695/4062/files/TUT-0004.jpg?v=1781097905&width=400",
 "type": "APERITIFS",
 "tags": [
-"Great Deals",
 "new",
 "New at the Malt Gallery",
 "Our New Discoveries",
@@ -289,13 +280,12 @@
 {
 "t": "TUTTAVIA MOSCATO",
 "u": "https://themaltgallery.com/products/tuttavia-moscato",
-"p": 2.98,
+"p": 3.5,
 "c": 3.5,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0551/7695/4062/files/TUT-0003.jpg?v=1781097948&width=400",
 "type": "APERITIFS",
 "tags": [
-"Great Deals",
 "new",
 "New at the Malt Gallery",
 "Our New Discoveries",
@@ -306,13 +296,12 @@
 {
 "t": "TUTTAVIA PEACH",
 "u": "https://themaltgallery.com/products/tuttavia-peach",
-"p": 2.98,
+"p": 3.5,
 "c": 3.5,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0551/7695/4062/files/TUT-0001.jpg?v=1781097790&width=400",
 "type": "APERITIFS",
 "tags": [
-"Great Deals",
 "new",
 "New at the Malt Gallery",
 "Our New Discoveries",
@@ -323,13 +312,12 @@
 {
 "t": "TUTTAVIA BLUEBERRY",
 "u": "https://themaltgallery.com/products/tuttavia-blueberry",
-"p": 2.98,
+"p": 3.5,
 "c": 3.5,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0551/7695/4062/files/TUT-0002.jpg?v=1781097731&width=400",
 "type": "APERITIFS",
 "tags": [
-"Great Deals",
 "new",
 "New at the Malt Gallery",
 "Our New Discoveries",
@@ -373,13 +361,12 @@
 {
 "t": "HERRADURA ANEJO 70 CL",
 "u": "https://themaltgallery.com/products/herradura-anejo-70-cl",
-"p": 45.05,
+"p": 53.0,
 "c": 53.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0551/7695/4062/files/herrardura-anejo.jpg?v=1779358109&width=400",
 "type": "Tequila",
 "tags": [
-"Great Deals",
 "Mexico",
 "new",
 "Spirits",
@@ -391,13 +378,12 @@
 {
 "t": "EL JIMADOR CRISTALLINO 70 CL",
 "u": "https://themaltgallery.com/products/el-jimador-cristallino-70-cl",
-"p": 35.7,
+"p": 42.0,
 "c": 42.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0551/7695/4062/files/el-jimador.jpg?v=1779356784&width=400",
 "type": "Tequila",
 "tags": [
-"Great Deals",
 "Mexico",
 "new",
 "Tequila",
@@ -408,14 +394,13 @@
 {
 "t": "EL JIMADOR ANEJO 70 CL",
 "u": "https://themaltgallery.com/products/el-jimador-anejo-70-cl",
-"p": 22.4,
+"p": 28.0,
 "c": 28.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0551/7695/4062/files/anejo.jpg?v=1779357657&width=400",
 "type": "Tequila",
 "tags": [
 "Anejo",
-"Great Deals",
 "new",
 "Tequila",
 "Top Tequilas"
@@ -425,13 +410,12 @@
 {
 "t": "EL JIMADOR REPOSADO 70 CL",
 "u": "https://themaltgallery.com/products/el-jimador-reposado-70-cl",
-"p": 19.2,
+"p": 24.0,
 "c": 24.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0551/7695/4062/files/el-jimador-reposado.jpg?v=1779357634&width=400",
 "type": "Tequila",
 "tags": [
-"Great Deals",
 "new",
 "Reposado",
 "Spring Essentials",
@@ -443,13 +427,12 @@
 {
 "t": "EL JIMADOR BLANCO 70 CL",
 "u": "https://themaltgallery.com/products/el-jimador-blanco-70-cl",
-"p": 17.6,
+"p": 22.0,
 "c": 22.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0551/7695/4062/files/el-jimador-blanco.jpg?v=1779357928&width=400",
 "type": "Tequila",
 "tags": [
-"Great Deals",
 "new",
 "Tequila",
 "Top Tequilas"
@@ -459,13 +442,12 @@
 {
 "t": "HERRADURA REPOSADO 70 CL",
 "u": "https://themaltgallery.com/products/herradura-reposado-70-cl",
-"p": 37.4,
+"p": 44.0,
 "c": 44.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0551/7695/4062/files/herrardura-reposado_ad20ba9b-6074-41ca-b876-55ab14688d4e.jpg?v=1779358262&width=400",
 "type": "Tequila",
 "tags": [
-"Great Deals",
 "Mexico",
 "new",
 "Tequila",
@@ -515,13 +497,12 @@
 {
 "t": "ESPOLON REPOSADO 70CL",
 "u": "https://themaltgallery.com/products/espolon-reposado-70cl-1",
-"p": 23.2,
+"p": 29.0,
 "c": 29.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0551/7695/4062/files/GCS-0004_80d0f5d6-c81c-4363-810f-267291bd5374.jpg?v=1778675014&width=400",
 "type": "TEQUILA & MEZCAL",
 "tags": [
-"Great Deals",
 "Tequila",
 "Top Tequilas"
 ],
@@ -530,28 +511,26 @@
 {
 "t": "ESPOLON BLANCO",
 "u": "https://themaltgallery.com/products/espolon-blanco-1",
-"p": 21.6,
+"p": 27.0,
 "c": 27.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0551/7695/4062/files/1080x1080blanco.jpg?v=1742989380&width=400",
 "type": "TEQUILA & MEZCAL",
 "tags": [
-"Great Deals",
 "Tequila",
 "Top Tequilas"
 ],
-"in": true
+"in": false
 },
 {
 "t": "ESPOLON ANEJO BOURBON",
 "u": "https://themaltgallery.com/products/espolon-anejo-bourbon",
-"p": 26.4,
+"p": 33.0,
 "c": 33.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0551/7695/4062/files/1080x1080Anejo.jpg?v=1742983792&width=400",
 "type": "TEQUILA & MEZCAL",
 "tags": [
-"Great Deals",
 "Tequila",
 "Top Tequilas"
 ],
@@ -1179,7 +1158,7 @@
 {
 "t": "APEROL 70CL",
 "u": "https://themaltgallery.com/products/aperol",
-"p": 15.49,
+"p": 20.65,
 "c": 20.65,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0551/7695/4062/products/GCS-0030.jpg?v=1648806263&width=400",
@@ -1187,12 +1166,12 @@
 "tags": [
 "Aperitifs",
 "apero",
-"Great Deals",
 "Italy",
 "Mediterranean Mist",
 "MIDIS24",
 "SKI",
-"SNA24"
+"SNA24",
+"Spirits"
 ],
 "in": true
 },
@@ -1489,7 +1468,7 @@
 "Sprts New",
 "Vodka"
 ],
-"in": true
+"in": false
 },
 {
 "t": "ATIBAIA RED 2018",
@@ -3337,7 +3316,7 @@
 {
 "t": "ROSEBLOOD WHITE 2024",
 "u": "https://themaltgallery.com/products/roseblood-white-2025",
-"p": 20.57,
+"p": 31.65,
 "c": 31.65,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0551/7695/4062/files/RBW-0012_712bb201-5490-4d09-b952-1c16c690296b.jpg?v=1754400788&width=400",
@@ -3345,7 +3324,6 @@
 "tags": [
 "FAQRA",
 "France",
-"Great Deals",
 "Imported Wine",
 "Imported Wines",
 "Summer Wine",
@@ -3357,7 +3335,7 @@
 {
 "t": "ROSEBLOOD ROSE 2024",
 "u": "https://themaltgallery.com/products/roseblood-rose-2025",
-"p": 22.16,
+"p": 31.65,
 "c": 31.65,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0551/7695/4062/files/RBW-0009_a16c9821-4d81-4d91-a147-3c2c06fc160b_1.jpg?v=1754401262&width=400",
@@ -3366,7 +3344,6 @@
 "FAQRA",
 "France",
 "French promos",
-"Great Deals",
 "Imported Wine",
 "Imported Wines",
 "Rose",
