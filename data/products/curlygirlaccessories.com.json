@@ -1207,7 +1207,7 @@
 "img": "https://curlygirlaccessories.com/wp-content/uploads/2026/08/edited-photo-2-300x300.webp",
 "type": "Gift Hampers",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Gift Hamper – Perfect Curly Hair",
@@ -1810,7 +1810,7 @@
 "img": "https://curlygirlaccessories.com/wp-content/uploads/2026/06/14260233003-1-300x300.jpg",
 "type": "Brushes &amp; Combs",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "WETBRUSH PADDLE DETANGLER PURPLE",
@@ -2965,7 +2965,7 @@
 "img": "https://curlygirlaccessories.com/wp-content/uploads/2026/04/image_1920-1-300x300.jpg",
 "type": "Shampoo",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Soft Wave Hijab Sulfate Free Conditioner 400Ml",
@@ -5421,17 +5421,6 @@
 "in": true
 },
 {
-"t": "1025 Dokdo Toner",
-"u": "https://curlygirlaccessories.com/product/1025-dokdo-toner/",
-"p": 13.0,
-"c": null,
-"cur": "USD",
-"img": "https://curlygirlaccessories.com/wp-content/uploads/2026/04/1025-Dokdo-Toner-ROUND-LAB-300x300.webp",
-"type": "Toners &amp; Mists",
-"tags": [],
-"in": true
-},
-{
 "t": "Rice Ceramide Moisturizing toner",
 "u": "https://curlygirlaccessories.com/product/rice-ceramide-moisturizing-toner/",
 "p": 18.0,
@@ -6617,7 +6606,7 @@
 "img": "https://curlygirlaccessories.com/wp-content/uploads/2026/04/IMG_2506-300x300.png",
 "type": "Gift Hampers",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Avocado Gift Hamper",
@@ -8225,7 +8214,7 @@
 "tags": [
 "Kit"
 ],
-"in": true
+"in": false
 },
 {
 "t": "SKALA Strawberry Shampoo & Conditioner Kit",
@@ -8634,7 +8623,7 @@
 "All Products",
 "Curly Girl Accessories SHOP"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Easy wet brush",
@@ -11160,7 +11149,7 @@
 "Leave-in",
 "SKALA Masks"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Skala Expert Mais Crespos 2 en 1 – 1kg",
@@ -12955,7 +12944,7 @@
 "All Products",
 "Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Divine Heat Protectant Spray",
@@ -13138,7 +13127,7 @@
 "Bundles",
 "Heat Damaged &amp; Colored Hair High Porosity Curly Hair"
 ],
-"in": true
+"in": false
 },
 {
 "t": "WAVY AND CURLY DYED HAIR SKALA PACKAGE",
