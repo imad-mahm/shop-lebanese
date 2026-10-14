@@ -1,5 +1,62 @@
 [
 {
+"t": "Phyto Phytophanere Ultra Serum Length-Boosting Serum",
+"u": "https://feel22.com/products/phyto-phanere-serum-growth",
+"p": 35.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/PhytoPhytophanereUltraSerumLength-BoostingSerum.png?v=1791884556&width=400",
+"type": "Hair Oil and Serum",
+"tags": [
+"OCTSKU26",
+"PHARMAALL"
+],
+"in": true
+},
+{
+"t": "Women'Secret Body Mist Random Scent 250ml GIFT",
+"u": "https://feel22.com/products/womensecret-body-mist-random-scent-250ml-gift",
+"p": 0.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/1_d0abafa8-9806-4c28-8184-5fcaf8b81be9.png?v=1730716516&width=400",
+"type": "GWP",
+"tags": [
+"Hidden recommendation",
+"nobundles",
+"SDGWP24",
+"SEARCHANISE_IGNORE",
+"WMNSCT626"
+],
+"in": true
+},
+{
+"t": "Max Factor 2000 Calorie PH Match Maker Lip Gloss Stain",
+"u": "https://feel22.com/products/max-factor-2000-calorie-ph-match-maker-lip-gloss-stain",
+"p": 11.39,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/3616306825734-MaxFactor2000CalorieLipGloss-010Bubbly.png?v=1789767341&width=400",
+"type": "Lip Gloss and Lip Tint",
+"tags": [
+"SEPSKU26"
+],
+"in": true
+},
+{
+"t": "Take Me To Wonder Ultra-Soft Wondertowel Biodegradable Face Towel",
+"u": "https://feel22.com/products/take-me-to-wonder-ultra-soft-wondertowel-biodegradable-face-towel",
+"p": 17.9,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/TakeMeToWonderUltra-SoftWondertowelBiodegradableFaceTowel.png?v=1791717386&width=400",
+"type": "Skincare Tools and Accessories",
+"tags": [
+"OCTSKU26"
+],
+"in": true
+},
+{
 "t": "Yves Rocher Curly Hair Shampoo 300ml",
 "u": "https://feel22.com/products/yves-rocher-curly-hair-shampoo-300ml",
 "p": 13.0,
@@ -148,7 +205,9 @@
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Berry_199330e1-18ec-495f-85e3-86574f8403ac.png?v=1791806418&width=400",
 "type": "Lip Care",
-"tags": [],
+"tags": [
+"OCTSKU26"
+],
 "in": true
 },
 {
@@ -3597,7 +3656,7 @@
 "tags": [
 "SEPSKU26"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Truyu Compact Mirror & Tweezer Set",
@@ -8581,7 +8640,8 @@
 "EVERYTHING",
 "HACKWS1125",
 "nobundles",
-"ws926"
+"ws926",
+"WSEDPT"
 ],
 "in": false
 },
@@ -9559,7 +9619,7 @@
 "ROMANCE925",
 "RTET826"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Ecotools Bath Exfoliating Ecopouf",
@@ -10633,24 +10693,6 @@
 "MUPSKINALL926"
 ],
 "in": true
-},
-{
-"t": "Versace Eros Eau De Toilette For Women",
-"u": "https://feel22.com/products/versace-eros-eau-de-toilette-for-women",
-"p": 95.53,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/100ml_09e97740-b7d8-494d-87a3-c46a2b8bfe9a.png?v=1701128373&width=400",
-"type": "Perfume For Her",
-"tags": [
-"BLOOM225",
-"EVERYTHING",
-"giftid-8233553428618",
-"LUXEALL",
-"Luxury Perfume For Her",
-"wdluxe2024"
-],
-"in": false
 },
 {
 "t": "NYX Professional Makeup Loose Powder & Highlighter Bundle + Free Pouch",
@@ -22044,7 +22086,7 @@
 "lrpvichy926",
 "MUPSKINALL926"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Rene Furterer Sublime Curl Enhancing Shampoo Buy 2 Get 1 Bundle",
@@ -22144,7 +22186,7 @@
 "PFBTS926",
 "PHARMAALL"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Ducray Neoptide Expert Anti-hair Loss And Growth Serum Get Free Anaphase Anti-Thinning Shampoo Bundle",
@@ -26354,7 +26396,8 @@
 "WMNSCT626",
 "WS626",
 "WS726",
-"ws926"
+"ws926",
+"WSEDPT"
 ],
 "in": false
 },
@@ -26516,7 +26559,8 @@
 "WMNSCT626",
 "WS626",
 "WS726",
-"ws926"
+"ws926",
+"WSEDPT"
 ],
 "in": true
 },
@@ -26785,24 +26829,6 @@
 "MUPSKINALL926"
 ],
 "in": true
-},
-{
-"t": "L’Oréal Paris Plump Ambition Hyaluron Lip Oil Duo + Free Pouch Bundle at 10% Off",
-"u": "https://feel22.com/products/l-oreal-paris-plump-ambition-hyaluron-lip-oil-duo-free-pouch-bundle-at-25-off",
-"p": 24.84,
-"c": 27.6,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/sArtboard2-100_e526791f-199c-4aaa-a936-4b717a895d31.jpg?v=1778233176&width=400",
-"type": "Makeup Gifts and Sets",
-"tags": [
-"allofcpd326",
-"cannes526",
-"CPDALL426",
-"EVERYTHING",
-"MUPRA",
-"OAPRAM26"
-],
-"in": false
 },
 {
 "t": "Elementre 20% Lactic & Glycolic Acid Intense Body Bright Cream",
@@ -32211,7 +32237,7 @@
 "EVERYTHING",
 "giftid-8119732338826"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Estee Lauder Browperfect 3D All-in-One Styler Multi-Tasker",
@@ -38359,7 +38385,7 @@
 "PHARMAALL2.0",
 "PHARMAW/OLDB"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Retinol Skincare The Eye Stick",
@@ -41387,8 +41413,8 @@
 {
 "t": "Shiseido Oil Control Blotting Paper",
 "u": "https://feel22.com/products/shiseido-oil-control-blotting-paper",
-"p": 35.0,
-"c": 0.0,
+"p": 26.25,
+"c": 35.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/Untitled1223_2_4_14.jpg?v=1645087731&width=400",
 "type": "Makeup Tools and Brushes",
@@ -41400,7 +41426,7 @@
 "luxe",
 "LUXEALL",
 "luxury",
-"SHISEIDOBF25"
+"OCT26"
 ],
 "in": true
 },
@@ -41566,7 +41592,7 @@
 "Frizzy Hair",
 "leavein"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Garnier Ultra Doux Grape Moisture Deep Regenerative Mask for Dehydrated Hair With Hydrating Grape Water + Antioxidant Grapeseed Oil",
@@ -43188,7 +43214,7 @@
 "Hidden recommendation",
 "SEARCHANISE_IGNORE"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Dermedic Hydrain3 Micellar Water H2O",
@@ -43470,7 +43496,7 @@
 "Hidden recommendation",
 "SEARCHANISE_IGNORE"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Mancera Sand Aoud Eau De Parfum 120ml",
@@ -48792,8 +48818,8 @@
 {
 "t": "Benefit The POREfessional Tight N Toned Toner",
 "u": "https://feel22.com/products/benefit-the-porefessional-tight-n-toned-toner",
-"p": 37.0,
-"c": 0.0,
+"p": 29.6,
+"c": 37.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/templates_48.png?v=1678454269&width=400",
 "type": "Toner",
@@ -48804,6 +48830,7 @@
 "luxury",
 "luxuryskincare",
 "MUPSKINALL926",
+"OCT26",
 "SDCARE"
 ],
 "in": true
@@ -48811,8 +48838,8 @@
 {
 "t": "Benefit The POREfessional Speedy Smooth Mask",
 "u": "https://feel22.com/products/benefit-the-porefessional-speedy-smooth-mask",
-"p": 48.0,
-"c": 0.0,
+"p": 38.4,
+"c": 48.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/templates_50.png?v=1678454537&width=400",
 "type": "Face Mask",
@@ -48823,6 +48850,7 @@
 "luxury",
 "luxuryskincare",
 "MUPSKINALL926",
+"OCT26",
 "SDCARE"
 ],
 "in": true
@@ -48830,8 +48858,8 @@
 {
 "t": "Benefit The POREfessional Tight N Toned Mini Toner",
 "u": "https://feel22.com/products/benefit-the-porefessional-tight-n-toned-mini-toner",
-"p": 20.0,
-"c": 0.0,
+"p": 16.0,
+"c": 20.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/templates_55.png?v=1678456621&width=400",
 "type": "Toner",
@@ -48842,6 +48870,7 @@
 "luxury",
 "luxuryskincare",
 "MUPSKINALL926",
+"OCT26",
 "SDCARE"
 ],
 "in": true
@@ -48849,8 +48878,8 @@
 {
 "t": "Benefit Gimme Brow Volumizing Pencil",
 "u": "https://feel22.com/products/benefit-gimme-brow-volumizing-pencil",
-"p": 37.0,
-"c": 0.0,
+"p": 29.6,
+"c": 37.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/Pouchespackshot_13_4d99157a-2835-4385-94ed-96619e95dc02.png?v=1672314901&width=400",
 "type": "Eyebrows",
@@ -48861,15 +48890,16 @@
 "LUXEALL",
 "luxury",
 "luxurymakeup",
-"MUPSKINALL926"
+"MUPSKINALL926",
+"OCT26"
 ],
 "in": true
 },
 {
 "t": "Benefit High Brow Duo Pencil",
 "u": "https://feel22.com/products/benefit-high-brow-duo-pencil",
-"p": 36.0,
-"c": 0.0,
+"p": 28.8,
+"c": 36.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/Pouchespackshot_9_5b477918-d553-4e5d-8998-7c6403372344.png?v=1672314175&width=400",
 "type": "Eyebrows",
@@ -48880,7 +48910,8 @@
 "LUXEALL",
 "luxury",
 "luxurymakeup",
-"MUPSKINALL926"
+"MUPSKINALL926",
+"OCT26"
 ],
 "in": true
 },
@@ -48942,7 +48973,7 @@
 "luxurymakeup",
 "MUPSKINALL926"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Benefit Cosmetics Boi-ing Hydrating Concealer",
@@ -48962,7 +48993,7 @@
 "luxury",
 "luxurymakeup"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Laki Beauty Matte Setting Spray",
@@ -48982,7 +49013,7 @@
 "LAKI826",
 "LAKIC22125"
 ],
-"in": true
+"in": false
 },
 {
 "t": "L'Oreal Paris Revitalift Laser Day Cream 50ml",
@@ -49883,46 +49914,6 @@
 "abhrest826",
 "EVERYTHING",
 "HBDLUXE25"
-],
-"in": true
-},
-{
-"t": "Anastasia Beverly Hills A18 Pro Angeled Chiseler Brush",
-"u": "https://feel22.com/products/anastasia-beverly-hills-a18-pro-angeled-chiseler-brush",
-"p": 50.07,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshots_67_f17eed35-43f1-45fe-91eb-80779b756529.png?v=1702551661&width=400",
-"type": "Makeup Tools and Brushes",
-"tags": [
-"3RANDO826",
-"ABH1026",
-"ABH1125",
-"ABH326",
-"ABH826",
-"ABH926",
-"ABHBRUSHES",
-"abhrest826"
-],
-"in": true
-},
-{
-"t": "Anastasia Beverly Hills Mini Eye Primer",
-"u": "https://feel22.com/products/anastasia-beverly-hills-mini-eye-primer",
-"p": 22.48,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Amber_2_cb84c1c5-4ea3-45d5-b87c-a9fdc44ca608.png?v=1695029813&width=400",
-"type": "Primer",
-"tags": [
-"3RANDO826",
-"ABH1025",
-"ABH1125",
-"ABH325",
-"ABH826",
-"abhface",
-"abhrest826",
-"abhvday"
 ],
 "in": true
 }

@@ -1,5 +1,96 @@
 [
 {
+"t": "Forever in Pink",
+"u": "https://exotica.com/products/forever-in-pink",
+"p": 250.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/100_pink_roses_bouquet.jpg?v=1791896448&width=400",
+"type": "Flowers",
+"tags": [
+"For Her",
+"For Him",
+"Handheld Bouquets",
+"Pink",
+"Pink October",
+"Roses"
+],
+"in": false
+},
+{
+"t": "Endless Joy",
+"u": "https://exotica.com/products/endless-joy",
+"p": 125.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/50_pink_roses_bouquet.png?v=1791895989&width=400",
+"type": "Flowers",
+"tags": [
+"For Her",
+"For Him",
+"Handheld Bouquets",
+"Pink",
+"Pink October",
+"Roses"
+],
+"in": false
+},
+{
+"t": "3 Dozens Pink",
+"u": "https://exotica.com/products/3-dozens-pink",
+"p": 102.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/LushPinkRoseBouquet.png?v=1791895509&width=400",
+"type": "Flowers",
+"tags": [
+"For Her",
+"For Him",
+"Handheld Bouquets",
+"Pink",
+"Pink October",
+"Roses"
+],
+"in": true
+},
+{
+"t": "Colorful Moments",
+"u": "https://exotica.com/products/colorful-moments",
+"p": 235.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Dome_80_roses_mix_in_box.jpg?v=1791887369&width=400",
+"type": "Flowers",
+"tags": [
+"Birthdays",
+"Congratulations",
+"Flower Boxes",
+"Flowers",
+"For Friends",
+"For Her",
+"For Mom",
+"For Teta"
+],
+"in": true
+},
+{
+"t": "Double Your Sunshine",
+"u": "https://exotica.com/products/double-your-sunshine",
+"p": 72.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/24_yellow_roses_bouquet.png?v=1791872444&width=400",
+"type": "Flowers",
+"tags": [
+"For Her",
+"For Him",
+"Handheld Bouquets",
+"Roses",
+"Yellow"
+],
+"in": true
+},
+{
 "t": "Hot & Spicy",
 "u": "https://exotica.com/products/spicy-plant",
 "p": 66.0,
@@ -371,7 +462,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/FRA08095_d137cc4f-31b5-436a-b942-81a52ecaa393.jpg?v=1789811092&width=400",
 "type": "Add-Ons",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Silky Dracaena",
@@ -524,7 +615,7 @@
 "Mixed Flowers",
 "Orange"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Amber Glow",
@@ -624,7 +715,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Cookie_Bloom_-_Fall_Flower_with_cookies_1.jpg?v=1789547018&width=400",
 "type": "Flowers",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Colours of Fall",
@@ -635,7 +726,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/ColoursofFall_2.png?v=1789626006&width=400",
 "type": "Flowers",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Fallen Leaves",
@@ -657,7 +748,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Pumpkin_Petals_Fall_Flower_Arrangement.png?v=1789544778&width=400",
 "type": "Flowers",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Cozy Blooms",
@@ -719,7 +810,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Fall_in_Love_1.jpg?v=1791283866&width=400",
 "type": "Flowers",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Harvest Festival",
@@ -752,7 +843,7 @@
 "Mixed Flowers",
 "Orange"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Sagittarius Celebrations",
@@ -1076,7 +1167,7 @@
 {
 "t": "Twice the Elegance",
 "u": "https://exotica.com/products/twice-the-elegance",
-"p": 109.0,
+"p": 72.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/24_white_roses_bouquet.png?v=1791813885&width=400",
@@ -1093,10 +1184,10 @@
 {
 "t": "Double Your Joy",
 "u": "https://exotica.com/products/double-your-joy",
-"p": 109.0,
+"p": 72.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Pink24roses.png?v=1785754310&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/24_pink_roses_bouquet_1.png?v=1791894941&width=400",
 "type": "Flowers",
 "tags": [
 "For Her",
@@ -1111,7 +1202,7 @@
 {
 "t": "Classic Symbol of Purity",
 "u": "https://exotica.com/products/classic-symbol-of-purity",
-"p": 62.0,
+"p": 42.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/12_white_roses_bouquet_1.png?v=1791813647&width=400",
@@ -1128,10 +1219,10 @@
 {
 "t": "Classic Symbol of Friendship",
 "u": "https://exotica.com/products/classic-symbol-of-friendship",
-"p": 62.0,
+"p": 42.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Classic_Symbol_of_Friendship.png?v=1785753388&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/12_yellow_roses_bouquet.png?v=1791870065&width=400",
 "type": "Flowers",
 "tags": [
 "For Her",
@@ -1145,10 +1236,10 @@
 {
 "t": "Classic Symbol of Admiration",
 "u": "https://exotica.com/products/classic-symbol-of-admiration",
-"p": 62.0,
+"p": 42.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/newpink12roses.png?v=1785751567&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/12_pink_red_roses_bouquet.png?v=1791894728&width=400",
 "type": "Flowers",
 "tags": [
 "For Her",
@@ -1202,7 +1293,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/LilacHugs.jpg?v=1753950429&width=400",
 "type": "Flowers",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Trust our Florists",
@@ -2296,7 +2387,7 @@
 "For Teta",
 "Get Well Soon"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Blue Sky",
@@ -2763,7 +2854,7 @@
 "For Teta",
 "Mixed Colors"
 ],
-"in": true
+"in": false
 },
 {
 "t": "The Spiky Plant",
@@ -2972,10 +3063,10 @@
 {
 "t": "Vibrant Rose Box",
 "u": "https://exotica.com/products/vibrant-rose-box",
-"p": 105.0,
+"p": 125.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Vibrant_Rose_Box.png?v=1780386710&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/FRA06533.jpg?v=1791888989&width=400",
 "type": "Flowers",
 "tags": [
 "Birthdays",
@@ -3886,7 +3977,7 @@
 "Indoor Plants",
 "Plants"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Picks Love",
@@ -4115,12 +4206,12 @@
 "in": true
 },
 {
-"t": "Pink Perfection",
-"u": "https://exotica.com/products/pink-perfection",
+"t": "Fuchsia Elegance",
+"u": "https://exotica.com/products/fuchsia-elegance",
 "p": 42.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/12_Fuchsia_roses_Bouquet.png?v=1791806483&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/12_fuchsia_roses.png?v=1791884684&width=400",
 "type": "Flowers",
 "tags": [
 "Birthdays",
@@ -4356,15 +4447,15 @@
 "For Mom",
 "Gift Bundles"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Endless Bloom",
 "u": "https://exotica.com/products/endless-bloom",
-"p": 108.0,
+"p": 85.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Endless_Bloom_Black.jpg?v=1758537359&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Flat_mix_25_roses_white_box.jpg?v=1791891883&width=400",
 "type": "Flowers",
 "tags": [
 "Birthdays",
@@ -4381,10 +4472,10 @@
 {
 "t": "Happy Moments",
 "u": "https://exotica.com/products/happy-moments",
-"p": 109.0,
+"p": 86.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/HappyMoments.jpg?v=1791468084&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Happy_Moments_White_Box.jpg?v=1791457018&width=400",
 "type": "Flowers",
 "tags": [
 "Birthdays",
@@ -4950,7 +5041,7 @@
 {
 "t": "Soft Night",
 "u": "https://exotica.com/products/soft-night",
-"p": 70.0,
+"p": 75.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Soft_Night_Black_701c4bb7-9210-48da-9453-a6bfcb24d4b3.jpg?v=1758537187&width=400",
@@ -5221,7 +5312,7 @@
 "For Him",
 "For Kids"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Cheers!",
@@ -5319,12 +5410,12 @@
 "in": true
 },
 {
-"t": "Rose Magenta",
-"u": "https://exotica.com/products/rose-magenta",
-"p": 153.0,
+"t": "Blush Elegance",
+"u": "https://exotica.com/products/blush-elegance",
+"p": 159.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Rose_Magenta_Black.jpg?v=1758538987&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Flat_pink_50_roses_black_box.jpg?v=1791892615&width=400",
 "type": "Flowers",
 "tags": [
 "Birthdays",
@@ -5356,7 +5447,7 @@
 "For Teta",
 "Get Well Soon"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Ficus Nitida",
@@ -5643,7 +5734,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/VasePorcelainIrregularBlack.jpg?v=1791468666&width=400",
 "type": "Pots & Vases",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Vase Ceramic Altea Gold",
@@ -5761,7 +5852,7 @@
 "For Teta",
 "Indoor Plants"
 ],
-"in": true
+"in": false
 },
 {
 "t": "3 Dozen Reds",
@@ -5769,7 +5860,7 @@
 "p": 102.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/dress-in-red_3f59766a-38e7-4bfa-bc96-0c4fc5be68fc.jpg?v=1735638164&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Red_Roses_and_Cake_by_the_Sofa.png?v=1791893453&width=400",
 "type": "Flowers",
 "tags": [
 "For Her",
@@ -5900,7 +5991,7 @@
 "p": 250.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Count-from-1-to-100.jpg?v=1735638111&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/100_red_roses_bouquet.png?v=1791881219&width=400",
 "type": "Flowers",
 "tags": [
 "Handheld Bouquets",
@@ -6124,7 +6215,7 @@
 "p": 125.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/3-dozen-reds_0534f050-73f6-40ef-9abc-b4e60d99f503.jpg?v=1735638156&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/50_red_roses_bouquet.png?v=1791894414&width=400",
 "type": "Flowers",
 "tags": [
 "For Her",
@@ -6156,7 +6247,7 @@
 "p": 234.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Rose-Box.jpg?v=1735638174&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Dome_80_red_roses_In_white_Box.jpg?v=1791888615&width=400",
 "type": "Flowers",
 "tags": [
 "Flower Boxes",
@@ -6173,7 +6264,7 @@
 "p": 83.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Moulin_Rouge_Black.jpg?v=1770297290&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/red_roses_in_box.png?v=1791882785&width=400",
 "type": "Flowers",
 "tags": [
 "Flower Boxes",
@@ -6188,10 +6279,10 @@
 {
 "t": "Ma Vie",
 "u": "https://exotica.com/products/ma-vie",
-"p": 139.0,
+"p": 125.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Ma_vie_Black.jpg?v=1759384690&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Dome_45_red_roses_in_white_box.jpg?v=1791888673&width=400",
 "type": "Flowers",
 "tags": [
 "Flower Boxes",
@@ -6209,7 +6300,7 @@
 "p": 159.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Joyful_Black.jpg?v=1758538723&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/FRA06696.jpg?v=1791888209&width=400",
 "type": "Flowers",
 "tags": [
 "Birthdays",
