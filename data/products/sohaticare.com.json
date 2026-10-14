@@ -1,5 +1,29 @@
 [
 {
+"t": "Vichy Dercos Aminexil Clinical R.E.G.E.N. Booster 90ml",
+"u": "https://sohaticare.com/products/vichy-dercos-aminexil-clinical-r-e-g-e-n-booster-90ml",
+"p": 73.38,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/3337875932080_1.png?v=1788424555&width=400",
+"type": "Hair Serum",
+"tags": [],
+"in": true
+},
+{
+"t": "XELLENCE GWP  *or an equivalent based on availability",
+"u": "https://sohaticare.com/products/lollis-gwp-or-an-equivalent-based-on-availability-copy",
+"p": 0.0,
+"c": null,
+"cur": "USD",
+"img": "",
+"type": "GWP",
+"tags": [
+"wizzy-ignore"
+],
+"in": true
+},
+{
 "t": "Buy 1, Get 1 Free Novus Nose Patches",
 "u": "https://sohaticare.com/products/buy-1-get-1-free-novus-nose-patches",
 "p": 12.0,
@@ -510,7 +534,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/51dsC8iVg3L._SY741.jpg?v=1791193786&width=400",
 "type": "",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "ACM DEPIWHITE.M PROTECTIVE CREAM SPF50 40ML",
@@ -571,9 +595,7 @@
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/1-_Revitalift_Triple_Power_-_Eye_Tape_3600524186234_724a9fab-8b32-4952-80fc-56b9099309aa.jpg?v=1785835440&width=400",
 "type": "Eye Cream",
-"tags": [
-"CPD BRAND STOCK"
-],
+"tags": [],
 "in": true
 },
 {
@@ -1252,7 +1274,6 @@
 "tags": [
 "bundle",
 "COMPENSATION_JULY26",
-"CPD BRAND STOCK",
 "Drugstore Offers",
 "Factorybundle",
 "Giftset",
@@ -1451,8 +1472,7 @@
 "type": "Hair Serum",
 "tags": [
 "collagen lifter",
-"collagen-lifter-collection",
-"CPD BRAND STOCK"
+"collagen-lifter-collection"
 ],
 "in": false
 },
@@ -1466,8 +1486,7 @@
 "type": "Hair Spray",
 "tags": [
 "collagen lifter",
-"collagen-lifter-collection",
-"CPD BRAND STOCK"
+"collagen-lifter-collection"
 ],
 "in": true
 },
@@ -1514,8 +1533,8 @@
 "COMPENSATION_APR26",
 "COMPENSATION_JAN26",
 "COMPENSATION_SEPT26",
-"CPD BRAND STOCK",
-"CPD_BLACK25"
+"CPD_BLACK25",
+"Drugstore Offers"
 ],
 "in": false
 },
@@ -2339,7 +2358,7 @@
 "oily-bundle-nutripo",
 "TOPOFFER"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Buy Nutripo Matipore Salicylic Acid 30 ml & get one For FREE",
@@ -2379,7 +2398,7 @@
 "oily-bundle-nutripo",
 "TOPOFFER"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Lipo Redux Cryogel Cafeine 24H 1KG",
@@ -3670,9 +3689,7 @@
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/2-SugarSpritz-LifterGel-3600531721008.jpg?v=1784618363&width=400",
 "type": "Lip Gloss",
-"tags": [
-"CPD BRAND STOCK"
-],
+"tags": [],
 "in": true
 },
 {
@@ -4384,7 +4401,6 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/GB_Peel_Amazon.jpg?v=1778482319&width=400",
 "type": "Peeling Serum",
 "tags": [
-"CPD BRAND STOCK",
 "exclude_flash26"
 ],
 "in": false
@@ -5796,12 +5812,12 @@
 "tags": [
 "Bundle",
 "COMPENSATION_JULY26",
-"CPD BRAND STOCK",
 "Drugstore Offers",
 "Garnier_Haircoloration",
 "Giftset",
 "Hair Coloring",
-"OLIA-BUNDLE"
+"OLIA-BUNDLE",
+"olia-olia"
 ],
 "in": false
 },
@@ -7246,7 +7262,6 @@
 "tags": [
 "backtoschool-exclusive",
 "COMPENSATION_JUNE26",
-"CPD BRAND STOCK",
 "Drugstore Offers",
 "hyaltintmoment",
 "HYATINT_JUNE26",
@@ -7954,9 +7969,7 @@
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/m.webp?v=1781786212&width=400",
 "type": "Balm",
-"tags": [
-"CPD BRAND STOCK"
-],
+"tags": [],
 "in": true
 },
 {
@@ -8537,7 +8550,6 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/Untitled_design_-_2026-06-01T180355.702.webp?v=1781081444&width=400",
 "type": "Hair Mask",
 "tags": [
-"CPD BRAND STOCK",
 "exclude_flash26"
 ],
 "in": false
@@ -8589,7 +8601,6 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/2-MNY-LIFTERCONCEALER15-3600531712594_1.jpg?v=1779264201&width=400",
 "type": "Concealer",
 "tags": [
-"CPD BRAND STOCK",
 "exclude_flash26",
 "exportOOS"
 ],
@@ -8654,7 +8665,7 @@
 "FRENCHWEEK2025",
 "pierre_fabre_portfolio"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Avène Ultra Glow Serum SPF50+ | Activates Glow 30ml",
@@ -9793,7 +9804,6 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/1-Cloudtopia-CoralIllusion-3600531717216-15.jpg?v=1779262774&width=400",
 "type": "Blush",
 "tags": [
-"CPD BRAND STOCK",
 "exclude_flash26"
 ],
 "in": true
@@ -9869,7 +9879,7 @@
 "COMPENSATION_FEB26",
 "eta_june26"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Essie Color Nail Polish - 894 Guilty Pleasure (UN)",
@@ -9970,9 +9980,9 @@
 "Cannes_May26",
 "COMPENSATION_FEB26",
 "COMPENSATION_MAY26",
-"CPD BRAND STOCK",
 "Drugstore Offers",
-"Giftset"
+"Giftset",
+"oap_makeup"
 ],
 "in": false
 },
@@ -9991,8 +10001,8 @@
 "COMPENSATION_MAR26",
 "COMPENSATION_MAY26",
 "COMPENSATION_NOV25",
-"CPD BRAND STOCK",
-"CPD_BLACK25"
+"CPD_BLACK25",
+"CPDBUNDLE"
 ],
 "in": true
 },
@@ -10065,7 +10075,6 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/3600524242763-HA_Tint-1-worth_it_601.png?v=1778793110&width=400",
 "type": "Lip Stain",
 "tags": [
-"CPD BRAND STOCK",
 "exclude_flash26"
 ],
 "in": true
@@ -10454,7 +10463,6 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/1--Garnier-Cooling-Gel-8901526680573.jpg?v=1778502211&width=400",
 "type": "Sunscreen",
 "tags": [
-"CPD BRAND STOCK",
 "exclude_flash26",
 "garniersuperuv",
 "sun_june26"
@@ -10527,7 +10535,6 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/1-RevitaliftTriplePowerSerum-3600524197704.jpg?v=1778502771&width=400",
 "type": "Serum",
 "tags": [
-"CPD BRAND STOCK",
 "exclude_flash26"
 ],
 "in": true
@@ -11201,7 +11208,6 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/oo1.webp?v=1777026433&width=400",
 "type": "Serum Lipstick",
 "tags": [
-"CPD BRAND STOCK",
 "exclude_flash26",
 "LIPSTICKDAY25"
 ],
@@ -11454,7 +11460,6 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/1-Glowmask-3600524259679_1800x1800_9a1cbfcd-ec54-4f69-b879-d8d5a71938fc.webp?v=1780039233&width=400",
 "type": "Face Mask",
 "tags": [
-"CPD BRAND STOCK",
 "cpd-ledefile-openstock",
 "exclude_flash26",
 "glassskin-collection"
@@ -11485,7 +11490,6 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/1-loosepowder-3600524250355.jpg?v=1776085066&width=400",
 "type": "Loose Powder",
 "tags": [
-"CPD BRAND STOCK",
 "exclude_flash26"
 ],
 "in": true
@@ -11857,9 +11861,9 @@
 "COMPENSATION_APR26",
 "COMPENSATION_FEB25",
 "compensation_sep24",
-"CPD BRAND STOCK",
 "CPD_BLACK25",
-"Drugstore"
+"Drugstore",
+"Drugstore Beauty"
 ],
 "in": true
 },
@@ -11969,7 +11973,6 @@
 "Bigambition_apr26",
 "Bundle",
 "COMPENSATION_APR26",
-"CPD BRAND STOCK",
 "Drugstore Offers",
 "exclusivedeals_may26",
 "Giftset"
@@ -11988,7 +11991,6 @@
 "Bigambition_apr26",
 "Bundle",
 "COMPENSATION_APR26",
-"CPD BRAND STOCK",
 "exclusivedeals_may26",
 "Giftset"
 ],
@@ -15276,13 +15278,13 @@
 "type": "Bundle",
 "tags": [
 "COMPENSATION_MAR26",
-"CPD BRAND STOCK",
 "exclude_cpd_flashsale",
 "EXCLUDE_CPD_MAR25",
 "exclude_dec25",
 "exclusivedeals_may26",
 "PREADHA25BUNDLES",
-"teddytint_launch_bundle"
+"teddytint_launch_bundle",
+"TOTALCPD_PRESUMEXCLUDE"
 ],
 "in": true
 },
@@ -15398,10 +15400,9 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/1-UDGRAPEMOISTURECONDITIONER-3610340675430.jpg?v=1771937262&width=400",
 "type": "Conditionner",
 "tags": [
-"CPD BRAND STOCK",
 "exclude_flash26"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Garnier Ultra Doux Grape Moisture Shampoo",
@@ -15414,7 +15415,7 @@
 "tags": [
 "exclude_flash26"
 ],
-"in": false
+"in": true
 },
 {
 "t": "15 % OFF Hyaluron Expert Serum + Retinol Serum + Revitalift Laser Night Cream + Free Jade Roller +Gifting box",
@@ -17282,7 +17283,6 @@
 "type": "Serum Cleanser",
 "tags": [
 "CPD",
-"CPD BRAND STOCK",
 "garniersuperuv",
 "SKIN_ACTIVE"
 ],
@@ -17768,8 +17768,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/1-BreakFix-Essie-PDPS-3600531715397_1015b5bc-54b5-488e-a717-710b9d712bbb.jpg?v=1770720980&width=400",
 "type": "Nail Care",
 "tags": [
-"CPD",
-"CPD BRAND STOCK"
+"CPD"
 ],
 "in": false
 },
@@ -18080,7 +18079,6 @@
 "type": "Hair Dye",
 "tags": [
 "CPD",
-"CPD BRAND STOCK",
 "exclude_flash26",
 "Hair Coloring"
 ],
@@ -18208,7 +18206,6 @@
 "type": "Bundle",
 "tags": [
 "COMPENSATION_FEB26",
-"CPD BRAND STOCK",
 "Drugstore Offers",
 "exclusivedeals_may26",
 "OAP_ValentinesFeb26"
@@ -18225,7 +18222,6 @@
 "type": "Bundle",
 "tags": [
 "COMPENSATION_FEB26",
-"CPD BRAND STOCK",
 "Drugstore Offers",
 "OAP_ValentinesFeb26"
 ],
@@ -18336,7 +18332,6 @@
 "tags": [
 "buy2get1_oap26",
 "CPD",
-"CPD BRAND STOCK",
 "sun_june26"
 ],
 "in": false
@@ -19569,7 +19564,6 @@
 "type": "Oil - Lip Balm",
 "tags": [
 "CPD",
-"CPD BRAND STOCK",
 "exclude_flash26",
 "LIPSTICKDAY25"
 ],
@@ -19846,13 +19840,12 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/y1.webp?v=1769160110&width=400",
 "type": "Body Cream",
 "tags": [
-"CPD BRAND STOCK",
 "exclude_flash26"
 ],
 "in": false
 },
 {
-"t": "Mixa Urea Cica Repair Body Lotion - For Keratosis Pilaris, Dry, Flaky, Strawberry, Rough, & Fragile Skin & Tiny Reddish Bumps - With 5% Urea and Panthenol - 400 ml",
+"t": "Mixa Urea Cica Repair Body Lotion - For Keratosis Pilaris, Dry, Flaky, Strawberry, Rough, & Fragile Skin & Tiny Reddish Bumps - With 5% Urea and Panthenol",
 "u": "https://sohaticare.com/products/mixa-urea-cica-repair-body-lotion-for-keratosis-pilaris-dry-rough-fragile-skin-tiny-reddish-bumps",
 "p": 6.01,
 "c": null,
@@ -19860,10 +19853,9 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/c250.jpg?v=1769158084&width=400",
 "type": "Body Lotion",
 "tags": [
-"CPD BRAND STOCK",
 "exclude_flash26"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Mixa Panthenol Comfort Body Lotion - Anti-Scratching Cream - For Dry Skin, Atopy Prone Skin and Eczema",
@@ -19874,7 +19866,6 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/p1_b02a56a0-030b-4398-89d5-71037ea5be74.jpg?v=1769156871&width=400",
 "type": "Body Lotion",
 "tags": [
-"CPD BRAND STOCK",
 "exclude_flash26"
 ],
 "in": false
@@ -19888,7 +19879,6 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/l250.jpg?v=1769158698&width=400",
 "type": "Body Lotion",
 "tags": [
-"CPD BRAND STOCK",
 "exclude_flash26"
 ],
 "in": false
@@ -19929,7 +19919,6 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/i1_d2f9840c-bbaa-4419-8df9-d41eccaeb51a.jpg?v=1769158400&width=400",
 "type": "Body Cream",
 "tags": [
-"CPD BRAND STOCK",
 "exclude_flash26"
 ],
 "in": false
@@ -19943,7 +19932,6 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/1-MixaPanthenolComfort-Jar3600551164298_1.webp?v=1769089369&width=400",
 "type": "Body Cream",
 "tags": [
-"CPD BRAND STOCK",
 "exclude_flash26"
 ],
 "in": false
@@ -20031,8 +20019,8 @@
 "Bundle",
 "COMPENSATION_FEB26",
 "COMPENSATION_JAN26",
-"CPD BRAND STOCK",
-"Drugstore Offers"
+"Drugstore Offers",
+"Giftset"
 ],
 "in": false
 },
@@ -21965,10 +21953,10 @@
 "Bundle",
 "COMPENSATION_FEB26",
 "COMPENSATION_JAN26",
-"CPD BRAND STOCK",
 "Drugstore Offers",
 "Giftset",
-"Infallible_jan26"
+"Infallible_jan26",
+"OAP_ValentinesFeb26"
 ],
 "in": false
 },
@@ -21985,10 +21973,10 @@
 "Bundle",
 "COMPENSATION_FEB26",
 "COMPENSATION_JAN26",
-"CPD BRAND STOCK",
 "Drugstore Offers",
 "Giftset",
-"Infallible_jan26"
+"Infallible_jan26",
+"OAP_ValentinesFeb26"
 ],
 "in": false
 },
@@ -22005,10 +21993,10 @@
 "Bundle",
 "COMPENSATION_FEB26",
 "COMPENSATION_JAN26",
-"CPD BRAND STOCK",
 "Drugstore Offers",
 "Giftset",
-"Infallible_jan26"
+"Infallible_jan26",
+"OAP_ValentinesFeb26"
 ],
 "in": false
 },
@@ -22025,10 +22013,10 @@
 "COMPENSATION_DEC25",
 "COMPENSATION_FEB26",
 "COMPENSATION_JAN26",
-"CPD BRAND STOCK",
 "Drugstore Offers",
 "Infallible_jan26",
-"oap_christmas_activation25"
+"oap_christmas_activation25",
+"OAP_HOLI25"
 ],
 "in": false
 },
@@ -22445,7 +22433,6 @@
 "type": "Contouring Stick",
 "tags": [
 "CPD",
-"CPD BRAND STOCK",
 "exclude_flash26",
 "lifter_stix"
 ],
@@ -24221,12 +24208,12 @@
 "tags": [
 "22.2.22",
 "CPD",
-"CPD BRAND STOCK",
 "CPD15-23",
 "CPD_BLACK25_FLASH",
 "CPDBF",
 "Drugstore Beauty",
-"exclude_cpd_flashsale"
+"exclude_cpd_flashsale",
+"EXCLUDE_CPD_MAR25"
 ],
 "in": false
 },
@@ -27983,7 +27970,7 @@
 "NOV25DISCOUNTS",
 "retinolNov"
 ],
-"in": true
+"in": false
 },
 {
 "t": "SOSKIN SERUM HYALURONIQUE 30ml + Soskin Water Bottle(Gift)",
@@ -32569,7 +32556,7 @@
 "Giftset",
 "NOV25DISCOUNTS"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Delice Spray Solution 50ML",
@@ -33195,7 +33182,7 @@
 "ifran_20%_sep25",
 "ifran_black25"
 ],
-"in": false
+"in": true
 },
 {
 "t": "SHOWER CREAM BIO RELAX 300ML",
@@ -34226,13 +34213,13 @@
 "type": "Serum",
 "tags": [
 "CPD",
-"CPD BRAND STOCK",
 "exclude_blacknov25_cpd",
 "exclude_dec25",
 "exclude_flash26",
 "exportOOS",
 "garnier_11.11_25",
-"garnier_new_sep25"
+"garnier_new_sep25",
+"garniersuperuv"
 ],
 "in": false
 },
@@ -34381,13 +34368,13 @@
 "type": "Face Wash",
 "tags": [
 "CPD",
-"CPD BRAND STOCK",
 "exclude_blacknov25_cpd",
 "exclude_dec25",
 "exclude_flash26",
 "garnier_11.11_25",
 "garnier_fastclear",
-"garnier_new_sep25"
+"garnier_new_sep25",
+"TOTAL_CPD_25"
 ],
 "in": false
 },
@@ -34583,13 +34570,13 @@
 "type": "Deodorant",
 "tags": [
 "CPD",
-"CPD BRAND STOCK",
 "CPD_BLACK25_FLASH",
 "exclude_dec25",
 "exclude_flash26",
 "narta_11.11",
 "narta_new_sep25",
-"NOV25DISCOUNTS"
+"NOV25DISCOUNTS",
+"Personal Care & Hygiene"
 ],
 "in": false
 },
@@ -34643,13 +34630,13 @@
 "type": "Deodorant",
 "tags": [
 "CPD",
-"CPD BRAND STOCK",
 "CPD_BLACK25_FLASH",
 "exclude_dec25",
 "exclude_flash26",
 "mencorner",
 "narta_11.11",
-"narta_new_sep25"
+"narta_new_sep25",
+"NOV25DISCOUNTS"
 ],
 "in": false
 },
@@ -34663,13 +34650,13 @@
 "type": "Deodorant",
 "tags": [
 "CPD",
-"CPD BRAND STOCK",
 "CPD_BLACK25_FLASH",
 "exclude_dec25",
 "exclude_flash26",
 "narta_11.11",
 "narta_new_sep25",
-"NOV25DISCOUNTS"
+"NOV25DISCOUNTS",
+"TOTAL_CPD_25"
 ],
 "in": true
 },
@@ -34683,13 +34670,13 @@
 "type": "Deodorant",
 "tags": [
 "CPD",
-"CPD BRAND STOCK",
 "CPD_BLACK25_FLASH",
 "exclude_dec25",
 "exclude_flash26",
 "mencorner",
 "narta_11.11",
-"narta_new_sep25"
+"narta_new_sep25",
+"NOV25DISCOUNTS"
 ],
 "in": false
 },
@@ -34703,13 +34690,13 @@
 "type": "Deodorant",
 "tags": [
 "CPD",
-"CPD BRAND STOCK",
 "CPD_BLACK25_FLASH",
 "exclude_dec25",
 "exclude_flash26",
 "mencorner",
 "narta_11.11",
-"narta_new_sep25"
+"narta_new_sep25",
+"NOV25DISCOUNTS"
 ],
 "in": false
 },
@@ -34723,13 +34710,13 @@
 "type": "Deodorant",
 "tags": [
 "CPD",
-"CPD BRAND STOCK",
 "CPD_BLACK25_FLASH",
 "exclude_dec25",
 "exclude_flash26",
 "mencorner",
 "narta_11.11",
-"narta_new_sep25"
+"narta_new_sep25",
+"NOV25DISCOUNTS"
 ],
 "in": true
 },
@@ -35550,13 +35537,13 @@
 "type": "UV Face Creams",
 "tags": [
 "CPD",
-"CPD BRAND STOCK",
 "dermo_menexpert_11.11_25",
 "exclude_blacknov25_cpd",
 "exclude_cpd_flashsale",
 "exclude_dec25",
 "exclude_flash_july25",
-"oap_christmas_activation25"
+"oap_christmas_activation25",
+"oap_skin_11.11"
 ],
 "in": false
 },
@@ -35570,13 +35557,13 @@
 "type": "Pimple Patch",
 "tags": [
 "CPD",
-"CPD BRAND STOCK",
 "exclude_blacknov25_cpd",
 "exclude_dec25",
 "exclude_flash26",
 "first_in_collection",
 "garnier_11.11_25",
-"garnier_fastclear"
+"garnier_fastclear",
+"TOTAL_CPD_25"
 ],
 "in": false
 },
@@ -37345,13 +37332,13 @@
 "type": "Nail polish",
 "tags": [
 "CPD",
-"CPD BRAND STOCK",
 "CPD_BLACK25_FLASH",
 "essie_11.11_25",
 "essie_boho",
 "exclude_cpd_flashsale",
 "exclude_dec25",
-"NOV25DISCOUNTS"
+"NOV25DISCOUNTS",
+"TOTAL_CPD_25"
 ],
 "in": false
 },
@@ -37385,13 +37372,13 @@
 "type": "Nail polish",
 "tags": [
 "CPD",
-"CPD BRAND STOCK",
 "CPD_BLACK25_FLASH",
 "essie_11.11_25",
 "essie_boho",
 "exclude_cpd_flashsale",
 "exclude_dec25",
-"NOV25DISCOUNTS"
+"NOV25DISCOUNTS",
+"TOTAL_CPD_25"
 ],
 "in": true
 },
@@ -37405,13 +37392,13 @@
 "type": "Nail polish",
 "tags": [
 "CPD",
-"CPD BRAND STOCK",
 "CPD_BLACK25_FLASH",
 "essie_11.11_25",
 "essie_boho",
 "exclude_cpd_flashsale",
 "exclude_dec25",
-"NOV25DISCOUNTS"
+"NOV25DISCOUNTS",
+"TOTAL_CPD_25"
 ],
 "in": false
 },
@@ -37445,13 +37432,13 @@
 "type": "Moisturizer",
 "tags": [
 "CPD",
-"CPD BRAND STOCK",
 "exclude_blacknov25_cpd",
 "exclude_cpd_flashsale",
 "exclude_dec25",
 "exclude_flash26",
 "fast-bright_day_may25",
-"garnier_11.11_25"
+"garnier_11.11_25",
+"garnier_watergel"
 ],
 "in": false
 },
@@ -38003,7 +37990,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/31GtsdQjCUL._SY350_QL15.jpg?v=1755003410&width=400",
 "type": "Mascara",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Essence Lash Princess false lash Masc. Brown",
@@ -38158,7 +38145,6 @@
 "type": "Lipstick",
 "tags": [
 "CPD",
-"CPD BRAND STOCK",
 "exclude_blacknov25_cpd",
 "exclude_cpd_flashsale",
 "exclude_dec25",
@@ -39434,10 +39420,10 @@
 "backtoschool-exclusive",
 "buy2get1_oap26",
 "CPD",
-"CPD BRAND STOCK",
 "CPD_FLASH26",
 "exclude_blacknov25_cpd",
-"exclude_cpd_flashsale"
+"exclude_cpd_flashsale",
+"exclude_dec25"
 ],
 "in": true
 },
@@ -39682,13 +39668,13 @@
 "adha_26",
 "backtoschool-exclusive",
 "CPD",
-"CPD BRAND STOCK",
 "CPD_BLACK25_FLASH",
 "CPD_FLASH26",
 "exclude_cpd_flashsale",
-"exclude_dec25"
+"exclude_dec25",
+"exclude_flash_july25"
 ],
-"in": false
+"in": true
 },
 {
 "t": "30 % OFF 2x  Wonder Cover Concealer + Red pouch",
@@ -41322,10 +41308,10 @@
 "backtoschool-exclusive",
 "buy1_get70%",
 "CPD",
-"CPD BRAND STOCK",
 "CPD_BLACK25_FLASH",
 "CPD_FLASH26",
-"exclude_cpd_flashsale"
+"exclude_cpd_flashsale",
+"exclude_flash_july25"
 ],
 "in": true
 },
@@ -41515,7 +41501,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/primaderm1.png?v=1750427924&width=400",
 "type": "serum",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "RETINAL RENEWEL 0.2% GROWTH FACTOR & PEPTIDE SERUM 30 ml",
@@ -42310,7 +42296,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/089_101941.jpg?v=1749626288&width=400",
 "type": "Tools",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Tommee Tippee     T&C 6PK REFILL CASS",
@@ -42900,12 +42886,12 @@
 "tags": [
 "avocado_range",
 "CPD",
-"CPD BRAND STOCK",
 "CPD_BLACK25_FLASH",
 "exclude_cpd_flashsale",
 "exclude_dec25",
 "exclude_flash_july25",
-"garnier_hair_11.11"
+"garnier_hair_11.11",
+"garnier_hair_colo_11.11"
 ],
 "in": false
 },
@@ -42919,13 +42905,13 @@
 "type": "Hair Serum",
 "tags": [
 "CPD",
-"CPD BRAND STOCK",
 "CPD_BLACK25_FLASH",
 "exclude_cpd_flashsale",
 "exclude_dec25",
 "exclude_flash_july25",
 "exportOOS",
-"garnier_hair_11.11"
+"garnier_hair_11.11",
+"garnier_hair_colo_11.11"
 ],
 "in": false
 },
@@ -43513,7 +43499,7 @@
 "Beard Care",
 "mencorner"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Novus Beard Oil",
@@ -44133,29 +44119,5 @@
 "type": "Tools",
 "tags": [],
 "in": false
-},
-{
-"t": "LOUFAH BATH SPONGE WITH HANDLE",
-"u": "https://sohaticare.com/products/loufah-bath-sponge-with-handle",
-"p": 4.44,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/OPT-3060-1.jpg?v=1748511483&width=400",
-"type": "Tools",
-"tags": [
-"HAND&FOOT"
-],
-"in": true
-},
-{
-"t": "YELLOW TWEETY BATH SPONGE",
-"u": "https://sohaticare.com/products/yellow-tweety-bath-sponge",
-"p": 3.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/OPTIMALYELLOWTWEETYBATHSPONGE.jpg?v=1748512066&width=400",
-"type": "Tools",
-"tags": [],
-"in": true
 }
 ]

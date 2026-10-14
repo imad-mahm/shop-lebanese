@@ -90,7 +90,7 @@
 "New at the Malt Gallery",
 "Our New Discoveries"
 ],
-"in": false
+"in": true
 },
 {
 "t": "CONTARINI PROSECCO TREVISIO BRUT 75 CL",
@@ -120,7 +120,7 @@
 "New at the Malt Gallery",
 "Our New Discoveries"
 ],
-"in": false
+"in": true
 },
 {
 "t": "CONTARINI PROSECCO EXTRA DRY 20 CL",
@@ -164,7 +164,7 @@
 "tamnavulin",
 "WHISKY"
 ],
-"in": false
+"in": true
 },
 {
 "t": "BLANKA ARAK 1L BLUE",
@@ -373,7 +373,7 @@
 "Tequila",
 "Top Tequilas"
 ],
-"in": false
+"in": true
 },
 {
 "t": "EL JIMADOR CRISTALLINO 70 CL",
@@ -466,7 +466,7 @@
 "tags": [
 "new"
 ],
-"in": false
+"in": true
 },
 {
 "t": "HERRADURA ULTRA ANEJO 70CL",
@@ -520,7 +520,7 @@
 "Tequila",
 "Top Tequilas"
 ],
-"in": false
+"in": true
 },
 {
 "t": "ESPOLON ANEJO BOURBON",
@@ -2322,7 +2322,7 @@
 "New at the Malt Gallery",
 "zero"
 ],
-"in": false
+"in": true
 },
 {
 "t": "FRENCH BLOOM LA CUVEE VINTAGE 2022 0% ABV",
@@ -2857,7 +2857,7 @@
 "RED",
 "Red Meat"
 ],
-"in": false
+"in": true
 },
 {
 "t": "CHATEAU HAUT PEYRUGUET, 2020",
@@ -3343,7 +3343,6 @@
 "tags": [
 "FAQRA",
 "France",
-"French promos",
 "Imported Wine",
 "Imported Wines",
 "Rose",

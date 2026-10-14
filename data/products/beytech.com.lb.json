@@ -1,5 +1,123 @@
 [
 {
+"t": "Joseph 5000020 Laundry dryer",
+"u": "https://beytech.com.lb/product/joseph-5000020-laundry-dryer/",
+"p": 159.0,
+"c": null,
+"cur": "USD",
+"img": "https://beytech.com.lb/wp-content/uploads/2026/09/5000020-247x247.jpg",
+"type": "Garment Care, Home Appliances, Irons Boards &amp; Drying Racks",
+"tags": [
+"Dryers",
+"Joseph Joseph",
+"Laundry",
+"Laundry Dryer"
+],
+"in": true
+},
+{
+"t": "Joseph 6500035 Drying Rack",
+"u": "https://beytech.com.lb/product/joseph-6500035-drying-rack/",
+"p": 55.0,
+"c": null,
+"cur": "USD",
+"img": "https://beytech.com.lb/wp-content/uploads/2026/10/6500035-247x247.jpg",
+"type": "Home &amp; Kitchen, Kitchen &amp; Dining, Kitchen Gadgets &amp; Cleaning Tools",
+"tags": [
+"Joseph Joseph",
+"Small Home Appliances"
+],
+"in": true
+},
+{
+"t": "Joseph 8500008 Space-saving under-shelf storage",
+"u": "https://beytech.com.lb/product/joseph-8500008-space-saving-under-shelf-storage/",
+"p": 19.0,
+"c": null,
+"cur": "USD",
+"img": "https://beytech.com.lb/wp-content/uploads/2026/10/8500008-247x247.jpg",
+"type": "Home &amp; Kitchen, Kitchen &amp; Dining, Serveware",
+"tags": [
+"Joseph Joseph",
+"storage container"
+],
+"in": true
+},
+{
+"t": "Joseph 81125 Flip-top cap",
+"u": "https://beytech.com.lb/product/joseph-81125-flip-top-cap/",
+"p": 19.0,
+"c": null,
+"cur": "USD",
+"img": "https://beytech.com.lb/wp-content/uploads/2026/10/Stainless-Steel-Travel-Tumbler-with-Joseph-Joseph-Lid-247x247.jpg",
+"type": "Camping &amp; Hiking, Outdoors, Sports &amp; Outdoors",
+"tags": [
+"Joseph Joseph",
+"Small Home Appliances",
+"Travel Mug"
+],
+"in": true
+},
+{
+"t": "Joseph 40114 Precision Pin Rolling Pin",
+"u": "https://beytech.com.lb/product/joseph-40114-precision-pin-rolling-pin/",
+"p": 29.0,
+"c": null,
+"cur": "USD",
+"img": "https://beytech.com.lb/wp-content/uploads/2026/09/40114-247x247.jpg",
+"type": "Home &amp; Kitchen, Kitchen &amp; Dining, Kitchen Gadgets &amp; Cleaning Tools",
+"tags": [
+"Joseph Joseph",
+"Small Home Appliances"
+],
+"in": true
+},
+{
+"t": "Joseph 1000032 3-ply stainless-steel construction Cooking Set",
+"u": "https://beytech.com.lb/product/joseph-1000032-3-ply-stainless-steel-construction-cooking-set/",
+"p": 499.0,
+"c": null,
+"cur": "USD",
+"img": "https://beytech.com.lb/wp-content/uploads/2026/10/1000032-247x247.jpg",
+"type": "Cookware &amp; Accessories, Home &amp; Kitchen, Kitchen &amp; Dining",
+"tags": [
+"Cooking Set",
+"Cookware",
+"Joseph Joseph"
+],
+"in": true
+},
+{
+"t": "Dyson  PF01-A 641007-01 HushJet™ Mini Cool first-ever portable personal fan Blue",
+"u": "https://beytech.com.lb/product/dyson-pf01-a-641007-01-hushjet-mini-cool-first-ever-portable-personal-fan-blue/",
+"p": 129.0,
+"c": null,
+"cur": "USD",
+"img": "https://beytech.com.lb/wp-content/uploads/2026/10/Untitled-247x247.jpg",
+"type": "Cooling, Heating &amp; Air Quality, Fans, Home Appliances",
+"tags": [
+"Dyson",
+"Fans",
+"Portable fan"
+],
+"in": true
+},
+{
+"t": "Dyson  PF01-A 641013-01  HushJet™ Mini Cool first-ever portable personal fan Pink",
+"u": "https://beytech.com.lb/product/dyson-pf01-a-641013-01-hushjet-mini-cool-first-ever-portable-personal-fan/",
+"p": 129.0,
+"c": null,
+"cur": "USD",
+"img": "https://beytech.com.lb/wp-content/uploads/2026/10/portable_fan_800x800_white-247x247.jpg",
+"type": "Cooling, Heating &amp; Air Quality, Fans, Home Appliances",
+"tags": [
+"Dyson",
+"Fans",
+"Portable fan"
+],
+"in": true
+},
+{
 "t": "Nespresso Capsule Dispenser-Medium",
 "u": "https://beytech.com.lb/product/nespresso-capsule-dispenser-medium/",
 "p": 35.0,
@@ -1724,11 +1842,11 @@
 {
 "t": "Joseph Joseph JJKBA8500010 FridgeStore Egg Storage Caddy",
 "u": "https://beytech.com.lb/product/joseph-joseph-jjkba8500010-fridgestore-egg-storage-caddy/",
-"p": 19.0,
-"c": null,
+"p": 15.0,
+"c": 19.0,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/09/6fddd2d290ec0ca919b0e46c6dabbd68-247x247.jpg",
-"type": "Home &amp; Kitchen, Kitchen &amp; Dining, Serveware",
+"type": "Autumn Offers 🍂, Home &amp; Kitchen, Kitchen &amp; Dining",
 "tags": [
 "Joseph Joseph",
 "storage container"
@@ -1738,11 +1856,11 @@
 {
 "t": "Joseph Joseph JJKBA5000016 Hold-All Laundry Basket 45L",
 "u": "https://beytech.com.lb/product/joseph-joseph-jjkba5000016-hold-all-laundry-basket-45l/",
-"p": 59.0,
-"c": null,
+"p": 49.0,
+"c": 59.0,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/09/421884_227865-taska-na-pradlo-ho-247x247.jpg",
-"type": "Bathroom Accessories, Bed &amp; Bath, Home &amp; Kitchen",
+"type": "Autumn Offers 🍂, Bathroom Accessories, Bed &amp; Bath",
 "tags": [
 "Joseph Joseph",
 "Laundry Baskets"
@@ -2113,6 +2231,21 @@
 "Bialetti",
 "Coffee",
 "Coffee Cups"
+],
+"in": true
+},
+{
+"t": "Bialetti 0005464 Moka Express 3 Cups Blue",
+"u": "https://beytech.com.lb/product/bialetti-0005464-moka-express-3-cups-suitable-for-all-types-of-stove-except-induction-candyland-blue/",
+"p": 49.0,
+"c": null,
+"cur": "USD",
+"img": "https://beytech.com.lb/wp-content/uploads/2026/10/Front-247x247.jpg",
+"type": "Bialetti, Breakfast, Coffee Makers",
+"tags": [
+"Bialetti",
+"Coffee",
+"Coffee Makers"
 ],
 "in": true
 },
@@ -4828,11 +4961,11 @@
 {
 "t": "Joseph Joseph 70596 easystore luxe 5L pedal bin s/s",
 "u": "https://beytech.com.lb/product/joseph-joseph-70505-titan-20l-pedal-bin-s-s/",
-"p": 59.0,
-"c": null,
+"p": 39.0,
+"c": 59.0,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2025/07/70596-247x247.jpg",
-"type": "Bins &amp; Containers, Home &amp; Deco, Home &amp; Kitchen",
+"type": "Autumn Offers 🍂, Bins &amp; Containers, Home &amp; Deco",
 "tags": [
 "Bins",
 "Joseph Joseph"
@@ -4856,11 +4989,11 @@
 {
 "t": "Joseph Joseph 5000014 Hold all laundry basket",
 "u": "https://beytech.com.lb/product/joseph-joseph-50036-tota-90l-laundry-basket/",
-"p": 49.0,
-"c": null,
+"p": 39.0,
+"c": 49.0,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/08/5000014-1-247x247.jpg",
-"type": "Bathroom Accessories, Bed &amp; Bath, Home &amp; Kitchen",
+"type": "Autumn Offers 🍂, Bathroom Accessories, Bed &amp; Bath",
 "tags": [
 "Joseph Joseph",
 "Small Home Appliances"
@@ -4926,11 +5059,11 @@
 {
 "t": "Joseph Joseph 8500011 drawerstore tiered cutlery organiser",
 "u": "https://beytech.com.lb/product/joseph-joseph-85155-expandable-cutlery-organiser/",
-"p": 19.0,
-"c": null,
+"p": 15.0,
+"c": 19.0,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/08/8500011-1-247x247.jpg",
-"type": "Home &amp; Kitchen, Kitchen &amp; Dining, Kitchen Gadgets &amp; Cleaning Tools",
+"type": "Autumn Offers 🍂, Home &amp; Kitchen, Kitchen &amp; Dining",
 "tags": [
 "Joseph Joseph",
 "Small Home Appliances"
@@ -4963,7 +5096,7 @@
 "Joseph Joseph",
 "Small Home Appliances"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Joseph Joseph 851647 excel steel 2-tier disk rack",
@@ -5106,7 +5239,7 @@
 "Eastpak",
 "School"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Eastpak EK0A5BNSA0Z DAY PAK’R PRO  Dahlia Purple",
@@ -5163,22 +5296,6 @@
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/08/Eastpak298807-247x247.jpg",
-"type": "Bags, Books &amp; Stationery, Stationery",
-"tags": [
-"Backpacks",
-"Bags",
-"Eastpak",
-"School"
-],
-"in": false
-},
-{
-"t": "Eastpak EK0A5BIKC0Q DAY OFFICE  Letter Dye Black",
-"u": "https://beytech.com.lb/product/eastpak-ek0a5bik-letter-dye-black/",
-"p": 0.0,
-"c": null,
-"cur": "USD",
-"img": "https://beytech.com.lb/wp-content/uploads/2026/08/Eastpak298806-247x247.jpg",
 "type": "Bags, Books &amp; Stationery, Stationery",
 "tags": [
 "Backpacks",
@@ -5282,7 +5399,7 @@
 "Eastpak",
 "School"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Eastpak EK0A5BG4B0F DAY PAK’R  Bamboo Yellow",
@@ -5648,7 +5765,7 @@
 "Eastpak",
 "School"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Eastpak EK0A5BHH1Z1 BOUNCER GB PATCHES",
@@ -5836,7 +5953,7 @@
 "Eastpak",
 "School"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Eastpak EK0007676V3  OUT OF OFFICE POLAR BLUE",
@@ -5868,7 +5985,7 @@
 "Eastpak",
 "School"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Eastpak EK0007674W6  OUTOFOFFICEKONTRASTBUBBLE",
@@ -5932,7 +6049,7 @@
 "Eastpak",
 "School"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Eastpak EK0000604W61 PINNACLE KONTRAST BUBBLE",
@@ -5965,6 +6082,20 @@
 "School"
 ],
 "in": true
+},
+{
+"t": "Eastpak EK0007176V5  OVAL SINGLE AIR BLUE",
+"u": "https://beytech.com.lb/product/eastpak-ek0007176v5-oval-single-air-blue/",
+"p": 32.0,
+"c": null,
+"cur": "USD",
+"img": "https://beytech.com.lb/wp-content/uploads/2026/08/Eastpak289933-247x247.jpg",
+"type": "Bags, Books &amp; Stationery, Stationery",
+"tags": [
+"Eastpak",
+"School"
+],
+"in": false
 },
 {
 "t": "Eastpak EK00071 76V3  OVAL SINGLE POLAR BLUE",
@@ -6009,7 +6140,7 @@
 "Pencil case",
 "School"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Eastpak EK0007174V6  OVAL SINGLE DC Icons",
@@ -6116,7 +6247,7 @@
 "Eastpak",
 "School"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Eastpak EK0A5BKA4W2  CROSTIN WASHED ROSE",
@@ -6193,7 +6324,7 @@
 "Eastpak",
 "School"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Eastpak EK0006206V0  PADDED PAK’R SALSA RED",
@@ -6209,7 +6340,7 @@
 "Eastpak",
 "School"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Eastpak EK0006205W1   PADDED PAK’R GLOSSY BLUE",
@@ -6303,7 +6434,7 @@
 "Eastpak",
 "School"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Eastpak EK0A5BG47V6  DAY PAK’R PAINTED DARK",
@@ -6444,7 +6575,7 @@
 "Eastpak",
 "School"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Eastpak EK0009364W61 BACK TO WORK KONTRAST BUBBLE",
@@ -6476,7 +6607,7 @@
 "Eastpak",
 "School"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Eastpak EK60N98 PINNACLE Spark Black",
@@ -6713,6 +6844,21 @@
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/08/Eastpak289864-247x247.jpg",
+"type": "Bags, Books &amp; Stationery, Stationery",
+"tags": [
+"Bags",
+"Eastpak",
+"Travel Bag"
+],
+"in": false
+},
+{
+"t": "Eastpak EK0A5BJE4S1 RESIST’R CASE S BRUSHED METAL",
+"u": "https://beytech.com.lb/product/eastpak-ek0a5bje4s1-resistr-case-s-brushed-metal/",
+"p": 363.0,
+"c": null,
+"cur": "USD",
+"img": "https://beytech.com.lb/wp-content/uploads/2026/08/Eastpak289863-247x247.jpg",
 "type": "Bags, Books &amp; Stationery, Stationery",
 "tags": [
 "Bags",
@@ -7055,7 +7201,7 @@
 "Eastpak",
 "School"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Eastpak EK0000608V5  PINNACLE BRIZE PALM AQUA",
@@ -7103,7 +7249,7 @@
 "Eastpak",
 "School"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Eastpak EK0A5BL82W0  TOPROLL PRO CS RIP GREY",
@@ -7891,6 +8037,22 @@
 "in": false
 },
 {
+"t": "Eastpak EK00040F7V8  MORIUS REFLEKSSPACBLAC",
+"u": "https://beytech.com.lb/product/eastpak-ek00040f7v8-morius-refleksspacblac/",
+"p": 93.0,
+"c": null,
+"cur": "USD",
+"img": "https://beytech.com.lb/wp-content/uploads/2026/08/Eastpak290052-247x247.jpg",
+"type": "Bags, Books &amp; Stationery, Stationery",
+"tags": [
+"Backpacks",
+"Bags",
+"Eastpak",
+"School"
+],
+"in": true
+},
+{
 "t": "Eastpak EK00040F7V6  MORIUS PAINTED DARK",
 "u": "https://beytech.com.lb/product/eastpak-ek00040f7v6-morius-painted-dark/",
 "p": 93.0,
@@ -8451,7 +8613,7 @@
 "Pencil case",
 "School"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Eastpak EK00088E77H  MAVIS Black Denim",
@@ -8526,7 +8688,7 @@
 "Pencil case",
 "School"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Eastpak EK37226W BENCHMARK SINGLE Triple Denim",
@@ -8541,7 +8703,7 @@
 "Pencil case",
 "School"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Eastpak EK0A5BGA008  LOCKBELT Black",
@@ -8586,7 +8748,7 @@
 "Pencil case",
 "School"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Eastpak  EK0A5BKH4T61 ICON SPRINGER ON BLACK",
@@ -13138,26 +13300,26 @@
 {
 "t": "Joseph Joseph 81123 sipp travel mug 340ml coral",
 "u": "https://beytech.com.lb/product/joseph-joseph-sipp-travel-mug/",
-"p": 19.0,
-"c": null,
+"p": 15.0,
+"c": 19.0,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/06/81123-247x247.jpg",
-"type": "Camping &amp; Hiking, Outdoors, Sports &amp; Outdoors",
+"type": "Autumn Offers 🍂, Camping &amp; Hiking, Offers Small Appliances",
 "tags": [
 "Joseph Joseph",
 "Small Home Appliances",
 "Travel Mug"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Joseph Joseph 81122 sipp travel mug 340ml Green",
 "u": "https://beytech.com.lb/product/joseph-joseph-sipp-travel-mug-340ml-green/",
-"p": 19.0,
-"c": null,
+"p": 15.0,
+"c": 19.0,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/06/81122-247x247.jpg",
-"type": "Camping &amp; Hiking, Outdoors, Sports &amp; Outdoors",
+"type": "Autumn Offers 🍂, Camping &amp; Hiking, Offers Small Appliances",
 "tags": [
 "Joseph Joseph",
 "Small Home Appliances",
@@ -13182,11 +13344,11 @@
 {
 "t": "Joseph Joseph 10546 Steel Knives Carousel 5-Piece",
 "u": "https://beytech.com.lb/product/joseph-joseph-knife-carousel-100/",
-"p": 199.0,
-"c": null,
+"p": 169.0,
+"c": 199.0,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/06/10546-247x247.jpg",
-"type": "Home &amp; Kitchen, Kitchen &amp; Dining, Knife and Cutlery Accessories",
+"type": "Autumn Offers 🍂, Home &amp; Kitchen, Kitchen &amp; Dining",
 "tags": [
 "Joseph Joseph",
 "Knife &amp; Accessories"
@@ -13196,11 +13358,11 @@
 {
 "t": "Joseph Joseph 10541 Elevate Knives 5-piece Carousel Set",
 "u": "https://beytech.com.lb/product/joseph-joseph-100-collection/",
-"p": 109.0,
-"c": null,
+"p": 99.0,
+"c": 109.0,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/06/10541-247x247.jpg",
-"type": "Home &amp; Kitchen, Kitchen &amp; Dining, Knife and Cutlery Accessories",
+"type": "Autumn Offers 🍂, Home &amp; Kitchen, Kitchen &amp; Dining",
 "tags": [
 "Joseph Joseph",
 "Knife &amp; Accessories"
@@ -13351,6 +13513,20 @@
 "in": false
 },
 {
+"t": "OONI UU-P2EB00 Gas Burner for Karu 2 Pro -30mBar",
+"u": "https://beytech.com.lb/product/ooni-natural-gas-burner/",
+"p": 121.0,
+"c": null,
+"cur": "USD",
+"img": "https://beytech.com.lb/wp-content/uploads/2026/10/UU-P2EB00-247x247.jpg",
+"type": "Barbecue Accessories, Grills &amp; Outdoor Cooking, Outdoors",
+"tags": [
+"OONI",
+"Pizza Making Accessories"
+],
+"in": true
+},
+{
 "t": "OONI UU-P0DA00 UK Table Utility Box Large",
 "u": "https://beytech.com.lb/product/ooni-large-utility-box/",
 "p": 60.0,
@@ -13358,6 +13534,20 @@
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/06/UU-P0DA00-2-247x247.jpg",
 "type": "Autumn Offers 🍂, Barbecue Accessories, Grills &amp; Outdoor Cooking",
+"tags": [
+"OONI",
+"Pizza Making Accessories"
+],
+"in": true
+},
+{
+"t": "OONI UU-P0CF00 Medium Utility Box",
+"u": "https://beytech.com.lb/product/ooni-uu-p0cf00-medium-utility-box/",
+"p": 51.0,
+"c": null,
+"cur": "USD",
+"img": "https://beytech.com.lb/wp-content/uploads/2026/10/UU-P0CF00-247x247.jpg",
+"type": "Barbecue Accessories, Grills &amp; Outdoor Cooking, Outdoors",
 "tags": [
 "OONI",
 "Pizza Making Accessories"
@@ -13456,6 +13646,20 @@
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/06/UU-P0E500-247x247.jpg",
 "type": "Autumn Offers 🍂, Barbecue Accessories, Grills &amp; Outdoor Cooking",
+"tags": [
+"OONI",
+"Pizza Making Accessories"
+],
+"in": true
+},
+{
+"t": "OONI UU-P31800 Karu 12,12G and 2 Black Pizza Oven Cover",
+"u": "https://beytech.com.lb/product/ooni-uu-p31800-karu-1212g-and-2-black-pizza-oven-cover/",
+"p": 41.0,
+"c": null,
+"cur": "USD",
+"img": "https://beytech.com.lb/wp-content/uploads/2026/10/UU-P31800-247x247.jpg",
+"type": "Barbecue Accessories, Grills &amp; Outdoor Cooking, Outdoors",
 "tags": [
 "OONI",
 "Pizza Making Accessories"
@@ -13569,6 +13773,20 @@
 "c": 887.0,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/06/UU-P2EE00-2-247x247.jpg",
+"type": "Autumn Offers 🍂, Barbecues, Grills &amp; Outdoor Cooking",
+"tags": [
+"OONI",
+"Pizza Maker"
+],
+"in": true
+},
+{
+"t": "OONI UU-P30300 Ooni Karu 2 Multi-Fuel Outdoor Pizza Oven – Wood and Gas, with Pizza Stone & Integrated Thermometer",
+"u": "https://beytech.com.lb/product/ooni-uu-p30300-ooni-karu-2-multi-fuel-outdoor-pizza-oven-wood-and-gas-with-pizza-stone-integrated-thermometer/",
+"p": 377.0,
+"c": null,
+"cur": "USD",
+"img": "https://beytech.com.lb/wp-content/uploads/2026/10/UU-P30300-247x247.jpg",
 "type": "Autumn Offers 🍂, Barbecues, Grills &amp; Outdoor Cooking",
 "tags": [
 "OONI",
@@ -13803,11 +14021,11 @@
 {
 "t": "Joseph Joseph Viva Makeup Cosmetic Storage Organizer with Drawer, Large with Mirror, Shell, Cream",
 "u": "https://beytech.com.lb/product/joseph-joseph-viva-pedestal-mirror-cosmetic-organizer-shell-cream/",
-"p": 59.0,
-"c": null,
+"p": 45.0,
+"c": 59.0,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/06/75005-247x247.jpg",
-"type": "Home &amp; Deco, Home &amp; Kitchen, Storage &amp; Organization",
+"type": "Autumn Offers 🍂, Home &amp; Deco, Home &amp; Kitchen",
 "tags": [
 "Joseph Joseph",
 "Small Home Appliances"
@@ -13817,11 +14035,11 @@
 {
 "t": "Joseph Joseph  Viva Makeup Cosmetic Storage Organizer with Drawer, Medium, Shell",
 "u": "https://beytech.com.lb/product/joseph-joseph-viva-tiered-cosmetic-organizer-medium-shell/",
-"p": 39.0,
-"c": null,
+"p": 25.0,
+"c": 39.0,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/06/75004-247x247.jpg",
-"type": "Home &amp; Deco, Home &amp; Kitchen, Storage &amp; Organization",
+"type": "Autumn Offers 🍂, Home &amp; Deco, Home &amp; Kitchen",
 "tags": [
 "Joseph Joseph",
 "Small Home Appliances"
@@ -13901,11 +14119,11 @@
 {
 "t": "Joseph Joseph Porta, 1  5 gal (40 L), Midnight Blue",
 "u": "https://beytech.com.lb/product/joseph-joseph-pod-waste-caddy-midnight-blue/",
-"p": 219.0,
-"c": null,
+"p": 199.0,
+"c": 219.0,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/06/30122-247x247.jpg",
-"type": "Bins &amp; Containers, Home &amp; Deco, Home &amp; Kitchen",
+"type": "Autumn Offers 🍂, Bins &amp; Containers, Home &amp; Deco",
 "tags": [
 "Bins",
 "Joseph Joseph"
@@ -13993,7 +14211,35 @@
 "tags": [
 "Joseph Joseph"
 ],
+"in": false
+},
+{
+"t": "Joseph Joseph  Duo 5-Piece Utensil Set with Storage Stand",
+"u": "https://beytech.com.lb/product/joseph-joseph-duo-5-piece-utensil-set-with-storage-stand/",
+"p": 59.0,
+"c": 89.0,
+"cur": "USD",
+"img": "https://beytech.com.lb/wp-content/uploads/2026/06/10549-247x247.jpg",
+"type": "Autumn Offers 🍂, Home &amp; Kitchen, Kitchen &amp; Dining",
+"tags": [
+"Joseph Joseph",
+"Utensil Set"
+],
 "in": true
+},
+{
+"t": "Joseph Joseph  Chopping Board  Small Twin set 2 Sky",
+"u": "https://beytech.com.lb/product/joseph-joseph-chopping-board-small-twin-set-2-sky/",
+"p": 15.0,
+"c": null,
+"cur": "USD",
+"img": "https://beytech.com.lb/wp-content/uploads/2026/06/981003-247x247.jpg",
+"type": "Home &amp; Kitchen, Kitchen &amp; Dining, Knife and Cutlery Accessories",
+"tags": [
+"Joseph Joseph",
+"Knife &amp; Accessories"
+],
+"in": false
 },
 {
 "t": "Ninja NC701 CREAMi Scoop & Swirl Ice Cream Maker 13-in-1 Programs",
@@ -20550,7 +20796,7 @@
 {
 "t": "KitchenAid 5KSB2073EBM Pure Power Blender 2L Jar – Matte Black",
 "u": "https://beytech.com.lb/product/kitchenaid-5ksb2073ebm-pure-power-blender-2l-jar-matte-black/",
-"p": 184.0,
+"p": 196.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/5KSB2073EBM-247x247.jpg",
@@ -20564,7 +20810,7 @@
 {
 "t": "KitchenAid 5KSB2073EER Pure Power Blender 2L Jar – Empire Red",
 "u": "https://beytech.com.lb/product/kitchenaid-5ksb2073eer-pure-power-blender-2l-jar-empire-red/",
-"p": 184.0,
+"p": 196.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/5KSB2073EER-247x247.jpg",
@@ -20578,7 +20824,7 @@
 {
 "t": "KitchenAid 5KSB2073EDG Pure Power Blender 2L Jar – Charcoal Grey",
 "u": "https://beytech.com.lb/product/kitchenaid-5ksb2073edg-pure-power-blender-2l-jar-charcoal-grey/",
-"p": 184.0,
+"p": 196.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/5KSB2073EDG-247x247.jpg",
@@ -20592,7 +20838,7 @@
 {
 "t": "KitchenAid 5KSB2073EPL Pure Power Blender 2L Jar – Porcelain White",
 "u": "https://beytech.com.lb/product/kitchenaid-5ksb2073epl-pure-power-blender-2l-jar-porcelain-white/",
-"p": 184.0,
+"p": 196.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/5KSB2073EPL-247x247.jpg",
@@ -20606,7 +20852,7 @@
 {
 "t": "KitchenAid 5KSM55SXXEBM 5  2L Heavy Duty Bowl-Lift Stand Mixer – Matte Black",
 "u": "https://beytech.com.lb/product/kitchenaid-5ksm55sxxebm-5-2l-heavy-duty-bowl-lift-stand-mixer-matte-black/",
-"p": 939.0,
+"p": 967.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/5KSM55SXXEBM-247x247.jpg",
@@ -20621,7 +20867,7 @@
 {
 "t": "KitchenAid 5KSM55SXXECU 5  2L Heavy Duty Bowl-Lift Stand Mixer – Contour Silver",
 "u": "https://beytech.com.lb/product/kitchenaid-5ksm55sxxecu-5-2l-heavy-duty-bowl-lift-stand-mixer-contour-silver/",
-"p": 939.0,
+"p": 967.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/5KSM55SXXECU-247x247.jpg",
@@ -27679,7 +27925,7 @@
 {
 "t": "Apple Pencil Pro",
 "u": "https://beytech.com.lb/product/apple-pencil-pro/",
-"p": 115.0,
+"p": 125.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/03/APPLEPENCILPRO-247x247.jpg",
@@ -27689,7 +27935,7 @@
 "Apple Pencil",
 "Ipad"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Sonos Speaker  Era 100 UK R2 (Black)",
@@ -27718,7 +27964,7 @@
 "Joseph Joseph",
 "Small Home Appliances"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Joseph Joseph 1000013 nest Rnd & Rct 8 pcs",
@@ -31484,7 +31730,7 @@
 {
 "t": "Kitchenaid 5KSM70JPXEER Stand Mixer",
 "u": "https://beytech.com.lb/product/kitchenaid-5ksm70jpxeer-stand-mixer/",
-"p": 1103.0,
+"p": 1135.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/02/5KSM70JPXEER-247x247.jpg",
@@ -31499,7 +31745,7 @@
 {
 "t": "Kitchenaid 5KSM55SXEWH 5  2 L Bowl-Lift Stand Mixer – White",
 "u": "https://beytech.com.lb/product/kitchenaid-5ksm55sxewh-5-2-l-bowl-lift-stand-mixer-white/",
-"p": 895.0,
+"p": 967.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/02/5KSM55SXEWH-247x247.jpg",
@@ -31998,7 +32244,7 @@
 {
 "t": "KitchenAid 5KFP1319EAC 3,1 L Food Processor Almond Cream",
 "u": "https://beytech.com.lb/product/kitchenaid-5kfp1319eac-31-l-food-processor-almond-cream/",
-"p": 387.0,
+"p": 440.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/02/5KFP1319EAC-247x247.jpg",
@@ -38883,7 +39129,7 @@
 "Small Home Appliances",
 "Soap Holders &amp; Dispensers"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Jbl CinemaSB5803  1 3  1 Channel Soundbar with Virtual Dolby Atmos and Wireless Subwoofer",
@@ -41923,7 +42169,7 @@
 "Joseph Joseph",
 "Laundry Baskets"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Joseph Joseph 5000005 Tota Luxe 90L Laundry Basket Black",
@@ -41965,7 +42211,7 @@
 "Joseph Joseph",
 "Small Home Appliances"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Joseph Joseph 6500028 Clean Tech Ct3 Dual Scrubber Repl  Pad",
@@ -42155,11 +42401,11 @@
 {
 "t": "Joseph Joseph 8500003 Hold Easy Tear Kitchen Roll Holder",
 "u": "https://beytech.com.lb/product/joseph-joseph-8500003-hold-easy-tear-kitchen-roll-holder/",
-"p": 29.0,
-"c": null,
+"p": 22.0,
+"c": 29.0,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2025/10/8500003-247x247.jpg",
-"type": "Home &amp; Kitchen, Kitchen &amp; Dining, Kitchen Gadgets &amp; Cleaning Tools",
+"type": "Autumn Offers 🍂, Home &amp; Kitchen, Kitchen &amp; Dining",
 "tags": [
 "Joseph Joseph",
 "Small Home Appliances"
@@ -44466,264 +44712,6 @@
 "Beurer",
 "Blood Pressure Monitors",
 "Medical Products"
-],
-"in": true
-},
-{
-"t": "Beurer BM23 Blood Pressure Monitor",
-"u": "https://beytech.com.lb/product/beurer-bm23-blood-pressure-monitor/",
-"p": 36.0,
-"c": null,
-"cur": "USD",
-"img": "https://beytech.com.lb/wp-content/uploads/2025/10/BEU60493-247x247.jpg",
-"type": "Beauty &amp; Healthcare, Beurer, Blood Pressure Monitors",
-"tags": [
-"Beurer",
-"Blood Pressure Monitors",
-"Medical Products"
-],
-"in": true
-},
-{
-"t": "Beurer MG195 Massage Gun",
-"u": "https://beytech.com.lb/product/beurer-mg195-massage-gun/",
-"p": 222.0,
-"c": null,
-"cur": "USD",
-"img": "https://beytech.com.lb/wp-content/uploads/2025/10/BEU10268-247x247.jpg",
-"type": "Beauty &amp; Healthcare, Beurer, Electric Massagers",
-"tags": [
-"Beurer",
-"Massage"
-],
-"in": false
-},
-{
-"t": "Beurer MG154 4D neck massager",
-"u": "https://beytech.com.lb/product/beurer-mg154-4d-neck-massager/",
-"p": 156.0,
-"c": null,
-"cur": "USD",
-"img": "https://beytech.com.lb/wp-content/uploads/2025/10/BEU10420-247x247.jpg",
-"type": "Beauty &amp; Healthcare, Beurer, Electric Massagers",
-"tags": [
-"Beurer",
-"Massage",
-"Neck Massager"
-],
-"in": true
-},
-{
-"t": "Beurer LE250 Air dehumidifier",
-"u": "https://beytech.com.lb/product/beurer-le250-air-dehumidifier/",
-"p": 400.0,
-"c": null,
-"cur": "USD",
-"img": "https://beytech.com.lb/wp-content/uploads/2025/10/BEU10318-247x247.jpg",
-"type": "Beurer, Cooling, Heating &amp; Air Quality, Dehumidifiers",
-"tags": [
-"Beurer",
-"Dehumidifier"
-],
-"in": true
-},
-{
-"t": "Beurer HS70 Hair Straightener",
-"u": "https://beytech.com.lb/product/beurer-hs70-hair-straightener/",
-"p": 67.0,
-"c": null,
-"cur": "USD",
-"img": "https://beytech.com.lb/wp-content/uploads/2025/10/BEU10409-247x247.jpg",
-"type": "Beauty &amp; Healthcare, Beurer, Hair Care",
-"tags": [
-"Beurer",
-"Beurer Offers",
-"Hair care",
-"Hair Straightener",
-"Hair Straighteners"
-],
-"in": true
-},
-{
-"t": "Beurer HC150 FusionDry Pro Hair dryer",
-"u": "https://beytech.com.lb/product/beurer-hc150-fusiondry-pro-hair-dryer/",
-"p": 222.0,
-"c": null,
-"cur": "USD",
-"img": "https://beytech.com.lb/wp-content/uploads/2025/10/BEU10484-247x247.jpg",
-"type": "Beauty &amp; Healthcare, Beurer, Hair Care",
-"tags": [
-"Beurer",
-"Hair care",
-"Hair Dryers"
-],
-"in": true
-},
-{
-"t": "Beurer HC70 Travel hair dryer 2100 W",
-"u": "https://beytech.com.lb/product/beurer-hc70-travel-hair-dryer-2100-w/",
-"p": 67.0,
-"c": null,
-"cur": "USD",
-"img": "https://beytech.com.lb/wp-content/uploads/2025/10/BEU10401-247x247.jpg",
-"type": "Beauty &amp; Healthcare, Beurer, Hair Care",
-"tags": [
-"Beurer",
-"Hair care",
-"Hair Dryers"
-],
-"in": true
-},
-{
-"t": "Beurer MP200 StudioNails Pro",
-"u": "https://beytech.com.lb/product/beurer-mp200-studionails-pro/",
-"p": 245.0,
-"c": null,
-"cur": "USD",
-"img": "https://beytech.com.lb/wp-content/uploads/2025/10/BEU10430-247x247.jpg",
-"type": "Beauty &amp; Healthcare, Beurer, Foot, Hand &amp; Nail Care",
-"tags": [
-"Beurer",
-"Nail care"
-],
-"in": true
-},
-{
-"t": "Smeg SOP6602TNR  Built-in Oven Galileo Traditional pyro 60Cm Black",
-"u": "https://beytech.com.lb/product/smeg-sop6602tnr-oven-galileo-traditional-pyro-60cm-black/",
-"p": 2220.0,
-"c": null,
-"cur": "USD",
-"img": "https://beytech.com.lb/wp-content/uploads/2025/10/SOP6602TNR-247x247.jpg",
-"type": "Home Appliances, Large Appliances, Ovens",
-"tags": [
-"Ovens",
-"smeg",
-"Smeg Big appliances"
-],
-"in": false
-},
-{
-"t": "Smeg SFR9302TX Built-in Oven   Reduced heightThermo-ventilated – 90cm Stainless Steel",
-"u": "https://beytech.com.lb/product/smeg-sfr9302tx-oven-reduced-heightthermo-ventilated-90cm-stainless-steel/",
-"p": 2325.0,
-"c": null,
-"cur": "USD",
-"img": "https://beytech.com.lb/wp-content/uploads/2025/10/SFR9302TX-247x247.jpg",
-"type": "Home Appliances, Large Appliances, Ovens",
-"tags": [
-"Ovens",
-"smeg",
-"Smeg Big appliances"
-],
-"in": false
-},
-{
-"t": "Smeg SFPR9604TNR Built-in Oven   Reduced heightThermo-ventilated -90cm  Black",
-"u": "https://beytech.com.lb/product/smeg-sfpr9604tnr-oven-reduced-heightthermo-ventilated-90cm-black/",
-"p": 3856.0,
-"c": null,
-"cur": "USD",
-"img": "https://beytech.com.lb/wp-content/uploads/2025/10/SFPR9604TNR-247x247.jpg",
-"type": "Home Appliances, Large Appliances, Ovens",
-"tags": [
-"Ovens",
-"smeg",
-"Smeg Big appliances"
-],
-"in": false
-},
-{
-"t": "Smeg SFP9302TN Built-in Oven Thermo-ventilated 90Cm",
-"u": "https://beytech.com.lb/product/smeg-sfp9302tn-oven-thermo-ventilated-90cm/",
-"p": 3388.0,
-"c": null,
-"cur": "USD",
-"img": "https://beytech.com.lb/wp-content/uploads/2025/10/SFP9302TN-247x247.jpg",
-"type": "Home Appliances, Large Appliances, Ovens",
-"tags": [
-"Ovens",
-"smeg",
-"Smeg Big appliances"
-],
-"in": false
-},
-{
-"t": "Smeg SF9300GGVNSS Built-in Gas/Gas Convection Oven 90cm 116L Black Matt",
-"u": "https://beytech.com.lb/product/smeg-sf9300ggvnss-gas-gas-convection-oven-90cm-116l-black-matt/",
-"p": 2220.0,
-"c": null,
-"cur": "USD",
-"img": "https://beytech.com.lb/wp-content/uploads/2025/10/SF9300GGVNSS-247x247.jpg",
-"type": "Home Appliances, Large Appliances, Ovens",
-"tags": [
-"Ovens",
-"smeg",
-"Smeg Big appliances"
-],
-"in": true
-},
-{
-"t": "Smeg SO6302M2N Built-in Combi Microwave Oven",
-"u": "https://beytech.com.lb/product/smeg-so6302m2n-combi-microwave-oven/",
-"p": 2800.0,
-"c": null,
-"cur": "USD",
-"img": "https://beytech.com.lb/wp-content/uploads/2025/10/SO6302M2N-247x247.jpg",
-"type": "Home Appliances, Large Appliances, Microwaves",
-"tags": [
-"Built-In Microwave",
-"Microwaves",
-"Ovens",
-"smeg",
-"Smeg Big appliances"
-],
-"in": true
-},
-{
-"t": "Smeg SO4602M1NR Built-in Combi Microwave Oven",
-"u": "https://beytech.com.lb/product/smeg-so4602m1nr-combi-microwave-oven/",
-"p": 2804.0,
-"c": null,
-"cur": "USD",
-"img": "https://beytech.com.lb/wp-content/uploads/2025/10/SO4602M1NR-247x247.jpg",
-"type": "Home Appliances, Large Appliances, Microwaves",
-"tags": [
-"Built-In Microwave",
-"Microwaves",
-"Ovens",
-"smeg",
-"Smeg Big appliances"
-],
-"in": false
-},
-{
-"t": "Smeg KSG9P4MB  Built-in hood, 90 cm",
-"u": "https://beytech.com.lb/product/smeg-ksg9p4mb-integrated-hood-90-cm/",
-"p": 1554.0,
-"c": null,
-"cur": "USD",
-"img": "https://beytech.com.lb/wp-content/uploads/2026/08/KSG9P4MB-247x247.jpg",
-"type": "Home Appliances, Hoods, Large Appliances",
-"tags": [
-"Hoods",
-"smeg",
-"Smeg Big appliances"
-],
-"in": false
-},
-{
-"t": "Smeg KSG52HPE Built-in hood, 50 cm",
-"u": "https://beytech.com.lb/product/smeg-ksg52hpe-integrated-hood-50-cm/",
-"p": 355.0,
-"c": null,
-"cur": "USD",
-"img": "https://beytech.com.lb/wp-content/uploads/2025/10/KSG52HPE-247x247.jpg",
-"type": "Home Appliances, Hoods, Large Appliances",
-"tags": [
-"Hoods",
-"smeg",
-"Smeg Big appliances"
 ],
 "in": true
 }
