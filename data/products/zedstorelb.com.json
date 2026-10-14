@@ -1,5 +1,60 @@
 [
 {
+"t": "Bodycology Beach Berries Body Mist 237ml",
+"u": "https://zedstorelb.com/products/bodycology-beach-berries-body-mist-237ml",
+"p": 8.5,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/images_389dd355-68b9-450a-bb3e-0f928723672d.jpg?v=1791900474&width=400",
+"type": "Body Mist",
+"tags": [],
+"in": true
+},
+{
+"t": "Bodycology Cherry Blossom Body Mist 237ml",
+"u": "https://zedstorelb.com/products/bodycology-cherry-blossom-body-mist-237ml",
+"p": 8.5,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/images_8c473ba3-0bd9-4e0e-9a9b-e3b2ced45086.jpg?v=1791900302&width=400",
+"type": "Body Mist",
+"tags": [],
+"in": true
+},
+{
+"t": "Bodycology Dark Cherry Orchid Body Mist 237ml",
+"u": "https://zedstorelb.com/products/bodycology-dark-cherry-orchid-body-mist-237ml",
+"p": 8.5,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/4d43e866ddae96d1510a9d271244ab47.webp?v=1791900149&width=400",
+"type": "Body Mist",
+"tags": [],
+"in": true
+},
+{
+"t": "Bodycology Floating On A Cloud Body Mist 237ml",
+"u": "https://zedstorelb.com/products/bodycology-floating-on-a-cloud-body-mist-237ml",
+"p": 8.5,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/images_9255a72e-12dc-4e1e-9f2b-5588f9faf503.jpg?v=1791899954&width=400",
+"type": "Body Mist",
+"tags": [],
+"in": true
+},
+{
+"t": "Bodycology Strawberry Cheesecake Body Mist 237ml",
+"u": "https://zedstorelb.com/products/bodycology-strawberry-cheesecake-body-mist-237ml",
+"p": 8.5,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/images_b686fcf7-7ccb-47a6-af6f-948b224283f9.jpg?v=1791899751&width=400",
+"type": "Body Mist",
+"tags": [],
+"in": true
+},
+{
 "t": "SHEGLAM Color Bloom Liquid Blush",
 "u": "https://zedstorelb.com/products/sheglam-color-bloom-liquid-blush",
 "p": 8.0,
@@ -437,7 +492,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/1686654319insta-ready-Powder--bisque.jpg?v=1791727557&width=400",
 "type": "Makeup",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "SHEGLAM Hydro-Touch Refreshing Setting Powder",
@@ -1015,7 +1070,7 @@
 "freegift",
 "giftcollection"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Garnier Salicylic Fresh & Matte 85ml",
@@ -1517,7 +1572,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/UV_IR_01.webp?v=1790699117&width=400",
 "type": "suncscreen",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Ice Breakout Of Gel Hardner 15ml",
@@ -2352,7 +2407,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/rn-image_picker_lib_temp_b9a3ae76-b4fa-480e-a366-e7046cb720fd.png?v=1790185120&width=400",
 "type": "musk",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "L'Oreal Paris Wrinkle Expert 45+ Anti-Wrinkle Intensive Care SPF 20",
@@ -4465,7 +4520,7 @@
 "Nails",
 "New Releases"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Ice Oh My Bordeaux! N94 15ml",
@@ -4660,7 +4715,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/n287I_mBlushing.webp?v=1786784451&width=400",
 "type": "Nail Polish",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Ice Cashmere Nude N285 15ml",
@@ -4671,7 +4726,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/n285CashmereNude.webp?v=1786784357&width=400",
 "type": "Nail Polish",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Ice Rosé Merveille N302 15ml",
@@ -4682,7 +4737,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/n302RoseMerveille.webp?v=1786784278&width=400",
 "type": "naiil polish",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Ice Crème Citron N333 15ml",
@@ -4715,7 +4770,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/n304FleurdeNeige.webp?v=1786783611&width=400",
 "type": "Nail Polish",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Ice Pétale de Paris N301 15ml",
@@ -4726,7 +4781,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/n301PetaledeParis.webp?v=1786783545&width=400",
 "type": "Nail Polish",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Ice Biscuit N289 15ml",
@@ -5675,7 +5730,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/rn-image_picker_lib_temp_2db87913-320b-40f1-b6aa-0c726b1d084c.jpg?v=1786026384&width=400",
 "type": "fiberglass nails",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Lisa Stiletto Nail Tips Full Coverage 240 Natural",
@@ -5763,7 +5818,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/rn-image_picker_lib_temp_0197429e-8b99-4d26-b33a-121872556716.jpg?v=1786025536&width=400",
 "type": "soft nail tips",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Lisa Soft Nail Tips Medium Stiletto 1 Clear",
@@ -11324,7 +11379,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/La-Roche-Posay-Pure-Vitamin-C12-Serum-30-mL-FamiliaList-35688522973420.webp?v=1777224144&width=400",
 "type": "Serum",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Essence Kajal Pencil 04 White",
@@ -15456,7 +15511,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/15_658fb087-26ad-4057-bc09-1bb345f9f7fd.webp?v=1767004785&width=400",
 "type": "hair brush",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Ruby Beauty Hair Brush rb 420-10 (the color will be chosen randomly)",
@@ -16486,7 +16541,7 @@
 "Bundlecollection",
 "teahersday2026"
 ],
-"in": true
+"in": false
 },
 {
 "t": "-10% OFF CeraVe AM facial moisturising lotion 52ml + PM moisturising lotion 52ml + eye repair cream 14ml",
@@ -17264,7 +17319,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/b622fac3-9083-4f57-9352-6482023abb70.webp?v=1763741401&width=400",
 "type": "perfume",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Lattafa Ana Abiyedh Scarlet Perfume 60ml",
@@ -25295,7 +25350,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/1B1A4EC0-EC91-46C3-9EFF-49212B13B83E.webp?v=1751283484&width=400",
 "type": "lashes",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Samra Beauty Lashes - Glam 6",
@@ -25946,7 +26001,7 @@
 "tags": [
 "elviveglycolic"
 ],
-"in": true
+"in": false
 },
 {
 "t": "L'Oreal Paris Elvive Glycolic Gloss Gloss Sealing Conditioner for Dull Porous Hair Powered by 3% Glycolic Acid",
@@ -27794,7 +27849,7 @@
 "tags": [
 "acnepronecollection"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Skin1004 Madagascar Centella Tone Brightening Capsule Ampoule 100ml",
@@ -37906,75 +37961,6 @@
 "tags": [
 "clearancecollection",
 "Glow Recipe Blueberry Bounce Gentle Cleanser",
-"sephoracollection"
-],
-"in": false
-},
-{
-"t": "Glow Recipe Plum Plump Hyaluronic Serum",
-"u": "https://zedstorelb.com/products/glow-recipe-plum-plump-hyaluronic-serum",
-"p": 52.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/Untitleddesign_47.jpg?v=1726420110&width=400",
-"type": "Serum",
-"tags": [
-"Glow Recipe Plum Plump Hyaluronic Serum",
-"sephoracollection"
-],
-"in": false
-},
-{
-"t": "Glow Recipe Watermelon Glow Niacinamide SPF 50 Sunscreen 50ml",
-"u": "https://zedstorelb.com/products/glow-recipe-watermelon-glow-niacinamide-spf-50-sunscreen-50ml",
-"p": 39.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/13695642-1934945707574161.webp?v=1726419269&width=400",
-"type": "Sunscreen",
-"tags": [
-"clearancecollection",
-"Glow Recipe Watermelon Glow Niacinamide SPF 50 Sunscreen 50ml",
-"sephoracollection"
-],
-"in": false
-},
-{
-"t": "Provoc ILLICIT waterproof Lip Liner Filler",
-"u": "https://zedstorelb.com/products/provoc-illicit-waterproof-lip-liner-filler",
-"p": 5.85,
-"c": 6.5,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/Studio-Project-2024-09-14T144840.333.jpg?v=1726314562&width=400",
-"type": "Lip Liner",
-"tags": [
-"Provoc ILLICIT waterproof Lip Liner Filler"
-],
-"in": true
-},
-{
-"t": "Elf No Budge Retractable Eyeliner Waterproof",
-"u": "https://zedstorelb.com/products/elf-no-budge-retractable-eyeliner-waterproof",
-"p": 12.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/images_a46f843f-2b0f-4e81-8f2a-900ccfac0479.jpg?v=1726313153&width=400",
-"type": "Eyeliner",
-"tags": [
-"sephoracollection"
-],
-"in": false
-},
-{
-"t": "Elf Matte Magic Mist & Set 60 ml",
-"u": "https://zedstorelb.com/products/elf-matte-magic-mist-set-60-ml",
-"p": 12.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/86014_SILO.jpg?v=1726312119&width=400",
-"type": "Setting Spray",
-"tags": [
-"elf Matte Magic Mist & Set 60 ml",
 "sephoracollection"
 ],
 "in": false
