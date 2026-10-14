@@ -1,5 +1,231 @@
 [
 {
+"t": "Sandy Skirt - Suede Brown",
+"u": "https://www.jujule-lemonie.com/products/sandy-skirt-dain-brown",
+"p": 175.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0620/6980/1212/files/SandySkirt_3_4d5ac21a-1588-420f-997a-947f49df55e9.jpg?v=1791901446&width=400",
+"type": "",
+"tags": [
+"bottomwear",
+"fall",
+"new in",
+"skirts"
+],
+"in": true
+},
+{
+"t": "Valey Belted Jacket - Diamond Denim",
+"u": "https://www.jujule-lemonie.com/products/valey-belted-jacket-diamon-denim",
+"p": 265.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0620/6980/1212/files/BeltedJacket-Denim_1.jpg?v=1791900566&width=400",
+"type": "",
+"tags": [
+"fall",
+"jacket",
+"new in",
+"outerwear",
+"upperwear"
+],
+"in": true
+},
+{
+"t": "Maia Chemise - Embroidery White",
+"u": "https://www.jujule-lemonie.com/products/maia-chemise-embroidery-white",
+"p": 115.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0620/6980/1212/files/MaiaChemise_2.jpg?v=1791897622&width=400",
+"type": "",
+"tags": [
+"fall",
+"new in",
+"tops",
+"upperwear"
+],
+"in": true
+},
+{
+"t": "Flower Power Skirt",
+"u": "https://www.jujule-lemonie.com/products/vie-skirt-diamond-denim-copy",
+"p": 165.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0620/6980/1212/files/FlowerPowerSkirt.jpg?v=1791896706&width=400",
+"type": "",
+"tags": [
+"bottomwear",
+"fall",
+"new in",
+"skirts"
+],
+"in": true
+},
+{
+"t": "Frida Gilet - Patched Diamond Denim",
+"u": "https://www.jujule-lemonie.com/products/frida-gilet-patched-diamond-denim",
+"p": 245.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0620/6980/1212/files/PatchedDenimGilet_2.jpg?v=1791896025&width=400",
+"type": "",
+"tags": [
+"fall",
+"gilets",
+"new in",
+"upperwear"
+],
+"in": true
+},
+{
+"t": "Baila Pants - Patched Diamond Denim",
+"u": "https://www.jujule-lemonie.com/products/baila-pants-patched-diamond-denim",
+"p": 245.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0620/6980/1212/files/BailaPants-PatchedDenim_1.jpg?v=1791895233&width=400",
+"type": "",
+"tags": [
+"bottomwear",
+"fall",
+"new in",
+"pants"
+],
+"in": true
+},
+{
+"t": "Baila Pants - Diamond Denim",
+"u": "https://www.jujule-lemonie.com/products/baila-pants-daisy-navy-blue-copy",
+"p": 225.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0620/6980/1212/files/BailaPants-DiamondDenim_4.jpg?v=1791894592&width=400",
+"type": "",
+"tags": [
+"bottomwear",
+"fall",
+"new in",
+"pants"
+],
+"in": true
+},
+{
+"t": "Flower Power Jacket",
+"u": "https://www.jujule-lemonie.com/products/flower-power-jacket",
+"p": 295.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0620/6980/1212/files/FlowerPowerJacket_3.jpg?v=1791893860&width=400",
+"type": "",
+"tags": [
+"fall",
+"jacket",
+"new in",
+"outerwear",
+"upperwear"
+],
+"in": true
+},
+{
+"t": "Vie Skirt - Diamond Denim",
+"u": "https://www.jujule-lemonie.com/products/vie-skirt-diamond-denim",
+"p": 165.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0620/6980/1212/files/VieSkirt-DiamondDenim_1.jpg?v=1791892931&width=400",
+"type": "",
+"tags": [
+"bottomwear",
+"fall",
+"new in",
+"skirts"
+],
+"in": true
+},
+{
+"t": "Vie Skirt - Red",
+"u": "https://www.jujule-lemonie.com/products/vie-skirt-red",
+"p": 145.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0620/6980/1212/files/VieSkirt-Red_2.jpg?v=1791888288&width=400",
+"type": "",
+"tags": [
+"bottomwear",
+"fall",
+"new in",
+"skirts"
+],
+"in": true
+},
+{
+"t": "Maré Kimono",
+"u": "https://www.jujule-lemonie.com/products/mare-kimono",
+"p": 225.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0620/6980/1212/files/MareKimono_1.jpg?v=1791888993&width=400",
+"type": "",
+"tags": [
+"fall",
+"jacket",
+"new in",
+"outerwear",
+"upperwear"
+],
+"in": true
+},
+{
+"t": "Sophie Chemise - Stars Denim",
+"u": "https://www.jujule-lemonie.com/products/sophie-chemise-stars-denim",
+"p": 105.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0620/6980/1212/files/SophieChemise-StarsDenim_1.jpg?v=1791887789&width=400",
+"type": "",
+"tags": [
+"fall",
+"new in",
+"tops",
+"upperwear"
+],
+"in": true
+},
+{
+"t": "Pleated Skirt - Navy Blue",
+"u": "https://www.jujule-lemonie.com/products/pleated-skirt-navy-blue",
+"p": 125.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0620/6980/1212/files/PleatedSkirt-Navy_2.jpg?v=1791886210&width=400",
+"type": "",
+"tags": [
+"bottomwear",
+"fall",
+"skirts"
+],
+"in": true
+},
+{
+"t": "Mesh Top - Off White",
+"u": "https://www.jujule-lemonie.com/products/meche-top",
+"p": 105.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0620/6980/1212/files/MeshCrop_2.jpg?v=1791882455&width=400",
+"type": "",
+"tags": [
+"fall",
+"new in",
+"tops",
+"upperwear"
+],
+"in": true
+},
+{
 "t": "Elena Jacket - Royal Blue Print",
 "u": "https://www.jujule-lemonie.com/products/elena-jacket-winter-floral-print",
 "p": 345.0,
@@ -21,7 +247,7 @@
 "p": 165.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0620/6980/1212/files/BailaPants-Daisy.jpg?v=1790844200&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0620/6980/1212/files/BailaPants-DaisyNavy_1.jpg?v=1791884981&width=400",
 "type": "",
 "tags": [
 "bottomwear",
@@ -37,7 +263,7 @@
 "p": 225.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0620/6980/1212/files/BomberJacket-Daisy_Back.jpg?v=1790842692&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0620/6980/1212/files/Bomber_Jacket_-_Daisy_Navy_3.jpg?v=1791885110&width=400",
 "type": "",
 "tags": [
 "bottomwear",
@@ -54,7 +280,7 @@
 "p": 145.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0620/6980/1212/files/BubbleSkirt-Daisy.jpg?v=1790842083&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0620/6980/1212/files/BubbleSkirt-DaisyNavy_2.jpg?v=1791884717&width=400",
 "type": "",
 "tags": [
 "bottomwear",
@@ -273,7 +499,7 @@
 "tags": [
 "dress"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Sirocco Top - Retro Bloom",
@@ -590,7 +816,7 @@
 "p": 225.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0620/6980/1212/files/Suiko_Short_Blazer.jpg?v=1790058231&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0620/6980/1212/files/Suiko_Short_Blazer_2.jpg?v=1791886130&width=400",
 "type": "",
 "tags": [
 "fall",
@@ -607,7 +833,7 @@
 "p": 225.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0620/6980/1212/files/Lynn_Pants-Suiko_Print.jpg?v=1790058325&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0620/6980/1212/files/LynnPants-SuikoPrint_1_f1abc8f7-6986-42a7-9351-1e6e8a8fd4f6.jpg?v=1791886039&width=400",
 "type": "",
 "tags": [
 "bottomwear",
@@ -623,7 +849,7 @@
 "p": 225.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0620/6980/1212/files/SuikoKimono.jpg?v=1789542242&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0620/6980/1212/files/Suiko_Kimono_2.jpg?v=1791885827&width=400",
 "type": "",
 "tags": [
 "fall",
@@ -1042,7 +1268,7 @@
 "Scuba",
 "winter"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Bomber Jacket - Graffiti",
@@ -1976,7 +2202,7 @@
 "new in",
 "summer"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Gaia Pants - Zoe Print Blue",
@@ -3560,7 +3786,7 @@
 "The Lebanese Project",
 "upperwear"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Sroud 3a Broud Tshirt",
@@ -4300,12 +4526,13 @@
 "p": 125.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0620/6980/1212/files/VAR_0409_beb59aa7-3669-4fab-af57-b0650b7528e5.jpg?v=1761898949&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0620/6980/1212/files/SavannaShorts_3.jpg?v=1791891926&width=400",
 "type": "",
 "tags": [
 "bottomwear",
-"echoes",
-"shorts"
+"fall",
+"shorts",
+"winter"
 ],
 "in": true
 },
