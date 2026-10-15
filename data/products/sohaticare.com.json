@@ -1,5 +1,34 @@
 [
 {
+"t": "Filorga Daily Peel - Wrinkles 50ml",
+"u": "https://sohaticare.com/products/daily-peel-wrinkles-50ml",
+"p": 62.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/3540550020938_DAILY_PEEL_W_0.jpg?v=1790941050&width=400",
+"type": "Face Peel",
+"tags": [],
+"in": false
+},
+{
+"t": "Essential Beard Care Set (Shampoo, Oil and Balm) + Novus Trimmer 2.0",
+"u": "https://sohaticare.com/products/essential-beard-care-set-shampoo-oil-and-balm-novus-trimmer-2-0",
+"p": 65.0,
+"c": 75.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/NovusBundlesPackshot1.jpg?v=1791811105&width=400",
+"type": "Bundle",
+"tags": [
+"Bogo-collection",
+"Bundle",
+"COMPENSATION_OCT26",
+"Giftset",
+"Novus_oct26",
+"TOPOFFER"
+],
+"in": true
+},
+{
 "t": "Vichy Dercos Aminexil Clinical R.E.G.E.N. Booster 90ml",
 "u": "https://sohaticare.com/products/vichy-dercos-aminexil-clinical-r-e-g-e-n-booster-90ml",
 "p": 73.38,
@@ -1939,7 +1968,7 @@
 "pf-bck-to-schl-cmpgn",
 "PF_AUG_26_Bundles"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Buy Avène Cleanance Sunscreen SPF 50+ Get Avène After Sun Repair Lotion travel size 50ml | Light Weight & Invisible Oily Skin Sunscreen and After Sun Lotion",
@@ -2981,7 +3010,7 @@
 "pf-bck-to-schl-cmpgn",
 "PF_AUG_26_Bundles"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Buy Avène Hyaluron Activ Firming serum 10% Hexapeptide Solution 18ml & get a FREE 100ml micellar lotion + Pouch",
@@ -3234,7 +3263,7 @@
 "tags": [
 "NO-DISCOUNT"
 ],
-"in": false
+"in": true
 },
 {
 "t": "GARNIER GWP  *or an equivalent based on availability",
@@ -3679,7 +3708,7 @@
 "PF_Sale_25",
 "summer_bundles_skincare-aug26"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Maybelline Lifter Gel Sugar Spritz, Lip Oil-in-Gel, Glassy, Bouncy Shine 6.6 ML / 0.22 FL OZ",
@@ -6107,7 +6136,7 @@
 "medi_game",
 "os_june26_2"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Anua heartleaf pore control cleansing oil",
@@ -7306,7 +7335,7 @@
 "TOPOFFER",
 "TOPOFFERS"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Aquaporin Active Day for Dry Skin 50ml",
@@ -14934,7 +14963,7 @@
 "COMPENSATION_JAN26",
 "COMPENSATION_MAR26"
 ],
-"in": true
+"in": false
 },
 {
 "t": "With any Purchase of Mela B3 Cream Get Mela B3 Serum 10ml",
@@ -14954,7 +14983,7 @@
 "COMPENSATION_MAR26",
 "Giftset"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Normaderm Phytosolution - Intensive Purifying Gel 200ml + Phytosolution Cleanser 50ml (Gift)",
@@ -16649,7 +16678,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/3614819997115-ETIAXIL-DT-TOLERANCE-ECOM-OPT-12-24-25_8a1e5b41-cd4f-4b99-9c34-1992c6bf5fb6.webp?v=1770300680&width=400",
 "type": "Roll On",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Detranspirant Extreme Armpits Roll On",
@@ -16660,7 +16689,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/3614819998532-ETIAXILEXTREMEROLLON48h.webp?v=1770294555&width=400",
 "type": "Roll On",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Anti-Transpirant Protection 48h Spray 150ml",
@@ -16704,7 +16733,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/1767973634_3614819998518-ETIAXIL-DETRANS-SENSITIVE-MPP-ETUI-FLA-P00_e0235a54-ee55-45ad-960a-84c870d25a84.webp?v=1770294399&width=400",
 "type": "",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Retisil Intensive Serum 30ml",
@@ -19519,7 +19548,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/Picture1_77d14a62-939a-4c85-9742-ac475cc5247d.png?v=1768985398&width=400",
 "type": "",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Biotic Resurfacing Activator",
@@ -22195,7 +22224,7 @@
 "NeutrogenaRetinol",
 "NO-DISCOUNT"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Lipocils Mascara XXL Volume Black 8.5ml L4 NEW",
@@ -26051,7 +26080,7 @@
 "COMPENSATION_SEP25",
 "ENDOFSUMMER25"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Body Butter 100 g",
@@ -26125,7 +26154,7 @@
 "tags": [
 "VIEL_2025"
 ],
-"in": false
+"in": true
 },
 {
 "t": "VIEL COTTON PLEAT 100GRAM",
@@ -31381,7 +31410,7 @@
 "Drugstore Beauty",
 "NO_FLASH"
 ],
-"in": false
+"in": true
 },
 {
 "t": "DUO X2 Deo Whitening Roll-On - Arabian Oud",
@@ -40631,7 +40660,7 @@
 "tags": [
 "samoa_eid26"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Samoa, Never Nude Soft Serve - 237",
@@ -42199,7 +42228,7 @@
 "tags": [
 "Tools"
 ],
-"in": true
+"in": false
 },
 {
 "t": "HAIR BRUSH WITH RUBBER COATING",
@@ -42272,7 +42301,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/OPT-3110-1.jpg?v=1749629915&width=400",
 "type": "Tools",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "NAIL CLIPPER STAINLESS&SATIN",
@@ -44097,27 +44126,5 @@
 "type": "Tools",
 "tags": [],
 "in": true
-},
-{
-"t": "GREEN BAMBOO BATH GLOVE",
-"u": "https://sohaticare.com/products/green-bamboo-bath-glove",
-"p": 3.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/OPT-3066-1.jpg?v=1748511387&width=400",
-"type": "Tools",
-"tags": [],
-"in": true
-},
-{
-"t": "BAMBOO BATH SCRUBBER",
-"u": "https://sohaticare.com/products/bamboo-bath-scrubber",
-"p": 4.44,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/Bamboo-Bath-Scrubber.jpg?v=1748511449&width=400",
-"type": "Tools",
-"tags": [],
-"in": false
 }
 ]
