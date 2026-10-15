@@ -1,5 +1,99 @@
 [
 {
+"t": "White Majesty",
+"u": "https://exotica.com/products/white-majesty",
+"p": 235.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/White_Majesty_80_White_roses.jpg?v=1791968349&width=400",
+"type": "Flowers",
+"tags": [
+"Flower Boxes",
+"WHITE"
+],
+"in": true
+},
+{
+"t": "Heavenly White",
+"u": "https://exotica.com/products/heavenly-white",
+"p": 159.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Heavenly_White_white_roses.png?v=1791967824&width=400",
+"type": "Flowers",
+"tags": [
+"Flower Boxes",
+"WHITE"
+],
+"in": true
+},
+{
+"t": "Grace in White",
+"u": "https://exotica.com/products/grace-in-white",
+"p": 125.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Grace_in_White_40_white_roses_in_box.jpg?v=1791967304&width=400",
+"type": "Flowers",
+"tags": [
+"Flower Boxes",
+"WHITE"
+],
+"in": true
+},
+{
+"t": "Pure Elegance",
+"u": "https://exotica.com/products/pure-elegance",
+"p": 75.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Pure_elegance_20_White_roses_in_box.png?v=1791967021&width=400",
+"type": "Flowers",
+"tags": [
+"Flower Boxes",
+"WHITE"
+],
+"in": true
+},
+{
+"t": "Classic Red",
+"u": "https://exotica.com/products/classic-red",
+"p": 159.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Classic_Red_50_red_roses_in_black_box.png?v=1791969349&width=400",
+"type": "Flowers",
+"tags": [
+"Flower Boxes",
+"Flowers",
+"For Her",
+"For Him",
+"Love & Romance",
+"Red"
+],
+"in": true
+},
+{
+"t": "Pink Harmony",
+"u": "https://exotica.com/products/pink-harmony",
+"p": 125.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Exotica_Roses_on_a_Minimalist_Table_2.png?v=1791964895&width=400",
+"type": "Flowers",
+"tags": [
+"Birthdays",
+"Flower Boxes",
+"For Her",
+"For Kids",
+"For Mom",
+"New Born",
+"Pink",
+"Pink October"
+],
+"in": true
+},
+{
 "t": "Forever in Pink",
 "u": "https://exotica.com/products/forever-in-pink",
 "p": 250.0,
@@ -15,7 +109,7 @@
 "Pink October",
 "Roses"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Endless Joy",
@@ -36,8 +130,8 @@
 "in": false
 },
 {
-"t": "3 Dozens Pink",
-"u": "https://exotica.com/products/3-dozens-pink",
+"t": "3 Dozen Pinks",
+"u": "https://exotica.com/products/3-dozen-pinks",
 "p": 102.0,
 "c": null,
 "cur": "USD",
@@ -462,7 +556,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/FRA08095_d137cc4f-31b5-436a-b942-81a52ecaa393.jpg?v=1789811092&width=400",
 "type": "Add-Ons",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Silky Dracaena",
@@ -518,7 +612,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Honeyed_Glow_-_Flower_with_honey.jpg?v=1789547822&width=400",
 "type": "Flowers",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Violet Aura",
@@ -843,7 +937,7 @@
 "Mixed Flowers",
 "Orange"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Sagittarius Celebrations",
@@ -1293,7 +1387,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/LilacHugs.jpg?v=1753950429&width=400",
 "type": "Flowers",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Trust our Florists",
@@ -2221,7 +2315,7 @@
 "Handheld Bouquets",
 "Pink"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Vanilla Roses",
@@ -2387,7 +2481,7 @@
 "For Teta",
 "Get Well Soon"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Blue Sky",
@@ -2898,7 +2992,7 @@
 "Plants",
 "Thank You"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Ruby Reds",
@@ -3066,7 +3160,7 @@
 "p": 125.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/FRA06533.jpg?v=1791888989&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Vibrant_Rose_Box_1.jpg?v=1791957771&width=400",
 "type": "Flowers",
 "tags": [
 "Birthdays",
@@ -4228,10 +4322,10 @@
 {
 "t": "Pink Bliss",
 "u": "https://exotica.com/products/pink-bliss",
-"p": 230.0,
+"p": 235.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/PinkBliss.jpg?v=1758538587&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Dome_80_Pink_Roses_in_white_Box.jpg?v=1791957510&width=400",
 "type": "Flowers",
 "tags": [
 "Birthdays",
@@ -4807,7 +4901,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Blush-Crush.jpg?v=1749537215&width=400",
 "type": "Flowers",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Sablés Gourmets Small Box",
@@ -5044,7 +5138,7 @@
 "p": 75.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Soft_Night_Black_701c4bb7-9210-48da-9453-a6bfcb24d4b3.jpg?v=1758537187&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Exotica_Coral_Rose_Hatbox_Arrangement.png?v=1791964184&width=400",
 "type": "Flowers",
 "tags": [
 "Birthdays",
@@ -5312,7 +5406,7 @@
 "For Him",
 "For Kids"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Cheers!",
@@ -5595,7 +5689,7 @@
 "Indoor Plants",
 "Plants"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Gentle Ficus",
@@ -5724,17 +5818,6 @@
 "type": "Pots & Vases",
 "tags": [],
 "in": true
-},
-{
-"t": "Vase Porcelain Irregular Black",
-"u": "https://exotica.com/products/vase-porcelain-irregular-black",
-"p": 33.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/VasePorcelainIrregularBlack.jpg?v=1791468666&width=400",
-"type": "Pots & Vases",
-"tags": [],
-"in": false
 },
 {
 "t": "Vase Ceramic Altea Gold",
@@ -6154,7 +6237,7 @@
 "For Him",
 "For Kids"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Rose Elegance",
@@ -6274,7 +6357,7 @@
 "Love & Romance",
 "Red"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Ma Vie",
@@ -6300,7 +6383,7 @@
 "p": 159.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/FRA06696.jpg?v=1791888209&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Joyful_Box_50_mix_roses_in_box.jpg?v=1791969298&width=400",
 "type": "Flowers",
 "tags": [
 "Birthdays",

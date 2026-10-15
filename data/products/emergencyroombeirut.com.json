@@ -31,8 +31,8 @@
 {
 "t": "LOW WAISTED PANTS IN GOLD LAME",
 "u": "https://emergencyroombeirut.com/products/low-waisted-pants-grey-copy",
-"p": 160.0,
-"c": null,
+"p": 80.0,
+"c": 160.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0386/1590/8491/files/Pants13_Front_8cbbf23b-b62d-4534-b761-45e8aa879340.jpg?v=1790859046&width=400",
 "type": "Pants",
@@ -44,8 +44,8 @@
 {
 "t": "LOW WAISTED PANTS (GREY)",
 "u": "https://emergencyroombeirut.com/products/low-waisted-pants-gold-with-stripes",
-"p": 120.0,
-"c": null,
+"p": 60.0,
+"c": 120.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0386/1590/8491/files/Pants11_Front.jpg?v=1790858763&width=400",
 "type": "Pants",
@@ -65,7 +65,7 @@
 "tags": [
 "checked"
 ],
-"in": true
+"in": false
 },
 {
 "t": "BRALETTE IN LAME (BURGUNDY)",
@@ -589,7 +589,7 @@
 "tags": [
 "checked"
 ],
-"in": true
+"in": false
 },
 {
 "t": "SHEER LACE HALTER TOP WITH AN OPEN BACK",
@@ -706,7 +706,7 @@
 "tags": [
 "checked"
 ],
-"in": true
+"in": false
 },
 {
 "t": "BACKLESS TOP IN FLORAL SATIN FABRIC WITH FRINGES",
@@ -1252,7 +1252,7 @@
 "tags": [
 "checked"
 ],
-"in": true
+"in": false
 },
 {
 "t": "PLEATED STRIPED SHORTS (RED)",
@@ -1525,7 +1525,7 @@
 "tags": [
 "checked"
 ],
-"in": true
+"in": false
 },
 {
 "t": "LONG DRAPE DSKIRT WITH SLIT",
@@ -1564,7 +1564,7 @@
 "tags": [
 "checked"
 ],
-"in": true
+"in": false
 },
 {
 "t": "SHEER EMBROIDERED STRAIGHT CUT SKIRT (GREEN)",
@@ -1930,7 +1930,7 @@
 "medium",
 "women"
 ],
-"in": false
+"in": true
 },
 {
 "t": "EMBROIDERED LINEN PLEATED SHORTS",
@@ -3845,7 +3845,7 @@
 "code blue",
 "pants"
 ],
-"in": true
+"in": false
 },
 {
 "t": "WRAP SKIRT 3",
@@ -4316,7 +4316,7 @@
 "tags": [
 "code yellow"
 ],
-"in": true
+"in": false
 },
 {
 "t": "TAILORED MANDARIN SHIRT",
