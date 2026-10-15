@@ -1,5 +1,27 @@
 [
 {
+"t": "basic top 4564",
+"u": "https://www.hashtag-lb.com/products/basic-top-4564",
+"p": 19.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/e02804a0-dae5-4205-a7a1-0497ed8fb9ea.jpg?v=1792062820&width=400",
+"type": "TOP",
+"tags": [],
+"in": true
+},
+{
+"t": "jeans 1094",
+"u": "https://www.hashtag-lb.com/products/jeans-1094",
+"p": 45.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/026e086f-70eb-4763-9d65-4d8ddd9311ab.jpg?v=1792062573&width=400",
+"type": "Jeans",
+"tags": [],
+"in": true
+},
+{
 "t": "set",
 "u": "https://www.hashtag-lb.com/products/set-1",
 "p": 55.0,
@@ -492,7 +514,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/d863b20c-be51-4da8-8e6f-77b3025b5acb_ccf3d780-3ac1-4062-9143-829ff01f3a55.jpg?v=1789996762&width=400",
 "type": "top",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "G-TOP 261087",
@@ -943,7 +965,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/321f75ee-4d8a-4e6e-805f-e76e34e09490.jpg?v=1788694039&width=400",
 "type": "Set",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "G-slouchy jeans 1058",
