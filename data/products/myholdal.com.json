@@ -1,5 +1,61 @@
 [
 {
+"t": "159 Duo Fiber Brush",
+"u": "https://myholdal.com/products/buy-159s-duo-fiber-brush-lebanon",
+"p": 49.0,
+"c": 49.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/products/773602470358_Brush_159SyntheticDuoFibreBlush_1.jpg?v=1755506410&width=400",
+"type": "TOOLS",
+"tags": [
+"BEAUTY",
+"BRANDS WOMEN",
+"mac makeup",
+"mac tools",
+"pnc 30 not discounted",
+"WOMEN MAKEUP"
+],
+"in": true
+},
+{
+"t": "143S BRONZER FAN BRUSH",
+"u": "https://myholdal.com/products/buy-143s-bronzer-fan-brush-lebanon",
+"p": 65.0,
+"c": 65.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/360NYF1010001-removebg-preview.png?v=1755506359&width=400",
+"type": "TOOLS",
+"tags": [
+"BEAUTY",
+"BRANDS WOMEN",
+"mac makeup",
+"mac tools",
+"pnc 30 not discounted",
+"WOMEN MAKEUP"
+],
+"in": true
+},
+{
+"t": "Powder Kiss Lipstick",
+"u": "https://myholdal.com/products/buy-powder-kiss-lipstick-lebanon",
+"p": 38.0,
+"c": 38.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/products/MAC_Evergreen_PowderKissLipstick_KindaSoarta_OpenStraight_3000x3000_ac4b692c-69d3-413b-a81f-9bca133b6ec2.jpg?v=1755506432&width=400",
+"type": "LIPS",
+"tags": [
+"BEAUTY",
+"BRANDS WOMEN",
+"MAC - MAKEUP - LIPS",
+"MAC - MAKEUP - LIPSMAKEUP - LIPS",
+"mac august sale 0.4 50",
+"mac lip combo",
+"mac Lips",
+"mac may 26 offers"
+],
+"in": true
+},
+{
 "t": "Pink Heart-shaped Mirror",
 "u": "https://myholdal.com/products/pink-heart-shaped-mirror",
 "p": 0.0,
@@ -1633,7 +1689,7 @@
 "MEN - SHOES",
 "MEN SNEAKERS"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Sideline 319 3 Cfa - 38Cfa0046Nwr",
@@ -2032,26 +2088,6 @@
 "LACOSTE CLOTHING MEN SALE",
 "LACOSTE CLOTHING UNISEX",
 "LACOSTE DROP 2"
-],
-"in": true
-},
-{
-"t": "Men's Esparre Leather Chukkas - 40Cma0020",
-"u": "https://myholdal.com/products/buy-mens-esparre-leather-chukkas-40cma0020-lebanon",
-"p": 53.1,
-"c": 177.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/products/40CMA0020_02H_01.jpg?v=1757495348&width=400",
-"type": "SNEAKERS",
-"tags": [
-"BRANDS MEN",
-"clothing bf 25",
-"LACOSTE",
-"Lacoste BF Stores",
-"LACOSTE FOR HIM",
-"LACOSTE FW22 SALE",
-"LACOSTE SHOES",
-"LACOSTE SHOES FW22 I"
 ],
 "in": true
 },
@@ -2573,7 +2609,7 @@
 "CORE ACTIVE",
 "FW23 20 DISCOUNT"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Women's Lineshot Leather Trainers - 46SFA0063",
@@ -2613,7 +2649,7 @@
 "KIDS GIRLS",
 "LACOSTE"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Women's Partner Retro Leather Trainers - 41Sfa0071",
@@ -2633,7 +2669,7 @@
 "LACOSTE SHOES",
 "Lacoste Shoes Collection"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Ultra Dry XXL Logo Sport T-shirt - TH2042",
@@ -2827,7 +2863,7 @@
 "lacoste to delete march",
 "MEN - READY TO WEAR"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Stretch Petit Piqué Wrap Dress - EF7252",
@@ -3305,7 +3341,7 @@
 "LACOSTE SHOES MEN SALE",
 "lacoste to delete march"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Women's V-Neck Loose Fit Cotton T-Shirt - TF8392",
@@ -5628,26 +5664,6 @@
 "in": true
 },
 {
-"t": "Men's Lacoste Carnaby Piquée Textile Trainers - 45Sma002302H",
-"u": "https://myholdal.com/products/buy-mens-lacoste-carnaby-piquee-textile-trainers-45sma002302h-ss23-i-lebanon",
-"p": 50.4,
-"c": 168.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/products/45SMA0023_02H_01.jpg?v=1757495150&width=400",
-"type": "SHOES",
-"tags": [
-"BF SHOES25",
-"BRANDS MEN",
-"clothing bf 25",
-"COURT SNEAKERS",
-"Lac Shoes SS23 I",
-"LACOSTE",
-"LACOSTE FOR HIM",
-"LACOSTE SHOES"
-],
-"in": false
-},
-{
 "t": "Men's Lacoste Court-Master Pro Textile Colour Block Trainers - 45Sma01211R5",
 "u": "https://myholdal.com/products/buy-mens-lacoste-court-master-pro-textile-colour-block-trainers-45sma01211r5-ss23-i-lebanon",
 "p": 44.7,
@@ -5897,7 +5913,7 @@
 "lacoste bf 25",
 "lacoste bf 25 30"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Classic Fit Signature Print L.12.12 Polo Shirt - PH2723",
@@ -8181,7 +8197,7 @@
 "LRLDIS15",
 "MEN - READY TO WEAR"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Men's Crew Neck Wool Jersey Sweater - AH2997",
@@ -9280,26 +9296,6 @@
 "LACOSTE FOOTWEAR FW24 DELIVERY I",
 "lacoste men 24",
 "LACOSTE SHOES MEN SALE"
-],
-"in": true
-},
-{
-"t": "Men’s Lacoste Regular Fit Logo Stripe T-shirt - TH5071",
-"u": "https://myholdal.com/products/men-s-lacoste-regular-fit-logo-stripe-t-shirt-th5071-fw23",
-"p": 40.8,
-"c": 102.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/TH5071_031_24-1_735b98c2-0534-4da1-b7f6-75509f112a8b.jpg?v=1790929175&width=400",
-"type": "T-SHIRTS",
-"tags": [
-"BRANDS MEN",
-"clothing bf 25",
-"FW24 CO FW25",
-"LACOSTE",
-"LACOSTE CLOTHING MEN",
-"lacoste father day",
-"LACOSTE FOR HIM",
-"LACOSTE MEN"
 ],
 "in": true
 },
@@ -13620,7 +13616,7 @@
 "WOMEN",
 "WOMEN SCARVES AND SHAWLS"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Ivory flowers and bees scarf charm",
@@ -13760,7 +13756,7 @@
 "WOMEN",
 "WOMEN SCARVES AND SHAWLS"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Khaki checked wool A-line skirt",
@@ -13960,7 +13956,7 @@
 "WOMEN",
 "WOMEN VANITY POUCHES"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Large dark brown plaited leather shopper bag",
@@ -17480,7 +17476,7 @@
 "WOMEN",
 "WOMEN SCARVES AND SHAWLS"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Wine paisley scarf",
@@ -20841,7 +20837,7 @@
 "MEN SKINCARE",
 "WOMEN SKINCARE"
 ],
-"in": true
+"in": false
 },
 {
 "t": "MIUMIU POUCH GWP 2025 DDP",
@@ -25509,7 +25505,7 @@
 "WOMEN BACKPACKS",
 "WOMEN BAGS"
 ],
-"in": true
+"in": false
 },
 {
 "t": "SEOUL S BTS P AC -I5768",
@@ -31833,7 +31829,7 @@
 "WOMEN",
 "WOMEN RINGS"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Bangle bracelet with aged gold stones texture",
@@ -32106,7 +32102,7 @@
 "WOMEN",
 "WOMEN VANITY POUCHES"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Small Leopard yellow palms nylon make-up case",
@@ -32582,7 +32578,7 @@
 "WOMEN",
 "WOMEN RINGS"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Black raffia platform sandal",
@@ -32601,7 +32597,7 @@
 "WOMEN",
 "WOMEN SKIRTS"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Green fabric platform sandal",
@@ -32620,7 +32616,7 @@
 "WOMEN",
 "WOMEN SKIRTS"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Black embossed crocodile leather compact purse",
@@ -32789,7 +32785,7 @@
 "WOMEN",
 "WOMEN BALLERINAS"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Green striped towel with horizontal and vertical pattern",
@@ -32808,7 +32804,7 @@
 "WOMEN",
 "WOMEN SCARVES AND SHAWLS"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Stripes and logo towel",
@@ -32825,7 +32821,7 @@
 "RTW",
 "WOMEN"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Camel nylon crossbody bag",
@@ -32901,7 +32897,7 @@
 "WOMEN",
 "WOMEN T-SHIRTS"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Towel with embroidered stripe design",
@@ -32920,7 +32916,7 @@
 "WOMEN",
 "WOMEN BRACELETS"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Black chains and crystals bracelet",
@@ -33075,7 +33071,7 @@
 "WOMEN",
 "WOMEN BALLERINAS"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Silver heart crystal bracelet",
@@ -34028,7 +34024,7 @@
 "WOMEN",
 "WOMEN TOP"
 ],
-"in": true
+"in": false
 },
 {
 "t": "White fringed wrap top",
@@ -34376,7 +34372,7 @@
 "WOMEN",
 "WOMEN SANDALS"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Cream leather mini Paper bag",
@@ -35512,7 +35508,7 @@
 "RTW",
 "WOMEN"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Beads and mother-of-pearl necklace",
@@ -35752,7 +35748,7 @@
 "WOMEN",
 "WOMEN EARRINGS"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Brow Genius Conditioning Brow Serum",
@@ -36805,7 +36801,7 @@
 "Kipling SS26 Second drop",
 "Kipling Women"
 ],
-"in": true
+"in": false
 },
 {
 "t": "JET S -I9872",
@@ -38785,7 +38781,7 @@
 "Dyson Regular",
 "HAIRCARE"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Supersonic r™ hair dryer – Curly+Coily (Red Velvet/Gold)",

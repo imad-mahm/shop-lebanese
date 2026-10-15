@@ -1,5 +1,16 @@
 [
 {
+"t": "Samsung Dishwasher DW60M5070FW 7P WHITE",
+"u": "https://aghasarkissian.com/product/samsung-dishwasher-dw60m5070fw-7p-white/",
+"p": 479.0,
+"c": 500.0,
+"cur": "USD",
+"img": "https://aghasarkissian.com/wp-content/uploads/2026/10/DW60M5070FWFH-4-430x430.webp",
+"type": "Dishwashing, Freestanding Dishwashers, Home Appliances",
+"tags": [],
+"in": false
+},
+{
 "t": "Midea Fridge Top Mount MDRT866FGE46AE Inox",
 "u": "https://aghasarkissian.com/product/midea-fridge-top-mount-mdrt866fge46ae-inox/",
 "p": 799.0,
@@ -2131,8 +2142,8 @@
 {
 "t": "Hisense Beverage Cooler RBC122N4ASU",
 "u": "https://aghasarkissian.com/product/hisense-beverage-cooler-rbc122n4asu/",
-"p": 279.0,
-"c": 293.0,
+"p": 293.0,
+"c": null,
 "cur": "USD",
 "img": "https://aghasarkissian.com/wp-content/uploads/2025/02/hisense-RBC122N4ASU-430x430.jpg",
 "type": "Home Appliances, Refrigeration, Wine &amp; Cigar Cellars",
@@ -2241,7 +2252,7 @@
 {
 "t": "Hisense Dryer Condenser 9KG DH3S902BT  Heat PumpTitanium",
 "u": "https://aghasarkissian.com/product/hisense-dryer-condenser-9kg-dh3s902bt-heat-pump-titanium/",
-"p": 599.0,
+"p": 629.0,
 "c": 630.0,
 "cur": "USD",
 "img": "https://aghasarkissian.com/wp-content/uploads/2025/02/Untitled-design-14-430x430.png",
@@ -3790,6 +3801,17 @@
 "in": true
 },
 {
+"t": "Haeger Jupiter Vacuum 22.2V Cordeless VC-22V049A",
+"u": "https://aghasarkissian.com/product/haeger-jupiter-vacuum-22-2v-cordless-vc-22v-046a/",
+"p": 109.0,
+"c": 117.0,
+"cur": "USD",
+"img": "https://aghasarkissian.com/wp-content/uploads/2024/04/Untitled-design-94-430x430.jpg",
+"type": "Floor Care, Hand And Stick Vacuum, Vacuum Cleaners",
+"tags": [],
+"in": false
+},
+{
 "t": "Haeger Banquet  Air Fryer AF-D80008A 8L",
 "u": "https://aghasarkissian.com/product/haeger-banquet-air-fryer-af-d80008a-8l/",
 "p": 118.0,
@@ -4439,17 +4461,6 @@
 "in": true
 },
 {
-"t": "Salvado Fire Resistance Safe SA1603E",
-"u": "https://aghasarkissian.com/product/salvado-safe-f1603e/",
-"p": 319.0,
-"c": 338.0,
-"cur": "USD",
-"img": "https://aghasarkissian.com/wp-content/uploads/2024/02/Untitled-design-2025-11-05T111704.159-430x430.jpg",
-"type": "Fire resistant safe, Home Equipments, Safes",
-"tags": [],
-"in": true
-},
-{
 "t": "Midea Microwave EM925A2GU LIght Silver WIthout Grill",
 "u": "https://aghasarkissian.com/product/midea-microwave-em925a2gu-silver-25-liters/",
 "p": 89.0,
@@ -4999,6 +5010,17 @@
 "c": 33.0,
 "cur": "USD",
 "img": "https://aghasarkissian.com/wp-content/uploads/2024/02/Untitled-design-13-430x430.png",
+"type": "Home Appliances, Laundry, Steam Irons",
+"tags": [],
+"in": true
+},
+{
+"t": "Tefal Iron Steam FV5715EO 2400W EASYGLISS",
+"u": "https://aghasarkissian.com/product/tefal-steam-iron-fv5715eo-2400w-easygliss/",
+"p": 52.0,
+"c": 60.0,
+"cur": "USD",
+"img": "https://aghasarkissian.com/wp-content/uploads/2024/02/Untitled-design-3-1-430x430.png",
 "type": "Home Appliances, Laundry, Steam Irons",
 "tags": [],
 "in": true
@@ -5708,6 +5730,17 @@
 "in": true
 },
 {
+"t": "Samsung Washer 11kg WW11B1A046AEFH White",
+"u": "https://aghasarkissian.com/product/samsung-washer-11-kg-ww11b1a046aefh-white/",
+"p": 599.0,
+"c": 630.0,
+"cur": "USD",
+"img": "https://aghasarkissian.com/wp-content/uploads/2023/11/Untitled-design-17-430x430.png",
+"type": "Home Appliances, Laundry, Mother's Day",
+"tags": [],
+"in": false
+},
+{
 "t": "Delonghi Heater DHF-HFS 50B20 GR",
 "u": "https://aghasarkissian.com/product/delonghi-heater-dhf-hfs-5020-gr/",
 "p": 59.0,
@@ -6190,6 +6223,17 @@
 "type": "AEG, Dryers, Home Appliances",
 "tags": [],
 "in": true
+},
+{
+"t": "Moulinex Hand Blender/Stick Mixer 3IN1 DD642110",
+"u": "https://aghasarkissian.com/product/moulinex-hand-blender-dd642110/",
+"p": 75.0,
+"c": 80.0,
+"cur": "USD",
+"img": "https://aghasarkissian.com/wp-content/uploads/2022/06/Untitled-design-62-430x430.jpg",
+"type": "Food Preparation, Hand Blenders and Mixers, Home Appliances",
+"tags": [],
+"in": false
 },
 {
 "t": "Queen Chef Fridge 5Ft BC100 White",
@@ -6766,17 +6810,6 @@
 "in": true
 },
 {
-"t": "Magimix Food Processor 3200XL Chrome",
-"u": "https://aghasarkissian.com/product/magimix-food-processor-3200xl/",
-"p": 349.0,
-"c": 389.0,
-"cur": "USD",
-"img": "https://aghasarkissian.com/wp-content/uploads/2021/05/Untitled-design-42-430x430.jpg",
-"type": "Food Preparation, Home Appliances, Small Kitchen Appliances",
-"tags": [],
-"in": true
-},
-{
 "t": "master chef citus juicer 1840",
 "u": "https://aghasarkissian.com/product/masterchef-citrus-juicer-1840/",
 "p": 18.0,
@@ -6893,17 +6926,6 @@
 "c": 145.0,
 "cur": "USD",
 "img": "https://aghasarkissian.com/wp-content/uploads/2021/04/Toshiba-MM-EG25-430x430.jpg",
-"type": "Home Appliances, Microwaves, Small Kitchen Appliances",
-"tags": [],
-"in": true
-},
-{
-"t": "TOSHIBA Microwave MM-EM20P(WH) 20L",
-"u": "https://aghasarkissian.com/product/toshiba-microwave-20l-mm-em20pwh/",
-"p": 89.0,
-"c": 90.0,
-"cur": "USD",
-"img": "https://aghasarkissian.com/wp-content/uploads/2021/05/Toshiba-MM-EM20PWH-430x430.jpg",
 "type": "Home Appliances, Microwaves, Small Kitchen Appliances",
 "tags": [],
 "in": true
