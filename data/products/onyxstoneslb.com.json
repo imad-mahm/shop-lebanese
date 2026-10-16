@@ -41,17 +41,6 @@
 "in": false
 },
 {
-"t": "Test",
-"u": "https://www.onyxstoneslb.com/products/test",
-"p": 3.0,
-"c": null,
-"cur": "USD",
-"img": "",
-"type": "",
-"tags": [],
-"in": true
-},
-{
 "t": "Bracelet Elastic Colorful Beads 6mm",
 "u": "https://www.onyxstoneslb.com/products/bracelet-elastic-colorful-beads-6mm",
 "p": 15.0,
@@ -342,28 +331,6 @@
 "in": true
 },
 {
-"t": "Titanium Quartz stone Wood Base",
-"u": "https://www.onyxstoneslb.com/products/titanium-quartz-stone-wood-base",
-"p": 80.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0094/1925/9959/files/WhatsAppImage2026-07-10at2.09.26PM.jpg?v=1783687669&width=400",
-"type": "Stones & Crystals",
-"tags": [],
-"in": false
-},
-{
-"t": "Fluorite stone Generator Polished",
-"u": "https://www.onyxstoneslb.com/products/fluorite-stone-generator-polished",
-"p": 45.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0094/1925/9959/files/WhatsAppImage2026-07-10at2.09.26PM_1.jpg?v=1783687700&width=400",
-"type": "Stone",
-"tags": [],
-"in": false
-},
-{
 "t": "Tiger Eye Stone Generator Polished",
 "u": "https://www.onyxstoneslb.com/products/tiger-eye-red",
 "p": 50.0,
@@ -373,17 +340,6 @@
 "type": "Stones & Crystals",
 "tags": [],
 "in": true
-},
-{
-"t": "Fluorite Stone Metal Base",
-"u": "https://www.onyxstoneslb.com/products/titanium-quartz-stone-metal-base-copy",
-"p": 30.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0094/1925/9959/files/WhatsAppImage2026-07-10at2.09.26PM_2.jpg?v=1783687718&width=400",
-"type": "Stone",
-"tags": [],
-"in": false
 },
 {
 "t": "Titanium Quartz Stone Metal Base",
@@ -406,17 +362,6 @@
 "type": "Stones & Crystals",
 "tags": [],
 "in": true
-},
-{
-"t": "Carnelian Metal Base",
-"u": "https://www.onyxstoneslb.com/products/carnelian-matal-base",
-"p": 35.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0094/1925/9959/files/WhatsAppImage2026-07-10at2.09.25PM.jpg?v=1783687740&width=400",
-"type": "Stones & Crystals",
-"tags": [],
-"in": false
 },
 {
 "t": "Aura Quartz Rose Stone Pointer Generator",
@@ -1489,17 +1434,6 @@
 "in": false
 },
 {
-"t": "Earrings Spider Stud with Chain Stones",
-"u": "https://www.onyxstoneslb.com/products/earrings-spider-stud-with-chain-stones",
-"p": 25.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0094/1925/9959/files/batch_160_f5b41cdb-7c0a-4840-8f39-502d71cecf46.jpg?v=1772365726&width=400",
-"type": "Earring",
-"tags": [],
-"in": false
-},
-{
 "t": "Necklace Double Chain Hindu",
 "u": "https://www.onyxstoneslb.com/products/necklace-double-chain-hindu",
 "p": 40.0,
@@ -2307,7 +2241,7 @@
 "tags": [
 "CRYSTAL BOTTLE"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Himalayan Salt Lamp",
