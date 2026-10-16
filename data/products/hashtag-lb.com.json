@@ -1,6 +1,17 @@
 [
 {
-"t": "basic top 4564",
+"t": "G-top 16130",
+"u": "https://www.hashtag-lb.com/products/top",
+"p": 19.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/03b05f57-a37e-40b7-871c-50dfc3353df2.jpg?v=1792069188&width=400",
+"type": "TOP",
+"tags": [],
+"in": true
+},
+{
+"t": "G-basic top 4564",
 "u": "https://www.hashtag-lb.com/products/basic-top-4564",
 "p": 19.0,
 "c": null,
@@ -11,7 +22,7 @@
 "in": true
 },
 {
-"t": "jeans 1094",
+"t": "G-Jeans 1094",
 "u": "https://www.hashtag-lb.com/products/jeans-1094",
 "p": 45.0,
 "c": null,
@@ -22,7 +33,7 @@
 "in": true
 },
 {
-"t": "set",
+"t": "G-set 17904",
 "u": "https://www.hashtag-lb.com/products/set-1",
 "p": 55.0,
 "c": null,
@@ -33,7 +44,7 @@
 "in": true
 },
 {
-"t": "set",
+"t": "G-set 17889",
 "u": "https://www.hashtag-lb.com/products/set",
 "p": 49.0,
 "c": null,
@@ -66,7 +77,7 @@
 "in": true
 },
 {
-"t": "Hashtag set",
+"t": "G-Hashtag set",
 "u": "https://www.hashtag-lb.com/products/hashtag-set",
 "p": 35.0,
 "c": null,
@@ -74,7 +85,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/WhatsAppImage2026-10-06at14.56.35.jpg?v=1791288187&width=400",
 "type": "",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "G-set 2015",
@@ -404,7 +415,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/54508082-1610-4a87-a785-b19b05560e1a.jpg?v=1790074785&width=400",
 "type": "top",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "G-top 17006",
@@ -437,7 +448,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/d0c312af-1c06-4d53-a507-3b1dbb155a2e.jpg?v=1790002254&width=400",
 "type": "top",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "G-chemise-16985",
@@ -495,7 +506,7 @@
 "in": true
 },
 {
-"t": "G-top 17093",
+"t": "G-top 17299",
 "u": "https://www.hashtag-lb.com/products/g-top-17093",
 "p": 19.0,
 "c": null,

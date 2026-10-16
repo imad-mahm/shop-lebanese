@@ -1324,7 +1324,7 @@
 {
 "t": "Rasasi Hawas Venom For Him Edp",
 "u": "https://moustaphaallabban.com/products/rasasi-hawas-venom-for-him-edp",
-"p": 37.5,
+"p": 32.5,
 "c": 50.01,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/614514555255.jpg?v=1790882332&width=400",
@@ -1715,7 +1715,7 @@
 {
 "t": "Rasasi Hawas Fire",
 "u": "https://moustaphaallabban.com/products/rasasi-hawas-fire",
-"p": 37.5,
+"p": 32.5,
 "c": 50.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/614514178065.jpg?v=1743027723&width=400",
@@ -1872,7 +1872,7 @@
 {
 "t": "Rasasi Hawas Ice Edp",
 "u": "https://moustaphaallabban.com/products/rasasi-hawas-ice-edp",
-"p": 37.5,
+"p": 32.5,
 "c": 50.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/IMG-1357.webp?v=1739647151&width=400",
@@ -2643,7 +2643,7 @@
 {
 "t": "Rasasi Hawas Pink For Her Edp",
 "u": "https://moustaphaallabban.com/products/rasasi-hawas-pink-for-her-edp",
-"p": 37.5,
+"p": 32.5,
 "c": 50.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/614514178072.png?v=1783052390&width=400",
@@ -2658,7 +2658,7 @@
 {
 "t": "Rasasi Hawas Malibu For Him Edp",
 "u": "https://moustaphaallabban.com/products/rasasi-hawas-malibu-for-him-edp",
-"p": 37.5,
+"p": 32.5,
 "c": 50.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/614514331071.png?v=1783052391&width=400",
@@ -2673,7 +2673,7 @@
 {
 "t": "Rasasi Hawas Eclat For Her Edp",
 "u": "https://moustaphaallabban.com/products/rasasi-hawas-eclat-for-her-edp",
-"p": 37.5,
+"p": 32.5,
 "c": 50.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/614514339206.png?v=1783052390&width=400",
@@ -2688,7 +2688,7 @@
 {
 "t": "Rasasi Hawas Atlantis For Him Edp",
 "u": "https://moustaphaallabban.com/products/rasasi-hawas-atlantis-for-him-edp",
-"p": 37.5,
+"p": 32.5,
 "c": 50.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/614514555125.jpg?v=1783052390&width=400",
@@ -3308,7 +3308,7 @@
 {
 "t": "Rasasi Hawas Elixir Edp",
 "u": "https://moustaphaallabban.com/products/rasasi-hawas-elixir-edp",
-"p": 37.5,
+"p": 32.5,
 "c": 50.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/614514331057.jpg?v=1743027960&width=400",
@@ -11337,7 +11337,7 @@
 {
 "t": "Rasasi Hawas Black Men Edp",
 "u": "https://moustaphaallabban.com/products/rasasi-hawas-black-men-edp",
-"p": 37.5,
+"p": 32.5,
 "c": 50.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/Rasasi_Hawas_Black_2024.webp?v=1744576682&width=400",
@@ -11346,7 +11346,7 @@
 "Eau De Parfume Men",
 "Men"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Kate Spade Cherie Je T'Aime Edp Gift Set",

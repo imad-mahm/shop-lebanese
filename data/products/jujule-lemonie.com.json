@@ -226,7 +226,7 @@
 "p": 175.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0620/6980/1212/files/SandySkirt_3_4d5ac21a-1588-420f-997a-947f49df55e9.jpg?v=1791901446&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0620/6980/1212/files/SandySkirt_2_8c69cd31-16a5-43c8-93c4-27dcbef7f703.jpg?v=1791901446&width=400",
 "type": "",
 "tags": [
 "bottomwear",
@@ -259,7 +259,7 @@
 "p": 115.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0620/6980/1212/files/MaiaChemise_2.jpg?v=1791897622&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0620/6980/1212/files/MaiaChemise_3.jpg?v=1791897622&width=400",
 "type": "",
 "tags": [
 "fall",
@@ -606,7 +606,7 @@
 "tops",
 "upperwear"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Lucy Chemise - Buttons Stripes Grey",
@@ -2167,7 +2167,7 @@
 "new in",
 "The Lebanese Project"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Kif Ma Kenet Bhebbak Tshirt - Gold",
@@ -4098,7 +4098,7 @@
 "tags": [
 "knitwear"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Jujule Gemayzeh Cardigan",
@@ -4176,7 +4176,7 @@
 "tags": [
 "knitwear"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Palm & Plume Cardigan",
@@ -4620,7 +4620,7 @@
 "skirts",
 "winter"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Dune Blazer - Brown",
@@ -8815,7 +8815,7 @@
 "in": true
 },
 {
-"t": "Gema Satin Pants - Red",
+"t": "Gema Pants - Satin Red",
 "u": "https://www.jujule-lemonie.com/products/gema-satin-pants-red",
 "p": 245.0,
 "c": null,
@@ -9233,7 +9233,7 @@
 "in": true
 },
 {
-"t": "Gema Satin Pants - Beige",
+"t": "Gema Pants - Satin Beige",
 "u": "https://www.jujule-lemonie.com/products/gema-satin-pants-beige",
 "p": 245.0,
 "c": null,
@@ -9538,7 +9538,7 @@
 "in": true
 },
 {
-"t": "Gema Satin Pants - Purple",
+"t": "Gema Pants - Satin Purple",
 "u": "https://www.jujule-lemonie.com/products/gema-satin-pants-purple",
 "p": 245.0,
 "c": null,
@@ -9553,7 +9553,7 @@
 "in": true
 },
 {
-"t": "Gema Satin Pants - Light Green",
+"t": "Gema Pants - Satin Sage Green",
 "u": "https://www.jujule-lemonie.com/products/gema-satin-pants-light-green",
 "p": 245.0,
 "c": null,
@@ -10081,7 +10081,7 @@
 "in": true
 },
 {
-"t": "Jujule Jogger",
+"t": "Jujule Scuba Jogger - Black",
 "u": "https://www.jujule-lemonie.com/products/jujule-jogger",
 "p": 95.0,
 "c": null,
