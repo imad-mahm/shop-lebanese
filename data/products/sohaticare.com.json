@@ -8,7 +8,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/3540550020938_DAILY_PEEL_W_0.jpg?v=1790941050&width=400",
 "type": "Face Peel",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Essential Beard Care Set (Shampoo, Oil and Balm) + Novus Trimmer 2.0",
@@ -1171,7 +1171,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/1_17_d9df861e-7790-4ade-9818-695a1eeb6e68.png?v=1790596323&width=400",
 "type": "Shampoo",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Vita A Retinal Volume Booster 15ML",
@@ -1968,7 +1968,7 @@
 "pf-bck-to-schl-cmpgn",
 "PF_AUG_26_Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Buy Avène Cleanance Sunscreen SPF 50+ Get Avène After Sun Repair Lotion travel size 50ml | Light Weight & Invisible Oily Skin Sunscreen and After Sun Lotion",
@@ -3745,7 +3745,7 @@
 "tags": [
 "essence"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Essence Feelin' Comfy Lash Curler 01",
@@ -3894,7 +3894,7 @@
 "BLACKFRIDAY24",
 "BLACKFRIDAY24_LDB"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Gala PuffAway Eye Cream - 30ml",
@@ -8694,7 +8694,7 @@
 "FRENCHWEEK2025",
 "pierre_fabre_portfolio"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Avène Ultra Glow Serum SPF50+ | Activates Glow 30ml",
@@ -15431,7 +15431,7 @@
 "tags": [
 "exclude_flash26"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Garnier Ultra Doux Grape Moisture Shampoo",
@@ -25356,7 +25356,7 @@
 "COMPENSATION_DEC25",
 "LUMIMATTE_DEC25"
 ],
-"in": false
+"in": true
 },
 {
 "t": "20 % OFF Lumi Matte Foundation + Sky high",
@@ -31410,7 +31410,7 @@
 "Drugstore Beauty",
 "NO_FLASH"
 ],
-"in": true
+"in": false
 },
 {
 "t": "DUO X2 Deo Whitening Roll-On - Arabian Oud",
@@ -33211,7 +33211,7 @@
 "ifran_20%_sep25",
 "ifran_black25"
 ],
-"in": true
+"in": false
 },
 {
 "t": "SHOWER CREAM BIO RELAX 300ML",
@@ -34972,7 +34972,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/1_e137cb5b-0e50-4124-91bd-78fda1122066.webp?v=1757936928&width=400",
 "type": "",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "GLYCOLIC ACID 7% EXFOLIATING TONER 100ML/3.4FLOZ",
@@ -34983,7 +34983,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/42_0daddae9-609f-4647-92ae-2bc403863309.png?v=1757660562&width=400",
 "type": "",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "ALPHA ARBUTIN 2% + HA 60ML/2FLOZ",
@@ -35104,7 +35104,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/30_6221dd94-48cf-4c54-8924-530e336dfad0.png?v=1757660550&width=400",
 "type": "",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "SOOTHING & BARRIER SUPPORT SERUM 30ML/1FLOZ",
@@ -35336,7 +35336,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/10_8517ac85-dfdc-4847-804f-17c63732e7b3.png?v=1757660530&width=400",
 "type": "",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "NATURAL MOISTURIZING FACTORS +HA 30ML/1FLOZ",
@@ -35415,7 +35415,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/3_cbe2a9ed-e243-4e9c-a052-265d73b0e76a.png?v=1757660521&width=400",
 "type": "",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "MULTI-PEPTIDE SERUM FOR HAIR DENSITY 60ML/2FLOZ",
@@ -36655,24 +36655,24 @@
 {
 "t": "Pure White + Glutathion 1000MG",
 "u": "https://sohaticare.com/products/pure-white-glutathion-1000mg",
-"p": 43.29,
+"p": 47.73,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/d_eric-favre-wellness-pure-white-glutathion-puwh10mefw-8389-0.jpg?v=1756197397&width=400",
 "type": "Supplement",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Belle vie Ecla Jeunesse 60 Capsules",
 "u": "https://sohaticare.com/products/belle-vie-ecla-jeunesse-60-capsules",
-"p": 39.96,
+"p": 36.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/NicolasCareEclatJeunesse.webp?v=1756197729&width=400",
 "type": "Supplement",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Sensual Hands Gift Set",
@@ -37639,7 +37639,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/essence-soft-touch-mousse-blush-10-cozy-clay-63809443266943.jpg?v=1754997733&width=400",
 "type": "Blush",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Essence Baby Got Blush 50",
@@ -38555,7 +38555,7 @@
 {
 "t": "Belle Vie Nutri Cheuveux  30 capsules",
 "u": "https://sohaticare.com/products/belle-vie-nutri-cheuveux-30",
-"p": 18.32,
+"p": 22.2,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/Belle-Vie-NutriCheveux.png?v=1753348299&width=400",
@@ -38563,29 +38563,29 @@
 "tags": [
 "fitnesss"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Acti Flora Plus 15 Capsules",
 "u": "https://sohaticare.com/products/acti-flora-plus-15-capsules",
-"p": 15.55,
+"p": 16.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/actiflora.jpg?v=1753349553&width=400",
 "type": "Supplement",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Pure Collagen Plus 4000MG",
 "u": "https://sohaticare.com/products/pure-collagen-plus-4000mg",
-"p": 43.29,
+"p": 44.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/6e11b0d86c1d485a81f83594c0552476-Optimal.png?v=1753349185&width=400",
 "type": "Supplement",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "L’Oréal Professionnel | Absolut Repair Molecular | Deep molecular repairing leave-in mask for damaged hair | SERIE EXPERT | 100ml",
@@ -39703,7 +39703,7 @@
 "exclude_dec25",
 "exclude_flash_july25"
 ],
-"in": true
+"in": false
 },
 {
 "t": "30 % OFF 2x  Wonder Cover Concealer + Red pouch",
@@ -40647,7 +40647,7 @@
 "tags": [
 "samoa_eid26"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Samoa, Never Nude Soft Serve - 238",
@@ -41530,7 +41530,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/primaderm1.png?v=1750427924&width=400",
 "type": "serum",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "RETINAL RENEWEL 0.2% GROWTH FACTOR & PEPTIDE SERUM 30 ml",
