@@ -24,7 +24,7 @@
 {
 "t": "Aussie Curls Shampoo – 600ml",
 "u": "https://curlygirlaccessories.com/product/aussie-curls-shampoo-600ml/",
-"p": 12.0,
+"p": 15.0,
 "c": null,
 "cur": "USD",
 "img": "https://curlygirlaccessories.com/wp-content/uploads/2026/10/NewList_4-300x300.webp",
@@ -35,7 +35,7 @@
 {
 "t": "Aussie Repair & Reconstruct Hair Mask 300ml",
 "u": "https://curlygirlaccessories.com/product/aussie-repair-reconstruct-hair-mask-300ml/",
-"p": 12.0,
+"p": 15.0,
 "c": null,
 "cur": "USD",
 "img": "https://curlygirlaccessories.com/wp-content/uploads/2026/10/Reconstruct-Hair-Mask1-300x300.webp",
@@ -46,7 +46,7 @@
 {
 "t": "Aussie Miracle Moist Shampoo 600 ml",
 "u": "https://curlygirlaccessories.com/product/aussie-miracle-moist-shampoo-600-ml/",
-"p": 12.0,
+"p": 15.0,
 "c": null,
 "cur": "USD",
 "img": "https://curlygirlaccessories.com/wp-content/uploads/2026/10/prd-front-853213-600x600-1-300x300.avif",
@@ -1119,7 +1119,7 @@
 "img": "https://curlygirlaccessories.com/wp-content/uploads/2026/08/edited-photo-10-300x300.webp",
 "type": "Gift Hampers",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Gift Hamper – All Hair Types",
@@ -1207,7 +1207,7 @@
 "img": "https://curlygirlaccessories.com/wp-content/uploads/2026/08/edited-photo-2-300x300.webp",
 "type": "Gift Hampers",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Gift Hamper – Perfect Curly Hair",
@@ -1658,7 +1658,7 @@
 "img": "https://curlygirlaccessories.com/wp-content/uploads/2026/07/img_6291-300x300.png",
 "type": "Bundles &amp; Sets",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Curloo Flexi Brush",
@@ -6606,7 +6606,7 @@
 "img": "https://curlygirlaccessories.com/wp-content/uploads/2026/04/IMG_2506-300x300.png",
 "type": "Gift Hampers",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Avocado Gift Hamper",
@@ -6852,7 +6852,7 @@
 "img": "https://curlygirlaccessories.com/wp-content/uploads/2026/03/img_1934-300x300.jpeg",
 "type": "Hair Care",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Slick-Dense Define EdgeLift",
@@ -7993,7 +7993,7 @@
 "tags": [
 "Kit"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Skala Avocado treatment cream 1Kg",
@@ -8162,7 +8162,7 @@
 "tags": [
 "SKALA Masks"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Skala 2 in 1 Watermelon Treatment Mask",
@@ -8214,7 +8214,7 @@
 "tags": [
 "Kit"
 ],
-"in": true
+"in": false
 },
 {
 "t": "SKALA Strawberry Shampoo & Conditioner Kit",

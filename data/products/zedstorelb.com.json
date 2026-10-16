@@ -1,5 +1,60 @@
 [
 {
+"t": "Ruby Rose Natural Blend Liquid Concealer",
+"u": "https://zedstorelb.com/products/rubyrose-natural-blend-liquid-concealer",
+"p": 3.8,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/HB-M600-1_NaturalBlendLiquidConcealer_N1.webp?v=1792084471&width=400",
+"type": "Makeup",
+"tags": [],
+"in": true
+},
+{
+"t": "RubyRose Twinkle Touch Eyeshadow and Highlighter",
+"u": "https://zedstorelb.com/products/rubyrose-twinkle-touch-eyeshadow-and-highlighter",
+"p": 3.65,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/HB-M1004-1_TwinkleTouchEyeshadow_Highlighter_IceGlow.webp?v=1792084389&width=400",
+"type": "Makeup",
+"tags": [],
+"in": true
+},
+{
+"t": "Ruby Rose Pure Porcelain Compact Powder",
+"u": "https://zedstorelb.com/products/rubyrose-pure-porcelain-compact-powder",
+"p": 4.44,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/HB-M401-1_PurePorcelainCompactPowder_P10_3461ff59-4bd1-4f79-b582-4fa734e8aec1.webp?v=1792084267&width=400",
+"type": "Makeup",
+"tags": [],
+"in": true
+},
+{
+"t": "Ruby Rose Amber Bronze Compact Bronzer",
+"u": "https://zedstorelb.com/products/rubyrose-amber-bronze-compact-bronzer",
+"p": 3.6,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/HB-M202-1_AmberBronzeCompactBronzer_BeachSands.webp?v=1792084123&width=400",
+"type": "Makeup",
+"tags": [],
+"in": true
+},
+{
+"t": "Ruby Rose Blush Mode Compact Blush",
+"u": "https://zedstorelb.com/products/rubyrose-blush-mode-compact-blush",
+"p": 4.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/HB-L6114-1_BlushModeCompactBlush_1.webp?v=1792084028&width=400",
+"type": "Makeup",
+"tags": [],
+"in": true
+},
+{
 "t": "Bodycology Beach Berries Body Mist 237ml",
 "u": "https://zedstorelb.com/products/bodycology-beach-berries-body-mist-237ml",
 "p": 8.5,
@@ -481,7 +536,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/ae84637731f17126205e4868b43e2181d88f99339b86adf7823706a15086d1b7_1200.webp?v=1791727636&width=400",
 "type": "Makeup",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "SHEGLAM Insta-Ready Face & Under Eye Setting Powder Duo",
@@ -489,10 +544,10 @@
 "p": 10.12,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/1686654319insta-ready-Powder--bisque.jpg?v=1791727557&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/pnxirvbv5w8kvcpxnrpj3f4oxp3a.webp?v=1792085079&width=400",
 "type": "Makeup",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "SHEGLAM Hydro-Touch Refreshing Setting Powder",
@@ -964,7 +1019,7 @@
 "in": false
 },
 {
-"t": "RIimmel London Lasting Finish Lipstick",
+"t": "Rimmel London Lasting Finish Lipstick",
 "u": "https://zedstorelb.com/products/riimmel-london-lasting-finish-lipstick",
 "p": 4.44,
 "c": null,
@@ -1235,7 +1290,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/images_d40a5232-6e9e-4a1c-9eaf-8c260e97eabe.jpg?v=1790789110&width=400",
 "type": "Eyeshadow Palette",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "The Body Shop Strawberry Body Butter 200ml",
@@ -4006,7 +4061,7 @@
 "freegift",
 "giftcollection"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Free Gift Avocado hair Clip",
@@ -6700,7 +6755,7 @@
 "New Arrivals",
 "Skincare"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Dr.Melaxin Peel Shot PS Exfoliating Kojic Acid Turmeric Spray, 200mL",
@@ -8610,7 +8665,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/PDRN-GLOW-RITUAL-GIFT-SET-MEDICUBE.webp?v=1781945351&width=400",
 "type": "kit",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Skin1004 Madagascar Centella Hyalu-Cica Travel Kit 4pcs",
@@ -15522,7 +15577,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/420-10.webp?v=1767004526&width=400",
 "type": "hair brush",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Ruby Beauty Hair Brush rb-413 (the color will be chosen randomly)",
@@ -17319,7 +17374,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/b622fac3-9083-4f57-9352-6482023abb70.webp?v=1763741401&width=400",
 "type": "perfume",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Lattafa Ana Abiyedh Scarlet Perfume 60ml",
@@ -20151,7 +20206,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/3616305980090_263577_zhdgczpj_jpeg_4da8a5f1_800x_fb1d7186-7a82-4297-b365-04685cad1450.webp?v=1759397766&width=400",
 "type": "Serum",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Bourjois Lip & Cheeks Macaron Melt Blush",
@@ -23704,7 +23759,7 @@
 "tags": [
 "sephoracollection"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Made by Mitchell Blursh Lights - Pink Lynx",
@@ -24040,7 +24095,7 @@
 "dryskincollection",
 "oilyskincollection"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Vichy Dercos Oil Control Dermatological Shampoo 200ml",
@@ -26001,7 +26056,7 @@
 "tags": [
 "elviveglycolic"
 ],
-"in": false
+"in": true
 },
 {
 "t": "L'Oreal Paris Elvive Glycolic Gloss Gloss Sealing Conditioner for Dull Porous Hair Powered by 3% Glycolic Acid",
@@ -37880,88 +37935,6 @@
 "tags": [
 "dryskincollection",
 "Ruby Beauty Makeup Blenders x3 RB-053"
-],
-"in": false
-},
-{
-"t": "OMG Facial Towel Headband With Bow",
-"u": "https://zedstorelb.com/products/facial-towel-headband-with-bow",
-"p": 2.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/Spa-Facial-Headband-Make-Up-Wrap-Head-Terry-Cloth-Headband-Adjustable-Towel-for-Face-Washing-Shower-Facial-Mask-3-Pieces_a425f3d8-de65-4334-9122-ecbfed4160b9.e3c0162a9761830600bd10145.webp?v=1726649932&width=400",
-"type": "headband",
-"tags": [
-"Facial Towel Headband With Bow"
-],
-"in": false
-},
-{
-"t": "L'Oreal Paris, Hyaluron Pure Oil Erasing Scalp Serum with Salicylic Acid, for Oily Roots and Dehydrated Lengths",
-"u": "https://zedstorelb.com/products/loreal-paris-hyaluron-pure-oil-erasing-scalp-serum-with-salicylic-acid-for-oily-roots-and-dehydrated-lengths",
-"p": 8.72,
-"c": 9.69,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/1_3.jpg?v=1726570831&width=400",
-"type": "Hair Serum",
-"tags": [
-"1212/2025",
-"for Oily Roots and Dehydrated Lengths",
-"HAPUREl'oreal",
-"Hyaluron Pure Oil Erasing Scalp Serum with Salicylic Acid",
-"L'Oréal Paris",
-"lorealfinal",
-"oilyskincollection"
-],
-"in": true
-},
-{
-"t": "L'Oreal Paris Elvive Hyaluron Pure 72h Rehydrating Conditioner for Oily Scalp & Dehydrated Lengths",
-"u": "https://zedstorelb.com/products/l-oreal-paris-elvive-hyaluron-pure-72h-rehydrating-conditioner-for-oily-scalp-dehydrated-lengths",
-"p": 3.38,
-"c": 3.76,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/1_2.jpg?v=1726570548&width=400",
-"type": "Conditioner",
-"tags": [
-"1212/2025",
-"HAPUREl'oreal",
-"lorealfinal",
-"L’Oréal Paris Elvive Hyaluron Pure 72h Rehydrating Conditioner for Oily Scalp & Dehydrated Lengths",
-"oilyskincollection"
-],
-"in": true
-},
-{
-"t": "L'Oreal Paris Elvive Hyaluron Pure Purifying Shampoo for Oily Roots And Dehydrated Length",
-"u": "https://zedstorelb.com/products/l-oreal-paris-elvive-hyaluron-pure-purifying-shampoo-for-oily-roots-and-dehydrated-length-600-ml",
-"p": 3.83,
-"c": 4.25,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/1_1.jpg?v=1726569856&width=400",
-"type": "Shampoo",
-"tags": [
-"1212/2025",
-"dryskincollection",
-"HAPUREl'oreal",
-"lorealfinal",
-"Lâ€™OrÃ©al Paris Elvive Hyaluron Pure Purifying Shampoo for Oily Roots And Dehydrated Length 600 ML",
-"oilyskincollection"
-],
-"in": true
-},
-{
-"t": "Glow Recipe Blueberry Bounce Gentle Cleanser",
-"u": "https://zedstorelb.com/products/glow-recipe-blueberry-bounce-gentle-cleanser",
-"p": 37.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/13317618-3314913520809793.webp?v=1726421005&width=400",
-"type": "cleanser",
-"tags": [
-"clearancecollection",
-"Glow Recipe Blueberry Bounce Gentle Cleanser",
-"sephoracollection"
 ],
 "in": false
 }
