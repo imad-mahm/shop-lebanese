@@ -1,5 +1,43 @@
 [
 {
+"t": "Blush Memories",
+"u": "https://exotica.com/products/blush-memories",
+"p": 70.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Blush_Memories_9_pink_roses.png?v=1792066000&width=400",
+"type": "Flowers",
+"tags": [
+"Birthdays",
+"Flower Boxes",
+"For Her",
+"For Kids",
+"For Mom",
+"New Born",
+"Pink",
+"Pink October"
+],
+"in": true
+},
+{
+"t": "Love in a Frame",
+"u": "https://exotica.com/products/love-in-a-frame",
+"p": 70.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/LoveinaFrame-9rosesred.jpg?v=1792057540&width=400",
+"type": "Flowers",
+"tags": [
+"Flower Boxes",
+"Flowers",
+"For Her",
+"For Him",
+"Love & Romance",
+"Red"
+],
+"in": true
+},
+{
 "t": "White Majesty",
 "u": "https://exotica.com/products/white-majesty",
 "p": 235.0,
@@ -127,7 +165,7 @@
 "Pink October",
 "Roses"
 ],
-"in": false
+"in": true
 },
 {
 "t": "3 Dozen Pinks",
@@ -628,7 +666,7 @@
 "Flowers",
 "For Her"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Harvest Hues",
@@ -650,7 +688,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Autumn_Breeze_2.png?v=1789555758&width=400",
 "type": "Flowers",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Purple Haze",
@@ -857,7 +895,7 @@
 "Mixed Colors",
 "Mixed Flowers"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Sunny Harvest",
@@ -904,7 +942,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Fall_in_Love_1.jpg?v=1791283866&width=400",
 "type": "Flowers",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Harvest Festival",
@@ -912,7 +950,7 @@
 "p": 93.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Harvest___Festival.jpg?v=1791283441&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Harvest___FestivalwithIrap.jpg?v=1792129168&width=400",
 "type": "Flowers",
 "tags": [
 "Congratulations",
@@ -937,7 +975,7 @@
 "Mixed Flowers",
 "Orange"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Sagittarius Celebrations",
@@ -1476,17 +1514,6 @@
 "in": true
 },
 {
-"t": "Custom Order",
-"u": "https://exotica.com/products/custom-order-2",
-"p": 80.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/0000_produced_at_exotica.jpg?v=1744022321&width=400",
-"type": "",
-"tags": [],
-"in": true
-},
-{
 "t": "Balloons",
 "u": "https://exotica.com/products/option-set-748627-checkbox-4",
 "p": 11.0,
@@ -1951,7 +1978,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Love_Balloons.jpg?v=1779105858&width=400",
 "type": "Add-Ons",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Get Well Soon Balloon",
@@ -1984,7 +2011,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Untitled_design.jpg?v=1779106820&width=400",
 "type": "Add-Ons",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Pick Love Red",
@@ -2481,7 +2508,7 @@
 "For Teta",
 "Get Well Soon"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Blue Sky",
@@ -2948,7 +2975,7 @@
 "For Teta",
 "Mixed Colors"
 ],
-"in": false
+"in": true
 },
 {
 "t": "The Spiky Plant",
@@ -3361,7 +3388,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/DarkMilkRocher_SablesGourmet.webp?v=1781262306&width=400",
 "type": "Add-Ons",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "White Nobile",
@@ -3380,7 +3407,7 @@
 "Thank You",
 "White"
 ],
-"in": true
+"in": false
 },
 {
 "t": "50 Hugs",
@@ -4113,7 +4140,7 @@
 "For Him",
 "For Kids"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Pop Up",
@@ -4901,7 +4928,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Blush-Crush.jpg?v=1749537215&width=400",
 "type": "Flowers",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Sablés Gourmets Small Box",
@@ -5223,7 +5250,7 @@
 "Indoor Plants",
 "Medium"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Love",
@@ -5406,7 +5433,7 @@
 "For Him",
 "For Kids"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Cheers!",
@@ -5481,7 +5508,7 @@
 "Pink October",
 "Roses"
 ],
-"in": false
+"in": true
 },
 {
 "t": "White Heart",
@@ -6015,7 +6042,7 @@
 "Roses",
 "White"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Serene Blessings",
@@ -6171,7 +6198,7 @@
 "tags": [
 "Wine & Spirits"
 ],
-"in": true
+"in": false
 },
 {
 "t": "IXSIR Altitudes Red Lebanon",
@@ -6237,7 +6264,7 @@
 "For Him",
 "For Kids"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Rose Elegance",
@@ -6309,7 +6336,7 @@
 "Red",
 "Roses"
 ],
-"in": true
+"in": false
 },
 {
 "t": "IXSIR Grande Réserve Red Lebanon",
@@ -6357,7 +6384,7 @@
 "Love & Romance",
 "Red"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Ma Vie",
