@@ -1,5 +1,25 @@
 [
 {
+"t": "KARL LAGERFELD SARABANDE MONOGRAM HEELS",
+"u": "https://comostore.me/products/karl-lagerfeld-sarabande-monogram-heels",
+"p": 285.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1367/5161/files/comowebsitedesign-2026-10-16T161118.742.png?v=1792156315&width=400",
+"type": "Sneakers",
+"tags": [
+"karl lagerfeld",
+"karl lagerfeld at como store",
+"karl lagerfeld bag",
+"karl lagerfeld bags",
+"Karl lagerfeld bags in leb",
+"karl lagerfeld bags in lebanon",
+"karl lagerfeld boots",
+"KARL LAGERFELD IKONIC"
+],
+"in": true
+},
+{
 "t": "MOON BOOT ICON GREY LONG BOOTS",
 "u": "https://comostore.me/products/moon-boot-glance-silver-long-boots",
 "p": 275.0,
@@ -94,26 +114,6 @@
 "LOVE MOSCHINO Boots",
 "LOVE MOSCHINO Espadrilles",
 "love moschino in lebanon"
-],
-"in": true
-},
-{
-"t": "KARL LAGERFELD SARABANDE MONOGRAM HEELS",
-"u": "https://comostore.me/products/karl-lagerfeld-sarabande-monogram-heels",
-"p": 285.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1367/5161/files/comowebsitedesign-2026-10-14T133636.896.png?v=1791974256&width=400",
-"type": "Sneakers",
-"tags": [
-"karl lagerfeld",
-"karl lagerfeld at como store",
-"karl lagerfeld bag",
-"karl lagerfeld bags",
-"Karl lagerfeld bags in leb",
-"karl lagerfeld bags in lebanon",
-"karl lagerfeld boots",
-"KARL LAGERFELD IKONIC"
 ],
 "in": true
 },
@@ -5963,7 +5963,7 @@
 {
 "t": "COLORS OF CALIFORNIA SLOWFI TAN FLATS",
 "u": "https://comostore.me/products/colors-of-california-slowfi-sandals-1",
-"p": 55.0,
+"p": 60.0,
 "c": 110.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1367/5161/files/comowebsitedesign-2026-06-26T104926.283.png?v=1782460520&width=400",
@@ -6216,7 +6216,7 @@
 {
 "t": "COLORS OF CALIFORNIA CAMEL PLATFORM FLATS",
 "u": "https://comostore.me/products/colors-of-california-camel-platform-flats",
-"p": 68.0,
+"p": 81.0,
 "c": 135.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1367/5161/files/comowebsitedesign-2026-06-25T234504.153.png?v=1782420559&width=400",
@@ -6526,7 +6526,7 @@
 "Mario Valentino collection",
 "Mario Valentino in lebanon"
 ],
-"in": true
+"in": false
 },
 {
 "t": "MARIO VALENTINO BRIXTON LARGE MORO DARK BROWN TOTE BAG",
@@ -6626,7 +6626,7 @@
 "Mario Valentino collection",
 "Mario Valentino in lebanon"
 ],
-"in": false
+"in": true
 },
 {
 "t": "MARIO VALENTINO BRIXTON SHOULDER MORO BAG",
@@ -9039,7 +9039,7 @@
 {
 "t": "COLORS OF CALIFORNIA SUEDE MOKA FLATS",
 "u": "https://comostore.me/products/colors-of-california-suede-blue-sandals",
-"p": 43.0,
+"p": 51.0,
 "c": 85.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1367/5161/files/comowebsitedesign-2026-06-29T131738.437.png?v=1782728452&width=400",
@@ -9096,7 +9096,7 @@
 {
 "t": "COLORS OF CALIFORNIA DOUBLE BUCKLE WHITE FLATS",
 "u": "https://comostore.me/products/colors-of-california-double-buckle-white-sandals",
-"p": 50.0,
+"p": 60.0,
 "c": 100.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1367/5161/files/comowebsitedesign-2026-05-12T111454.539.png?v=1778573795&width=400",
@@ -9229,7 +9229,7 @@
 {
 "t": "COLORS OF CALIFORNIA SUEDE CAM FLATS",
 "u": "https://comostore.me/products/colors-of-california-suede-can-sandals",
-"p": 43.0,
+"p": 51.0,
 "c": 85.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1367/5161/files/comowebsitedesign-2026-05-12T104759.916.png?v=1778572205&width=400",
@@ -9286,7 +9286,7 @@
 {
 "t": "COLORS OF CALIFORNIA GLITTER METAL FLATS",
 "u": "https://comostore.me/products/colors-of-california-glitter-metal-sandals",
-"p": 38.0,
+"p": 45.0,
 "c": 75.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1367/5161/files/comowebsitedesign-2026-05-11T163157.427.png?v=1778506387&width=400",
@@ -9324,7 +9324,7 @@
 {
 "t": "COLORS OF CALIFORNIA SUEDE BLACK FLATS",
 "u": "https://comostore.me/products/colors-of-california-suede-black-sandals",
-"p": 43.0,
+"p": 51.0,
 "c": 85.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1367/5161/files/comowebsitedesign-2026-05-11T162318.636.png?v=1778505895&width=400",
@@ -9694,12 +9694,12 @@
 "in": false
 },
 {
-"t": "MARIO VALENTINO RISED BLACK TOTE BAG",
+"t": "MARIO VALENTINO RISED BLACK MEDIUM BAG",
 "u": "https://comostore.me/products/mario-valentino-rised-black-tote-bag",
-"p": 156.0,
+"p": 149.0,
 "c": 195.0,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1367/5161/files/Untitleddesign-2026-04-21T123147.660.png?v=1776763930&width=400",
+"img": "https://cdn.shopify.com/s/files/1/1367/5161/files/comowebsitedesign-2026-10-16T143814.722_a0bb71ac-9e30-4e03-94a1-5cb627bb3483.png?v=1792150728&width=400",
 "type": "Bags",
 "tags": [
 "bags at como store",
@@ -9711,7 +9711,7 @@
 "Mario Valentino collection",
 "Mario Valentino in lebanon"
 ],
-"in": false
+"in": true
 },
 {
 "t": "MARIO VALENTINO ALEXIA PINK BAG",
@@ -18228,7 +18228,7 @@
 "Mario Valentino collection",
 "Mario Valentino in lebanon"
 ],
-"in": false
+"in": true
 },
 {
 "t": "MARIO VALENTINO BRIXTON RED BAG",
@@ -20122,7 +20122,7 @@
 "Mario Valentino collection",
 "Mario Valentino in lebanon"
 ],
-"in": false
+"in": true
 },
 {
 "t": "MARIO VALENTINO BEIGE LARGE BAG",
@@ -21087,7 +21087,7 @@
 {
 "t": "ASH JACKSON BROWN BOOTS",
 "u": "https://comostore.me/products/ash-liam-brown-boots",
-"p": 260.0,
+"p": 400.0,
 "c": 520.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1367/5161/files/comowebsitedesign-2026-10-13T160024.054.png?v=1791896449&width=400",
@@ -21107,7 +21107,7 @@
 {
 "t": "ASH LIAM BLACK BOOTS",
 "u": "https://comostore.me/products/ash-liam-black-boots",
-"p": 280.0,
+"p": 380.0,
 "c": 560.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1367/5161/files/Untitleddesign_96_6f373dd4-e443-4c67-980b-36475a1f0ebf.png?v=1762863214&width=400",
@@ -21147,7 +21147,7 @@
 {
 "t": "ASH NOAH BLACK BOOTS",
 "u": "https://comostore.me/products/ash-noah-black-boots",
-"p": 210.0,
+"p": 250.0,
 "c": 415.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1367/5161/files/Untitleddesign_94_ded9e098-295b-4c0e-8515-61c4af37e36c.png?v=1762862929&width=400",
@@ -22212,7 +22212,7 @@
 "Shop women shoes in Lebanon",
 "shop women shoes lebanon"
 ],
-"in": false
+"in": true
 },
 {
 "t": "KOMIS KOMIS C502 TABACO LOAFERS",
@@ -22583,7 +22583,7 @@
 {
 "t": "UGG ULTRA MINI MAXI CURLY CHESTNUT BOOTS",
 "u": "https://comostore.me/products/ugg-ultra-mini-maxi-curly-chestnut-boots",
-"p": 195.0,
+"p": 170.0,
 "c": 280.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1367/5161/files/MAXICURRLYCHEST1.jpg?v=1728381968&width=400",
@@ -27586,7 +27586,7 @@
 "Mario Valentino collection",
 "Mario Valentino in lebanon"
 ],
-"in": false
+"in": true
 },
 {
 "t": "MARIO VALENTINO ECRU LARGE BAG",
@@ -27726,7 +27726,7 @@
 "Mario Valentino kicks",
 "Mario Valentino shoes"
 ],
-"in": false
+"in": true
 },
 {
 "t": "MARIO VALENTINO ECRU MEDIUM BAG",
@@ -36351,7 +36351,7 @@
 "Shop women shoes in Lebanon",
 "shop women shoes lebanon"
 ],
-"in": false
+"in": true
 },
 {
 "t": "JEFFREY CAMPBELL ARSEN-HIB DENIM BOOTS",
@@ -37906,7 +37906,7 @@
 "moon boot in beirut",
 "moon boot in lebanon"
 ],
-"in": true
+"in": false
 },
 {
 "t": "MOON BOOT BLACK LOW COLOURBLOCK NYLON BOOTS",
@@ -38382,7 +38382,7 @@
 {
 "t": "UGG TASMAN MAXI CURLY BROWN SLIPPERS",
 "u": "https://comostore.me/products/ugg-tasman-maxi-curly-brown-slippers",
-"p": 115.0,
+"p": 130.0,
 "c": 230.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1367/5161/files/maxicurlybrown2.jpg?v=1728374353&width=400",
@@ -41669,7 +41669,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1367/5161/products/bikeyellow1.jpg?v=1705964067&width=400",
 "type": "Charms",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "CROCS EYESHADOW CHARMS",
