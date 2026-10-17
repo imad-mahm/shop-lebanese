@@ -467,8 +467,8 @@
 {
 "t": "Collistar Sun Stick Cream Dark Spots Spf50",
 "u": "https://moustaphaallabban.com/products/collistar-sun-stick-cream-dark-spots-spf50",
-"p": 33.3,
-"c": 37.0,
+"p": 34.2,
+"c": 38.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/8015150005463.png?v=1791590897&width=400",
 "type": "Collistar Sun",
@@ -571,8 +571,8 @@
 {
 "t": "Collistar Men Energizing Cleansing Gel",
 "u": "https://moustaphaallabban.com/products/collistar-men-energizing-cleansing-gel",
-"p": 36.9,
-"c": 41.0,
+"p": 39.6,
+"c": 44.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/8015150007245.jpg?v=1791590895&width=400",
 "type": "Collistar Cleansing",
@@ -610,8 +610,8 @@
 {
 "t": "Collistar Magic Drops Highlight Bodyconc",
 "u": "https://moustaphaallabban.com/products/collistar-magic-drops-highlight-bodyconc",
-"p": 56.7,
-"c": 63.0,
+"p": 61.2,
+"c": 68.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/8015150001328.png?v=1791590900&width=400",
 "type": "Collistar Body",
@@ -636,8 +636,8 @@
 {
 "t": "Collistar Gentle Makeup Removing Oil",
 "u": "https://moustaphaallabban.com/products/collistar-gentle-makeup-removing-oil",
-"p": 37.79,
-"c": 41.99,
+"p": 40.5,
+"c": 45.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/8015150007009.png?v=1791590895&width=400",
 "type": "Collistar Cleansing",
@@ -702,7 +702,7 @@
 "t": "Collistar Futura Brightening Cream Set",
 "u": "https://moustaphaallabban.com/products/collistar-futura-brightening-cream-set",
 "p": 93.6,
-"c": 103.99,
+"c": 104.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/8015150009522.png?v=1791590900&width=400",
 "type": "Collistar Moisturizers",
@@ -753,8 +753,8 @@
 {
 "t": "Collistar Cleansing Cream To Mousse",
 "u": "https://moustaphaallabban.com/products/collistar-cleansing-cream-to-mousse",
-"p": 34.2,
-"c": 38.0,
+"p": 36.9,
+"c": 41.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/8015150006972.png?v=1791590897&width=400",
 "type": "Collistar Cleansing",
@@ -915,7 +915,7 @@
 "tags": [
 "Gift Sets"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Carolina Herrera La Bomba Gift Set",
@@ -1552,8 +1552,8 @@
 {
 "t": "Shiseido Microliner Ink",
 "u": "https://moustaphaallabban.com/products/shiseido-microliner-ink",
-"p": 32.4,
-"c": 36.0,
+"p": 34.2,
+"c": 38.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/products/729238177239_6166247a-9f84-4972-becd-bee6adde4ad4.jpg?v=1642513803&width=400",
 "type": "Shiseido Makeup",
@@ -1801,8 +1801,8 @@
 {
 "t": "Collistar. SOS Moisturizing Hydro Mask",
 "u": "https://moustaphaallabban.com/products/collistar-sos-moisturizing-hydro-mask",
-"p": 34.23,
-"c": 38.0,
+"p": 37.8,
+"c": 42.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/products/8015150211239.jpg?v=1590844879&width=400",
 "type": "Collistar Masks & Scrubs",
@@ -5321,8 +5321,8 @@
 {
 "t": "Shiseido Expert Sun Protector Cream SPF30",
 "u": "https://moustaphaallabban.com/products/shiseido-expert-sun-protector-cream-spf30",
-"p": 42.3,
-"c": 47.0,
+"p": 44.1,
+"c": 49.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/768614212355.png?v=1776860028&width=400",
 "type": "Shiseido Skincare",
@@ -5576,8 +5576,8 @@
 {
 "t": "Shiseido SHIKULIME Mega Hydrating Moisturizer - Refill",
 "u": "https://moustaphaallabban.com/products/shiseido-shikulime-mega-hydrating-moisturizer-refill",
-"p": 41.4,
-"c": 46.0,
+"p": 42.3,
+"c": 47.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/products/F.jpg?v=1678542598&width=400",
 "type": "Shiseido Skincare",
@@ -6245,19 +6245,6 @@
 "c": 211.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/8056669924241.png?v=1773088322&width=400",
-"type": "Perfumes & Fragrances",
-"tags": [
-"Gift Sets"
-],
-"in": true
-},
-{
-"t": "Cartier Declaration Men Edt Gift Set",
-"u": "https://moustaphaallabban.com/products/cartier-declaration-men-edt-gift-set",
-"p": 93.75,
-"c": 125.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/3432240517609.png?v=1773088335&width=400",
 "type": "Perfumes & Fragrances",
 "tags": [
 "Gift Sets"
@@ -7543,8 +7530,8 @@
 {
 "t": "Shiseido Future Solution LX Concentrated Brightening Softener",
 "u": "https://moustaphaallabban.com/products/shiseido-future-solution-lx-concentrated-brightening-softener",
-"p": 142.2,
-"c": 158.0,
+"p": 151.2,
+"c": 168.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/768614212560_14024173-b732-4d24-93f5-f94992925e6e.jpg?v=1771746897&width=400",
 "type": "Shiseido Skincare",
@@ -8802,8 +8789,8 @@
 {
 "t": "Shiseido Synchro Skin Self-Refreshing Foundation",
 "u": "https://moustaphaallabban.com/products/shiseido-synchro-skin-self-refreshing-foundation",
-"p": 55.8,
-"c": 62.0,
+"p": 59.4,
+"c": 66.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/729238217560_fab447a4-6432-4971-b5f2-ac02f654329a.jpg?v=1735153815&width=400",
 "type": "Shiseido Makeup",
@@ -8817,8 +8804,8 @@
 {
 "t": "Shiseido Synchro Skin Radiant Lifting Foundation",
 "u": "https://moustaphaallabban.com/products/shiseido-synchro-skin-radiant-lifting-foundation",
-"p": 59.4,
-"c": 66.0,
+"p": 62.1,
+"c": 69.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/729238215962_e3d76753-8795-4b42-bbf0-6fda351feb4e.jpg?v=1735153787&width=400",
 "type": "Shiseido Makeup",
@@ -8846,8 +8833,8 @@
 {
 "t": "Shiseido Daiya Fude Face Duo Brush",
 "u": "https://moustaphaallabban.com/products/shiseido-daiya-fude-face-duo-brush",
-"p": 75.6,
-"c": 84.0,
+"p": 79.2,
+"c": 88.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/products/729238146990_da3a73fe-a846-4d70-98c2-c98e09520745.jpg?v=1612472546&width=400",
 "type": "Shiseido Makeup",
@@ -9661,8 +9648,8 @@
 {
 "t": "Shiseido Waso Yuzu-C Eye Awakening Essence",
 "u": "https://moustaphaallabban.com/products/shiseido-waso-yuzu-c-eye-awakening-essence",
-"p": 39.6,
-"c": 44.0,
+"p": 40.5,
+"c": 45.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/768614189947_f97b53e3-8bea-4c8f-adbe-56b32cbf0f36.png?v=1764013364&width=400",
 "type": "Shiseido Skincare",
@@ -9700,8 +9687,8 @@
 {
 "t": "Shiseido Ginza Datura Edp",
 "u": "https://moustaphaallabban.com/products/shiseido-ginza-datura-edp",
-"p": 105.3,
-"c": 117.01,
+"p": 108.9,
+"c": 121.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/768614220480_9cde499a-569c-4c71-9bfb-a7f1719c7095.png?v=1764013360&width=400",
 "type": "Perfumes & Fragrances",
@@ -9714,8 +9701,8 @@
 {
 "t": "Shiseido Benefiance Anti-Wrinkle Eye Cream",
 "u": "https://moustaphaallabban.com/products/shiseido-benefiance-anti-wrinkle-eye-cream",
-"p": 90.9,
-"c": 101.0,
+"p": 94.5,
+"c": 105.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/768614208570_61cd0d45-a04f-40cf-8736-22d0997c76c3.png?v=1764013358&width=400",
 "type": "Shiseido Skincare",
@@ -11975,8 +11962,8 @@
 {
 "t": "Shiseido Vital Perfection LiftDefine Radiance Face Mask",
 "u": "https://moustaphaallabban.com/products/shiseido-vital-perfection-liftdefine-radiance-face-mask",
-"p": 124.2,
-"c": 138.0,
+"p": 129.6,
+"c": 144.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/729238169579_01465e27-efff-4070-aca5-2426b5430d82.png?v=1759388740&width=400",
 "type": "Shiseido Skincare",
@@ -11988,8 +11975,8 @@
 {
 "t": "Shiseido Ultimune Power Infusing Serum",
 "u": "https://moustaphaallabban.com/products/shiseido-ultimune-power-infusing-serum",
-"p": 100.8,
-"c": 112.0,
+"p": 106.2,
+"c": 118.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/768614224457_ed9fd638-1bb5-4187-b797-b78af190e3ac.jpg?v=1759388738&width=400",
 "type": "Shiseido Skincare",
@@ -12001,8 +11988,8 @@
 {
 "t": "Shiseido Ultimune Power Infusing Concentrate Limited Edition Serum",
 "u": "https://moustaphaallabban.com/products/shiseido-ultimune-power-infusing-concentrate-limited-edition-serum",
-"p": 139.5,
-"c": 155.0,
+"p": 144.9,
+"c": 161.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/729238209435_a8813646-dd73-4993-90a6-b3bc5a5b0647.jpg?v=1759388736&width=400",
 "type": "Shiseido Skincare",
@@ -12027,8 +12014,8 @@
 {
 "t": "Shiseido Expert Sun Protector Clear Stick Spf 50+",
 "u": "https://moustaphaallabban.com/products/shiseido-expert-sun-protector-clear-stick-spf-50",
-"p": 59.39,
-"c": 65.99,
+"p": 59.4,
+"c": 66.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/729238222991_b4ceb273-6e8f-4a8e-b73e-8f97fada6334.png?v=1759388732&width=400",
 "type": "Shiseido Skincare",
@@ -12040,8 +12027,8 @@
 {
 "t": "Shiseido Future Solution LX Total Regenerating Cream Night",
 "u": "https://moustaphaallabban.com/products/shiseido-future-solution-lx-total-regenerating-cream-night",
-"p": 427.49,
-"c": 474.99,
+"p": 454.5,
+"c": 505.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/729238212640_5f1a82bd-97ea-400a-836b-aecdc6e3e6b1.jpg?v=1759388730&width=400",
 "type": "Shiseido Skincare",
@@ -12053,8 +12040,8 @@
 {
 "t": "Shiseido Future Solution LX Intensive Firming Brilliance Serum",
 "u": "https://moustaphaallabban.com/products/shiseido-future-solution-lx-intensive-firming-brilliance-serum",
-"p": 394.2,
-"c": 437.99,
+"p": 418.5,
+"c": 465.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/729238212626_f3d5caa2-39a7-4c88-9b8b-351a6a7a83db.jpg?v=1759388728&width=400",
 "type": "Shiseido Skincare",
@@ -12066,8 +12053,8 @@
 {
 "t": "Shiseido Future Solution LX Eye & Lip Contour Regenerating Cream",
 "u": "https://moustaphaallabban.com/products/shiseido-future-solution-lx-eye-lip-contour-regenerating-cream",
-"p": 189.0,
-"c": 210.0,
+"p": 199.8,
+"c": 222.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/768614212584_9eeaba2f-57be-4ac9-b221-39ba84ad4df7.jpg?v=1759388727&width=400",
 "type": "Shiseido Skincare",
@@ -12079,8 +12066,8 @@
 {
 "t": "Shiseido Future Solution LX Extra Rich Cleansing Foam",
 "u": "https://moustaphaallabban.com/products/shiseido-future-solution-lx-extra-rich-cleansing-foam",
-"p": 96.3,
-"c": 107.0,
+"p": 102.6,
+"c": 114.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/768614212553_d4f22ea5-cc7f-414c-90db-34279f5f7e87.jpg?v=1759388726&width=400",
 "type": "Shiseido Skincare",
@@ -12092,8 +12079,8 @@
 {
 "t": "Shiseido Future Solution L? Total Protective Cream SPF30",
 "u": "https://moustaphaallabban.com/products/shiseido-future-solution-l-total-protective-cream-spf30",
-"p": 387.0,
-"c": 430.0,
+"p": 408.6,
+"c": 454.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/729238212664_86319bd8-cea6-4b52-82c0-ab5541defc49.jpg?v=1759388725&width=400",
 "type": "Shiseido Skincare",
@@ -12623,8 +12610,8 @@
 {
 "t": "Shiseido Sports BB Wetforce Quick Dry SPF50+",
 "u": "https://moustaphaallabban.com/products/shiseido-sports-bb-wetforce-quick-dry-spf50",
-"p": 39.6,
-"c": 44.0,
+"p": 40.5,
+"c": 45.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/729238146594_e3987bd6-2c2d-4b7e-b3a3-865c381d3ffc.jpg?v=1747592628&width=400",
 "type": "Shiseido Makeup",
@@ -16239,8 +16226,8 @@
 {
 "t": "Collistar. Soothing Aftersun Repair Treatment",
 "u": "https://moustaphaallabban.com/products/collistar-soothing-aftersun-repair-treatment",
-"p": 46.85,
-"c": 52.0,
+"p": 48.6,
+"c": 54.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/products/8015150260992.jpg?v=1590844962&width=400",
 "type": "Collistar Suncare",
@@ -16577,8 +16564,8 @@
 {
 "t": "Shiseido Revitalessence Skin Glow Foundation SPF 30",
 "u": "https://moustaphaallabban.com/products/shiseido-revitalessence-skin-glow-foundation-spf-30",
-"p": 61.2,
-"c": 68.0,
+"p": 64.8,
+"c": 72.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/729238193437_ffcf7bf7-13cb-41c3-a825-4b150f2a35d5.jpg?v=1747592623&width=400",
 "type": "Shiseido Makeup",
@@ -16591,8 +16578,8 @@
 {
 "t": "Shiseido Urban Environment Age Defense Oil-Free SPF 30",
 "u": "https://moustaphaallabban.com/products/shiseido-urban-environment-age-defense-oil-free-spf-30",
-"p": 43.2,
-"c": 48.0,
+"p": 45.0,
+"c": 50.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/768614182092_cef37f50-61c1-4c7a-946b-481b326b3349.png?v=1747592616&width=400",
 "type": "Shiseido Skincare",
@@ -16675,8 +16662,8 @@
 {
 "t": "Collistar Make Up Removing Micellar Water",
 "u": "https://moustaphaallabban.com/products/collistar-make-up-removing-micellar-water",
-"p": 34.23,
-"c": 38.0,
+"p": 36.9,
+"c": 41.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/8015150219242_5f3f157b-4a66-4179-be03-9769cf812ae7.jpg?v=1747592598&width=400",
 "type": "Collistar Cleansing",
@@ -16689,7 +16676,7 @@
 {
 "t": "Collistar Niacinamide Dry Shampoo",
 "u": "https://moustaphaallabban.com/products/collistar-niacinamide-dry-shampoo",
-"p": 23.42,
+"p": 23.4,
 "c": 26.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/8015150297332_5cbe4d15-8936-4f76-88bf-f2566027a843.png?v=1747592596&width=400",
@@ -16702,8 +16689,8 @@
 {
 "t": "Collistar Idroattiva+ Matte Moisturizing Sorbet",
 "u": "https://moustaphaallabban.com/products/collistar-idroattiva-matte-moisturizing-sorbet",
-"p": 47.75,
-"c": 53.0,
+"p": 51.3,
+"c": 57.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/8015150247306_3cef50df-3979-43c6-9e0c-508db9f97f16.jpg?v=1747592594&width=400",
 "type": "Collistar Moisturizers",
@@ -16940,22 +16927,6 @@
 "Black25",
 "Eau De Parfume Men",
 "Men"
-],
-"in": true
-},
-{
-"t": "Guess Amore Veinzia Edt",
-"u": "https://moustaphaallabban.com/products/guess-amore-veinzia-edt",
-"p": 43.8,
-"c": 73.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/085715323606_f939d13e-d600-4df0-9c79-1de171cd89bc.jpg?v=1746883597&width=400",
-"type": "Perfumes & Fragrances",
-"tags": [
-"Eau De Toilette Men",
-"Eau De Toilette Women",
-"Men",
-"Women"
 ],
 "in": true
 },
@@ -17409,8 +17380,8 @@
 {
 "t": "Shiseido Oil Control Bloting Paper 100 Sheet",
 "u": "https://moustaphaallabban.com/products/shiseido-oil-control-bloting-paper-100-sheet",
-"p": 29.7,
-"c": 33.0,
+"p": 31.5,
+"c": 35.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/products/729238141704.jpg?v=1612472664&width=400",
 "type": "Shiseido Skincare",
@@ -17424,8 +17395,8 @@
 {
 "t": "Shiseido Hasu Fude Foundation Brush",
 "u": "https://moustaphaallabban.com/products/shiseido-hasu-fude-foundation-brush",
-"p": 54.0,
-"c": 60.0,
+"p": 57.6,
+"c": 64.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/products/729238147027_4c39a5ff-39b8-4984-93b8-6f0ee08fb246.jpg?v=1626535073&width=400",
 "type": "Shiseido Makeup",
@@ -17435,8 +17406,8 @@
 {
 "t": "Shiseido Overnight Wrinkle Resisting Cream",
 "u": "https://moustaphaallabban.com/products/shiseido-bnf-overnight-wrinkle-resisting-cream",
-"p": 122.4,
-"c": 136.0,
+"p": 129.6,
+"c": 144.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/products/768614166597x.png?v=1615295655&width=400",
 "type": "Shiseido Skincare",
@@ -17446,8 +17417,8 @@
 {
 "t": "Shiseido Benefiance Wrinkle Smoothing Enriched Cream",
 "u": "https://moustaphaallabban.com/products/shiseido-benefiance-wrinkle-smoothing-enriched-cream",
-"p": 113.4,
-"c": 126.0,
+"p": 121.5,
+"c": 135.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/products/768614149545.jpg?v=1615295927&width=400",
 "type": "Shiseido Skincare",
@@ -19121,8 +19092,8 @@
 {
 "t": "Shiseido UV Protective Compact Foundation SPF30",
 "u": "https://moustaphaallabban.com/products/shiseido-uv-protective-compact-foundation-refill-copy",
-"p": 49.5,
-"c": 55.0,
+"p": 52.2,
+"c": 58.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/730852213203.jpg?v=1740755243&width=400",
 "type": "Shiseido Makeup",
@@ -19136,8 +19107,8 @@
 {
 "t": "Shiseido UV Protective Compact Foundation Refill",
 "u": "https://moustaphaallabban.com/products/shiseido-uv-protective-compact-foundation-refill",
-"p": 40.5,
-"c": 45.0,
+"p": 43.2,
+"c": 48.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/730852213265.webp?v=1740754711&width=400",
 "type": "Shiseido Makeup",
@@ -20245,8 +20216,8 @@
 {
 "t": "Shiseido Refreshing Cleansing Water",
 "u": "https://moustaphaallabban.com/products/shiseido-refreshing-cleansing-water",
-"p": 37.8,
-"c": 42.0,
+"p": 39.6,
+"c": 44.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/products/729238141681.jpg?v=1612472677&width=400",
 "type": "Shiseido Skincare",
@@ -20776,8 +20747,8 @@
 {
 "t": "Shiseido Men Skin Empowering Cream Refillable",
 "u": "https://moustaphaallabban.com/products/shiseido-men-skin-empowering-cream-refillable",
-"p": 147.6,
-"c": 164.0,
+"p": 151.2,
+"c": 168.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/768614215493_cd7d3af5-c622-47d6-ad6e-d1b55730dddb.jpg?v=1735153761&width=400",
 "type": "Shiseido Skincare",
@@ -20791,8 +20762,8 @@
 {
 "t": "Shiseido Brow Inktrio Eyebrow Pencil",
 "u": "https://moustaphaallabban.com/products/shiseido-brow-inktrio-eyebrow-pencil",
-"p": 32.4,
-"c": 36.0,
+"p": 35.1,
+"c": 39.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/729238147751_6e936cf7-e1c8-4481-8c9a-83dcc39a7e15.jpg?v=1735153757&width=400",
 "type": "Shiseido Makeup",
@@ -20805,8 +20776,8 @@
 {
 "t": "Shiseido Legendary Enmei Ultimate Radiance Eye Cream",
 "u": "https://moustaphaallabban.com/products/shiseido-legendary-enmei-ultimate-radiance-eye-cream",
-"p": 367.2,
-"c": 408.0,
+"p": 389.7,
+"c": 433.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/729238208490_b40cb086-b1ac-4701-9709-ff59da479a37.jpg?v=1735153755&width=400",
 "type": "Shiseido Skincare",
@@ -20820,8 +20791,8 @@
 {
 "t": "Shiseido Bio-Performance Skin Hiforce Cream Refillable",
 "u": "https://moustaphaallabban.com/products/shiseido-bio-performance-skin-hiforce-cream-refillable",
-"p": 234.0,
-"c": 260.0,
+"p": 245.7,
+"c": 273.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/768614214465_27d66f14-8d34-4603-88e8-f9fa67f11d94.jpg?v=1735153737&width=400",
 "type": "Shiseido Skincare",
@@ -20835,7 +20806,7 @@
 {
 "t": "Collistar Vitamin C + Plyhydroxy Acid Gel Mask",
 "u": "https://moustaphaallabban.com/products/collistar-vitamin-c-plyhydroxy-acid-gel-mask",
-"p": 44.14,
+"p": 44.1,
 "c": 49.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/8015150003490_a4dcbec4-d759-4a1e-9f2c-dcf07063153d.png?v=1735153250&width=400",
@@ -20850,7 +20821,7 @@
 {
 "t": "Collistar Salicylic Acid + Zinc Pca Clay Mask",
 "u": "https://moustaphaallabban.com/products/collistar-salicylic-acid-zinc-pca-clay-mask",
-"p": 44.14,
+"p": 44.1,
 "c": 49.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/8015150003537_26fe6191-3029-4fe2-8bf6-47a69025ec22.png?v=1735153246&width=400",
@@ -20925,8 +20896,8 @@
 {
 "t": "Collistar Soothing Cleansing Foam Face",
 "u": "https://moustaphaallabban.com/products/collistar-soothing-cleansing-foam-face",
-"p": 34.23,
-"c": 38.0,
+"p": 36.9,
+"c": 41.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/8015150219303_0401e6a0-18a8-44e4-8912-4d15241773a3.png?v=1735153224&width=400",
 "type": "Collistar Cleansing",
@@ -20940,8 +20911,8 @@
 {
 "t": "Collistar Phyto Keratin Oil Restructuring Nourishing",
 "u": "https://moustaphaallabban.com/products/collistar-phyto-keratin-oil-restructuring-nourishing",
-"p": 36.04,
-"c": 40.0,
+"p": 37.8,
+"c": 42.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/8015150297226_dd7dee4d-8758-4194-9544-68a3ab270aeb.png?v=1735153221&width=400",
 "type": "Collistar Body",
@@ -20985,8 +20956,8 @@
 {
 "t": "Collistar Uomo Toning Acqua Wood Eau De Toilette",
 "u": "https://moustaphaallabban.com/products/collistar-uomo-toning-acqua-wood-eau-de-toilette",
-"p": 69.37,
-"c": 77.0,
+"p": 72.0,
+"c": 80.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/8015150285490_45d8db5f-0229-436c-be25-d95e7b74faef.png?v=1735153210&width=400",
 "type": "Perfumes & Fragrances",
@@ -20999,8 +20970,8 @@
 {
 "t": "Collistar Uomo Revitalizing Acqua Vetiver Eau De Toilette",
 "u": "https://moustaphaallabban.com/products/collistar-uomo-revitalizing-acqua-vetiver-eau-de-toilette",
-"p": 69.3,
-"c": 77.0,
+"p": 72.0,
+"c": 80.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/8015150285476_0734599e-b113-4abf-abbb-24a38dc2a6be.png?v=1735153207&width=400",
 "type": "Perfumes & Fragrances",
@@ -21013,8 +20984,8 @@
 {
 "t": "Collistar Uomo Energizing Acqua Attiva Eau De Toilette",
 "u": "https://moustaphaallabban.com/products/collistar-uomo-energizing-acqua-attiva-eau-de-toilette",
-"p": 69.3,
-"c": 77.0,
+"p": 72.0,
+"c": 80.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/8015150285452_29f95155-19c7-43ed-8124-9eef2138345e.png?v=1735153203&width=400",
 "type": "Perfumes & Fragrances",
@@ -21071,8 +21042,8 @@
 {
 "t": "Collistar Benessere Neroli And Helichrysum Body Fragrance",
 "u": "https://moustaphaallabban.com/products/collistar-benessere-neroli-and-helichrysum-body-fragrance",
-"p": 59.4,
-"c": 66.0,
+"p": 62.1,
+"c": 69.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/8015150002370_e445d495-1e9c-413d-bcf6-0732419c456a.png?v=1735153188&width=400",
 "type": "Perfumes & Fragrances",
@@ -21087,8 +21058,8 @@
 {
 "t": "Collistar Benessere Neroli And Helichrysum Soft Body Cream",
 "u": "https://moustaphaallabban.com/products/collistar-benessere-neroli-and-helichrysum-soft-body-cream",
-"p": 43.24,
-"c": 48.0,
+"p": 45.9,
+"c": 51.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/8015150002400_a09513c6-eb1c-4271-a464-07f0679d6474.png?v=1735153185&width=400",
 "type": "Collistar Body",
@@ -21102,8 +21073,8 @@
 {
 "t": "Collistar Benessere Fig And Wisteria Melting Body Butter",
 "u": "https://moustaphaallabban.com/products/collistar-benessere-fig-and-wisteria-melting-body-butter",
-"p": 43.24,
-"c": 48.0,
+"p": 45.9,
+"c": 51.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/8015150002448_76f37972-f44e-47ea-8b43-02cb628a4b1f.png?v=1735153181&width=400",
 "type": "Collistar Body",
@@ -21132,8 +21103,8 @@
 {
 "t": "Collistar Benessere Fig And Wisteria Body Fragrance",
 "u": "https://moustaphaallabban.com/products/collistar-benessere-fig-and-wisteria-body-fragrance",
-"p": 59.4,
-"c": 66.0,
+"p": 62.1,
+"c": 69.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/8015150002417_af1c73f8-8656-4acd-8511-302fd28c0339.png?v=1735153174&width=400",
 "type": "Perfumes & Fragrances",
@@ -21148,8 +21119,8 @@
 {
 "t": "Collistar Benessere Fig And Wisteria Liquid Body Butter",
 "u": "https://moustaphaallabban.com/products/collistar-benessere-fig-and-wisteria-liquid-body-butter",
-"p": 43.2,
-"c": 48.0,
+"p": 45.9,
+"c": 51.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/8015150002431_3d622fb7-3b21-4ade-9426-75431983d9fb.png?v=1735153170&width=400",
 "type": "Collistar Body",
@@ -21251,8 +21222,8 @@
 {
 "t": "Shiseido Clarifying Cleansing Foam",
 "u": "https://moustaphaallabban.com/products/shiseido-clarifying-cleansing-foam-125ml",
-"p": 51.3,
-"c": 57.0,
+"p": 52.2,
+"c": 58.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/products/768614145295.jpg?v=1623069752&width=400",
 "type": "Shiseido Skincare",
@@ -23854,8 +23825,8 @@
 {
 "t": "Shiseido Total Revitalizer Light Fluid",
 "u": "https://moustaphaallabban.com/products/shiseido-total-revitalizer-light-fluid",
-"p": 89.1,
-"c": 99.0,
+"p": 93.6,
+"c": 104.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/729238184091_b1b750c8-d019-43e7-ab4c-f06220da2cb7.png?v=1733361263&width=400",
 "type": "Shiseido Skincare",
@@ -24335,8 +24306,8 @@
 {
 "t": "Shiseido Zen",
 "u": "https://moustaphaallabban.com/products/shiseido-zen-eau-de-parfum",
-"p": 96.3,
-"c": 107.0,
+"p": 99.0,
+"c": 110.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/products/768614102014_8d61e894-62c1-424f-b3a0-8997d8ff198d.jpg?v=1587978505&width=400",
 "type": "Perfumes & Fragrances",
@@ -24682,8 +24653,8 @@
 {
 "t": "Shiseido Creamy Cleansing Emulsion",
 "u": "https://moustaphaallabban.com/products/shiseido-creamy-cleansing-emulsion",
-"p": 51.3,
-"c": 57.0,
+"p": 52.2,
+"c": 58.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/products/768614143451.jpg?v=1612472545&width=400",
 "type": "Shiseido Skincare",
@@ -24782,8 +24753,8 @@
 {
 "t": "Shiseido Treatment Softener",
 "u": "https://moustaphaallabban.com/products/shiseido-treatment-softener",
-"p": 65.7,
-"c": 73.0,
+"p": 67.5,
+"c": 75.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/products/768614145318.jpg?v=1612472868&width=400",
 "type": "Shiseido Skincare",
@@ -24834,8 +24805,8 @@
 {
 "t": "Shiseido Brow Inktrio 02",
 "u": "https://moustaphaallabban.com/products/shiseido-smk-brow-inktrio-02",
-"p": 32.4,
-"c": 36.0,
+"p": 35.1,
+"c": 39.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/products/729238147744.jpg?v=1617123752&width=400",
 "type": "Shiseido Makup",
@@ -24888,8 +24859,8 @@
 {
 "t": "Shiseido Face Cleanser N",
 "u": "https://moustaphaallabban.com/products/shiseido-face-cleanser-n",
-"p": 38.7,
-"c": 43.0,
+"p": 40.5,
+"c": 45.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/products/768614171522.jpg?v=1626535058&width=400",
 "type": "Shiseido Skincare",
@@ -24899,8 +24870,8 @@
 {
 "t": "Shiseido Energizing Moisturizer E Light Fluid",
 "u": "https://moustaphaallabban.com/products/shiseido-energizing-moisturizer-e-light-fluid",
-"p": 61.2,
-"c": 68.0,
+"p": 64.8,
+"c": 72.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/products/768614171546.jpg?v=1626535055&width=400",
 "type": "Shiseido Skincare",
@@ -24910,8 +24881,8 @@
 {
 "t": "Shiseido Eye & Lip Makeup Remover",
 "u": "https://moustaphaallabban.com/products/shiseido-eye-lip-makeup-remover",
-"p": 39.6,
-"c": 44.0,
+"p": 41.4,
+"c": 46.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/products/730852143449.jpg?v=1626535086&width=400",
 "type": "Shiseido Makeup",
@@ -24921,8 +24892,8 @@
 {
 "t": "Shiseido LX Total Radiance N2",
 "u": "https://moustaphaallabban.com/products/shiseido-lx-total-radiance-n2",
-"p": 112.5,
-"c": 125.0,
+"p": 115.2,
+"c": 128.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/products/729238139367_5dd709f9-e761-401d-8a53-095b7a3201a0.jpg?v=1626535129&width=400",
 "type": "Shiseido Skincare",
@@ -29680,8 +29651,8 @@
 {
 "t": "Shiseido Men Total Revitalizer Cream",
 "u": "https://moustaphaallabban.com/products/shiseido-men-total-revitalizer-cream",
-"p": 96.3,
-"c": 107.0,
+"p": 101.7,
+"c": 113.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/products/ShiseidoMenTotalRevitalizerCream-Edited.png?v=1678543064&width=400",
 "type": "Shiseido Skincare",
@@ -29720,8 +29691,8 @@
 {
 "t": "Collistar Two Phase Make Up Removing Solution",
 "u": "https://moustaphaallabban.com/products/collistar-two-phase-make-up-removing-solution",
-"p": 34.23,
-"c": 38.0,
+"p": 36.9,
+"c": 41.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/8015150219235_3f0385bb-589e-48b3-8ddc-dfa6207655bd.jpg?v=1719565860&width=400",
 "type": "Collistar Cleansing",
@@ -29762,8 +29733,8 @@
 {
 "t": "Collistar Rigenera Aw Plumping Lip Treatment",
 "u": "https://moustaphaallabban.com/products/collistar-rigenera-aw-plumping-lip-treatment",
-"p": 54.05,
-"c": 60.0,
+"p": 59.4,
+"c": 66.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/8015150248051_b6c79852-5863-4978-8685-d1c17740d8b2.jpg?v=1719565851&width=400",
 "type": "Collistar Moisturizers",
@@ -29776,7 +29747,7 @@
 {
 "t": "Collistar Rigener Smoothing Aw Concenrtrate 2 Vials",
 "u": "https://moustaphaallabban.com/products/collistar-rigener-smoothing-aw-concenrtrate-2-vials",
-"p": 59.46,
+"p": 59.4,
 "c": 66.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/8015150248020_e20ee47c-5a6b-4607-b61d-a4cffa8250cc.jpg?v=1719565847&width=400",
@@ -29790,8 +29761,8 @@
 {
 "t": "Collistar Not Granita Lip Scrub",
 "u": "https://moustaphaallabban.com/products/collistar-not-granita-lip-scrub",
-"p": 31.5,
-"c": 35.0,
+"p": 34.2,
+"c": 38.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/8015150189040_dea3f3cf-9e1d-4907-ac40-54f6f9c8103e.jpg?v=1719565841&width=400",
 "type": "Collistar Masks & Scrubs",
@@ -29805,8 +29776,8 @@
 {
 "t": "Collistar Not Butter Lip Mask",
 "u": "https://moustaphaallabban.com/products/collistar-not-butter-lip-mask",
-"p": 31.5,
-"c": 35.0,
+"p": 34.2,
+"c": 38.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/8015150189057_b9e32945-88eb-42be-8ec1-089addcedcc3.jpg?v=1719565838&width=400",
 "type": "Collistar Masks & Scrubs",
@@ -29876,8 +29847,8 @@
 {
 "t": "Collistar Anticellulite Thermal Cream",
 "u": "https://moustaphaallabban.com/products/collistar-anticellulite-thermal-cream",
-"p": 73.87,
-"c": 82.0,
+"p": 76.5,
+"c": 85.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/8015150253956_675efde3-a094-497a-85a9-7d6a023aa079.jpg?v=1719565818&width=400",
 "type": "Collistar Anti- Aging",
@@ -29890,8 +29861,8 @@
 {
 "t": "Shiseido Waso Multi Relief Sos Balm",
 "u": "https://moustaphaallabban.com/products/shiseido-waso-multi-relief-sos-balm",
-"p": 27.9,
-"c": 31.0,
+"p": 29.7,
+"c": 33.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/729238209411_994dabee-5ad3-4761-a0b2-3dc722af48e6.png?v=1719565810&width=400",
 "type": "Shiseido Skincare",
@@ -29946,8 +29917,8 @@
 {
 "t": "Shiseido Ginza Night Intense Edp",
 "u": "https://moustaphaallabban.com/products/shiseido-ginza-night-intense-edp",
-"p": 149.4,
-"c": 166.0,
+"p": 157.5,
+"c": 175.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/768614212539_9d54cffd-0259-4efe-a63b-b719db1e9946.jpg?v=1719565793&width=400",
 "type": "Shiseido Skincare",
@@ -29960,8 +29931,8 @@
 {
 "t": "Shiseido Ginza Intense Edp",
 "u": "https://moustaphaallabban.com/products/shiseido-ginza-intense-edp",
-"p": 105.3,
-"c": 117.0,
+"p": 110.7,
+"c": 123.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/768614199885_4fbd8734-3dc0-4d92-ba56-183923f9c65e.jpg?v=1719565790&width=400",
 "type": "Shiseido Skincare",
@@ -29974,8 +29945,8 @@
 {
 "t": "Shiseido Ghinza Intense Edp Ladies",
 "u": "https://moustaphaallabban.com/products/shiseido-ghinza-intense-edp-ladies",
-"p": 149.4,
-"c": 166.0,
+"p": 157.5,
+"c": 175.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/768614199892_69bb90db-29ec-4cee-816b-4447d3f9ed5c.jpg?v=1719565783&width=400",
 "type": "Perfumes & Fragrances",
@@ -29988,8 +29959,8 @@
 {
 "t": "Shiseido Eudermine Activating Essence",
 "u": "https://moustaphaallabban.com/products/shiseido-eudermine-activating-essence",
-"p": 86.4,
-"c": 96.0,
+"p": 90.0,
+"c": 100.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/729238196476_03775ef1-580c-41ae-935a-3fadb0ebeba9.jpg?v=1719565780&width=400",
 "type": "Shiseido Skincare",
@@ -30157,8 +30128,8 @@
 {
 "t": "Collistar Hyaluronic Acid + Polyglutammic Moisturizing 30Ml",
 "u": "https://moustaphaallabban.com/products/collistar-hyaluronic-acid-polyglutammic-moisturizing-30ml",
-"p": 59.46,
-"c": 66.0,
+"p": 61.2,
+"c": 68.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/products/8015150218757.jpg?v=1638615463&width=400",
 "type": "Collistar Moisturizers",
@@ -30209,7 +30180,7 @@
 "Men",
 "top20"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Dior Addict Women Edt",
@@ -30390,8 +30361,8 @@
 {
 "t": "Collistar. Sun Face Cream Anti Spot Spf 50+",
 "u": "https://moustaphaallabban.com/products/collistar-sun-face-cream-anti-spot-spf-50",
-"p": 39.64,
-"c": 44.0,
+"p": 44.1,
+"c": 49.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/K26096_01.webp?v=1689084858&width=400",
 "type": "Collistar Suncare",
@@ -30960,8 +30931,8 @@
 {
 "t": "Shiseido TechnoSatin Gel Lipstick",
 "u": "https://moustaphaallabban.com/products/shiseido-technosatin-gel-lipstick",
-"p": 39.6,
-"c": 44.0,
+"p": 42.3,
+"c": 47.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/729238180499_6217be56-76a1-478f-baf6-90e78e7e028d.jpg?v=1735153824&width=400",
 "type": "Shiseido Makeup",
@@ -30974,8 +30945,8 @@
 {
 "t": "Shiseido Instant Eye And Lip Makeup Remover",
 "u": "https://moustaphaallabban.com/products/shiseido-instant-eye-and-lip-makeup-remover",
-"p": 39.6,
-"c": 44.0,
+"p": 42.3,
+"c": 47.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/730852114920_b7a8b4b1-bcae-40d0-a142-3c9cf75d6bb1.jpg?v=1718747565&width=400",
 "type": "Shiseido Makeup",
@@ -30988,8 +30959,8 @@
 {
 "t": "Shiseido Blue Expert Sun Protector Cream Spf 50+",
 "u": "https://moustaphaallabban.com/products/shiseido-blue-expert-sun-protector-cream-spf-50",
-"p": 42.3,
-"c": 47.0,
+"p": 44.1,
+"c": 49.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/768614212348_bbc58895-e89b-4b61-8435-8d5ecc3d3ffb.jpg?v=1718747563&width=400",
 "type": "Shiseido Makeup",
@@ -31091,8 +31062,8 @@
 {
 "t": "Super tanning Concentrated Unguent SPF 10s",
 "u": "https://moustaphaallabban.com/products/collistar-supertanning-concentrated-unguent",
-"p": 45.05,
-"c": 50.0,
+"p": 48.6,
+"c": 54.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/K26249_01.webp?v=1689083438&width=400",
 "type": "Collistar Suncare",
@@ -31267,8 +31238,8 @@
 {
 "t": "Shiseido Deep Cleansing Scrub",
 "u": "https://moustaphaallabban.com/products/shiseido-deep-cleansing-scrub",
-"p": 51.3,
-"c": 57.0,
+"p": 52.2,
+"c": 58.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/products/768614138167.jpg?v=1612472548&width=400",
 "type": "Shiseido Skincare",
@@ -31296,8 +31267,8 @@
 {
 "t": "Shiseido Arch Liner Ink",
 "u": "https://moustaphaallabban.com/products/shiseido-smk-arch-liner-ink",
-"p": 33.3,
-"c": 37.0,
+"p": 34.2,
+"c": 38.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/products/729238147324_686f9161-7582-4f8e-8cb5-42779afbb947.jpg?v=1612472706&width=400",
 "type": "Shiseido Makeup",
@@ -31417,8 +31388,8 @@
 {
 "t": "Shiseido Sports BB Compact",
 "u": "https://moustaphaallabban.com/products/shiseido-sports-bb-compact",
-"p": 45.0,
-"c": 50.0,
+"p": 47.7,
+"c": 53.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/dark.png?v=1732525431&width=400",
 "type": "Shiseido Makeup",
@@ -31568,8 +31539,8 @@
 {
 "t": "Shiseido Replenish Body Cream",
 "u": "https://moustaphaallabban.com/products/shiseido-replenish-body-cream",
-"p": 29.7,
-"c": 33.0,
+"p": 35.1,
+"c": 39.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/products/768614101932_c98c2cc9-a14d-45ea-9108-e78c4861a98d.jpg?v=1629712328&width=400",
 "type": "Shiseido Skincare",
@@ -31752,8 +31723,8 @@
 {
 "t": "Shiseido Waso Shikulime Color Control Moisturizer",
 "u": "https://moustaphaallabban.com/products/shiseido-waso-shikulime-color-control-moisturizer",
-"p": 48.6,
-"c": 54.0,
+"p": 52.2,
+"c": 58.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/products/768614178767.jpg?v=1642513118&width=400",
 "type": "Shiseido Skincare",
@@ -31990,8 +31961,8 @@
 {
 "t": "Collistar Ia+ BB Cream Tinted moisturizer spf 30 Medium",
 "u": "https://moustaphaallabban.com/products/collistar-ia-bb-cream-tinted-moisturizer-spf-30-medium",
-"p": 45.05,
-"c": 50.0,
+"p": 47.7,
+"c": 53.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/8015150247337_6003a7a0-b4e3-4e2e-8df6-232317d621a0.png?v=1718463357&width=400",
 "type": "Collistar Moisturizers",
@@ -33782,8 +33753,8 @@
 {
 "t": "Collistar Two Phase Make Up Micellar Milk",
 "u": "https://moustaphaallabban.com/products/collistar-two-phase-make-up-micellar-milk",
-"p": 34.23,
-"c": 38.0,
+"p": 36.9,
+"c": 41.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/products/8015150219297.jpg?v=1709377964&width=400",
 "type": "Collistar Cleansing",
@@ -33795,8 +33766,8 @@
 {
 "t": "Collistar Salicylic Acid + Niacinamide Cream",
 "u": "https://moustaphaallabban.com/products/collistar-salicylic-acid-niacinamide-cream",
-"p": 59.46,
-"c": 66.0,
+"p": 61.2,
+"c": 68.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/products/8015150218887.webp?v=1709377961&width=400",
 "type": "Collistar Anti- Aging",
@@ -33808,8 +33779,8 @@
 {
 "t": "Collistar Salicylic Acid + Succinic Acid",
 "u": "https://moustaphaallabban.com/products/collistar-salicylic-acid-succinic-acid",
-"p": 59.46,
-"c": 66.0,
+"p": 61.2,
+"c": 68.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/Packshots-hala-2022-12-19T135607.035_1024x1024_69aa04e5-5827-4b80-9e76-a4f529f31189.webp?v=1718289663&width=400",
 "type": "Collistar Anti- Aging",
@@ -33821,7 +33792,7 @@
 {
 "t": "Collistar Salicylic Acid + Niacinamide Lotion",
 "u": "https://moustaphaallabban.com/products/collistar-salicylic-acid-niacinamide-lotion",
-"p": 24.32,
+"p": 24.3,
 "c": 27.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/products/8015150218863.webp?v=1709377956&width=400",
@@ -33834,7 +33805,7 @@
 {
 "t": "Collistar Retinol + Phorentin",
 "u": "https://moustaphaallabban.com/products/collistar-retinol-phorentin",
-"p": 67.57,
+"p": 67.5,
 "c": 75.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/products/8015150219365.jpg?v=1709377953&width=400",
@@ -33847,7 +33818,7 @@
 {
 "t": "Collistar Retinol + Panthenol Drops",
 "u": "https://moustaphaallabban.com/products/collistar-retinol-panthenol-drops",
-"p": 59.46,
+"p": 59.4,
 "c": 66.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/co303360-collistar_atiivi_puri_retinol_panthenol_serum_30ml.jpg?v=1718289521&width=400",
@@ -33860,8 +33831,8 @@
 {
 "t": "Collistar Not Ordinary Treatment Smooth Base",
 "u": "https://moustaphaallabban.com/products/collistar-not-ordinary-treatment-smooth-base",
-"p": 36.9,
-"c": 41.0,
+"p": 38.7,
+"c": 43.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/products/8015150189002.jpg?v=1709377948&width=400",
 "type": "Collistar Anti- Aging",
@@ -33874,8 +33845,8 @@
 {
 "t": "Collistar Not Ordinary Treatment Matte Base",
 "u": "https://moustaphaallabban.com/products/collistar-not-ordinary-treatment-matte-base",
-"p": 36.9,
-"c": 41.0,
+"p": 38.7,
+"c": 43.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/products/8015150189019.jpg?v=1709377945&width=400",
 "type": "Collistar Anti- Aging",
@@ -33969,8 +33940,8 @@
 {
 "t": "Collistar Anti Age Cleansing Milk",
 "u": "https://moustaphaallabban.com/products/collistar-anti-age-cleansing-milk",
-"p": 37.84,
-"c": 42.0,
+"p": 41.4,
+"c": 46.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/products/8015150219334.webp?v=1709377917&width=400",
 "type": "Collistar Anti- Aging",
@@ -35130,8 +35101,8 @@
 {
 "t": "Elie Saab Le Parfum Bridal Women Edp",
 "u": "https://moustaphaallabban.com/products/elie-saab-le-parfum-bridal-women-edp",
-"p": 150.4,
-"c": 188.0,
+"p": 145.6,
+"c": 182.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/products/7640233341711.jpg?v=1705162639&width=400",
 "type": "Perfumes & Fragrances",
@@ -35452,21 +35423,6 @@
 "in": true
 },
 {
-"t": "Gucci Guilty Pour Homme Elixir De Parfum",
-"u": "https://moustaphaallabban.com/products/gucci-guilty-pour-homme-elixir-de-parfum",
-"p": 120.0,
-"c": 160.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/products/3616304175893.jpg?v=1703335348&width=400",
-"type": "Perfumes & Fragrances",
-"tags": [
-"C24",
-"Eau De Parfume Men",
-"Men"
-],
-"in": true
-},
-{
 "t": "Gucci Guilty Pour Femme Elixir De Parfum",
 "u": "https://moustaphaallabban.com/products/gucci-guilty-pour-femme-elixir-de-parfum",
 "p": 137.25,
@@ -35622,20 +35578,6 @@
 "tags": [
 "Eau De Toilette Men",
 "Men"
-],
-"in": true
-},
-{
-"t": "Trussardi Delicate Rose Women Edt",
-"u": "https://moustaphaallabban.com/products/trussardi-delicate-rose-women-edt",
-"p": 84.08,
-"c": 112.11,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/8011530840020_372ececa-8c9e-4f6f-a03e-b17b86cbd03f.jpg?v=1702051305&width=400",
-"type": "Perfumes & Fragrances",
-"tags": [
-"Eau De Toilette Women",
-"Women"
 ],
 "in": true
 },
@@ -39460,8 +39402,8 @@
 {
 "t": "Shiseido Imperial lash Mascara ink 01",
 "u": "https://moustaphaallabban.com/products/shiseido-imperial-lash-mascara-ink-01",
-"p": 39.6,
-"c": 44.0,
+"p": 42.3,
+"c": 47.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/products/730852147706_713500aa-a5ab-4a68-b229-34568c7ad483.jpg?v=1626535080&width=400",
 "type": "Shiseido Makeup",
@@ -40226,8 +40168,8 @@
 {
 "t": "Shiseido Maru Fude Multi Face Brush",
 "u": "https://moustaphaallabban.com/products/shiseido-maru-fude-multi-face-brush",
-"p": 63.0,
-"c": 70.0,
+"p": 67.5,
+"c": 75.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/products/729238146983_196eea1e-1f5d-4ca3-be7e-6d27476c4cbe.jpg?v=1617129243&width=400",
 "type": "Shiseido Makeup",
@@ -40491,8 +40433,8 @@
 {
 "t": "Lancome Galateis Douceur",
 "u": "https://moustaphaallabban.com/products/lancome-galateis-douceur",
-"p": 56.29,
-"c": 66.22,
+"p": 56.99,
+"c": 67.04,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/products/3605530742580.jpg?v=1736687462&width=400",
 "type": "Lancome Skincare",
@@ -40932,8 +40874,8 @@
 {
 "t": "Shiseido Future Solution Radiance Fdt",
 "u": "https://moustaphaallabban.com/products/shiseido-future-solution-lx-t-radiance-fdt",
-"p": 112.5,
-"c": 125.0,
+"p": 115.2,
+"c": 128.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/products/729238139336.jpg?v=1612461791&width=400",
 "type": "Shiseido Makeup",
@@ -40943,8 +40885,8 @@
 {
 "t": "Shiseido Hanen Fude Eye Shading Brush",
 "u": "https://moustaphaallabban.com/products/shiseido-hanen-fude-eye-shading-brush",
-"p": 32.4,
-"c": 36.0,
+"p": 34.2,
+"c": 38.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/products/729238177284.jpg?v=1642513096&width=400",
 "type": "Shiseido Makeup",
@@ -42306,8 +42248,8 @@
 {
 "t": "Shiseido Lipliner Inkduo",
 "u": "https://moustaphaallabban.com/products/shiseido-lipliner-inkduo-01",
-"p": 32.4,
-"c": 36.0,
+"p": 30.6,
+"c": 34.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/products/729238164154.jpg?v=1617123753&width=400",
 "type": "Shiseido Makup",
@@ -42320,8 +42262,8 @@
 {
 "t": "Shiseido Chaos Mascara",
 "u": "https://moustaphaallabban.com/products/shiseido-chaos-mascara",
-"p": 39.6,
-"c": 44.0,
+"p": 42.3,
+"c": 47.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/products/730852147669_d654f78a-5766-4036-a1ae-84fda704e355.jpg?v=1627903200&width=400",
 "type": "Shiseido Makeup",
@@ -42373,8 +42315,8 @@
 {
 "t": "Shiseido Waso YUZU-C Glow-On Shot",
 "u": "https://moustaphaallabban.com/products/shiseido-waso-yuzu-c-glow-on-shot",
-"p": 54.9,
-"c": 60.99,
+"p": 56.7,
+"c": 63.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/products/aa_7f9bbce5-9343-47c9-9ef8-e6422d2b57bb.jpg?v=1678542773&width=400",
 "type": "Shiseido Skincare",
@@ -42387,8 +42329,8 @@
 {
 "t": "Shiseido YUZU-C Beauty Sleeping Mask - Refill",
 "u": "https://moustaphaallabban.com/products/shiseido-yuzu-c-beauty-sleeping-mask-refill",
-"p": 45.0,
-"c": 50.0,
+"p": 47.7,
+"c": 53.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/products/RE.jpg?v=1678542434&width=400",
 "type": "Shiseido Skincare",
@@ -42415,8 +42357,8 @@
 {
 "t": "Shiseido Waso Yuzu-C Beauty Sleeping Mask 2",
 "u": "https://moustaphaallabban.com/products/shiseido-waso-yuzu-c-beauty-sleeping-mask-2",
-"p": 55.8,
-"c": 62.0,
+"p": 58.5,
+"c": 65.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/products/768614178798.jpg?v=1642513115&width=400",
 "type": "Shiseido Skincare",
@@ -42444,8 +42386,8 @@
 {
 "t": "Shiseido Skin Filler Serum Refills",
 "u": "https://moustaphaallabban.com/products/shiseido-skin-filler-serum-refills",
-"p": 239.4,
-"c": 266.0,
+"p": 249.3,
+"c": 277.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/products/Sh.jpg?v=1678542015&width=400",
 "type": "Shiseido Skincare",
@@ -42881,5 +42823,62 @@
 "View All Luxury Makeup"
 ],
 "in": true
+},
+{
+"t": "Clarins Purifying Gentle Foaming Cleanser",
+"u": "https://moustaphaallabban.com/products/clarins-purifying-gentle-foaming-cleanser",
+"p": 32.56,
+"c": 38.3,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/3666057216497_67cbcbe9-a992-4b87-adad-9058c4dc0492.png?v=1750708354&width=400",
+"type": "Clarins Skincare",
+"tags": [
+"Clarins",
+"Clarins Skincare",
+"Skin Care",
+"Skincare"
+],
+"in": true
+},
+{
+"t": "Clarins Soothing Gentle Foaming Cleanser",
+"u": "https://moustaphaallabban.com/products/clarins-soothing-gentle-foaming-cleanser",
+"p": 33.5,
+"c": 39.41,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/3666057216480_a29b73bf-f223-472f-a035-0251f1983609.png?v=1750708352&width=400",
+"type": "Clarins Skincare",
+"tags": [
+"Clarins",
+"Clarins Skincare",
+"Skin Care",
+"Skincare"
+],
+"in": true
+},
+{
+"t": "Clarins Double Serum Eye",
+"u": "https://moustaphaallabban.com/products/clarins-double-serum-eye",
+"p": 80.95,
+"c": 95.24,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/products/3380810463170.png?v=1750708314&width=400",
+"type": "Clarins Skincare",
+"tags": [
+"Skincare Sale",
+"view all luxury skincare"
+],
+"in": true
+},
+{
+"t": "Benefit Set Tt Prime Pearl Deal Professional Booster",
+"u": "https://moustaphaallabban.com/products/benefit-cof-tt-prime-pearl-deal-professional-booster-fm-prmr-set",
+"p": 42.5,
+"c": 50.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/products/602004107695_jpg.png?v=1636729733&width=400",
+"type": "Makeup",
+"tags": [],
+"in": false
 }
 ]

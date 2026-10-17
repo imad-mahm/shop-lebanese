@@ -1,5 +1,75 @@
 [
 {
+"t": "Lip Perfecting Trio Gift Set",
+"u": "https://looliacloset.com/products/lip-perfecting-trio-gift-set",
+"p": 64.7,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2298/5927/files/imgi_5_3666057467813_20260831181200.jpg?v=1792166511&width=400",
+"type": "Makeup Set",
+"tags": [
+"Clarins",
+"Makeup Set"
+],
+"in": true
+},
+{
+"t": "Eau Dynamisante Spa Gift Set",
+"u": "https://looliacloset.com/products/eau-dynamisante-spa-gift-set",
+"p": 80.9,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Untitled_design_72_38f60e8a-c7d7-44d7-8695-5e8b270f0354.png?v=1792165454&width=400",
+"type": "Set",
+"tags": [
+"Clarins",
+"set"
+],
+"in": true
+},
+{
+"t": "Hydra-Essentiel Hydration Gift Set",
+"u": "https://looliacloset.com/products/hydra-essentiel-hydration-gift-set",
+"p": 73.7,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2298/5927/files/imgi_76_80129836_original_original_A.jpg?v=1792165044&width=400",
+"type": "Skin Care Set",
+"tags": [
+"Clarins",
+"Skin Care Set"
+],
+"in": true
+},
+{
+"t": "Beauty Flash Balm Skincare Gift Set",
+"u": "https://looliacloset.com/products/beauty-flash-balm-skincare-gift-set",
+"p": 70.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2298/5927/files/imgi_75_80129834_original_original_1.jpg?v=1792164277&width=400",
+"type": "Skin Care Set",
+"tags": [
+"Clarins",
+"Skin Care Set"
+],
+"in": true
+},
+{
+"t": "Body Hydration Gift Set",
+"u": "https://looliacloset.com/products/body-hydration-gift-set",
+"p": 66.2,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2298/5927/files/imgi_83_80129839_original_original_A.jpg?v=1792163235&width=400",
+"type": "Skin Care Set",
+"tags": [
+"Clarins",
+"Skin Care Set"
+],
+"in": true
+},
+{
 "t": "Holiday Chill Cryo Lip Gift Set",
 "u": "https://looliacloset.com/products/holiday-chill-cryo-lip-gift-set",
 "p": 64.7,
@@ -11,7 +81,7 @@
 "Clarins",
 "Set"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Mascara + Lip Quick Touch-Up Gift Set",
@@ -25,7 +95,7 @@
 "Clarins",
 "Makeup Set"
 ],
-"in": false
+"in": true
 },
 {
 "t": "My Clarins Party-Ready Gift Set",
@@ -39,7 +109,7 @@
 "Clarins",
 "Skin Care Set"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Mela B3 Double Dose Discoloration Treatment with Melasyl",
@@ -99,7 +169,8 @@
 "bundle",
 "CPD_Bundle",
 "Factorybundle",
-"Garnier"
+"Garnier",
+"Valued Bundles"
 ],
 "in": true
 },
@@ -116,7 +187,8 @@
 "bundle",
 "CPD_Bundle",
 "Factorybundle",
-"Garnier"
+"Garnier",
+"Valued Bundles"
 ],
 "in": true
 },
@@ -311,7 +383,8 @@
 "CPD_Bundle",
 "Factorybundle",
 "Infallible_october26",
-"L'Oréal Paris"
+"L'Oréal Paris",
+"Valued Bundles"
 ],
 "in": true
 },
@@ -328,7 +401,8 @@
 "CPD_Bundle",
 "Factorybundle",
 "Infallible_october26",
-"L'Oréal Paris"
+"L'Oréal Paris",
+"Valued Bundles"
 ],
 "in": true
 },
@@ -345,7 +419,8 @@
 "CPD_Bundle",
 "Factorybundle",
 "Infallible_october26",
-"L'Oréal Paris"
+"L'Oréal Paris",
+"Valued Bundles"
 ],
 "in": true
 },
@@ -362,7 +437,8 @@
 "CPD_Bundle",
 "Factorybundle",
 "Infallible_october26",
-"L'Oréal Paris"
+"L'Oréal Paris",
+"Valued Bundles"
 ],
 "in": true
 },
@@ -379,7 +455,8 @@
 "CPD_Bundle",
 "Factorybundle",
 "Infallible_october26",
-"L'Oréal Paris"
+"L'Oréal Paris",
+"Valued Bundles"
 ],
 "in": true
 },
@@ -1026,7 +1103,7 @@
 "Revitalift_bundles",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Revitalift Triple Power Serum + Laser Retinol Deep Wrinkle Night Serum At 10% OFF",
@@ -1044,7 +1121,7 @@
 "Revitalift_bundles",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Revitalift Triple Power Serum + Eye Corrector + Day Cream At 15% OFF",
@@ -1062,7 +1139,7 @@
 "Revitalift_bundles",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Revitalift Triple Power Age-Correcting™ Serum + Day Cream At 10% OFF",
@@ -1080,7 +1157,7 @@
 "Revitalift_bundles",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Gift From Maybelline : Surprise Treat",
@@ -1704,7 +1781,7 @@
 "p": 73.81,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2298/5927/files/The-Hydration-Routine.png?v=1791456110&width=400",
+"img": "https://cdn.shopify.com/s/files/1/2298/5927/files/ANY_2_21.png?v=1792167889&width=400",
 "type": "Bundle",
 "tags": [
 "bundle",
@@ -2702,7 +2779,7 @@
 "le_defile26",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Glycolic-Bright Foam Cleanser + Face Serum + Night Cream + FREE Le Defile Pouch At 20% OFF",
@@ -3962,7 +4039,7 @@
 "L'Oréal Paris",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Panorama Mascara Brown + Plump Ambition Hyaluron Lip Oil + Lumi Le Liquid Blush + FREE Black Pouch At 20% OFF",
@@ -3980,7 +4057,7 @@
 "L'Oréal Paris",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Panorama Mascara Brown + Plump Ambition Hyaluron Lip Oil + Hyaluron Tint Lip Stain Serum + FREE Red Pouch At 20% OFF",
@@ -3998,7 +4075,7 @@
 "L'Oréal Paris",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Matte Resistance Liquid Lipstick + Plump Ambition Hyaluron Lip Oil + FREE Croissant Bag Charm At 20% OFF",
@@ -4069,7 +4146,7 @@
 "Factorybundle",
 "L'Oréal Paris"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Hyaluron Expert Replumping Face Serum + Cream + FREE Headband At 15% OFF",
@@ -9894,7 +9971,7 @@
 "D'ELITES",
 "FEATURED_PRODUCTS"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Deep Love Body Splash",
@@ -10149,7 +10226,7 @@
 "FEATURED_PRODUCTS",
 "Skin Glow Edit"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Coconut Body Lotion",
@@ -13921,7 +13998,7 @@
 "FEATURED_PRODUCTS",
 "L'Oréal Paris"
 ],
-"in": true
+"in": false
 },
 {
 "t": "L’Oréal Glass Skin Mask + Glass Skin Liquid Cream + FREE Pouch",
@@ -15204,7 +15281,7 @@
 "L'Oréal Paris",
 "Shop All"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Gift From L'Oréal Paris: Panorama Black Cosmetic Pouch",
@@ -16551,9 +16628,9 @@
 "CPD_ex_april26",
 "CPD_FS26",
 "Discount_26",
+"extra20",
 "FEATURED_PRODUCTS",
-"Lifter_Concealer_26",
-"Makeup"
+"Lifter_Concealer_26"
 ],
 "in": true
 },
@@ -19454,7 +19531,7 @@
 "CPD_ex_april26",
 "CPD_EXC_17March"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Superman Beautifying Face Powder",
@@ -24837,10 +24914,10 @@
 "BP_US",
 "budget20",
 "CPD_FS26",
+"extra20",
 "FEATURED_PRODUCTS",
 "for-her",
-"New In Makeup",
-"NYX"
+"New In Makeup"
 ],
 "in": true
 },
@@ -24856,11 +24933,11 @@
 "BP_US",
 "budget20",
 "CPD_FS26",
+"extra20",
 "for-her",
 "lip liner",
 "NYX",
-"NYX Professional Makeup",
-"NYX2609"
+"NYX Professional Makeup"
 ],
 "in": true
 },
@@ -24897,10 +24974,10 @@
 "buttermeltstix_bun",
 "CPD_ex_626",
 "CPD_FS26",
+"extra20",
 "NYX Professional Makeup",
 "NYX2609",
-"Nyx_>10$",
-"NYX_SINGLE_SKU"
+"Nyx_>10$"
 ],
 "in": true
 },
@@ -24916,11 +24993,11 @@
 "BP_US",
 "budget20",
 "CPD_FS26",
+"extra20",
 "FEATURED_PRODUCTS",
 "for-her",
 "lipstick",
-"New In Makeup",
-"NYX Professional Makeup"
+"New In Makeup"
 ],
 "in": true
 },
@@ -24976,11 +25053,11 @@
 "BP_US",
 "budget20",
 "CPD_FS26",
+"extra20",
 "FEATURED_PRODUCTS",
 "for-her",
 "New In Makeup",
-"NYX Professional Makeup",
-"NYX2609"
+"NYX Professional Makeup"
 ],
 "in": true
 },
@@ -25176,11 +25253,11 @@
 "BP_US",
 "budget20",
 "CPD_FS26",
+"extra20",
 "for-her",
 "lip oil",
 "NYX",
-"NYX Professional Makeup",
-"NYX2609"
+"NYX Professional Makeup"
 ],
 "in": true
 },
@@ -25236,11 +25313,11 @@
 "BP_US",
 "budget20",
 "CPD_FS26",
+"extra20",
 "for-her",
 "lip gloss",
 "NYX",
-"NYX Professional Makeup",
-"NYX2609"
+"NYX Professional Makeup"
 ],
 "in": true
 },
@@ -25617,10 +25694,10 @@
 "budget20",
 "CPD_ex_626",
 "CPD_FS26",
+"extra20",
 "eyeliner",
 "for-her",
-"NYX Professional Makeup",
-"NYX2609"
+"NYX Professional Makeup"
 ],
 "in": true
 },
@@ -25760,7 +25837,7 @@
 "CPD_ex_626",
 "CPD_FS26",
 "Epic_Inky",
-"FEATURED_PRODUCTS"
+"extra20"
 ],
 "in": true
 },
@@ -40388,7 +40465,7 @@
 "Eau Thermale Avène",
 "end-of-year-25-sale"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Pure Reset Lotion Pureté Matifiante",
@@ -48953,7 +49030,7 @@
 "check-sets",
 "dermo must",
 "discount-20-to-30",
-"Kiehl Sampling Campaign"
+"extra20"
 ],
 "in": true
 },
@@ -52787,7 +52864,7 @@
 "Blue_Monday26",
 "BP_France"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Top Coat Fabuleux Gel",
@@ -56983,106 +57060,6 @@
 "dry skin",
 "end-of-year-25-sale",
 "Everything Except LID LLD"
-],
-"in": false
-},
-{
-"t": "Mousse de Douche L'original Pulpe de Poire",
-"u": "https://looliacloset.com/products/pear-pulp-shower-foam-200ml",
-"p": 9.86,
-"c": 19.72,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Untitleddesign-2024-12-27T144220.596.jpg?v=1735303344&width=400",
-"type": "shower foam",
-"tags": [
-"A8_upto60",
-"BF_2025",
-"BP_France",
-"budget10_20",
-"budget20",
-"check-sets",
-"discount-20-to-30",
-"dry skin"
-],
-"in": true
-},
-{
-"t": "My Soothing Skin Care Routine",
-"u": "https://looliacloset.com/products/my-soothing-skin-care-routine",
-"p": 31.88,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Untitleddesign-2024-12-27T143934.618.jpg?v=1735303181&width=400",
-"type": "Set",
-"tags": [
-"BF_2025",
-"BF_GIFT_SET_2025",
-"BP_France",
-"budget20_50",
-"check-sets",
-"christmas-sets-2025",
-"Day21_Ramadan",
-"discount-20-to-30"
-],
-"in": false
-},
-{
-"t": "My Radiant Skin Care Routine",
-"u": "https://looliacloset.com/products/my-radiant-skin-care-routine",
-"p": 31.88,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Untitleddesign-2024-12-27T143621.601.jpg?v=1735302994&width=400",
-"type": "Set",
-"tags": [
-"BF_2025",
-"BF_GIFT_SET_2025",
-"BP_France",
-"budget20_50",
-"check-sets",
-"Christmas Sets | Skincare 2024",
-"christmas-sets-2025",
-"Day21_Ramadan"
-],
-"in": false
-},
-{
-"t": "Intimate Foam without Rinsing Freshness",
-"u": "https://looliacloset.com/products/intimate-foam-without-rinsing-freshness-100ml",
-"p": 17.19,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Untitled_design_23_83cb3e0a-1be3-43ae-8f14-8ebb6394287e.png?v=1756381848&width=400",
-"type": "Intimate Wash",
-"tags": [
-"After Ski Care",
-"BF_2025",
-"BP_France",
-"budget<10",
-"check-sets",
-"Day4_Ramadan",
-"discount-20-to-30",
-"dry skin"
-],
-"in": false
-},
-{
-"t": "Intimate Rinse-In Foam Moisturizing",
-"u": "https://looliacloset.com/products/intimate-moisturizing-no-rinse-intimate-mousse-the-100ml",
-"p": 17.19,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Intimate_Moisturizing_No-Rinse_Intimate_Mousse_100mL.jpg?v=1735302512&width=400",
-"type": "Intimate Wash",
-"tags": [
-"After Ski Care",
-"BF_2025",
-"BP_France",
-"budget10_20",
-"budget20",
-"check-sets",
-"Day4_Ramadan",
-"discount-20-to-30"
 ],
 "in": false
 }
