@@ -1,5 +1,19 @@
 [
 {
+"t": "Free Gift Lipstick Keychain Holder",
+"u": "https://zedstorelb.com/products/free-gift-lipstick-keychain-holder",
+"p": 0.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/543837.webp?v=1792174498&width=400",
+"type": "FREE Gift",
+"tags": [
+"freegift",
+"giftcollection"
+],
+"in": true
+},
+{
 "t": "Ruby Rose Natural Blend Liquid Concealer",
 "u": "https://zedstorelb.com/products/rubyrose-natural-blend-liquid-concealer",
 "p": 3.8,
@@ -1820,7 +1834,7 @@
 "freegift",
 "giftcollection"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Maybelline Tattoo Liner Gel Pot Eyeliner - 950 Blackest Black",
@@ -2462,7 +2476,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/rn-image_picker_lib_temp_b9a3ae76-b4fa-480e-a366-e7046cb720fd.png?v=1790185120&width=400",
 "type": "musk",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "L'Oreal Paris Wrinkle Expert 45+ Anti-Wrinkle Intensive Care SPF 20",
@@ -3097,7 +3111,7 @@
 "loreal",
 "shampoo"
 ],
-"in": false
+"in": true
 },
 {
 "t": "ICE Make Me Shine Top Coat",
@@ -6328,7 +6342,7 @@
 "freegift",
 "giftcollection"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Free Gift L'Oreal Pouch Navy Blue",
@@ -8665,7 +8679,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/PDRN-GLOW-RITUAL-GIFT-SET-MEDICUBE.webp?v=1781945351&width=400",
 "type": "kit",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Skin1004 Madagascar Centella Hyalu-Cica Travel Kit 4pcs",
@@ -11362,7 +11376,7 @@
 "tags": [
 "l'orealskincare"
 ],
-"in": false
+"in": true
 },
 {
 "t": "L'Oreal Paris Infaillible 24H Power Glow Loose Powder",
@@ -11423,7 +11437,7 @@
 "tags": [
 "l'orealskincare"
 ],
-"in": true
+"in": false
 },
 {
 "t": "La Roche-Posay Pure Vitamin C12 Serum 30ml",
@@ -12997,7 +13011,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/GarnierUltraDouxGrapeMoistureHydratingRegenerativeShampooforDehydratedHairWithHydratingGrapeWater_AntioxidantGrapeseedOil600ml_141c9dba-1489-4bb2-8365-a4725cea7287.webp?v=1773481320&width=400",
 "type": "Shampoo",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Garnier Ultra Doux Grape Moisture Hydrating Regenerative Shampoo for Dehydrated Hair 400ml",
@@ -13041,7 +13055,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/GarnierUltraDouxGrapeMoistureDeepRegenerativeMaskforDehydratedHairWithHydratingGrapeWater_AntioxidantGrapeseedOil200ml.webp?v=1773480604&width=400",
 "type": "Mask",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Mug \"على رمشي بتمشي\"",
@@ -13955,7 +13969,7 @@
 "tags": [
 "l'orealmakeup"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Dior Backstage Blush Rosy Glow 001 Pink",
@@ -14359,7 +14373,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/byphasse-balsamo-de-labios-hidratante-1-69739.jpg?v=1769623209&width=400",
 "type": "Lip Balm",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Byphasse Fruity Lip Balm - Melon & Propolis",
@@ -14617,7 +14631,7 @@
 "tags": [
 "Mixa"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Mixa Ceramide Protect Body Lotion - For Dry, Very Dry and Sensitive Skin - 250 ml",
@@ -17098,7 +17112,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/D0011138_essenceDropOfSunshineBronzingDrops.png?v=1763828050&width=400",
 "type": "bronzer",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Essence Somebunny Like You Lipgloss Lipstick 01",
@@ -17565,7 +17579,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/Klorane-Champu-Anticaspa-a-la-Galanga-200-ml.avif?v=1763033031&width=400",
 "type": "Shampoo",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Essence Wow What A Brow Pen Waterproof",
@@ -19894,7 +19908,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/Bombastic_Hand_Cream_New.webp?v=1759941177&width=400",
 "type": "hand cream",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "D'Elite Vanilla Noir Hand Cream",
@@ -26069,7 +26083,7 @@
 "tags": [
 "elviveglycolic"
 ],
-"in": false
+"in": true
 },
 {
 "t": "L'Oreal Paris Elvive Glycolic Gloss Extra Gloss Shampoo for Dull Porous Hair Powered by 3% Glycolic Acid",
@@ -28486,7 +28500,7 @@
 "1212/2025",
 "lorealfinal"
 ],
-"in": false
+"in": true
 },
 {
 "t": "L'Oreal Paris Men Expert Barber Club Beard, Face & Hair Wash 200ml",
@@ -37921,20 +37935,6 @@
 "tags": [
 "dryskincollection",
 "Ruby Beauty Powder Puffs x2 RB-054 (color will be chosen randomly)"
-],
-"in": false
-},
-{
-"t": "Ruby Beauty Makeup Blenders x3 RB-053 (colors will be chosen randomly)",
-"u": "https://zedstorelb.com/products/ruby-beauty-makeup-blenders-x3-rb-053-colors-will-be-chosen-randomly",
-"p": 4.5,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/Color4_9665a38d-491e-435d-b303-49f2a60d5031.webp?v=1726654110&width=400",
-"type": "sponge",
-"tags": [
-"dryskincollection",
-"Ruby Beauty Makeup Blenders x3 RB-053"
 ],
 "in": false
 }

@@ -1,5 +1,21 @@
 [
 {
+"t": "Philips Garment Steamer 1800W",
+"u": "https://kaystore.com/product/philips-garment-steamer-1800w-ste1040/",
+"p": 209.0,
+"c": null,
+"cur": "USD",
+"img": "https://kaystore.com/wp-content/uploads/2026/10/Philips-Garment-Steamer-1800W-STE1040-247x296.jpg",
+"type": "Irons",
+"tags": [
+"Appliances",
+"Clothes",
+"garment steam",
+"irons"
+],
+"in": true
+},
+{
 "t": "CEQ Safe 30EK",
 "u": "https://kaystore.com/product/ceq-safe-30ek/",
 "p": 109.0,
@@ -4334,16 +4350,16 @@
 "p": 872.0,
 "c": 969.0,
 "cur": "USD",
-"img": "https://kaystore.com/wp-content/uploads/2026/08/samsung-247x296.jpg",
+"img": "https://kaystore.com/wp-content/uploads/2026/08/samf-247x296.jpg",
 "type": "Freezers",
 "tags": [
 "big appliances",
+"black",
 "Freezer",
 "Freezer7D",
 "Inverter",
 "nofrost freezer",
-"samsung",
-"silver"
+"samsung"
 ],
 "in": true
 },
@@ -5058,8 +5074,8 @@
 {
 "t": "Kelvinator Dishwasher 13 Settings",
 "u": "https://kaystore.com/product/kelvinator-dishwasher-13-settings-inox/",
-"p": 417.0,
-"c": 490.0,
+"p": 490.0,
+"c": null,
 "cur": "USD",
 "img": "https://kaystore.com/wp-content/uploads/2026/07/KDW-6460-ST-247x296.jpg",
 "type": "Dishwashers",
@@ -5074,8 +5090,8 @@
 {
 "t": "Kelvinator Dishwasher 13 Settings",
 "u": "https://kaystore.com/product/kelvinator-dishwasher-13-settings-blk/",
-"p": 404.0,
-"c": 475.0,
+"p": 475.0,
+"c": null,
 "cur": "USD",
 "img": "https://kaystore.com/wp-content/uploads/2026/07/KDW-6460-BK-247x296.jpg",
 "type": "Dishwashers",
@@ -5090,8 +5106,8 @@
 {
 "t": "Kelvinator Dishwasher 13 Settings",
 "u": "https://kaystore.com/product/kelvinator-dishwasher-13-settings/",
-"p": 409.0,
-"c": 455.0,
+"p": 455.0,
+"c": null,
 "cur": "USD",
 "img": "https://kaystore.com/wp-content/uploads/2026/07/KDW-6450-WW-247x296.jpg",
 "type": "Dishwashers",
@@ -5106,8 +5122,8 @@
 {
 "t": "Kelvinator Washer 10kg 1400RPM",
 "u": "https://kaystore.com/product/kelvinator-washer-10kg-1400rpm-wh/",
-"p": 445.0,
-"c": 524.0,
+"p": 524.0,
+"c": null,
 "cur": "USD",
 "img": "https://kaystore.com/wp-content/uploads/2026/07/WASHER-6-1-1-247x296.jpg",
 "type": "Washers",
@@ -5126,8 +5142,8 @@
 {
 "t": "Kelvinator Washer 10kg 1400RPM",
 "u": "https://kaystore.com/product/kelvinator-washer-10kg-1400rpm/",
-"p": 468.0,
-"c": 550.0,
+"p": 550.0,
+"c": null,
 "cur": "USD",
 "img": "https://kaystore.com/wp-content/uploads/2026/07/WASHER-4-1-1-247x296.jpg",
 "type": "Washers",
@@ -5146,8 +5162,8 @@
 {
 "t": "Kelvinator Washer 8kg 1400RPM",
 "u": "https://kaystore.com/product/kelvinator-washer-8kg-1400rpm-wh/",
-"p": 366.0,
-"c": 430.0,
+"p": 430.0,
+"c": null,
 "cur": "USD",
 "img": "https://kaystore.com/wp-content/uploads/2026/07/WASHER-1-3-1-1-247x296.jpg",
 "type": "Washers",
@@ -5166,8 +5182,8 @@
 {
 "t": "Kelvinator Washer 8kg 1400RPM",
 "u": "https://kaystore.com/product/kelvinator-washer-8kg-1400rpm-slv/",
-"p": 378.0,
-"c": 445.0,
+"p": 445.0,
+"c": null,
 "cur": "USD",
 "img": "https://kaystore.com/wp-content/uploads/2026/07/WASHER-1-4-1-247x296.jpg",
 "type": "Washers",
@@ -5186,8 +5202,8 @@
 {
 "t": "Kelvinator Washer 8kg 1400RPM",
 "u": "https://kaystore.com/product/kelvinator-washer-8kg-1400rpm/",
-"p": 378.0,
-"c": 445.0,
+"p": 445.0,
+"c": null,
 "cur": "USD",
 "img": "https://kaystore.com/wp-content/uploads/2026/07/WASHER-3-2-1-247x296.jpg",
 "type": "Washers",
@@ -5206,8 +5222,8 @@
 {
 "t": "Kelvinator Heat Pump Dryer 9kg",
 "u": "https://kaystore.com/product/kelvinator-heat-pump-dryer-9kg-wh/",
-"p": 499.0,
-"c": 549.0,
+"p": 549.0,
+"c": null,
 "cur": "USD",
 "img": "https://kaystore.com/wp-content/uploads/2026/07/klev-1-247x296.jpg",
 "type": "Dryers",
@@ -5226,8 +5242,8 @@
 {
 "t": "Kelvinator Heat Pump Dryer 9kg",
 "u": "https://kaystore.com/product/kelvinator-heat-pump-dryer-9kg/",
-"p": 485.0,
-"c": 570.0,
+"p": 570.0,
+"c": null,
 "cur": "USD",
 "img": "https://kaystore.com/wp-content/uploads/2026/07/KELV-7-247x296.jpg",
 "type": "Dryers",
@@ -5246,8 +5262,8 @@
 {
 "t": "Kelvinator 4 Doors Fridge",
 "u": "https://kaystore.com/product/kelv-9100fd-st/",
-"p": 1360.0,
-"c": 1600.0,
+"p": 1600.0,
+"c": null,
 "cur": "USD",
 "img": "https://kaystore.com/wp-content/uploads/2026/07/KELV-5-1-247x296.jpg",
 "type": "Refrigerators",
@@ -5265,8 +5281,8 @@
 {
 "t": "Kelvinator 4 Doors Fridge",
 "u": "https://kaystore.com/product/kelvinator-4-doors-fridge/",
-"p": 1360.0,
-"c": 1600.0,
+"p": 1600.0,
+"c": null,
 "cur": "USD",
 "img": "https://kaystore.com/wp-content/uploads/2026/07/KELV-4-247x296.jpg",
 "type": "Refrigerators",
@@ -5284,8 +5300,8 @@
 {
 "t": "Kelvinator Top Mount Fridge 606 Liters",
 "u": "https://kaystore.com/product/kelvinator-top-mount-fridge-606-liters-blk/",
-"p": 880.0,
-"c": 1035.0,
+"p": 1035.0,
+"c": null,
 "cur": "USD",
 "img": "https://kaystore.com/wp-content/uploads/2026/07/klev-247x296.jpg",
 "type": "Refrigerators",
@@ -5302,8 +5318,8 @@
 {
 "t": "Kelvinator Top Mount Fridge 415 Liters",
 "u": "https://kaystore.com/product/kelvinator-top-mount-fridge-415-liters-wh/",
-"p": 616.0,
-"c": 725.0,
+"p": 725.0,
+"c": null,
 "cur": "USD",
 "img": "https://kaystore.com/wp-content/uploads/2026/07/KELV-3-247x296.jpg",
 "type": "Refrigerators",
@@ -5319,8 +5335,8 @@
 {
 "t": "Kelvinator Top Mount Fridge 415 Liters",
 "u": "https://kaystore.com/product/kelvinator-top-mount-fridge-415-liters-inox/",
-"p": 625.0,
-"c": 735.0,
+"p": 735.0,
+"c": null,
 "cur": "USD",
 "img": "https://kaystore.com/wp-content/uploads/2026/07/KELV-2-247x296.jpg",
 "type": "Refrigerators",
@@ -5337,8 +5353,8 @@
 {
 "t": "Kelvinator Top Mount Fridge 415 Liters",
 "u": "https://kaystore.com/product/kelvinator-top-mount-fridge-415-liters/",
-"p": 633.0,
-"c": 745.0,
+"p": 745.0,
+"c": null,
 "cur": "USD",
 "img": "https://kaystore.com/wp-content/uploads/2026/07/KELV-1-247x296.jpg",
 "type": "Refrigerators",
@@ -5355,8 +5371,8 @@
 {
 "t": "Kelvinator Top Mount Fridge 606 Liters",
 "u": "https://kaystore.com/product/kelvinator-top-mount-fridge-606-liters-wh/",
-"p": 842.0,
-"c": 990.0,
+"p": 990.0,
+"c": null,
 "cur": "USD",
 "img": "https://kaystore.com/wp-content/uploads/2026/07/KELV-8400-TF-WW-1-247x296.jpg",
 "type": "Refrigerators",
@@ -5372,8 +5388,8 @@
 {
 "t": "Kelvinator Top Mount Fridge 606 Liters",
 "u": "https://kaystore.com/product/kelvinator-top-mount-fridge-606-liters/",
-"p": 859.0,
-"c": 1010.0,
+"p": 1010.0,
+"c": null,
 "cur": "USD",
 "img": "https://kaystore.com/wp-content/uploads/2026/07/KELV-8400-TF-ST-2-247x296.jpg",
 "type": "Refrigerators",
@@ -10798,11 +10814,11 @@
 },
 {
 "t": "Sharp Fridge 480 Liters",
-"u": "https://kaystore.com/product/sharp-fridge-480-liters-stainless/",
+"u": "https://kaystore.com/product/sharp-sj-pv63-st-fridge-480-liters/",
 "p": 827.0,
 "c": 1132.0,
 "cur": "USD",
-"img": "https://kaystore.com/wp-content/uploads/2026/05/sharp-refrigerator-480-liter-inverter-digital-no-frost-2-doors-stainless-color-sj-pv63g-st-1-247x296.jpg",
+"img": "https://kaystore.com/wp-content/uploads/2026/05/Sharp-SJ-PV63-ST-247x296.jpg",
 "type": "Refrigerators",
 "tags": [
 "Appliances",
@@ -22236,11 +22252,11 @@
 },
 {
 "t": "Sharp Fridge 27 CFT",
-"u": "https://kaystore.com/product/sharp-fridge-27-cft-sjgt820sl/",
+"u": "https://kaystore.com/product/sharp-sj-gt820s-sl-fridge-27cft/",
 "p": 1439.0,
 "c": 2169.0,
 "cur": "USD",
-"img": "https://kaystore.com/wp-content/uploads/2026/03/SHARP-SLV-SJGT820SL-247x296.jpg",
+"img": "https://kaystore.com/wp-content/uploads/2026/03/Sharp-SJ-GT820S-SL-247x296.jpg",
 "type": "Refrigerators",
 "tags": [
 "Appliances",
@@ -22532,11 +22548,11 @@
 },
 {
 "t": "Sharp French Door 26 CFT",
-"u": "https://kaystore.com/product/sharp-french-door-26-cft-sjfs85vbk5/",
+"u": "https://kaystore.com/product/sharp-sj-fs85v-bk5-refrigerator-26cft/",
 "p": 2627.0,
 "c": 2919.0,
 "cur": "USD",
-"img": "https://kaystore.com/wp-content/uploads/2021/03/SJFS87VBK5-247x296.jpg",
+"img": "https://kaystore.com/wp-content/uploads/2026/03/sharp-SJ-FS85V-BK5-247x296.jpg",
 "type": "Refrigerators",
 "tags": [
 "Appliances",
@@ -25990,11 +26006,11 @@
 },
 {
 "t": "Sharp Fridge 23 CFT",
-"u": "https://kaystore.com/product/sharp-fridge-23-cft-sl/",
+"u": "https://kaystore.com/product/sharp-sj-pv69-sl-fridge-23-cft/",
 "p": 899.0,
 "c": 1409.0,
 "cur": "USD",
-"img": "https://kaystore.com/wp-content/uploads/2026/02/SJ-PV69SL-2-247x296.jpg",
+"img": "https://kaystore.com/wp-content/uploads/2026/02/Sharp-SJ-PV69-SL-247x296.jpg",
 "type": "Refrigerators",
 "tags": [
 "23ft",
@@ -33423,6 +33439,22 @@
 "in": true
 },
 {
+"t": "Philips Robot Vaccum 2in1",
+"u": "https://kaystore.com/product/philips-robot-vaccum-2in1-2/",
+"p": 779.0,
+"c": null,
+"cur": "USD",
+"img": "https://kaystore.com/wp-content/uploads/2025/11/i138996-247x296.jpg",
+"type": "Vacuum Cleaners",
+"tags": [
+"Appliances",
+"Home cleaner",
+"Robot vacuum",
+"vacuum cleaner"
+],
+"in": true
+},
+{
 "t": "Philips Thermoshield Straightener",
 "u": "https://kaystore.com/product/philips-thermoshield-straightener/",
 "p": 192.0,
@@ -33446,6 +33478,21 @@
 "c": null,
 "cur": "USD",
 "img": "https://kaystore.com/wp-content/uploads/2025/11/Philips-Steam-Iron-DST7012-247x296.jpg",
+"type": "Irons",
+"tags": [
+"Appliances",
+"Clothes",
+"irons"
+],
+"in": true
+},
+{
+"t": "Philips Steam Iron 2200W",
+"u": "https://kaystore.com/product/philips-steam-iron-2200w/",
+"p": 79.0,
+"c": null,
+"cur": "USD",
+"img": "https://kaystore.com/wp-content/uploads/2025/11/I138986-247x296.jpg",
 "type": "Irons",
 "tags": [
 "Appliances",
@@ -33547,6 +33594,22 @@
 "Hair Curler",
 "Hair Dryer",
 "Hair Styler"
+],
+"in": true
+},
+{
+"t": "Philips Garment Steamer 1800W",
+"u": "https://kaystore.com/product/philips-garment-steamer-1800w-2/",
+"p": 159.0,
+"c": null,
+"cur": "USD",
+"img": "https://kaystore.com/wp-content/uploads/2025/11/i138984-247x296.png",
+"type": "Irons",
+"tags": [
+"Appliances",
+"Clothes",
+"garment steam",
+"irons"
 ],
 "in": true
 },
@@ -33688,11 +33751,11 @@
 },
 {
 "t": "Sharp Fridge 27 CFT",
-"u": "https://kaystore.com/product/sharp-fridge-27-cft-sj-gt820s-ds3/",
+"u": "https://kaystore.com/product/sharp-sj-gt820s-ds3-fridge-27-cft/",
 "p": 1439.0,
 "c": 2169.0,
 "cur": "USD",
-"img": "https://kaystore.com/wp-content/uploads/2025/11/SHARP-SJ-GT820S-DS3-247x296.jpg",
+"img": "https://kaystore.com/wp-content/uploads/2025/11/SHARP-SJ-GT820S-DS3-1-247x296.jpg",
 "type": "Refrigerators",
 "tags": [
 "Appliances",
@@ -45180,6 +45243,22 @@
 "in": true
 },
 {
+"t": "Philips Steam Generator 6 Bar",
+"u": "https://kaystore.com/product/philips-steam-generator-6-bar/",
+"p": 369.0,
+"c": null,
+"cur": "USD",
+"img": "https://kaystore.com/wp-content/uploads/2025/06/I125985-247x296.jpg",
+"type": "Irons",
+"tags": [
+"Appliances",
+"Clothes",
+"irons",
+"steam generator"
+],
+"in": true
+},
+{
 "t": "Brother Label Printer PT-E110VP",
 "u": "https://kaystore.com/product/brother-label-printer-pt-e110vp/",
 "p": 95.0,
@@ -51841,86 +51920,6 @@
 "J-Line",
 "La Maison",
 "Pitcher",
-"Tableware"
-],
-"in": true
-},
-{
-"t": "Salt & Pepper Granada Stripes Ceramic Orange",
-"u": "https://kaystore.com/product/salt-pepper-granada-stripes-ceramic-orange/",
-"p": 22.0,
-"c": 32.0,
-"cur": "USD",
-"img": "https://kaystore.com/wp-content/uploads/2025/06/I134352-247x296.jpg",
-"type": "La Maison, Salt &amp; Pepper Shakers",
-"tags": [
-"J-Line",
-"Kitchenware",
-"La Maison",
-"Salt&amp;Pepper"
-],
-"in": true
-},
-{
-"t": "Lebrillo Bowl Granada Stripes Ceramic Orange",
-"u": "https://kaystore.com/product/lebrillo-bowl-granada-stripes-ceramic-orange/",
-"p": 55.0,
-"c": 79.0,
-"cur": "USD",
-"img": "https://kaystore.com/wp-content/uploads/2025/06/I134350-1-247x296.jpg",
-"type": "Bowls, La Maison",
-"tags": [
-"Bowls",
-"J-Line",
-"La Maison",
-"Tableware"
-],
-"in": true
-},
-{
-"t": "Bowl Granada Stripes High Ceramic Orange Large",
-"u": "https://kaystore.com/product/bowl-granada-stripes-high-ceramic-orange-large/",
-"p": 29.0,
-"c": 42.0,
-"cur": "USD",
-"img": "https://kaystore.com/wp-content/uploads/2025/06/I134349-1-247x296.jpg",
-"type": "Bowls, La Maison",
-"tags": [
-"Bowls",
-"J-Line",
-"La Maison",
-"Tableware"
-],
-"in": true
-},
-{
-"t": "Bowl Granada Stripes High Ceramic Orange Medium",
-"u": "https://kaystore.com/product/bowl-granada-stripes-high-ceramic-orange-medium/",
-"p": 18.0,
-"c": 26.0,
-"cur": "USD",
-"img": "https://kaystore.com/wp-content/uploads/2025/05/I134348-1-247x296.jpg",
-"type": "Bowls, La Maison",
-"tags": [
-"Bowls",
-"J-Line",
-"La Maison",
-"Tableware"
-],
-"in": true
-},
-{
-"t": "Bowl Granada Stripes High Ceramic Orange Small",
-"u": "https://kaystore.com/product/bowl-granada-stripes-high-ceramic-orange-small/",
-"p": 13.0,
-"c": 18.0,
-"cur": "USD",
-"img": "https://kaystore.com/wp-content/uploads/2025/05/I134347-2-247x296.jpg",
-"type": "Bowls, La Maison",
-"tags": [
-"Bowls",
-"J-Line",
-"La Maison",
 "Tableware"
 ],
 "in": true
