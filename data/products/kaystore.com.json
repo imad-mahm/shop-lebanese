@@ -1,5 +1,51 @@
 [
 {
+"t": "Philips Bagless Vacuum Cleaner",
+"u": "https://kaystore.com/product/philips-bagless-vacuum-xb2023/",
+"p": 179.0,
+"c": null,
+"cur": "USD",
+"img": "https://kaystore.com/wp-content/uploads/2026/10/Philips-Bagless-Vacuum-XB2023-247x296.jpg",
+"type": "Vacuum Cleaners",
+"tags": [
+"Appliances",
+"bagless",
+"Home cleaner",
+"vacuum cleaner"
+],
+"in": true
+},
+{
+"t": "Philips Steam Iron 2600W",
+"u": "https://kaystore.com/product/philips-steam-iron-dst6120/",
+"p": 219.0,
+"c": null,
+"cur": "USD",
+"img": "https://kaystore.com/wp-content/uploads/2026/10/Philips-Steam-Iron-DST6120-247x296.jpg",
+"type": "Irons",
+"tags": [
+"Appliances",
+"Clothes",
+"irons"
+],
+"in": true
+},
+{
+"t": "Philips Steam Iron 2000W",
+"u": "https://kaystore.com/product/philips-steam-iron-dst2020/",
+"p": 59.0,
+"c": null,
+"cur": "USD",
+"img": "https://kaystore.com/wp-content/uploads/2026/10/Philips-Steam-Iron-DST2020-247x296.jpg",
+"type": "Irons",
+"tags": [
+"Appliances",
+"Clothes",
+"irons"
+],
+"in": true
+},
+{
 "t": "Philips Garment Steamer 1800W",
 "u": "https://kaystore.com/product/philips-garment-steamer-1800w-ste1040/",
 "p": 209.0,
@@ -5348,7 +5394,7 @@
 "Refrigerator",
 "silver"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Kelvinator Top Mount Fridge 415 Liters",
@@ -51873,54 +51919,6 @@
 "J-Line",
 "Kitchenware",
 "La Maison"
-],
-"in": true
-},
-{
-"t": "Pitcher Granada Stripes Ceramic Orange Large",
-"u": "https://kaystore.com/product/pitcher-granada-stripes-ceramic-orange-large/",
-"p": 37.0,
-"c": 53.0,
-"cur": "USD",
-"img": "https://kaystore.com/wp-content/uploads/2025/06/I134355-1-247x296.jpg",
-"type": "Bar Accessories, La Maison",
-"tags": [
-"J-Line",
-"La Maison",
-"Pitcher",
-"Tableware"
-],
-"in": true
-},
-{
-"t": "Pitcher Granada Stripes Ceramic Orange Medium",
-"u": "https://kaystore.com/product/pitcher-granada-stripes-ceramic-orange-medium/",
-"p": 29.0,
-"c": 42.0,
-"cur": "USD",
-"img": "https://kaystore.com/wp-content/uploads/2025/06/I134354-1-247x296.jpg",
-"type": "Bar Accessories, La Maison",
-"tags": [
-"J-Line",
-"La Maison",
-"Pitcher",
-"Tableware"
-],
-"in": true
-},
-{
-"t": "Pitcher Granada Stripes Ceramic Orange Small",
-"u": "https://kaystore.com/product/pitcher-granada-stripes-ceramic-orange-small/",
-"p": 22.0,
-"c": 31.0,
-"cur": "USD",
-"img": "https://kaystore.com/wp-content/uploads/2025/05/I134353-3-247x296.jpg",
-"type": "Bar Accessories, La Maison",
-"tags": [
-"J-Line",
-"La Maison",
-"Pitcher",
-"Tableware"
 ],
 "in": true
 }

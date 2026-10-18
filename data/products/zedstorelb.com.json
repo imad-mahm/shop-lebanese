@@ -3676,7 +3676,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/thebrightset_grande_a0bcb84c-bab0-4132-9a11-62a301174e96.webp?v=1788616548&width=400",
 "type": "Skincare Set",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Lancome Idole Travel Exclusive Set - EDP & Lash Lifting Mascara",
@@ -10395,7 +10395,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/0607845070306.webp?v=1778579169&width=400",
 "type": "Mascara",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Huda Beauty Lip Contour 2.0 Velvety Matte Lipliner",
@@ -17546,7 +17546,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/oil-control-gel-benefits-nine-LG.jpg?v=1763035022&width=400",
 "type": "Cream",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Cerave Resurfacing Retinol Serum 30ml",
@@ -32780,7 +32780,7 @@
 "tags": [
 "sephoracollection"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Dali Eye Pencil Waterproof",
@@ -33180,7 +33180,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/Hair-Balm.webp?v=1734099458&width=400",
 "type": "hair mask",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Avene Soothing Skin Recovery Balm 40ml",
@@ -33532,7 +33532,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/Yara-Candy-Perfume-100ml-EDP-Lattafa-149858487.webp?v=1732097353&width=400",
 "type": "perfume",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "NYX Buttermelt Bronzer",
