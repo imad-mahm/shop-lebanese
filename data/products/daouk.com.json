@@ -1,19 +1,20 @@
 [
 {
-"t": "PROCARMEN HEAT BRUSH",
+"t": "ProCarmen Heat Brush",
 "u": "https://daouk.com/products/procarmen-heat-brush",
 "p": 39.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/procarmen-heat-brush-izzat-daouk-1.jpg?v=1792171298&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/4CE05730-F964-40DF-83F8-BA49F234738A.png?v=1792229253&width=400",
 "type": "",
 "tags": [
+"kb-rewritten",
 "seo-rewritten"
 ],
 "in": true
 },
 {
-"t": "7Elements Essential Dead Sea Products Multi Tasking Day Cream - 50ml",
+"t": "7Elements Multi Tasking Day Cream 50ml",
 "u": "https://daouk.com/products/7elements-essential-dead-sea-products-multi-tasking-day-cream-50ml",
 "p": 39.0,
 "c": null,
@@ -21,12 +22,13 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/7elements-dead-sea-multi-tasking-day-cream-50ml-izzat-daouk-1.jpg?v=1792131020&width=400",
 "type": "",
 "tags": [
+"kb-rewritten",
 "seo-rewritten"
 ],
 "in": true
 },
 {
-"t": "7Elements Facial Mineral Beauty Serum (33ml).",
+"t": "7Elements Facial Mineral Beauty Serum 33ml",
 "u": "https://daouk.com/products/7elements-facial-mineral-beauty-serum-33ml",
 "p": 26.0,
 "c": null,
@@ -34,12 +36,13 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/7elements-facial-mineral-beauty-serum-33ml-izzat-daouk-1.jpg?v=1792131020&width=400",
 "type": "",
 "tags": [
+"kb-rewritten",
 "seo-rewritten"
 ],
 "in": true
 },
 {
-"t": "7Elements- Anti-aging Cream- 50 ml",
+"t": "7Elements Anti Aging Cream 50ml",
 "u": "https://daouk.com/products/untitled-oct13_11-32-57",
 "p": 26.0,
 "c": null,
@@ -47,12 +50,13 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/7elements-anti-aging-cream-50ml-izzat-daouk-1.jpg?v=1792131020&width=400",
 "type": "",
 "tags": [
+"kb-rewritten",
 "seo-rewritten"
 ],
 "in": true
 },
 {
-"t": "7elements Intimate Zone Cream _ 50 ml.",
+"t": "7Elements Intimate Zone Cream 50ml",
 "u": "https://daouk.com/products/7elements-intimate-zone-cream-_-50-ml",
 "p": 18.0,
 "c": null,
@@ -60,12 +64,13 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/7elements-intimate-zone-cream-50ml-izzat-daouk-1.jpg?v=1792131020&width=400",
 "type": "",
 "tags": [
+"kb-rewritten",
 "seo-rewritten"
 ],
 "in": true
 },
 {
-"t": "7Elements Sunscreen Lotion SPF 50_ 75 ml.",
+"t": "7Elements Sunscreen Lotion SPF 50 75ml",
 "u": "https://daouk.com/products/7elements-sunscreen-lotion-spf-50_-75-ml",
 "p": 22.0,
 "c": null,
@@ -73,12 +78,13 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/7elements-sunscreen-lotion-spf-50-75ml-izzat-daouk-1.jpg?v=1792131020&width=400",
 "type": "",
 "tags": [
+"kb-rewritten",
 "seo-rewritten"
 ],
 "in": true
 },
 {
-"t": "PHILIPS BHD274/03 DRYCARE HAIR DRYER 2200W",
+"t": "Philips BHD274/03 DryCare Hair Dryer 2200W",
 "u": "https://daouk.com/products/philips-bhd274-03-drycare-hair-dryer-2200w",
 "p": 99.0,
 "c": null,
@@ -86,12 +92,13 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/philips-bhd274-03-drycare-hair-dryer-2200w-izzat-daouk-1.jpg?v=1792131021&width=400",
 "type": "",
 "tags": [
+"kb-rewritten",
 "seo-rewritten"
 ],
 "in": true
 },
 {
-"t": "PHILIPS BHD360/23 HAIRDRYER 2100W",
+"t": "Philips BHD360/23 Hair Dryer 2100W",
 "u": "https://daouk.com/products/philips-bhd360-23-hairdryer-2100w",
 "p": 60.0,
 "c": null,
@@ -99,6 +106,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/philips-bhd360-23-hair-dryer-2100w-izzat-daouk-1.webp?v=1792131020&width=400",
 "type": "",
 "tags": [
+"kb-rewritten",
 "seo-rewritten"
 ],
 "in": true
@@ -15768,7 +15776,7 @@
 "KERASTASE",
 "seo-rewritten"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Kerastase Discipline Fluidissime Spray 150ml",
@@ -22475,7 +22483,7 @@
 "p": 83.0,
 "c": 94.75,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/henbor-professional-6-inch-brillan-scissor-13621-izzat-daouk-1.webp?v=1791467104&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/henbor-professional-6-inch-brillan-scissor-13621-izzat-daouk-1.webp?v=1792279659&width=400",
 "type": "scissors",
 "tags": [
 "kb-rewritten",

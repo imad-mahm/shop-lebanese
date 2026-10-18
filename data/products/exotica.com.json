@@ -158,7 +158,7 @@
 "Pink October",
 "Roses"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Endless Joy",
@@ -677,7 +677,7 @@
 "Flowers",
 "For Her"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Harvest Hues",
@@ -699,7 +699,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Autumn_Breeze_2.png?v=1789555758&width=400",
 "type": "Flowers",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Purple Haze",
@@ -721,7 +721,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Burnt_Orange.png?v=1789555103&width=400",
 "type": "Flowers",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Blush Garden",
@@ -830,7 +830,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/October_Sunset_-_Autumn_Flower.jpg?v=1789546158&width=400",
 "type": "Flowers",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Golden Meadow",
@@ -847,7 +847,7 @@
 "Mixed Flowers",
 "Orange"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Cookie & Bloom",
@@ -858,7 +858,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Cookie_Bloom_-_Fall_Flower_with_cookies_1.jpg?v=1789547018&width=400",
 "type": "Flowers",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Colours of Fall",
@@ -906,7 +906,7 @@
 "Mixed Colors",
 "Mixed Flowers"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Sunny Harvest",
@@ -986,7 +986,7 @@
 "Mixed Flowers",
 "Orange"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Sagittarius Celebrations",
@@ -1425,7 +1425,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Berry_Blush.jpg?v=1791443253&width=400",
 "type": "Flowers",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Lilac Hugs",
@@ -1834,7 +1834,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Into_the_Spotlight.jpg?v=1791448089&width=400",
 "type": "Flowers",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Summer's Glow",
@@ -1965,7 +1965,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/sables_mini.jpg?v=1779106320&width=400",
 "type": "Add-Ons",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Mionetto Prosecco Rosé Mini",
@@ -2189,7 +2189,7 @@
 "For Him",
 "For Kids"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Birthday Cake",
@@ -2424,7 +2424,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/StrawberrySunset.jpg?v=1791468292&width=400",
 "type": "Flowers",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Spring Symphony",
@@ -2704,7 +2704,7 @@
 "Mixed Colors",
 "Mixed Flowers"
 ],
-"in": true
+"in": false
 },
 {
 "t": "S-Shape Elm Bonsai",
@@ -2784,7 +2784,7 @@
 "For Teta",
 "Get Well Soon"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Artificial Dracaena Reflexa",
@@ -3190,7 +3190,7 @@
 "For Him",
 "For Kids"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Vibrant Rose Box",
@@ -4131,7 +4131,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/frame_e1367ce7-541b-4ef4-9fb9-7b5323547de1.jpg?v=1759413582&width=400",
 "type": "Add-Ons",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Bamboo Orchid",
@@ -4420,7 +4420,7 @@
 {
 "t": "Splendid Roses",
 "u": "https://exotica.com/products/splendid-roses",
-"p": 162.0,
+"p": 175.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Splended-Roses_771aa16d-58d2-4446-959c-36053aee482a.jpg?v=1735638170&width=400",
@@ -4551,7 +4551,7 @@
 "For Mom",
 "Graduation"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Floral Cheers",
@@ -5301,7 +5301,7 @@
 "Get Well Soon",
 "Graduation"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Love Tenderly",
@@ -5444,7 +5444,7 @@
 "For Him",
 "For Kids"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Cheers!",
@@ -5539,7 +5539,7 @@
 "For Kids",
 "For Mom"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Blush Elegance",
@@ -5989,7 +5989,7 @@
 "Love & Romance",
 "Red"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Desert Giant",
@@ -6021,7 +6021,7 @@
 "Red",
 "Roses"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Tender Feeling",
@@ -6037,7 +6037,7 @@
 "Mixed Flowers",
 "Pink"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Guardian Angel",
@@ -6053,7 +6053,7 @@
 "Roses",
 "White"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Serene Blessings",
