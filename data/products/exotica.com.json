@@ -279,7 +279,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/DracaenaJoy.png?v=1791202143&width=400",
 "type": "Plants",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Peace Lily",
@@ -415,7 +415,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Bear_in_Blue_Pyjamas_with_Cushion.jpg?v=1790315035&width=400",
 "type": "Add-Ons",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Happy Anniversary Balloon",
@@ -721,7 +721,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Burnt_Orange.png?v=1789555103&width=400",
 "type": "Flowers",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Blush Garden",
@@ -758,7 +758,7 @@
 "Mixed Flowers",
 "Orange"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Amber Glow",
@@ -830,7 +830,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/October_Sunset_-_Autumn_Flower.jpg?v=1789546158&width=400",
 "type": "Flowers",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Golden Meadow",
@@ -869,7 +869,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/ColoursofFall_2.png?v=1789626006&width=400",
 "type": "Flowers",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Fallen Leaves",
@@ -986,7 +986,7 @@
 "Mixed Flowers",
 "Orange"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Sagittarius Celebrations",
@@ -1198,34 +1198,12 @@
 "in": true
 },
 {
-"t": "Texas Sage",
-"u": "https://exotica.com/products/texas-sage",
-"p": 83.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Texas_Sage.jpg?v=1785911897&width=400",
-"type": "Plants",
-"tags": [],
-"in": true
-},
-{
 "t": "Purple Fountain Grass",
 "u": "https://exotica.com/products/purple-fountain-grass",
 "p": 56.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/FRA00936.jpg?v=1785911059&width=400",
-"type": "Plants",
-"tags": [],
-"in": true
-},
-{
-"t": "Lavender Ruellia",
-"u": "https://exotica.com/products/lavender-ruellia",
-"p": 78.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Ruellia_simplex.jpg?v=1785910963&width=400",
 "type": "Plants",
 "tags": [],
 "in": true
@@ -1425,7 +1403,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Berry_Blush.jpg?v=1791443253&width=400",
 "type": "Flowers",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Lilac Hugs",
@@ -1614,7 +1592,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Strong_Roots_Strong_Dad_LIFESTYLE.jpg?v=1781685841&width=400",
 "type": "Plants",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Little Prince",
@@ -1834,7 +1812,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Into_the_Spotlight.jpg?v=1791448089&width=400",
 "type": "Flowers",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Summer's Glow",
@@ -2189,7 +2167,7 @@
 "For Him",
 "For Kids"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Birthday Cake",
@@ -2424,7 +2402,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/StrawberrySunset.jpg?v=1791468292&width=400",
 "type": "Flowers",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Spring Symphony",
@@ -2704,7 +2682,7 @@
 "Mixed Colors",
 "Mixed Flowers"
 ],
-"in": false
+"in": true
 },
 {
 "t": "S-Shape Elm Bonsai",
@@ -4131,7 +4109,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/frame_e1367ce7-541b-4ef4-9fb9-7b5323547de1.jpg?v=1759413582&width=400",
 "type": "Add-Ons",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Bamboo Orchid",
@@ -6021,7 +5999,7 @@
 "Red",
 "Roses"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Tender Feeling",
@@ -6037,7 +6015,7 @@
 "Mixed Flowers",
 "Pink"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Guardian Angel",
@@ -6347,7 +6325,7 @@
 "Red",
 "Roses"
 ],
-"in": false
+"in": true
 },
 {
 "t": "IXSIR Grande Réserve Red Lebanon",

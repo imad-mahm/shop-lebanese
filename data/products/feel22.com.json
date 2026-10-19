@@ -1,5 +1,129 @@
 [
 {
+"t": "L’Oréal Paris x Faces Of Feel22: Ghadeer Ghosn's Bundle",
+"u": "https://feel22.com/products/l-oreal-paris-x-faces-of-feel22-ghadeer-ghosn-s-bundle",
+"p": 38.18,
+"c": 50.9,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/L_OrealParisxFacesOfFeel22_GhadeerGhosn_sBundle.png?v=1792403679&width=400",
+"type": "Makeup Gifts and Sets",
+"tags": [
+"facesloreal1026"
+],
+"in": true
+},
+{
+"t": "L’Oréal Paris x Faces Of Feel22: Jenny Hakimian's Bundle",
+"u": "https://feel22.com/products/l-oreal-paris-x-faces-of-feel22-jenny-hakimian-s-bundle",
+"p": 27.15,
+"c": 36.2,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/L_OrealParisxFacesOfFeel22_JennyHakimian_sBundle.png?v=1792160530&width=400",
+"type": "Makeup Gifts and Sets",
+"tags": [
+"facesloreal1026"
+],
+"in": true
+},
+{
+"t": "L’Oréal Paris x Faces Of Feel22: Aya kabbara's Bundle",
+"u": "https://feel22.com/products/l-oreal-paris-x-faces-of-feel22-aya-kabbara-s-bundle",
+"p": 35.03,
+"c": 46.7,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/L_OrealParisxFacesOfFeel22_Ayakabbara_sBundle.png?v=1792158900&width=400",
+"type": "Makeup Gifts and Sets",
+"tags": [
+"facesloreal1026"
+],
+"in": true
+},
+{
+"t": "Cosrx The Retinol 0.1 Cream",
+"u": "https://feel22.com/products/cosrx-the-retinol-0-1-cream",
+"p": 27.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/D0010661_78.png?v=1713793709&width=400",
+"type": "Day and Night Cream",
+"tags": [
+"1hbt726",
+"1HBT826",
+"1STHBT226",
+"ANNIVERSARYBRANDS",
+"cosfree",
+"COSRX126",
+"COSRX325",
+"EVERYTHING"
+],
+"in": true
+},
+{
+"t": "L’Oréal Paris x Faces Of Feel22: Jana Baydoun's Bundle",
+"u": "https://feel22.com/products/l-oreal-paris-x-faces-of-feel22-jana-baydoun-s-bundle",
+"p": 25.8,
+"c": 34.4,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/L_OrealParisxJanaBaydounBundle.png?v=1792148539&width=400",
+"type": "Suncare Gifts and Sets",
+"tags": [
+"facesloreal1026"
+],
+"in": true
+},
+{
+"t": "Avène Couvrance Mosaic Face Setting Powder 10g",
+"u": "https://feel22.com/products/avene-mosaic-powders-10g-copy",
+"p": 25.5,
+"c": 34.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Sun2AveneCouvranceMosaicFaceSettingPowder10g.png?v=1792413378&width=400",
+"type": "Powder",
+"tags": [
+"1STWAVE826PHARMA",
+"2ndavmissing126",
+"99PHARMA",
+"ADHAPHARMA26",
+"ALLPF1224",
+"allpharma1125",
+"ALLPIERREFABRE",
+"ANNIVERSARYBRANDS"
+],
+"in": true
+},
+{
+"t": "La Roche-Posay Mela B3 Double dose Serum, day & night intensive treatment for sunspots and age marks powered by multi-patented anti-pigmentation Melasyl and Proxylane",
+"u": "https://feel22.com/products/la-roche-posay-mela-b3-double-dose-day-night-intensive-treatment-for-sunspots-and-age-marks-powered-by-multi-patented-anti-pigmentation-melasyl-and-proxylane",
+"p": 50.92,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/LaRoche-PosayMelaB3DoubleDose.png?v=1792074226&width=400",
+"type": "Serum and Treatment",
+"tags": [
+"OCTSKU26",
+"PHARMAALL"
+],
+"in": true
+},
+{
+"t": "Anastasia Beverly Hills Pink Makeup Pouch",
+"u": "https://feel22.com/products/anastasia-beverly-hills-pink-makeup-pouch",
+"p": 0.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshotstemp-Lynn_637577af-7e03-4d28-909a-58e5c180eb99.png?v=1792399017&width=400",
+"type": "GWP",
+"tags": [
+"ABH1125",
+"HBDLUXE25",
+"Hidden recommendation",
+"LUXEALL",
+"nobundles",
+"SEARCHANISE_IGNORE"
+],
+"in": true
+},
+{
 "t": "L'Oréal Paris Infallible 24H Tinted Serum Duo Bundle + Free Clips",
 "u": "https://feel22.com/products/loreal-paris-infallible-24h-tinted-serum-duo-bundle-free-brush",
 "p": 28.8,
@@ -392,7 +516,7 @@
 "tags": [
 "starry1026"
 ],
-"in": true
+"in": false
 },
 {
 "t": "L’Oréal Paris Double Telescopic Mascara Bundle At 20% Off",
@@ -2327,20 +2451,6 @@
 "in": true
 },
 {
-"t": "Cerave Set of T-shape Pouches Gift",
-"u": "https://feel22.com/products/cerave-set-of-t-shape-pouches-gift",
-"p": 0.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/CeraveSetofT-shapePouchesGift.png?v=1791450452&width=400",
-"type": "GWP",
-"tags": [
-"Hidden recommendation",
-"SEARCHANISE_IGNORE"
-],
-"in": false
-},
-{
 "t": "Hackett Toilettery Bag Gift",
 "u": "https://feel22.com/products/hackett-toilettery-bag-gift",
 "p": 0.0,
@@ -2435,7 +2545,7 @@
 "Hidden recommendation",
 "SEARCHANISE_IGNORE"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Essence Juicy Bomb Plumping Lipgloss",
@@ -2477,7 +2587,7 @@
 "EVERYTHING",
 "SC15"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Dove For Women Antiperspirant Cucumber&Green Tea Deodorant Spray 250ML",
@@ -3974,7 +4084,7 @@
 "tags": [
 "defile926"
 ],
-"in": true
+"in": false
 },
 {
 "t": "L’Oréal Paris Voluminous & Infallible Bundle At 20% Off + Free Pouch",
@@ -4139,7 +4249,7 @@
 "CPDALL426",
 "SEARCHANISE_IGNORE"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Eucerin Pouch With 2 Minis GIFT",
@@ -5077,7 +5187,7 @@
 "tags": [
 "SEPSKU26"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Truyu Blackhead Remover",
@@ -5155,7 +5265,7 @@
 "tags": [
 "SEPSKU26"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Truyu Emery Boards 10 Pack Set",
@@ -5311,7 +5421,7 @@
 "tags": [
 "SEPSKU26"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Truyu Tweeze & Shape Kit Set",
@@ -5324,7 +5434,7 @@
 "tags": [
 "SEPSKU26"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Truyu Gold Easy View Tweezers",
@@ -5350,7 +5460,7 @@
 "tags": [
 "SEPSKU26"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Truyu Compact Mirror & Tweezer Set",
@@ -6658,7 +6768,7 @@
 "CPDTODO426",
 "DEC25"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Mixa Body Cream Jar Duo Bundle + Free Body Scrubber",
@@ -7782,7 +7892,7 @@
 "tags": [
 "AUGSKU26"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Rosy The Panda Bridal Cream Blush Brush",
@@ -9213,7 +9323,7 @@
 {
 "t": "Colgate Kids Toothbrush Barbie/Batman Assorted 2-5 Years Extra Soft Manual Toothbrush 1pk",
 "u": "https://feel22.com/products/colgate-kids-toothbrush-barbie-batman-assorted-2-5-years-extra-soft-manual-toothbrush-1pk",
-"p": 3.54,
+"p": 3.72,
 "c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/41kVMaCFaGL._AC_SY780_4664bb2b-a0d6-4766-94ec-3314debbd2f8.jpg?v=1617709479&width=400",
@@ -9507,8 +9617,8 @@
 {
 "t": "Palmolive Citrus & Cream Bar Soap 90g",
 "u": "https://feel22.com/products/palmolive-citrus-cream-bar-soap",
-"p": 0.76,
-"c": 0.95,
+"p": 1.01,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/PalmoliveCitrus_CreamBarSoap90g.png?v=1767968880&width=400",
 "type": "Hand and Body Soap",
@@ -9516,7 +9626,6 @@
 "20PALMBS1026",
 "ANNIVERSARYBRANDS",
 "EVERYTHING",
-"OCT26",
 "PLSBAR926"
 ],
 "in": true
@@ -9524,8 +9633,8 @@
 {
 "t": "Palmolive Milk & Rose Bar Soap 90g",
 "u": "https://feel22.com/products/palmolive-milk-rose-bar-soap",
-"p": 0.73,
-"c": 0.91,
+"p": 1.01,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/PalmoliveMilk_RoseBarSoap90g.png?v=1767968810&width=400",
 "type": "Hand and Body Soap",
@@ -9533,7 +9642,6 @@
 "20PALMBS1026",
 "ANNIVERSARYBRANDS",
 "EVERYTHING",
-"OCT26",
 "PLSBAR926"
 ],
 "in": true
@@ -11696,7 +11804,7 @@
 "tags": [
 "MUPSKINALL926"
 ],
-"in": true
+"in": false
 },
 {
 "t": "HaruHaru Wonder Black Rice Facial Oil",
@@ -12342,17 +12450,14 @@
 {
 "t": "Palmolive Aroma Sensations Restful Sleep",
 "u": "https://feel22.com/products/palmolive-aroma-sensations-restful-sleep",
-"p": 3.76,
-"c": 5.37,
+"p": 5.16,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/PalmoliveAromaSensationsRestfulSleep500ml.png?v=1784797299&width=400",
 "type": "Shampoo",
 "tags": [
 "30PALMSH1026",
-"DEC26",
 "JULYSKU26",
-"NOV26",
-"OCT26",
 "PALMSH926"
 ],
 "in": true
@@ -12391,7 +12496,7 @@
 "SAMOA1026",
 "samoalumimelt"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Samoa PrimeMelt Hydrating And Smoothing Primer",
@@ -12812,7 +12917,7 @@
 {
 "t": "Lady Speed Stick Roll-On 24/7 48H 0% Alcohol Antiperspirant Fresh Fusion Deodorant",
 "u": "https://feel22.com/products/lady-speed-stick-roll-on-24-7-48h-0-alcohol-antiperspirant-fresh-fusion-deodorant",
-"p": 3.26,
+"p": 3.43,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/LadySpeedStickRoll-On24_748H0_AlcoholAntiperspirantFreshFusionDeodorant.png?v=1783290190&width=400",
@@ -12826,7 +12931,7 @@
 {
 "t": "Sanex Natur Protect Sensitive Skin Spray",
 "u": "https://feel22.com/products/sanex-natur-protect-sensitive-skin-spray",
-"p": 5.46,
+"p": 5.73,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/SanexNaturProtectSensitiveSkinSpray200ml_2cdf68f3-33db-4627-8249-d05f8717dc40.png?v=1783290644&width=400",
@@ -12840,7 +12945,7 @@
 {
 "t": "Sanex Dermo PH Balance Invisible Spray",
 "u": "https://feel22.com/products/sanex-dermo-ph-balance-invisible-spray",
-"p": 5.46,
+"p": 5.73,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/SanexDermoPHBalanceInvisibleSpray200ml.png?v=1783290229&width=400",
@@ -12854,15 +12959,14 @@
 {
 "t": "Palmolive Naturals Herbal Bar Soap",
 "u": "https://feel22.com/products/palmolive-naturals-herbal-bar-soap",
-"p": 0.76,
-"c": 0.95,
+"p": 1.01,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/PalmoliveNaturalsHerbalBarSoap_7edcc2a6-478e-4902-b7a2-c775d39d7004.png?v=1783290296&width=400",
 "type": "Hand and Body Soap",
 "tags": [
 "20PALMBS1026",
 "JULYSKU26",
-"OCT26",
 "PLSBAR926"
 ],
 "in": true
@@ -12870,7 +12974,7 @@
 {
 "t": "Palmolive Aroma Sensations Tangerine Feel the Energy Shower Gel",
 "u": "https://feel22.com/products/palmolive-aroma-sensations-tangerine-feel-the-energy-shower-gel",
-"p": 4.91,
+"p": 5.16,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/PalmoliveAromaSensationsTangerineFeeltheEnergyShowerGel.png?v=1783290321&width=400",
@@ -12885,7 +12989,7 @@
 {
 "t": "Palmolive Aroma Sensations Watermelon Feel Refreshed Shower Gel",
 "u": "https://feel22.com/products/palmolive-aroma-sensations-watermelon-feel-refreshed-shower-gel",
-"p": 4.91,
+"p": 5.16,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/PalmoliveAromaSensationsWatermelonShowerGel.png?v=1783290368&width=400",
@@ -12900,22 +13004,21 @@
 {
 "t": "Tahiti Monoi Shower Gel",
 "u": "https://feel22.com/products/tahiti-monoi-shower-gel",
-"p": 2.08,
-"c": 2.6,
+"p": 2.73,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/8718951722699TahitiMonoi8HourShowerGel250ml.png?v=1783290387&width=400",
 "type": "Shower Gel and Body Wash",
 "tags": [
 "20TAHITI1026",
-"JULYSKU26",
-"OCT26"
+"JULYSKU26"
 ],
 "in": true
 },
 {
 "t": "Colgate Mint Waxed Dental Floss",
 "u": "https://feel22.com/products/colgate-mint-waxed-dental-floss",
-"p": 3.66,
+"p": 3.84,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/ColgateMintWaxedDentalFloss.png?v=1783290412&width=400",
@@ -12929,7 +13032,7 @@
 {
 "t": "Colgate Extra Clean Medium Toothbrush",
 "u": "https://feel22.com/products/colgate-extra-clean-medium-toothbrush",
-"p": 1.1,
+"p": 1.15,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/ColgateExtraCleanMediumToothbrush.png?v=1783290426&width=400",
@@ -12943,7 +13046,7 @@
 {
 "t": "Colgate Zig Zag Charcoal Medium Toothbrush",
 "u": "https://feel22.com/products/colgate-zig-zag-charcoal-medium-toothbrush",
-"p": 2.99,
+"p": 3.13,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/ColgateZigZagCharcoalMediumToothbrush.png?v=1783290443&width=400",
@@ -12957,7 +13060,7 @@
 {
 "t": "Colgate Total Active Prevention Whitening Charcoal Toothbrush 1+1",
 "u": "https://feel22.com/products/colgate-total-active-prevention-whitening-charcoal-toothbrush-1-1",
-"p": 9.14,
+"p": 9.6,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/ColgateTotalActivePreventionWhiteningCharcoalToothbrush1_1.png?v=1783290458&width=400",
@@ -12971,7 +13074,7 @@
 {
 "t": "Colgate Kids Barbie Extra Soft 2-5 Years Toothbrush",
 "u": "https://feel22.com/products/colgate-kids-barbie-extra-soft-2-5-years-toothbrush",
-"p": 3.54,
+"p": 3.72,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/8718951606616ColgateKidsJuniorBarbie2-5YearsExtraSoftToothbrush.png?v=1783290512&width=400",
@@ -12985,7 +13088,7 @@
 {
 "t": "Colgate Kids Batman Extra Soft 6+ Years Toothbrush",
 "u": "https://feel22.com/products/colgate-kids-batman-extra-soft-6-years-toothbrush",
-"p": 3.54,
+"p": 3.72,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/8718951606494ColgateKidsBatman6_YearsExtraSoftToothbrush.png?v=1783290526&width=400",
@@ -12999,7 +13102,7 @@
 {
 "t": "Colgate Kids Barbie Extra Soft 6+ Years Toothbrush",
 "u": "https://feel22.com/products/colgate-kids-barbie-extra-soft-6-years-toothbrush",
-"p": 3.54,
+"p": 3.72,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/8718951606524ColgateKidsBarbie6_YearsExtraSoftToothbrush_cf39f899-4725-4aef-b7e8-99022f3264b3.png?v=1783290565&width=400",
@@ -13013,32 +13116,30 @@
 {
 "t": "Colgate Freshening Max Fresh Cool Toothpaste",
 "u": "https://feel22.com/products/colgate-freshening-max-fresh-cool-toothpaste",
-"p": 3.3,
-"c": 3.88,
+"p": 4.07,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/6920354827280ColgateFresheningToothpasteMaxFreshCool150ml.png?v=1783290624&width=400",
 "type": "Toothpaste",
 "tags": [
 "15COL1026",
 "COLPUB",
-"JULYSKU26",
-"OCT26"
+"JULYSKU26"
 ],
 "in": false
 },
 {
 "t": "Colgate Freshening Max Fresh Clean Mint Toothpaste",
 "u": "https://feel22.com/products/colgate-freshening-max-fresh-clean-mint-toothpaste",
-"p": 3.3,
-"c": 3.88,
+"p": 4.07,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/6920354827266ColgateFresheningMaxFreshCleanMintToothpaste150ml_af00ade2-b743-4b4c-99f3-ee2f7942c978.png?v=1783290606&width=400",
 "type": "Toothpaste",
 "tags": [
 "15COL1026",
 "COLPUB",
-"JULYSKU26",
-"OCT26"
+"JULYSKU26"
 ],
 "in": false
 },
@@ -20289,7 +20390,7 @@
 "SAMOA1026",
 "SAMOANAILS"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Samoa Never Nude Très Sage No.244 Nail Polish",
@@ -20579,7 +20680,7 @@
 "HBTMASKS826",
 "JULYSKU26"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Medicube No Cast Just Dew PDRN SPF50 Hydrating UV Serum",
@@ -20681,7 +20782,7 @@
 "MUPSKINALL926",
 "pink26"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Jacques Dessange Gentle Clay Regulating Shampoo, Formula Enriched With Salicylic Acid & White Clay, Purifies Roots & Softens Ends - Oily Roots & Dry Ends",
@@ -20843,7 +20944,7 @@
 {
 "t": "Colgate Total Active Prevention + Decay & Enamel Defense Toothpaste 75ml",
 "u": "https://feel22.com/products/colgate-total-active-prevention-decay-enamel-defense-toothpaste-75ml",
-"p": 4.37,
+"p": 4.6,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/ColgateTotalActivePrevention_Decay_EnamelDefenseToothpaste75ml.png?v=1783002351&width=400",
@@ -24890,7 +24991,7 @@
 "EVERYTHING",
 "MUPSKINALL926"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Vaseline Lotion Eventone",
@@ -26943,7 +27044,7 @@
 "EVERYTHING",
 "giftid-8476243787914"
 ],
-"in": false
+"in": true
 },
 {
 "t": "K18 TripleBright Oxidation Defense Purple Shampoo",
@@ -27044,7 +27145,7 @@
 "dermocosmetics",
 "EASTERSALE26PHARMA"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Khan El Kaser Snatch Hair Wax Stick",
@@ -27512,7 +27613,7 @@
 "samoa626",
 "SAMOANAILS"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Samoa White Beautifier Nail Hero + Care",
@@ -27544,7 +27645,7 @@
 "samoa626",
 "SAMOANAILS"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Samoa Grip & Go Sticky Base Coat",
@@ -27560,7 +27661,7 @@
 "samoa626",
 "SAMOANAILS"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Clinique All About Eyes Rich",
@@ -27829,7 +27930,7 @@
 "tags": [
 "cannes526"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Uriage Bariésun Mattifying Fluid SPF50 - Acne Prone Skin",
@@ -29991,7 +30092,7 @@
 "OAPRAM26",
 "OAPW226"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Medicube Zero Pore Pad Mild",
@@ -37031,7 +37132,7 @@
 {
 "t": "Rosy The Panda The Love Brush",
 "u": "https://feel22.com/products/rosy-the-panda-the-love-brush",
-"p": 13.32,
+"p": 12.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/RosyThePandaTheLoveBrush.png?v=1776204622&width=400",
@@ -37044,7 +37145,7 @@
 {
 "t": "Rosy The Panda Corrector",
 "u": "https://feel22.com/products/rosy-the-panda-corrector",
-"p": 27.2,
+"p": 24.5,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/RosyThePandacorrectorDesertGlow.png?v=1776204737&width=400",
@@ -37058,7 +37159,7 @@
 {
 "t": "Rosy The Panda Concealer",
 "u": "https://feel22.com/products/rosy-the-panda-concealer",
-"p": 27.2,
+"p": 24.5,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/RosyThePandaconcealerGlowise2N.png?v=1776205036&width=400",
@@ -39795,7 +39896,7 @@
 "hbytala1125",
 "MUPSKINALL926"
 ],
-"in": false
+"in": true
 },
 {
 "t": "L'Oréal Paris Worth It Glow 1.0 Set",
@@ -42875,7 +42976,7 @@
 {
 "t": "Rosy The Panda Singer Brush",
 "u": "https://feel22.com/products/rosy-the-panda-singer-brush",
-"p": 13.32,
+"p": 12.5,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/RosyThePandaSingerBrush.png?v=1772103662&width=400",
@@ -43773,8 +43874,8 @@
 {
 "t": "Colgate Total Active Prevention Pro Gum Care Mouthwash",
 "u": "https://feel22.com/products/colgate-total-active-prevention-pro-gum-care-mouthwash",
-"p": 3.5,
-"c": 4.66,
+"p": 4.9,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshots_25.png?v=1751359394&width=400",
 "type": "Mouthwash",
@@ -44805,7 +44906,7 @@
 {
 "t": "Speed Stick Deodorant For Men Fresh Rush 50g",
 "u": "https://feel22.com/products/speed-stick-deodorant-for-men-fresh-rush-50g",
-"p": 4.56,
+"p": 4.78,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/SkalaPackshots_24.png?v=1700158502&width=400",
@@ -44924,15 +45025,14 @@
 {
 "t": "Tahiti Shower Gel Tiara 250ml",
 "u": "https://feel22.com/products/tahiti-shower-gel-tiara",
-"p": 2.08,
-"c": 2.6,
+"p": 2.73,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/TahitiShowerGelTiara250ml.png?v=1767693763&width=400",
 "type": "Shower Gel and Body Wash",
 "tags": [
 "20TAHITI1026",
-"EVERYTHING",
-"OCT26"
+"EVERYTHING"
 ],
 "in": true
 },
@@ -44957,7 +45057,7 @@
 {
 "t": "Sanex Surgras Nourrissant Shower Gel",
 "u": "https://feel22.com/products/sanex-surgras-nourrissant-shower-gel",
-"p": 5.22,
+"p": 5.48,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/sanex_8.png?v=1689602180&width=400",
@@ -45017,7 +45117,7 @@
 {
 "t": "Colgate Toothbrush MaxWhite Charcoal Soft Buy 1 Get 1 Free",
 "u": "https://feel22.com/products/colgate-toothbrush-max-white-charcoal-soft-offer-1-1-free",
-"p": 5.09,
+"p": 5.35,
 "c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/COLGATEMAXWHITECHARCOALSOFT1_1FREE.png?v=1628839823&width=400",
@@ -45055,7 +45155,7 @@
 {
 "t": "Colgate Toothbrush Optic Coffee Lovers Buy 1 Get 1",
 "u": "https://feel22.com/products/colgate-toothbrush-optic-coffee-lovers-buy-1-get-1",
-"p": 7.18,
+"p": 7.93,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/ColgateToothbrushOpticCoffeeLoversBuy1Get1.png?v=1768491510&width=400",
@@ -45069,15 +45169,14 @@
 {
 "t": "Palmolive Bar Soap Orchid",
 "u": "https://feel22.com/products/palmolive-bar-soap-orchid",
-"p": 0.76,
-"c": 0.95,
+"p": 1.01,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/PalmoliveBarSoapOrchid.png?v=1767694009&width=400",
 "type": "Hand and Body Soap",
 "tags": [
 "20PALMBS1026",
 "EVERYTHING",
-"OCT26",
 "palmo326",
 "PLSBAR926",
 "plsoap826"
@@ -45095,6 +45194,7 @@
 "tags": [
 "EVERYTHING",
 "OCP826",
+"sch1026",
 "taft726",
 "taftmen"
 ],
@@ -45163,7 +45263,7 @@
 {
 "t": "Palmolive Shower Gel Sandalwood And Lavender",
 "u": "https://feel22.com/products/palmolive-shower-gel-sandalwood-and-lavender",
-"p": 4.11,
+"p": 4.32,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/PalmoliveShowerGelSandalwoodAndLavender.png?v=1767693522&width=400",
@@ -45179,7 +45279,7 @@
 {
 "t": "Palmolive Essentials Mediterranean Herbs Shower Gel",
 "u": "https://feel22.com/products/palmolive-essentials-mediterranean-herbs-shower-gel",
-"p": 4.11,
+"p": 4.32,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/PalmoliveEssentialsMediterraneanHerbsShowerGel.png?v=1767693299&width=400",
@@ -47221,7 +47321,7 @@
 "CPDTODO426",
 "FEBSKU26"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Dr Althea 147 Barrier Cream Face Moisturizer 50ml",
@@ -47765,15 +47865,14 @@
 {
 "t": "Tahiti Vanille Pump Family Size Shower Gel",
 "u": "https://feel22.com/products/tahiti-vanille-pump-family-size-shower-gel",
-"p": 4.47,
-"c": 6.39,
+"p": 6.7,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/TahitiVanillePumpFamilySizeShowerGel700Ml_cd879c37-1885-4e2f-b6a6-b4c40baf1c08.png?v=1769510112&width=400",
 "type": "Shower Gel and Body Wash",
 "tags": [
 "30TAHITI1026",
 "JANSKU26",
-"OCT26",
 "TAHITISLC926"
 ],
 "in": true
@@ -47781,15 +47880,14 @@
 {
 "t": "Tahiti Coco Pump Family Size Shower Gel",
 "u": "https://feel22.com/products/tahiti-coco-pump-family-size-shower-gel",
-"p": 4.47,
-"c": 6.39,
+"p": 6.7,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Tahiti_Coco_Pump_Family_Size_Shower_Gel_700Ml.png?v=1769510145&width=400",
 "type": "Shower Gel and Body Wash",
 "tags": [
 "30TAHITI1026",
 "JANSKU26",
-"OCT26",
 "TAHITISLC926"
 ],
 "in": true
@@ -47797,15 +47895,14 @@
 {
 "t": "Tahiti Kids Exotic Fruits Hair And Body Shower Gel",
 "u": "https://feel22.com/products/tahiti-kids-exotic-fruits-hair-and-body-shower-gel",
-"p": 2.18,
-"c": 3.12,
+"p": 3.28,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/TahitiKidsExoticFruitsHairAndBodyShowerGel300Ml.png?v=1769509740&width=400",
 "type": "Shower Gel and Body Wash",
 "tags": [
 "30TAHITI1026",
 "JANSKU26",
-"OCT26",
 "TAHITISLC926"
 ],
 "in": true
@@ -47813,15 +47910,14 @@
 {
 "t": "Tahiti Happy Shower Yuzu Mint Peps Shower Gel",
 "u": "https://feel22.com/products/tahiti-happy-shower-yuzu-mint-peps-shower-gel",
-"p": 2.01,
-"c": 2.87,
+"p": 3.02,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/TahitiHappyShowerYuzuMintPeps250Ml.png?v=1769509871&width=400",
 "type": "Shower Gel and Body Wash",
 "tags": [
 "30TAHITI1026",
 "JANSKU26",
-"OCT26",
 "TAHITISLC926"
 ],
 "in": true
@@ -47829,15 +47925,14 @@
 {
 "t": "Tahiti Happy Shower Mango Peach Splash Shower Gel",
 "u": "https://feel22.com/products/tahiti-happy-shower-mango-peach-splash-shower-gel",
-"p": 2.01,
-"c": 2.87,
+"p": 3.02,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/TahitiHappyShowerMangoPeachSplashShowerGel250Ml.png?v=1769509905&width=400",
 "type": "Shower Gel and Body Wash",
 "tags": [
 "30TAHITI1026",
 "JANSKU26",
-"OCT26",
 "TAHITISLC926"
 ],
 "in": true
@@ -47845,15 +47940,14 @@
 {
 "t": "Tahiti Happy Shower Coco Ananas Wave Shower Gel",
 "u": "https://feel22.com/products/tahiti-happy-shower-coco-ananas-wave-shower-gel",
-"p": 2.01,
-"c": 2.87,
+"p": 3.02,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/TahitiHappyShowerCocoAnanasWaveShowerGel250Ml.png?v=1769509957&width=400",
 "type": "Shower Gel and Body Wash",
 "tags": [
 "30TAHITI1026",
 "JANSKU26",
-"OCT26",
 "TAHITISLC926"
 ],
 "in": true
@@ -47861,8 +47955,8 @@
 {
 "t": "Colgate Optic White Purple Serum 40ml",
 "u": "https://feel22.com/products/colgate-optic-white-purple-serum-40ml",
-"p": 16.27,
-"c": 32.54,
+"p": 34.17,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/ColgateOpticWhitePurpleSerum40ml_1.png?v=1781162874&width=400",
 "type": "Toothpaste",
@@ -47870,10 +47964,7 @@
 "3colg726",
 "colg826",
 "COLPUB",
-"DEC26",
-"JANSKU26",
-"NOV26",
-"OCT26"
+"JANSKU26"
 ],
 "in": false
 },
@@ -49977,134 +50068,6 @@
 "EIDSALE2026",
 "JANSKU26",
 "LIMATA726"
-],
-"in": true
-},
-{
-"t": "Lierac Hydragenist Rehydrating Radiance Cream Gel Xmas Set",
-"u": "https://feel22.com/products/lierac-hydragenist-rehydrating-radiance-cream-gel-xmas-set",
-"p": 53.28,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/LieracHydragenistRehydratingRadianceCreamGelXmasSet.png?v=1769767395&width=400",
-"type": "Skincare Gifts and Sets",
-"tags": [
-"1rgaa826",
-"1STWAVE826PHARMA",
-"99PHARMA",
-"ADHAPHARMA26",
-"ALLSETS226",
-"EIDSALE2026",
-"JANSKU26",
-"LIMATA726"
-],
-"in": true
-},
-{
-"t": "Lierac Hydragenist Rehydrating Radiance Cream Xmas Set",
-"u": "https://feel22.com/products/lierac-hydragenist-rehydrating-radiance-cream-xmas-set",
-"p": 53.28,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/LieracHydragenistRehydratingRadianceCreamXmasSet.png?v=1769767684&width=400",
-"type": "Skincare Gifts and Sets",
-"tags": [
-"1rgaa826",
-"1STWAVE826PHARMA",
-"99PHARMA",
-"ADHAPHARMA26",
-"ALLSETS226",
-"EIDSALE2026",
-"JANSKU26",
-"LIMATA726"
-],
-"in": true
-},
-{
-"t": "Dermedic Cicatopy Ultra Calming Skin Repair",
-"u": "https://feel22.com/products/dermedic-cicatopy-ultra-calming-skin-repair",
-"p": 22.2,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/DermedicCicatopyUltraCalmingSkinRepair.png?v=1769765883&width=400",
-"type": "Day and Night Cream",
-"tags": [
-"1STWAVE826PHARMA",
-"ADHAPHARMA26",
-"DERMD426",
-"dermd826",
-"dermedic226",
-"EASTERSALE26PHARMA",
-"JANSKU26",
-"MUPSKINALL926"
-],
-"in": false
-},
-{
-"t": "Pupa Eye Blending Brush",
-"u": "https://feel22.com/products/pupa-eye-blending-brush",
-"p": 21.0,
-"c": 0.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/products/pupaeyeblendingbrush.png?v=1608283898&width=400",
-"type": "Makeup Tools and Brushes",
-"tags": [
-"bf19",
-"bfm19",
-"cf-vendor-pupa",
-"EVERYTHING",
-"faves",
-"faves2",
-"FB",
-"make up set"
-],
-"in": false
-},
-{
-"t": "Anastasia Beverly Hills Mascara",
-"u": "https://feel22.com/products/anastasia-beverly-hills-mascara",
-"p": 37.91,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/products/LashBragMascara_alt1_1.jpg?v=1704707400&width=400",
-"type": "Mascara",
-"tags": [
-"3RANDO826",
-"ABH1025",
-"ABH1026",
-"ABH1125",
-"ABH326",
-"ABH525",
-"ABH826",
-"ABH926"
-],
-"in": true
-},
-{
-"t": "Porsche Design Women Ruby 100ml",
-"u": "https://feel22.com/products/porsche-design-women-ruby-100ml",
-"p": 125.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshotstemp-Lynn_5_cc40e146-a0da-439a-bc26-5d58266612a1.png?v=1753180522&width=400",
-"type": "Perfume For Her",
-"tags": [
-"EVERYTHING"
-],
-"in": true
-},
-{
-"t": "Porsche Design Women Satin Eau De Parfum 50ml+ Bath & Shower Gel 200ml Set",
-"u": "https://feel22.com/products/porsche-design-women-satin-eau-de-parfum-50ml-bath-shower-gel-200ml-set",
-"p": 95.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshotstemp-Lynn_3_4fa10f40-4c60-4773-9c76-65b8bd9122f1.png?v=1753180389&width=400",
-"type": "Perfume Set For Her",
-"tags": [
-"ALLSETS226",
-"EVERYTHING",
-"nobundles"
 ],
 "in": true
 }
