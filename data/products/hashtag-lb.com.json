@@ -1,5 +1,126 @@
 [
 {
+"t": "pants 268351",
+"u": "https://www.hashtag-lb.com/products/pants-268351",
+"p": 32.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/30476698-91c2-4429-9889-627a1889dec0.jpg?v=1792420603&width=400",
+"type": "Pants",
+"tags": [],
+"in": true
+},
+{
+"t": "coat",
+"u": "https://www.hashtag-lb.com/products/coat",
+"p": 55.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/1b8a1c3f-9bd8-4a67-821f-8ca3eaa351ba.jpg?v=1792420019&width=400",
+"type": "jacket",
+"tags": [],
+"in": true
+},
+{
+"t": "vest 268362",
+"u": "https://www.hashtag-lb.com/products/vest-268362",
+"p": 29.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/8ed84cd2-9832-4378-a989-a58694eba113.jpg?v=1792419588&width=400",
+"type": "Vest",
+"tags": [],
+"in": true
+},
+{
+"t": "top 267382",
+"u": "https://www.hashtag-lb.com/products/top-267382",
+"p": 32.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/c0c573a8-dee3-4693-b42b-84271f2c3d12.jpg?v=1792419274&width=400",
+"type": "TOP",
+"tags": [],
+"in": true
+},
+{
+"t": "top 268350",
+"u": "https://www.hashtag-lb.com/products/top-268350",
+"p": 29.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/db216695-7905-41a4-b7fa-0e8a0df4a472.jpg?v=1792416490&width=400",
+"type": "TOP",
+"tags": [],
+"in": true
+},
+{
+"t": "top 260335",
+"u": "https://www.hashtag-lb.com/products/top-260335",
+"p": 36.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/19897dae-9b66-4e65-8af6-38414fd0624f.jpg?v=1792419985&width=400",
+"type": "TOP",
+"tags": [],
+"in": true
+},
+{
+"t": "top 268313",
+"u": "https://www.hashtag-lb.com/products/top-2",
+"p": 35.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/3fb6d278-cdbb-48af-8de3-0f795ae13cf2.jpg?v=1792415882&width=400",
+"type": "TOP",
+"tags": [],
+"in": true
+},
+{
+"t": "top 266370",
+"u": "https://www.hashtag-lb.com/products/top-266370",
+"p": 32.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/ad6ff692-65f3-4158-8312-819e807b905e.jpg?v=1792415673&width=400",
+"type": "TOP",
+"tags": [],
+"in": true
+},
+{
+"t": "bag",
+"u": "https://www.hashtag-lb.com/products/bag-3",
+"p": 29.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/f5afe538-b68c-48ae-bbd9-77cb07a10cec.jpg?v=1792415533&width=400",
+"type": "bag",
+"tags": [],
+"in": true
+},
+{
+"t": "bag",
+"u": "https://www.hashtag-lb.com/products/bag-2",
+"p": 29.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/b332af89-3176-4697-afd3-5ed7f18579eb.jpg?v=1792420781&width=400",
+"type": "bag",
+"tags": [],
+"in": true
+},
+{
+"t": "bag",
+"u": "https://www.hashtag-lb.com/products/bag",
+"p": 29.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/084cd695-d388-43de-add1-e9064e2d0d3c.jpg?v=1792415248&width=400",
+"type": "bag",
+"tags": [],
+"in": true
+},
+{
 "t": "G-top 16130",
 "u": "https://www.hashtag-lb.com/products/top",
 "p": 19.0,
@@ -338,7 +459,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/0c2c4174-eb14-4e76-92fb-49dff0ed2b03.jpg?v=1790083132&width=400",
 "type": "jacket",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "G-set 908548",
@@ -437,7 +558,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/789939b9-d731-4746-aee0-e28c150b6267.jpg?v=1790002532&width=400",
 "type": "top",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "G-top 5069",
