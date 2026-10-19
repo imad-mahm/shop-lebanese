@@ -608,7 +608,7 @@
 "freegift",
 "giftcollection"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Free Gift Mini Shaped Egg Hair Comb",
@@ -636,7 +636,7 @@
 "freegift",
 "giftcollection"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Free Gift Black Bucket Hat",
@@ -741,7 +741,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/Bath-Body-Works-In-The-Stars-Jingle-The-Night-Away-Gift-Box-Set-Fragrance-Mist-Body-Wash-and-Body-Lotion-with-a-Cherry-On-Top-Bar-Soap_612db3ce-4543-4f2a-ad91-7ac2378de5ea.9562b0b5449.avif?v=1791386835&width=400",
 "type": "Gift Set",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Bath & Body Works Japanese Cherry Blossom Mini Gift Set",
@@ -1820,7 +1820,7 @@
 "freegift",
 "giftcollection"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Free Gift Random Tote Bag",
@@ -6164,24 +6164,6 @@
 "in": false
 },
 {
-"t": "Essence feelin' comfy plumping lip glow 01 Pillow Pout, 12g",
-"u": "https://zedstorelb.com/products/essence-feelin-comfy-plumping-lip-glow-01-pillow-pout-12g",
-"p": 3.96,
-"c": 4.3,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/669348_33.png?v=1785266559&width=400",
-"type": "Lip Care",
-"tags": [
-"essence",
-"feelin comfy",
-"Lip Care",
-"Lips",
-"Makeup",
-"New Arrivals"
-],
-"in": false
-},
-{
 "t": "Essence feelin' comfy peptide lipgloss 02 Cinnamon Cuddles, 15ml",
 "u": "https://zedstorelb.com/products/essence-feelin-comfy-peptide-lipgloss-02-cinnamon-cuddles-15ml",
 "p": 3.96,
@@ -6474,7 +6456,7 @@
 "tags": [
 "sephoracollection"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Sephora Mega Mix Eyeshadow Palette Fearless Cool Nude",
@@ -9185,6 +9167,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/028009026.jpg?v=1781336659&width=400",
 "type": "Body lotion",
 "tags": [
+"delete",
 "sephoracollection"
 ],
 "in": false
@@ -12172,7 +12155,9 @@
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/rn-image_picker_lib_temp_98671c59-f4aa-418f-84d1-e7c7a3663961.png?v=1775719942&width=400",
 "type": "mug",
-"tags": [],
+"tags": [
+"delete"
+],
 "in": false
 },
 {
@@ -12777,7 +12762,9 @@
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/images_5caf5a10-96e0-47ea-a1e4-d80294b8ffe8.jpg?v=1774426573&width=400",
 "type": "kit",
-"tags": [],
+"tags": [
+"delete"
+],
 "in": false
 },
 {
@@ -13087,7 +13074,9 @@
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/rn-image_picker_lib_temp_8a840c4a-cac9-463f-b9d0-e66d4fe9bd0b.png?v=1773480352&width=400",
 "type": "mug",
-"tags": [],
+"tags": [
+"delete"
+],
 "in": false
 },
 {
@@ -13098,7 +13087,9 @@
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/rn-image_picker_lib_temp_51723a3f-b424-4fc4-898b-8bef0b4d7dbe.png?v=1773480217&width=400",
 "type": "mug",
-"tags": [],
+"tags": [
+"delete"
+],
 "in": false
 },
 {
@@ -16592,6 +16583,7 @@
 "type": "Bundle",
 "tags": [
 "Bundlecollection",
+"delete",
 "dryskincollection",
 "teahersday2026"
 ],
@@ -16608,6 +16600,7 @@
 "tags": [
 "acnepronecollection",
 "Bundlecollection",
+"delete",
 "teahersday2026"
 ],
 "in": false
@@ -16622,6 +16615,7 @@
 "type": "Bundle",
 "tags": [
 "Bundlecollection",
+"delete",
 "teahersday2026"
 ],
 "in": false
@@ -16636,6 +16630,7 @@
 "type": "Bundle",
 "tags": [
 "Bundlecollection",
+"delete",
 "teahersday2026"
 ],
 "in": false
@@ -17578,17 +17573,6 @@
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/Klorane-Champu-Anticaspa-a-la-Galanga-200-ml.avif?v=1763033031&width=400",
 "type": "Shampoo",
-"tags": [],
-"in": false
-},
-{
-"t": "Essence Wow What A Brow Pen Waterproof",
-"u": "https://zedstorelb.com/products/essence-wow-what-a-brow-pen-waterproof",
-"p": 3.67,
-"c": 3.99,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/5310388.png?v=1763032019&width=400",
-"type": "brow pencil",
 "tags": [],
 "in": false
 },
@@ -18705,28 +18689,6 @@
 "in": false
 },
 {
-"t": "Lirene FOLACIN ANTI-AGE Rejuvenating Serum 50-70+ 30ml",
-"u": "https://zedstorelb.com/products/lirene-folacin-anti-age-rejuvenating-serum-50-70-30ml",
-"p": 14.99,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/6605414952e7b-serum-odm-adzajace-10e07754-krt-1.5afr.webp?v=1761378534&width=400",
-"type": "Serum",
-"tags": [],
-"in": false
-},
-{
-"t": "Lirene Folacin 50-70+ Smooth Eye Cream 15ml",
-"u": "https://zedstorelb.com/products/lirene-folacin-50-70-smooth-eye-cream-15ml",
-"p": 11.99,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/Lirene-Folacin-50-70-Smooth-Eye-Cream-15ml.webp?v=1761378399&width=400",
-"type": "Eye cream",
-"tags": [],
-"in": false
-},
-{
 "t": "Elephant Hair Brush BRH1448 (Big)",
 "u": "https://zedstorelb.com/products/elephant-hair-brush-brh1448-big",
 "p": 8.64,
@@ -18971,30 +18933,6 @@
 "in": true
 },
 {
-"t": "Lirene Brightening and Rejuvenating Face Cream SPF50 50ml",
-"u": "https://zedstorelb.com/products/lirene-brightening-and-rejuvenating-face-cream-spf50-50ml",
-"p": 12.99,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/download_ef6fc4a5-266c-43ff-9c70-9447f68ab30b.jpg?v=1761305194&width=400",
-"type": "Cream",
-"tags": [
-"tancollection"
-],
-"in": false
-},
-{
-"t": "Lirene Professional Skin Care Whitening Overnight Cream 50ml",
-"u": "https://zedstorelb.com/products/lirene-professional-skin-care-whitening-overnight-cream-50ml",
-"p": 12.99,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/5900717767218.webp?v=1761305001&width=400",
-"type": "Cream",
-"tags": [],
-"in": false
-},
-{
 "t": "Lirene Illuminating Whitening Serum 30ml",
 "u": "https://zedstorelb.com/products/lirene-illuminating-whitening-serum-30ml",
 "p": 14.99,
@@ -19006,17 +18944,6 @@
 "dryskincollection",
 "tancollection"
 ],
-"in": false
-},
-{
-"t": "Lirene SUN Balm for irritations S.O.S SUNBURN RELIEF 150 ml",
-"u": "https://zedstorelb.com/products/lirene-sun-balm-for-irritations-s-o-s-sunburn-relief-150-ml",
-"p": 10.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/6438841683ee1-sunburn-relief-balm-10e3160.7k6e.webp?v=1761304615&width=400",
-"type": "Sunscreen",
-"tags": [],
 "in": false
 },
 {
@@ -22177,7 +22104,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/C03-PEARL.webp?v=1758017222&width=400",
 "type": "Nail Polish",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Dali C02 CREAM",
@@ -24559,17 +24486,6 @@
 "type": "perfume",
 "tags": [],
 "in": true
-},
-{
-"t": "Victoria's Secret Love Is Heavenly Perfume 50ml/1.7 fl oz",
-"u": "https://zedstorelb.com/products/victorias-secret-love-is-heavenly-perfume-50ml-1-7-fl-oz",
-"p": 45.0,
-"c": 56.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/667558215456_main.avif?v=1752664771&width=400",
-"type": "perfume",
-"tags": [],
-"in": false
 },
 {
 "t": "Victoria's Secret VERY SEXY NOW Perfume 50ml/1.7 fl oz",
@@ -34807,19 +34723,6 @@
 "in": false
 },
 {
-"t": "Vaseline Hand & Nails Lotion 75Ml",
-"u": "https://zedstorelb.com/products/vaseline-hand-nail-lotion-75ml",
-"p": 2.8,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/280162.webp?v=1730297628&width=400",
-"type": "Moisturizer",
-"tags": [
-"6001088080094"
-],
-"in": false
-},
-{
 "t": "Vaseline Lotion Essential Healing 200Ml",
 "u": "https://zedstorelb.com/products/vaseline-lotion-estl-healing-200ml",
 "p": 2.65,
@@ -35651,19 +35554,6 @@
 "in": false
 },
 {
-"t": "Tuscany Candle Limited Edition Jar Candle (Autumn Nights, 18 Ounce)",
-"u": "https://zedstorelb.com/products/tuscany-candle-limited-edition-jar-candle-autumn-nights-18-ounce",
-"p": 29.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/Packshot_6.jpg?v=1729802085&width=400",
-"type": "candle",
-"tags": [
-"elite"
-],
-"in": false
-},
-{
 "t": "Yankee Sage El Citrus Yankee Candle 18 Oz - Made With Essential Oils",
 "u": "https://zedstorelb.com/products/yankee-sage-el-citrus-yankee-candle-18-oz-made-with-essential-oils",
 "p": 31.0,
@@ -36099,7 +35989,7 @@
 "tags": [
 "Elephant 3 Pieces Mini Beauty Blenders"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Elephant Finger Concealer Puff (2 pieces) ELSP600",
@@ -36134,7 +36024,7 @@
 "tags": [
 "Elephant Triangle Powder Puff"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Elephant 7 Steps Nail Buffer ELNF108",
@@ -37935,6 +37825,157 @@
 "tags": [
 "dryskincollection",
 "Ruby Beauty Powder Puffs x2 RB-054 (color will be chosen randomly)"
+],
+"in": false
+},
+{
+"t": "Ruby Beauty Makeup Blenders x3 RB-053 (colors will be chosen randomly)",
+"u": "https://zedstorelb.com/products/ruby-beauty-makeup-blenders-x3-rb-053-colors-will-be-chosen-randomly",
+"p": 4.5,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/Color4_9665a38d-491e-435d-b303-49f2a60d5031.webp?v=1726654110&width=400",
+"type": "sponge",
+"tags": [
+"dryskincollection",
+"Ruby Beauty Makeup Blenders x3 RB-053"
+],
+"in": false
+},
+{
+"t": "OMG Facial Towel Headband With Bow",
+"u": "https://zedstorelb.com/products/facial-towel-headband-with-bow",
+"p": 2.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/Spa-Facial-Headband-Make-Up-Wrap-Head-Terry-Cloth-Headband-Adjustable-Towel-for-Face-Washing-Shower-Facial-Mask-3-Pieces_a425f3d8-de65-4334-9122-ecbfed4160b9.e3c0162a9761830600bd10145.webp?v=1726649932&width=400",
+"type": "headband",
+"tags": [
+"Facial Towel Headband With Bow"
+],
+"in": false
+},
+{
+"t": "L'Oreal Paris, Hyaluron Pure Oil Erasing Scalp Serum with Salicylic Acid, for Oily Roots and Dehydrated Lengths",
+"u": "https://zedstorelb.com/products/loreal-paris-hyaluron-pure-oil-erasing-scalp-serum-with-salicylic-acid-for-oily-roots-and-dehydrated-lengths",
+"p": 8.72,
+"c": 9.69,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/1_3.jpg?v=1726570831&width=400",
+"type": "Hair Serum",
+"tags": [
+"1212/2025",
+"for Oily Roots and Dehydrated Lengths",
+"HAPUREl'oreal",
+"Hyaluron Pure Oil Erasing Scalp Serum with Salicylic Acid",
+"L'Oréal Paris",
+"lorealfinal",
+"oilyskincollection"
+],
+"in": true
+},
+{
+"t": "L'Oreal Paris Elvive Hyaluron Pure 72h Rehydrating Conditioner for Oily Scalp & Dehydrated Lengths",
+"u": "https://zedstorelb.com/products/l-oreal-paris-elvive-hyaluron-pure-72h-rehydrating-conditioner-for-oily-scalp-dehydrated-lengths",
+"p": 3.38,
+"c": 3.76,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/1_2.jpg?v=1726570548&width=400",
+"type": "Conditioner",
+"tags": [
+"1212/2025",
+"HAPUREl'oreal",
+"lorealfinal",
+"L’Oréal Paris Elvive Hyaluron Pure 72h Rehydrating Conditioner for Oily Scalp & Dehydrated Lengths",
+"oilyskincollection"
+],
+"in": true
+},
+{
+"t": "L'Oreal Paris Elvive Hyaluron Pure Purifying Shampoo for Oily Roots And Dehydrated Length",
+"u": "https://zedstorelb.com/products/l-oreal-paris-elvive-hyaluron-pure-purifying-shampoo-for-oily-roots-and-dehydrated-length-600-ml",
+"p": 3.83,
+"c": 4.25,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/1_1.jpg?v=1726569856&width=400",
+"type": "Shampoo",
+"tags": [
+"1212/2025",
+"dryskincollection",
+"HAPUREl'oreal",
+"lorealfinal",
+"Lâ€™OrÃ©al Paris Elvive Hyaluron Pure Purifying Shampoo for Oily Roots And Dehydrated Length 600 ML",
+"oilyskincollection"
+],
+"in": true
+},
+{
+"t": "Glow Recipe Blueberry Bounce Gentle Cleanser",
+"u": "https://zedstorelb.com/products/glow-recipe-blueberry-bounce-gentle-cleanser",
+"p": 37.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/13317618-3314913520809793.webp?v=1726421005&width=400",
+"type": "cleanser",
+"tags": [
+"clearancecollection",
+"Glow Recipe Blueberry Bounce Gentle Cleanser",
+"sephoracollection"
+],
+"in": false
+},
+{
+"t": "Glow Recipe Plum Plump Hyaluronic Serum",
+"u": "https://zedstorelb.com/products/glow-recipe-plum-plump-hyaluronic-serum",
+"p": 52.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/Untitleddesign_47.jpg?v=1726420110&width=400",
+"type": "Serum",
+"tags": [
+"Glow Recipe Plum Plump Hyaluronic Serum",
+"sephoracollection"
+],
+"in": false
+},
+{
+"t": "Glow Recipe Watermelon Glow Niacinamide SPF 50 Sunscreen 50ml",
+"u": "https://zedstorelb.com/products/glow-recipe-watermelon-glow-niacinamide-spf-50-sunscreen-50ml",
+"p": 39.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/13695642-1934945707574161.webp?v=1726419269&width=400",
+"type": "Sunscreen",
+"tags": [
+"clearancecollection",
+"Glow Recipe Watermelon Glow Niacinamide SPF 50 Sunscreen 50ml",
+"sephoracollection"
+],
+"in": false
+},
+{
+"t": "Provoc ILLICIT waterproof Lip Liner Filler",
+"u": "https://zedstorelb.com/products/provoc-illicit-waterproof-lip-liner-filler",
+"p": 5.85,
+"c": 6.5,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/Studio-Project-2024-09-14T144840.333.jpg?v=1726314562&width=400",
+"type": "Lip Liner",
+"tags": [
+"Provoc ILLICIT waterproof Lip Liner Filler"
+],
+"in": true
+},
+{
+"t": "Elf No Budge Retractable Eyeliner Waterproof",
+"u": "https://zedstorelb.com/products/elf-no-budge-retractable-eyeliner-waterproof",
+"p": 12.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/images_a46f843f-2b0f-4e81-8f2a-900ccfac0479.jpg?v=1726313153&width=400",
+"type": "Eyeliner",
+"tags": [
+"sephoracollection"
 ],
 "in": false
 }
