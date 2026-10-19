@@ -1,5 +1,25 @@
 [
 {
+"t": "La Roche-Posay Mela B3 Double Dose 40ml",
+"u": "https://myholdal.com/products/la-roche-posay-mela-b3-double-dose-40ml-lebanon",
+"p": 50.92,
+"c": 50.92,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3337875944618_1.jpg?v=1792392700&width=400",
+"type": "SKIN CARE",
+"tags": [
+"BEAUTY",
+"BRANDS UNISEX",
+"bundle",
+"CERAVE UNISEX",
+"Derma adha offers 26",
+"DERMA UNISEX CLEANSING",
+"GROOMING",
+"influencer code"
+],
+"in": true
+},
+{
 "t": "159 Duo Fiber Brush",
 "u": "https://myholdal.com/products/buy-159s-duo-fiber-brush-lebanon",
 "p": 49.0,
@@ -2449,7 +2469,7 @@
 "LACOSTE FOR HER",
 "LACOSTE FW22 I"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Loose Fit Heavy Cotton Badge T-shirt - TH2745",
@@ -4718,26 +4738,6 @@
 "in": false
 },
 {
-"t": "Men's Sport Tennis Novak Djokovic Shorts - Gh9529",
-"u": "https://myholdal.com/products/buy-mens-sport-tennis-novak-djokovic-shorts-gh9529-ss23-outlet-lebanon",
-"p": 28.2,
-"c": 94.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/products/GH9529_525_24-1.jpg?v=1757495094&width=400",
-"type": "SHORTS",
-"tags": [
-"BRANDS MEN",
-"CLOTHING BF 24",
-"clothing bf 25",
-"LAC outlets SS23",
-"LACOSTE",
-"LACOSTE CLOTHING MEN SALE",
-"Lacoste for him",
-"lacoste to delete march"
-],
-"in": true
-},
-{
 "t": "Trousers - Hf4518",
 "u": "https://myholdal.com/products/buy-trousers-hf4518-lebanon",
 "p": 78.3,
@@ -5501,7 +5501,7 @@
 "lacoste father day",
 "LACOSTE FOR HIM"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Men's Slim Fit Stretch Cotton Poplin Shirt-Ch2668",
@@ -6977,7 +6977,7 @@
 "Lacoste FW22 II",
 "LACOSTE FW22 PREORDER"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Women's Lacoste Sport Tennis Fleece Trackpants - Xf3168",
@@ -13596,7 +13596,7 @@
 "WOMEN",
 "WOMEN SCARVES AND SHAWLS"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Ivory flowers and bees scarf charm",
@@ -13736,7 +13736,7 @@
 "WOMEN",
 "WOMEN SCARVES AND SHAWLS"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Khaki checked wool A-line skirt",
@@ -14296,7 +14296,7 @@
 "WOMEN",
 "WOMEN JACKETS AND COATS"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Maxi transparent resin crystal key ring",
@@ -19338,7 +19338,7 @@
 {
 "t": "Sari-Large Wheeled Backpack-I6354",
 "u": "https://myholdal.com/products/buy-sari-large-wheeled-backpack-i6354-lebanon",
-"p": 136.0,
+"p": 272.0,
 "c": 272.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/products/KI635458C00_999_4.jpg?v=1757584664&width=400",
@@ -19558,7 +19558,7 @@
 {
 "t": "Nusi-Kids Wheeled Bag-I3895",
 "u": "https://myholdal.com/products/buy-nusi-kids-wheeled-bag-i3895-lebanon",
-"p": 81.5,
+"p": 163.0,
 "c": 163.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/KI389546Y00_999_1_1.jpg?v=1757584415&width=400",
@@ -19578,7 +19578,7 @@
 {
 "t": "Nusi-Kids Wheeled Bag-I6787",
 "u": "https://myholdal.com/products/buy-nusi-kids-wheeled-bag-i6787-lebanon",
-"p": 81.5,
+"p": 163.0,
 "c": 163.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/KI678758C00_999.jpg?v=1757584414&width=400",
@@ -19658,7 +19658,7 @@
 {
 "t": "GIORNO-I4597",
 "u": "https://myholdal.com/products/buy-giorno-i4597-lebanon",
-"p": 131.5,
+"p": 263.0,
 "c": 263.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/LowRes-KPKI459758C_1.jpg?v=1757584015&width=400",
@@ -19678,7 +19678,7 @@
 {
 "t": "INIKO-I6121",
 "u": "https://myholdal.com/products/buy-iniko-i6121-lebanon",
-"p": 73.0,
+"p": 146.0,
 "c": 146.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/LowRes-KPKI612158C_1.jpg?v=1757584003&width=400",
@@ -19758,7 +19758,7 @@
 {
 "t": "PREPPY-12074",
 "u": "https://myholdal.com/products/buy-preppy-12074-lebanon",
-"p": 99.5,
+"p": 199.0,
 "c": 199.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/LowRes-KPK1207446Y_1.jpg?v=1757583964&width=400",
@@ -19798,7 +19798,7 @@
 {
 "t": "SEOUL COLLEGE EXTRA BTS Pep-I4352",
 "u": "https://myholdal.com/products/buy-seoul-college-extra-bts-pep-i4352-lebanon",
-"p": 117.6,
+"p": 196.0,
 "c": 196.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/LowRes-KPKI435258C_1.jpg?v=1757583169&width=400",
@@ -20042,7 +20042,7 @@
 "LANCOME WOMEN",
 "WOMEN MAKEUP"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Paradigme Le Parfum",
@@ -25713,7 +25713,7 @@
 "WOMEN BAGS",
 "WOMEN PEN CASES"
 ],
-"in": true
+"in": false
 },
 {
 "t": "100 PENS BTS -I6002",
@@ -27648,7 +27648,7 @@
 "ALBA WOMEN",
 "ALBA WOMEN SALE"
 ],
-"in": true
+"in": false
 },
 {
 "t": "FASHION LEATHER BLK DIAL - AH8153",
@@ -27668,7 +27668,7 @@
 "ALBA WOMEN",
 "ALBA WOMEN SALE"
 ],
-"in": true
+"in": false
 },
 {
 "t": "FASHION LEATHER WHITE DIAL PINK GOLD - AH8154",
@@ -27688,7 +27688,7 @@
 "ALBA WOMEN",
 "ALBA WOMEN SALE"
 ],
-"in": true
+"in": false
 },
 {
 "t": "ALBA PRESTIGE WHITE ROSE GOLD DIAL SILVER STAINLESS STEEL- AV3325X1Q",
@@ -27708,7 +27708,7 @@
 "ALBA VALENTINE MEN",
 "BRANDS MEN"
 ],
-"in": true
+"in": false
 },
 {
 "t": "CeraVe SA Smoothing Cream 340g",
@@ -32056,7 +32056,7 @@
 "WOMEN",
 "WOMEN VANITY POUCHES"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Small Leopard yellow palms nylon make-up case",
@@ -32094,7 +32094,7 @@
 "WOMEN",
 "WOMEN SCARVES AND SHAWLS"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Sun and moon earrings with brushed gold chains and pearls",
@@ -32455,7 +32455,7 @@
 "WOMEN",
 "WOMEN SCARVES AND SHAWLS"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Red ropes key ring",
@@ -32532,7 +32532,7 @@
 "WOMEN",
 "WOMEN RINGS"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Black raffia platform sandal",
@@ -32739,7 +32739,7 @@
 "WOMEN",
 "WOMEN BALLERINAS"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Green striped towel with horizontal and vertical pattern",
@@ -32758,7 +32758,7 @@
 "WOMEN",
 "WOMEN SCARVES AND SHAWLS"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Stripes and logo towel",
@@ -32775,7 +32775,7 @@
 "RTW",
 "WOMEN"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Camel nylon crossbody bag",
@@ -32794,7 +32794,7 @@
 "WOMEN",
 "WOMEN SHIRTS"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Chain earrings with coral beads",
@@ -32851,7 +32851,7 @@
 "WOMEN",
 "WOMEN T-SHIRTS"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Towel with embroidered stripe design",
@@ -32870,7 +32870,7 @@
 "WOMEN",
 "WOMEN BRACELETS"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Black chains and crystals bracelet",
@@ -32929,7 +32929,7 @@
 "WOMEN",
 "WOMEN BEACH TOWELS"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Pearl and stone hoop earrings",
@@ -33025,7 +33025,7 @@
 "WOMEN",
 "WOMEN BALLERINAS"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Silver heart crystal bracelet",
@@ -34494,7 +34494,7 @@
 "WOMEN",
 "WOMEN EARRINGS"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Aged gold anklet with pearls, shells and fish",
@@ -35462,7 +35462,7 @@
 "RTW",
 "WOMEN"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Beads and mother-of-pearl necklace",
@@ -35702,7 +35702,7 @@
 "WOMEN",
 "WOMEN EARRINGS"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Brow Genius Conditioning Brow Serum",
@@ -36399,7 +36399,7 @@
 "live sale WOMEN",
 "MAKEUP - EYES"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Clinique Gift Box",
@@ -36883,7 +36883,7 @@
 "Kipling SS26 Second drop",
 "Kipling Women"
 ],
-"in": true
+"in": false
 },
 {
 "t": "GABBIE -15255",
@@ -37323,7 +37323,7 @@
 "Kipling SS26 Second drop",
 "Kipling Women"
 ],
-"in": true
+"in": false
 },
 {
 "t": "NAOMI -I8863",
@@ -37376,7 +37376,7 @@
 "Kipling SS26 Second drop",
 "Kipling Women"
 ],
-"in": true
+"in": false
 },
 {
 "t": "ART M -I6004",
@@ -37660,7 +37660,7 @@
 "Kipling SS26 Second drop",
 "Kipling Women"
 ],
-"in": true
+"in": false
 },
 {
 "t": "ABANU M -I7076",
@@ -37714,7 +37714,7 @@
 "Kipling SS26 Second drop",
 "Kipling Women"
 ],
-"in": true
+"in": false
 },
 {
 "t": "ABANU M -I6237",
@@ -38819,7 +38819,7 @@
 "hide-cart",
 "mapping gifts"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Mercedes Benz Backpack",
@@ -46423,7 +46423,7 @@
 "MEN HAIRCARE",
 "VICHY MEN"
 ],
-"in": true
+"in": false
 },
 {
 "t": "PencilVac Fluffycones Vaccum",
@@ -47717,7 +47717,7 @@
 "LANCOME WOMEN",
 "WOMEN SKINCARE"
 ],
-"in": true
+"in": false
 },
 {
 "t": "UV Expert Supra Screen Invisible UV Serum SPF 50+",
@@ -50731,7 +50731,7 @@
 "LACOSTE BAGS MEN",
 "lacoste bf 25"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Small Angy Grain Shoulder Bag - NH4563GY",
@@ -54616,7 +54616,7 @@
 "WOMEN",
 "WOMEN PURSE"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Graphite nylon compact purse",
@@ -54736,7 +54736,7 @@
 "WOMEN",
 "WOMEN VANITY POUCH"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Green nylon coin purse",

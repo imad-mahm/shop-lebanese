@@ -1,5 +1,145 @@
 [
 {
+"t": "HB 100 Oral Solution",
+"u": "https://skinsociety.me/products/hb-100-oral-solution",
+"p": 20.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/694660010556.jpg?v=1792410354&width=400",
+"type": "Parapharmacy",
+"tags": [
+"694660010556",
+"Anemia",
+"Brand_Skin Society Para",
+"Category_Parapharmacy",
+"Food Supplements",
+"Parapharmacy",
+"Product Type_Anemia",
+"Sub Category_Food Supplements"
+],
+"in": true
+},
+{
+"t": "Instant Age Rewind Eraser Concealer &  Lifter Liner Lip Liner Pencil & Lifter Glaze Lip Balm Trio",
+"u": "https://skinsociety.me/products/instant-age-rewind-eraser-concealer-lifter-liner-lip-liner-pencil-lifter-glaze-lip-balm-trio",
+"p": 24.32,
+"c": 30.4,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/Bravetogether-Bundles-08.jpg?v=1792400704&width=400",
+"type": "Casual",
+"tags": [
+"bettertogether",
+"Casual",
+"Casual Make Up",
+"Category_Make Up",
+"Make Up",
+"No-Sync",
+"Product Type_Value Deals",
+"Sub Category_Value Deals"
+],
+"in": true
+},
+{
+"t": "The Colossal Bubble Washable Mascara & Lifter Gel Lip Oil-In-Gel Lip Gloss & Lifter Serum Concealer Trio",
+"u": "https://skinsociety.me/products/the-colossal-bubble-washable-mascara-lifter-gel-lip-oil-in-gel-lip-gloss-lifter-serum-concealer-trio",
+"p": 24.84,
+"c": 31.05,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/Bravetogether-Bundles-07.jpg?v=1792399293&width=400",
+"type": "Casual",
+"tags": [
+"bettertogether",
+"Bundle",
+"Casual",
+"Casual Make Up",
+"No-Sync",
+"Product Type_Value Deals",
+"Sub Category_Value Deals",
+"SubCategory_Value Deals"
+],
+"in": false
+},
+{
+"t": "Lash Sensational Sky High Black Mascara & Gloss Lip Gloss Makeup with Hyaluronic Acid for smooth and hydrated lips Duo",
+"u": "https://skinsociety.me/products/lash-sensational-sky-high-black-mascara-gloss-lip-gloss-makeup-with-hyaluronic-acid-for-smooth-and-hydrated-lips-duo",
+"p": 16.8,
+"c": 21.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/Bravetogether-Bundles-05.jpg?v=1792398623&width=400",
+"type": "Casual",
+"tags": [
+"bravetogether",
+"Bundle",
+"Make Up",
+"No-Sync",
+"Product Type_Value Deals",
+"Sub Category_Value Deals",
+"SubCategory_Value Deals",
+"Value Deals"
+],
+"in": true
+},
+{
+"t": "Curls Spray 2nd Day",
+"u": "https://skinsociety.me/products/curls-spray-2nd-day",
+"p": 24.42,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/Screenshot2026-10-19111723.png?v=1792397859&width=400",
+"type": "Dermocosmetics",
+"tags": [
+"Brand_Phyto",
+"Category_Hair Expert",
+"Dermocosmetics",
+"Hair Care",
+"Hair Expert",
+"Item Type_Leave-in Conditioner",
+"Leave-in Conditioner",
+"Leave-in Conditionner"
+],
+"in": true
+},
+{
+"t": "Curls Definition Gel Cream Leave-In",
+"u": "https://skinsociety.me/products/curls-leave-in-cream",
+"p": 24.42,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/Screenshot2026-10-19110131.png?v=1792396903&width=400",
+"type": "Dermocosmetics",
+"tags": [
+"Brand_Phyto",
+"Category_Hair Expert",
+"Dermocosmetics",
+"Hair Care",
+"Hair Expert",
+"Item Type_Leave-in Conditioner",
+"Leave-in Conditioner",
+"Leave-in Conditionner"
+],
+"in": true
+},
+{
+"t": "Curls Moisturizing Shampoo",
+"u": "https://skinsociety.me/products/curls-moisturizing-shampoo",
+"p": 19.43,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/pdp_packshot_shampooing_boucles_phyto_1400x_86aa0303-20f5-413c-8c2a-fca92f3c4290.webp?v=1792131402&width=400",
+"type": "Dermocosmetics",
+"tags": [
+"Brand_Phyto",
+"Category_Hair Expert",
+"Dermocosmetics",
+"Hair Care",
+"Hair Expert",
+"Item Type_Shampoo",
+"Loyalty Program",
+"new arrivals"
+],
+"in": true
+},
+{
 "t": "Colon-X",
 "u": "https://skinsociety.me/products/colon-x",
 "p": 9.3,
@@ -328,7 +468,7 @@
 "SubCategory_Value Deals",
 "Value Deal"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Super Stay Vinyl Ink Long lasting Lipstick & The Colossal Bubble Washable Mascara & The Burgundy Bas Eyeshadow Palette Trio",
@@ -368,7 +508,7 @@
 "Product Type_Value Deals",
 "SKY26"
 ],
-"in": true
+"in": false
 },
 {
 "t": "The Colossal Bubble Washable Mascara & Lifter Serum Concealer Duo",
@@ -616,7 +756,7 @@
 "POSM",
 "SEARCH_IGNORE"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Ultra-Light Invisible Sunscreen SPF50+ - Gift",
@@ -1030,8 +1170,8 @@
 {
 "t": "Maybelline New York Lash Sensational Sky High Mascara - Volumizing & Lengthening",
 "u": "https://skinsociety.me/products/lash-sensational-sky-high-maybelline-new-york",
-"p": 8.8,
-"c": 11.0,
+"p": 11.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/MaybellineNewYorkLashSensationalSkyHighMascara-Volumizing_Lengthening.webp?v=1770110944&width=400",
 "type": "Casual",
@@ -1501,7 +1641,7 @@
 "new arrivals",
 "No-Sync"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Rogé Cavaillès Duo L'Homme Deo Roll-On + 1 Free L'Homme Deo Roll-On",
@@ -3290,7 +3430,7 @@
 "Face Serums",
 "Item Type_Face Serums"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Daily Repair Mineral UV 50",
@@ -3310,7 +3450,7 @@
 "Loyalty Program",
 "Mineral Sunscreen"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Valentino Black Laptop Sleeve - Gift",
@@ -3765,8 +3905,8 @@
 {
 "t": "Klorane Growth Accelerating Conditioner",
 "u": "https://skinsociety.me/products/klorane-growth-accelerating-conditioner",
-"p": 9.75,
-"c": 13.0,
+"p": 13.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/1_2_52eabaf1-0cd4-403c-bad6-1fcc0efca057.png?v=1790247734&width=400",
 "type": "Dermocosmetics",
@@ -3785,8 +3925,8 @@
 {
 "t": "Klorane Growth Accelerating Shampoo",
 "u": "https://skinsociety.me/products/klorane-growth-accelerating-shampoo",
-"p": 7.5,
-"c": 10.0,
+"p": 10.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/1_2_38769048-b3cc-4957-a5c1-18bf63352f2a.png?v=1790249722&width=400",
 "type": "Dermocosmetics",
@@ -3805,8 +3945,8 @@
 {
 "t": "Klorane Intense Growth Accelerator Serum with Adenosine",
 "u": "https://skinsociety.me/products/klorane-intense-growth-accelerator-serum-with-adenosine",
-"p": 21.0,
-"c": 28.0,
+"p": 28.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/1_2_1bba86e0-4ce4-48ec-ac9f-cbb6055f8ae5.png?v=1790247279&width=400",
 "type": "Dermocosmetics",
@@ -3940,7 +4080,7 @@
 "Face Serums",
 "Item Type_Day & Night Care"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Honey & Macadamia Nature Shampoo-100ml",
@@ -4717,7 +4857,7 @@
 "No-Sync",
 "Product Type_Value Deals"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Voluminous Panorama Brown Mascara & Plump Ambition Hyaluron Lip Oil & Hyaluron Tint Lip Stain Serum Trio",
@@ -4737,7 +4877,7 @@
 "Make Up",
 "No-Sync"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Veniece Hydra Repair Cream",
@@ -5481,26 +5621,6 @@
 "in": true
 },
 {
-"t": "Lifter Stix Multi-Use Face Stick & Lifter Gloss Lip Gloss &  Lifter Liner Lip Liner Pencil Trio",
-"u": "https://skinsociety.me/products/lifter-stix-multi-use-face-stick-lifter-gloss-lip-gloss-lifter-liner-lip-liner-pencil-trio-1",
-"p": 23.18,
-"c": 30.9,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/Bundles-Skinso-02.jpg?v=1786705910&width=400",
-"type": "Casual",
-"tags": [
-"Brand_Maybelline New York",
-"Bundle",
-"Casual",
-"Casual Make Up",
-"Maybelline New York",
-"mny27",
-"No-Sync",
-"Product Type_Value Deals"
-],
-"in": true
-},
-{
 "t": "Instant Age Rewind Eraser & Lash Sensational Sky High Brown Mascara Duo",
 "u": "https://skinsociety.me/products/instant-age-rewind-eraser-lash-sensational-sky-high-brown-mascara-duo",
 "p": 18.0,
@@ -5536,7 +5656,7 @@
 "No-Sync",
 "The Ordinary"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Pha 5% Exfoliating and Hydrating Lip Serum",
@@ -5822,7 +5942,7 @@
 "Skin Care",
 "Sub Category_Treatments"
 ],
-"in": true
+"in": false
 },
 {
 "t": "PCA Skin Anti-Redness Serum",
@@ -5942,7 +6062,7 @@
 "Skin Care",
 "Sub Category_Moisturizers"
 ],
-"in": true
+"in": false
 },
 {
 "t": "PCA Skin Hyaluronic Acid Overnight Mask",
@@ -6178,7 +6298,7 @@
 "Loyalty Program",
 "new arrivals"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Peel Shot Exfoliating Kojic Acid Turmeric Spray Serum",
@@ -6769,7 +6889,7 @@
 "korean",
 "Loyalty Program"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Geske Beauty Bag - Gift",
@@ -8185,7 +8305,7 @@
 "POSM",
 "SEARCH_IGNORE"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Prada La Femme Prada Eau De Parfum - Gift",
@@ -8611,7 +8731,7 @@
 "Product Type_Value Deals",
 "Sub Category_Value Deals"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Blue L'Exclusif Parfum",
@@ -11828,13 +11948,13 @@
 "Anniversary27",
 "Bath & Body"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Excellence Creme - Triple Protection Crème Colour",
 "u": "https://skinsociety.me/products/excellence-creme-triple-protection-creme-colour",
-"p": 5.96,
-"c": 7.45,
+"p": 7.45,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3061375114010_Excellence1Black.png?v=1701678560&width=400",
 "type": "Casual",
@@ -13293,7 +13413,7 @@
 "Item Type_Day & Night Care",
 "korean"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Ginseng Essence Water",
@@ -13513,7 +13633,7 @@
 "Loyalty Program",
 "Medicube"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Red Acne Body Wash",
@@ -15102,26 +15222,6 @@
 "in": false
 },
 {
-"t": "Lifter Stix Multi-Use Face Stick & Sunkisser Multi-Use Liquid Blush And Bronzer &  Lifter Gloss Lip Gloss Trio",
-"u": "https://skinsociety.me/products/lifter-stix-multi-use-face-stick-sunkisser-multi-use-liquid-blush-and-bronzer-lifter-gloss-lip-gloss-trio",
-"p": 24.98,
-"c": 33.3,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/Bundles-Skinso_Artboard2-13.jpg?v=1786710216&width=400",
-"type": "Casual",
-"tags": [
-"Brand_Maybelline New York",
-"Bundle",
-"Casual",
-"Casual Make Up",
-"Category_Make Up",
-"Make Up",
-"Maybelline New York",
-"mny27"
-],
-"in": true
-},
-{
 "t": "Cloudtopia Blush & Lash Sensational Sky High Mascara  & Instant Age Rewind Eraser Concealer Trio",
 "u": "https://skinsociety.me/products/cloudtopia-blush-lash-sensational-sky-high-mascara-instant-age-rewind-eraser-concealer-trio",
 "p": 24.38,
@@ -15695,7 +15795,7 @@
 "Product Type_Healthy Snacking",
 "Sub Category_Nutrition"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Gummies Hair & Nails",
@@ -16311,7 +16411,7 @@
 "SAVE20",
 "SAVE22"
 ],
-"in": false
+"in": true
 },
 {
 "t": "A313 Cream",
@@ -18304,8 +18404,8 @@
 {
 "t": "Keratin Alpha Sleek Smooth Transformer",
 "u": "https://skinsociety.me/products/keratin-alpha-sleek-smooth-transformer",
-"p": 32.8,
-"c": null,
+"p": 33.36,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/1_9e1c2438-5fbe-4673-be10-b3f0f6606570.png?v=1784615064&width=400",
 "type": "Professional Hair Care",
@@ -18325,7 +18425,7 @@
 "t": "The Age Support Set",
 "u": "https://skinsociety.me/products/the-age-support-set",
 "p": 57.0,
-"c": null,
+"c": 74.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/769915234626-TheOrdinary-THEAGESUPPORTSET.webp?v=1785233690&width=400",
 "type": "Dermocosmetics",
@@ -18344,8 +18444,8 @@
 {
 "t": "Keratin Alpha Sleek Serum",
 "u": "https://skinsociety.me/products/keratin-alpha-sleek-serum",
-"p": 29.9,
-"c": null,
+"p": 30.41,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/1_4d17bbb2-80df-46fb-9c78-5bdfe8f21bf3.png?v=1784616025&width=400",
 "type": "Professional Hair Care",
@@ -18403,8 +18503,8 @@
 {
 "t": "Keratin Alpha Sleek Professional Hair Mask",
 "u": "https://skinsociety.me/products/keratin-alpha-sleek-professional-hair-mask",
-"p": 32.8,
-"c": null,
+"p": 33.36,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/1_0f22ba93-f7f9-456d-8207-9c175f51289d.png?v=1784616545&width=400",
 "type": "Professional Hair Care",
@@ -18543,7 +18643,7 @@
 "t": "The Bright Set",
 "u": "https://skinsociety.me/products/the-bright-set",
 "p": 32.0,
-"c": null,
+"c": 46.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/4c98f6fe-5022-46c7-8797-ed47b3f67e70.webp?v=1785230195&width=400",
 "type": "Dermocosmetics",
@@ -18642,8 +18742,8 @@
 {
 "t": "Chronologiste Revitalizing Mask",
 "u": "https://skinsociety.me/products/chronologiste-revitalizing-mask",
-"p": 70.92,
-"c": null,
+"p": 72.12,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/kerastase-chronologiste-masque-intense-regenerant-hair-mask-main.jpg?v=1781588084&width=400",
 "type": "Professional Hair Care",
@@ -18717,7 +18817,7 @@
 "Brand_Estée Lauder",
 "Category_Make Up"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Shiseido Synchro Skin Self Refreshing Foundation -  Shiseido Gift",
@@ -20096,7 +20196,7 @@
 "Parapharmacy",
 "Product Type_Immunity Weakness"
 ],
-"in": true
+"in": false
 },
 {
 "t": "GNC Glutathione 250 Mg",
@@ -22124,7 +22224,7 @@
 "Product Type_Memory & Concentration",
 "Sub Category_Food Supplements"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Swanson Alpha Lipoic Acid 600Mg",
@@ -23632,7 +23732,7 @@
 "SubCategory_Value Deals",
 "Value Deal"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Vitamin C Micellar Water Facial Brightening Cleanser and Makeup Remover Duo",
@@ -23692,7 +23792,7 @@
 "No-Sync",
 "Product Type_Value Deals"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Micellar Water Oil-Infused Makeup Remover & Lash Sensational Sky High Mascara Duo",
@@ -24187,7 +24287,7 @@
 "Eye Care",
 "Gift Sets"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Garnier Olia Sunflower Yellow Towel - Gift",
@@ -26061,7 +26161,7 @@
 "Parapharmacy",
 "Product Type_Memory & Concentration"
 ],
-"in": true
+"in": false
 },
 {
 "t": "NOW Psyllium Husk 500 Mg",
@@ -26081,7 +26181,7 @@
 "Parapharmacy",
 "Product Type_Digestive Problems"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Phosphatidyl Serine 300 Mg",
@@ -26444,8 +26544,8 @@
 {
 "t": "Gloss Absolu Masque Creme Hydra-Glaze",
 "u": "https://skinsociety.me/products/gloss-absolu-masque-creme-hydra-glaze",
-"p": 62.29,
-"c": null,
+"p": 63.35,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3474637303365_1.jpg?v=1781269034&width=400",
 "type": "Professional Hair Care",
@@ -26464,8 +26564,8 @@
 {
 "t": "Gloss Absolu Frizz Glaze Cream",
 "u": "https://skinsociety.me/products/gloss-absolu-frizz-glaze-cream",
-"p": 62.35,
-"c": null,
+"p": 63.4,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/KER_KGLOSS.webp?v=1781587139&width=400",
 "type": "Professional Hair Care",
@@ -26484,8 +26584,8 @@
 {
 "t": "Kérastase Gloss Absolu Bain Riche Creamy Shampoo",
 "u": "https://skinsociety.me/products/kerastase-gloss-absolu-bain-riche-shampoo",
-"p": 32.27,
-"c": null,
+"p": 32.81,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3474637308728_EN_1.jpg?v=1781268521&width=400",
 "type": "Professional Hair Care",
@@ -26600,8 +26700,8 @@
 {
 "t": "Jelly Job Lip Gloss, Lip Tint Gloss with Full-Bodied, Smoothing, and Hyper-Glossy Shine",
 "u": "https://skinsociety.me/products/jelly-job-lip-gloss-lip-tint-gloss-with-full-bodied-smoothing-and-hyper-glossy-shine",
-"p": 13.6,
-"c": 17.0,
+"p": 17.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/51wyjVJLQhL._SL1500.jpg?v=1778053786&width=400",
 "type": "Casual",
@@ -27557,8 +27657,8 @@
 {
 "t": "Strengthening & Revitalizing Shampoo with Quinine and B Vitamins Trio Pack",
 "u": "https://skinsociety.me/products/strengthening-revitalizing-shampoo-with-quinine-and-b-vitamins-trio-pack",
-"p": 24.0,
-"c": 32.0,
+"p": 32.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/1_1_59daf77d-bddc-4716-a1ee-e9651ead433a.png?v=1780643534&width=400",
 "type": "Dermocosmetics",
@@ -28264,7 +28364,7 @@
 "Product Type_Healthy Snacking",
 "Sub Category_Nutrition"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Caramel Waffle Biscuit",
@@ -28484,7 +28584,7 @@
 "Hair Treatment",
 "Hair Treatment/Others"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Soft Baked Blush",
@@ -28844,7 +28944,7 @@
 "Item Type_Mascara",
 "Loyalty Program"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Silky Blur Translucent Loose Powder",
@@ -29044,7 +29144,7 @@
 "La Roche-Posay",
 "Loyalty Program"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Dermabsolu Filler Eye Contour Cream",
@@ -29252,7 +29352,7 @@
 "Parapharmacy",
 "Product Type_Bones & Osteoporosis"
 ],
-"in": true
+"in": false
 },
 {
 "t": "TMG",
@@ -29549,7 +29649,7 @@
 "Pain & Cramps",
 "Parapharmacy"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Liver Refresh™ Veg Capsules",
@@ -29694,8 +29794,8 @@
 {
 "t": "Blade & Shade, Dual Edged Brow Pencil & The Face Glue Setting Spray & The Face Glue Primer Trio",
 "u": "https://skinsociety.me/products/blade-shade-dual-edged-brow-pencil-the-face-glue-setting-spray-the-face-glue-primer-trio",
-"p": 29.6,
-"c": 37.0,
+"p": 37.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/Artboard4copy3-100_2e1b470c-aea2-483a-a361-640e92b2ad13.jpg?v=1778157081&width=400",
 "type": "Casual",
@@ -29714,8 +29814,8 @@
 {
 "t": "Fat Oil Lip Drip & Line Loud Lip Liner Pencil & Blade & Shade, Dual Edged Brow Pencil Trio",
 "u": "https://skinsociety.me/products/fat-oil-lip-drip-line-loud-lip-liner-pencil-blade-shade-dual-edged-brow-pencil-trio",
-"p": 27.2,
-"c": 34.0,
+"p": 34.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/Artboard4-100_9a2a884f-80ee-4d3b-a4b8-f78a3316febe.jpg?v=1778154784&width=400",
 "type": "Casual",
@@ -29734,8 +29834,8 @@
 {
 "t": "Buttermelt Bronzer & Buttermelt Highlighter & Blade & Shade, Dual Edged Brow Pencil Trio",
 "u": "https://skinsociety.me/products/buttermelt-bronzer-buttermelt-highlighter-blade-shade-dual-edged-brow-pencil-trio",
-"p": 32.8,
-"c": 41.0,
+"p": 41.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/Artboard3-100_ec87b28d-0af7-402e-9a0d-79e620d98004.jpg?v=1778154267&width=400",
 "type": "Casual",
@@ -29754,8 +29854,8 @@
 {
 "t": "Fat Oil Slick Click & Blade & Shade, Dual Edged Brow Pencil & Face Glue Primer Trio",
 "u": "https://skinsociety.me/products/fat-oil-slick-click-blade-shade-dual-edged-brow-pencil-face-glue-primer-trio",
-"p": 31.2,
-"c": 39.0,
+"p": 39.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/Artboard2-100_1_9f3f103a-ae2f-490f-970b-76bcca79c502.jpg?v=1778150723&width=400",
 "type": "Casual",
@@ -30175,7 +30275,7 @@
 "Eyes & Lips",
 "Item Type_Day & Night Care"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Hyalu Filler Lips",
@@ -30626,8 +30726,8 @@
 {
 "t": "Ultimate Shadow Palette",
 "u": "https://skinsociety.me/products/ultimate-shadow-palette",
-"p": 24.0,
-"c": 30.0,
+"p": 30.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/71jZIqmrivL._SL1200.jpg?v=1777281725&width=400",
 "type": "Casual",
@@ -31692,86 +31792,6 @@
 "Sub Category_Family Health"
 ],
 "in": true
-},
-{
-"t": "Lifter Stix Multi-Use Face Stick & Lifter Gloss Lip Gloss &  Lifter Liner Lip Liner Pencil Trio",
-"u": "https://skinsociety.me/products/lifter-stix-multi-use-face-stick-lifter-gloss-lip-gloss-lifter-liner-lip-liner-pencil-trio",
-"p": 30.9,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/sArtboard4copy-100_7743eb25-1fbb-431a-b617-1af1f0205762.jpg?v=1775723721&width=400",
-"type": "Casual",
-"tags": [
-"Brand_Maybelline New York",
-"Bundle",
-"Casual Make Up",
-"Category_Make Up",
-"Make Up",
-"Maybelline New York",
-"No-Sync",
-"Product Type_Value Deals"
-],
-"in": false
-},
-{
-"t": "Lifter Stix Multi-Use Face Stick & Lash Sensational Sky High Mascara & Lifter Gloss Lip Gloss Trio",
-"u": "https://skinsociety.me/products/lifter-stix-multi-use-face-stick-lash-sensational-sky-high-mascara-lifter-gloss-lip-gloss-trio",
-"p": 35.5,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/sArtboard3copy-100_d1fc79d0-ed5f-4489-b5ac-2ef1ce4769eb.jpg?v=1775723151&width=400",
-"type": "Casual",
-"tags": [
-"Brand_Maybelline New York",
-"Bundle",
-"Casual Make Up",
-"Category_Make Up",
-"Make Up",
-"No-Sync",
-"Product Type_Value Deals",
-"Sub Category_Value Deals"
-],
-"in": false
-},
-{
-"t": "Lifter Stix Multi-Use Face Stick &  Lifter Gloss Lip Gloss Offer",
-"u": "https://skinsociety.me/products/lifter-stix-multi-use-face-stick-lifter-gloss-lip-gloss-offer",
-"p": 22.5,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/sArtboard2copy-100_f60d6614-6cb1-4c56-9bd1-ea76c2104fe6.jpg?v=1775722796&width=400",
-"type": "Casual",
-"tags": [
-"Brand_Maybelline New York",
-"Bundle",
-"Casual Make Up",
-"Category_Make Up",
-"Make Up",
-"No-Sync",
-"Product Type_Value Deals",
-"Sub Category_Value Deals"
-],
-"in": false
-},
-{
-"t": "Lifter Stix Multi-Use Face Stick Duo",
-"u": "https://skinsociety.me/products/lifter-stix-multi-use-face-stick-duo",
-"p": 25.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/sArtboard1copy-100_16ff3291-8ef8-4629-8668-a49b23d3cf91.jpg?v=1775722415&width=400",
-"type": "Casual",
-"tags": [
-"Brand_Maybelline New York",
-"Bundle",
-"Casual Make Up",
-"Category_Make Up",
-"Make Up",
-"Maybelline New York",
-"No-Sync",
-"Product Type_Value Deals"
-],
-"in": false
 },
 {
 "t": "Beef Protein Isolate Ice Blast",
@@ -33358,8 +33378,8 @@
 {
 "t": "Vivid Matte Liquid Liner, Smear-Resistant Eyeliner with Precise Tip",
 "u": "https://skinsociety.me/products/vivid-matte-liquid-liner-smear-resistant-eyeliner-with-precise-tip",
-"p": 8.0,
-"c": 10.0,
+"p": 10.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/NYX-PMU-Makeup-Eyes-Eyeliner-VIVID-MATTE-LIQUID-LINER-VMLL01-BLACK-0800897233860-Closed.webp?v=1774257660&width=400",
 "type": "Casual",
@@ -33378,8 +33398,8 @@
 {
 "t": "Bare With Me Blur Tint",
 "u": "https://skinsociety.me/products/bare-with-me-blur-tint",
-"p": 11.6,
-"c": 14.5,
+"p": 14.5,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/61s4Z2Fm9xL._SL1500.jpg?v=1774256650&width=400",
 "type": "Casual",
@@ -33398,8 +33418,8 @@
 {
 "t": "Vivid Brights Liquid Liner, Smear-Resistant Eyeliner with Precise Tip",
 "u": "https://skinsociety.me/products/vivid-brights-liquid-liner-smear-resistant-eyeliner-with-precise-tip",
-"p": 8.0,
-"c": 10.0,
+"p": 10.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/61i6C96plPL._SL1500.jpg?v=1774255495&width=400",
 "type": "Casual",
@@ -33418,8 +33438,8 @@
 {
 "t": "Powder Louder, Brow Pencil, 12HR Wear, Buildable Micro-Fibers",
 "u": "https://skinsociety.me/products/powder-louder-brow-pencil",
-"p": 8.0,
-"c": 10.0,
+"p": 10.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/1-POWDERLOUDER-ASHBROWN.jpg?v=1771844122&width=400",
 "type": "Casual",
@@ -35164,7 +35184,7 @@
 "Fragrances",
 "Loyalty Program"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Hot One -  Eau De Parfum",
@@ -35662,7 +35682,7 @@
 "Protein Bars",
 "Sub Category_Nutrition"
 ],
-"in": true
+"in": false
 },
 {
 "t": "White Chocolate Raspberry Protein Bar",
@@ -36230,8 +36250,8 @@
 {
 "t": "The Brow Glue Instant Brow Styler",
 "u": "https://skinsociety.me/products/the-brow-glue-extreme-hold-eyebrow-gel",
-"p": 8.0,
-"c": 10.0,
+"p": 10.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/1-NYX-THEBROWGLUESTICK-02.jpg?v=1771848910&width=400",
 "type": "Casual",
@@ -36250,8 +36270,8 @@
 {
 "t": "Can't Stop Won't Stop Mattifying Pressed Powder",
 "u": "https://skinsociety.me/products/cant-stop-wont-stop-mattifying-pressed-powder",
-"p": 9.6,
-"c": 12.0,
+"p": 12.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/Can_tStopWon_tStop_2golden05.jpg?v=1772118245&width=400",
 "type": "Casual",
@@ -36270,8 +36290,8 @@
 {
 "t": "Slim Lip Pencil",
 "u": "https://skinsociety.me/products/slim-lip-pencil",
-"p": 4.0,
-"c": 5.0,
+"p": 5.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/2-NYX-SLIMLIPPENCIL-822COFFEE.jpg?v=1772118764&width=400",
 "type": "Casual",
@@ -36290,8 +36310,8 @@
 {
 "t": "Buttermelt Glaze Soft Glow Skin Tint + SPF/FPS 30, Foundation, 12h Wear",
 "u": "https://skinsociety.me/products/buttermelt-glaze-tint-spf40",
-"p": 14.4,
-"c": 18.0,
+"p": 18.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/1-NYX-BUTTERMELTGLAZETINT-08NUTMEGBUTTA.jpg?v=1772175375&width=400",
 "type": "Casual",
@@ -36310,8 +36330,8 @@
 {
 "t": "Jumbo Eye Pencil, Eyeshadow & Eyeliner Pencil",
 "u": "https://skinsociety.me/products/jumbo-eye-pencil",
-"p": 6.4,
-"c": 8.0,
+"p": 8.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/JumboEyePencil_1blackbean601.jpg?v=1772182358&width=400",
 "type": "Casual",
@@ -36330,8 +36350,8 @@
 {
 "t": "Can'T Stop Won'T Stop Contour Concealer, 24H Full Coverage Matte Finish",
 "u": "https://skinsociety.me/products/cant-stop-wont-stop-contour-concealer",
-"p": 9.6,
-"c": 12.0,
+"p": 12.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/1-NYX-CAN_TSTOPWON_TSTOPCONCEALER-13GOLDEN.jpg?v=1772183683&width=400",
 "type": "Casual",
@@ -36350,8 +36370,8 @@
 {
 "t": "Epic Ink Eyeliner",
 "u": "https://skinsociety.me/products/epic-ink-eyeliner",
-"p": 10.0,
-"c": 12.5,
+"p": 12.5,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/1-EpicInkEyeliner-DarkChocolate.jpg?v=1772616573&width=400",
 "type": "Casual",
@@ -36370,8 +36390,8 @@
 {
 "t": "Buttermelt Highlighter",
 "u": "https://skinsociety.me/products/buttermelt-highlighter",
-"p": 12.0,
-"c": 15.0,
+"p": 15.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/1-NYX-BUTTERMELTHIGHLIGHTER-10GLAZEITBUTTA.jpg?v=1772610279&width=400",
 "type": "Casual",
@@ -36390,8 +36410,8 @@
 {
 "t": "Liquid Lipstick, Creamy And Matte Finish, Highly Pigmented Colour, Long Lasting, Vegan Formula, Soft Matte Lip Cream",
 "u": "https://skinsociety.me/products/soft-matte-lip-cream",
-"p": 7.2,
-"c": 9.0,
+"p": 9.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/Artboard2copy-100_60a2deb4-a0af-46a5-9c61-292eab844daf.jpg?v=1772609846&width=400",
 "type": "Casual",
@@ -36410,8 +36430,8 @@
 {
 "t": "The Face Glue Setting Spray, Transfer-Resistant Waterproof Setting Spray, Up to 24HR Make Up Wear",
 "u": "https://skinsociety.me/products/the-face-glue-setting-spray-transfer-resistant-waterproof-setting-spray-up-to-24hr-make-up-wear",
-"p": 10.4,
-"c": 13.0,
+"p": 13.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/1-THEFACEGLUEGRIPPINGPRIMER.jpg?v=1772539870&width=400",
 "type": "Casual",
@@ -36430,8 +36450,8 @@
 {
 "t": "Epic Wear Liner Stick",
 "u": "https://skinsociety.me/products/epic-wear-liner-stick",
-"p": 7.6,
-"c": 9.5,
+"p": 9.5,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/2-EpicWearLinerStick-TurquoiseStorm.jpg?v=1772539463&width=400",
 "type": "Casual",
@@ -36450,8 +36470,8 @@
 {
 "t": "Duck Plump Plumping Lip Liner Up To 10 HR Wear, Matte Finish",
 "u": "https://skinsociety.me/products/duck-plump-plump-liner",
-"p": 9.6,
-"c": 12.0,
+"p": 12.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/1-DuckPlumpLinerNyx-FlirtyFlip.jpg?v=1772536769&width=400",
 "type": "Casual",
@@ -36470,8 +36490,8 @@
 {
 "t": "Plump Right Back Primer",
 "u": "https://skinsociety.me/products/plump-right-back-primer",
-"p": 16.0,
-"c": 20.0,
+"p": 20.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/1-PLUMRIGHTBACKPRIMER.jpg?v=1772185164&width=400",
 "type": "Casual",
@@ -36490,8 +36510,8 @@
 {
 "t": "Blurring Pore Filler, Face Primer Stick, Vitamin E Infused, Clear",
 "u": "https://skinsociety.me/products/pore-filler-stick",
-"p": 8.8,
-"c": 11.0,
+"p": 11.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/1-POREFILLERSTICK.jpg?v=1772184474&width=400",
 "type": "Casual",
@@ -36510,8 +36530,8 @@
 {
 "t": "Butter Gloss, Non-Sticky Lip Gloss",
 "u": "https://skinsociety.me/products/butter-gloss-non-sticky-lip-gloss",
-"p": 6.4,
-"c": 8.0,
+"p": 8.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/ButterGloss_1angelfood15.jpg?v=1772535217&width=400",
 "type": "Casual",
@@ -36530,8 +36550,8 @@
 {
 "t": "Bare With Me Serum Concealer",
 "u": "https://skinsociety.me/products/bare-with-me-serum-concealer",
-"p": 11.2,
-"c": 14.0,
+"p": 14.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3-NYX-BAREWITHMESERUMCONCEALER-04BEIGE.jpg?v=1772534376&width=400",
 "type": "Casual",
@@ -36550,8 +36570,8 @@
 {
 "t": "Fat Cheeks Juicy Blush, Liquid Blush, 12 HR Wear",
 "u": "https://skinsociety.me/products/fat-cheeks-blush",
-"p": 9.6,
-"c": 12.0,
+"p": 12.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/1-NYX-FATBLUSH-02-FIGFIZZ.jpg?v=1772533226&width=400",
 "type": "Casual",
@@ -36570,8 +36590,8 @@
 {
 "t": "Buttermelt Blush, Powder Blush, up to 12 H Wear, Fade & Transfer Resistant",
 "u": "https://skinsociety.me/products/buttermelt-blush-powder-blush-up-to-12-h-wear-fade-transfer-resistant",
-"p": 10.4,
-"c": 13.0,
+"p": 13.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/1-NYX-BUTTERMELTBLUSH-07ButtaWithTime.jpg?v=1772185358&width=400",
 "type": "Casual",
@@ -36590,8 +36610,8 @@
 {
 "t": "Thick It Stick It Brow Mascara Gel",
 "u": "https://skinsociety.me/products/thick-it-stick-it-brow-mascara",
-"p": 10.4,
-"c": 13.0,
+"p": 13.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/1-NYX-THICKITSTICKITBROWMASCARA-06BRUNETTE.jpg?v=1771858270&width=400",
 "type": "Casual",
@@ -36610,8 +36630,8 @@
 {
 "t": "Line Loud Lip Liner Pencil",
 "u": "https://skinsociety.me/products/line-loud-lip-pencil",
-"p": 8.0,
-"c": 10.0,
+"p": 10.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/LineLoud_1sassy.jpg?v=1771919228&width=400",
 "type": "Casual",
@@ -36630,8 +36650,8 @@
 {
 "t": "Epic Wear Liquid Liner, Long-Lasting Waterproof Eyeliner",
 "u": "https://skinsociety.me/products/epic-wear-liquid-liner",
-"p": 10.0,
-"c": 12.5,
+"p": 12.5,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/1-EpicWearLiquidLiners-Brown.jpg?v=1771860037&width=400",
 "type": "Casual",
@@ -36650,8 +36670,8 @@
 {
 "t": "Makeup Setting Spray - Dewy Finish, Long-Lasting Face Mist for up to 16HR Wear",
 "u": "https://skinsociety.me/products/makeup-setting-spray-dewy-finish-long-lasting-face-mist-for-up-to-16hr-wear",
-"p": 8.8,
-"c": 11.0,
+"p": 11.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/1-MAKEUPSETTINGSPRAY-DEWY.jpg?v=1772103107&width=400",
 "type": "Casual",
@@ -36670,8 +36690,8 @@
 {
 "t": "Lip IV Hydrating Gloss Stain, Lip Gloss, Up to 12HR Hydration, High Pigment, Wet Shine Finish",
 "u": "https://skinsociety.me/products/lip-iv-hydrating-gloss-stain-lip-gloss-up-to-12hr-hydration-high-pigment-wet-shine-finish",
-"p": 11.2,
-"c": 14.0,
+"p": 14.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/2-NYX-LipIV-01CaramelDrip-800897266967.jpg?v=1771917182&width=400",
 "type": "Casual",
@@ -36690,8 +36710,8 @@
 {
 "t": "Smushy Matte Lip Balm, Soft Diffused Color, Matte Finish",
 "u": "https://skinsociety.me/products/smushy-matte-lip-balm-tinted-lip-moisturizer-with-soft-matte-finish",
-"p": 10.4,
-"c": 13.0,
+"p": 13.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/1-NYX-SMUSHYMATTELIPBALM-SASSYSTUFF.jpg?v=1772104433&width=400",
 "type": "Casual",
@@ -36710,8 +36730,8 @@
 {
 "t": "Epic Smoke Liner Blendable Eyeliner Stick, Vegan Formula",
 "u": "https://skinsociety.me/products/epic-smoke-liner",
-"p": 10.0,
-"c": 12.5,
+"p": 12.5,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/1-EpicSmokeLiner-WhiteSmoke.jpg?v=1772185971&width=400",
 "type": "Casual",
@@ -36730,8 +36750,8 @@
 {
 "t": "Buttermelt Bronzer, Powder Bronzer, 12 HR Wear, Fade Resistant & Transfer Resistant, Buildable, Vegan",
 "u": "https://skinsociety.me/products/buttermelt-bronzer",
-"p": 10.4,
-"c": 13.0,
+"p": 13.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/Artboard1copy2-100_94068788-fed8-4b2e-a939-9e17898f6067.jpg?v=1772199167&width=400",
 "type": "Casual",
@@ -36741,16 +36761,15 @@
 "Loyalty Program",
 "new arrivals",
 "No-Sync",
-"NYX Professional Makeup",
-"Value Deals"
+"NYX Professional Makeup"
 ],
 "in": false
 },
 {
 "t": "Duck Plump High Pigment Lip Gloss, Lip Plumper Gloss",
 "u": "https://skinsociety.me/products/duck-plump-high-pigment-lip-gloss-lip-plumper-gloss",
-"p": 12.0,
-"c": 15.0,
+"p": 15.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/1-DUCKPLUMPLIPPLUMPING-APRI-CAUGHT.jpg?v=1772451009&width=400",
 "type": "Casual",
@@ -36769,8 +36788,8 @@
 {
 "t": "Pro Fix Stick Correcting Concealer",
 "u": "https://skinsociety.me/products/pro-fix-stick",
-"p": 8.8,
-"c": 11.0,
+"p": 11.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/Pro_Fix_Stick_1_vanilla_05.jpg?v=1772528274&width=400",
 "type": "Casual",
@@ -36789,8 +36808,8 @@
 {
 "t": "Can't Stop Won't Stop Mattifying Powder",
 "u": "https://skinsociety.me/products/cant-stop-wont-stop-mattifying-powder",
-"p": 9.6,
-"c": 12.0,
+"p": 12.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/Can_tStopWon_tStop_2lightmedium03.jpg?v=1772529725&width=400",
 "type": "Casual",
@@ -36809,8 +36828,8 @@
 {
 "t": "Buttermelt Blush, Powder Blush, up to 12 H Wear",
 "u": "https://skinsociety.me/products/buttermelt-blush",
-"p": 10.4,
-"c": 13.0,
+"p": 13.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/1-NYX-BUTTERMELTBLUSH-08GettingButta.jpg?v=1772530328&width=400",
 "type": "Casual",
@@ -36829,8 +36848,8 @@
 {
 "t": "Micro Brow Pencil, Ultra-Fine, Dual-Ended, Precise Eyebrow Pencil with Retractable Tip and Spoolie Brush",
 "u": "https://skinsociety.me/products/micro-brow-pencil",
-"p": 8.8,
-"c": 11.0,
+"p": 11.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/1-MICROBROWPENCIL-ASHBROWN.jpg?v=1771843329&width=400",
 "type": "Casual",
@@ -36849,8 +36868,8 @@
 {
 "t": "Fat Oil Lip Drip, Moisturizing, Shiny, Vegan Tinted Lip Gloss, Non-Sticky Finish, 12H Hydration, Squalane, Raspberry and Cloudberry Oils",
 "u": "https://skinsociety.me/products/fat-oil-lip-drip",
-"p": 8.8,
-"c": 11.0,
+"p": 11.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/FatOilLipdrip_5Mymain01.jpg?v=1772530994&width=400",
 "type": "Casual",
@@ -36869,8 +36888,8 @@
 {
 "t": "Blade & Shade, Dual Edged Brow Pencil, Up to 16HR wear, Smooth-glide pigment",
 "u": "https://skinsociety.me/products/blade-n-shade-brow-pencil",
-"p": 10.4,
-"c": 13.0,
+"p": 13.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/Blade_ShadePDPS_1AshBrown.jpg?v=1771835739&width=400",
 "type": "Casual",
@@ -36889,8 +36908,8 @@
 {
 "t": "Butter Gloss",
 "u": "https://skinsociety.me/products/butter-gloss",
-"p": 6.4,
-"c": 8.0,
+"p": 8.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/ButterGloss_1praline16.jpg?v=1772532632&width=400",
 "type": "Casual",
@@ -36909,8 +36928,8 @@
 {
 "t": "Pore Filler, Makeup Primer Base, Minimised Pores, Even Complexion, Light Formula, Vegan Formula",
 "u": "https://skinsociety.me/products/pore-filler-primer",
-"p": 14.4,
-"c": 18.0,
+"p": 18.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/1-POREFILLERPRIMER.jpg?v=1772184792&width=400",
 "type": "Casual",
@@ -36929,8 +36948,8 @@
 {
 "t": "Fat Oil Slick Click",
 "u": "https://skinsociety.me/products/fat-oil-slick-click",
-"p": 10.4,
-"c": 13.0,
+"p": 13.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/1-FatOilSlickClick-CaptionThis.jpg?v=1772614438&width=400",
 "type": "Casual",
@@ -36949,8 +36968,8 @@
 {
 "t": "Lift & Snatch! Brow Tint Pen",
 "u": "https://skinsociety.me/products/lift-n-snatch-brow-tint-pen",
-"p": 10.4,
-"c": 13.0,
+"p": 13.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/Lift_SnatchPDPS_1ashbrown.jpg?v=1771838983&width=400",
 "type": "Casual",
@@ -36969,8 +36988,8 @@
 {
 "t": "Fill & Fluff Eyebrow Pomade Pencil",
 "u": "https://skinsociety.me/products/fill-fluff-eyebrow-pomade-pencil",
-"p": 10.4,
-"c": 13.0,
+"p": 13.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/2-NYX-FILL_FLUFFEYEBROW-06BRUNETTE.png?v=1771837825&width=400",
 "type": "Casual",
@@ -36989,8 +37008,8 @@
 {
 "t": "Smooth Whip Matte Lip Cream Liquid Lipstick",
 "u": "https://skinsociety.me/products/smooth-whip-matte-lip-cream-liquid-lipstick",
-"p": 7.2,
-"c": 9.0,
+"p": 9.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/LIPWHIPLIPCREAM__3_lattefoam.jpg?v=1772609342&width=400",
 "type": "Casual",
@@ -37009,8 +37028,8 @@
 {
 "t": "Wonder Stick Blush with Hydrating Hyaluronic Acid, Dual-Ended Cream Blush Stick",
 "u": "https://skinsociety.me/products/wonder-stick-blush-with-hydrating-hyaluronic-acid-dual-ended-cream-blush-stick",
-"p": 12.8,
-"c": 16.0,
+"p": 16.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/WonderStickBlush_9CoralNDeeppeach03.jpg?v=1772540442&width=400",
 "type": "Casual",
@@ -37029,8 +37048,8 @@
 {
 "t": "The Brow Glue Extreme Hold Eyebrow Setting Gel, 16 Hour Hold, Vegan Formula, Natural Finish, Brush Applicator",
 "u": "https://skinsociety.me/products/the-brow-glue-extreme-hold-eyebrow-setting-gel-16-hour-hold-vegan-formula-natural-finish-brush-applicator",
-"p": 8.0,
-"c": 10.0,
+"p": 10.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/1-NYX-THEBROWGLUESTICK-01.jpg?v=1771845117&width=400",
 "type": "Casual",
@@ -37049,8 +37068,8 @@
 {
 "t": "Epic Wear Liquid Liner, Long-Lasting Waterproof Eyeliner",
 "u": "https://skinsociety.me/products/epic-wear-matte-liquid-liner",
-"p": 10.0,
-"c": 12.5,
+"p": 12.5,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/1-EpicWearLiquidLiners-Red.jpg?v=1772091583&width=400",
 "type": "Casual",
@@ -37069,8 +37088,8 @@
 {
 "t": "Setting Spray - No Fading, Sweeping or Dispensing Fixing Spray - 60ml",
 "u": "https://skinsociety.me/products/marshmellow-makeup-setting-spray-matte-setting-spray-mist-for-16hr-make-up-wear-long-lasting-vegan-formula",
-"p": 9.6,
-"c": 12.0,
+"p": 12.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/1-THEMARSHMELLOWSETTINGSPRAY.jpg?v=1772091772&width=400",
 "type": "Casual",
@@ -37089,8 +37108,8 @@
 {
 "t": "Zero to Brow Longwear Brow Gel, Transfer-resistant, fade-resistant, and smudge-resistant (Vegan)",
 "u": "https://skinsociety.me/products/zero-to-brow-gel",
-"p": 10.4,
-"c": 13.0,
+"p": 13.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/1-NYX-ZEROTOBROWGEL-TAUPE.jpg?v=1772091996&width=400",
 "type": "Casual",
@@ -37109,8 +37128,8 @@
 {
 "t": "Jumbo Artistry Face Stick",
 "u": "https://skinsociety.me/products/jumbo-artistry-face-stick",
-"p": 8.0,
-"c": 10.0,
+"p": 10.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/1-JUMBOARTISTRYFACESTICK-COCONUTCAKE.jpg?v=1771858915&width=400",
 "type": "Casual",
@@ -37129,8 +37148,8 @@
 {
 "t": "Setting Spray - Matte Finish, Lightweight, Long-Lasting, Extends Makeup Wear Up to 16 hours, Vegan and Cruelty Free Formula, 60ml",
 "u": "https://skinsociety.me/products/makeup-setting-spray-matte",
-"p": 8.8,
-"c": 11.0,
+"p": 11.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/1-MAKEUPSETTINGSPRAY-MATTE.jpg?v=1772092613&width=400",
 "type": "Casual",
@@ -37149,8 +37168,8 @@
 {
 "t": "Line Loud Lip Liner Pencil, Magic Maker",
 "u": "https://skinsociety.me/products/line-loud-lip-liner-pencil",
-"p": 8.0,
-"c": 10.0,
+"p": 10.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/LineLoud_1Ambition.jpg?v=1772093643&width=400",
 "type": "Casual",
@@ -37169,8 +37188,8 @@
 {
 "t": "The Marshmellow Primer Set, Makeup Primer Base, Skin-Focused Primer for Smooth & Even Complexion, Marshmallow Root, Vegan Formula",
 "u": "https://skinsociety.me/products/marshmellow-smoothing-primer-vegan-face-primer-10-in-1-skin-benefits",
-"p": 16.0,
-"c": 20.0,
+"p": 20.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/1-THEMARSHMELLOWPRIMER.jpg?v=1772098528&width=400",
 "type": "Casual",
@@ -38206,8 +38225,8 @@
 {
 "t": "Glacial Utopia Absolut Repair Molecular Duo Set",
 "u": "https://skinsociety.me/products/glacial-utopia-absolut-repair-molecular-duo-set",
-"p": 42.86,
-"c": null,
+"p": 43.58,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/Absoult-Repair-Molecular-Set-Shampoo-Serum-Duo-550ML.webp?v=1772198478&width=400",
 "type": "Professional Hair Care",
@@ -38810,46 +38829,6 @@
 "Make Up",
 "mny26r",
 "No-Sync"
-],
-"in": false
-},
-{
-"t": "Lifter Stix & Lifter Glaze Lip Balm & Sky High Mascara Trio",
-"u": "https://skinsociety.me/products/lifter-stix-lifter-glaze-lip-balm-sky-high-mascara-trio",
-"p": 25.2,
-"c": 36.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/Ramadanbundles-MNY-2026-1_SKINSO-51.jpg?v=1771425089&width=400",
-"type": "Casual",
-"tags": [
-"Bundle",
-"Category_Make Up",
-"Make Up",
-"mny26r",
-"No-Sync",
-"Product Type_Value Deals",
-"Sub Category_Value Deals",
-"SubCategory_Value Deals"
-],
-"in": false
-},
-{
-"t": "Lifter Glaze Lip Balm & Super Stay Lumi-Matte & lash Sensational Sky High Mascara trio",
-"u": "https://skinsociety.me/products/lifter-glaze-lip-balm-super-stay-lumi-matte-lash-sensational-sky-high-mascara-trio",
-"p": 26.25,
-"c": 37.5,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/Ramadanbundles-MNY-2026-1_SKINSO-50.jpg?v=1771424719&width=400",
-"type": "Casual",
-"tags": [
-"Brand_Maybelline New York",
-"Bundle",
-"Casual",
-"Casual Make Up",
-"mny26r",
-"No-Sync",
-"Product Type_Value Deals",
-"Sub Category_Value Deals"
 ],
 "in": false
 },
@@ -39544,7 +39523,7 @@
 "Eau De Parfum",
 "For Her"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Glossy Pout Tinted Lip Oil",
@@ -39804,7 +39783,7 @@
 "Product Type_Body Building",
 "Sub Category_Food Supplements"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Plant Based Protein Vanilla",
@@ -40484,7 +40463,7 @@
 "Parapharmacy",
 "Product Type_Body Building"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Protein Power Vanilla 1000 Gr",
@@ -40664,7 +40643,7 @@
 "Parapharmacy",
 "Product Type_Body Building"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Protein Beef Chocolate",
@@ -40703,26 +40682,6 @@
 "Parapharmacy",
 "Product Type_Healthy Snacking",
 "Sub Category_Nutrition"
-],
-"in": false
-},
-{
-"t": "Lifter Glaze Lip Balm Trio",
-"u": "https://skinsociety.me/products/lifter-glaze-lip-balm-trio",
-"p": 31.5,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/sArtboard1copy-100_33b729e0-8242-46e0-99ef-a4e148fed5c7.jpg?v=1770813856&width=400",
-"type": "Casual",
-"tags": [
-"Brand_Maybelline New York",
-"Bundle",
-"Casual",
-"Casual Make Up",
-"Category_Make Up",
-"Lip Care",
-"Lips",
-"Make Up"
 ],
 "in": false
 },
@@ -41364,7 +41323,7 @@
 "Product Type_Accessories",
 "Product Type_Toothbrushes"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Interdental Brush Size 2 -0.5MM",
@@ -41384,7 +41343,7 @@
 "Product Type_Accessories",
 "Product Type_Toothbrushes"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Cavity Fighter Fresh Mint Toothpaste",
@@ -41404,7 +41363,7 @@
 "Sub Category_Dental Care",
 "Toothpaste"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Nova Medium Toothbrush",
@@ -41424,7 +41383,7 @@
 "Sub Category_Dental Care",
 "Toothbrushes"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Complete 8 Charcoal Toothpaste",
@@ -41484,7 +41443,7 @@
 "Sub Category_Dental Care",
 "Toothbrushes"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Interdental Angle Brush Size 1 -0.45MM",
@@ -41664,7 +41623,7 @@
 "Product Type_Healthy Snacking",
 "Sub Category_Nutrition"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Organic Maple Peanut Butter",
@@ -43824,7 +43783,7 @@
 "Product Type_Healthy Snacking",
 "Sub Category_Nutrition"
 ],
-"in": false
+"in": true
 },
 {
 "t": "White Chocolate Rice Bar",
@@ -44344,7 +44303,7 @@
 "Face Serums",
 "Ingredient_Niacinamide"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Reviving Ice Cubes",
@@ -44504,7 +44463,7 @@
 "Loyalty Program",
 "Luxury Skin Care"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Urea Cica Repair Body Lotion - For Keratosis Pilaris, Dry, Flaky, Strawberry, Rough, & Fragile Skin & Tiny Reddish Bumps - With 5% Urea and Panthenol",
@@ -44564,7 +44523,7 @@
 "eye creams & serums",
 "Item Type_Day & Night Care"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Aqua Cocoon Rich Hydra-Revitalising Cream",
@@ -46053,7 +46012,7 @@
 "Parapharmacy",
 "Product Type_Accessories"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Tongue Cleaner",
@@ -46093,7 +46052,7 @@
 "Parapharmacy",
 "Product Type_Accessories"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Easy Pick XS-S",
@@ -46113,7 +46072,7 @@
 "Parapharmacy",
 "Product Type_Accessories"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Interdental Brush 0.7mm S4 Yellow",
@@ -47533,7 +47492,7 @@
 "Product Type_Healthy Snacking",
 "Sub Category_Nutrition"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Dark Chocolate Filled Mini Biscuit Bag",
@@ -48013,7 +47972,7 @@
 "Dermocosmetics",
 "Item Type_Day & Night Care"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Hyalu-Filler Hydrating Plumping Serum",
@@ -49753,7 +49712,7 @@
 "Item Type_Day & Night Care",
 "Item Type_Sunscreens"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Vital Perfection Advanced Eye Cream",
@@ -51572,8 +51531,8 @@
 {
 "t": "Chronologiste L'Huile De Parfum Fragrance-In-Oil - Refill",
 "u": "https://skinsociety.me/products/chronologiste-lhuile-de-parfum-fragrance-in-oil-refill",
-"p": 69.27,
-"c": null,
+"p": 70.45,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3474637219482_87bd565c-4a10-44cb-b878-71a55f07db6b.jpg?v=1765550211&width=400",
 "type": "Professional Hair Care",
@@ -51772,7 +51731,7 @@
 {
 "t": "Absolut Repair Molecular Bi-Phase Oil",
 "u": "https://skinsociety.me/products/absolut-repair-molecular-set",
-"p": 55.04,
+"p": 55.97,
 "c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3474637292454.jpg?v=1764929510&width=400",
@@ -52000,7 +51959,7 @@
 "Product Type_Shampoo & Conditioner",
 "Product Type_Soap & Shower Gel"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Baby Extra Sensitive Wipes",
@@ -53214,7 +53173,7 @@
 "Product Type_Skin Beauty",
 "Skin Beauty"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Crystal Noir Eau de Parfum Holiday Set",
@@ -54034,7 +53993,7 @@
 "Product Type_Bottles Accessories",
 "Sub Category_Baby Feeding"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Cheers 360 Cup 6M+",
@@ -54852,7 +54811,7 @@
 "Grooming Accessories",
 "Product Type_Grooming Accessories"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Scissors 1M+",
@@ -55937,8 +55896,8 @@
 {
 "t": "Resistance Bain de Force Architecte",
 "u": "https://skinsociety.me/products/resistance-bain-de-force-architecte",
-"p": 54.85,
-"c": null,
+"p": 55.79,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3474630539563.jpg?v=1764748798&width=400",
 "type": "Professional Hair Care",
@@ -56712,7 +56671,7 @@
 "Product Type_Accessories",
 "Sub Category_Family Health"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Farmactive Plaster Spray",
@@ -58666,6 +58625,46 @@
 "Loyalty Program",
 "new arrivals",
 "No-Sync"
+],
+"in": true
+},
+{
+"t": "Lady Rainbow Brush LG 11047",
+"u": "https://skinsociety.me/products/lady-rainbow-brush-lg-11047",
+"p": 16.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/931046110470.jpg?v=1764168714&width=400",
+"type": "Casual",
+"tags": [
+"Brand_Lady Jayne",
+"Casual",
+"Casual Hair Care",
+"Loyalty Program",
+"new arrivals",
+"No-Sync",
+"SAVE20",
+"SAVE22"
+],
+"in": true
+},
+{
+"t": "Lady Bandeau 2029",
+"u": "https://skinsociety.me/products/lady-bandeau-2029",
+"p": 5.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/9310460020298.jpg?v=1764168837&width=400",
+"type": "Casual",
+"tags": [
+"Brand_Lady Jayne",
+"Casual",
+"Casual Hair Care",
+"Loyalty Program",
+"new arrivals",
+"No-Sync",
+"SAVE20",
+"SAVE22"
 ],
 "in": true
 }
