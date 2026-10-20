@@ -192,19 +192,6 @@
 "in": true
 },
 {
-"t": "RIEDEL Bar Tequila",
-"u": "https://vintagewinespirits.com/products/riedel-resort-double-rocks-unbreakable-copy-1",
-"p": 32.0,
-"c": null,
-"cur": "USD",
-"img": "",
-"type": "Spirits and Water Glass",
-"tags": [
-"Springsale"
-],
-"in": true
-},
-{
 "t": "Piccini Rosato Costa Toscana Organic 2025",
 "u": "https://vintagewinespirits.com/products/piccini-rosato-costa-toscana-organic-copy",
 "p": 10.99,
@@ -281,7 +268,7 @@
 "JD0825",
 "july14"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Cheval Noir Bordeaux Rouge 2023",
@@ -6351,7 +6338,7 @@
 {
 "t": "Arak Al Karram - 75 Cl",
 "u": "https://vintagewinespirits.com/products/arak-al-karram-75-cl",
-"p": 20.0,
+"p": 15.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0738/8597/4801/products/Arak-Al-Karram-75CL.jpg?v=1680180114&width=400",
