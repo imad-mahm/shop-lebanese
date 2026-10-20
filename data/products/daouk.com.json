@@ -2100,7 +2100,7 @@
 "in": true
 },
 {
-"t": "Cosrx Advanced Snail Hydrogel Eye Patch, 60 Pieces",
+"t": "Cosrx Advanced Snail Hydrogel Eye Patch",
 "u": "https://daouk.com/products/cosrx-advanced-snail-hydrogel-eye-patch",
 "p": 28.0,
 "c": 34.35,
@@ -13900,7 +13900,7 @@
 "kb-rewritten",
 "seo-rewritten"
 ],
-"in": false
+"in": true
 },
 {
 "t": "L'Oreal Professionnel Serie Expert Serioxyl Advanced Shampoo 300ml",
@@ -15139,39 +15139,6 @@
 "in": true
 },
 {
-"t": "Kerastase Genesis Homme Spray De Force Epaississant 150ml",
-"u": "https://daouk.com/products/kerastase-spray-de-force-epaississant-spray-150ml",
-"p": 49.0,
-"c": 43.83,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/kerastase-genesis-homme-spray-de-force-epaississant-150ml-izzat-daouk-2.jpg?v=1791748619&width=400",
-"type": "leave in",
-"tags": [
-"150ml",
-"kb-rewritten",
-"KERASTASE",
-"LEAVE-IN",
-"seo-rewritten"
-],
-"in": true
-},
-{
-"t": "Kerastase Symbiose Detangling Conditioner 200ml",
-"u": "https://daouk.com/products/kerastase-symbiose-detangling-soothing-cellular-conditioner-6-7-oz-hair-care-200ml",
-"p": 57.0,
-"c": 54.01,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/kerastase-symbiose-detangling-conditioner-200ml-izzat-daouk-1.jpg?v=1791748618&width=400",
-"type": "conditioner",
-"tags": [
-"Hair Conditioner",
-"kb-rewritten",
-"KERASTASE",
-"seo-rewritten"
-],
-"in": true
-},
-{
 "t": "Old Spice After Shave Lotion 150ml",
 "u": "https://daouk.com/products/old-spice-aftershave-lotion-150ml",
 "p": 30.0,
@@ -15729,216 +15696,6 @@
 "in": true
 },
 {
-"t": "Kerastase Discipline Masque Oleo Relax 200ml",
-"u": "https://daouk.com/products/kerastase-discipline-masque-oleo-relax-200ml-1",
-"p": 71.0,
-"c": 69.89,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/kerastase-discipline-masque-oleo-relax-200ml-izzat-daouk-1.jpg?v=1791748618&width=400",
-"type": "",
-"tags": [
-"200ml",
-"kb-rewritten",
-"KERASTASE",
-"seo-rewritten"
-],
-"in": true
-},
-{
-"t": "Kerastase Bain Oleo Relax Shampoo 250ml",
-"u": "https://daouk.com/products/kerastase-bain-oleo-relax-250ml",
-"p": 40.0,
-"c": 34.35,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/kerastase-bain-oleo-relax-shampoo-250ml-izzat-daouk-1.png?v=1791748618&width=400",
-"type": "Hair Shampoo",
-"tags": [
-"250ml",
-"kb-rewritten",
-"KERASTASE",
-"seo-rewritten"
-],
-"in": false
-},
-{
-"t": "Kerastase Discipline Fluidissime Spray 150ml",
-"u": "https://daouk.com/products/kerastase-discipline-fluidity-spray-150ml",
-"p": 76.0,
-"c": 75.33,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/kerastase-discipline-fluidissime-spray-150ml-izzat-daouk-1.png?v=1791748618&width=400",
-"type": "Hair Spray",
-"tags": [
-"150ml",
-"kb-rewritten",
-"KERASTASE",
-"seo-rewritten",
-"Spray"
-],
-"in": true
-},
-{
-"t": "Kerastase Discipline Fondant Fluidealiste 200ml",
-"u": "https://daouk.com/products/kerastase-discipline-revitalisant-fondant-fluidealiste-200-ml",
-"p": 65.0,
-"c": 52.12,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/kerastase-discipline-fondant-fluidealiste-200ml-izzat-daouk-1.jpg?v=1790535459&width=400",
-"type": "",
-"tags": [
-"200ml",
-"kb-rewritten",
-"KERASTASE",
-"seo-rewritten"
-],
-"in": true
-},
-{
-"t": "Kerastase Discipline Maskeratine Anti Frizz Hair Mask 200ml",
-"u": "https://daouk.com/products/kerastase-maskeratine-discipline-anti-frizz-200ml",
-"p": 75.0,
-"c": 69.89,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/kerastase-discipline-maskeratine-anti-frizz-hair-mask-200ml-izzat-daouk-1.png?v=1790535424&width=400",
-"type": "Hair Mask",
-"tags": [
-"200ml",
-"HAIR MASK",
-"kb-rewritten",
-"KERASTASE",
-"seo-rewritten"
-],
-"in": true
-},
-{
-"t": "Kerastase Discipline Bain Fluidealiste Sulfate Free Shampoo 250ml",
-"u": "https://daouk.com/products/kerastase-discipline-bain-fluidealiste-sulfate-free-shampoo-250ml",
-"p": 45.0,
-"c": 34.35,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/kerastase-discipline-bain-fluidealiste-sulfate-free-shampoo-250ml-izzat-daouk-1.jpg?v=1790540949&width=400",
-"type": "",
-"tags": [
-"250ml",
-"kb-rewritten",
-"KERASTASE",
-"seo-rewritten"
-],
-"in": false
-},
-{
-"t": "Kerastase Chroma Absolu Thermic Leave In Serum 150ml",
-"u": "https://daouk.com/products/kerastase-chroma-absolu-anti-frizz-thermic-leave-in-serum-150ml",
-"p": 50.0,
-"c": 46.2,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/kerastase-chroma-absolu-thermic-leave-in-serum-150ml-izzat-daouk-1.png?v=1790521315&width=400",
-"type": "",
-"tags": [
-"150ml",
-"kb-rewritten",
-"KERASTASE",
-"seo-rewritten",
-"Serum"
-],
-"in": true
-},
-{
-"t": "Kerastase Chroma Absolu Masque Vert Neutralising Hair Mask 200ml",
-"u": "https://daouk.com/products/kerastase-absolute-masque-vert-chroma-neutralist-hair-mask-200ml",
-"p": 55.0,
-"c": 52.12,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/kerastase-chroma-absolu-masque-vert-neutralising-hair-mask-200ml-izzat-daouk-1.jpg?v=1791748618&width=400",
-"type": "",
-"tags": [
-"kb-rewritten",
-"KERASTASE",
-"seo-rewritten"
-],
-"in": true
-},
-{
-"t": "Kerastase Chroma Absolu Masque Chroma Filler 200ml",
-"u": "https://daouk.com/products/kerastase-chroma-absolu-masque-chroma-filler-200ml-1",
-"p": 73.0,
-"c": 72.25,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/kerastase-chroma-absolu-masque-chroma-filler-200ml-izzat-daouk-1.png?v=1791748618&width=400",
-"type": "",
-"tags": [
-"200ml",
-"kb-rewritten",
-"KERASTASE",
-"seo-rewritten"
-],
-"in": true
-},
-{
-"t": "Kerastase Chroma Absolu Fondant Cica Chroma 200ml",
-"u": "https://daouk.com/products/kerastase-absolu-fondant-cica-chroma-200ml",
-"p": 50.0,
-"c": 58.04,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/kerastase-chroma-absolu-fondant-cica-chroma-200ml-izzat-daouk-1.webp?v=1790521206&width=400",
-"type": "",
-"tags": [
-"200ml",
-"kb-rewritten",
-"KERASTASE",
-"seo-rewritten"
-],
-"in": true
-},
-{
-"t": "Kerastase Chroma Absolu Bain Limpid Shampoo 250ml",
-"u": "https://daouk.com/products/kerastase-chroma-absolu-bain-limpid-shampoo-250ml",
-"p": 44.0,
-"c": 39.09,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/kerastase-chroma-absolu-bain-limpid-shampoo-250ml-izzat-daouk-1.jpg?v=1790523175&width=400",
-"type": "Shampoo",
-"tags": [
-"kb-rewritten",
-"KERASTASE",
-"Kerastase 250m",
-"seo-rewritten"
-],
-"in": true
-},
-{
-"t": "Kerastase Chroma Absolu Bain Opaque 250ml",
-"u": "https://daouk.com/products/kerastase-chroma-absolu-bain-opaque-250-ml",
-"p": 44.0,
-"c": 39.09,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/kerastase-chroma-absolu-bain-opaque-250ml-izzat-daouk-1.jpg?v=1791748590&width=400",
-"type": "",
-"tags": [
-"250ml",
-"kb-rewritten",
-"KERASTASE",
-"seo-rewritten"
-],
-"in": true
-},
-{
-"t": "Kerastase Nutritive Lotion Thermique 150ml",
-"u": "https://daouk.com/products/kerastase-lotion-thermique-nutritive-150ml",
-"p": 58.0,
-"c": 43.83,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/kerastase-nutritive-lotion-thermique-150ml-izzat-daouk-1.jpg?v=1790541115&width=400",
-"type": "",
-"tags": [
-"150ml",
-"kb-rewritten",
-"KERASTASE",
-"seo-rewritten"
-],
-"in": true
-},
-{
 "t": "Laneige Lip Sleeping Mask Matcha Bubble Tea 20g",
 "u": "https://daouk.com/products/laneige-lip-sleeping-mask-matcha-bubble-tea-20g",
 "p": 75.0,
@@ -15968,100 +15725,6 @@
 "seo-rewritten"
 ],
 "in": true
-},
-{
-"t": "Kerastase Nutritive Nectar Thermique 150ml",
-"u": "https://daouk.com/products/kerastase-nectar-thermique-150ml",
-"p": 55.0,
-"c": 46.2,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/kerastase-nutritive-nectar-thermique-150ml-izzat-daouk-1.jpg?v=1790540824&width=400",
-"type": "",
-"tags": [
-"kb-rewritten",
-"KERASTASE",
-"seo-rewritten"
-],
-"in": false
-},
-{
-"t": "Kerastase Nutritive Fondant Lait Vital 200ml",
-"u": "https://daouk.com/products/kerastase-fondant-lait-vital-nutritive-150ml",
-"p": 65.0,
-"c": 53.3,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/kerastase-nutritive-fondant-lait-vital-200ml-izzat-daouk-1.jpg?v=1790540774&width=400",
-"type": "",
-"tags": [
-"kb-rewritten",
-"KERASTASE",
-"seo-rewritten"
-],
-"in": true
-},
-{
-"t": "Kerastase Nutritive Masquintense Riche 200ml",
-"u": "https://daouk.com/products/kerastase-nutritive-masquintense-riche-200ml",
-"p": 71.0,
-"c": 69.89,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/kerastase-nutritive-masquintense-riche-200ml-izzat-daouk-1.png?v=1790541055&width=400",
-"type": "",
-"tags": [
-"200ml",
-"kb-rewritten",
-"KERASTASE",
-"seo-rewritten"
-],
-"in": true
-},
-{
-"t": "Kerastase Nutritive Masquintense 200ml",
-"u": "https://daouk.com/products/kerastase-nutritive-masquintense-200ml",
-"p": 71.0,
-"c": 69.89,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/kerastase-nutritive-masquintense-200ml-izzat-daouk-1.jpg?v=1791748590&width=400",
-"type": "",
-"tags": [
-"kb-rewritten",
-"KERASTASE",
-"Mask",
-"seo-rewritten"
-],
-"in": false
-},
-{
-"t": "Kerastase Nutritive Bain Satin Hydrating Shampoo 250ml",
-"u": "https://daouk.com/products/kerastase-bain-satin-riche-250-ml",
-"p": 40.0,
-"c": 34.35,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/kerastase-nutritive-bain-satin-hydrating-shampoo-250ml-izzat-daouk-1.png?v=1791748589&width=400",
-"type": "",
-"tags": [
-"250ml",
-"kb-rewritten",
-"KERASTASE",
-"seo-rewritten"
-],
-"in": false
-},
-{
-"t": "Kerastase Nutritive Bain Satin Riche Shampoo 250ml",
-"u": "https://daouk.com/products/kerastase-nutritive-bain-satin-riche-shampoo-250ml",
-"p": 40.0,
-"c": 34.35,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/kerastase-nutritive-bain-satin-riche-shampoo-250ml-izzat-daouk-1.jpg?v=1791748589&width=400",
-"type": "",
-"tags": [
-"250ml",
-"kb-rewritten",
-"KERASTASE",
-"seo-rewritten"
-],
-"in": false
 },
 {
 "t": "Kerastase Genesis Homme Spray De Force Epaississant 150ml",
@@ -47838,6 +47501,373 @@
 "Nail",
 "nail care",
 "Nail Polish",
+"seo-rewritten"
+],
+"in": true
+},
+{
+"t": "Essie Angora Cardi Nail Polish",
+"u": "https://daouk.com/products/essie-nail-polish-color-42-angora-cardi",
+"p": 8.0,
+"c": 8.99,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/products/essie-angora-cardi-nail-polish-izzat-daouk-1.jpg?v=1791272482&width=400",
+"type": "nail polish",
+"tags": [
+"essie",
+"kb-rewritten",
+"Nail",
+"nail care",
+"Nail Polish",
+"seo-rewritten"
+],
+"in": false
+},
+{
+"t": "Hair Majesty Crocodile Sectioning Hair Clips 6 Pieces",
+"u": "https://daouk.com/products/hair-majesty-crocodile-anti-slip-sectioning-hair-styling-clips-6pcs",
+"p": 1.0,
+"c": 1.18,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/products/hair-majesty-crocodile-sectioning-hair-clips-6-pieces-izzat-daouk-1.jpg?v=1791467072&width=400",
+"type": "",
+"tags": [
+"HAIR ACCESORIES",
+"HAIR ACCESSORIES",
+"kb-rewritten",
+"seo-rewritten"
+],
+"in": false
+},
+{
+"t": "Style Coloration Color Cream 6.3 Dark Golden Blonde 100ml",
+"u": "https://daouk.com/products/style-coloration-style-color-cream-6-3-100ml",
+"p": 2.0,
+"c": 1.78,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/style-coloration-color-cream-6-3-dark-golden-blonde-100ml-izzat-daouk-1.png?v=1792177098&width=400",
+"type": "Hair Coloration",
+"tags": [
+"Hair",
+"Hair Care",
+"hair color",
+"Hair Coloration",
+"Hair Styling",
+"kb-rewritten",
+"seo-rewritten",
+"Women"
+],
+"in": true
+},
+{
+"t": "Beauty Glam Superior MR0726 727 728 Acrylic Mirror with Pouch, 5x",
+"u": "https://daouk.com/products/beauty-glam-superior-mr0726-727-728-mirror-5-sac-acrylic",
+"p": 13.0,
+"c": 14.52,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/products/beauty-glam-superior-mr0726-727-728-acrylic-mirror-with-pouch-5x-izzat-daouk-1.jpg?v=1790541456&width=400",
+"type": "Accessory Mirrors",
+"tags": [
+"acc mrr",
+"Handheld Mirrors",
+"kb-rewritten",
+"light mirror",
+"magnifying mirror",
+"seo-rewritten"
+],
+"in": true
+},
+{
+"t": "Beauty Glam Superior MR0728 Oval Acrylic Mirror with Pouch, 5x",
+"u": "https://daouk.com/products/beauty-glam-superior-mr0728-mirror-5-oval-sac-acrylic",
+"p": 15.0,
+"c": 16.14,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/products/beauty-glam-superior-mr0728-oval-acrylic-mirror-with-pouch-5x-izzat-daouk-1.jpg?v=1790541457&width=400",
+"type": "Accessory Mirrors",
+"tags": [
+"acc mrr",
+"Handheld Mirrors",
+"kb-rewritten",
+"light mirror",
+"magnifying mirror",
+"seo-rewritten"
+],
+"in": true
+},
+{
+"t": "Beauty Glam Superior Professional Makeup Brushes",
+"u": "https://daouk.com/products/beauty-glam-superior-professional-make-up-brushes",
+"p": 14.0,
+"c": 15.29,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/products/beauty-glam-superior-professional-makeup-brushes-izzat-daouk-1.jpg?v=1790541466&width=400",
+"type": "Face Brush",
+"tags": [
+"face brush",
+"kb-rewritten",
+"seo-rewritten"
+],
+"in": true
+},
+{
+"t": "Palmolive Naturals Hand Wash 300ml",
+"u": "https://daouk.com/products/palmolive-naturals-hand-wash-300ml",
+"p": 2.0,
+"c": 2.01,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/products/palmolive-naturals-hand-wash-300ml-izzat-daouk-1.jpg?v=1791963832&width=400",
+"type": "Hand soap",
+"tags": [
+"kb-rewritten",
+"seo-rewritten"
+],
+"in": true
+},
+{
+"t": "Maybelline Super Stay Active Wear 30H Foundation",
+"u": "https://daouk.com/products/maybelline-super-stay-active-wear-30h-foundation-1",
+"p": 14.0,
+"c": 16.49,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/maybelline-super-stay-active-wear-30h-foundation-izzat-daouk-1.jpg?v=1790541056&width=400",
+"type": "Face",
+"tags": [
+"Face",
+"Foundation",
+"kb-rewritten",
+"Makeup",
+"maybelline",
+"seo-rewritten"
+],
+"in": true
+},
+{
+"t": "Maybelline Color Sensational Shaping Lip Liner",
+"u": "https://daouk.com/products/maybelline-color-sensational-shaping-lip-liner-1",
+"p": 7.0,
+"c": 7.78,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/maybelline-color-sensational-shaping-lip-liner-izzat-daouk-1.webp?v=1790541115&width=400",
+"type": "Lip Care",
+"tags": [
+"kb-rewritten",
+"Lip",
+"lipliner",
+"Makeup",
+"maybelline",
+"seo-rewritten"
+],
+"in": true
+},
+{
+"t": "Signature Scents You Again Eau de Parfum 100ml",
+"u": "https://daouk.com/products/signature-scents-you-again-eau-de-parfum-100ml",
+"p": 38.43,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/products/signature-scents-you-again-eau-de-parfum-100ml-izzat-daouk-1.jpg?v=1792171299&width=400",
+"type": "Perfume",
+"tags": [
+"body scents",
+"body scents for her",
+"eau de perfume for her",
+"kb-rewritten",
+"seo-rewritten"
+],
+"in": true
+},
+{
+"t": "Signature Scents Oud Spirit Eau de Parfum 100ml",
+"u": "https://daouk.com/products/signature-scents-oud-spirit-eau-de-parfum-100ml",
+"p": 54.71,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/products/signature-scents-oud-spirit-eau-de-parfum-100ml-izzat-daouk-1.jpg?v=1792171299&width=400",
+"type": "Perfume",
+"tags": [
+"body scents",
+"body scents for him",
+"eau de perfume for him",
+"kb-rewritten",
+"perfume",
+"perfume for him",
+"seo-rewritten"
+],
+"in": false
+},
+{
+"t": "Signature Scents Crystal Roge Eau de Parfum 100ml",
+"u": "https://daouk.com/products/signature-scents-crystal-roge-eau-de-parfum-100ml",
+"p": 54.71,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/products/signature-scents-crystal-roge-eau-de-parfum-100ml-izzat-daouk-1.jpg?v=1792171299&width=400",
+"type": "Perfume",
+"tags": [
+"body scents",
+"body scents for him",
+"eau de perfume for him",
+"kb-rewritten",
+"perfume",
+"perfume for him",
+"seo-rewritten"
+],
+"in": true
+},
+{
+"t": "Signature Scents Dark Night Eau de Parfum 100ml",
+"u": "https://daouk.com/products/signature-scents-dark-night-eau-de-parfum-100ml",
+"p": 47.67,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/products/signature-scents-dark-night-eau-de-parfum-100ml-izzat-daouk-1.jpg?v=1790540966&width=400",
+"type": "Perfume",
+"tags": [
+"body scents",
+"body scents for him",
+"eau de perfume for him",
+"kb-rewritten",
+"perfume",
+"perfume for him",
+"seo-rewritten"
+],
+"in": true
+},
+{
+"t": "Signature Scents Shames Beirut Eau de Parfum 100ml",
+"u": "https://daouk.com/products/signature-scents-shames-beirut-eau-de-parfum-100ml",
+"p": 54.71,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/products/signature-scents-shames-beirut-eau-de-parfum-100ml-izzat-daouk-1.jpg?v=1792171299&width=400",
+"type": "Perfume",
+"tags": [
+"body scents",
+"body scents for him",
+"eau de perfume for him",
+"kb-rewritten",
+"perfume",
+"perfume for him",
+"seo-rewritten"
+],
+"in": true
+},
+{
+"t": "Signature Scents Leader Eau de Parfum 100ml",
+"u": "https://daouk.com/products/signature-scents-leader-eau-de-parfum-100ml",
+"p": 30.24,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/products/signature-scents-leader-eau-de-parfum-100ml-izzat-daouk-1.jpg?v=1792171299&width=400",
+"type": "Perfume",
+"tags": [
+"body scents",
+"body scents for him",
+"eau de perfume for him",
+"kb-rewritten",
+"seo-rewritten"
+],
+"in": true
+},
+{
+"t": "Signature Scents Victory Eau de Parfum 100ml",
+"u": "https://daouk.com/products/signature-scents-victory-eau-de-parfum-100ml",
+"p": 34.86,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/products/signature-scents-victory-eau-de-parfum-100ml-izzat-daouk-1.jpg?v=1792171299&width=400",
+"type": "Perfume",
+"tags": [
+"body scents",
+"body scents for her",
+"eau de perfume for her",
+"kb-rewritten",
+"seo-rewritten"
+],
+"in": true
+},
+{
+"t": "Signature Scents True Love Eau de Parfum 80ml",
+"u": "https://daouk.com/products/signature-scents-true-love-eau-de-parfum-80ml",
+"p": 38.43,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/products/signature-scents-true-love-eau-de-parfum-80ml-izzat-daouk-1.jpg?v=1792171299&width=400",
+"type": "Perfume",
+"tags": [
+"body scents",
+"body scents for her",
+"eau de perfume for her",
+"kb-rewritten",
+"seo-rewritten"
+],
+"in": true
+},
+{
+"t": "Signature Scents My Soul Eau de Parfum 80ml",
+"u": "https://daouk.com/products/signature-scents-my-soul-eau-de-parfum-80ml",
+"p": 38.43,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/products/signature-scents-my-soul-eau-de-parfum-80ml-izzat-daouk-1.jpg?v=1792171299&width=400",
+"type": "Perfume",
+"tags": [
+"body scents",
+"body scents for her",
+"eau de perfume for her",
+"kb-rewritten",
+"seo-rewritten"
+],
+"in": true
+},
+{
+"t": "Signature Scents A La Folie Eau de Parfum 80ml",
+"u": "https://daouk.com/products/signature-scents-a-la-folie-eau-de-parfum-80ml",
+"p": 38.43,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/products/signature-scents-a-la-folie-eau-de-parfum-80ml-izzat-daouk-1.jpg?v=1792171299&width=400",
+"type": "Perfume",
+"tags": [
+"body scents",
+"body scents for her",
+"eau de perfume for her",
+"kb-rewritten",
+"seo-rewritten"
+],
+"in": true
+},
+{
+"t": "Signature Scents Star Sparkl Eau de Parfum 80ml",
+"u": "https://daouk.com/products/signature-scents-star-sparkl-eau-de-parfum-80ml",
+"p": 38.43,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/products/signature-scents-star-sparkl-eau-de-parfum-80ml-izzat-daouk-1.jpg?v=1792171299&width=400",
+"type": "Perfume",
+"tags": [
+"body scents",
+"body scents for her",
+"eau de perfume for her",
+"kb-rewritten",
+"seo-rewritten"
+],
+"in": true
+},
+{
+"t": "Signature Scents Dream Eau de Parfum 80ml",
+"u": "https://daouk.com/products/signature-scents-dream-eau-de-parfum-80ml",
+"p": 38.43,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/products/signature-scents-dream-eau-de-parfum-80ml-izzat-daouk-1.jpg?v=1792171299&width=400",
+"type": "Perfume",
+"tags": [
+"body scents",
+"body scents for her",
+"eau de perfume for her",
+"kb-rewritten",
 "seo-rewritten"
 ],
 "in": true

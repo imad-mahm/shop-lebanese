@@ -1,5 +1,99 @@
 [
 {
+"t": "Kerastase Blond Absolu Cicaplasme Sample 10ml",
+"u": "https://feel22.com/products/kerastase-blond-absolu-cicaplasme-sample-10ml",
+"p": 0.0,
+"c": null,
+"cur": "USD",
+"img": "",
+"type": "GWP",
+"tags": [
+"SEARCHANISE_IGNORE"
+],
+"in": true
+},
+{
+"t": "L’Oréal Paris x Faces Of Feel22: Petra Costantine's Bundle",
+"u": "https://feel22.com/products/l-oreal-paris-x-faces-of-feel22-petra-costantine-s-bundle",
+"p": 29.93,
+"c": 39.9,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/L_OrealParisxFacesOfFeel22_PetraCostantine_sBundle.png?v=1792413334&width=400",
+"type": "Makeup Gifts and Sets",
+"tags": [
+"facesloreal1026"
+],
+"in": true
+},
+{
+"t": "L’Oréal Paris x Faces Of Feel22: Stephanie Abou Hanna's Bundle",
+"u": "https://feel22.com/products/l-oreal-paris-x-faces-of-feel22-stephanie-abou-hanna-s-bundle",
+"p": 31.5,
+"c": 42.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/L_OrealParisxFacesOfFeel22_StephanieAbouHanna_sBundle.png?v=1792415020&width=400",
+"type": "Makeup Gifts and Sets",
+"tags": [
+"facesloreal1026"
+],
+"in": true
+},
+{
+"t": "L’Oréal Paris x Faces Of Feel22: Hanine Hemedeh's Bundle",
+"u": "https://feel22.com/products/l-oreal-paris-x-faces-of-feel22-hanine-hemedeh-s-bundle",
+"p": 32.7,
+"c": 43.6,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/L_OrealParisxFacesOfFeel22_HanineHemedeh_sBundle.png?v=1792176661&width=400",
+"type": "Makeup Gifts and Sets",
+"tags": [
+"facesloreal1026"
+],
+"in": true
+},
+{
+"t": "Clinique Samples Gift",
+"u": "https://feel22.com/products/clinique-samples-gift",
+"p": 0.0,
+"c": null,
+"cur": "USD",
+"img": "",
+"type": "GWP",
+"tags": [
+"SEARCHANISE_IGNORE"
+],
+"in": true
+},
+{
+"t": "MAC Random Samples 1.5ML Gift",
+"u": "https://feel22.com/products/mac-random-samples-1-5ml-gift",
+"p": 0.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshotstemp-Lynn_1_1e8af929-21b6-4c6c-a1d9-f47750741efc.png?v=1782986486&width=400",
+"type": "GWP",
+"tags": [
+"SEARCHANISE_IGNORE"
+],
+"in": true
+},
+{
+"t": "Estee Lauder  Deluxe Samples GIft",
+"u": "https://feel22.com/products/estee-lauder-3-deluxe-samples-gift",
+"p": 0.0,
+"c": null,
+"cur": "USD",
+"img": "",
+"type": "GWP",
+"tags": [
+"Hidden recommendation",
+"LUXEALL",
+"nobundles",
+"SEARCHANISE_IGNORE"
+],
+"in": true
+},
+{
 "t": "L’Oréal Paris x Faces Of Feel22: Ghadeer Ghosn's Bundle",
 "u": "https://feel22.com/products/l-oreal-paris-x-faces-of-feel22-ghadeer-ghosn-s-bundle",
 "p": 38.18,
@@ -92,7 +186,7 @@
 "in": true
 },
 {
-"t": "La Roche-Posay Mela B3 Double dose Serum, day & night intensive treatment for sunspots and age marks powered by multi-patented anti-pigmentation Melasyl and Proxylane",
+"t": "La Roche-Posay Mela B3 Double Dose Serum For Sun Spots & Age Marks",
 "u": "https://feel22.com/products/la-roche-posay-mela-b3-double-dose-day-night-intensive-treatment-for-sunspots-and-age-marks-powered-by-multi-patented-anti-pigmentation-melasyl-and-proxylane",
 "p": 50.92,
 "c": null,
@@ -100,6 +194,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/LaRoche-PosayMelaB3DoubleDose.png?v=1792074226&width=400",
 "type": "Serum and Treatment",
 "tags": [
+"LRPV1026",
 "OCTSKU26",
 "PHARMAALL"
 ],
@@ -653,7 +748,8 @@
 "type": "Day and Night Cream",
 "tags": [
 "OCTSKU26",
-"PHARMAALL"
+"PHARMAALL",
+"SPOOKYRGAA1026"
 ],
 "in": true
 },
@@ -667,7 +763,8 @@
 "type": "Day and Night Cream",
 "tags": [
 "OCTSKU26",
-"PHARMAALL"
+"PHARMAALL",
+"SPOOKYRGAA1026"
 ],
 "in": true
 },
@@ -681,7 +778,8 @@
 "type": "Serum and Treatment",
 "tags": [
 "OCTSKU26",
-"PHARMAALL"
+"PHARMAALL",
+"SPOOKYRGAA1026"
 ],
 "in": true
 },
@@ -695,7 +793,8 @@
 "type": "Lip Gloss and Lip Tint",
 "tags": [
 "OCTSKU26",
-"PHARMAALL"
+"PHARMAALL",
+"SPOOKYRGAA1026"
 ],
 "in": false
 },
@@ -709,7 +808,8 @@
 "type": "Face Mask",
 "tags": [
 "OCTSKU26",
-"PHARMAALL"
+"PHARMAALL",
+"SPOOKYRGAA1026"
 ],
 "in": true
 },
@@ -1903,7 +2003,8 @@
 "type": "Hair Oil and Serum",
 "tags": [
 "OCTSKU26",
-"PHARMAALL"
+"PHARMAALL",
+"SPOOKYRGAA1026"
 ],
 "in": true
 },
@@ -2007,6 +2108,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/EucerinSunOilControlUltra-LightSerumSPF50_Sunscreen.png?v=1791809471&width=400",
 "type": "Sun Protection",
 "tags": [
+"EUC1026",
 "OCTSKU26",
 "PHARMAALL"
 ],
@@ -2545,7 +2647,7 @@
 "Hidden recommendation",
 "SEARCHANISE_IGNORE"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Essence Juicy Bomb Plumping Lipgloss",
@@ -2926,7 +3028,7 @@
 "nobundles",
 "SEARCHANISE_IGNORE"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Lierac Instit Pouch Gift",
@@ -3942,7 +4044,7 @@
 "cpdmug",
 "CPDQ1"
 ],
-"in": true
+"in": false
 },
 {
 "t": "L'Oréal Paris Glycolic Bright 3 Step Routine Bundle At 20% Off",
@@ -3961,7 +4063,7 @@
 "defile926",
 "oapskin426"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Valentino Pink Tote Bag Gift",
@@ -3996,7 +4098,7 @@
 "defile926",
 "EVERYTHING"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Lancôme Free L'Absolu Rouge - Random Color",
@@ -4056,7 +4158,7 @@
 "tags": [
 "defile926"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Flormar Volume Up Mascara",
@@ -4104,7 +4206,7 @@
 "CPDBF25",
 "CPDTODO426"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Mylkie Leave-in Hair Mousse Pink Musk",
@@ -4249,7 +4351,7 @@
 "CPDALL426",
 "SEARCHANISE_IGNORE"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Eucerin Pouch With 2 Minis GIFT",
@@ -7132,7 +7234,7 @@
 "nobundles",
 "SEARCHANISE_IGNORE"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Flormar K-Spirit Glow Lip Tint",
@@ -7918,7 +8020,7 @@
 "tags": [
 "AUGSKU26"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Rosy The Panda Bridal Concealer Brush",
@@ -8721,7 +8823,7 @@
 "LUXEALL",
 "SEPSKU26"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Carolina Herrera Good Girl Blush Elixir Eau de Parfum",
@@ -8768,7 +8870,7 @@
 "MUPSKINALL926",
 "PHARMAALL",
 "RGAA926",
-"TALI926"
+"SPOOKYRGAA1026"
 ],
 "in": true
 },
@@ -10856,6 +10958,7 @@
 "tags": [
 "AUGSKU26",
 "BTSPHARMA26",
+"LRPV1026",
 "lrpvichy926",
 "MUPSKINALL926",
 "OCTOBERSALEPHARMA",
@@ -10874,6 +10977,7 @@
 "tags": [
 "AUGSKU26",
 "BTSPHARMA26",
+"LRPV1026",
 "lrpvichy926",
 "MUPSKINALL926",
 "OCTOBERSALEPHARMA",
@@ -11171,7 +11275,7 @@
 "feel22pharma",
 "LDB326",
 "LDB625",
-"lrpvichy926"
+"LRPV1026"
 ],
 "in": true
 },
@@ -11186,6 +11290,7 @@
 "tags": [
 "AUGSKU26",
 "BTSPHARMA26",
+"LRPV1026",
 "lrpvichy926",
 "MUPSKINALL926",
 "OCTOBERSALEPHARMA",
@@ -12433,17 +12538,15 @@
 {
 "t": "L'Oréal Paris Revitalift Laser Eye Bag Instant Eraser",
 "u": "https://feel22.com/products/loreal-paris-revitalift-laser-eye-bag-instant-eraser",
-"p": 12.96,
-"c": 16.2,
+"p": 16.2,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/L_OrealParisRevitaliftLaserEyeBagInstantEraser.png?v=1786629243&width=400",
 "type": "Eye Cream",
 "tags": [
 "AUGSKU26",
 "MUPSKINALL926",
-"OAPFLASH1026",
-"OAPSKIN926",
-"OCT26"
+"OAPSKIN926"
 ],
 "in": true
 },
@@ -13401,6 +13504,7 @@
 "BTSPHARMA26",
 "JULYSKU26",
 "lrpall826",
+"LRPV1026",
 "lrpvichy926",
 "MUPSKINALL926",
 "OCTOBERSALEPHARMA",
@@ -14748,7 +14852,8 @@
 "type": "Hair Oil and Serum",
 "tags": [
 "JULYSKU26",
-"PALMER1026"
+"PALMER1026",
+"PAMCO1026"
 ],
 "in": true
 },
@@ -19636,7 +19741,7 @@
 "MUPSKINALL926",
 "raneemsami"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Khan El Kaser ShortCake Lip Balm",
@@ -19758,7 +19863,8 @@
 "type": "Shampoo",
 "tags": [
 "JULYSKU26",
-"PALMER1026"
+"PALMER1026",
+"PAMCO1026"
 ],
 "in": true
 },
@@ -19772,7 +19878,8 @@
 "type": "Hair Oil and Serum",
 "tags": [
 "JULYSKU26",
-"PALMER1026"
+"PALMER1026",
+"PAMCO1026"
 ],
 "in": true
 },
@@ -19786,7 +19893,8 @@
 "type": "Hair Mask",
 "tags": [
 "JULYSKU26",
-"PALMER1026"
+"PALMER1026",
+"PAMCO1026"
 ],
 "in": true
 },
@@ -19800,7 +19908,8 @@
 "type": "Hair Oil and Serum",
 "tags": [
 "JULYSKU26",
-"PALMER1026"
+"PALMER1026",
+"PAMCO1026"
 ],
 "in": true
 },
@@ -19814,7 +19923,8 @@
 "type": "Conditioner",
 "tags": [
 "JULYSKU26",
-"PALMER1026"
+"PALMER1026",
+"PAMCO1026"
 ],
 "in": true
 },
@@ -19828,7 +19938,8 @@
 "type": "Hair Styling",
 "tags": [
 "JULYSKU26",
-"PALMER1026"
+"PALMER1026",
+"PAMCO1026"
 ],
 "in": true
 },
@@ -19842,7 +19953,8 @@
 "type": "Conditioner",
 "tags": [
 "JULYSKU26",
-"PALMER1026"
+"PALMER1026",
+"PAMCO1026"
 ],
 "in": true
 },
@@ -19857,7 +19969,8 @@
 "tags": [
 "JULYSKU26",
 "MUPSKINALL926",
-"PALMER1026"
+"PALMER1026",
+"PAMCO1026"
 ],
 "in": true
 },
@@ -19871,7 +19984,8 @@
 "type": "Shampoo",
 "tags": [
 "JULYSKU26",
-"PALMER1026"
+"PALMER1026",
+"PAMCO1026"
 ],
 "in": true
 },
@@ -19885,7 +19999,8 @@
 "type": "Shampoo",
 "tags": [
 "JULYSKU26",
-"PALMER1026"
+"PALMER1026",
+"PAMCO1026"
 ],
 "in": true
 },
@@ -19900,7 +20015,8 @@
 "tags": [
 "JULYSKU26",
 "MUPSKINALL926",
-"PALMER1026"
+"PALMER1026",
+"PAMCO1026"
 ],
 "in": true
 },
@@ -19915,7 +20031,8 @@
 "tags": [
 "JULYSKU26",
 "MUPSKINALL926",
-"PALMER1026"
+"PALMER1026",
+"PAMCO1026"
 ],
 "in": true
 },
@@ -19930,7 +20047,8 @@
 "tags": [
 "JULYSKU26",
 "MUPSKINALL926",
-"PALMER1026"
+"PALMER1026",
+"PAMCO1026"
 ],
 "in": true
 },
@@ -23053,6 +23171,7 @@
 "tags": [
 "Hidden recommendation",
 "lrpall826",
+"LRPV1026",
 "OCTOBERSALEPHARMA",
 "SEARCHANISE_IGNORE"
 ],
@@ -23073,8 +23192,8 @@
 "lrpall826",
 "lrpnov826",
 "LRPSKIN726",
-"lrpvichy926",
-"MUPSKINALL926"
+"LRPV1026",
+"lrpvichy926"
 ],
 "in": false
 },
@@ -23274,7 +23393,7 @@
 "dermocosmetics",
 "drysensitivepharma",
 "EIDSALE2026",
-"EUC226"
+"EUC1026"
 ],
 "in": true
 },
@@ -25156,7 +25275,7 @@
 "vegan2022",
 "veganskincare"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Vaseline Intensive Care Cocoa Radiant Lotion - 400ml",
@@ -25187,7 +25306,8 @@
 "tags": [
 "APRSKU26",
 "MUPSKINALL926",
-"PALMER1026"
+"PALMER1026",
+"PAMCO1026"
 ],
 "in": true
 },
@@ -25201,7 +25321,8 @@
 "type": "Conditioner",
 "tags": [
 "APRSKU26",
-"PALMER1026"
+"PALMER1026",
+"PAMCO1026"
 ],
 "in": true
 },
@@ -25215,7 +25336,8 @@
 "type": "Conditioner",
 "tags": [
 "APRSKU26",
-"PALMER1026"
+"PALMER1026",
+"PAMCO1026"
 ],
 "in": true
 },
@@ -25230,7 +25352,8 @@
 "tags": [
 "APRSKU26",
 "MUPSKINALL926",
-"PALMER1026"
+"PALMER1026",
+"PAMCO1026"
 ],
 "in": true
 },
@@ -25245,7 +25368,8 @@
 "tags": [
 "APRSKU26",
 "MUPSKINALL926",
-"PALMER1026"
+"PALMER1026",
+"PAMCO1026"
 ],
 "in": true
 },
@@ -25261,7 +25385,8 @@
 "EVERYTHING",
 "giftid-8709322178698",
 "HC15",
-"PALMER1026"
+"PALMER1026",
+"PAMCO1026"
 ],
 "in": true
 },
@@ -25280,8 +25405,8 @@
 "NAIPHARMA",
 "nightcream",
 "PALMER1026",
-"PAMCO21",
-"SC15"
+"PAMCO1026",
+"PAMCO21"
 ],
 "in": true
 },
@@ -26447,7 +26572,7 @@
 "JUNESKU26",
 "MAVA1026"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Phyto Phytolaque Botanical Hairspray Medium Hold",
@@ -27582,7 +27707,7 @@
 "SAMOA1026",
 "SAMOANAILS"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Samoa See You In Spring Nails Set At 12% Off",
@@ -29389,6 +29514,7 @@
 "type": "Mist and Spray For Her",
 "tags": [
 "4REAL826",
+"FORREAL1026",
 "forrealmist",
 "MAYSKU26",
 "pink26"
@@ -29405,6 +29531,7 @@
 "type": "Mist and Spray For Her",
 "tags": [
 "4REAL826",
+"FORREAL1026",
 "forrealmist",
 "MAYSKU26"
 ],
@@ -29420,6 +29547,7 @@
 "type": "Mist and Spray For Her",
 "tags": [
 "4REAL826",
+"FORREAL1026",
 "forrealmist",
 "MAYSKU26"
 ],
@@ -30050,6 +30178,7 @@
 "tags": [
 "1STWAVE826PHARMA",
 "BTSPHARMA26",
+"LRPV1026",
 "lrpvichy926",
 "MAYSKU26",
 "OCTOBERSALEPHARMA",
@@ -30092,7 +30221,7 @@
 "OAPRAM26",
 "OAPW226"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Medicube Zero Pore Pad Mild",
@@ -30370,7 +30499,7 @@
 "CLINIQUERM",
 "CLQ826"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Clinique Take The Day Off Cleansing Balm 30ml",
@@ -30965,6 +31094,7 @@
 "type": "Lip Care",
 "tags": [
 "4REAL826",
+"FORREAL1026",
 "FORSLCTD526",
 "MUPSKINALL926"
 ],
@@ -30980,6 +31110,7 @@
 "type": "Lip Care",
 "tags": [
 "4REAL826",
+"FORREAL1026",
 "FORSLCTD526",
 "MUPSKINALL926"
 ],
@@ -30995,6 +31126,7 @@
 "type": "Lip Care",
 "tags": [
 "4REAL826",
+"FORREAL1026",
 "FORSLCTD526",
 "MUPSKINALL926"
 ],
@@ -31010,6 +31142,7 @@
 "type": "Lip Care",
 "tags": [
 "4REAL826",
+"FORREAL1026",
 "FORSLCTD526",
 "MUPSKINALL926"
 ],
@@ -36344,7 +36477,8 @@
 "tags": [
 "APRSKU26",
 "MUPSKINALL926",
-"PALMER1026"
+"PALMER1026",
+"PAMCO1026"
 ],
 "in": true
 },
@@ -36358,7 +36492,8 @@
 "type": "Conditioner",
 "tags": [
 "APRSKU26",
-"PALMER1026"
+"PALMER1026",
+"PAMCO1026"
 ],
 "in": true
 },
@@ -36372,7 +36507,8 @@
 "type": "Hand Care",
 "tags": [
 "APRSKU26",
-"PALMER1026"
+"PALMER1026",
+"PAMCO1026"
 ],
 "in": true
 },
@@ -36386,7 +36522,8 @@
 "type": "Hair Mask",
 "tags": [
 "APRSKU26",
-"PALMER1026"
+"PALMER1026",
+"PAMCO1026"
 ],
 "in": true
 },
@@ -36400,7 +36537,8 @@
 "type": "Conditioner",
 "tags": [
 "APRSKU26",
-"PALMER1026"
+"PALMER1026",
+"PAMCO1026"
 ],
 "in": true
 },
@@ -36414,7 +36552,8 @@
 "type": "Hair Oil and Serum",
 "tags": [
 "APRSKU26",
-"PALMER1026"
+"PALMER1026",
+"PAMCO1026"
 ],
 "in": true
 },
@@ -36429,7 +36568,8 @@
 "tags": [
 "APRSKU26",
 "MUPSKINALL926",
-"PALMER1026"
+"PALMER1026",
+"PAMCO1026"
 ],
 "in": true
 },
@@ -36444,7 +36584,8 @@
 "tags": [
 "APRSKU26",
 "MUPSKINALL926",
-"PALMER1026"
+"PALMER1026",
+"PAMCO1026"
 ],
 "in": true
 },
@@ -36459,7 +36600,8 @@
 "tags": [
 "APRSKU26",
 "MUPSKINALL926",
-"PALMER1026"
+"PALMER1026",
+"PAMCO1026"
 ],
 "in": true
 },
@@ -36473,7 +36615,8 @@
 "type": "Foot Care",
 "tags": [
 "APRSKU26",
-"PALMER1026"
+"PALMER1026",
+"PAMCO1026"
 ],
 "in": true
 },
@@ -36488,7 +36631,8 @@
 "tags": [
 "APRSKU26",
 "MUPSKINALL926",
-"PALMER1026"
+"PALMER1026",
+"PAMCO1026"
 ],
 "in": true
 },
@@ -36502,7 +36646,8 @@
 "type": "Hair Mask",
 "tags": [
 "APRSKU26",
-"PALMER1026"
+"PALMER1026",
+"PAMCO1026"
 ],
 "in": true
 },
@@ -36516,7 +36661,8 @@
 "type": "Hair Oil and Serum",
 "tags": [
 "APRSKU26",
-"PALMER1026"
+"PALMER1026",
+"PAMCO1026"
 ],
 "in": true
 },
@@ -36530,7 +36676,8 @@
 "type": "Hair Mask",
 "tags": [
 "APRSKU26",
-"PALMER1026"
+"PALMER1026",
+"PAMCO1026"
 ],
 "in": true
 },
@@ -36544,7 +36691,8 @@
 "type": "Kids Bath and Body",
 "tags": [
 "APRSKU26",
-"PALMER1026"
+"PALMER1026",
+"PAMCO1026"
 ],
 "in": true
 },
@@ -36558,7 +36706,8 @@
 "type": "Kids Bath and Body",
 "tags": [
 "APRSKU26",
-"PALMER1026"
+"PALMER1026",
+"PAMCO1026"
 ],
 "in": true
 },
@@ -36572,7 +36721,8 @@
 "type": "Kids Bath and Body",
 "tags": [
 "APRSKU26",
-"PALMER1026"
+"PALMER1026",
+"PAMCO1026"
 ],
 "in": true
 },
@@ -36586,7 +36736,8 @@
 "type": "Wound Care and Soothing",
 "tags": [
 "APRSKU26",
-"PALMER1026"
+"PALMER1026",
+"PAMCO1026"
 ],
 "in": true
 },
@@ -40041,7 +40192,8 @@
 "type": "Body Gifts and Sets",
 "tags": [
 "MARCHSKU26",
-"PALMER1026"
+"PALMER1026",
+"PAMCO1026"
 ],
 "in": false
 },
@@ -40055,7 +40207,8 @@
 "type": "Body Gifts and Sets",
 "tags": [
 "MARCHSKU26",
-"PALMER1026"
+"PALMER1026",
+"PAMCO1026"
 ],
 "in": false
 },
@@ -41563,7 +41716,7 @@
 "Sdd",
 "VAL2024HIM"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Lattafa Hareem Al Sultan Women Perfume",
@@ -42515,26 +42668,6 @@
 "in": true
 },
 {
-"t": "Eucerin Free Pouch",
-"u": "https://feel22.com/products/eucerin-free-green-pouch-125-ml-micellar",
-"p": 0.0,
-"c": 0.0,
-"cur": "USD",
-"img": "",
-"type": "Skincare Tools and Accessories",
-"tags": [
-"1STWAVE826PHARMA",
-"99PHARMA",
-"ADHAPHARMA26",
-"EIDSALE2026",
-"EUC426",
-"euc526",
-"EUC726",
-"FEB26"
-],
-"in": false
-},
-{
 "t": "Garnier Ultra Doux Grape Moisture 2 in 1 Styling Cream, Volumizing Hydration for Dehydrated Hair With Hydrating Grape Water + Antioxidant Grapeseed Oil",
 "u": "https://feel22.com/products/garnier-ultra-doux-grape-moisture-2-in-1-styling-cream-volumizing-hydration-for-dehydrated-hair-with-hydrating-grape-water-antioxidant-grapeseed-oil",
 "p": 4.23,
@@ -42823,7 +42956,7 @@
 "MARCHSKU26",
 "MEDIPW626"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Medicube Deep Vita C Patch",
@@ -45001,7 +45134,7 @@
 "giftid-8721285185674",
 "HBT1225"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Triopharm TrioT Wash 280ml",
@@ -47211,10 +47344,10 @@
 "EIDSALE2026",
 "Hidden recommendation",
 "LDB326",
+"LRPV1026",
 "MothersDayPharma26",
 "OCTOBERSALEPHARMA",
-"PHARMAALL",
-"PHARMAALL2.0"
+"PHARMAALL"
 ],
 "in": false
 },
@@ -49934,8 +50067,8 @@
 {
 "t": "L'Oreal Paris Revitalift Laser Day Cream 50ml",
 "u": "https://feel22.com/products/loreal-paris-revitalift-laser-day-cream-50ml",
-"p": 13.19,
-"c": 16.49,
+"p": 16.49,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/1-350x350_0_da71be24-3aa9-4071-b320-d2c9e096b695.jpg?v=1571439874&width=400",
 "type": "Day and Night Cream",
@@ -49950,125 +50083,5 @@
 "CPDPW626"
 ],
 "in": false
-},
-{
-"t": "L'Oréal Paris, Revitalift Laser x3 Anti-Aging Moisturizing Night Cream, against Wrinkles and Signs of Aging, with Pro-Retinol 50ml",
-"u": "https://feel22.com/products/loreal-paris-revitalift-laser-night-cream-50ml",
-"p": 12.4,
-"c": 15.5,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/1_dbb105a4-264c-4a34-9b68-40372d35a38f.jpg?v=1728466992&width=400",
-"type": "Day and Night Cream",
-"tags": [
-"2NDCPD826",
-"ALLCPD225",
-"ALLCPD725",
-"ALLCPD96",
-"allofcpd326",
-"Anti-Ageing & Wrinkles",
-"catch22lorealdiscount",
-"cf-vendor-loreal-paris"
-],
-"in": true
-},
-{
-"t": "Ducray Kelual DS Buy 1 Get 1 Bundle",
-"u": "https://feel22.com/products/ducray-kelual-ds-buy-1-get-1-bundle",
-"p": 14.25,
-"c": 19.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/DucrayKelualDSBuy1Get1Bundle.png?v=1769075009&width=400",
-"type": "Hair Care Gifts and Sets",
-"tags": [
-"99PHARMA",
-"ADHAPHARMA26",
-"ALLSETS226",
-"B1G1PHARMA",
-"ddn",
-"DEC26",
-"ducb1g1bnds",
-"EASTERSALE26PHARMA"
-],
-"in": true
-},
-{
-"t": "Lierac Premium Voluptous Anti-Aging Silky Cream Xmas Set",
-"u": "https://feel22.com/products/lierac-premium-voluptous-anti-aging-silky-cream-xmas-set",
-"p": 122.1,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/LieracPremiumVoluptousAnti-AgingSilkyCreamXmasSet.png?v=1769767289&width=400",
-"type": "Skincare Gifts and Sets",
-"tags": [
-"1rgaa826",
-"1STWAVE826PHARMA",
-"99PHARMA",
-"ADHAPHARMA26",
-"ALLSETS226",
-"EIDSALE2026",
-"JANSKU26",
-"LIMATA726"
-],
-"in": true
-},
-{
-"t": "Lierac Premium Anti-Aging Absolute Serum Xmas Set",
-"u": "https://feel22.com/products/lierac-premium-anti-aging-absolute-serum-xmas-set",
-"p": 122.1,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/LieracPremiumAnti-AgingAbsoluteSerumXmasSet.png?v=1769767322&width=400",
-"type": "Skincare Gifts and Sets",
-"tags": [
-"1rgaa826",
-"1STWAVE826PHARMA",
-"99PHARMA",
-"ADHAPHARMA26",
-"ALLSETS226",
-"EIDSALE2026",
-"JANSKU26",
-"LIMATA726"
-],
-"in": true
-},
-{
-"t": "Lierac Lift Integral Anti-Aging Tightening Serum Xmas Set",
-"u": "https://feel22.com/products/lierac-lift-integral-anti-aging-tightening-serum-xmas-set",
-"p": 77.7,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/LieracLiftIntegralAnti-AgingTighteningSerumXmasSet.png?v=1769767343&width=400",
-"type": "Skincare Gifts and Sets",
-"tags": [
-"1rgaa826",
-"1STWAVE826PHARMA",
-"99PHARMA",
-"ADHAPHARMA26",
-"ALLSETS226",
-"EIDSALE2026",
-"JANSKU26",
-"LIMATA726"
-],
-"in": true
-},
-{
-"t": "Lierac Lift Integral Anti-Aging Firming Day Cream Gel Xmas Set",
-"u": "https://feel22.com/products/lierac-lift-integral-anti-aging-firming-day-cream-gel-xmas-set",
-"p": 77.7,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/LieracLiftIntegralAnti-AgingFirmingDayCreamGelXmasSet.png?v=1769767361&width=400",
-"type": "Skincare Gifts and Sets",
-"tags": [
-"1rgaa826",
-"1STWAVE826PHARMA",
-"99PHARMA",
-"ADHAPHARMA26",
-"ALLSETS226",
-"EIDSALE2026",
-"JANSKU26",
-"LIMATA726"
-],
-"in": true
 }
 ]

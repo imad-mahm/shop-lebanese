@@ -279,7 +279,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/DracaenaJoy.png?v=1791202143&width=400",
 "type": "Plants",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Peace Lily",
@@ -605,7 +605,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/FRA08095_d137cc4f-31b5-436a-b942-81a52ecaa393.jpg?v=1789811092&width=400",
 "type": "Add-Ons",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Silky Dracaena",
@@ -721,7 +721,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Burnt_Orange.png?v=1789555103&width=400",
 "type": "Flowers",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Blush Garden",
@@ -775,7 +775,7 @@
 "Mixed Flowers",
 "Orange"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Autumn Centerpiece",
@@ -869,7 +869,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/ColoursofFall_2.png?v=1789626006&width=400",
 "type": "Flowers",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Fallen Leaves",
@@ -906,7 +906,7 @@
 "Mixed Colors",
 "Mixed Flowers"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Sunny Harvest",
@@ -2762,7 +2762,7 @@
 "For Teta",
 "Get Well Soon"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Artificial Dracaena Reflexa",
@@ -2964,7 +2964,7 @@
 "For Teta",
 "Mixed Colors"
 ],
-"in": true
+"in": false
 },
 {
 "t": "The Spiky Plant",
@@ -4751,7 +4751,7 @@
 "tags": [
 "Wine & Spirits"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Sunset Dust",
@@ -4917,7 +4917,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Blush-Crush.jpg?v=1749537215&width=400",
 "type": "Flowers",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Sablés Gourmets Small Box",
@@ -4968,7 +4968,7 @@
 "Fuschia",
 "Graduation"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Bonsai Essence",
