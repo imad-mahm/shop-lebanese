@@ -162,7 +162,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/WhatsAppImage2026-10-12at13.36.32.jpg?v=1791804378&width=400",
 "type": "",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "G-set 17889",
@@ -932,7 +932,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/WhatsAppImage2026-09-12at12.47.09.jpg?v=1789206610&width=400",
 "type": "",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "G-leather jacket 36",
@@ -998,7 +998,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/1001428355.jpg?v=1789642650&width=400",
 "type": "Set",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "G-Hoodie set 58331",
@@ -1064,7 +1064,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/5c08f2e2-1215-4ac7-8cff-0f528fef4adc.jpg?v=1788694804&width=400",
 "type": "top",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "top 17867",
@@ -1141,7 +1141,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/721abad6-1bc1-4474-93be-43b250f863ec.jpg?v=1788690937&width=400",
 "type": "Jeans",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "G-Wide leg jrans 890",
@@ -1174,7 +1174,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/c5ef7a97-c08b-4b21-914e-875f08609171.jpg?v=1788690137&width=400",
 "type": "jeans",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "G-wide leg jeans 957",
@@ -1207,7 +1207,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/d3dcd40d-10ec-46ba-93f3-9a7e5fce7ba8.jpg?v=1788688894&width=400",
 "type": "top",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "slouchy pants 16394",
@@ -1262,7 +1262,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/93b78252-4d62-43b3-9134-534b03d1e7e8.jpg?v=1785237119&width=400",
 "type": "Vest",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "linen pants",
@@ -1273,7 +1273,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/8607a316-fc37-4f73-9a6d-a2432e060ebc.jpg?v=1785236924&width=400",
 "type": "Pants",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "straight  jeans",
@@ -1306,7 +1306,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/44c712bd-87f8-46f4-9f2a-fa1dc7170cb6.jpg?v=1784974119&width=400",
 "type": "jeans",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "regular fit jeans 968",
@@ -1339,7 +1339,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/1cbcb8b1-6b45-4c54-8126-686c4bfcd94a_1.jpg?v=1784971811&width=400",
 "type": "Jeans",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "push up jeans 1013",
@@ -1361,7 +1361,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/20dd1a6a-60c8-46d4-a059-c6225fe3f63a.jpg?v=1784903339&width=400",
 "type": "Jeans",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "straight jeans 1006",
@@ -1405,7 +1405,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/1001334005.jpg?v=1784718752&width=400",
 "type": "Pants",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "straight jeans",
@@ -1471,7 +1471,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/a77fa68e-219c-44be-a0bf-f05fa769296c.jpg?v=1781705081&width=400",
 "type": "jeans",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Slouchy jeans 023",
@@ -1496,17 +1496,6 @@
 "in": true
 },
 {
-"t": "short 1020",
-"u": "https://www.hashtag-lb.com/products/short-1020",
-"p": 15.0,
-"c": 27.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/d2173eaa-4839-419f-8054-a4d7d1121cea.jpg?v=1781688357&width=400",
-"type": "Short",
-"tags": [],
-"in": true
-},
-{
 "t": "straight jeans 26807",
 "u": "https://www.hashtag-lb.com/products/straight-jeans-26807",
 "p": 30.0,
@@ -1526,7 +1515,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/65a82cb7-9738-46a6-be97-aa2ac979b173.jpg?v=1781613441&width=400",
 "type": "Jeans",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "t-shirt",
@@ -1724,7 +1713,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/8711ad67-d31d-4baf-902e-10e759d4c4e0.jpg?v=1780412179&width=400",
 "type": "TOP",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "wide leg pants 3317",
@@ -1965,28 +1954,6 @@
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/8887.jpg?v=1770453799&width=400",
 "type": "Jeans",
-"tags": [],
-"in": true
-},
-{
-"t": "bag",
-"u": "https://www.hashtag-lb.com/products/bag-1",
-"p": 29.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/124.jpg?v=1764599493&width=400",
-"type": "bag",
-"tags": [],
-"in": true
-},
-{
-"t": "bag(2008)",
-"u": "https://www.hashtag-lb.com/products/bag2008",
-"p": 25.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/83_6f72ded6-6129-438c-960e-55425d891f34.jpg?v=1764598625&width=400",
-"type": "bag",
 "tags": [],
 "in": true
 }

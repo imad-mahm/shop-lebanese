@@ -1,5 +1,83 @@
 [
 {
+"t": "The Magic Box",
+"u": "https://looliacloset.com/products/bassam-fattouh-ramadan-calendar",
+"p": 114.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Bassam_Fattouh_Cosmetics_-_Ramadan_Calendar.jpg?v=1745561529&width=400",
+"type": "Advent Calendar",
+"tags": [
+"Advent Calendar",
+"Bassam Fattouh Cosmetics",
+"BP_Lebanon",
+"budget60+",
+"budget>100",
+"check-sets",
+"discount-20-and-under",
+"for-her"
+],
+"in": true
+},
+{
+"t": "Gift From Royal Cosmetics : Concealer Brush",
+"u": "https://looliacloset.com/products/gift-from-royal-cosmetics-concealer-brush",
+"p": 0.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Untitleddesign-2026-02-04T121138.923.png?v=1770199910&width=400",
+"type": "GWP",
+"tags": [
+"_appmaker_disable_purchase",
+"BP_Lebanon",
+"GWP",
+"Hidden recommendation",
+"hide_product_status",
+"Royal Cosmetics",
+"SEARCHANISE_IGNORE",
+"Skincare Tools"
+],
+"in": true
+},
+{
+"t": "Gift From Loolia Closet : Lottery Ticket",
+"u": "https://looliacloset.com/products/gift-from-loolia-closet-lottery-ticket",
+"p": 0.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Untitleddesign_52_2_c91a9aba-29d0-4e01-bc66-23c66514b6ba.png?v=1790320818&width=400",
+"type": "GWP",
+"tags": [
+"_appmaker_disable_purchase",
+"GWP",
+"Hidden recommendation",
+"hide_product_status",
+"Loolia Closet",
+"SEARCHANISE_IGNORE"
+],
+"in": true
+},
+{
+"t": "Lancôme Absolue Soft Set",
+"u": "https://looliacloset.com/products/absolue-soft-set",
+"p": 311.52,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Lanc_me_-_Absolue_Soft_Set_1.jpg?v=1739356106&width=400",
+"type": "Skin Care Set",
+"tags": [
+"Black Friday Offers",
+"Black Friday skincare Offers",
+"Black Friday | Up To 40%",
+"Black Friday | Up To 50%",
+"BP_France",
+"budget60+",
+"budget>100",
+"check-sets"
+],
+"in": true
+},
+{
 "t": "Hydra Zen Starter Set",
 "u": "https://looliacloset.com/products/hydra-zen-starter-set",
 "p": 45.47,
@@ -147,7 +225,8 @@
 "bundle",
 "Factorybundle",
 "Haircare_experience26",
-"Ifran"
+"Ifran",
+"Valued Bundles"
 ],
 "in": true
 },
@@ -964,7 +1043,7 @@
 "NYX Professional Makeup",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Epic Wear Liner Stick + Fat Cheeks Juicy Blush + Fat Oil Lip Drip + FREE Heart Mirror Keychain At 20% OFF",
@@ -1990,8 +2069,8 @@
 {
 "t": "The Hydration Routine +10%off + Gift",
 "u": "https://looliacloset.com/products/la-roche-posay-hydration-routine",
-"p": 73.81,
-"c": null,
+"p": 66.43,
+"c": 73.81,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/ANY_2_21.png?v=1792167889&width=400",
 "type": "Bundle",
@@ -2815,7 +2894,7 @@
 "NYX Professional Makeup",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Buttermelt Blush + Fat Cheeks Juicy Blush + FREE Mirror Suction At 20% OFF",
@@ -2937,7 +3016,7 @@
 "le_defile26",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Elvive Extraordinary Oil Midnight Serum + Hair Oil Treatment Serum + FREE Le Defile Pouch At 25% OFF",
@@ -4116,7 +4195,7 @@
 "Factorybundle",
 "Foundation"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Gift From A-Derma : Pouch",
@@ -6821,7 +6900,7 @@
 "NYX Professional Makeup",
 "Nyx_Summer26"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Compostable Cleaning Wipes With Fragrance 60 Wipes",
@@ -7267,7 +7346,7 @@
 "GarnierSummer26",
 "Skin Glow Edit"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Precision Brow R206",
@@ -8773,7 +8852,7 @@
 "Factorybundle",
 "NYX Professional Makeup"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Lingerie Lip Liner  + Jelly Job Gloss + FREE Pouch",
@@ -13852,7 +13931,7 @@
 "NYX Professional Makeup",
 "Shop All"
 ],
-"in": true
+"in": false
 },
 {
 "t": "NYX Makeup Bundle: Brow Pencil + Lip Oil  + Face Glue Primer + FREE Pouch",
@@ -15603,7 +15682,7 @@
 "highlighter",
 "New In Makeup"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Revitalift Laser X3 Triple Action Anti-Aging Day Cream, firm skin, and Brighten Complexion, SPF 25, 50ml",
@@ -29084,7 +29163,7 @@
 "for-her",
 "for-him"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Metal Detox Mask and Travel Size Shampoo",
@@ -34982,7 +35061,7 @@
 "p": 9.5,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2298/5927/files/INF.01.png?v=1768564682&width=400",
+"img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Available_in_Jumbo_Size.png?v=1792498329&width=400",
 "type": "Setting Spray",
 "tags": [
 "BP_France",
@@ -35128,7 +35207,7 @@
 "CPD_Exclude",
 "CPD_FS26"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Essie Color - Sepia Retreat, Salon-Quality Nail Polish, Vegan formula for flawless coverage, easy-glide brush",
@@ -41208,7 +41287,7 @@
 "Ker_Gloss_Range",
 "Keraxlorp"
 ],
-"in": true
+"in": false
 },
 {
 "t": "‏Gloss Absolu Glaze Milk Heat Protecting Spray",
@@ -44301,7 +44380,7 @@
 "hair-oil-26",
 "kerastase"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Blond Absolu Cigagloss Oil",
@@ -46880,7 +46959,7 @@
 "Discount_26",
 "EX_CPD"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Color Trip Lipgloss Effect Nail Polish",
@@ -53329,7 +53408,7 @@
 "Hair Care",
 "Hair Week | Casual Haircare"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Shampoo Nutrition 300ml",
@@ -57068,86 +57147,6 @@
 "discount-20-to-30",
 "Discount_26",
 "Fall_Into_Hydra"
-],
-"in": false
-},
-{
-"t": "Musti Coffrets With Cuddly Musti Terracota 2024",
-"u": "https://looliacloset.com/products/musti-coffrets-with-cuddly-musti-terracota-2024",
-"p": 15.54,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Untitleddesign-2024-12-27T100841.630.jpg?v=1735286996&width=400",
-"type": "Fragrance Set",
-"tags": [
-"BF_2025",
-"BP_France",
-"budget10_20",
-"check-sets",
-"christmas-sets-2025",
-"discount-20-to-30",
-"Discount_26",
-"Fragrance Set"
-],
-"in": false
-},
-{
-"t": "Vitamino Color Moon Capsule Set",
-"u": "https://looliacloset.com/products/vitamino-color-moon-capsule-set",
-"p": 34.14,
-"c": 42.68,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Untitleddesign-2024-12-28T133909.272.jpg?v=1735385955&width=400",
-"type": "Hair Care Set",
-"tags": [
-"BP_France",
-"budget20_50",
-"check-sets",
-"Christmas Sets | Haircare 2024",
-"christmas-sets-2025",
-"Coffret_LP",
-"discount-20-and-under",
-"Everything Except LID LLD"
-],
-"in": false
-},
-{
-"t": "Isdinceutics Hyaluronic Concentrate Serum",
-"u": "https://looliacloset.com/products/hyaluronic-concentrate-serum",
-"p": 55.8,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2298/5927/files/ISDIN_-_Isdinceutics_Hyaluronic_Concentrate_Serum.jpg?v=1737365449&width=400",
-"type": "Face Serum",
-"tags": [
-"ANTI-AGE",
-"Black Friday Offers",
-"Black Friday skincare Offers",
-"Black Friday | Up To 40%",
-"Black Friday | Up To 50%",
-"budget20_50",
-"discount-20-to-30",
-"end-of-year-25-sale"
-],
-"in": false
-},
-{
-"t": "Isdinceutics Flavo-C Melatonin",
-"u": "https://looliacloset.com/products/isdinceutics-flavo-c-melatonin",
-"p": 45.31,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2298/5927/files/isdinceutics.jpg?v=1740131907&width=400",
-"type": "Face Serum",
-"tags": [
-"Black Friday Offers",
-"Black Friday skincare Offers",
-"Black Friday | Up To 40%",
-"Black Friday | Up To 50%",
-"budget20_50",
-"discount-20-to-30",
-"Eid_offer26",
-"end-of-year-25-sale"
 ],
 "in": false
 }
