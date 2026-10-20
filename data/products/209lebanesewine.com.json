@@ -337,7 +337,7 @@
 "Grape Varieties:Cabernet Sauvignon",
 "Grape Varieties:Merlot"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Chateau Kefraya Comte de M 2018",
@@ -397,7 +397,7 @@
 "Food Pairing:Aperitif",
 "Food Pairing:Cold cuts"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Batroun Mountains Ruby 2019 Bag in Box 3L",
@@ -417,7 +417,7 @@
 "Food Pairing:Grilled fish and seafood",
 "Food Pairing:Lebanese Mezze"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Chateau Trois Collines Ample Assyrtico white 2021",
@@ -517,7 +517,7 @@
 "Food Pairing:Grilled fish and seafood",
 "Food Pairing:Lebanese Mezze"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Domaine de Baal White 2022",
@@ -577,7 +577,7 @@
 "Food Pairing:Aperitif",
 "Food Pairing:Cold cuts"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Chateau Qanafar Riesling 2020",
@@ -1764,7 +1764,7 @@
 "Food Pairing:Grilled fish and seafood",
 "Food Pairing:Lebanese Mezze"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Aurora Cabernet Franc 2022",
@@ -2143,7 +2143,7 @@
 "Grape Varieties:Syrah",
 "horeca"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Chateau St Thomas Les Emirs 2018",

@@ -1,5 +1,82 @@
 [
 {
+"t": "L'Oreal Paris Elvive Collagen Lifter Hair Serum 100ml",
+"u": "https://zedstorelb.com/products/loreal-paris-elvive-collagen-lifter-hair-serum-100ml",
+"p": 10.5,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/1-3600524262518-CXollagenLifter-Serum_1800x1800_f543e778-a3dc-45f1-9bfc-dba6a65c486c.jpg?v=1792427658&width=400",
+"type": "Hair Serum",
+"tags": [],
+"in": true
+},
+{
+"t": "Ruby Rose Blush & Shine Highlighter and Blush Palette",
+"u": "https://zedstorelb.com/products/ruby-rose-blush-shine-highlighter-and-blush-palette",
+"p": 8.88,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/CERRADO_3_b05abc14-1a99-4a29-b8d3-881e17ca6276.webp?v=1792423367&width=400",
+"type": "Palette",
+"tags": [],
+"in": true
+},
+{
+"t": "Ruby Rose All In One Palette Eyeshadow & Face",
+"u": "https://zedstorelb.com/products/ruby-rose-all-in-one-palette-eyeshadow-face",
+"p": 11.1,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/images_58c60601-de87-48ac-a259-46522c33fd46.jpg?v=1792422691&width=400",
+"type": "Palette",
+"tags": [],
+"in": true
+},
+{
+"t": "Ruby Rose Poreless Primer Facial",
+"u": "https://zedstorelb.com/products/ruby-rose-poreless-primer-facial",
+"p": 6.94,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/HB-8186_PorelessPrimerFacial.webp?v=1792422381&width=400",
+"type": "Primer",
+"tags": [],
+"in": true
+},
+{
+"t": "Ruby rose Duo Kiss Batom Lisptick G1&G2",
+"u": "https://zedstorelb.com/products/ruby-rose-duo-kiss-batom-lisptick-g1-g2",
+"p": 4.16,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/HB-L6203-1_DuoKissBatomLisptickG1_G2_DK01.webp?v=1792404935&width=400",
+"type": "Lipstick",
+"tags": [],
+"in": true
+},
+{
+"t": "Ruby rose Lip Luxe Satin Lipstick G1&G2 S&M",
+"u": "https://zedstorelb.com/products/ruby-rose-lip-luxe-satin-lipstick-g1-g2-s-m",
+"p": 3.16,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/HB-L6000S-1_LipLuxeSatinLipstickG1_G2S_M_G1S-LL10.webp?v=1792402921&width=400",
+"type": "Lipstick",
+"tags": [],
+"in": true
+},
+{
+"t": "Ruby rose Soft Focus Tint",
+"u": "https://zedstorelb.com/products/ruby-rose-soft-focus-tint",
+"p": 3.33,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/HB-L6601-1_SoftFocusTint_1.webp?v=1792401572&width=400",
+"type": "Lipstick",
+"tags": [],
+"in": true
+},
+{
 "t": "Free Gift Lipstick Keychain Holder",
 "u": "https://zedstorelb.com/products/free-gift-lipstick-keychain-holder",
 "p": 0.0,
@@ -407,7 +484,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/images_58e297c8-203d-4d19-be51-d05ff77cdc5f.jpg?v=1791734982&width=400",
 "type": "Makeup",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "SHEGLAM Multi-Fix Concealer and Color Corrector - Dulce de Leche",
@@ -1069,7 +1146,7 @@
 "freegift",
 "giftcollection"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Free Gift Mini Maybelline Sky High Mascara",
@@ -2161,7 +2238,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/HolaCosmeticsBodySpray100ml.png?v=1789495758&width=400",
 "type": "Body Splash",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Hola Cosmetics Hair Mist",
@@ -2995,7 +3072,7 @@
 "freegift",
 "giftcollection"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Free Gift Mini Garnier Hair Dye Applicator",
@@ -4075,7 +4152,7 @@
 "freegift",
 "giftcollection"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Free Gift Avocado hair Clip",
@@ -7272,7 +7349,7 @@
 "freegift",
 "giftcollection"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Byphasse Mousse Definition Boucles 300ml",
@@ -7506,7 +7583,7 @@
 "freegift",
 "giftcollection"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Free Gift L'Oreal Apran Beige",
@@ -7632,7 +7709,7 @@
 "freegift",
 "giftcollection"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Free Gift Skincare Kit Pouch White & Blue",
@@ -7660,7 +7737,7 @@
 "freegift",
 "giftcollection"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Free Gift L'Oreal Pouch Leather red",
@@ -7716,7 +7793,7 @@
 "freegift",
 "giftcollection"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Bodycology Pink Vanilla Wish Shea Butter Body Cream 227g",
@@ -11431,7 +11508,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/La-Roche-Posay-Pure-Vitamin-C12-Serum-30-mL-FamiliaList-35688522973420.webp?v=1777224144&width=400",
 "type": "Serum",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Essence Kajal Pencil 04 White",
@@ -12090,7 +12167,7 @@
 "tags": [
 "sephoracollection"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Ruby Beauty Eye Brow Plucker 049",
@@ -13947,7 +14024,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/download_bc62af13-edea-442a-b5b8-15c700778e0a.jpg?v=1770971550&width=400",
 "type": "Nail Care",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "L'Oreal Paris Telescopic Extensionist Mascara",
@@ -16587,7 +16664,7 @@
 "dryskincollection",
 "teahersday2026"
 ],
-"in": false
+"in": true
 },
 {
 "t": "-10% OFF CeraVe Blemish Control Cleanser Face Wash 236ml + Gel Facial Moisturiser For Acne & Blemishes with Glycolic Acid and Lactic Acid AHA/BHA 40ml",
@@ -16603,7 +16680,7 @@
 "delete",
 "teahersday2026"
 ],
-"in": false
+"in": true
 },
 {
 "t": "-10% OFF CeraVe AM facial moisturising lotion 52ml + PM moisturising lotion 52ml + eye repair cream 14ml",
@@ -16618,7 +16695,7 @@
 "delete",
 "teahersday2026"
 ],
-"in": false
+"in": true
 },
 {
 "t": "-10% OFF CeraVe hydrating cleanser 236ml + moisturising lotion 236ml + eye repair cream 14ml",
@@ -16633,7 +16710,7 @@
 "delete",
 "teahersday2026"
 ],
-"in": false
+"in": true
 },
 {
 "t": "La Roche Posay Effaclar Duo+M 3H Spot Patches",
@@ -17541,7 +17618,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/oil-control-gel-benefits-nine-LG.jpg?v=1763035022&width=400",
 "type": "Cream",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Cerave Resurfacing Retinol Serum 30ml",
@@ -18588,7 +18665,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/rn-image_picker_lib_temp_b8f5ace1-76eb-4f01-ad60-3058c8b099a8.png?v=1763312866&width=400",
 "type": "Eyebrow Gel",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Ruby Beauty Liquid Eyeliner – Intense Black",
@@ -19684,7 +19761,7 @@
 "dryskincollection",
 "oilyskincollection"
 ],
-"in": false
+"in": true
 },
 {
 "t": "La Roche Posay Effaclar Micro-peeling purifying gel FACE AND BODY CLEANSER 200ml",
@@ -24614,7 +24691,7 @@
 "Sensitiveskincollection",
 "sephoracollection"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Dove lullaby music tin gift set",
@@ -26150,7 +26227,7 @@
 "Sensitiveskincollection",
 "sephoracollection"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Dr. Althea 147 Barrier Cream 50ml",
@@ -27400,7 +27477,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/8623cfd206c948c78407042a9c87d1f0-Optimal.jpg?v=1745524385&width=400",
 "type": "Deodorant",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "La Roche Posay Anthelios Invisible Spray SPF50 200ml",
@@ -27834,7 +27911,7 @@
 "tags": [
 "acnepronecollection"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Skin1004 Madagascar Centella Tone Brightening Capsule Ampoule 100ml",
@@ -31934,7 +32011,7 @@
 "hyperpigmentationollection",
 "tancollection"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Avene Thermal Spring Water For Sensitive Skin 150ml",
@@ -32881,7 +32958,7 @@
 "tags": [
 "sephoracollection"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Huda Beauty Icy Nude PH Face Gloss",
@@ -37873,110 +37950,5 @@
 "oilyskincollection"
 ],
 "in": true
-},
-{
-"t": "L'Oreal Paris Elvive Hyaluron Pure 72h Rehydrating Conditioner for Oily Scalp & Dehydrated Lengths",
-"u": "https://zedstorelb.com/products/l-oreal-paris-elvive-hyaluron-pure-72h-rehydrating-conditioner-for-oily-scalp-dehydrated-lengths",
-"p": 3.38,
-"c": 3.76,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/1_2.jpg?v=1726570548&width=400",
-"type": "Conditioner",
-"tags": [
-"1212/2025",
-"HAPUREl'oreal",
-"lorealfinal",
-"L’Oréal Paris Elvive Hyaluron Pure 72h Rehydrating Conditioner for Oily Scalp & Dehydrated Lengths",
-"oilyskincollection"
-],
-"in": true
-},
-{
-"t": "L'Oreal Paris Elvive Hyaluron Pure Purifying Shampoo for Oily Roots And Dehydrated Length",
-"u": "https://zedstorelb.com/products/l-oreal-paris-elvive-hyaluron-pure-purifying-shampoo-for-oily-roots-and-dehydrated-length-600-ml",
-"p": 3.83,
-"c": 4.25,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/1_1.jpg?v=1726569856&width=400",
-"type": "Shampoo",
-"tags": [
-"1212/2025",
-"dryskincollection",
-"HAPUREl'oreal",
-"lorealfinal",
-"Lâ€™OrÃ©al Paris Elvive Hyaluron Pure Purifying Shampoo for Oily Roots And Dehydrated Length 600 ML",
-"oilyskincollection"
-],
-"in": true
-},
-{
-"t": "Glow Recipe Blueberry Bounce Gentle Cleanser",
-"u": "https://zedstorelb.com/products/glow-recipe-blueberry-bounce-gentle-cleanser",
-"p": 37.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/13317618-3314913520809793.webp?v=1726421005&width=400",
-"type": "cleanser",
-"tags": [
-"clearancecollection",
-"Glow Recipe Blueberry Bounce Gentle Cleanser",
-"sephoracollection"
-],
-"in": false
-},
-{
-"t": "Glow Recipe Plum Plump Hyaluronic Serum",
-"u": "https://zedstorelb.com/products/glow-recipe-plum-plump-hyaluronic-serum",
-"p": 52.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/Untitleddesign_47.jpg?v=1726420110&width=400",
-"type": "Serum",
-"tags": [
-"Glow Recipe Plum Plump Hyaluronic Serum",
-"sephoracollection"
-],
-"in": false
-},
-{
-"t": "Glow Recipe Watermelon Glow Niacinamide SPF 50 Sunscreen 50ml",
-"u": "https://zedstorelb.com/products/glow-recipe-watermelon-glow-niacinamide-spf-50-sunscreen-50ml",
-"p": 39.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/13695642-1934945707574161.webp?v=1726419269&width=400",
-"type": "Sunscreen",
-"tags": [
-"clearancecollection",
-"Glow Recipe Watermelon Glow Niacinamide SPF 50 Sunscreen 50ml",
-"sephoracollection"
-],
-"in": false
-},
-{
-"t": "Provoc ILLICIT waterproof Lip Liner Filler",
-"u": "https://zedstorelb.com/products/provoc-illicit-waterproof-lip-liner-filler",
-"p": 5.85,
-"c": 6.5,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/Studio-Project-2024-09-14T144840.333.jpg?v=1726314562&width=400",
-"type": "Lip Liner",
-"tags": [
-"Provoc ILLICIT waterproof Lip Liner Filler"
-],
-"in": true
-},
-{
-"t": "Elf No Budge Retractable Eyeliner Waterproof",
-"u": "https://zedstorelb.com/products/elf-no-budge-retractable-eyeliner-waterproof",
-"p": 12.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/images_a46f843f-2b0f-4e81-8f2a-900ccfac0479.jpg?v=1726313153&width=400",
-"type": "Eyeliner",
-"tags": [
-"sephoracollection"
-],
-"in": false
 }
 ]
