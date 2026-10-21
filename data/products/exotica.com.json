@@ -1,5 +1,58 @@
 [
 {
+"t": "Autumn Sweetness",
+"u": "https://exotica.com/products/autumn-sweetness",
+"p": 75.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/fall-in-love.jpg?v=1735637859&width=400",
+"type": "Flowers",
+"tags": [],
+"in": false
+},
+{
+"t": "Velvet Sunshine",
+"u": "https://exotica.com/products/velvet-sunshine",
+"p": 95.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/velvet-sunshine.jpg?v=1735637856&width=400",
+"type": "Flowers",
+"tags": [
+"Birthdays",
+"Congratulations",
+"Flowers",
+"For Colleagues",
+"For Friends",
+"For Her",
+"For Mom",
+"Graduation"
+],
+"in": false
+},
+{
+"t": "My Sweet Pumpkin",
+"u": "https://exotica.com/products/my-sweet-pumpkin",
+"p": 185.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/My-Sweet-Pumpkin.jpg?v=1735637840&width=400",
+"type": "Flowers",
+"tags": [],
+"in": false
+},
+{
+"t": "Petal Kiss",
+"u": "https://exotica.com/products/petal-kiss",
+"p": 60.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/petalkiss.jpg?v=1735637858&width=400",
+"type": "Flowers",
+"tags": [],
+"in": false
+},
+{
 "t": "Custom Order",
 "u": "https://exotica.com/products/custom-order-2",
 "p": 407.0,
@@ -691,17 +744,6 @@
 "in": true
 },
 {
-"t": "Autumn Breeze",
-"u": "https://exotica.com/products/autumn-breeze-1",
-"p": 140.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Autumn_Breeze_2.png?v=1789555758&width=400",
-"type": "Flowers",
-"tags": [],
-"in": true
-},
-{
 "t": "Purple Haze",
 "u": "https://exotica.com/products/purple-haze",
 "p": 145.0,
@@ -744,23 +786,6 @@
 "in": true
 },
 {
-"t": "Velvet Bloom",
-"u": "https://exotica.com/products/velvet-bloom",
-"p": 172.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Velvet_Bloom_-_Flower_Autumn_Arrangement.jpg?v=1789547901&width=400",
-"type": "Flowers",
-"tags": [
-"Congratulations",
-"Flowers",
-"For Her",
-"Mixed Flowers",
-"Orange"
-],
-"in": true
-},
-{
 "t": "Amber Glow",
 "u": "https://exotica.com/products/amber-glow",
 "p": 71.0,
@@ -776,21 +801,6 @@
 "Orange"
 ],
 "in": false
-},
-{
-"t": "Autumn Centerpiece",
-"u": "https://exotica.com/products/autumn-centerpiece",
-"p": 176.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Harvest_Centerpiece_-_Fall.jpg?v=1789547714&width=400",
-"type": "Flowers",
-"tags": [
-"Flowers",
-"Mixed Colors",
-"Mixed Flowers"
-],
-"in": true
 },
 {
 "t": "Copper Garden",
@@ -869,7 +879,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/ColoursofFall_2.png?v=1789626006&width=400",
 "type": "Flowers",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Fallen Leaves",
@@ -968,23 +978,6 @@
 "Flower Boxes",
 "Flowers",
 "Mixed Flowers"
-],
-"in": true
-},
-{
-"t": "Autumn Whisper",
-"u": "https://exotica.com/products/autumn-whisper",
-"p": 65.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/AutumnWhisper.png?v=1789626178&width=400",
-"type": "Flowers",
-"tags": [
-"Congratulations",
-"Flowers",
-"For Her",
-"Mixed Flowers",
-"Orange"
 ],
 "in": true
 },
@@ -1724,7 +1717,7 @@
 "Pink",
 "preorder"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Love in Full Bloom",
@@ -1789,21 +1782,6 @@
 "in": true
 },
 {
-"t": "Lemon Blossom",
-"u": "https://exotica.com/products/lemon-blossom",
-"p": 125.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/LemonBlossom.jpg?v=1791461563&width=400",
-"type": "Flowers",
-"tags": [
-"Flowers",
-"Mixed Colors",
-"Mixed Flowers"
-],
-"in": true
-},
-{
 "t": "Into the Spotlight",
 "u": "https://exotica.com/products/into-the-spotlight",
 "p": 139.0,
@@ -1812,7 +1790,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Into_the_Spotlight.jpg?v=1791448089&width=400",
 "type": "Flowers",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Summer's Glow",
@@ -1823,22 +1801,6 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Summer_s_Glow.jpg?v=1791450069&width=400",
 "type": "Flowers",
 "tags": [],
-"in": true
-},
-{
-"t": "Bold & Brilliant",
-"u": "https://exotica.com/products/bold-brilliant",
-"p": 315.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Bold_Brilliant.jpg?v=1780662152&width=400",
-"type": "Flowers",
-"tags": [
-"Flowers",
-"For Dad",
-"Mixed Colors",
-"Mixed Flowers"
-],
 "in": true
 },
 {
@@ -1910,17 +1872,6 @@
 "Gift Bundles",
 "Mixed Flowers"
 ],
-"in": true
-},
-{
-"t": "Purple Honors",
-"u": "https://exotica.com/products/purple-honors",
-"p": 148.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Purple_Honors1.jpg?v=1791446576&width=400",
-"type": "Flowers",
-"tags": [],
 "in": true
 },
 {
@@ -2000,7 +1951,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Untitled_design.jpg?v=1779106820&width=400",
 "type": "Add-Ons",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Pick Love Red",
@@ -2036,20 +1987,6 @@
 "in": true
 },
 {
-"t": "Spring Serenade",
-"u": "https://exotica.com/products/spring-serenade",
-"p": 77.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Spring_Serenade.jpg?v=1791443194&width=400",
-"type": "Flowers",
-"tags": [
-"Flowers",
-"Mixed Flowers"
-],
-"in": true
-},
-{
 "t": "Honey, Honey",
 "u": "https://exotica.com/products/honey-honey",
 "p": 78.0,
@@ -2067,7 +2004,7 @@
 "Get Well Soon",
 "Thank You"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Passionate  Love",
@@ -2086,26 +2023,6 @@
 "Orange",
 "Roses",
 "Yellow"
-],
-"in": true
-},
-{
-"t": "Enchanted Blush",
-"u": "https://exotica.com/products/enchanted-blush",
-"p": 190.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/EnchantedBlush.jpg?v=1791461042&width=400",
-"type": "Flowers",
-"tags": [
-"Birthdays",
-"Congratulations",
-"For Friends",
-"For Her",
-"For Mom",
-"Get Well Soon",
-"Mixed Colors",
-"Mixed Flowers"
 ],
 "in": true
 },
@@ -2370,26 +2287,6 @@
 "For Teta",
 "Get Well Soon",
 "Indoor Plants"
-],
-"in": true
-},
-{
-"t": "Petal Pops",
-"u": "https://exotica.com/products/petal-pops",
-"p": 126.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/ChatGPT_Image_Apr_8_2026_03_24_12_PM.png?v=1775651077&width=400",
-"type": "Flowers",
-"tags": [
-"Birthdays",
-"Congratulations",
-"Flower Boxes",
-"Flowers",
-"For Friends",
-"For Her",
-"For Mom",
-"For Teta"
 ],
 "in": true
 },
@@ -2964,7 +2861,7 @@
 "For Teta",
 "Mixed Colors"
 ],
-"in": false
+"in": true
 },
 {
 "t": "The Spiky Plant",
@@ -3618,7 +3515,7 @@
 "Indoor Plants",
 "Plants"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Blushing Orchid",
@@ -4532,17 +4429,6 @@
 "in": true
 },
 {
-"t": "Floral Cheers",
-"u": "https://exotica.com/products/floral-cheers",
-"p": 125.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/FloralCheers.jpg?v=1753952154&width=400",
-"type": "Flowers",
-"tags": [],
-"in": true
-},
-{
 "t": "Pink Celebration",
 "u": "https://exotica.com/products/pink-celebration",
 "p": 91.0,
@@ -4557,7 +4443,7 @@
 "For Mom",
 "Gift Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Endless Bloom",
@@ -4979,7 +4865,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Bonsai_Essence.jpg?v=1791285841&width=400",
 "type": "Plants",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Deep Coral",
@@ -5239,7 +5125,7 @@
 "Indoor Plants",
 "Medium"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Love",
@@ -5402,7 +5288,7 @@
 "Graduation",
 "Handheld Bouquets"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Shine Bright",
@@ -5422,27 +5308,7 @@
 "For Him",
 "For Kids"
 ],
-"in": true
-},
-{
-"t": "Cheers!",
-"u": "https://exotica.com/products/cheers-box",
-"p": 113.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/CHEERS.jpg?v=1735637861&width=400",
-"type": "Flowers",
-"tags": [
-"Birthdays",
-"Flower Boxes",
-"Flowers",
-"For Colleagues",
-"For Dad",
-"For Friends",
-"For Him",
-"Gift Bundles"
-],
-"in": true
+"in": false
 },
 {
 "t": "Champagne Drappier Brut Magnum",
@@ -5694,7 +5560,7 @@
 {
 "t": "Money Plant",
 "u": "https://exotica.com/products/money-plant",
-"p": 87.0,
+"p": 70.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/MoneyTree.png?v=1791195789&width=400",

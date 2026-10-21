@@ -1,5 +1,16 @@
 [
 {
+"t": "Test-1",
+"u": "https://daouk.com/products/test-2",
+"p": 1.0,
+"c": null,
+"cur": "USD",
+"img": "",
+"type": "",
+"tags": [],
+"in": true
+},
+{
 "t": "ProCarmen Heat Brush",
 "u": "https://daouk.com/products/procarmen-heat-brush",
 "p": 39.0,
@@ -4308,7 +4319,7 @@
 "in": false
 },
 {
-"t": "Braun Silk Epil 9 For Long Lasting Smooth Skin",
+"t": "Braun Silk Epil 9 Epilator",
 "u": "https://daouk.com/products/braun-silk-epil-9-9-720",
 "p": 195.0,
 "c": null,
@@ -5775,7 +5786,7 @@
 "in": true
 },
 {
-"t": "Vitality's Natural 30 Peroxide Cream",
+"t": "Vitality's Natural 30 Volume Peroxide Cream",
 "u": "https://daouk.com/products/vitalitys-natural-30-peroxyde-cream",
 "p": 7.0,
 "c": null,
@@ -9323,7 +9334,7 @@
 "in": true
 },
 {
-"t": "Vitality's Intensive Aqua Energizing Anti Hair Loss Treatment 8 X 7ml",
+"t": "Vitality's Intensive Aqua Energizing Anti Hair Loss Treatment 8x7ml",
 "u": "https://daouk.com/products/vitalitys-intensive-aqua-energizing-anti-hair-loss-treatment-8-x-7-ml",
 "p": 25.0,
 "c": null,
@@ -10775,7 +10786,7 @@
 "in": true
 },
 {
-"t": "Vitality Fascinelle Prof. Lacquer 500ml",
+"t": "Vitality Fascinelle Professional Lacquer 500ml",
 "u": "https://daouk.com/products/vitality-fascinelle-prof-lacquer-500-ml",
 "p": 20.0,
 "c": null,
@@ -10789,7 +10800,7 @@
 "in": true
 },
 {
-"t": "Vitality Fascinelle Prof. Lacquer Strong Hold 500ml",
+"t": "Vitality Fascinelle Professional Lacquer Strong Hold 500ml",
 "u": "https://daouk.com/products/vitality-fascinelle-prof-lacquer-strong-hold-500-ml",
 "p": 13.0,
 "c": null,
@@ -10818,7 +10829,7 @@
 "in": false
 },
 {
-"t": "Vitality's Aqua Repairing Protein Shampoo For Damaged Hair",
+"t": "Vitality's Aqua Repairing Protein Shampoo for Damaged Hair",
 "u": "https://daouk.com/products/vitalitys-aqua-repairing-protein-shampoo-for-damaged-hair",
 "p": 11.0,
 "c": null,
@@ -19391,7 +19402,7 @@
 "in": true
 },
 {
-"t": "Keratin Hair Color Spray Thickener Dark Brown",
+"t": "K.Keratin Hair Color Spray Thickener Dark Brown",
 "u": "https://daouk.com/products/copy-of-keratin-hair-color-spray-thickener-dark-brown",
 "p": 13.0,
 "c": null,
@@ -22091,7 +22102,7 @@
 "in": true
 },
 {
-"t": "Henbor Professional Line 6 inch Brillant Scissor 13606",
+"t": "Henbor Professional Line 6 Inch Brillant Scissor 13606",
 "u": "https://daouk.com/products/henbor-professional-line-6-brillant-scissor-13606",
 "p": 26.0,
 "c": 29.6,
@@ -22241,7 +22252,7 @@
 "in": true
 },
 {
-"t": "Beauty Glam Superior MR0749 Mirror with Stand, 7x",
+"t": "Beauty Glam Superior MR0749 Mirror with Stand 7x",
 "u": "https://daouk.com/products/beauty-glam-j-d-superior-mr0749-mirror-7-with-stand",
 "p": 52.0,
 "c": null,
@@ -22794,21 +22805,6 @@
 "tags": [
 "#1514",
 "eau de cologne for him",
-"kb-rewritten",
-"seo-rewritten"
-],
-"in": true
-},
-{
-"t": "Restoria Express Real Black Hair and Beard Color",
-"u": "https://daouk.com/products/restoria-express-real-black",
-"p": 15.0,
-"c": 17.77,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/restoria-express-real-black-hair-and-beard-color-izzat-daouk-1.jpg?v=1792045672&width=400",
-"type": "Coloration",
-"tags": [
-"coloration",
 "kb-rewritten",
 "seo-rewritten"
 ],
@@ -23643,7 +23639,7 @@
 "in": true
 },
 {
-"t": "Beauty Glam Superior MR0725S Round Mirror with Stand, 7x",
+"t": "Beauty Glam Superior MR0725S Round Mirror with Stand 7x",
 "u": "https://daouk.com/products/beauty-glam-j-d-superior-mr0725s-mirror-round-with-stand-gm-x7",
 "p": 26.0,
 "c": 28.6,
@@ -25353,7 +25349,7 @@
 "in": true
 },
 {
-"t": "Vitality Fascinelle Reconstruction Serum 6X10ml",
+"t": "Vitality Fascinelle Reconstruction Serum 6x10ml",
 "u": "https://daouk.com/products/vitality-fascinelle-reconstruction-serum-6x10-ml",
 "p": 8.0,
 "c": 8.8,
@@ -25367,7 +25363,7 @@
 "in": false
 },
 {
-"t": "Vitality Fascinelle Hairloss Prevention Treatment 8X7ml",
+"t": "Vitality Fascinelle Hairloss Prevention Treatment 8x7ml",
 "u": "https://daouk.com/products/vitality-fascinelle-hairloss-prevention-treatment-8x7-ml",
 "p": 19.0,
 "c": 20.9,
@@ -32218,7 +32214,7 @@
 "in": false
 },
 {
-"t": "Beauty Glam Mirror with Fan and Light, 5x",
+"t": "Beauty Glam Mirror with Fan and Light 5x",
 "u": "https://daouk.com/products/beauty-glam-mirror-x5-with-fan-light",
 "p": 25.0,
 "c": null,
@@ -39642,7 +39638,7 @@
 "in": false
 },
 {
-"t": "Beauty Glam Superior MR0721 Mirror with Stand, 10x",
+"t": "Beauty Glam Superior MR0721 Mirror with Stand 10x",
 "u": "https://daouk.com/products/beauty-glam-j-d-superior-mr0721-mirror-10-with-stand",
 "p": 31.0,
 "c": null,
@@ -43283,7 +43279,7 @@
 "in": true
 },
 {
-"t": "Reflet Argent Noir Noir 140 ML",
+"t": "Reflet Argent Noir Noir 140ml",
 "u": "https://daouk.com/products/reflet-argent-noir-noir-140-ml",
 "p": 25.0,
 "c": null,
@@ -45547,7 +45543,7 @@
 "LOREAL",
 "L’Oréal"
 ],
-"in": false
+"in": true
 },
 {
 "t": "L'Oreal Oxidant Cream 40 Vol 9 Percent 1000ml",
@@ -47266,7 +47262,7 @@
 "in": true
 },
 {
-"t": "Reflet Argent Gris Bluete 140 ML",
+"t": "Reflet Argent Gris Bluete 140ml",
 "u": "https://daouk.com/products/reflet-argent-gris-bluete-140-ml",
 "p": 26.0,
 "c": null,
@@ -47280,7 +47276,7 @@
 "in": true
 },
 {
-"t": "Style One Month Hair Color 301 Black 1000 Ml",
+"t": "Style One Month Hair Color 301 Black 1000ml",
 "u": "https://daouk.com/products/style-one-month-hair-color-301-black-1000-ml",
 "p": 103.0,
 "c": null,
