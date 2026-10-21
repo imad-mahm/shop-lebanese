@@ -1,5 +1,41 @@
 [
 {
+"t": "Buy Avène Sunscreen Tinted Fluid SPF 50+ 50ml & get the 2nd at 50% off",
+"u": "https://sohaticare.com/products/buy-avene-sunscreen-tinted-fluid-spf-50-50ml-get-the-2nd-at-50-off",
+"p": 36.0,
+"c": 48.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/AveneTintedFluidBundlePackshot.jpg?v=1792495213&width=400",
+"type": "Bundle",
+"tags": [
+"BOGO-Collection",
+"Bundle",
+"Giftset",
+"TOPOFFER"
+],
+"in": true
+},
+{
+"t": "Buy 1 get 1 Lip care",
+"u": "https://sohaticare.com/products/buy-1-get-1-lip-care",
+"p": 2.9,
+"c": 5.8,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/beesline8.jpg?v=1741166442&width=400",
+"type": "Bundle",
+"tags": [
+"backtoschool-exclusive",
+"beesline_march25",
+"BOGO-Collection",
+"Bundle",
+"COMPENSATION_MAR25",
+"Drugstore Offer",
+"Drugstore Offers",
+"Lipcare"
+],
+"in": true
+},
+{
 "t": "Digital thermometer with Age Precision®",
 "u": "https://sohaticare.com/products/digital-thermometer-with-age-precision®",
 "p": 29.0,
@@ -195,7 +231,7 @@
 "Bundle",
 "Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Buy Eucerin Hyaluron-Filler 3xEffect Hydra Boost Serum 30ml & get a FREE PhotoAging Control Fluid SPF 50+ 50ml",
@@ -428,7 +464,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/Retinal-Booster-Shot-30ml-ARENCIA.jpg?v=1791360833&width=400",
 "type": "Face Serum",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Arencia PDRN Booster Shot 30ml",
@@ -2000,26 +2036,6 @@
 "pf-bck-to-schl-cmpgn",
 "PF_AUG_26_Bundles"
 ],
-"in": false
-},
-{
-"t": "Buy Avène Cleanance Comedomed anti-blemish concentrate 30ml & get a FREE 100ml Cleanance Micellar Water + Pouch",
-"u": "https://sohaticare.com/products/buy-avene-cleanance-comedomed-anti-blemish-treatment-30ml-av-cleanance-eau-n-100ml-get-pouch",
-"p": 23.84,
-"c": 36.67,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/packshotAveneoffer5_b57c251c-6b05-4657-8fcb-e2fbd25ded18.png?v=1788788355&width=400",
-"type": "Bundle",
-"tags": [
-"backtoschool-exclusive",
-"BOGO-Collection",
-"Bundle",
-"COMPENSATION_AUG26",
-"Factorybundle",
-"Giftset",
-"pf-bck-to-schl-cmpgn",
-"PF_AUG_26_Bundles"
-],
 "in": true
 },
 {
@@ -3062,7 +3078,7 @@
 "pf-bck-to-schl-cmpgn",
 "PF_AUG_26_Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Buy Avène Hyaluron Activ Firming serum 10% Hexapeptide Solution 18ml & get a FREE 100ml micellar lotion + Pouch",
@@ -3880,8 +3896,8 @@
 {
 "t": "1 st Anti-Itch soothing oil balm 200ML",
 "u": "https://sohaticare.com/products/1-st-anti-itch-soothing-oil-balm-200ml",
-"p": 22.86,
-"c": null,
+"p": 13.72,
+"c": 22.86,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/3661434008139.webp?v=1786021690&width=400",
 "type": "baby soother",
@@ -5011,7 +5027,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/visuel-carre-creme-mains-figuier-sauvage-3200x3200-copie-1536x1536.png?v=1782810904&width=400",
 "type": "Hand Cream",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Crème Mains et Ongles Délice de Karité 30 ML",
@@ -5149,7 +5165,7 @@
 "p": 20.21,
 "c": 26.94,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/3337875597395_1.jpg?v=1698220647&width=400",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/ML-473-6-LG-new.webp?v=1792492802&width=400",
 "type": "Moisturizer",
 "tags": [
 "10.10OCT25",
@@ -7095,8 +7111,8 @@
 {
 "t": "Collistar Protective Drops Brightening 50Ml",
 "u": "https://sohaticare.com/products/collistar-protective-drops-brightening-50ml",
-"p": 63.0,
-"c": null,
+"p": 53.55,
+"c": 63.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/8015150010061.png?v=1782290789&width=400",
 "type": "",
@@ -7106,8 +7122,8 @@
 {
 "t": "Collistar Magic Drops Self-Tanning 50Ml",
 "u": "https://sohaticare.com/products/collistar-magic-drops-self-tanning-50ml",
-"p": 60.0,
-"c": null,
+"p": 51.0,
+"c": 60.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/8015150010054.png?v=1782290750&width=400",
 "type": "",
@@ -7117,8 +7133,8 @@
 {
 "t": "Collistar Supermoist After-Sun Cream 100Ml",
 "u": "https://sohaticare.com/products/collistar-supermoist-after-sun-cream-100ml",
-"p": 20.0,
-"c": null,
+"p": 17.0,
+"c": 20.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/8015150012904_100ml.jpg?v=1782290700&width=400",
 "type": "After-Sun Cream",
@@ -7128,8 +7144,8 @@
 {
 "t": "Collistar Pouch Dry Oil SPF6 +Sun Cream 100Ml",
 "u": "https://sohaticare.com/products/collistar-pouch-dry-oil-spf6-sun-cream-100ml",
-"p": 55.0,
-"c": null,
+"p": 46.75,
+"c": 55.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/8015150011112.jpg?v=1782290565&width=400",
 "type": "Sun Cream",
@@ -7139,8 +7155,8 @@
 {
 "t": "Collistar Protective Face Cream Spf50 & LipBalm",
 "u": "https://sohaticare.com/products/collistar-protective-face-creamspf50-lipbalm",
-"p": 43.0,
-"c": null,
+"p": 36.55,
+"c": 43.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/8015150009836.jpg?v=1782290399&width=400",
 "type": "",
@@ -7150,8 +7166,8 @@
 {
 "t": "Collistar Gel Stick Spf 50 & Shimmer Highlighter",
 "u": "https://sohaticare.com/products/collistar-gel-stickspf50-shimmerhighlighter",
-"p": 47.0,
-"c": null,
+"p": 39.95,
+"c": 47.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/8015150009102.png?v=1782290276&width=400",
 "type": "Gel Stick",
@@ -7161,8 +7177,8 @@
 {
 "t": "Collistar Bronzing Powder 4.4 Hawaii Matte",
 "u": "https://sohaticare.com/products/collistar-bronzing-powder-4-4-hawaii-matte",
-"p": 55.0,
-"c": null,
+"p": 46.75,
+"c": 55.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/Col.BronzingPowder4.4HawaiiMatte.jpg?v=1782289721&width=400",
 "type": "Bronzing Powder",
@@ -7172,8 +7188,8 @@
 {
 "t": "Collistar Bronzing Powder 2.2 Ipanema Matte",
 "u": "https://sohaticare.com/products/collistar-bronzing-powder-2-2-ipanema-matte",
-"p": 55.0,
-"c": null,
+"p": 46.75,
+"c": 55.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/Col.BronzingPowder2.2IpanemaMatte.jpg?v=1782289680&width=400",
 "type": "Bronzing Powder",
@@ -7183,8 +7199,8 @@
 {
 "t": "Collistar Rigenera Glow Treatment 50Ml",
 "u": "https://sohaticare.com/products/collistar-rigenera-glow-treatment-50ml",
-"p": 102.0,
-"c": null,
+"p": 86.7,
+"c": 102.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/8015150247351.png?v=1782289446&width=400",
 "type": "",
@@ -7194,8 +7210,8 @@
 {
 "t": "Collistar Lift HD Anti-Dark Circles Eye 15Ml",
 "u": "https://sohaticare.com/products/collistar-lift-hd-anti-dark-circles-eye-15ml",
-"p": 78.0,
-"c": null,
+"p": 66.3,
+"c": 78.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/8015150004541.png?v=1782289336&width=400",
 "type": "Eye Cream",
@@ -7205,8 +7221,8 @@
 {
 "t": "Collistar Lift HD Lifting Eye & Lip Cream 15Ml",
 "u": "https://sohaticare.com/products/collistar-lift-hd-lifting-eye-lip-cream-15ml",
-"p": 78.0,
-"c": null,
+"p": 66.3,
+"c": 78.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/8015150012997.png?v=1782289288&width=400",
 "type": "Eye & Lip Cream",
@@ -9472,7 +9488,7 @@
 "FRENCHWEEK2025",
 "Giftset"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Buy Hyaluron Activ B3 Concentrated plumping serum Get Free Avène Hyaluron creme du jour pot 7ml",
@@ -13442,8 +13458,8 @@
 {
 "t": "Collistar Phyto-Keratin Filler Restructuring 100Ml",
 "u": "https://sohaticare.com/products/collistar-phyto-keratin-filler-restructuring-100ml",
-"p": 42.0,
-"c": null,
+"p": 35.7,
+"c": 42.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/8015150297233_maxWidth_1200_maxHeight_1200_ppi_72.png?v=1715630153&width=400",
 "type": "Hair Filler",
@@ -14718,8 +14734,8 @@
 {
 "t": "Collistar Vitamin C Gloss Spray Brightening Revitalizing 100Ml",
 "u": "https://sohaticare.com/products/collistar-vitamin-c-gloss-spray-brightening-revitalizing-100ml",
-"p": 42.0,
-"c": null,
+"p": 35.7,
+"c": 42.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/8015150297264_maxWidth_1200_maxHeight_1200_ppi_72.png?v=1715630344&width=400",
 "type": "Hair Spray",
@@ -14758,8 +14774,8 @@
 {
 "t": "Collistar Phyto-Keratin Oil Restructuring Nourishing 100Ml",
 "u": "https://sohaticare.com/products/collistar-phyto-keratin-oil-restructuring-nourishing-100ml",
-"p": 42.0,
-"c": null,
+"p": 35.7,
+"c": 42.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/8015150297226_preview.jpg?v=1715629878&width=400",
 "type": "Hair Oil",
@@ -14778,8 +14794,8 @@
 {
 "t": "Firming Talasso Scrub",
 "u": "https://sohaticare.com/products/firming-talasso-scrub-300-ml",
-"p": 29.7,
-"c": null,
+"p": 25.24,
+"c": 29.7,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/products/8015150251716.jpg?v=1621860381&width=400",
 "type": "Body Scrub",
@@ -14798,8 +14814,8 @@
 {
 "t": "Anti Water Talasso Scrub 700ml",
 "u": "https://sohaticare.com/products/anti-water-talasso-scrub-700ml",
-"p": 68.0,
-"c": null,
+"p": 57.8,
+"c": 68.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/products/8015150250887.jpg?v=1621860376&width=400",
 "type": "Body Scrub",
@@ -15042,20 +15058,20 @@
 {
 "t": "Glow Nourish Kit",
 "u": "https://sohaticare.com/products/brighten-boost-kit-copy",
-"p": 108.5,
+"p": 93.0,
 "c": 155.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/SesedermaKitsPackshots1_2.jpg?v=1773413354&width=400",
 "type": "Bundle",
 "tags": [
+"10-increase-ne",
 "Bundle",
 "Bundles",
 "Coffret",
 "COMPENSATION_MAR26",
 "exclusivedeals_may26",
 "Giftset",
-"mothersday26",
-"near-expiry-feb27"
+"mothersday26"
 ],
 "in": true
 },
@@ -15102,8 +15118,8 @@
 {
 "t": "Radiance Lift Kit",
 "u": "https://sohaticare.com/products/radiance-lift-kit",
-"p": 122.5,
-"c": 175.0,
+"p": 175.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/SesedermaKitsPackshots3_2.jpg?v=1773413472&width=400",
 "type": "Bundle",
@@ -16231,20 +16247,20 @@
 {
 "t": "SOSKIN GLYCO-C SOIN CORRECTION RIDES-ECLAT 30ml",
 "u": "https://sohaticare.com/products/soskin-glyco-c-soin-correction-rides-eclat-30ml",
-"p": 38.7,
+"p": 25.8,
 "c": 43.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/packshot_31269cb2-867f-4ea4-87e1-847b37454255.png?v=1756392568&width=400",
 "type": "",
 "tags": [
 "10-flat-oct-26",
+"10-increase-ne",
 "adha_26",
 "backtoschool-exclusive",
 "near-expiry-feb27",
 "NOV25DISCOUNTS",
 "NOV25DISCOUNTS_SOSKIN",
-"samenear_expiry26_6_10",
-"URGENTSUN"
+"samenear_expiry26_6_10"
 ],
 "in": true
 },
@@ -17156,20 +17172,20 @@
 {
 "t": "Magnesium B6 - 30 Tablets",
 "u": "https://sohaticare.com/products/magnesium-b6-30-tablets",
-"p": 8.55,
+"p": 7.33,
 "c": 12.21,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/NewProject_15_9deaa840-3858-4f5c-b922-cbc515856dbe.png?v=1709726461&width=400",
 "type": "Sleep Aid Supplements",
 "tags": [
+"10-increase-ne",
 "20%SUMMERBOOST24",
 "20%SUMMERBOOST24_BULK",
 "Abela_PriceUpdate_16AUG24",
 "Abela_PriceUpdate_8AUG24",
 "ADHA23",
 "ADHA23_20%",
-"ALLSUMSPLASH_05.16",
-"BLACK_FRIDAY_SC_EXCLUDED"
+"ALLSUMSPLASH_05.16"
 ],
 "in": true
 },
@@ -17989,20 +18005,20 @@
 {
 "t": "Johnson Baby Bath Baby Bleu 500ML",
 "u": "https://sohaticare.com/products/copy-of-johnson-baby-bath-baby-bleu-500ml-35-off",
-"p": 6.55,
-"c": 9.36,
+"p": 3.32,
+"c": 5.53,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/55_3574669908542_JohnsonsbabyBathBabyBath500ml_01.jpg?v=1682675289&width=400",
 "type": "Shampoo",
 "tags": [
+"10-increase-ne",
 "ALLSUMSPLASH_05.16",
 "Baby Care",
 "Drugstore",
 "HPC2_OFFERS_APR24",
 "HPC2_OFFERS_MAY24",
 "HPC2_PRICECHANGE_23JAN24",
-"HPC2_PriceUpdate_13AUG24",
-"JB Bath Baby bleu 500ML"
+"HPC2_PriceUpdate_13AUG24"
 ],
 "in": true
 },
@@ -23435,20 +23451,20 @@
 {
 "t": "NOVACLEAR RETINOL SET (FACIAL CLEANSER, NIGHT CREAM- MASK, SERUM )",
 "u": "https://sohaticare.com/products/novaclear-retinol-set-facial-cleanser-night-cream-mask-serum",
-"p": 58.61,
+"p": 43.96,
 "c": 73.26,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/51Ia-uXz2CL.jpg?v=1740569900&width=400",
 "type": "Set",
 "tags": [
+"10-increase-ne",
 "8Anniversary",
 "adha_26",
 "backtoschool-exclusive",
 "CLEAR30",
 "exclusivedeals_may26",
 "JUNE25.SUMMER.BUNDLES",
-"near-expiry-feb27",
-"PREADHA25BUNDLES"
+"near-expiry-feb27"
 ],
 "in": true
 },
@@ -27585,7 +27601,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/essence-tinte-para-labios-y-mejillas-en-stick-what-a-tint-10-raspberry-vibes-1-91076.jpg?v=1763978256&width=400",
 "type": "Lip & Cheek Tint",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Hydra Kiss Lip Tint",
@@ -27810,7 +27826,7 @@
 {
 "t": "Hyaluronic Acid Boosting Serum 30ML",
 "u": "https://sohaticare.com/products/hyaluronic-acid-boosting-serum-30ml",
-"p": 86.58,
+"p": 57.72,
 "c": 144.3,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/PCA_HyaluronicAcidBoostingSerum_6.webp?v=1762344117&width=400",
@@ -28558,8 +28574,8 @@
 {
 "t": "NIZORAL CARE TONIC 100ML",
 "u": "https://sohaticare.com/products/nizoral-care-tonic-100ml",
-"p": 8.4,
-"c": 12.0,
+"p": 12.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/C01.png?v=1763108480&width=400",
 "type": "Hair Care",
@@ -32406,7 +32422,7 @@
 "Bundles",
 "cleanance bundles"
 ],
-"in": false
+"in": true
 },
 {
 "t": "AVENE CLEANANCE SOLAIRE SPF 50+ 50ml Get cleanance gel 15ml + comedomed 5ml",
@@ -43181,8 +43197,8 @@
 {
 "t": "Collistar Futura Revit Eye&Lip Cream 15Ml",
 "u": "https://sohaticare.com/products/collistar-futura-revit-eye-lip-cream-15ml",
-"p": 74.0,
-"c": null,
+"p": 62.9,
+"c": 74.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/eye_lip.webp?v=1749107509&width=400",
 "type": "Eye & Lip Care",
@@ -43196,8 +43212,8 @@
 {
 "t": "Collistar Futura Revit Repair Night Cream50Ml",
 "u": "https://sohaticare.com/products/collistar-futura-revit-repair-night-cream50ml",
-"p": 96.0,
-"c": null,
+"p": 81.6,
+"c": 96.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/nightcream.webp?v=1749107391&width=400",
 "type": "Night Cream",
@@ -43211,8 +43227,8 @@
 {
 "t": "Collistar Futura Brightening Day Cream50Ml",
 "u": "https://sohaticare.com/products/collistar-futura-brightening-day-cream50ml",
-"p": 96.0,
-"c": null,
+"p": 81.6,
+"c": 96.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/collistardaycream.webp?v=1749106460&width=400",
 "type": "Day Ceam",
@@ -43225,8 +43241,8 @@
 {
 "t": "Collistar  Protective Oil Coloured Hair 100ml",
 "u": "https://sohaticare.com/products/collistar-protective-oil-coloured-hair-100ml",
-"p": 35.0,
-"c": null,
+"p": 29.75,
+"c": 35.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/tan2.webp?v=1749109739&width=400",
 "type": "Hair Oil",
@@ -43240,8 +43256,8 @@
 {
 "t": "Collistar Magic Drops Self Tanning Spray 150ml",
 "u": "https://sohaticare.com/products/collistar-magic-drops-selftanning-spray-150ml",
-"p": 60.0,
-"c": null,
+"p": 51.0,
+"c": 60.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/tan.webp?v=1749109434&width=400",
 "type": "Tanning Spray",
@@ -43257,8 +43273,8 @@
 {
 "t": "Collistar CryoActive Talasso Toning Scrub 700G",
 "u": "https://sohaticare.com/products/collistar-cryoactive-talasso-toning-scrub700g",
-"p": 69.0,
-"c": null,
+"p": 58.65,
+"c": 69.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/collistar2.webp?v=1749108842&width=400",
 "type": "Scrub",
@@ -43272,8 +43288,8 @@
 {
 "t": "Collistar CrioGel Anticell Beautifying 400ml",
 "u": "https://sohaticare.com/products/collistar-criogel-anticell-beautifying-400ml",
-"p": 82.0,
-"c": null,
+"p": 69.7,
+"c": 82.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/collistar1.webp?v=1749108141&width=400",
 "type": "Body Care",
@@ -43286,8 +43302,8 @@
 {
 "t": "Collistar  Magic Protective Drops SPF50 50ML",
 "u": "https://sohaticare.com/products/collistar-magic-protective-drops-spf50-50ml",
-"p": 63.0,
-"c": null,
+"p": 53.55,
+"c": 63.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/drop.webp?v=1749112099&width=400",
 "type": "",
@@ -43300,8 +43316,8 @@
 {
 "t": "Collistar Sun Body Cream Dark Spots SPF50+100Ml",
 "u": "https://sohaticare.com/products/collistar-sun-bodycream-darkspots-spf50-100ml",
-"p": 52.0,
-"c": null,
+"p": 44.2,
+"c": 52.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/sun2.webp?v=1749111579&width=400",
 "type": "Sunscreen",
@@ -43318,8 +43334,8 @@
 {
 "t": "Collistar Sun FaceFluid DarkSpots SPF50+ 50Ml",
 "u": "https://sohaticare.com/products/collistar-sun-facefluid-darkspots-spf50-50ml",
-"p": 55.0,
-"c": null,
+"p": 46.75,
+"c": 55.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/sun1.webp?v=1749110375&width=400",
 "type": "Sunscreen",
@@ -43335,8 +43351,8 @@
 {
 "t": "Collistar Sun Stick Cream Dark Spots SPF50",
 "u": "https://sohaticare.com/products/collistar-sun-stick-cream-dark-spots-spf50",
-"p": 38.0,
-"c": null,
+"p": 32.3,
+"c": 38.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/sun.webp?v=1749110027&width=400",
 "type": "sun stick",
@@ -44030,7 +44046,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/OPT-3117-1.jpg?v=1748510818&width=400",
 "type": "Tools",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "PLASTIC HAIR BRUSH COMB BROWN SMALL",
@@ -44147,16 +44163,5 @@
 "HAND&FOOT"
 ],
 "in": false
-},
-{
-"t": "VIOLET MESH BATH SPONGE",
-"u": "https://sohaticare.com/products/violet-mesh-bath-sponge",
-"p": 3.33,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/OPT-3069-1.jpg?v=1748511997&width=400",
-"type": "Tools",
-"tags": [],
-"in": true
 }
 ]
