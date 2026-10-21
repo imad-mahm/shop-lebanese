@@ -17039,7 +17039,7 @@
 {
 "t": "Philips, Steam Iron Series 5000, 2600 W power",
 "u": "https://youneselectric.com/products/philips-steam-iron-series-5000-2600-w-power",
-"p": 72.0,
+"p": 89.0,
 "c": 156.25,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0663/6113/1235/files/492ae9a85b194b9f824cad280167aff4.webp?v=1693567401&width=400",
@@ -24928,7 +24928,7 @@
 {
 "t": "Philips, Series 1000 Showerproof Groin and Body Trimmer",
 "u": "https://youneselectric.com/products/philips-series-1000-showerproof-groin-and-body-trimmer",
-"p": 48.0,
+"p": 29.0,
 "c": 44.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0663/6113/1235/files/e02f705a8c1b4e5d87b1ae7b014fbd61.webp?v=1755956872&width=400",
@@ -35616,19 +35616,6 @@
 "in": true
 },
 {
-"t": "Jata, Ironing Board Premier HPLA8100",
-"u": "https://youneselectric.com/products/jata-ironing-board-premier-hpla8100",
-"p": 55.0,
-"c": 60.5,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0663/6113/1235/files/ironing-board-premier.webp?v=1718735258&width=400",
-"type": "Cleaning Tools And Laundry",
-"tags": [
-"Jata"
-],
-"in": true
-},
-{
 "t": "Jata, Oil Free Deep Fryer 5 L",
 "u": "https://youneselectric.com/products/jata-oil-free-deep-fryer-5-l",
 "p": 145.0,
@@ -38799,6 +38786,19 @@
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0663/6113/1235/files/I111884.jpg?v=1710961023&width=400",
+"type": "Large Appliances",
+"tags": [
+"Whirlpool"
+],
+"in": true
+},
+{
+"t": "Whirlpool, Dryer 10 Kg Condenser",
+"u": "https://youneselectric.com/products/whirlpool-dryer-10-kg-condenser",
+"p": 699.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0663/6113/1235/files/I111224.webp?v=1710960769&width=400",
 "type": "Large Appliances",
 "tags": [
 "Whirlpool"

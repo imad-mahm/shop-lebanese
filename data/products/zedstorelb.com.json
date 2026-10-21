@@ -773,7 +773,9 @@
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/26727044.jpg?v=1791387599&width=400",
 "type": "Fragrance",
-"tags": [],
+"tags": [
+"sephoracollection"
+],
 "in": true
 },
 {
@@ -784,7 +786,9 @@
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/26589849.jpg?v=1791387573&width=400",
 "type": "Fragrance",
-"tags": [],
+"tags": [
+"sephoracollection"
+],
 "in": true
 },
 {
@@ -795,7 +799,9 @@
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/Gemini_Generated_Image_t8bfcwt8bfcwt8bf.jpg?v=1791387529&width=400",
 "type": "Gift Set",
-"tags": [],
+"tags": [
+"sephoracollection"
+],
 "in": true
 },
 {
@@ -806,7 +812,9 @@
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/D_NQ_NP_732302-MLM109096399820_042026-O.webp?v=1791386904&width=400",
 "type": "Gift Set",
-"tags": [],
+"tags": [
+"sephoracollection"
+],
 "in": true
 },
 {
@@ -817,7 +825,9 @@
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/Bath-Body-Works-In-The-Stars-Jingle-The-Night-Away-Gift-Box-Set-Fragrance-Mist-Body-Wash-and-Body-Lotion-with-a-Cherry-On-Top-Bar-Soap_612db3ce-4543-4f2a-ad91-7ac2378de5ea.9562b0b5449.avif?v=1791386835&width=400",
 "type": "Gift Set",
-"tags": [],
+"tags": [
+"sephoracollection"
+],
 "in": false
 },
 {
@@ -828,7 +838,9 @@
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/images_07721cd3-ec5e-4cdd-949b-6f61ac56aacf.jpg?v=1791386641&width=400",
 "type": "Gift Set",
-"tags": [],
+"tags": [
+"sephoracollection"
+],
 "in": true
 },
 {
@@ -839,7 +851,9 @@
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/025501908.avif?v=1791386570&width=400",
 "type": "Gift Set",
-"tags": [],
+"tags": [
+"sephoracollection"
+],
 "in": true
 },
 {
@@ -850,7 +864,9 @@
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/images_b9032d5d-77c8-4e09-b1b4-03f7270bffad.jpg?v=1791386438&width=400",
 "type": "Gift Set",
-"tags": [],
+"tags": [
+"sephoracollection"
+],
 "in": true
 },
 {
@@ -861,7 +877,9 @@
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/025506120.avif?v=1791386307&width=400",
 "type": "Bath & Body",
-"tags": [],
+"tags": [
+"sephoracollection"
+],
 "in": true
 },
 {
@@ -872,7 +890,9 @@
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/01-The-Matte-Mousse-Collection_PACKSHOT.webp?v=1791385940&width=400",
 "type": "Makeup",
-"tags": [],
+"tags": [
+"sephoracollection"
+],
 "in": true
 },
 {
@@ -993,7 +1013,9 @@
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/images_f4bb6e47-6b3d-478e-9630-86b27ade38f4.jpg?v=1791317126&width=400",
 "type": "Nail Care",
-"tags": [],
+"tags": [
+"sephoracollection"
+],
 "in": true
 },
 {
@@ -1004,7 +1026,9 @@
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/5c6181cc-2318-4d34-adb8-48a490fee8361683189493323DarkVelvetOudTravelSizeFineFragranceMist1.jpg?v=1791317070&width=400",
 "type": "Fragrance Mist",
-"tags": [],
+"tags": [
+"sephoracollection"
+],
 "in": true
 },
 {
@@ -1015,7 +1039,9 @@
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/1248722-1.jpg?v=1791316989&width=400",
 "type": "Fragrance Mist",
-"tags": [],
+"tags": [
+"sephoracollection"
+],
 "in": true
 },
 {
@@ -1270,7 +1296,9 @@
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/f699c7561a5e34edcc56bf2b57457a16_png.webp?v=1790790414&width=400",
 "type": "Lash & Brow Serum",
-"tags": [],
+"tags": [
+"sephoracollection"
+],
 "in": true
 },
 {
@@ -1281,7 +1309,9 @@
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/images_fcdfa8ab-4a82-4809-aac1-4aae2a3b75c8.jpg?v=1790790371&width=400",
 "type": "Concealer",
-"tags": [],
+"tags": [
+"sephoracollection"
+],
 "in": true
 },
 {
@@ -1292,7 +1322,9 @@
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/5057566071932.webp?v=1790790255&width=400",
 "type": "Setting Powder",
-"tags": [],
+"tags": [
+"sephoracollection"
+],
 "in": true
 },
 {
@@ -1303,7 +1335,9 @@
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/Screenshot2025-05-11at7.25.32PM.webp?v=1790790200&width=400",
 "type": "Fragrance Set",
-"tags": [],
+"tags": [
+"sephoracollection"
+],
 "in": true
 },
 {
@@ -1314,7 +1348,9 @@
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/6212fb2ab0514c9ca6f2e79e7b1c00b1.webp?v=1790790077&width=400",
 "type": "Gift Set",
-"tags": [],
+"tags": [
+"sephoracollection"
+],
 "in": true
 },
 {
@@ -1325,7 +1361,9 @@
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/01-2025-10-25T144320.601.webp?v=1790789910&width=400",
 "type": "Gift Set",
-"tags": [],
+"tags": [
+"sephoracollection"
+],
 "in": true
 },
 {
@@ -1336,7 +1374,9 @@
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/14-20260518.webp?v=1790789538&width=400",
 "type": "Bronzer",
-"tags": [],
+"tags": [
+"sephoracollection"
+],
 "in": true
 },
 {
@@ -1347,7 +1387,9 @@
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/BFBB0893F.webp?v=1790789455&width=400",
 "type": "Eyeshadow Palette",
-"tags": [],
+"tags": [
+"sephoracollection"
+],
 "in": true
 },
 {
@@ -1358,7 +1400,9 @@
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/BFBB0038F_1.jpg?v=1790789299&width=400",
 "type": "Eyeshadow Palette",
-"tags": [],
+"tags": [
+"sephoracollection"
+],
 "in": false
 },
 {
@@ -1369,7 +1413,9 @@
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/BFBB0507F_1.jpg?v=1790789210&width=400",
 "type": "Eyeshadow Palette",
-"tags": [],
+"tags": [
+"sephoracollection"
+],
 "in": false
 },
 {
@@ -1380,7 +1426,9 @@
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/images_d40a5232-6e9e-4a1c-9eaf-8c260e97eabe.jpg?v=1790789110&width=400",
 "type": "Eyeshadow Palette",
-"tags": [],
+"tags": [
+"sephoracollection"
+],
 "in": false
 },
 {
@@ -1391,7 +1439,9 @@
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/STRAWBERRY_BODY_BUTTER_200ml_1_INECMPS033_924ccf4d-3fc7-4a15-8561-1afeb701afeb.webp?v=1790789401&width=400",
 "type": "Body Butter",
-"tags": [],
+"tags": [
+"sephoracollection"
+],
 "in": true
 },
 {
@@ -1402,7 +1452,9 @@
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/81bl0sp032L._AC_UF894_1000_QL80.jpg?v=1790788775&width=400",
 "type": "Body Butter",
-"tags": [],
+"tags": [
+"sephoracollection"
+],
 "in": true
 },
 {
@@ -1413,7 +1465,9 @@
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/images_7cdc8028-5c0e-40b2-9ed9-4b6c0ba2d09c.jpg?v=1790788725&width=400",
 "type": "Body Butter",
-"tags": [],
+"tags": [
+"sephoracollection"
+],
 "in": true
 },
 {
@@ -1424,7 +1478,9 @@
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/61Z-EPvnKsL._AC_UF894_1000_QL80.jpg?v=1790788683&width=400",
 "type": "Body Butter",
-"tags": [],
+"tags": [
+"sephoracollection"
+],
 "in": true
 },
 {
@@ -1435,7 +1491,9 @@
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/1047567_WHITE_TEA_AND_ELDERFLOWER_BODY_BUTTER_200ML_FOP_42_INAKFPS020_7af41073-036d-4f4a-9ffc-34ea7dd00db5.webp?v=1790789357&width=400",
 "type": "Body Butter",
-"tags": [],
+"tags": [
+"sephoracollection"
+],
 "in": true
 },
 {
@@ -1446,7 +1504,9 @@
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/81kcU66FamL._AC_UF894_1000_QL80.jpg?v=1790788607&width=400",
 "type": "Body Butter",
-"tags": [],
+"tags": [
+"sephoracollection"
+],
 "in": true
 },
 {
@@ -1457,7 +1517,9 @@
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/images_eef659a2-d7e9-41b0-83a1-cd63ebd3d134.jpg?v=1790788566&width=400",
 "type": "Gift Set",
-"tags": [],
+"tags": [
+"sephoracollection"
+],
 "in": true
 },
 {
@@ -1468,7 +1530,9 @@
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/01a0e340-0d50-774a-af71-7bc332f4ff46_2880.avif?v=1790788522&width=400",
 "type": "Gift Set",
-"tags": [],
+"tags": [
+"sephoracollection"
+],
 "in": true
 },
 {
@@ -1479,7 +1543,9 @@
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/images_529ab9a5-22d3-4539-81a2-b53bcb724308.jpg?v=1790788273&width=400",
 "type": "Gift Set",
-"tags": [],
+"tags": [
+"sephoracollection"
+],
 "in": true
 },
 {
@@ -1494,6 +1560,7 @@
 "Gift Set",
 "Hand Cream",
 "Hands",
+"sephoracollection",
 "The Body Shop",
 "Vegan"
 ],
@@ -1511,6 +1578,7 @@
 "Almond Milk",
 "Body",
 "Gift Set",
+"sephoracollection",
 "The Body Shop",
 "Vegan"
 ],
@@ -1529,6 +1597,7 @@
 "IBRAQ",
 "Musk",
 "Perfume",
+"sephoracollection",
 "Unisex"
 ],
 "in": true
@@ -1545,6 +1614,7 @@
 "Almond Milk",
 "Body",
 "Gift Set",
+"sephoracollection",
 "The Body Shop",
 "Vegan"
 ],
@@ -1562,6 +1632,7 @@
 "Body",
 "Gift Set",
 "Pink Grapefruit",
+"sephoracollection",
 "The Body Shop",
 "Vegan"
 ],
@@ -1578,6 +1649,7 @@
 "tags": [
 "Body",
 "Gift Set",
+"sephoracollection",
 "Strawberry",
 "The Body Shop",
 "Vegan"
@@ -1592,7 +1664,9 @@
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/1049266_G1INTROALMONDMILKXM26A0X_HERO_FAFAFA_INAKUPS033_1.webp?v=1790787918&width=400",
 "type": "Gift Set",
-"tags": [],
+"tags": [
+"sephoracollection"
+],
 "in": true
 },
 {
@@ -1607,6 +1681,7 @@
 "Body",
 "Body Butter",
 "Gift Set",
+"sephoracollection",
 "The Body Shop",
 "Vegan"
 ],
@@ -1624,6 +1699,7 @@
 "Gift Set",
 "Limited Edition",
 "Sephora Favorites",
+"sephoracollection",
 "SPF",
 "Sun Care",
 "Value Set"
@@ -1643,7 +1719,8 @@
 "Holiday",
 "Limited Edition",
 "Makeup Set",
-"SEPHORA COLLECTION"
+"SEPHORA COLLECTION",
+"sephoracollection"
 ],
 "in": true
 },
@@ -1660,6 +1737,7 @@
 "Holiday",
 "Limited Edition",
 "Sephora Favorites",
+"sephoracollection",
 "Value Set"
 ],
 "in": true
@@ -1925,6 +2003,7 @@
 "Eyeliner",
 "Eyes",
 "Maybelline",
+"sephoracollection",
 "Waterproof"
 ],
 "in": true
@@ -1942,6 +2021,7 @@
 "IBRAQ",
 "Musk",
 "Perfume",
+"sephoracollection",
 "Unisex"
 ],
 "in": false
@@ -1959,6 +2039,7 @@
 "IBRAQ",
 "Musk",
 "Perfume",
+"sephoracollection",
 "Unisex"
 ],
 "in": true
@@ -1976,6 +2057,7 @@
 "IBRAQ",
 "Musk",
 "Perfume",
+"sephoracollection",
 "Unisex"
 ],
 "in": true
@@ -1992,6 +2074,7 @@
 "Body",
 "Cocoa Butter",
 "Palmer's",
+"sephoracollection",
 "Stretch Marks"
 ],
 "in": true
@@ -2009,7 +2092,8 @@
 "Face",
 "Mask",
 "Medicube",
-"Niacinamide"
+"Niacinamide",
+"sephoracollection"
 ],
 "in": true
 },
@@ -2024,7 +2108,8 @@
 "tags": [
 "Eyebrows",
 "Eyes",
-"KIKO Milano"
+"KIKO Milano",
+"sephoracollection"
 ],
 "in": true
 },
@@ -2041,6 +2126,7 @@
 "Face",
 "Medicube",
 "Retinol",
+"sephoracollection",
 "Serum"
 ],
 "in": true
@@ -2056,7 +2142,8 @@
 "tags": [
 "Eyes",
 "Eyeshadow Palette",
-"Huda Beauty"
+"Huda Beauty",
+"sephoracollection"
 ],
 "in": true
 },
@@ -2071,7 +2158,8 @@
 "tags": [
 "Eyes",
 "Eyeshadow Palette",
-"Huda Beauty"
+"Huda Beauty",
+"sephoracollection"
 ],
 "in": true
 },
@@ -2086,7 +2174,8 @@
 "tags": [
 "Eyes",
 "Eyeshadow Palette",
-"Huda Beauty"
+"Huda Beauty",
+"sephoracollection"
 ],
 "in": true
 },
@@ -2101,7 +2190,8 @@
 "tags": [
 "Eyes",
 "Eyeshadow Palette",
-"Huda Beauty"
+"Huda Beauty",
+"sephoracollection"
 ],
 "in": true
 },
@@ -2117,7 +2207,8 @@
 "Blush",
 "Charlotte Tilbury",
 "Face",
-"Highlighter"
+"Highlighter",
+"sephoracollection"
 ],
 "in": true
 },
@@ -2133,7 +2224,8 @@
 "Charlotte Tilbury",
 "Eyes",
 "Eyeshadow Palette",
-"Limited Edition"
+"Limited Edition",
+"sephoracollection"
 ],
 "in": true
 },
@@ -2148,7 +2240,8 @@
 "tags": [
 "Eyes",
 "Eyeshadow Palette",
-"Huda Beauty"
+"Huda Beauty",
+"sephoracollection"
 ],
 "in": true
 },
@@ -2275,6 +2368,7 @@
 "Face",
 "Garnier",
 "Niacinamide",
+"sephoracollection",
 "Serum",
 "Vitamin C"
 ],
@@ -2293,6 +2387,7 @@
 "Face",
 "Garnier",
 "Hyaluronic Acid",
+"sephoracollection",
 "SPF"
 ],
 "in": true
@@ -2309,6 +2404,7 @@
 "Dark Spots",
 "Face",
 "Garnier",
+"sephoracollection",
 "SPF",
 "Tinted",
 "Vitamin C"
@@ -2329,6 +2425,7 @@
 "Face",
 "Garnier",
 "Niacinamide",
+"sephoracollection",
 "Serum"
 ],
 "in": true
@@ -2346,6 +2443,7 @@
 "Garnier",
 "Hydrating",
 "Mist",
+"sephoracollection",
 "Vegan"
 ],
 "in": true
@@ -2364,6 +2462,7 @@
 "Gift Set",
 "L'Oréal Paris",
 "Niacinamide",
+"sephoracollection",
 "SPF"
 ],
 "in": true
@@ -2381,6 +2480,7 @@
 "Gift Set",
 "Hyaluronic Acid",
 "L'Oréal Paris",
+"sephoracollection",
 "Serum"
 ],
 "in": true
@@ -2398,7 +2498,8 @@
 "Exfoliant",
 "Face",
 "Glycolic Acid",
-"L'Oréal Paris"
+"L'Oréal Paris",
+"sephoracollection"
 ],
 "in": true
 },
@@ -2415,6 +2516,7 @@
 "Face",
 "Hyaluronic Acid",
 "L'Oréal Paris",
+"sephoracollection",
 "Serum",
 "Travel Size"
 ],
@@ -2433,6 +2535,7 @@
 "Face",
 "Hyaluronic Acid",
 "L'Oréal Paris",
+"sephoracollection",
 "Serum"
 ],
 "in": true
@@ -2450,6 +2553,7 @@
 "Face",
 "L'Oréal Paris",
 "Niacinamide",
+"sephoracollection",
 "Serum"
 ],
 "in": true
@@ -2468,6 +2572,7 @@
 "L'Oréal Paris",
 "Moisturizer",
 "Niacinamide",
+"sephoracollection",
 "SPF"
 ],
 "in": true
@@ -2485,7 +2590,8 @@
 "Collagen",
 "Face",
 "L'Oréal Paris",
-"Moisturizer"
+"Moisturizer",
+"sephoracollection"
 ],
 "in": true
 },
@@ -2568,6 +2674,7 @@
 "Face",
 "L'Oréal Paris",
 "Moisturizer",
+"sephoracollection",
 "SPF"
 ],
 "in": true
@@ -2587,7 +2694,8 @@
 "L'Oréal Paris",
 "Mature Skin",
 "Moisturizer",
-"Night Cream"
+"Night Cream",
+"sephoracollection"
 ],
 "in": true
 },
@@ -2605,7 +2713,8 @@
 "Face",
 "L'Oréal Paris",
 "Mature Skin",
-"Moisturizer"
+"Moisturizer",
+"sephoracollection"
 ],
 "in": false
 },
@@ -2622,7 +2731,8 @@
 "Collagen",
 "Eye Care",
 "L'Oréal Paris",
-"Mature Skin"
+"Mature Skin",
+"sephoracollection"
 ],
 "in": true
 },
@@ -2639,7 +2749,8 @@
 "Face",
 "Hyaluronic Acid",
 "L'Oréal Paris",
-"Moisturizer"
+"Moisturizer",
+"sephoracollection"
 ],
 "in": true
 },
@@ -2657,7 +2768,8 @@
 "L'Oréal Paris",
 "Mature Skin",
 "Moisturizer",
-"Night Cream"
+"Night Cream",
+"sephoracollection"
 ],
 "in": true
 },
@@ -2674,6 +2786,7 @@
 "Face",
 "L'Oréal Paris",
 "Mature Skin",
+"sephoracollection",
 "Serum"
 ],
 "in": true
@@ -2691,7 +2804,8 @@
 "Face",
 "L'Oréal Paris",
 "Mature Skin",
-"Moisturizer"
+"Moisturizer",
+"sephoracollection"
 ],
 "in": true
 },
@@ -2708,6 +2822,7 @@
 "Face",
 "L'Oréal Paris",
 "Peptides",
+"sephoracollection",
 "Serum",
 "Vitamin C"
 ],
@@ -2725,6 +2840,7 @@
 "Face",
 "L'Oréal Paris",
 "Moisturizer",
+"sephoracollection",
 "SPF",
 "Vitamin C"
 ],
@@ -3216,7 +3332,8 @@
 "tags": [
 "face",
 "foundation",
-"kiko milano"
+"kiko milano",
+"sephoracollection"
 ],
 "in": true
 },
@@ -3231,7 +3348,8 @@
 "tags": [
 "face",
 "highlighter",
-"kiko milano"
+"kiko milano",
+"sephoracollection"
 ],
 "in": true
 },
@@ -3246,7 +3364,8 @@
 "tags": [
 "face",
 "highlighter",
-"kiko milano"
+"kiko milano",
+"sephoracollection"
 ],
 "in": true
 },
@@ -3261,7 +3380,8 @@
 "tags": [
 "bb cream",
 "face",
-"kiko milano"
+"kiko milano",
+"sephoracollection"
 ],
 "in": true
 },
@@ -3276,7 +3396,8 @@
 "tags": [
 "kiko milano",
 "lip oil",
-"lips"
+"lips",
+"sephoracollection"
 ],
 "in": true
 },
@@ -3292,7 +3413,8 @@
 "kiko milano",
 "limited edition",
 "lips",
-"lipstick"
+"lipstick",
+"sephoracollection"
 ],
 "in": true
 },
@@ -3307,7 +3429,8 @@
 "tags": [
 "kiko milano",
 "lips",
-"lipstick"
+"lipstick",
+"sephoracollection"
 ],
 "in": true
 },
@@ -3322,6 +3445,7 @@
 "tags": [
 "face powder",
 "kiko milano",
+"sephoracollection",
 "setting powder"
 ],
 "in": true
@@ -3337,7 +3461,8 @@
 "tags": [
 "blush",
 "bronzer",
-"kiko milano"
+"kiko milano",
+"sephoracollection"
 ],
 "in": true
 },
@@ -3352,7 +3477,8 @@
 "tags": [
 "kiko milano",
 "lip cream",
-"lips"
+"lips",
+"sephoracollection"
 ],
 "in": true
 },
@@ -3367,7 +3493,8 @@
 "tags": [
 "eyes",
 "kiko milano",
-"mascara"
+"mascara",
+"sephoracollection"
 ],
 "in": true
 },
@@ -3382,7 +3509,8 @@
 "tags": [
 "eyeliner",
 "eyes",
-"kiko milano"
+"kiko milano",
+"sephoracollection"
 ],
 "in": true
 },
@@ -3397,7 +3525,8 @@
 "tags": [
 "face",
 "highlighter",
-"kiko milano"
+"kiko milano",
+"sephoracollection"
 ],
 "in": true
 },
@@ -3412,7 +3541,8 @@
 "tags": [
 "kiko milano",
 "lip gloss",
-"lips"
+"lips",
+"sephoracollection"
 ],
 "in": false
 },
@@ -3427,7 +3557,8 @@
 "tags": [
 "face",
 "highlighter",
-"kiko milano"
+"kiko milano",
+"sephoracollection"
 ],
 "in": true
 },
@@ -3442,6 +3573,7 @@
 "tags": [
 "fixer",
 "kiko milano",
+"sephoracollection",
 "setting spray"
 ],
 "in": true
@@ -3457,6 +3589,7 @@
 "tags": [
 "kiko milano",
 "primer",
+"sephoracollection",
 "setting spray"
 ],
 "in": true
@@ -3472,7 +3605,8 @@
 "tags": [
 "blush",
 "cheeks",
-"dior"
+"dior",
+"sephoracollection"
 ],
 "in": true
 },
@@ -3487,7 +3621,8 @@
 "tags": [
 "blush",
 "cheeks",
-"dior"
+"dior",
+"sephoracollection"
 ],
 "in": true
 },
@@ -3502,7 +3637,8 @@
 "tags": [
 "blush",
 "cheeks",
-"dior"
+"dior",
+"sephoracollection"
 ],
 "in": true
 },
@@ -3517,7 +3653,8 @@
 "tags": [
 "dior",
 "eyes",
-"eyeshadow"
+"eyeshadow",
+"sephoracollection"
 ],
 "in": true
 },
@@ -3532,7 +3669,8 @@
 "tags": [
 "dior",
 "eyes",
-"eyeshadow"
+"eyeshadow",
+"sephoracollection"
 ],
 "in": true
 },
@@ -3547,7 +3685,8 @@
 "tags": [
 "blush",
 "dior",
-"highlighter"
+"highlighter",
+"sephoracollection"
 ],
 "in": true
 },
@@ -3562,7 +3701,8 @@
 "tags": [
 "blush",
 "dior",
-"highlighter"
+"highlighter",
+"sephoracollection"
 ],
 "in": true
 },
@@ -3577,7 +3717,8 @@
 "tags": [
 "blush",
 "dior",
-"highlighter"
+"highlighter",
+"sephoracollection"
 ],
 "in": true
 },
@@ -3592,7 +3733,8 @@
 "tags": [
 "eyes",
 "kiko milano",
-"mascara"
+"mascara",
+"sephoracollection"
 ],
 "in": false
 },
@@ -3607,6 +3749,7 @@
 "tags": [
 "body oil",
 "kiko milano",
+"sephoracollection",
 "shimmer"
 ],
 "in": true
@@ -3622,6 +3765,7 @@
 "tags": [
 "brushes",
 "kiko milano",
+"sephoracollection",
 "travel"
 ],
 "in": true
@@ -3637,7 +3781,8 @@
 "tags": [
 "contour",
 "face",
-"makeup revolution"
+"makeup revolution",
+"sephoracollection"
 ],
 "in": true
 },
@@ -3649,7 +3794,9 @@
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/images_11a8989c-d692-4b31-a547-ac905a032953.jpg?v=1788621337&width=400",
 "type": "Eyeshadow",
-"tags": [],
+"tags": [
+"sephoracollection"
+],
 "in": true
 },
 {
@@ -3663,7 +3810,8 @@
 "tags": [
 "eyeshadow",
 "makeup revolution",
-"palette"
+"palette",
+"sephoracollection"
 ],
 "in": true
 },
@@ -3675,7 +3823,9 @@
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/images_00193069-df32-42f8-a9d3-8cb9db68cd02.jpg?v=1788621044&width=400",
 "type": "Eyeshadow",
-"tags": [],
+"tags": [
+"sephoracollection"
+],
 "in": true
 },
 {
@@ -3686,7 +3836,9 @@
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/s2911774-main-zoom.webp?v=1788620951&width=400",
 "type": "Gift Set",
-"tags": [],
+"tags": [
+"sephoracollection"
+],
 "in": false
 },
 {
@@ -3697,7 +3849,9 @@
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/e9f0549e-6eb6-4975-acb6-563c6049702b-1000x1000-IqAVyMykAPLfTZaKHH2bWmTnlbw4OKkPKSx04CNe.jpg?v=1788620154&width=400",
 "type": "Blush",
-"tags": [],
+"tags": [
+"sephoracollection"
+],
 "in": true
 },
 {
@@ -3708,7 +3862,9 @@
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/images_8616b184-6f2f-400c-8829-5b5331a2207c.jpg?v=1788620102&width=400",
 "type": "Blush",
-"tags": [],
+"tags": [
+"sephoracollection"
+],
 "in": true
 },
 {
@@ -3719,7 +3875,9 @@
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/A313_dc8b1ef2-a73d-4a58-839f-32ea8a254d80.webp?v=1788616823&width=400",
 "type": "Face Cream",
-"tags": [],
+"tags": [
+"sephoracollection"
+],
 "in": true
 },
 {
@@ -3730,7 +3888,9 @@
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/01.webp?v=1788616637&width=400",
 "type": "Moisturizer",
-"tags": [],
+"tags": [
+"sephoracollection"
+],
 "in": true
 },
 {
@@ -3763,7 +3923,9 @@
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/saat5x333c0.webp?v=1788372256&width=400",
 "type": "Gift Set",
-"tags": [],
+"tags": [
+"sephoracollection"
+],
 "in": false
 },
 {
@@ -3774,7 +3936,9 @@
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/000055_TM767300_01.jpg?v=1788372188&width=400",
 "type": "Gift Set",
-"tags": [],
+"tags": [
+"sephoracollection"
+],
 "in": false
 },
 {
@@ -3785,7 +3949,9 @@
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/1763128305Mini-Blur-_-Set-Duo3.jpg?v=1788372108&width=400",
 "type": "Gift Set",
-"tags": [],
+"tags": [
+"sephoracollection"
+],
 "in": true
 },
 {
@@ -3929,7 +4095,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/images_7a3dbae3-0f2f-47e1-af25-2273fee3b540.jpg?v=1788285907&width=400",
 "type": "Lip Gloss",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "essence Say It With Juicy Hello Cutie! Juicy Bomb Shiny Lipgloss - 02 Witty Watermelon",
@@ -3940,7 +4106,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/208519-119935-1777894573.avif?v=1788285839&width=400",
 "type": "Lip Gloss",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "essence Say It With Juicy Cheers Juicy Bomb Jumbo Lipgloss - 02 Cake My Day!",
@@ -4276,7 +4442,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/01_e3b03084-0a5c-47db-bb1a-fcf1bd3ee8fd.webp?v=1787004908&width=400",
 "type": "Eye Care",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Dr. Melaxin Eyephalt EP Retinol Eyebag Cream",
@@ -4536,6 +4702,7 @@
 "epii",
 "New Releases",
 "New Skin Toner",
+"sephoracollection",
 "Skincare",
 "Toner"
 ],
@@ -5821,7 +5988,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/rn-image_picker_lib_temp_d7878444-ae08-48b2-ae6f-23ab8d8de71a.jpg?v=1786026654&width=400",
 "type": "Nails",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Lisa French Nails Tips",
@@ -9499,7 +9666,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/01_3880b8b4-e315-4d0a-8016-20e8b366b4b4.webp?v=1780389433&width=400",
 "type": "Lip Balm",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Bioten Glow Expert 4D Anti-Dark Circles & Antiwrinkle Eye Pearl Serum 15ml",
@@ -9963,7 +10130,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/rn-image_picker_lib_temp_dd11b95c-604d-4db4-be23-51a4ac3e735e.webp?v=1779867599&width=400",
 "type": "Mascara",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Samoa ColorRush Electric Blue Mascara",
@@ -10231,7 +10398,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/arencia-vitamin-c-booster-shot-30ml-1-min.jpg?v=1779298118&width=400",
 "type": "Face cream",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Maybelline Cloudtopia Blush For Cheeks And Lip Mousse Pigmented Formula for Up to 14hrs",
@@ -16502,17 +16669,6 @@
 "in": true
 },
 {
-"t": "Samoa Cozy Nails -12%",
-"u": "https://zedstorelb.com/products/samoa-cozy-nails-13",
-"p": 13.57,
-"c": 13.4,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/0524AC16-EEF2-426A-A32B-52F6F8284B3F_900x_c9a3f500-5597-4579-9512-d7bf9f7c292c.webp?v=1765017749&width=400",
-"type": "Bundle",
-"tags": [],
-"in": false
-},
-{
 "t": "Samoa Cozy Eyes -12%",
 "u": "https://zedstorelb.com/products/samoa-cozy-eyes-12",
 "p": 13.56,
@@ -16524,30 +16680,6 @@
 "teahersday2026"
 ],
 "in": true
-},
-{
-"t": "Samoa Cozy Lips -12%",
-"u": "https://zedstorelb.com/products/samoa-cozy-lips-12",
-"p": 17.71,
-"c": 17.5,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/9EA8C295-968A-43CB-A1D5-C8AA18833EF2_900x_e0cdda88-608f-4228-b219-726df191a977.webp?v=1765017520&width=400",
-"type": "Bundle",
-"tags": [
-"teahersday2026"
-],
-"in": false
-},
-{
-"t": "Samoa Cozy Nails -12%",
-"u": "https://zedstorelb.com/products/samoa-cozy-nails-12",
-"p": 13.57,
-"c": 13.4,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/0524AC16-EEF2-426A-A32B-52F6F8284B3F_900x_83df45a4-cc3b-4d2a-8cba-de17e3d7e97c.webp?v=1765017333&width=400",
-"type": "Bundle",
-"tags": [],
-"in": false
 },
 {
 "t": "Rimmel Multi Tasker Turbocharged Glow Liquid Blush & Highlighter",
@@ -16638,19 +16770,6 @@
 "in": true
 },
 {
-"t": "Samoa ColorRush Burgundy Bundle -15%",
-"u": "https://zedstorelb.com/products/colorrush-burgundy-bundle-15",
-"p": 19.55,
-"c": 20.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/E3B2CB26-FCC0-4983-B738-4592125B8437_900x_243838ab-fed3-4981-9e49-b3ce61762538.webp?v=1765014089&width=400",
-"type": "Bundle",
-"tags": [
-"Bundlecollection"
-],
-"in": false
-},
-{
 "t": "-10% OFF CeraVe AM facial moisturising lotion for normal to dry skin SPF30 52ml + eye repair cream 14ml",
 "u": "https://zedstorelb.com/products/10-off-cerave-am-facial-moisturising-lotion-for-normal-to-dry-skin-spf30-52ml-eye-repair-cream-14ml",
 "p": 27.26,
@@ -16664,7 +16783,7 @@
 "dryskincollection",
 "teahersday2026"
 ],
-"in": true
+"in": false
 },
 {
 "t": "-10% OFF CeraVe Blemish Control Cleanser Face Wash 236ml + Gel Facial Moisturiser For Acne & Blemishes with Glycolic Acid and Lactic Acid AHA/BHA 40ml",
@@ -16695,7 +16814,7 @@
 "delete",
 "teahersday2026"
 ],
-"in": true
+"in": false
 },
 {
 "t": "-10% OFF CeraVe hydrating cleanser 236ml + moisturising lotion 236ml + eye repair cream 14ml",
@@ -18499,7 +18618,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/d766e553-fab2-441d-9cfb-fcaa7a6c042f-1000x1000-L9lI7QXjfQ4tQHOktjQnMXtBmVqR3ZXwDtfjymUD.webp?v=1761744388&width=400",
 "type": "Serum",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Inglot AMC Eyeliner Gel Matte Finish Waterproof Long Lasting 5.5g",
@@ -19150,20 +19269,6 @@
 "type": "Foundation",
 "tags": [],
 "in": true
-},
-{
-"t": "Samoa SkinShield Creamy Foundation SPF30 Bundle",
-"u": "https://zedstorelb.com/products/samoa-skinshield-creamy-foundation-spf30-bundle",
-"p": 28.35,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/SkinSHield_Bundle_2048x_1d2ae998-f962-48f7-9d1e-7a55b8185a4e.webp?v=1761218708&width=400",
-"type": "kit",
-"tags": [
-"Bundlecollection",
-"teahersday2026"
-],
-"in": false
 },
 {
 "t": "Reebok Inspire Your Mind Gift Set",
@@ -22348,7 +22453,7 @@
 "tags": [
 "1212/2025"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Garnier Skin Active  Fast Clear Invisible Pimple Patch 8 Hours Hydrocolloid 22patches",
@@ -22876,7 +22981,7 @@
 "tags": [
 "koreancollection"
 ],
-"in": false
+"in": true
 },
 {
 "t": "BEAUTY OF JOSEON Matte Sun Stick: Mugwort + Camelia (SPF 50+ PA++++)",
@@ -23506,7 +23611,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/4059729490452_3_500x500_crop_center_1e17ef6f-26f4-49fd-aa2a-a887278941cb.webp?v=1754573736&width=400",
 "type": "Setting Spray",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Essence fix & LAST 18h LONG-LASTING MAKE-UP FIXING Setting SPRAY",
@@ -26227,7 +26332,7 @@
 "Sensitiveskincollection",
 "sephoracollection"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Dr. Althea 147 Barrier Cream 50ml",
@@ -27477,7 +27582,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/8623cfd206c948c78407042a9c87d1f0-Optimal.jpg?v=1745524385&width=400",
 "type": "Deodorant",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "La Roche Posay Anthelios Invisible Spray SPF50 200ml",
@@ -29940,7 +30045,7 @@
 "oilyskincollection",
 "tancollection"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Lattafa Hayaati Gold Elixir Perfume 100ml",
@@ -30993,7 +31098,7 @@
 "oilyskincollection",
 "sephoracollection"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Benefit Goof Proof Brow Pencil - Cool Grey",
@@ -33323,19 +33428,6 @@
 "Samoa BamLash Mascara"
 ],
 "in": true
-},
-{
-"t": "-10% Samoa Plum Brulee Gift Pack",
-"u": "https://zedstorelb.com/products/10-samoa-plum-brulee-gift-pack",
-"p": 9.0,
-"c": 10.1,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/510.13_234_236_Samoa_Christmas_Bundles_720x_d96a3673-6358-41a8-9368-0ee7682e2615.webp?v=1734014173&width=400",
-"type": "Bundle",
-"tags": [
-"xmasgift"
-],
-"in": false
 },
 {
 "t": "Dali Eyeshadow Palette",
@@ -37948,6 +38040,98 @@
 "L'Oréal Paris",
 "lorealfinal",
 "oilyskincollection"
+],
+"in": true
+},
+{
+"t": "L'Oreal Paris Elvive Hyaluron Pure 72h Rehydrating Conditioner for Oily Scalp & Dehydrated Lengths",
+"u": "https://zedstorelb.com/products/l-oreal-paris-elvive-hyaluron-pure-72h-rehydrating-conditioner-for-oily-scalp-dehydrated-lengths",
+"p": 3.38,
+"c": 3.76,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/1_2.jpg?v=1726570548&width=400",
+"type": "Conditioner",
+"tags": [
+"1212/2025",
+"HAPUREl'oreal",
+"lorealfinal",
+"L’Oréal Paris Elvive Hyaluron Pure 72h Rehydrating Conditioner for Oily Scalp & Dehydrated Lengths",
+"oilyskincollection"
+],
+"in": true
+},
+{
+"t": "L'Oreal Paris Elvive Hyaluron Pure Purifying Shampoo for Oily Roots And Dehydrated Length",
+"u": "https://zedstorelb.com/products/l-oreal-paris-elvive-hyaluron-pure-purifying-shampoo-for-oily-roots-and-dehydrated-length-600-ml",
+"p": 3.83,
+"c": 4.25,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/1_1.jpg?v=1726569856&width=400",
+"type": "Shampoo",
+"tags": [
+"1212/2025",
+"dryskincollection",
+"HAPUREl'oreal",
+"lorealfinal",
+"Lâ€™OrÃ©al Paris Elvive Hyaluron Pure Purifying Shampoo for Oily Roots And Dehydrated Length 600 ML",
+"oilyskincollection"
+],
+"in": true
+},
+{
+"t": "Glow Recipe Blueberry Bounce Gentle Cleanser",
+"u": "https://zedstorelb.com/products/glow-recipe-blueberry-bounce-gentle-cleanser",
+"p": 37.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/13317618-3314913520809793.webp?v=1726421005&width=400",
+"type": "cleanser",
+"tags": [
+"clearancecollection",
+"Glow Recipe Blueberry Bounce Gentle Cleanser",
+"sephoracollection"
+],
+"in": false
+},
+{
+"t": "Glow Recipe Plum Plump Hyaluronic Serum",
+"u": "https://zedstorelb.com/products/glow-recipe-plum-plump-hyaluronic-serum",
+"p": 52.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/Untitleddesign_47.jpg?v=1726420110&width=400",
+"type": "Serum",
+"tags": [
+"Glow Recipe Plum Plump Hyaluronic Serum",
+"sephoracollection"
+],
+"in": false
+},
+{
+"t": "Glow Recipe Watermelon Glow Niacinamide SPF 50 Sunscreen 50ml",
+"u": "https://zedstorelb.com/products/glow-recipe-watermelon-glow-niacinamide-spf-50-sunscreen-50ml",
+"p": 39.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/13695642-1934945707574161.webp?v=1726419269&width=400",
+"type": "Sunscreen",
+"tags": [
+"clearancecollection",
+"Glow Recipe Watermelon Glow Niacinamide SPF 50 Sunscreen 50ml",
+"sephoracollection"
+],
+"in": false
+},
+{
+"t": "Provoc ILLICIT waterproof Lip Liner Filler",
+"u": "https://zedstorelb.com/products/provoc-illicit-waterproof-lip-liner-filler",
+"p": 5.85,
+"c": 6.5,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/Studio-Project-2024-09-14T144840.333.jpg?v=1726314562&width=400",
+"type": "Lip Liner",
+"tags": [
+"Provoc ILLICIT waterproof Lip Liner Filler"
 ],
 "in": true
 }

@@ -1,5 +1,93 @@
 [
 {
+"t": "Heatless Curling Rod",
+"u": "https://curlygirlaccessories.com/product/heatless-curling-rod/",
+"p": 7.0,
+"c": null,
+"cur": "USD",
+"img": "https://curlygirlaccessories.com/wp-content/uploads/2026/10/heatless-curling-rod-main-300x300.jpg",
+"type": "Heatless Curlers",
+"tags": [],
+"in": true
+},
+{
+"t": "Skala Strawberry Conditioner 325ml",
+"u": "https://curlygirlaccessories.com/product/skala-strawberry-conditioner-325ml/",
+"p": 12.75,
+"c": null,
+"cur": "USD",
+"img": "https://curlygirlaccessories.com/wp-content/uploads/2026/03/skala-strawberry-conditioner_1024x1024-300x300.webp",
+"type": "Conditioner",
+"tags": [],
+"in": false
+},
+{
+"t": "Skala Expert Mais Crespinhos Conditioner 325ml",
+"u": "https://curlygirlaccessories.com/product/skala-expert-mais-crespinhos-conditioner-325ml/",
+"p": 12.75,
+"c": null,
+"cur": "USD",
+"img": "https://curlygirlaccessories.com/wp-content/uploads/2026/10/IMG_0975-300x300.jpeg",
+"type": "Conditioner",
+"tags": [],
+"in": true
+},
+{
+"t": "Skala Expert Mais Crespinhos Shampoo 325ml",
+"u": "https://curlygirlaccessories.com/product/skala-expert-mais-crespinhos-shampoo-325ml/",
+"p": 12.75,
+"c": null,
+"cur": "USD",
+"img": "https://curlygirlaccessories.com/wp-content/uploads/2026/10/shampooing-mais-crespinhos-kids-skala-brasil-325-ml-300x300.jpg",
+"type": "Shampoo",
+"tags": [],
+"in": false
+},
+{
+"t": "Skala Expert Amido de Milho Conditioner 325ml",
+"u": "https://curlygirlaccessories.com/product/skala-expert-amido-de-milho-conditioner-325ml/",
+"p": 12.75,
+"c": null,
+"cur": "USD",
+"img": "https://curlygirlaccessories.com/wp-content/uploads/2026/10/amido-de-milho-condicionador-325-ml-300x300.jpg",
+"type": "Conditioner",
+"tags": [],
+"in": false
+},
+{
+"t": "Skala Expert Amido de Milho Shampoo 325ml",
+"u": "https://curlygirlaccessories.com/product/skala-expert-amido-de-milho-shampoo-325ml/",
+"p": 12.75,
+"c": null,
+"cur": "USD",
+"img": "https://curlygirlaccessories.com/wp-content/uploads/2026/10/skala-amido-de-milho-shampoo-325ml-300x300.jpg",
+"type": "Shampoo",
+"tags": [],
+"in": false
+},
+{
+"t": "Skala Expert Passion Fruit and Patauá Oil Conditioner 325ml",
+"u": "https://curlygirlaccessories.com/product/skala-expert-passion-fruit-and-pataua-oil-conditioner-325ml/",
+"p": 12.75,
+"c": null,
+"cur": "USD",
+"img": "https://curlygirlaccessories.com/wp-content/uploads/2026/10/images-300x300.jpg",
+"type": "Conditioner",
+"tags": [],
+"in": false
+},
+{
+"t": "Skala Expert Passion Fruit and Patauá Oil Shampoo 325ml",
+"u": "https://curlygirlaccessories.com/product/skala-expert-passion-fruit-and-pataua-oil-shampoo-325ml/",
+"p": 12.75,
+"c": null,
+"cur": "USD",
+"img": "https://curlygirlaccessories.com/wp-content/uploads/2026/10/skala-maracuja-pataua-shampoo-325ml-300x300.jpg",
+"type": "Shampoo",
+"tags": [],
+"in": false
+},
+{
 "t": "D31 The Freeflow Curl Definer & Styler",
 "u": "https://curlygirlaccessories.com/product/d31-the-freeflow-curl-definer-styler/",
 "p": 23.95,
@@ -891,6 +979,28 @@
 "in": true
 },
 {
+"t": "Samsum Teens Shampoo",
+"u": "https://curlygirlaccessories.com/product/samsum-teens-shampoo/",
+"p": 13.0,
+"c": null,
+"cur": "USD",
+"img": "https://curlygirlaccessories.com/wp-content/uploads/2026/09/2026-07-16-6a5886c38493c-300x300.webp",
+"type": "Shampoo",
+"tags": [],
+"in": true
+},
+{
+"t": "Samsum Teens Oil Gel",
+"u": "https://curlygirlaccessories.com/product/samsum-teens-oil-gel/",
+"p": 14.0,
+"c": null,
+"cur": "USD",
+"img": "https://curlygirlaccessories.com/wp-content/uploads/2026/09/2026-07-16-6a588b88e0ccc-300x300.webp",
+"type": "Gels &amp; Custards",
+"tags": [],
+"in": true
+},
+{
 "t": "Samsum 3 in 1 Mask Teens – Nourish & Define Curls",
 "u": "https://curlygirlaccessories.com/product/samsum-3-in-1-mask-teens-nourish-define-curls/",
 "p": 20.0,
@@ -898,6 +1008,17 @@
 "cur": "USD",
 "img": "https://curlygirlaccessories.com/wp-content/uploads/2026/09/2026-07-16-6a5887c4f0e7f-300x300.webp",
 "type": "Masks &amp; Treatments",
+"tags": [],
+"in": true
+},
+{
+"t": "Samsum Teens Leave In",
+"u": "https://curlygirlaccessories.com/product/samsum-teens-leave-in/",
+"p": 14.0,
+"c": null,
+"cur": "USD",
+"img": "https://curlygirlaccessories.com/wp-content/uploads/2026/09/2026-07-16-6a588a091a06d-300x300.webp",
+"type": "Leave-In",
 "tags": [],
 "in": true
 },
@@ -921,7 +1042,7 @@
 "img": "https://curlygirlaccessories.com/wp-content/uploads/2026/09/2026-01-19-696e9fffd6508-300x300.webp",
 "type": "Hair Care, Kids",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Jet Fresh – Samsum",
@@ -1009,7 +1130,7 @@
 "img": "https://curlygirlaccessories.com/wp-content/uploads/2026/09/IMG-1803-300x300.webp",
 "type": "Conditioner",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "As I Am Curl Color Burgundy",
@@ -1658,7 +1779,7 @@
 "img": "https://curlygirlaccessories.com/wp-content/uploads/2026/07/img_6291-300x300.png",
 "type": "Bundles &amp; Sets",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Curloo Flexi Brush",
@@ -6852,7 +6973,7 @@
 "img": "https://curlygirlaccessories.com/wp-content/uploads/2026/03/img_1934-300x300.jpeg",
 "type": "Hair Care",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Slick-Dense Define EdgeLift",
@@ -8162,7 +8283,7 @@
 "tags": [
 "SKALA Masks"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Skala 2 in 1 Watermelon Treatment Mask",
@@ -9274,7 +9395,7 @@
 "Heat Damaged &amp; Colored Hair High Porosity Curly Hair",
 "Vera Akiki's Favorites"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Cantu Comeback Curl Revitalizer",
@@ -9481,7 +9602,7 @@
 "Clarifying Shampoo",
 "Heat Damaged &amp; Colored Hair High Porosity Curly Hair"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Cantu Avocado Hydrating Conditioner",
@@ -9496,7 +9617,7 @@
 "Cantu",
 "Rinse Out Conditioner"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Cantu Avocado Hydrating Shampoo",
@@ -9651,7 +9772,7 @@
 "All Products",
 "Cantu"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Cantu Jamaican Castor Oil Taming Gel",
@@ -9735,7 +9856,7 @@
 "All Products",
 "Cantu"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Cantu Acai Berry Revitalizing Shampoo",
@@ -9754,7 +9875,7 @@
 {
 "t": "Cantu Grapeseed Oil Strengthening Conditioner",
 "u": "https://curlygirlaccessories.com/product/cantu-grapeseed-oil-strengthening-conditioner/",
-"p": 16.1,
+"p": 19.0,
 "c": null,
 "cur": "USD",
 "img": "https://curlygirlaccessories.com/wp-content/uploads/2025/06/2755894623-300x300.jpg",
@@ -9764,7 +9885,7 @@
 "Cantu",
 "Rinse Out Conditioner"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Cantu Grapeseed Strengthening Shampoo",
@@ -9795,7 +9916,7 @@
 "All Products",
 "Cantu"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Cantu Flaxseed Smoothing Leave-In or Rinse Out Conditioner",
@@ -9983,7 +10104,7 @@
 "Cantu",
 "Vera Akiki's Favorites"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Cantu, Shea Butter for Natural Hair, Deep Treatment Hair Masque,  1.75 oz (50 g)",
@@ -12795,7 +12916,7 @@
 {
 "t": "Cantu Shea Butter for Natural Hair Shampoo and Conditioner Set , sulphate free",
 "u": "https://curlygirlaccessories.com/product/cantu-shea-butter-for-natural-hair-shampoo-and-conditioner-set-sulphate-free/",
-"p": 36.8,
+"p": 38.0,
 "c": null,
 "cur": "USD",
 "img": "https://curlygirlaccessories.com/wp-content/uploads/2025/06/3871731821-300x300.jpg",
@@ -12805,7 +12926,7 @@
 "Bundles",
 "Cantu"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Cantu TEA TREE & JOJOBA HAIR & SCALP OIL",
@@ -13171,7 +13292,7 @@
 "All Products",
 "Hair Accessories"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Skala Perfect Curls",
@@ -13403,7 +13524,7 @@
 "All Products",
 "Cantu"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Eco Gel Argan Oil 227 g",
@@ -14252,7 +14373,7 @@
 {
 "t": "Cantu Grapeseed Strengthening Deep Treatment Masque – 340 g",
 "u": "https://curlygirlaccessories.com/product/cantu-grapeseed-strengthening-deep-treatment-masque-340-g/",
-"p": 16.1,
+"p": 19.0,
 "c": null,
 "cur": "USD",
 "img": "https://curlygirlaccessories.com/wp-content/uploads/2025/06/4491627668-300x300.jpg",
@@ -14261,12 +14382,12 @@
 "Cantu",
 "Deep Treament Mask"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Cantu Grapeseed Mineral Oil Free Leave-In Repair Conditioner 340g",
 "u": "https://curlygirlaccessories.com/product/cantu-grapeseed-mineral-oil-free-leave-in-repair-conditioner-340g/",
-"p": 16.1,
+"p": 19.0,
 "c": null,
 "cur": "USD",
 "img": "https://curlygirlaccessories.com/wp-content/uploads/2025/06/4491627680-300x300.webp",
@@ -14275,7 +14396,7 @@
 "Cantu",
 "Leave-in"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Cantu Guava Scalp Relief Conditioner – 400 mL",
