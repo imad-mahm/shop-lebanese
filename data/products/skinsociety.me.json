@@ -1,5 +1,81 @@
 [
 {
+"t": "Garnier Colorful Bandana - Gift",
+"u": "https://skinsociety.me/products/garnier-colorful-bandana-gift",
+"p": 0.0,
+"c": null,
+"cur": "USD",
+"img": "",
+"type": "POSM",
+"tags": [
+"Category_POSM",
+"No-Sync",
+"POSM",
+"SEARCH_IGNORE"
+],
+"in": true
+},
+{
+"t": "Brave Together - Lifter Stix Multi-Use Face Stick & Lifter Gloss Lip Gloss &  Lifter Liner Lip Liner Pencil Trio",
+"u": "https://skinsociety.me/products/lifter-stix-multi-use-face-stick-lifter-gloss-lip-gloss-lifter-liner-lip-liner-pencil-trio",
+"p": 24.72,
+"c": 30.9,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/Bravetogether-Bundles-06.jpg?v=1792398992&width=400",
+"type": "Casual",
+"tags": [
+"Brand_Maybelline New York",
+"bravetogether",
+"Bundle",
+"Casual Make Up",
+"Category_Make Up",
+"Make Up",
+"Maybelline New York",
+"No-Sync"
+],
+"in": true
+},
+{
+"t": "Gentle Eye Makeup Remover - Sensitive Eyes",
+"u": "https://skinsociety.me/products/gentle-eye-makeup-remover-sensitive-eyes-avene",
+"p": 18.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/products/3282779051378.jpg?v=1674490823&width=400",
+"type": "Dermocosmetics",
+"tags": [
+"3282779051378",
+"3282779051378-32655466889309",
+"Brand_Avène",
+"Category_Skin Care",
+"Cleansers",
+"Dermocosmetics",
+"Eye Wash & Cleansers",
+"Loyalty Program"
+],
+"in": true
+},
+{
+"t": "Skin Affair Cushion Foundation",
+"u": "https://skinsociety.me/products/skin-affair-cushion-foundation",
+"p": 74.9,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/updated_photo_70430a5d-bea8-4862-8bb3-15a519ed134d.png?v=1792482373&width=400",
+"type": "Luxury",
+"tags": [
+"Brand_Yves Saint Laurent",
+"Category_Make Up",
+"Foundation",
+"Loyalty Program",
+"Luxury",
+"Luxury Make Up",
+"Make Up",
+"new arrivals"
+],
+"in": true
+},
+{
 "t": "HB 100 Oral Solution",
 "u": "https://skinsociety.me/products/hb-100-oral-solution",
 "p": 20.0,
@@ -20,7 +96,7 @@
 "in": true
 },
 {
-"t": "Instant Age Rewind Eraser Concealer &  Lifter Liner Lip Liner Pencil & Lifter Glaze Lip Balm Trio",
+"t": "Brave Together - Instant Age Rewind Eraser Concealer &  Lifter Liner Lip Liner Pencil & Lifter Glaze Lip Balm Trio",
 "u": "https://skinsociety.me/products/instant-age-rewind-eraser-concealer-lifter-liner-lip-liner-pencil-lifter-glaze-lip-balm-trio",
 "p": 24.32,
 "c": 30.4,
@@ -29,18 +105,18 @@
 "type": "Casual",
 "tags": [
 "bettertogether",
+"Brand_Maybelline New York",
+"bravetogether",
 "Casual",
 "Casual Make Up",
 "Category_Make Up",
 "Make Up",
-"No-Sync",
-"Product Type_Value Deals",
-"Sub Category_Value Deals"
+"Maybelline New York"
 ],
 "in": true
 },
 {
-"t": "The Colossal Bubble Washable Mascara & Lifter Gel Lip Oil-In-Gel Lip Gloss & Lifter Serum Concealer Trio",
+"t": "Brave Together - The Colossal Bubble Washable Mascara & Lifter Gel Lip Oil-In-Gel Lip Gloss & Lifter Serum Concealer Trio",
 "u": "https://skinsociety.me/products/the-colossal-bubble-washable-mascara-lifter-gel-lip-oil-in-gel-lip-gloss-lifter-serum-concealer-trio",
 "p": 24.84,
 "c": 31.05,
@@ -48,19 +124,19 @@
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/Bravetogether-Bundles-07.jpg?v=1792399293&width=400",
 "type": "Casual",
 "tags": [
-"bettertogether",
+"Brand_Maybelline New York",
+"bravetogether",
 "Bundle",
 "Casual",
 "Casual Make Up",
-"No-Sync",
-"Product Type_Value Deals",
-"Sub Category_Value Deals",
-"SubCategory_Value Deals"
+"Category_Make Up",
+"Make Up",
+"Maybelline New York"
 ],
-"in": false
+"in": true
 },
 {
-"t": "Lash Sensational Sky High Black Mascara & Gloss Lip Gloss Makeup with Hyaluronic Acid for smooth and hydrated lips Duo",
+"t": "Brave Together - Lash Sensational Sky High Black Mascara & Gloss Lip Gloss Makeup with Hyaluronic Acid for smooth and hydrated lips Duo",
 "u": "https://skinsociety.me/products/lash-sensational-sky-high-black-mascara-gloss-lip-gloss-makeup-with-hyaluronic-acid-for-smooth-and-hydrated-lips-duo",
 "p": 16.8,
 "c": 21.0,
@@ -68,14 +144,14 @@
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/Bravetogether-Bundles-05.jpg?v=1792398623&width=400",
 "type": "Casual",
 "tags": [
+"Brand_Maybelline New York",
 "bravetogether",
 "Bundle",
+"Casual Make Up",
+"Category_Make Up",
 "Make Up",
-"No-Sync",
-"Product Type_Value Deals",
-"Sub Category_Value Deals",
-"SubCategory_Value Deals",
-"Value Deals"
+"Maybelline New York",
+"No-Sync"
 ],
 "in": true
 },
@@ -468,7 +544,7 @@
 "SubCategory_Value Deals",
 "Value Deal"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Super Stay Vinyl Ink Long lasting Lipstick & The Colossal Bubble Washable Mascara & The Burgundy Bas Eyeshadow Palette Trio",
@@ -488,7 +564,7 @@
 "Sub Category_Value Deals",
 "SubCategory_Value Deals"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Lash Sensational Sky High Mascara & Eyestudio Hyper Easy Liquid Liner Matte-Intense Black &Eyeshadow Nudes of New York Trio",
@@ -508,7 +584,7 @@
 "Product Type_Value Deals",
 "SKY26"
 ],
-"in": false
+"in": true
 },
 {
 "t": "The Colossal Bubble Washable Mascara & Lifter Serum Concealer Duo",
@@ -528,7 +604,7 @@
 "Sub Category_Value Deals",
 "SubCategory_Value Deals"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Lifter Serum Concealer, Full Coverage & Lifter Gloss Lip Gloss  & Lifter Liner Lip Liner Pencil Trio",
@@ -836,7 +912,7 @@
 "POSM",
 "SEARCH_IGNORE"
 ],
-"in": false
+"in": true
 },
 {
 "t": "PDRN Pink Tone up Sun Cream SPF50+ - Gift",
@@ -1085,7 +1161,7 @@
 "Dermocosmetics",
 "Item Type_Day & Night Care"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Juicy Tubes Lip Gloss",
@@ -1621,7 +1697,7 @@
 "new arrivals",
 "No-Sync"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Rogé Cavaillès Intimate Cleanser Antibacterial 500ml + Free Extra-Gentle Intimate Cleanser 250ml",
@@ -1641,7 +1717,7 @@
 "new arrivals",
 "No-Sync"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Rogé Cavaillès Duo L'Homme Deo Roll-On + 1 Free L'Homme Deo Roll-On",
@@ -3540,7 +3616,7 @@
 "defile26",
 "face wash"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Infallible Waterproof Concealer & Foundation in a Powder Duo",
@@ -3920,7 +3996,7 @@
 "Hair Expert",
 "Loyalty Program"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Klorane Growth Accelerating Shampoo",
@@ -3940,7 +4016,7 @@
 "Item Type_Shampoo",
 "Loyalty Program"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Klorane Intense Growth Accelerator Serum with Adenosine",
@@ -4857,7 +4933,7 @@
 "No-Sync",
 "Product Type_Value Deals"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Voluminous Panorama Brown Mascara & Plump Ambition Hyaluron Lip Oil & Hyaluron Tint Lip Stain Serum Trio",
@@ -4877,7 +4953,7 @@
 "Make Up",
 "No-Sync"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Veniece Hydra Repair Cream",
@@ -5822,7 +5898,7 @@
 "new arrivals",
 "No-Sync"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Thermal Micellar Water Sensitive Skin 500ml + 100ml Free",
@@ -5862,7 +5938,7 @@
 "Product Type_Gift Sets",
 "Sub Category_Gift Sets"
 ],
-"in": false
+"in": true
 },
 {
 "t": "PCA Skin Blemish Control Bar",
@@ -5982,7 +6058,7 @@
 "Sub Category_Value Deals",
 "SubCategory_Value Deals"
 ],
-"in": false
+"in": true
 },
 {
 "t": "PCA Skin Hyaluronic Acid Microneedle Eye Patches",
@@ -7563,7 +7639,7 @@
 "Sub Category_Value Deals",
 "SubCategory_Value Deals"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Brow Wiz - Gift",
@@ -8073,7 +8149,7 @@
 "No-Sync",
 "Product Type_Value Deals"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Glycolic-Bright Glowing Day Cream & Glycolic Bright Face Serum & Glycolic Bright Anti-Dark Spot Daily UV Fluid Trio",
@@ -8093,7 +8169,7 @@
 "SubCategory_Value Deals",
 "Value Deal"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Full Hyaluron Expert Routine",
@@ -8113,7 +8189,7 @@
 "Category_ Skin Care",
 "Category_Skin Care"
 ],
-"in": false
+"in": true
 },
 {
 "t": "QNT Prime Whey Belgian Choco brownie",
@@ -8731,7 +8807,7 @@
 "Product Type_Value Deals",
 "Sub Category_Value Deals"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Blue L'Exclusif Parfum",
@@ -8871,7 +8947,7 @@
 "Item Type_Day & Night Care",
 "korean"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Deep Vita C Glutathione Brightening Mask",
@@ -8991,7 +9067,7 @@
 "Face Serums",
 "Item Type_Day & Night Care"
 ],
-"in": true
+"in": false
 },
 {
 "t": "TXA Niacinamide Capsule Cream",
@@ -9870,7 +9946,7 @@
 "Item Type_Face Masks",
 "korean"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Azelaic Acid 16 BB Calming Serum",
@@ -11348,7 +11424,7 @@
 "3614228410847",
 "3614228410847-41169118560349"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Hi-Def Brow Pencil",
@@ -13873,7 +13949,7 @@
 "Item Type_Day & Night Care",
 "korean"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Collagen Glow Sunscreen",
@@ -13913,7 +13989,7 @@
 "Face Wash & Cleansers",
 "Item Type_Face Masks"
 ],
-"in": true
+"in": false
 },
 {
 "t": "PDRN Pink Collagen Gel Mask (4EA)",
@@ -13973,7 +14049,7 @@
 "korean",
 "Loyalty Program"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Zero Pore Pads 2.0",
@@ -14233,7 +14309,7 @@
 "new arrivals",
 "No-Sync"
 ],
-"in": true
+"in": false
 },
 {
 "t": "PDRN Reju 5000 Cream",
@@ -14453,7 +14529,7 @@
 "Item Type_Eye Patches",
 "korean"
 ],
-"in": false
+"in": true
 },
 {
 "t": "EGF NAD Firming Gel Mask (4ea)",
@@ -17363,17 +17439,17 @@
 "p": 6.31,
 "c": 7.42,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/Artboard1_d1abfed8-68c9-45d2-95f0-16dec6655396.jpg?v=1785493316&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/Artboard1copy_2x-100_b5f09a45-a20a-4983-af3f-27d76dc9bd4c.jpg?v=1792496527&width=400",
 "type": "Casual",
 "tags": [
 "Bundle",
 "Casual",
 "Casual Hair Care",
 "Category_Hair Expert",
+"fall",
 "Hair Expert",
 "No-Sync",
-"Product Type_Value Deals",
-"Sub Category_Value Deals"
+"Product Type_Value Deals"
 ],
 "in": true
 },
@@ -23732,7 +23808,7 @@
 "SubCategory_Value Deals",
 "Value Deal"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Vitamin C Micellar Water Facial Brightening Cleanser and Makeup Remover Duo",
@@ -23792,7 +23868,7 @@
 "No-Sync",
 "Product Type_Value Deals"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Micellar Water Oil-Infused Makeup Remover & Lash Sensational Sky High Mascara Duo",
@@ -27383,7 +27459,7 @@
 "PFBUNDLES",
 "Value Deals"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Avène Sun B Protect Spf50+ & Thermal water Travel Size Duo Pack",
@@ -33136,7 +33212,7 @@
 "Cleansers",
 "face wash"
 ],
-"in": false
+"in": true
 },
 {
 "t": "L'Oréal Paris Mother's Day Gift Box - Gift",
@@ -33213,7 +33289,7 @@
 "Loyalty Program",
 "Medical Skin Care"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Melascreen Control 365 Days Tinted Protective Anti Spots Fluid SPF 50+",
@@ -33373,7 +33449,7 @@
 "Item Type_Mascara",
 "Loyalty Program"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Vivid Matte Liquid Liner, Smear-Resistant Eyeliner with Precise Tip",
@@ -35760,7 +35836,7 @@
 "Hair Type",
 "Hair Type_Oily Hair"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Sabal Argeal Saily Sebum-Absorbing Shampoo For Oily Hair",
@@ -38630,7 +38706,7 @@
 "No-Sync",
 "presummer"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Ralph Lauren's Polo 67 Eau de Toilette",
@@ -39523,7 +39599,7 @@
 "Eau De Parfum",
 "For Her"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Glossy Pout Tinted Lip Oil",
@@ -39703,7 +39779,7 @@
 "Eyes",
 "Item Type_Mascara"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Lash Sensational Cosmic Black Sky High & Lash Sensational Sky High Duo Mascara",
@@ -39723,7 +39799,7 @@
 "Eyes",
 "Item Type_Mascara"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Lash Sensational Sky High & The Falsies Lash Lift Washable Duo Mascara",
@@ -39783,7 +39859,7 @@
 "Product Type_Body Building",
 "Sub Category_Food Supplements"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Plant Based Protein Vanilla",
@@ -41169,7 +41245,7 @@
 "Dermocosmetics",
 "eye creams & serums"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Kerastase Headband - Gift",
@@ -44343,7 +44419,7 @@
 "Category_Bath & Body",
 "Category_Skin Care"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Mixa Panthenol Comfort Body Lotion - Anti-Scratching Cream - For Dry Skin, Atopy Prone Skin and Eczema",
@@ -44463,7 +44539,7 @@
 "Loyalty Program",
 "Luxury Skin Care"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Urea Cica Repair Body Lotion - For Keratosis Pilaris, Dry, Flaky, Strawberry, Rough, & Fragile Skin & Tiny Reddish Bumps - With 5% Urea and Panthenol",
@@ -51546,7 +51622,7 @@
 "Luxury",
 "Luxury Hair Care"
 ],
-"in": false
+"in": true
 },
 {
 "t": "The Hydrogel Face Mask",
@@ -53253,7 +53329,7 @@
 "Fragrances",
 "Loyalty Program"
 ],
-"in": false
+"in": true
 },
 {
 "t": "NightWalk Eau de Parfum",
@@ -58585,86 +58661,6 @@
 "Loyalty Program",
 "No-Sync",
 "Product Type_Hair Brushes"
-],
-"in": true
-},
-{
-"t": "Lady Banan Clip  15043",
-"u": "https://skinsociety.me/products/lady-banan-clip-15043",
-"p": 12.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/9310460150438-4.jpg?v=1764169166&width=400",
-"type": "Casual",
-"tags": [
-"Brand_Lady Jayne",
-"Casual",
-"Casual Hair Care",
-"Loyalty Program",
-"new arrivals",
-"No-Sync",
-"SAVE20",
-"SAVE22"
-],
-"in": true
-},
-{
-"t": "Lady Thick Headband 17164",
-"u": "https://skinsociety.me/products/lady-thick-headband-17164",
-"p": 9.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/9310460171648.jpg?v=1764169212&width=400",
-"type": "Casual",
-"tags": [
-"Brand_Lady Jayne",
-"Casual",
-"Casual Hair Care",
-"Hair Accessories",
-"Hair Tools & Accessories",
-"Loyalty Program",
-"new arrivals",
-"No-Sync"
-],
-"in": true
-},
-{
-"t": "Lady Rainbow Brush LG 11047",
-"u": "https://skinsociety.me/products/lady-rainbow-brush-lg-11047",
-"p": 16.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/931046110470.jpg?v=1764168714&width=400",
-"type": "Casual",
-"tags": [
-"Brand_Lady Jayne",
-"Casual",
-"Casual Hair Care",
-"Loyalty Program",
-"new arrivals",
-"No-Sync",
-"SAVE20",
-"SAVE22"
-],
-"in": true
-},
-{
-"t": "Lady Bandeau 2029",
-"u": "https://skinsociety.me/products/lady-bandeau-2029",
-"p": 5.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/9310460020298.jpg?v=1764168837&width=400",
-"type": "Casual",
-"tags": [
-"Brand_Lady Jayne",
-"Casual",
-"Casual Hair Care",
-"Loyalty Program",
-"new arrivals",
-"No-Sync",
-"SAVE20",
-"SAVE22"
 ],
 "in": true
 }

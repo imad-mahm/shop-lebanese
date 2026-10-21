@@ -1,5 +1,41 @@
 [
 {
+"t": "UV Solutions Brightening+Tinted SPF50 Sunscreen",
+"u": "https://myholdal.com/products/uv-solutions-brightening-tinted-spf50-sunscreen-lebanon",
+"p": 49.0,
+"c": 49.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/Light_b6549404-2f4b-4b50-9a77-ed5f2d360b39.png?v=1792504472&width=400",
+"type": "SKINCARE",
+"tags": [
+"BEAUTY",
+"BRANDS WOMEN",
+"cl mapp",
+"CLINIQUE WOMEN",
+"WOMEN",
+"WOMEN SKINCARE"
+],
+"in": false
+},
+{
+"t": "Quickliner For Eyes Intense",
+"u": "https://myholdal.com/products/qickliner-for-eyes-intense-lebanon",
+"p": 40.0,
+"c": 40.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/Truffle_143813ab-c14a-4dad-8881-fde0a2639e60.png?v=1792504079&width=400",
+"type": "MAKEUP",
+"tags": [
+"BEAUTY",
+"BRANDS WOMEN",
+"cl mapp",
+"CLINIQUE WOMEN",
+"WOMEN",
+"WOMEN MAKEUP"
+],
+"in": false
+},
+{
 "t": "La Roche-Posay Mela B3 Double Dose 40ml",
 "u": "https://myholdal.com/products/la-roche-posay-mela-b3-double-dose-40ml-lebanon",
 "p": 50.92,
@@ -923,7 +959,7 @@
 "WOMEN",
 "WOMEN EARRINGS"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Medium black nylon make-up case",
@@ -2993,7 +3029,7 @@
 "FW24 CO FW25",
 "Hooded neck"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Men's Powercourt Burnished Leather Sneakers - 41SMA0030",
@@ -6977,7 +7013,7 @@
 "Lacoste FW22 II",
 "LACOSTE FW22 PREORDER"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Women's Lacoste Sport Tennis Fleece Trackpants - Xf3168",
@@ -9737,7 +9773,7 @@
 "LACOSTE",
 "LACOSTE ACTIVE"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Signature Print Cotton T-shirt - TH2733",
@@ -15496,7 +15532,7 @@
 "WOMEN",
 "WOMEN SCARVES AND SHAWLS"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Pearls and crystals silver heart bracelet",
@@ -18899,6 +18935,7 @@
 "tags": [
 "BEAUTY",
 "BRANDS WOMEN",
+"MAC Face",
 "mac makeup",
 "mac mapping 7",
 "pnc 30 not discounted",
@@ -18917,6 +18954,7 @@
 "tags": [
 "BEAUTY",
 "BRANDS WOMEN",
+"MAC Eyes",
 "mac makeup",
 "mac mapping 7",
 "pnc 30 not discounted",
@@ -18935,6 +18973,7 @@
 "tags": [
 "BEAUTY",
 "BRANDS WOMEN",
+"MAC Eyes",
 "mac makeup",
 "mac mapping 7",
 "pnc 30 not discounted",
@@ -18953,6 +18992,7 @@
 "tags": [
 "BEAUTY",
 "BRANDS WOMEN",
+"MAC Face",
 "mac makeup",
 "mac mapping 7",
 "pnc 30 not discounted",
@@ -19493,7 +19533,7 @@
 "KIPLING BAGS KIDS",
 "KIPLING BTS 2023"
 ],
-"in": true
+"in": false
 },
 {
 "t": "New Kichirou-Large Lunchbox (With Trolley Sleeve)-15289",
@@ -19868,10 +19908,10 @@
 "BRANDS WOMEN",
 "live sale WOMEN",
 "mac end of ss26",
+"MAC Face",
 "mac Foundation MAKEUP - FACE",
 "mac june sale 26",
-"mac may 26 70",
-"mac may 26 offers"
+"mac may 26 70"
 ],
 "in": true
 },
@@ -20539,7 +20579,7 @@
 "Kipling SS26 Second drop",
 "Kipling Women"
 ],
-"in": false
+"in": true
 },
 {
 "t": "CREATIVITY L -13265",
@@ -25713,7 +25753,7 @@
 "WOMEN BAGS",
 "WOMEN PEN CASES"
 ],
-"in": false
+"in": true
 },
 {
 "t": "100 PENS BTS -I6002",
@@ -27387,6 +27427,7 @@
 "BRANDS WOMEN",
 "mac makeup",
 "mac mapping 14",
+"MAC Skin",
 "pnc 30 not discounted",
 "WOMEN MAKEUP"
 ],
@@ -27403,6 +27444,7 @@
 "tags": [
 "BEAUTY",
 "BRANDS WOMEN",
+"MAC Lips",
 "mac makeup",
 "mac mapping 14",
 "pnc 30 not discounted",
@@ -27421,6 +27463,7 @@
 "tags": [
 "BEAUTY",
 "BRANDS WOMEN",
+"MAC Lips",
 "mac makeup",
 "mac mapping 14",
 "pnc 30 not discounted",
@@ -27439,6 +27482,7 @@
 "tags": [
 "BEAUTY",
 "BRANDS WOMEN",
+"MAC Lips",
 "mac makeup",
 "mac mapping 14",
 "pnc 30 not discounted",
@@ -27457,6 +27501,7 @@
 "tags": [
 "BEAUTY",
 "BRANDS WOMEN",
+"MAC Lips",
 "mac makeup",
 "mac mapping 14",
 "pnc 30 not discounted",
@@ -27475,6 +27520,7 @@
 "tags": [
 "BEAUTY",
 "BRANDS WOMEN",
+"MAC Lips",
 "mac makeup",
 "mac mapping 14",
 "pnc 30 not discounted",
@@ -27493,6 +27539,7 @@
 "tags": [
 "BEAUTY",
 "BRANDS WOMEN",
+"MAC Lips",
 "mac makeup",
 "mac mapping 14",
 "pnc 30 not discounted",
@@ -28358,7 +28405,7 @@
 "LGP SS24 Delivery II",
 "LGP SS25"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Le Pliage Energy Handbag L  -  1515HSR",
@@ -36883,7 +36930,7 @@
 "Kipling SS26 Second drop",
 "Kipling Women"
 ],
-"in": false
+"in": true
 },
 {
 "t": "GABBIE -15255",
@@ -37061,7 +37108,7 @@
 "Kipling Women",
 "WOMEN WALLETS & POUCHES"
 ],
-"in": true
+"in": false
 },
 {
 "t": "CREATIVITY L -13093",
@@ -37323,7 +37370,7 @@
 "Kipling SS26 Second drop",
 "Kipling Women"
 ],
-"in": false
+"in": true
 },
 {
 "t": "NAOMI -I8863",
@@ -37376,7 +37423,7 @@
 "Kipling SS26 Second drop",
 "Kipling Women"
 ],
-"in": false
+"in": true
 },
 {
 "t": "ART M -I6004",
@@ -37660,7 +37707,7 @@
 "Kipling SS26 Second drop",
 "Kipling Women"
 ],
-"in": false
+"in": true
 },
 {
 "t": "ABANU M -I7076",
@@ -37714,7 +37761,7 @@
 "Kipling SS26 Second drop",
 "Kipling Women"
 ],
-"in": false
+"in": true
 },
 {
 "t": "ABANU M -I6237",
@@ -38873,6 +38920,7 @@
 "BEAUTY",
 "BRANDS WOMEN",
 "mac end of ss26",
+"MAC Face",
 "mac june sale 26",
 "mac makeup",
 "pnc 30 not discounted",
@@ -42973,6 +43021,7 @@
 "tags": [
 "BEAUTY",
 "BRANDS WOMEN",
+"MAC Face",
 "mac makeup",
 "mac mapping 15",
 "mac mapping today",
@@ -42992,6 +43041,7 @@
 "tags": [
 "BEAUTY",
 "BRANDS WOMEN",
+"MAC Face",
 "mac makeup",
 "mac mapping 15",
 "mac mapping today",
@@ -43011,6 +43061,7 @@
 "tags": [
 "BEAUTY",
 "BRANDS WOMEN",
+"MAC Face",
 "mac makeup",
 "mac mapping 15",
 "mac mapping today",
@@ -43030,6 +43081,7 @@
 "tags": [
 "BEAUTY",
 "BRANDS WOMEN",
+"MAC Face",
 "mac makeup",
 "mac mapping 15",
 "mac mapping today",
@@ -44713,6 +44765,7 @@
 "BEAUTY",
 "BRANDS WOMEN",
 "mac end of ss26",
+"MAC Eyes",
 "mac makeup",
 "pnc 30 not discounted",
 "WOMEN MAKEUP"
@@ -44730,6 +44783,7 @@
 "tags": [
 "BEAUTY",
 "BRANDS WOMEN",
+"MAC Face",
 "mac makeup",
 "mac winter sale",
 "pnc 30 not discounted",
@@ -48259,7 +48313,7 @@
 "lgp sale aug",
 "LGP SALE JULY26"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Le Pliage Green Top Handle Bag M  -  1623919",
@@ -49417,6 +49471,7 @@
 "BEAUTY",
 "BRANDS WOMEN",
 "mac makeup",
+"MAC Tools",
 "pnc 30 not discounted",
 "WOMEN MAKEUP"
 ],
@@ -49489,6 +49544,7 @@
 "tags": [
 "BEAUTY",
 "BRANDS WOMEN",
+"MAC Lips",
 "mac makeup",
 "pnc 30 not discounted",
 "WOMEN MAKEUP"
@@ -56868,6 +56924,7 @@
 "tags": [
 "BEAUTY",
 "BRANDS WOMEN",
+"MAC Face",
 "mac Foundation",
 "mac makeup",
 "mac may 26 offers",
@@ -57716,46 +57773,6 @@
 "c": 547.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/10337021001_0_30eea620-851d-4ec5-989b-80a842b2f6a9.jpg?v=1773150991&width=400",
-"type": "CROSSBODY BAGS",
-"tags": [
-"BAGS",
-"BRANDS WOMEN",
-"LGP BAGS WOMEN",
-"LGP Del III SS26",
-"LGP MAPPING 29",
-"lgp new all 26",
-"lgp ss25 nos",
-"LGP SS26 Delivery I "
-],
-"in": true
-},
-{
-"t": "Le Foulonné S Crossbody bag - 10337021",
-"u": "https://myholdal.com/products/buy-le-foulonne-s-crossbody-bag-10337021-215-lebanon",
-"p": 547.0,
-"c": 547.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/10337021215_0.jpg?v=1773150898&width=400",
-"type": "CROSSBODY BAGS",
-"tags": [
-"BAGS",
-"BRANDS WOMEN",
-"LGP BAGS WOMEN",
-"LGP Del III SS26",
-"LGP MAPPING 29",
-"lgp new all 26",
-"lgp ss25 nos",
-"LGP SS26 Delivery I "
-],
-"in": true
-},
-{
-"t": "Le Foulonné S Crossbody bag - 10337021",
-"u": "https://myholdal.com/products/buy-le-foulonne-s-crossbody-bag-10337021-407-lebanon",
-"p": 547.0,
-"c": 547.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/10337021407_0_09546e16-0ccc-464f-a173-f1a50b3792cd.jpg?v=1773150853&width=400",
 "type": "CROSSBODY BAGS",
 "tags": [
 "BAGS",
