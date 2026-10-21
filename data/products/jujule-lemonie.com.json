@@ -57,7 +57,7 @@
 "upperwear",
 "winter"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Tracy Top - Brown",
@@ -3419,7 +3419,7 @@
 "in": true
 },
 {
-"t": "Solana Skirt",
+"t": "Solana Skirt - Sage Green",
 "u": "https://www.jujule-lemonie.com/products/solana-skirt",
 "p": 275.0,
 "c": null,
@@ -3433,7 +3433,7 @@
 "in": true
 },
 {
-"t": "Solana Top",
+"t": "Solana Top - Sage Green",
 "u": "https://www.jujule-lemonie.com/products/sirage-top-copy",
 "p": 245.0,
 "c": null,
@@ -8176,7 +8176,7 @@
 "in": false
 },
 {
-"t": "Leaf Crop - Green",
+"t": "Leaf Crop - Sage Green",
 "u": "https://www.jujule-lemonie.com/products/leaf-crop-green",
 "p": 225.0,
 "c": null,
@@ -8451,7 +8451,7 @@
 "in": true
 },
 {
-"t": "Cinderella Dress - Off White",
+"t": "Cinderella Dress - Beige Rosé",
 "u": "https://www.jujule-lemonie.com/products/cinderella-dress",
 "p": 395.0,
 "c": null,
@@ -9568,7 +9568,7 @@
 "in": true
 },
 {
-"t": "Gema Pants - Satin Purple",
+"t": "Gema Pants - Satin Lila",
 "u": "https://www.jujule-lemonie.com/products/gema-satin-pants-purple",
 "p": 245.0,
 "c": null,
@@ -9632,7 +9632,7 @@
 "in": true
 },
 {
-"t": "Gema Satin Pants - Dark Orange",
+"t": "Gema Pants - Satin Brique",
 "u": "https://www.jujule-lemonie.com/products/gema-pants-satin",
 "p": 245.0,
 "c": null,

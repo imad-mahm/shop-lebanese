@@ -1,5 +1,137 @@
 [
 {
+"t": "G-jeans 1066",
+"u": "https://www.hashtag-lb.com/products/g-jeans-1066",
+"p": 45.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/38ad1828-57dd-4070-bc3b-ffa30409b8af.jpg?v=1792593941&width=400",
+"type": "jeans",
+"tags": [],
+"in": true
+},
+{
+"t": "G-coat 105",
+"u": "https://www.hashtag-lb.com/products/g-coat-105",
+"p": 75.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/dc2e2135-6165-49dd-b634-2c113ac276aa.jpg?v=1792589992&width=400",
+"type": "jacket",
+"tags": [],
+"in": true
+},
+{
+"t": "G-coat 090",
+"u": "https://www.hashtag-lb.com/products/g-coat-090",
+"p": 64.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/8cf4b462-6139-4254-9459-d97de762613a_b5463da8-5d08-4f43-97a8-d57437b25dc9.jpg?v=1792588496&width=400",
+"type": "jacket",
+"tags": [],
+"in": true
+},
+{
+"t": "G- top 261165",
+"u": "https://www.hashtag-lb.com/products/g-top-261165",
+"p": 24.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/b8b440a9-4540-4517-8a6e-4d239614553a.jpg?v=1792588248&width=400",
+"type": "TOP",
+"tags": [],
+"in": true
+},
+{
+"t": "G-Top 261135",
+"u": "https://www.hashtag-lb.com/products/g-top-261135",
+"p": 24.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/958afafe-ffd8-4d68-b72b-a50a10ecef36.jpg?v=1792588033&width=400",
+"type": "TOP",
+"tags": [],
+"in": true
+},
+{
+"t": "G-top 261029",
+"u": "https://www.hashtag-lb.com/products/g-top-261029",
+"p": 24.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/b9656c5a-814e-49e3-8840-c810b981e8fa.jpg?v=1792587520&width=400",
+"type": "TOP",
+"tags": [],
+"in": true
+},
+{
+"t": "G-coat 108",
+"u": "https://www.hashtag-lb.com/products/g-coat-108",
+"p": 64.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/f402675c-9c0e-4904-bae4-9abae08b3cda.jpg?v=1792586463&width=400",
+"type": "jacket",
+"tags": [],
+"in": true
+},
+{
+"t": "G-jacket 261012",
+"u": "https://www.hashtag-lb.com/products/g-jacket",
+"p": 55.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/c0668d0b-b84e-499d-972b-0719a7cdd1b8.jpg?v=1792585805&width=400",
+"type": "jacket",
+"tags": [],
+"in": true
+},
+{
+"t": "G- jacket 397",
+"u": "https://www.hashtag-lb.com/products/g-jacket-397",
+"p": 39.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/30657b04-a90b-40e1-9dff-48a2b55ec427.jpg?v=1792585327&width=400",
+"type": "jacket",
+"tags": [],
+"in": true
+},
+{
+"t": "G-jacket 407",
+"u": "https://www.hashtag-lb.com/products/g-jacket-407",
+"p": 49.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/3e927ae3-883c-48d4-ad58-560f5aacc217.jpg?v=1792582428&width=400",
+"type": "jacket",
+"tags": [],
+"in": true
+},
+{
+"t": "G-coat  408086",
+"u": "https://www.hashtag-lb.com/products/g-coat-408086",
+"p": 59.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/36fd12fc-4669-4445-81e0-74d6eae171c4.jpg?v=1792581827&width=400",
+"type": "jacket",
+"tags": [],
+"in": true
+},
+{
+"t": "G-3 piece Set 908457",
+"u": "https://www.hashtag-lb.com/products/g-3-piece-set-908457",
+"p": 59.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/18ae0530-3d32-4667-b6bc-06050b634da2.jpg?v=1792579224&width=400",
+"type": "set",
+"tags": [],
+"in": true
+},
+{
 "t": "pants 268351",
 "u": "https://www.hashtag-lb.com/products/pants-268351",
 "p": 32.0,
@@ -698,7 +830,7 @@
 "p": 59.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/10c5c86d-2271-4855-967a-5b4ca379803d.jpg?v=1789915922&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/5f81e536-1bc1-47da-9aa2-886504deb2ee.jpg?v=1792578479&width=400",
 "type": "Set",
 "tags": [],
 "in": true
@@ -1085,17 +1217,6 @@
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/08f0667a-6911-44e1-9b40-74c4ad7633f1.jpg?v=1788694278&width=400",
 "type": "top",
-"tags": [],
-"in": false
-},
-{
-"t": "set 17841",
-"u": "https://www.hashtag-lb.com/products/set-17841",
-"p": 55.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/321f75ee-4d8a-4e6e-805f-e76e34e09490.jpg?v=1788694039&width=400",
-"type": "Set",
 "tags": [],
 "in": false
 },
