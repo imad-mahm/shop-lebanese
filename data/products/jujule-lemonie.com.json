@@ -1,5 +1,59 @@
 [
 {
+"t": "Valey Jacket - Camel",
+"u": "https://www.jujule-lemonie.com/products/valey-jacket-camel",
+"p": 265.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0620/6980/1212/files/ValeyJacket-Camel_c195bd10-7466-4a4d-90fc-8ea08c1ffef9.jpg?v=1792663772&width=400",
+"type": "",
+"tags": [
+"collecting moments",
+"fall",
+"jacket",
+"new in",
+"outerwear",
+"upperwear"
+],
+"in": true
+},
+{
+"t": "Valey Jacket - Brocard Brique",
+"u": "https://www.jujule-lemonie.com/products/valey-jacket-brocard-brique",
+"p": 325.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0620/6980/1212/files/ValeyJacket-BrocardBrique_1.jpg?v=1792658444&width=400",
+"type": "",
+"tags": [
+"collecting moments",
+"fall",
+"jacket",
+"new in",
+"outerwear",
+"upperwear"
+],
+"in": true
+},
+{
+"t": "Valey Jacket - Checkers",
+"u": "https://www.jujule-lemonie.com/products/valey-jacket-checkers",
+"p": 265.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0620/6980/1212/files/ValeyJacket-Checkers.jpg?v=1792657419&width=400",
+"type": "",
+"tags": [
+"collecting moments",
+"fall",
+"jacket",
+"new in",
+"outerwear",
+"upperwear"
+],
+"in": true
+},
+{
 "t": "Bomber Jacket - Brocard Brique",
 "u": "https://www.jujule-lemonie.com/products/bomber-jacket-royal-blue-print-copy",
 "p": 295.0,
@@ -127,7 +181,7 @@
 "outerwear",
 "upperwear"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Malugai Skirt",
@@ -3124,7 +3178,7 @@
 "in": true
 },
 {
-"t": "Cleo Dress - Brocard",
+"t": "Cleo Dress - Brocard White",
 "u": "https://www.jujule-lemonie.com/products/cleo-dress-brocard",
 "p": 325.0,
 "c": null,
@@ -3307,7 +3361,7 @@
 "in": true
 },
 {
-"t": "Snow Jacket",
+"t": "Oriana Jacket - Brocard Pink",
 "u": "https://www.jujule-lemonie.com/products/snow-jacket-1",
 "p": 265.0,
 "c": null,
@@ -6067,7 +6121,7 @@
 "in": true
 },
 {
-"t": "Jasmine Skirt",
+"t": "Jasmine Skirt - Yellow",
 "u": "https://www.jujule-lemonie.com/products/jasmine-skirt",
 "p": 185.0,
 "c": null,
@@ -8268,7 +8322,7 @@
 "in": true
 },
 {
-"t": "Kimono brocard - Green",
+"t": "Kimono Brocard - Sage Green",
 "u": "https://www.jujule-lemonie.com/products/kimono-brocard-blue",
 "p": 265.0,
 "c": null,
@@ -8642,7 +8696,7 @@
 "in": true
 },
 {
-"t": "Kimono brocard - Blue",
+"t": "Kimono Brocard - Blue",
 "u": "https://www.jujule-lemonie.com/products/kimono-brocard",
 "p": 265.0,
 "c": null,
@@ -9521,7 +9575,7 @@
 "in": true
 },
 {
-"t": "Cecilia Dress - Light Green",
+"t": "Cecilia Dress - Sage Green",
 "u": "https://www.jujule-lemonie.com/products/copy-of-cecilia-dress-purple",
 "p": 345.0,
 "c": null,

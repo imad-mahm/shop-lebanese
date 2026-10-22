@@ -1,5 +1,91 @@
 [
 {
+"t": "ColorRush Chocolate Brown Mascara",
+"u": "https://looliacloset.com/products/samoa-colorush-chocolate-brown-mascara",
+"p": 12.65,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Samoa_Cosmetics_ColorRush_Chocolate_Brown.png?v=1792670417&width=400",
+"type": "Mascara",
+"tags": [
+"Mascara",
+"Samoa Cosmetics"
+],
+"in": false
+},
+{
+"t": "Chili LiLiLi Lip Plumper - SpicyGel",
+"u": "https://looliacloset.com/products/chili-lilili-lip-plumper-spicygel",
+"p": 8.5,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Chili_LiLiLi_SpicyGel_Lip_Plumper.png?v=1792669217&width=400",
+"type": "Lip Plumper",
+"tags": [
+"lip plumper",
+"Samoa Cosmetics"
+],
+"in": false
+},
+{
+"t": "* 2 Never Nude + Gloss & Go 15ml  At 10% OFF",
+"u": "https://looliacloset.com/products/2-never-nude-gloss-go-15ml-at-10-off",
+"p": 8.28,
+"c": 13.8,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Samoa_Cosmetics_-_2_Never_Nude_Gloss_Go_15ml_At_10_OFF_1.jpg?v=1748249029&width=400",
+"type": "Set",
+"tags": [
+"A8_upto60",
+"All_Set",
+"Blue_Monday26",
+"BP_Lebanon",
+"budget20",
+"budget<10",
+"bundle",
+"Christmas Sets | Makeup 2024"
+],
+"in": true
+},
+{
+"t": "Never Nude Tropical Breeze",
+"u": "https://looliacloset.com/products/samoa-never-nude-tropical-breeze",
+"p": 3.45,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Samoa_Cosmetics_-_Never_Nude_Tropical_Breeze_-_227_Blossom_Breeze.jpg?v=1748270590&width=400",
+"type": "Nail Color",
+"tags": [
+"BP_Lebanon",
+"budget20",
+"budget<10",
+"discount-20-and-under",
+"Eid_offer26",
+"Everything Except LID LLD",
+"for-her",
+"included"
+],
+"in": false
+},
+{
+"t": "Gift From Loolia Closet",
+"u": "https://looliacloset.com/products/gift-from-loolia-closet",
+"p": 0.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Untitleddesign_52_24acb131-8378-402a-accf-bbbfe2bdd93a.png?v=1773333992&width=400",
+"type": "GWP",
+"tags": [
+"_appmaker_disable_purchase",
+"GWP",
+"Hidden recommendation",
+"hide_product_status",
+"Loolia Closet",
+"SEARCHANISE_IGNORE"
+],
+"in": true
+},
+{
 "t": "Gift From Avène : Pouch With 2 Minis",
 "u": "https://looliacloset.com/products/gift-from-avene-pouch-with-2-minis",
 "p": 0.0,
@@ -102,14 +188,14 @@
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Lanc_me_-_Absolue_Soft_Set_1.jpg?v=1739356106&width=400",
 "type": "Skin Care Set",
 "tags": [
+"All_Set",
 "Black Friday Offers",
 "Black Friday skincare Offers",
 "Black Friday | Up To 40%",
 "Black Friday | Up To 50%",
 "BP_France",
 "budget60+",
-"budget>100",
-"check-sets"
+"budget>100"
 ],
 "in": true
 },
@@ -122,6 +208,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/ANY2_32.png?v=1792420218&width=400",
 "type": "Skin Care Set",
 "tags": [
+"All_Set",
 "Lancôme",
 "Skin Care Set"
 ],
@@ -137,13 +224,13 @@
 "type": "Skin Care Set",
 "tags": [
 "A8_upto60",
+"All_Set",
 "BF_GIFT_SET_2025",
 "BP_France",
 "budget50_100",
 "check-sets",
 "christmas-sets-2025",
-"discount-20-and-under",
-"HAPPY_HAUL"
+"discount-20-and-under"
 ],
 "in": true
 },
@@ -156,14 +243,14 @@
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Eternity_-_Men_5462f6a9-c685-454c-9c12-a6046e8f4534.png?v=1748850174&width=400",
 "type": "Fragrance Set",
 "tags": [
+"All_Set",
 "BF_2025",
 "BF_GIFT_SET_2025",
 "BP_US",
 "budget50_100",
 "budget60+",
 "Calvin Klein",
-"check-sets",
-"christmas-sets-2025"
+"check-sets"
 ],
 "in": true
 },
@@ -176,6 +263,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/6294016993867_749038cc-3b22-4441-a4ac-1e4d53cabd9e.png?v=1770994941&width=400",
 "type": "Fragrance Set",
 "tags": [
+"All_Set",
 "Armani",
 "BP_Italy",
 "Fragrance Set",
@@ -192,14 +280,14 @@
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/R_nergie_Triple_Serum_Set-box.png?v=1741080598&width=400",
 "type": "Skin Care Set",
 "tags": [
+"All_Set",
 "BP_France",
 "budget60+",
 "budget>100",
 "check-sets",
 "christmas-sets-2025",
 "discount-20-and-under",
-"Face Serum",
-"for-her"
+"Face Serum"
 ],
 "in": true
 },
@@ -217,7 +305,7 @@
 "lld-new-feb13",
 "Yves Saint Laurent"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Musamam White Intense",
@@ -258,6 +346,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/ANY2_27.png?v=1792405061&width=400",
 "type": "Bundle",
 "tags": [
+"All_Set",
 "bundle",
 "Factorybundle",
 "Haircare_experience26",
@@ -351,6 +440,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/imgi_5_3666057467813_20260831181200.jpg?v=1792166511&width=400",
 "type": "Makeup Set",
 "tags": [
+"All_Set",
 "Clarins",
 "Makeup Set"
 ],
@@ -365,6 +455,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Untitled_design_72_38f60e8a-c7d7-44d7-8695-5e8b270f0354.png?v=1792165454&width=400",
 "type": "Set",
 "tags": [
+"All_Set",
 "Clarins",
 "set"
 ],
@@ -379,6 +470,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/imgi_76_80129836_original_original_A.jpg?v=1792165044&width=400",
 "type": "Skin Care Set",
 "tags": [
+"All_Set",
 "Clarins",
 "Skin Care Set"
 ],
@@ -393,6 +485,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/imgi_75_80129834_original_original_1.jpg?v=1792164277&width=400",
 "type": "Skin Care Set",
 "tags": [
+"All_Set",
 "Clarins",
 "Skin Care Set"
 ],
@@ -407,6 +500,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/imgi_83_80129839_original_original_A.jpg?v=1792163235&width=400",
 "type": "Skin Care Set",
 "tags": [
+"All_Set",
 "Clarins",
 "Skin Care Set"
 ],
@@ -421,6 +515,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/imgi_104_80129847_original_original_1.jpg?v=1792162231&width=400",
 "type": "Set",
 "tags": [
+"All_Set",
 "Clarins",
 "Set"
 ],
@@ -435,6 +530,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/imgi_26_80129846_original_original_1.jpg?v=1792161343&width=400",
 "type": "Makeup Set",
 "tags": [
+"All_Set",
 "Clarins",
 "Makeup Set"
 ],
@@ -449,6 +545,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/imgi_122_80129835_original_original_1.jpg?v=1792159980&width=400",
 "type": "Skin Care Set",
 "tags": [
+"All_Set",
 "Clarins",
 "Skin Care Set"
 ],
@@ -812,6 +909,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/ANY2_16.png?v=1792076371&width=400",
 "type": "Bundle",
 "tags": [
+"All_Set",
 "bundle",
 "Factorybundle",
 "Haircare_experience26",
@@ -829,6 +927,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/ANY2_15.png?v=1792075387&width=400",
 "type": "Bundle",
 "tags": [
+"All_Set",
 "bundle",
 "Factorybundle",
 "Haircare_experience26",
@@ -885,7 +984,7 @@
 "Factorybundle",
 "NYX Professional Makeup"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Blade & Shade Brow Pencil + Epic Inky Stix Eyeliner + Control Freak Eyebrow Gel + FREE Tote Bag",
@@ -1245,24 +1344,6 @@
 "in": true
 },
 {
-"t": "Gift From Loolia Closet : Trial Size",
-"u": "https://looliacloset.com/products/gift-from-loolia-closet-trial-size",
-"p": 0.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Untitleddesign_52_2_258176b1-3637-4b5d-a1aa-287fcc0e1e25.png?v=1790838517&width=400",
-"type": "GWP",
-"tags": [
-"_appmaker_disable_purchase",
-"GWP",
-"Hidden recommendation",
-"hide_product_status",
-"Loolia Closet",
-"SEARCHANISE_IGNORE"
-],
-"in": true
-},
-{
 "t": "Phytophanere Ultra Serum Length-Boosting Serum",
 "u": "https://looliacloset.com/products/phytophanere-ultra-serum-length-boosting-serum-50ml",
 "p": 55.5,
@@ -1286,6 +1367,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/ANY2_13.png?v=1791989375&width=400",
 "type": "Bundle",
 "tags": [
+"All_Set",
 "bundle",
 "Factorybundle",
 "Haircare_experience26",
@@ -1297,12 +1379,13 @@
 {
 "t": "Your Serum & Oil Ritual — Enjoy 15% Added Value",
 "u": "https://looliacloset.com/products/your-serum-oil-ritual-enjoy-15-added-value",
-"p": 120.79,
-"c": 142.1,
+"p": 122.83,
+"c": 144.51,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/ANY_2_10.png?v=1791979358&width=400",
 "type": "Bundle",
 "tags": [
+"All_Set",
 "bundle",
 "Factorybundle",
 "Haircare_experience26",
@@ -1314,12 +1397,13 @@
 {
 "t": "Pro Longer Shampoo + Pro Longer Mask At 15% OFF",
 "u": "https://looliacloset.com/products/pro-longer-shampoo-pro-longer-mask-at-15-off",
-"p": 42.71,
-"c": 50.25,
+"p": 40.59,
+"c": 47.75,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/ANY2_7.png?v=1791973120&width=400",
 "type": "Bundle",
 "tags": [
+"All_Set",
 "bundle",
 "Factorybundle",
 "Haircare_experience26",
@@ -1331,12 +1415,13 @@
 {
 "t": "Blondifier Gloss Shampoo + Blondifier Mask At 15% OFF",
 "u": "https://looliacloset.com/products/blondifier-gloss-shampoo-blondifier-mask-at-15-off",
-"p": 41.48,
-"c": 48.8,
+"p": 40.59,
+"c": 47.75,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/ANY2_6.png?v=1791972681&width=400",
 "type": "Bundle",
 "tags": [
+"All_Set",
 "bundle",
 "Factorybundle",
 "Haircare_experience26",
@@ -1348,12 +1433,13 @@
 {
 "t": "Liss Unlimited Shampoo + Liss Unlimited Mask At 15% OFF",
 "u": "https://looliacloset.com/products/liss-unlimited-shampoo-liss-unlimited-mask-at-15-off",
-"p": 41.48,
-"c": 48.8,
+"p": 40.59,
+"c": 47.75,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/ANY2_4.png?v=1791971880&width=400",
 "type": "Bundle",
 "tags": [
+"All_Set",
 "bundle",
 "Factorybundle",
 "Haircare_experience26",
@@ -1365,29 +1451,31 @@
 {
 "t": "Absolut Repair Shampoo + Absolut Repair Golden Mask At 15% OFF",
 "u": "https://looliacloset.com/products/absolut-repair-shampoo-absolut-repair-golden-mask-at-15-off",
-"p": 39.9,
-"c": 46.94,
+"p": 40.59,
+"c": 47.75,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/ANY2_2.png?v=1791970105&width=400",
 "type": "Bundle",
 "tags": [
+"All_Set",
 "bundle",
 "Factorybundle",
 "Haircare_experience26",
 "L'Oréal Professionnel",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Absolut Repair Shampoo + Absolut Repair Mask At 15% OFF",
 "u": "https://looliacloset.com/products/absolut-repair-shampoo-absolut-repair-mask-at-15-off",
-"p": 39.9,
-"c": 46.94,
+"p": 40.59,
+"c": 47.75,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/ANY2_1.png?v=1791969691&width=400",
 "type": "Bundle",
 "tags": [
+"All_Set",
 "bundle",
 "Factorybundle",
 "Haircare_experience26",
@@ -1399,12 +1487,13 @@
 {
 "t": "Your Shampoo & Mask Ritual — enjoy 15% Added Value",
 "u": "https://looliacloset.com/products/your-shampoo-mask-ritual-enjoy-15-added-value",
-"p": 80.48,
-"c": 94.68,
+"p": 81.86,
+"c": 96.3,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/ANY_2_9.png?v=1791975972&width=400",
 "type": "Bundle",
 "tags": [
+"All_Set",
 "bundle",
 "Factorybundle",
 "Haircare_experience26",
@@ -1429,7 +1518,7 @@
 "Revitalift_bundles",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Revitalift Triple Power Serum + Laser Retinol Deep Wrinkle Night Serum At 10% OFF",
@@ -1465,7 +1554,7 @@
 "Revitalift_bundles",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Revitalift Triple Power Age-Correcting™ Serum + Day Cream At 10% OFF",
@@ -1483,7 +1572,7 @@
 "Revitalift_bundles",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Gift From Maybelline : Surprise Treat",
@@ -1563,6 +1652,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/1_4_9b005af1-5fce-4a0c-b800-d307e5293698.png?v=1781269409&width=400",
 "type": "Bundle",
 "tags": [
+"All_Set",
 "BP_France",
 "Bundle",
 "Eau Thermale Avène",
@@ -1576,12 +1666,13 @@
 {
 "t": "Cicalfate multi-protective skin repair cream sun protect SPF50+ + FREE Cicalfate instant repairing protective cream",
 "u": "https://looliacloset.com/products/avene-cicalfate-repair-spf50-free-cream",
-"p": 25.0,
+"p": 24.99,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/CI1.png?v=1781269414&width=400",
 "type": "Bundle",
 "tags": [
+"All_Set",
 "BP_France",
 "bundle",
 "Eau Thermale Avène",
@@ -2077,6 +2168,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/The-Clear-Skin-Routine.png?v=1791456109&width=400",
 "type": "Bundle",
 "tags": [
+"All_Set",
 "bundle",
 "Factorybundle",
 "La Roche-Posay",
@@ -2094,9 +2186,11 @@
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/The-Daily-Defense-Routine.png?v=1791456110&width=400",
 "type": "Bundle",
 "tags": [
+"All_Set",
 "bundle",
 "Factorybundle",
-"La Roche-Posay"
+"La Roche-Posay",
+"Valued Bundles"
 ],
 "in": true
 },
@@ -2109,6 +2203,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/ANY_2_21.png?v=1792167889&width=400",
 "type": "Bundle",
 "tags": [
+"All_Set",
 "bundle",
 "Factorybundle",
 "La Roche-Posay",
@@ -2404,6 +2499,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/1_21_ffb03b8d-0062-41cf-8676-cbc5093ca47f.png?v=1791374364&width=400",
 "type": "Bundle",
 "tags": [
+"All_Set",
 "Ducray",
 "Factory Sync Transfer",
 "Set",
@@ -2420,6 +2516,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/d_76e290f7-09c7-4795-99d4-b935e8b224ed.png?v=1791374362&width=400",
 "type": "Bundle",
 "tags": [
+"All_Set",
 "Ducray",
 "Factory Sync Transfer",
 "Valued Bundles"
@@ -2435,6 +2532,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/1_18_85ce02fb-c52d-43da-9e8a-e797ef95f62e.png?v=1791374360&width=400",
 "type": "Bundle",
 "tags": [
+"All_Set",
 "Ducray",
 "Factory Sync Transfer",
 "Set",
@@ -2623,6 +2721,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/3474637324674-r00.webp?v=1768213476&width=400",
 "type": "Hair Care Set",
 "tags": [
+"All_Set",
 "BP_France",
 "budget20-40",
 "for-her",
@@ -2685,7 +2784,7 @@
 "le_defile26",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Infaillible Freshwear Liquid Foundation + Extensionist Mascara + Hyaluron Tint Lip Stain Serum + FREE Le Defile Pouch At 25% OFF",
@@ -2704,25 +2803,6 @@
 "Valued Bundles"
 ],
 "in": false
-},
-{
-"t": "Gift from Avène: Cleansing Gel 15 ML",
-"u": "https://looliacloset.com/products/gift-from-avene-cleansing-gel-15-ml",
-"p": 0.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Untitleddesign-2026-01-21T151956.816.png?v=1769001718&width=400",
-"type": "GWP",
-"tags": [
-"_appmaker_disable_purchase",
-"BP_France",
-"Eau Thermale Avène",
-"GWP",
-"Hidden recommendation",
-"hide_product_status",
-"SEARCHANISE_IGNORE"
-],
-"in": true
 },
 {
 "t": "Gift from Estée Lauder: Turbo Mascara",
@@ -2750,7 +2830,7 @@
 "NYX Professional Makeup",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Brow Care Kit",
@@ -2857,7 +2937,7 @@
 "NYX Professional Makeup",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Buttermelt Blush + Loose Setting Powder + FREE Mirror Suction At 20% OFF",
@@ -2874,7 +2954,7 @@
 "NYX Professional Makeup",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Buttermelt Blush + Lip Lingerie Lip Liner + Jelly Job Gloss + FREE Mirror Suction At 20% OFF",
@@ -2891,7 +2971,7 @@
 "NYX Professional Makeup",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Buttermelt Blush + Buttermelt Bronzer + Buttermelt Highlighter + FREE Mirror Suction At 20% OFF",
@@ -2925,7 +3005,7 @@
 "NYX Professional Makeup",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "2x Buttermelt Blush + Free Mirror Suction At 20% OFF",
@@ -2942,7 +3022,7 @@
 "NYX Professional Makeup",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Breakout Control Blemish Treatment Facial Lotion - 60ml",
@@ -2975,24 +3055,6 @@
 "ABH_SINGLE",
 "ABHramadandisc",
 "above40adha"
-],
-"in": true
-},
-{
-"t": "Gift From René Furterer : Black Pouch",
-"u": "https://looliacloset.com/products/gift-from-rene-furterer-black-towel-copy",
-"p": 0.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Mini_Handheld_Fan_52_5fb30f45-bbf3-4a14-9171-59c4a1e70e51.png?v=1790776208&width=400",
-"type": "GWP",
-"tags": [
-"_appmaker_disable_purchase",
-"GWP",
-"Hidden recommendation",
-"hide_product_status",
-"René Furterer",
-"SEARCHANISE_IGNORE"
 ],
 "in": true
 },
@@ -3048,7 +3110,7 @@
 "le_defile26",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Elvive Glycolic Gloss Shampoo + Conditioner + Leave-in + FREE Le Defile Pouch At 15% OFF",
@@ -3066,7 +3128,7 @@
 "le_defile26",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Revitalift Triple Power Age-Correcting™ Serum + Day Cream + Night Cream + FREE Le Defile Pouch At 20% OFF",
@@ -3084,7 +3146,7 @@
 "le_defile26",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Glycolic-Bright Foam Cleanser + Face Serum + Night Cream + FREE Le Defile Pouch At 20% OFF",
@@ -3102,7 +3164,7 @@
 "le_defile26",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Hyaluron Expert Face Serum + Day Cream + Night Cream + Cleansing Gel + FREE Le Defile Pouch At 25% OFF",
@@ -3120,7 +3182,7 @@
 "le_defile26",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Telescopic Extensionist Mascara + Hyaluron Tint Serum + Foundation + FREE Le Defile Pouch At 25% OFF",
@@ -3156,7 +3218,7 @@
 "le_defile26",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "2x Infallible Laque Resistance Liquid Lipstick + FREE Le Defile Pouch At 20% OFF",
@@ -3192,7 +3254,7 @@
 "le_defile26",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Infaillible Setting Mist Spray + Panorama Mascara + Liquid Lipstick + Tinted Serum + FREE Le Defile Pouch At 25% OFF",
@@ -3210,7 +3272,7 @@
 "le_defile26",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Telescopic Extensionist Mascara + Tinted Serum + Concealer + FREE Le Defile Pouch At 25% OFF",
@@ -3246,7 +3308,7 @@
 "le_defile26",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Panorama Mascara + Lumi Le Liquid Blush + Plump Ambition Hyaluron Lip Oil + FREE Le Defile Pouch At 20% OFF",
@@ -3264,7 +3326,7 @@
 "le_defile26",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Panorama Mascara + Concealer + FREE Le Defile Pouch At 20% OFF",
@@ -3282,7 +3344,7 @@
 "le_defile26",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Any 2 Treatments + FREE Le Defile Pouch At 25% OFF",
@@ -3302,7 +3364,7 @@
 "haircare must",
 "L'Oréal Paris"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Fixing Protective Hair Spray 100ml",
@@ -3346,24 +3408,6 @@
 "LATTAFA"
 ],
 "in": true
-},
-{
-"t": "Gift From Klorane : Hello Sunshine Mirror",
-"u": "https://looliacloset.com/products/gift-from-ducray-keracnyl-glycolic-5ml-copy",
-"p": 0.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2298/5927/files/image_83bc7168.jpg?v=1789375419&width=400",
-"type": "GWP",
-"tags": [
-"_appmaker_disable_purchase",
-"GWP",
-"Hidden recommendation",
-"hide_product_status",
-"Loolia Closet",
-"SEARCHANISE_IGNORE"
-],
-"in": false
 },
 {
 "t": "Quinine Intense Growth Accelerator Serum with Adenosine, 100ml",
@@ -3634,6 +3678,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Garnier_Salicylic_Fresh_Matte_Cream.png?v=1790065102&width=400",
 "type": "Cream",
 "tags": [
+"cpd_ex_oct26",
 "cream",
 "fresh&bright",
 "Garnier"
@@ -3649,6 +3694,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/InternalbundleCPD_6.png?v=1788174819&width=400",
 "type": "Cream",
 "tags": [
+"cpd_ex_oct26",
 "cream",
 "fresh&bright",
 "Garnier"
@@ -3664,6 +3710,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Garnier_Vitamin_C_Cream.png?v=1790064632&width=400",
 "type": "Cream",
 "tags": [
+"cpd_ex_oct26",
 "cream",
 "fresh&bright",
 "Garnier"
@@ -3686,7 +3733,7 @@
 "L'Oréal Paris",
 "SEARCHANISE_IGNORE"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Organic Lavender Hydrosol",
@@ -3857,6 +3904,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Royal_Cosmetics_Floral_Dreams_Brush_Set.jpg?v=1789470809&width=400",
 "type": "Brush Set",
 "tags": [
+"All_Set",
 "Brush Set",
 "FEATURED_PRODUCTS",
 "Royal Cosmetics"
@@ -3894,7 +3942,7 @@
 "L'Oréal Paris",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Panorama Mascara Brown + Plump Ambition Hyaluron Lip Oil + Lumi Le Liquid Blush + FREE Black Pouch At 20% OFF",
@@ -4001,7 +4049,7 @@
 "Factorybundle",
 "L'Oréal Paris"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Hyaluron Expert Replumping Face Serum + Cream + FREE Headband At 15% OFF",
@@ -4208,61 +4256,6 @@
 "Estee Lauder",
 "Factorybundle",
 "Foundation"
-],
-"in": true
-},
-{
-"t": "Gift From A-Derma : Pouch",
-"u": "https://looliacloset.com/products/gift-from-a-derma-pouch",
-"p": 0.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Untitleddesign_31_c26197b7-3454-45f4-b0cf-258589ed86f0.png?v=1789042970&width=400",
-"type": "GWP",
-"tags": [
-"_appmaker_disable_purchase",
-"A-Derma",
-"GWP",
-"Hidden recommendation",
-"hide_product_status",
-"SEARCHANISE_IGNORE"
-],
-"in": true
-},
-{
-"t": "Gift From Avène : Beach Bag",
-"u": "https://looliacloset.com/products/gift-from-avene-beach-bag",
-"p": 0.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2298/5927/files/ANY2SHADES_9.png?v=1779957429&width=400",
-"type": "GWP",
-"tags": [
-"_appmaker_disable_purchase",
-"BP_France",
-"Eau Thermale Avène",
-"GWP",
-"Hidden recommendation",
-"hide_product_status",
-"SEARCHANISE_IGNORE"
-],
-"in": true
-},
-{
-"t": "Gift From Ducray : Extra Gentle Protective Shampoo 100ml",
-"u": "https://looliacloset.com/products/gift-from-ducray-extra-gentle-protective-shampoo-100ml",
-"p": 0.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Untitleddesign_28_137229eb-3f79-4e07-ba40-8e55ffb6005a.png?v=1789041510&width=400",
-"type": "GWP",
-"tags": [
-"_appmaker_disable_purchase",
-"Ducray",
-"GWP",
-"Hidden recommendation",
-"hide_product_status",
-"SEARCHANISE_IGNORE"
 ],
 "in": true
 },
@@ -4751,6 +4744,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/PeptidePouch.png?v=1787584141&width=400",
 "type": "Set",
 "tags": [
+"All_Set",
 "Essence",
 "set"
 ],
@@ -4783,6 +4777,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/1-3600524262518-CXollagenLifter-Serum.jpg?v=1787323816&width=400",
 "type": "Hair Treatment",
 "tags": [
+"cpd_ex_oct26",
 "FEATURED_PRODUCTS",
 "Hair Treatment",
 "L'Oréal Paris"
@@ -4798,6 +4793,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/1-3600524232672-CollagenLifter-Spray.jpg?v=1787323251&width=400",
 "type": "Leave-in",
 "tags": [
+"cpd_ex_oct26",
 "FEATURED_PRODUCTS",
 "Hair Styling",
 "L'Oréal Paris",
@@ -4815,6 +4811,7 @@
 "type": "Conditioner",
 "tags": [
 "Conditioner",
+"cpd_ex_oct26",
 "FEATURED_PRODUCTS",
 "L'Oréal Paris",
 "OAP_NOV_26"
@@ -4830,6 +4827,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Untitled_design_7_e11208eb-cc3a-4b51-8be2-127a13bbb108.png?v=1787321430&width=400",
 "type": "Shampoo",
 "tags": [
+"cpd_ex_oct26",
 "FEATURED_PRODUCTS",
 "L'Oréal Paris",
 "OAP_NOV_26",
@@ -4919,7 +4917,7 @@
 "Hair Curler",
 "Nasmati"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Lift & Snatch! Brow Tint Pen + The Face Glue Primer At 25% OFF",
@@ -4970,7 +4968,7 @@
 "NYX Professional Makeup",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Lift & Snatch! Brow Tint Pen + Bare With Me Concealer Serum At 25% OFF",
@@ -5085,7 +5083,7 @@
 "Factorybundle",
 "NYX Professional Makeup"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Buttermelt Glow Boosting Highlighter Stix + Powder Bronzer + FREE Shiny Pouch",
@@ -5187,6 +5185,7 @@
 "type": "Eye Liner",
 "tags": [
 "CPD_ex_626",
+"cpd_ex_oct26",
 "CPD_FS26",
 "Epic_Inky",
 "Eye Liner",
@@ -5333,6 +5332,7 @@
 "tags": [
 "A8_KB_10",
 "A8_Kbeauty",
+"All_Set",
 "COSRX_SOMEBYMI",
 "FEATURED_PRODUCTS",
 "Skin 1004",
@@ -5386,7 +5386,7 @@
 "Factorybundle",
 "NYX Professional Makeup"
 ],
-"in": true
+"in": false
 },
 {
 "t": "2x Fat Oil Slick Click Shiny Lip Balm + FREE Line Gloss Holder",
@@ -5564,8 +5564,8 @@
 {
 "t": "Voluminous Panorama Mascara, Volumizing and Lengthening",
 "u": "https://looliacloset.com/products/voluminous-panorama-mascara-volumizing-and-lengthening",
-"p": 14.9,
-"c": null,
+"p": 11.92,
+"c": 14.9,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/L_Oreal_Paris_-_Voluminous_Panorama_Mascara_Volumizing_and_Lengthening_1.jpg?v=1776420551&width=400",
 "type": "Mascara",
@@ -6139,7 +6139,7 @@
 "Skin Glow Edit",
 "Vaseline"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Lip Therapy Mint Stick 4.8g",
@@ -6484,6 +6484,7 @@
 "tags": [
 "BP_US",
 "CPD_ex_626",
+"cpd_ex_oct26",
 "Featured Products",
 "Lifter_Gel_Launch",
 "lip gloss",
@@ -6790,7 +6791,7 @@
 "t": "The Bright Set",
 "u": "https://looliacloset.com/products/the-ordinary-the-bright-set",
 "p": 32.0,
-"c": null,
+"c": 46.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/669348_9.png?v=1784622254&width=400",
 "type": "Skin Care Set",
@@ -6805,7 +6806,7 @@
 "t": "The Age Support Set",
 "u": "https://looliacloset.com/products/the-ordinary-the-age-support-set",
 "p": 57.0,
-"c": null,
+"c": 74.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/669348_8.png?v=1784621848&width=400",
 "type": "Skin Care Set",
@@ -6863,7 +6864,7 @@
 "NYX Professional Makeup",
 "Nyx_Summer26"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Epic Wear Liner Stick + Buttermelt Blush + Fat Oil Lip Drip + FREE Pouch",
@@ -6880,7 +6881,7 @@
 "NYX Professional Makeup",
 "Nyx_Summer26"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Pro Fix Stick Correcting Concealer + Fat Cheeks Juicy Blush + Buttermelt Glaze Foundation + FREE Pouch",
@@ -7484,6 +7485,7 @@
 "BP_US",
 "buttermeltstix_bun",
 "CPD_ex_626",
+"cpd_ex_oct26",
 "FEATURED_PRODUCTS",
 "Highlighter",
 "NYX Professional Makeup",
@@ -7693,6 +7695,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/UltraDouxGrapeShampoo_Conditioner_Leave-In_Mask_FREEPouch_15.png?v=1782830139&width=400",
 "type": "Bundle",
 "tags": [
+"All_Set",
 "BP_France",
 "bundle",
 "Hairbundles_PF",
@@ -7700,7 +7703,7 @@
 "Skin Glow Edit",
 "Valued Bundles"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Buy 2 Get 1 Free Forticea Strengthening Revitalizing Shampoo 200ml",
@@ -7711,6 +7714,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/UltraDouxGrapeShampoo_Conditioner_Leave-In_Mask_FREEPouch_14.png?v=1782829850&width=400",
 "type": "Bundle",
 "tags": [
+"All_Set",
 "BP_France",
 "bundle",
 "Hairbundles_PF",
@@ -7729,6 +7733,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/UltraDouxGrapeShampoo_Conditioner_Leave-In_Mask_FREEPouch_13.png?v=1782829281&width=400",
 "type": "Bundle",
 "tags": [
+"All_Set",
 "BP_France",
 "bundle",
 "Hairbundles_PF",
@@ -7747,6 +7752,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/UltraDouxGrapeShampoo_Conditioner_Leave-In_Mask_FREEPouch_12.png?v=1782829066&width=400",
 "type": "Bundle",
 "tags": [
+"All_Set",
 "BP_France",
 "bundle",
 "Hairbundles_PF",
@@ -7765,6 +7771,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/UltraDouxGrapeShampoo_Conditioner_Leave-In_Mask_FREEPouch_11.png?v=1782828611&width=400",
 "type": "Bundle",
 "tags": [
+"All_Set",
 "BP_France",
 "bundle",
 "Hairbundles_PF",
@@ -7783,6 +7790,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/UltraDouxGrapeShampoo_Conditioner_Leave-In_Mask_FREEPouch_10.png?v=1782827439&width=400",
 "type": "Bundle",
 "tags": [
+"All_Set",
 "BP_France",
 "bundle",
 "Hairbundles_PF",
@@ -7801,6 +7809,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Ultra_Doux_Grape_Shampoo_Conditioner_Leave-In_Mask_FREE_Pouch_9.png?v=1782825449&width=400",
 "type": "Bundle",
 "tags": [
+"All_Set",
 "BP_France",
 "bundle",
 "Hairbundles_PF",
@@ -7819,6 +7828,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/UltraDouxGrapeShampoo_Conditioner_Leave-In_Mask_FREEPouch_7.png?v=1782824411&width=400",
 "type": "Bundle",
 "tags": [
+"All_Set",
 "BP_France",
 "bundle",
 "Ducray",
@@ -7837,6 +7847,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/UltraDouxGrapeShampoo_Conditioner_Leave-In_Mask_FREEPouch_6.png?v=1782823626&width=400",
 "type": "Bundle",
 "tags": [
+"All_Set",
 "BP_France",
 "bundle",
 "Ducray",
@@ -7855,6 +7866,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/UltraDouxGrapeShampoo_Conditioner_Leave-In_Mask_FREEPouch_5.png?v=1782821391&width=400",
 "type": "Bundle",
 "tags": [
+"All_Set",
 "BP_France",
 "bundle",
 "Ducray",
@@ -8220,7 +8232,7 @@
 "FEATURED_PRODUCTS",
 "kerastase"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Gloss Absolu Frizz-Glaze Cream",
@@ -8283,14 +8295,14 @@
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/m1_d5ddb789-8fda-4a29-82a4-30edd0514cb4.png?v=1781269419&width=400",
 "type": "Bundle",
 "tags": [
+"All_Set",
 "BP_France",
 "dermo must",
 "Eau Thermale Avène",
 "Factory Sync Transfer",
 "FEATURED_PRODUCTS",
 "PF_promoX",
-"Set",
-"Skin Glow Edit"
+"Set"
 ],
 "in": false
 },
@@ -8303,6 +8315,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/h1_4a5ac922-c700-4443-9d39-97df9ef4ace4.png?v=1781187435&width=400",
 "type": "Bundle",
 "tags": [
+"All_Set",
 "BP_France",
 "Eau Thermale Avène",
 "FEATURED_PRODUCTS",
@@ -8321,6 +8334,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/a1_431a3a22-17ee-416b-a2b0-1bf6ad4be931.png?v=1781269407&width=400",
 "type": "Bundle",
 "tags": [
+"All_Set",
 "BP_France",
 "Eau Thermale Avène",
 "FEATURED_PRODUCTS",
@@ -8339,14 +8353,14 @@
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/1_5_7a156f00-f2d8-4066-a224-e3935ef2f426.png?v=1781269411&width=400",
 "type": "Bundle",
 "tags": [
+"All_Set",
 "BP_France",
 "Bundle",
 "Eau Thermale Avène",
 "Factory Sync Transfer",
 "FEATURED_PRODUCTS",
 "PF_promoX",
-"Skin Glow Edit",
-"Valued Bundles"
+"Skin Glow Edit"
 ],
 "in": true
 },
@@ -8360,6 +8374,7 @@
 "type": "Hair Mask",
 "tags": [
 "BP_France",
+"cpd_ex_oct26",
 "FEATURED_PRODUCTS",
 "hair mask",
 "Jacques Dessange"
@@ -8376,6 +8391,7 @@
 "type": "Hair Mask",
 "tags": [
 "BP_France",
+"cpd_ex_oct26",
 "FEATURED_PRODUCTS",
 "hair mask",
 "Jacques Dessange"
@@ -8392,6 +8408,7 @@
 "type": "Hair Mask",
 "tags": [
 "BP_France",
+"cpd_ex_oct26",
 "FEATURED_PRODUCTS",
 "hair mask",
 "Jacques Dessange"
@@ -8408,6 +8425,7 @@
 "type": "Hair Oil",
 "tags": [
 "BP_France",
+"cpd_ex_oct26",
 "FEATURED_PRODUCTS",
 "Hair Oil",
 "haircare must",
@@ -8425,6 +8443,7 @@
 "type": "Leave-in",
 "tags": [
 "BP_France",
+"cpd_ex_oct26",
 "FEATURED_PRODUCTS",
 "Jacques Dessange",
 "Leave In"
@@ -8441,6 +8460,7 @@
 "type": "Shampoo",
 "tags": [
 "BP_France",
+"cpd_ex_oct26",
 "FEATURED_PRODUCTS",
 "Jacques Dessange",
 "shampoo"
@@ -8457,6 +8477,7 @@
 "type": "Shampoo",
 "tags": [
 "BP_France",
+"cpd_ex_oct26",
 "FEATURED_PRODUCTS",
 "Jacques Dessange",
 "shampoo"
@@ -8473,6 +8494,7 @@
 "type": "Shampoo",
 "tags": [
 "BP_France",
+"cpd_ex_oct26",
 "FEATURED_PRODUCTS",
 "Jacques Dessange",
 "shampoo"
@@ -8489,6 +8511,7 @@
 "type": "Shampoo",
 "tags": [
 "BP_France",
+"cpd_ex_oct26",
 "FEATURED_PRODUCTS",
 "Jacques Dessange",
 "shampoo"
@@ -8506,6 +8529,7 @@
 "tags": [
 "BP_France",
 "Conditioner",
+"cpd_ex_oct26",
 "FEATURED_PRODUCTS",
 "Jacques Dessange"
 ],
@@ -8521,6 +8545,7 @@
 "type": "Shampoo",
 "tags": [
 "BP_France",
+"cpd_ex_oct26",
 "FEATURED_PRODUCTS",
 "Jacques Dessange",
 "shampoo"
@@ -8537,6 +8562,7 @@
 "type": "Shampoo",
 "tags": [
 "BP_France",
+"cpd_ex_oct26",
 "FEATURED_PRODUCTS",
 "Jacques Dessange",
 "shampoo"
@@ -8698,7 +8724,7 @@
 "Factorybundle",
 "NYX Professional Makeup"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Wonder Snatch Loose Setting Powder + Wonder Snatch Concealer + FREE Powder Puff",
@@ -8777,14 +8803,14 @@
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/15_a889b9e0-b803-4d20-bd84-e879c8b0f891.png?v=1781601236&width=400",
 "type": "Bundle",
 "tags": [
+"All_Set",
 "BP_France",
 "dermo must",
 "Ducray",
 "Factory Sync Transfer",
 "PF_promoX",
 "Set",
-"Skin Glow Edit",
-"Valued Bundles"
+"Skin Glow Edit"
 ],
 "in": false
 },
@@ -8897,10 +8923,10 @@
 "BP_US",
 "buttermeltstix_bun",
 "CPD_ex_626",
+"cpd_ex_oct26",
 "FEATURED_PRODUCTS",
 "NYX Professional Makeup",
-"Nyx_>10$",
-"Powder"
+"Nyx_>10$"
 ],
 "in": true
 },
@@ -8917,6 +8943,7 @@
 "buttermeltstix_bun",
 "Concealer",
 "CPD_ex_626",
+"cpd_ex_oct26",
 "NYX Professional Makeup",
 "Nyx_>10$",
 "Viral_26"
@@ -8934,6 +8961,7 @@
 "tags": [
 "BP_US",
 "CPD_ex_626",
+"cpd_ex_oct26",
 "FEATURED_PRODUCTS",
 "Foundation",
 "NYX Professional Makeup",
@@ -9740,7 +9768,7 @@
 "Medicube",
 "Skin Glow Edit"
 ],
-"in": true
+"in": false
 },
 {
 "t": "PDRN Pink Peptide Eye Cream",
@@ -9927,6 +9955,7 @@
 "tags": [
 "BP_France",
 "CPD_ex_626",
+"cpd_ex_oct26",
 "Discount_26",
 "FEATURED_PRODUCTS",
 "Garnier",
@@ -9944,6 +9973,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/43_d9f8f263-393e-42d3-b9ae-e0aab8426231.png?v=1780999159&width=400",
 "type": "Bundle",
 "tags": [
+"All_Set",
 "BP_France",
 "bundle",
 "Eau Thermale Avène",
@@ -10038,6 +10068,7 @@
 "type": "Repairing Cream",
 "tags": [
 "BP_France",
+"cpd_ex_oct26",
 "FEATURED_PRODUCTS",
 "Mixa",
 "Repairing Cream",
@@ -10939,6 +10970,7 @@
 "type": "Bundle",
 "tags": [
 "A-derma",
+"All_Set",
 "BP_France",
 "bundle",
 "Skin Glow Edit",
@@ -10956,6 +10988,7 @@
 "type": "Bundle",
 "tags": [
 "A-derma",
+"All_Set",
 "BP_France",
 "bundle",
 "Skin Glow Edit",
@@ -10972,6 +11005,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/1_27.png?v=1779779728&width=400",
 "type": "Bundle",
 "tags": [
+"All_Set",
 "BP_France",
 "bundle",
 "dermo must",
@@ -10990,6 +11024,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/1_28.png?v=1779780326&width=400",
 "type": "Bundle",
 "tags": [
+"All_Set",
 "BP_France",
 "bundle",
 "dermo must",
@@ -11030,12 +11065,12 @@
 "tags": [
 "30adha",
 "above40adha",
+"All_Set",
 "BF_2025",
 "Black Friday Offers",
 "Black Friday OffersMAKEUP",
 "Black Friday | Up To 40%",
-"Black Friday | Up To 50%",
-"BP_US"
+"Black Friday | Up To 50%"
 ],
 "in": true
 },
@@ -11233,6 +11268,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Tubbees_33.png?v=1779456740&width=400",
 "type": "Fragrance Set",
 "tags": [
+"All_Set",
 "BP_UAE",
 "FEATURED_PRODUCTS",
 "Fragrance Set",
@@ -11249,6 +11285,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Tubbees_32.png?v=1779456338&width=400",
 "type": "Fragrance Set",
 "tags": [
+"All_Set",
 "BP_UAE",
 "FEATURED_PRODUCTS",
 "Fragrance Set",
@@ -12405,12 +12442,12 @@
 "tags": [
 "BP_US",
 "CPD_ex_626",
+"cpd_ex_oct26",
 "CPD_EXMay26",
 "CPD_FS26",
 "Discount_26",
 "FEATURED_PRODUCTS",
-"Maybeline New York",
-"MNY_Sum26"
+"Maybeline New York"
 ],
 "in": true
 },
@@ -12593,12 +12630,12 @@
 "tags": [
 "BP_France",
 "CPD_ex_626",
+"cpd_ex_oct26",
 "CPD_EXMay26",
 "CPD_FS26",
 "Discount_26",
 "FEATURED_PRODUCTS",
-"L'Oréal Paris",
-"Lip Tint"
+"L'Oréal Paris"
 ],
 "in": true
 },
@@ -12727,7 +12764,7 @@
 "FEATURED_PRODUCTS",
 "Trop"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Clean Color-Changing Foundation",
@@ -12743,7 +12780,7 @@
 "Foundation",
 "Trop"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Lip Stain Masque 4 mL",
@@ -12760,7 +12797,7 @@
 "Trop",
 "Viral_26"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Viral Waterproof Nude Lip Liner",
@@ -12776,7 +12813,7 @@
 "lip liner",
 "Trop"
 ],
-"in": false
+"in": true
 },
 {
 "t": "MakeUp Eraser Pen",
@@ -12792,7 +12829,7 @@
 "Makeup Tools",
 "Trop"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Winged Eyeliner Stamp - 2 Eyeliners",
@@ -12822,12 +12859,12 @@
 "tags": [
 "BP_France",
 "CPD_ex_626",
+"cpd_ex_oct26",
 "CPD_EXMay26",
 "CPD_FS26",
 "Discount_26",
 "FEATURED_PRODUCTS",
-"Garnier",
-"Skin Glow Edit"
+"Garnier"
 ],
 "in": true
 },
@@ -12951,7 +12988,7 @@
 "Nasmati",
 "nasmati_act"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Duckbill Hair Clip - 2 Clips",
@@ -12985,7 +13022,7 @@
 "Nasmati",
 "nasmati_act"
 ],
-"in": false
+"in": true
 },
 {
 "t": "5-In-1 Magic Hair Curler",
@@ -13005,7 +13042,7 @@
 "nasmati_act",
 "Viral_2026"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Moroccan Argan Oil Heat Protectant Spray 110 mL",
@@ -13113,37 +13150,6 @@
 "in": false
 },
 {
-"t": "Talk To Me In French SS26 Nails Bundle At 12% OFF",
-"u": "https://looliacloset.com/products/samoa-talk-to-me-in-french-ss26-nails-bundle-12-off",
-"p": 14.35,
-"c": 16.31,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Samoa_Talk_To_Me_In_French_SS26.png?v=1778076257&width=400",
-"type": "Set",
-"tags": [
-"BP_Lebanon",
-"FEATURED_PRODUCTS",
-"Samoa Cosmetics"
-],
-"in": false
-},
-{
-"t": "See You In Spring SS26 Nails Bundle At 12% OFF",
-"u": "https://looliacloset.com/products/see-you-in-spring-ss26-nails-bundle-12-samoa",
-"p": 11.06,
-"c": 15.8,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Untitled_design_-_2026-05-06T141619.217_7c57200d-5f6a-4d1c-8318-52ac3ed412bf.png?v=1778067164&width=400",
-"type": "Set",
-"tags": [
-"A8_upto40",
-"BP_Lebanon",
-"FEATURED_PRODUCTS",
-"Samoa Cosmetics"
-],
-"in": false
-},
-{
 "t": "Brightening Boost, Top Coat 6ml",
 "u": "https://looliacloset.com/products/brightening-boost-top-coat-6ml-samoa",
 "p": 2.5,
@@ -13236,12 +13242,12 @@
 "tags": [
 "BP_France",
 "CPD_ex_626",
+"cpd_ex_oct26",
 "CPD_EXMay26",
 "CPD_FS26",
 "Discount_26",
 "Exfoliator",
-"FEATURED_PRODUCTS",
-"Glycolic_Bright"
+"FEATURED_PRODUCTS"
 ],
 "in": true
 },
@@ -13273,12 +13279,12 @@
 "tags": [
 "BP_France",
 "CPD_ex_626",
+"cpd_ex_oct26",
 "CPD_EXMay26",
 "CPD_FS26",
 "Discount_26",
 "Face Serum",
-"FEATURED_PRODUCTS",
-"L'Oréal Paris"
+"FEATURED_PRODUCTS"
 ],
 "in": true
 },
@@ -13350,11 +13356,11 @@
 "Blush_Crush_Nyx",
 "BP_US",
 "CPD_ex_626",
+"cpd_ex_oct26",
 "FEATURED_PRODUCTS",
 "lip liner",
 "NYX Professional Makeup",
-"Nyx_>10$",
-"Viral_2026"
+"Nyx_>10$"
 ],
 "in": true
 },
@@ -13370,11 +13376,11 @@
 "Blush_Crush_Nyx",
 "BP_US",
 "CPD_ex_626",
+"cpd_ex_oct26",
 "FEATURED_PRODUCTS",
 "lip gloss",
 "NYX Professional Makeup",
-"Nyx_>10$",
-"Viral_2026"
+"Nyx_>10$"
 ],
 "in": true
 },
@@ -14243,11 +14249,11 @@
 "BP_US",
 "Concealer",
 "CPD_ex_626",
+"cpd_ex_oct26",
 "CPD_EXMay26",
 "CPD_FS26",
 "Discount_26",
-"FEATURED_PRODUCTS",
-"Lifter_Concealer_26"
+"FEATURED_PRODUCTS"
 ],
 "in": true
 },
@@ -14269,8 +14275,8 @@
 {
 "t": "Super Stay Teddy Tint Liquid Lip Tint",
 "u": "https://looliacloset.com/products/teddy-tint",
-"p": 11.0,
-"c": null,
+"p": 8.8,
+"c": 11.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Current_Mood_1.jpg?v=1772031384&width=400",
 "type": "Lip Tint",
@@ -14426,12 +14432,12 @@
 "tags": [
 "BP_US",
 "CPD_ex_626",
+"cpd_ex_oct26",
 "CPD_EXMay26",
 "CPD_FS26",
 "Discount_26",
 "FEATURED_PRODUCTS",
-"Lip Stick",
-"Maybelline New York"
+"Lip Stick"
 ],
 "in": true
 },
@@ -14616,12 +14622,12 @@
 "tags": [
 "BP_France",
 "CPD_ex_626",
+"cpd_ex_oct26",
 "CPD_EXMay26",
 "CPD_FS26",
 "Discount_26",
 "FEATURED_PRODUCTS",
-"L'Oréal Paris",
-"OAP_NOV_26"
+"L'Oréal Paris"
 ],
 "in": true
 },
@@ -14637,11 +14643,11 @@
 "BP_France",
 "CPD_ex_626",
 "CPD_ex_april26",
+"cpd_ex_oct26",
 "CPD_EXMay26",
 "CPD_FS26",
 "Discount_26",
-"FEATURED_PRODUCTS",
-"Gem_It_Up"
+"FEATURED_PRODUCTS"
 ],
 "in": true
 },
@@ -14657,11 +14663,11 @@
 "BP_France",
 "CPD_ex_626",
 "CPD_ex_april26",
+"cpd_ex_oct26",
 "CPD_EXMay26",
 "CPD_FS26",
 "cream",
-"Discount_26",
-"FEATURED_PRODUCTS"
+"Discount_26"
 ],
 "in": true
 },
@@ -14703,7 +14709,7 @@
 "Skin Glow Edit",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Lip Bundle Matte Ink, Gloss, Vinyl + Free Hair Clip At 20% OFF",
@@ -15691,18 +15697,18 @@
 "BP_US",
 "budget20",
 "CPD_ex_626",
+"cpd_ex_oct26",
 "FEATURED_PRODUCTS",
 "for-her",
-"highlighter",
-"New In Makeup"
+"highlighter"
 ],
 "in": false
 },
 {
 "t": "Revitalift Laser X3 Triple Action Anti-Aging Day Cream, firm skin, and Brighten Complexion, SPF 25, 50ml",
 "u": "https://looliacloset.com/products/revitalift-laser-x3-triple-action-anti-aging-day-cream-firm-skin-and-brighten-complexion-spf-25-50mlloreal-revitalift-laser-x3-day-cream-spf25",
-"p": 16.49,
-"c": null,
+"p": 13.19,
+"c": 16.49,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/revitalift-laser-x3-day-cream-001.jpg?v=1775632468&width=400",
 "type": "Face Cream",
@@ -15716,7 +15722,7 @@
 "Face Cream",
 "Fall_Into_Hydra"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Waterproof Concealer + Tinted Serum +  Foundation + FREE Beauty Blenders At 25% OFF",
@@ -15908,11 +15914,11 @@
 "BP_US",
 "cpd-exc-0426",
 "CPD_ex_april26",
+"cpd_ex_oct26",
 "CPD_FS26",
 "Discount_26",
 "extra20",
-"FEATURED_PRODUCTS",
-"Lifter_Concealer_26"
+"FEATURED_PRODUCTS"
 ],
 "in": true
 },
@@ -16005,7 +16011,7 @@
 "NYX Professional Makeup",
 "nyx_Faceglue"
 ],
-"in": true
+"in": false
 },
 {
 "t": "NYX Face Glue Bundle – Primer, Setting Spray & Brow Glue Kit + Free Pouch",
@@ -16761,9 +16767,9 @@
 "cpd-exc-0426",
 "CPD_ex_626",
 "CPD_ex_april26",
+"cpd_ex_oct26",
 "CPD_EXMay26",
-"CPD_FS26",
-"Discount_26"
+"CPD_FS26"
 ],
 "in": true
 },
@@ -16780,10 +16786,10 @@
 "cpd-exc-0426",
 "CPD_ex_626",
 "CPD_ex_april26",
+"cpd_ex_oct26",
 "CPD_EXMay26",
 "CPD_FS26",
-"Discount_26",
-"FEATURED_PRODUCTS"
+"Discount_26"
 ],
 "in": false
 },
@@ -16800,10 +16806,10 @@
 "cpd-exc-0426",
 "CPD_ex_626",
 "CPD_ex_april26",
+"cpd_ex_oct26",
 "CPD_EXMay26",
 "CPD_FS26",
-"Discount_26",
-"FEATURED_PRODUCTS"
+"Discount_26"
 ],
 "in": false
 },
@@ -16820,10 +16826,10 @@
 "cpd-exc-0426",
 "CPD_ex_626",
 "CPD_ex_april26",
+"cpd_ex_oct26",
 "CPD_EXMay26",
 "CPD_FS26",
-"Discount_26",
-"FEATURED_PRODUCTS"
+"Discount_26"
 ],
 "in": true
 },
@@ -16913,13 +16919,13 @@
 "type": "Bundle",
 "tags": [
 "A-derma",
+"All_Set",
 "Bogo_Bundles",
 "BP_France",
 "bundle",
 "Day21_Ramadan",
 "FEATURED_PRODUCTS",
-"Skin Glow Edit",
-"Valued Bundles"
+"Skin Glow Edit"
 ],
 "in": false
 },
@@ -16933,13 +16939,13 @@
 "type": "Bundle",
 "tags": [
 "A-derma",
+"All_Set",
 "Bogo_Bundles",
 "BP_France",
 "bundle",
 "Day21_Ramadan",
 "FEATURED_PRODUCTS",
-"Skin Glow Edit",
-"Valued Bundles"
+"Skin Glow Edit"
 ],
 "in": false
 },
@@ -16972,14 +16978,14 @@
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Untitleddesign_85_915fc40f-98aa-48c0-a288-c4cbbbba1c94.png?v=1772798784&width=400",
 "type": "Bundle",
 "tags": [
+"All_Set",
 "Bogo_Bundles",
 "BP_France",
 "bundle",
 "Day21_Ramadan",
 "dermo must",
 "Eau Thermale Avène",
-"FEATURED_PRODUCTS",
-"Skin Glow Edit"
+"FEATURED_PRODUCTS"
 ],
 "in": false
 },
@@ -16992,14 +16998,14 @@
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Untitleddesign_84_eb1f8cf2-f725-41b1-9ef0-27d518c488d1.png?v=1772797873&width=400",
 "type": "Bundle",
 "tags": [
+"All_Set",
 "Bogo_Bundles",
 "BP_France",
 "bundle",
 "Day21_Ramadan",
 "Eau Thermale Avène",
 "FEATURED_PRODUCTS",
-"Skin Glow Edit",
-"Valued Bundles"
+"Skin Glow Edit"
 ],
 "in": false
 },
@@ -17467,9 +17473,9 @@
 "cpd-exc-0426",
 "CPD_ex_626",
 "CPD_ex_april26",
+"cpd_ex_oct26",
 "CPD_EXC_17March",
-"CPD_EXMay26",
-"CPD_FS26"
+"CPD_EXMay26"
 ],
 "in": true
 },
@@ -17599,8 +17605,8 @@
 {
 "t": "Fast Bright Serum Cleanser Dual Action Foam Cleanser",
 "u": "https://looliacloset.com/products/gar-bc-serum-cleanser-100-0mlt-002",
-"p": 6.9,
-"c": null,
+"p": 5.52,
+"c": 6.9,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/1-FastBrightSerumCleanser8994993028894.jpg?v=1770894834&width=400",
 "type": "Cleanser",
@@ -17787,17 +17793,17 @@
 "cpd-exc-0426",
 "CPD_ex_626",
 "CPD_ex_april26",
+"cpd_ex_oct26",
 "CPD_EXC_17March",
-"CPD_FS26",
-"Day1_Ramadan"
+"CPD_FS26"
 ],
 "in": false
 },
 {
 "t": "Break Fix Liquid Nail Care and Treatment Patch",
 "u": "https://looliacloset.com/products/essie-care-break-fix-liquid",
-"p": 9.21,
-"c": null,
+"p": 7.37,
+"c": 9.21,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/K-Beauty_1.png?v=1770380323&width=400",
 "type": "Nail Care",
@@ -18473,50 +18479,10 @@
 "in": false
 },
 {
-"t": "* Cozy Lips",
-"u": "https://looliacloset.com/products/cozy-lips-w26-bundle-12",
-"p": 16.1,
-"c": 20.12,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2298/5927/files/510.43_CozyLips_Bundle_-12_f9aee97c-906f-4ba4-88bc-d94daa66d6f3.jpg?v=1764338109&width=400",
-"type": "Makeup Set",
-"tags": [
-"BF_GIFT_SET_2025",
-"Blue_Monday26",
-"BP_Lebanon",
-"budget20",
-"for-her",
-"Makeup Set",
-"Samoa Cosmetics",
-"shop10_20"
-],
-"in": false
-},
-{
-"t": "* Cozy Eyes",
-"u": "https://looliacloset.com/products/cozy-eyes-w26-bundle-12",
-"p": 13.71,
-"c": 17.13,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2298/5927/files/510.43_CozyEyes_Bundle_-12_88347346-cd0d-42ac-9be7-9dceea9f9c9b.jpg?v=1764338639&width=400",
-"type": "Makeup Set",
-"tags": [
-"Blue_Monday26",
-"BP_Lebanon",
-"budget20",
-"Eid_offer26",
-"for-her",
-"Makeup Set",
-"mega deals",
-"Mother's_Day26"
-],
-"in": false
-},
-{
 "t": "Lifter Glaze Lip Balm",
 "u": "https://looliacloset.com/products/lifter-glaze-lip-balm",
-"p": 10.5,
-"c": null,
+"p": 8.4,
+"c": 10.5,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/rosebite.png?v=1769416638&width=400",
 "type": "Lip Balm",
@@ -19066,14 +19032,14 @@
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Collistar_Make_Up_Wellness_Gift_Set_2025.jpg?v=1770322147&width=400",
 "type": "Skin Care Set",
 "tags": [
+"All_Set",
 "BP_Italy",
 "budget40-60",
 "Collistar",
 "Eid_offer26",
 "FEATURED_PRODUCTS",
 "for-her",
-"Mother's_Day26",
-"shop40-60"
+"Mother's_Day26"
 ],
 "in": true
 },
@@ -19106,14 +19072,14 @@
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Collistar_Uomo_Acqua_Attiva_Gift_Set_1.jpg?v=1768557911&width=400",
 "type": "Fragrance Set",
 "tags": [
+"All_Set",
 "BP_Italy",
 "budget60+",
 "Collistar",
 "for-her",
 "for-him",
 "Men Fragrance",
-"Men_Collection",
-"shop60+"
+"Men_Collection"
 ],
 "in": true
 },
@@ -19166,14 +19132,14 @@
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Collistar_Futura_Brightening_Revitalizing_Cream_Gift_Set_1.jpg?v=1768553811&width=400",
 "type": "Skin Care Set",
 "tags": [
+"All_Set",
 "BP_Italy",
 "budget60+",
 "Collistar",
 "FEATURED_PRODUCTS",
 "for-her",
 "shop60+",
-"shop>100",
-"Skin Glow Edit"
+"shop>100"
 ],
 "in": true
 },
@@ -19186,14 +19152,14 @@
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Collistar_Rigenera_Smoothing_Anti_Wrinkle_Cream_50_ml_Set.jpg?v=1768553011&width=400",
 "type": "Skin Care Set",
 "tags": [
+"All_Set",
 "BP_Italy",
 "budget60+",
 "Collistar",
 "for-her",
 "shop60+",
 "shop>100",
-"Skin Glow Edit",
-"Skincare Set"
+"Skin Glow Edit"
 ],
 "in": true
 },
@@ -19206,6 +19172,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Collistar_Attivi_Puri_Collagen_Malachite_Cream_Balm_Gift_Set.jpg?v=1768552031&width=400",
 "type": "Skin Care Set",
 "tags": [
+"All_Set",
 "BP_Italy",
 "budget60+",
 "Collistar",
@@ -19225,6 +19192,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Collistar_Idroattiva_Water_Cream_50_ml_Set.jpg?v=1768550116&width=400",
 "type": "Skin Care Set",
 "tags": [
+"All_Set",
 "BP_Italy",
 "Collistar",
 "Skin Glow Edit",
@@ -19358,6 +19326,7 @@
 "type": "Makeup Set",
 "tags": [
 "A8_upto30",
+"All_Set",
 "FEATURED_PRODUCTS",
 "Makeup Set",
 "Mother's_Day26",
@@ -20660,8 +20629,8 @@
 {
 "t": "UV Defender, Aquafusion Daily Water Gel Sunscreen, SPF50+ PA++++, Defends from all UV aging signs, 50ml",
 "u": "https://looliacloset.com/products/loreal-uv-defender-aquafusion-water-gel-spf50",
-"p": 14.5,
-"c": null,
+"p": 11.6,
+"c": 14.5,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/loreal-paris-uv-defender-aquafusion-001.jpg?v=1774947841&width=400",
 "type": "Sunscreen",
@@ -20680,8 +20649,8 @@
 {
 "t": "Lifter Stix Multi-Use Face Stick",
 "u": "https://looliacloset.com/products/lifter-stix-multi-use-face-stick",
-"p": 12.5,
-"c": null,
+"p": 10.0,
+"c": 12.5,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/1-Lifter_stix_30.jpg?v=1768242094&width=400",
 "type": "Bronzer",
@@ -20700,8 +20669,8 @@
 {
 "t": "Vinyl Ink Lipstick",
 "u": "https://looliacloset.com/products/super-stay-vinyl-ink-long-lasting-liquid-lipcolor-lipstick",
-"p": 12.93,
-"c": null,
+"p": 10.34,
+"c": 12.93,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Lippy_Vinyl_ink_Pdp-01.jpg?v=1767775014&width=400",
 "type": "Lipstick",
@@ -21190,7 +21159,7 @@
 "babies & kids",
 "Beach Day Essentials"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Nutritive Masque Set",
@@ -22038,6 +22007,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Mockup_Box_fed8818a-20e1-469c-aa90-6e96d4939e39.png?v=1764942239&width=400",
 "type": "Skin Care Set",
 "tags": [
+"All_Set",
 "BF_GIFT_SET_2025",
 "Face Facts",
 "FF_XMAS_SETS",
@@ -22045,20 +22015,6 @@
 "Skincare Set"
 ],
 "in": true
-},
-{
-"t": "ColorRush Burgundy Bundle -15%",
-"u": "https://looliacloset.com/products/colorrush-burgundy-bundle-15",
-"p": 17.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2298/5927/files/592.5_ColorRush_Burgundy_-15_8db17a4c-fa3c-4a06-a733-bced07c285fd.jpg?v=1764326868&width=400",
-"type": "",
-"tags": [
-"Loolia Closet",
-"samoa new"
-],
-"in": false
 },
 {
 "t": "YEE HAW! Shiny Lipgloss",
@@ -22217,23 +22173,6 @@
 "samoa new"
 ],
 "in": true
-},
-{
-"t": "Cozy Edit Amore Mio",
-"u": "https://looliacloset.com/products/cozy-edit-6-amore-mio-w26-bundle-20",
-"p": 16.56,
-"c": 20.7,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2298/5927/files/BFA35474-8D22-426D-B03F-BDAD866C5ADA_900x_398764cb-6354-438e-ba03-6bccf8c55690.jpg?v=1764336882&width=400",
-"type": "Makeup Set",
-"tags": [
-"Blue_Monday26",
-"BP_Lebanon",
-"Makeup Set",
-"Mother's_Day26",
-"Samoa Cosmetics"
-],
-"in": false
 },
 {
 "t": "Ultra Doux Chamomile and Flower Honey Illuminating Conditioner",
@@ -22477,8 +22416,8 @@
 {
 "t": "Blade & Shade, Dual Edged Brow Pencil, Up To 16Hr Wear, Smooth-Glide Pigment",
 "u": "https://looliacloset.com/products/nyx-professional-makeup-blade-shade-dual-edged-brow-pencil-up-to-16hr-wear-smooth-glide-pigment",
-"p": 13.26,
-"c": null,
+"p": 10.61,
+"c": 13.26,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Blade_Shade_PDPS_1_Ash_Brown.jpg?v=1759151671&width=400",
 "type": "Brow Pencil",
@@ -23105,7 +23044,7 @@
 "deep cleansing shampoo",
 "detoxifying shampoo"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Kit Vamp! Lash Extender & Mini Multiplay",
@@ -23738,12 +23677,12 @@
 "tags": [
 "All hair types",
 "All scalp types",
+"All_Set",
 "BF_GIFT_SET_2025",
 "BP_France",
 "for-her",
 "for-him",
-"haircare must",
-"PF_mega"
+"haircare must"
 ],
 "in": true
 },
@@ -23816,14 +23755,14 @@
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/23_1_3c875188-b5e1-4fa6-a1ad-e337048639e8.png?v=1763631358&width=400",
 "type": "Skin Care Set",
 "tags": [
+"All_Set",
 "Anti wrinkles",
 "Anti-ageing",
 "anti-pigmentation",
 "BF_GIFT_SET_2025",
 "Blue_Monday26",
 "BP_France",
-"budget60+",
-"christmas-sets-2025"
+"budget60+"
 ],
 "in": true
 },
@@ -24139,9 +24078,9 @@
 "cpd-exc-0426",
 "CPD_ex_626",
 "CPD_ex_april26",
+"cpd_ex_oct26",
 "CPD_EXMay26",
-"CPD_FS26",
-"Discount_26"
+"CPD_FS26"
 ],
 "in": true
 },
@@ -24159,17 +24098,17 @@
 "cpd-exc-0426",
 "CPD_ex_626",
 "CPD_ex_april26",
+"cpd_ex_oct26",
 "CPD_Exclude",
-"CPD_EXMay26",
-"CPD_FS26"
+"CPD_EXMay26"
 ],
 "in": true
 },
 {
 "t": "The Face Glue Primer, Gripping Primer, Up To 24 Hour Hydration",
 "u": "https://looliacloset.com/products/nyx-professional-makeup-the-face-glue-primer-gripping-primer-up-to-24-hour-hydration-up-to-24-hour-makeup-wear-35ml",
-"p": 13.26,
-"c": null,
+"p": 10.61,
+"c": 13.26,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/1-THEFACEGLUEGRIPPINGPRIMER.jpg?v=1760443408&width=400",
 "type": "Primer",
@@ -24188,8 +24127,8 @@
 {
 "t": "Slim Lip Liner Pencil",
 "u": "https://looliacloset.com/products/professional-nyx-makeup-nyx-slim-lip-liner-pencil",
-"p": 5.1,
-"c": null,
+"p": 4.08,
+"c": 5.1,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/2-NYX-SLIMLIPPENCIL-855NUDETRUFFLE.jpg?v=1759413752&width=400",
 "type": "Lip Liner",
@@ -24237,19 +24176,19 @@
 "BP_US",
 "buttermeltstix_bun",
 "CPD_ex_626",
+"cpd_ex_oct26",
 "CPD_FS26",
 "extra20",
 "NYX Professional Makeup",
-"NYX2609",
-"Nyx_>10$"
+"NYX2609"
 ],
 "in": true
 },
 {
 "t": "Liquid Lipstick, Creamy And Matte Finish, Highly Pigmented Colour",
 "u": "https://looliacloset.com/products/nyx-professional-makeup-liquid-lipstick-creamy-and-matte-finish-highly-pigmented-colour-long-lasting-vegan-formula-soft-matte-lip-cream",
-"p": 9.18,
-"c": null,
+"p": 7.34,
+"c": 9.18,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/rome.jpg?v=1760955814&width=400",
 "type": "Lipstick",
@@ -24268,8 +24207,8 @@
 {
 "t": "Smooth Whip Matte Lip Cream, Vegan Liquid Lipstick",
 "u": "https://looliacloset.com/products/nyx-professional-makeup-smooth-whip-matte-lip-cream-vegan-liquid-lipstick",
-"p": 9.18,
-"c": null,
+"p": 7.34,
+"c": 9.18,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/LIP_WHIP_LIP_CREAM__1_latte_foam.jpg?v=1760955029&width=400",
 "type": "Lipstick",
@@ -24297,19 +24236,19 @@
 "BP_US",
 "budget20",
 "CPD_ex_626",
+"cpd_ex_oct26",
 "FEATURED_PRODUCTS",
 "for-her",
 "lip gloss",
-"LIP IV",
-"lip_iv_bundle"
+"LIP IV"
 ],
 "in": true
 },
 {
 "t": "Makeup Setting Spray - Matte Finish, Lightweight, Long-Lasting 60ml",
 "u": "https://looliacloset.com/products/nyx-professional-makeup-makeup-setting-spray-matte-finish-lightweight-long-lasting-extends-makeup-wear-up-to-16-hours-vegan-and-cruelty-free-formula-60ml",
-"p": 11.22,
-"c": null,
+"p": 8.98,
+"c": 11.22,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/1-MAKEUPSETTINGSPRAY-MATTE.jpg?v=1761050449&width=400",
 "type": "Setting Spray",
@@ -24328,8 +24267,8 @@
 {
 "t": "Pore Filler, Makeup Primer Base, Minimised Pores, Even Complexion",
 "u": "https://looliacloset.com/products/nyx-professional-makeup-pore-filler-makeup-primer-base-minimised-pores-even-complexion-light-formula-vegan-formula",
-"p": 18.36,
-"c": null,
+"p": 14.69,
+"c": 18.36,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/1-POREFILLERPRIMER.jpg?v=1761050704&width=400",
 "type": "Primer",
@@ -24360,8 +24299,8 @@
 "budget20",
 "buttermeltstix_bun",
 "CPD_ex_626",
-"FEATURED_PRODUCTS",
-"for-her"
+"cpd_ex_oct26",
+"FEATURED_PRODUCTS"
 ],
 "in": true
 },
@@ -24378,18 +24317,18 @@
 "budget20",
 "concealer",
 "CPD_ex_626",
+"cpd_ex_oct26",
 "FEATURED_PRODUCTS",
 "for-her",
-"Mascara_Concealer",
-"New In Makeup"
+"Mascara_Concealer"
 ],
 "in": true
 },
 {
 "t": "Fat Cheeks Juicy Blush, Liquid Blush, 12 HR Wear",
 "u": "https://looliacloset.com/products/nyx-professional-makeup-fat-cheeks-juicy-blush-liquid-blush-12-hr-wear-product-does-not-fade",
-"p": 12.24,
-"c": null,
+"p": 9.79,
+"c": 12.24,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/2-NYX-FAT_BLUSH-02-FIG_FIZZ.jpg?v=1760952551&width=400",
 "type": "Blush",
@@ -24408,8 +24347,8 @@
 {
 "t": "Lift & Snatch! Brow Tint Pen",
 "u": "https://looliacloset.com/products/nyx-professional-makeup-lift-snatch-brow-tint-pen",
-"p": 13.26,
-"c": null,
+"p": 10.61,
+"c": 13.26,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Lift_Snatch_PDPS_1_gray_black.jpg?v=1761045515&width=400",
 "type": "Brow Pencil",
@@ -24437,19 +24376,19 @@
 "BP_US",
 "budget20",
 "CPD_ex_626",
+"cpd_ex_oct26",
 "CPD_FS26",
 "FEATURED_PRODUCTS",
 "for-her",
-"lip balm",
-"New In Makeup"
+"lip balm"
 ],
 "in": true
 },
 {
 "t": "Fat Oil Slick Click Shiny Lip Balm",
 "u": "https://looliacloset.com/products/nyx-professional-makeup-fat-oil-slick-click-shiny-lip-balm",
-"p": 13.26,
-"c": null,
+"p": 10.61,
+"c": 13.26,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/2-Fat_Oil_Slick_Click-Going_Viral.jpg?v=1759147208&width=400",
 "type": "Lip Balm",
@@ -24468,8 +24407,8 @@
 {
 "t": "Line Loud Lip Liner Pencil, Magic Maker",
 "u": "https://looliacloset.com/products/nyx-professional-makeup-line-loud-lip-liner-pencil-magic-maker",
-"p": 10.2,
-"c": null,
+"p": 8.16,
+"c": 10.2,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/LineLoud_1totalballer.jpg?v=1759923945&width=400",
 "type": "Lip Liner",
@@ -24488,8 +24427,8 @@
 {
 "t": "Duck Plump Plumping Lip Liner, Up To 10 HR Wear, Matte Finish",
 "u": "https://looliacloset.com/products/nyx-professional-makeup-duck-plump-plumping-lip-liner-lip-liner-up-to-10-hr-wear-matte-finish",
-"p": 12.24,
-"c": null,
+"p": 9.79,
+"c": 12.24,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/2-DuckPlumpLinerNyx-SwollenSpice.jpg?v=1759926307&width=400",
 "type": "lip liner",
@@ -24503,13 +24442,13 @@
 "NYX Professional Makeup",
 "NYX2609"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Fat Oil Lip Drip, Moisturizing, Shiny, Vegan Tinted Lip Gloss, Non-Sticky Finish, 12H Hydration",
 "u": "https://looliacloset.com/products/nyx-professional-makeup-fat-oil-lip-drip-moisturizing-shiny-vegan-tinted-lip-gloss-non-sticky-finish-12h-hydration-squalane-raspberry-and-cloudberry-oils",
-"p": 11.22,
-"c": null,
+"p": 8.98,
+"c": 11.22,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Fat_Oil_Lip_drip_1_My_main_01.jpg?v=1759929384&width=400",
 "type": "Lip Oil",
@@ -24528,8 +24467,8 @@
 {
 "t": "Control Freak Eyebrow Gel, 01",
 "u": "https://looliacloset.com/products/nyx-professional-makeup-control-freak-eyebrow-gel-01",
-"p": 8.16,
-"c": null,
+"p": 6.53,
+"c": 8.16,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/ControlFreakPDPS_1.jpg?v=1760101300&width=400",
 "type": "Brow Gel",
@@ -24548,8 +24487,8 @@
 {
 "t": "Duck Plump Lip Plumping Lacquer, High Pigment, High Shine, High Sparkle Lip Gloss",
 "u": "https://looliacloset.com/products/nyx-professional-makeup-duck-plump-lip-plumping-lacquer-high-pigment-high-shine-high-sparkle-lip-gloss",
-"p": 15.3,
-"c": null,
+"p": 12.24,
+"c": 15.3,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/2-DUCKPLUMPLIPPLUMPING-CLEARLYSPICY.jpg?v=1759755799&width=400",
 "type": "Lip Gloss",
@@ -24568,8 +24507,8 @@
 {
 "t": "Butter Gloss, Non-Sticky Lip Gloss, Buttery Soft, Silky Smooth And Creamy, Sheer To Medium Coverage",
 "u": "https://looliacloset.com/products/nyx-professional-makeup-butter-gloss-non-sticky-lip-gloss-buttery-soft-silky-smooth-and-creamy-sheer-to-medium-coverage",
-"p": 8.16,
-"c": null,
+"p": 6.53,
+"c": 8.16,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/ButterGloss_1praline16.jpg?v=1759839324&width=400",
 "type": "Lip Gloss",
@@ -24588,8 +24527,8 @@
 {
 "t": "Marshmellow Setting Spray - No Fading, Sweeping Or Dispensing Fixing Spray",
 "u": "https://looliacloset.com/products/nyx-professional-makeup-marshmellow-setting-spray-no-fading-sweeping-or-dispensing-fixing-spray-60ml",
-"p": 12.24,
-"c": null,
+"p": 9.79,
+"c": 12.24,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Marshmellow_Setting_Spray_-_No_Fading_Sweeping_Or_Dispensing_Fixing_Spray.png?v=1759151056&width=400",
 "type": "Setting Spray",
@@ -24608,8 +24547,8 @@
 {
 "t": "Dewy Finish, Lightweight And Extends Makeup Wear Up To 16 Hours",
 "u": "https://looliacloset.com/products/nyx-professional-makeup-dewy-finish-lightweight-and-extends-makeup-wear-up-to-16-hours-makeup-long-lasting-setting-spray-02-dewy-finish-60-ml",
-"p": 11.22,
-"c": null,
+"p": 8.98,
+"c": 11.22,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/1-MAKEUPSETTINGSPRAY-DEWY.jpg?v=1760442050&width=400",
 "type": "Setting Spray",
@@ -24628,8 +24567,8 @@
 {
 "t": "Nyx Professional Makeup Blurring Pore Filler, Face Primer Stick, Vitamin E Infused, Clear",
 "u": "https://looliacloset.com/products/nyx-professional-makeup-blurring-pore-filler-face-primer-stick-vitamin-e-infused-clear",
-"p": 11.22,
-"c": null,
+"p": 8.98,
+"c": 11.22,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/1-POREFILLERSTICK.jpg?v=1760443960&width=400",
 "type": "Primer",
@@ -24648,8 +24587,8 @@
 {
 "t": "Plump Right Back Serum And Primer",
 "u": "https://looliacloset.com/products/nyx-professional-makeup-plump-right-back-serum-and-primer",
-"p": 20.4,
-"c": null,
+"p": 16.32,
+"c": 20.4,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/1-PLUMRIGHTBACKPRIMER.jpg?v=1760444317&width=400",
 "type": "Primer",
@@ -24668,8 +24607,8 @@
 {
 "t": "The Marshmellow Primer Set, Skin-Focused Primer For Smooth & Even Complexion",
 "u": "https://looliacloset.com/products/nyx-professional-makeup-the-marshmellow-primer-set-makeup-primer-base-skin-focused-primer-for-smooth-even-complexion-marshmallow-root-vegan-formula",
-"p": 20.4,
-"c": null,
+"p": 16.32,
+"c": 20.4,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/1-THEMARSHMELLOWPRIMER.jpg?v=1760697617&width=400",
 "type": "Primer",
@@ -24688,8 +24627,8 @@
 {
 "t": "Can'T Stop Won'T Stop Mattifying Pressed Powder",
 "u": "https://looliacloset.com/products/nyx-professional-makeup-cant-stop-wont-stop-mattifying-pressed-powder",
-"p": 12.24,
-"c": null,
+"p": 9.79,
+"c": 12.24,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Can_t_Stop_Won_t_Stop_1_light_02_75d46d47-7541-4413-b6de-210e9e32efae.jpg?v=1760445739&width=400",
 "type": "Powder",
@@ -24718,18 +24657,18 @@
 "budget20",
 "contour",
 "CPD_ex_626",
+"cpd_ex_oct26",
 "CPD_FS26",
 "FEATURED_PRODUCTS",
-"for-her",
-"New In Makeup"
+"for-her"
 ],
 "in": true
 },
 {
 "t": "Buttermelt Glaze Soft Glow Skin Tint  SPF30, Foundation, 12H Wear",
 "u": "https://looliacloset.com/products/nyx-professional-makeup-buttermelt-glaze-soft-glow-skin-tint-spf-fps-30-foundation-12h-wear",
-"p": 18.36,
-"c": null,
+"p": 14.69,
+"c": 18.36,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/1-NYX-BUTTERMELT_GLAZE_TINT-03_CASHEW_BUTTA.jpg?v=1759756888&width=400",
 "type": "Foundation",
@@ -24748,8 +24687,8 @@
 {
 "t": "Bare with Me Blur Tint Foundation, Medium Coverage, 12 Hours Hydrating",
 "u": "https://looliacloset.com/products/nyx-professional-makeup-blurring-tint-foundation-medium-coverage-matte-finish-with-niacinamide-matcha-and-glycerin-12-hours-hydrating",
-"p": 14.79,
-"c": null,
+"p": 11.83,
+"c": 14.79,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/1-NYX-BAREWITHMEBLURTINTFOUNDATION-05VANILLA.jpg?v=1759832080&width=400",
 "type": "Foundation",
@@ -24768,8 +24707,8 @@
 {
 "t": "Can't Stop Won't Stop Contour Concealer, 24H Full Coverage Matte Finish",
 "u": "https://looliacloset.com/products/nyx-professional-makeup-cant-stop-wont-stop-contour-concealer-24h-full-coverage-matte-finish",
-"p": 12.24,
-"c": null,
+"p": 9.79,
+"c": 12.24,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/2-_NYX-_CAN_T_STOP_WON_T_STOP_CONCEALER-_04_LIGHT_IVORY.jpg?v=1759838021&width=400",
 "type": "Concealer",
@@ -24788,8 +24727,8 @@
 {
 "t": "Bare With Me Concealer Serum, For Face & Body, Up to 24HR Hydration For Skin",
 "u": "https://looliacloset.com/products/nyx-professional-makeup-bare-with-me-concealer-serum-hydrating-natural-medium-coverage-concealer-for-face-body-upto-24hr-hydration-for-skin",
-"p": 14.28,
-"c": null,
+"p": 11.42,
+"c": 14.28,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/3-_NYX-_BARE_WITH_ME_SERUM_CONCEALER-_02_LIGHT.jpg?v=1759762970&width=400",
 "type": "Concealer",
@@ -24808,8 +24747,8 @@
 {
 "t": "Wonder Stick Blush, With Hyaluronic Acid For Hydration, Blendable Texture, Vegan",
 "u": "https://looliacloset.com/products/nyx-professional-makeup-blush-with-hyaluronic-acid-for-hydration-blendable-texture-vegan-wonder-stick",
-"p": 16.32,
-"c": null,
+"p": 13.06,
+"c": 16.32,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Wonder_Stick_Blush_9_Coral_N_Deep_peach_03.jpg?v=1760615113&width=400",
 "type": "Blush",
@@ -24840,16 +24779,16 @@
 "budget20",
 "buttermeltstix_bun",
 "CPD_ex_626",
-"CPD_FS26",
-"Epic_Inky"
+"cpd_ex_oct26",
+"CPD_FS26"
 ],
-"in": true
+"in": false
 },
 {
 "t": "On The Rise Volume Liftscara Mascara",
 "u": "https://looliacloset.com/products/nyx-professional-makeup-on-the-rise-volume-liftscara-mascara",
-"p": 15.3,
-"c": null,
+"p": 12.24,
+"c": 15.3,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/OnTheRiseVolume_1ontherise.jpg?v=1760620460&width=400",
 "type": "Mascara",
@@ -24868,8 +24807,8 @@
 {
 "t": "Ultimate Shadow Palette",
 "u": "https://looliacloset.com/products/nyx-professional-makeup-ultimate-shadow-palette",
-"p": 30.6,
-"c": null,
+"p": 24.48,
+"c": 30.6,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/3-_NYX_-_ULTIMATE_SHADOW_PALETTE_-_01_VINTAGE_JEAN_BABY.jpg?v=1760621100&width=400",
 "type": "Eyeshadow",
@@ -24888,8 +24827,8 @@
 {
 "t": "Ultimate Glow Shots, Brightening Liquid Eyeshadow",
 "u": "https://looliacloset.com/products/nyx-professional-makeup-ultimate-glow-shots-brightening-liquid-eyeshadow",
-"p": 12.24,
-"c": null,
+"p": 9.79,
+"c": 12.24,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Glow_Shots_Liquid_Eyeshadow_1_pear_15.jpg?v=1760686957&width=400",
 "type": "Eyeshadow",
@@ -24917,19 +24856,19 @@
 "BP_US",
 "budget20",
 "CPD_ex_626",
+"cpd_ex_oct26",
 "CPD_FS26",
 "Eyeliner",
 "FEATURED_PRODUCTS",
-"for-her",
-"New In Makeup"
+"for-her"
 ],
 "in": false
 },
 {
 "t": "Vivid Brights Colored Liquid Eyeliner",
 "u": "https://looliacloset.com/products/nyx-professional-makeup-vivid-brights-colored-liquid-eyeliner",
-"p": 10.2,
-"c": null,
+"p": 8.16,
+"c": 10.2,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Vivid_Bright_1_cyan_simp_01.jpg?v=1760689317&width=400",
 "type": "Eyeliner",
@@ -24957,19 +24896,19 @@
 "BP_US",
 "budget20",
 "CPD_ex_626",
+"cpd_ex_oct26",
 "CPD_FS26",
 "extra20",
 "eyeliner",
-"for-her",
-"NYX Professional Makeup"
+"for-her"
 ],
 "in": true
 },
 {
 "t": "Epic Wear Liquid Liner, Long-Lasting Waterproof Eyeliner",
 "u": "https://looliacloset.com/products/nyx-professional-makeup-epic-wear-liquid-liner-long-lasting-waterproof-eyeliner",
-"p": 12.75,
-"c": null,
+"p": 10.2,
+"c": 12.75,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/1-Epic_Wear_Liquid_Liners-Black.jpg?v=1760691736&width=400",
 "type": "Eyeliner",
@@ -24988,8 +24927,8 @@
 {
 "t": "Epic Wear Liner Stick, Long-Lasting Eyeliner Pencil",
 "u": "https://looliacloset.com/products/nyx-professional-makeup-epic-wear-liner-stick-long-lasting-eyeliner-pencil",
-"p": 9.69,
-"c": null,
+"p": 7.75,
+"c": 9.69,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/1-EpicWearLinerStick-AllTimeOlive.jpg?v=1760103686&width=400",
 "type": "Eyeliner",
@@ -25008,8 +24947,8 @@
 {
 "t": "Epic Smoke Liner Blendable Eyeliner Stick, Vegan Formula",
 "u": "https://looliacloset.com/products/nyx-professional-makeup-epic-smoke-liner-blendable-eyeliner-stick-vegan-formula",
-"p": 12.75,
-"c": null,
+"p": 10.2,
+"c": 12.75,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/3-Epic_Smoke_Liner-Black_Smoke.jpg?v=1760692302&width=400",
 "type": "Eyeliner",
@@ -25028,8 +24967,8 @@
 {
 "t": "Epic Ink Liner, Waterproof Liquid Eyeliner, Vegan Formula, Intense Pigment",
 "u": "https://looliacloset.com/products/nyx-professional-makeup-epic-ink-liner-waterproof-liquid-eyeliner-vegan-formula-intense-pigment",
-"p": 12.75,
-"c": null,
+"p": 10.2,
+"c": 12.75,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/3-Epic_Ink_Eyeliner-Black.jpg?v=1760693546&width=400",
 "type": "Eyeliner",
@@ -25048,8 +24987,8 @@
 {
 "t": "Zero To Brow Longwear Brow Gel, Transfer-Resistant, Fade-Resistant",
 "u": "https://looliacloset.com/products/nyx-professional-makeup-zero-to-brow-longwear-brow-gel-transfer-resistant-fade-resistant-and-smudge-resistant-vegan",
-"p": 13.26,
-"c": null,
+"p": 10.61,
+"c": 13.26,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/2-NYX-_ZERO_TO_BROW_GEL_-_TAUPE.jpg?v=1760694367&width=400",
 "type": "Brow Gel",
@@ -25068,8 +25007,8 @@
 {
 "t": "Thick It Stick It! Brow Gel",
 "u": "https://looliacloset.com/products/nyx-professional-makeup-thick-it-stick-it-brow-gel",
-"p": 13.26,
-"c": null,
+"p": 10.61,
+"c": 13.26,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/3-_NYX_-_THICK_IT_STICK_IT_BROW_MASCARA_-_01_TAUPE.jpg?v=1760695552&width=400",
 "type": "Brow Gel",
@@ -25099,9 +25038,9 @@
 "brows",
 "budget20",
 "CPD_ex_626",
+"cpd_ex_oct26",
 "CPD_FS26",
-"Epic_Inky",
-"extra20"
+"Epic_Inky"
 ],
 "in": true
 },
@@ -25118,18 +25057,18 @@
 "brows",
 "budget20",
 "CPD_ex_626",
+"cpd_ex_oct26",
 "CPD_FS26",
 "eyebrow pencil",
-"for-her",
-"NYX"
+"for-her"
 ],
 "in": true
 },
 {
 "t": "Micro Brow Pencil, Ultra-Fine, Dual-Ended, Precise Eyebrow Pencil",
 "u": "https://looliacloset.com/products/nyx-professional-makeup-micro-brow-pencil-ultra-fine-dual-ended-precise-eyebrow-pencil-with-retractable-tip-and-spoolie-brush",
-"p": 11.22,
-"c": null,
+"p": 8.98,
+"c": 11.22,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/1-MICROBROWPENCIL-ESPRESSO_1e08166c-d9f5-4be1-aace-86bbb373e9f9.jpg?v=1759831032&width=400",
 "type": "Brow Pencil",
@@ -25148,8 +25087,8 @@
 {
 "t": "Fill & Fluff Eyebrow Pomade Pencil",
 "u": "https://looliacloset.com/products/nyx-professional-makeup-fill-fluff-eyebrow-pomade-pencil",
-"p": 13.26,
-"c": null,
+"p": 10.61,
+"c": 13.26,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/3-_NYX-_FILL_FLUFF_EYEBROW-04_CHOCOLATE.jpg?v=1759932832&width=400",
 "type": "Brow Pencil",
@@ -26693,8 +26632,8 @@
 {
 "t": "Hyaluron Expert Replumping Face Serum, with 1.5% Hyaluronic Acid, for Fine Lines Reduction, Hydration and Youthful Looking Skin , 30ml",
 "u": "https://looliacloset.com/products/loreal-hyaluron-expert-1-5-hyaluronic-acid-serum",
-"p": 14.9,
-"c": null,
+"p": 11.92,
+"c": 14.9,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/loreal-paris-hyaluron-expert-serum-001.jpg?v=1774941945&width=400",
 "type": "Face Serum",
@@ -27799,7 +27738,7 @@
 "FEATURED_PRODUCTS",
 "glow-shine"
 ],
-"in": true
+"in": false
 },
 {
 "t": "345 Relief Cream",
@@ -27819,7 +27758,7 @@
 "COSRX_SOMEBYMI",
 "discount-20-and-under"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Re-Nutriv Ultimate Lift Regenerating Youth Eye Cream Rich",
@@ -27994,10 +27933,10 @@
 "budget<10",
 "CPD_ALL",
 "CPD_ex_626",
+"cpd_ex_oct26",
 "CPD_Exclude",
 "CPD_FS26",
-"Discount_26",
-"EX_CPD"
+"Discount_26"
 ],
 "in": false
 },
@@ -28264,8 +28203,8 @@
 {
 "t": "Lifter Gloss Lip Gloss Makeup with Hyaluronic Acid for smooth and hydrated lips",
 "u": "https://looliacloset.com/products/maybelline-lifter-lip-gloss",
-"p": 10.0,
-"c": null,
+"p": 8.0,
+"c": 10.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Maybelline_New_York_-_Lifter_Gloss_Lip_Gloss_Makeup_with_Hyaluronic_Acid_for_smooth_and_hydrated_lips_-_Ice.jpg?v=1752477827&width=400",
 "type": "Lip Gloss",
@@ -31483,7 +31422,7 @@
 "Black Friday | Up To 50%",
 "Blue_Monday26"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Kelual Squanorm Anti-Dandruff Treatment Shampoo - Dry Dandruff",
@@ -31503,7 +31442,7 @@
 "Black Friday | Up To 50%",
 "Blue_Monday26"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Anacaps Tri-Activ Food Supplement For Hair, Scalp And Nails",
@@ -31543,7 +31482,7 @@
 "Black Friday | Up To 40%",
 "Black Friday | Up To 50%"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Creastim Reactiv Anti-Hair Loss Lotion",
@@ -31908,8 +31847,8 @@
 {
 "t": "UV Defender Invisible Resist, SPF50+ Daily Sunscreen, with Long UVA Protection, For All Skin Types, 50ml",
 "u": "https://looliacloset.com/products/loreal-uv-defender-invisible-resist-spf50-sunscreen",
-"p": 14.5,
-"c": null,
+"p": 11.6,
+"c": 14.5,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/loreal-paris-uv-defender-001.jpg?v=1774944960&width=400",
 "type": "Sunscreen",
@@ -32606,8 +32545,8 @@
 {
 "t": "Fast Clear Gentle Cleanser Hydrating Face Wash",
 "u": "https://looliacloset.com/products/gar-pa-deep-clns-foam-pb250ml-gb-ar",
-"p": 8.5,
-"c": null,
+"p": 6.8,
+"c": 8.5,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/1-GentleCleanser.jpg?v=1758610827&width=400",
 "type": "Skincare",
@@ -32646,8 +32585,8 @@
 {
 "t": "Super UV Anti-Acne SPF50+ Sunscreen – 12H Oil Control",
 "u": "https://looliacloset.com/products/garnier-super-uv-aa30ml-serum-en-ar",
-"p": 11.5,
-"c": null,
+"p": 9.2,
+"c": 11.5,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/1-SuperUVAcneSerum.jpg?v=1756991963&width=400",
 "type": "Sunscreen",
@@ -33286,8 +33225,8 @@
 {
 "t": "L’Oréal Paris Makeup Infaillible 32H Freshwear Liquid Foundation, Vitamin C,  SPF25",
 "u": "https://looliacloset.com/products/loreal-paris-infaillible-32h-fresh-wear-foundation",
-"p": 17.12,
-"c": null,
+"p": 13.7,
+"c": 17.12,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/15_c17431a9-65b6-4132-afd6-8835de6d8a81.png?v=1756283435&width=400",
 "type": "Foundation",
@@ -33869,14 +33808,14 @@
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/8436591928072-600x600_a344aa11-a4f8-48dc-8a6a-d1c840b0fd32.jpg?v=1755075422&width=400",
 "type": "Body Skin Care Set",
 "tags": [
+"All_Set",
 "Body Sponge",
 "budget20",
 "eid-offers-1",
 "Eid_offer26",
 "Fall_Into_Hydra",
 "for-her",
-"IDC Institute",
-"Kids_Teens"
+"IDC Institute"
 ],
 "in": true
 },
@@ -33969,13 +33908,13 @@
 "type": "Skin Care Set",
 "tags": [
 "A8_upto40",
+"All_Set",
 "budget20-40",
 "christmas-sets-2025",
 "Fall_Into_Hydra",
 "Featured Products",
 "for-her",
-"IDC Institute",
-"Kids_Teens"
+"IDC Institute"
 ],
 "in": true
 },
@@ -34176,7 +34115,7 @@
 "Skin Glow Edit",
 "Treat&Conceal"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Unicorn Hydrating Eye Mask",
@@ -34794,8 +34733,8 @@
 {
 "t": "Fast Bright Vitamin C Water Gel Moisturizer, 48 Hours Hydration Anti Dark Spots",
 "u": "https://looliacloset.com/products/fast-bright-vitamin-c-water-gel-moisturizer-48-hours-hydration-anti-dark-spots",
-"p": 7.56,
-"c": null,
+"p": 6.05,
+"c": 7.56,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/AquaGelpdps-01.jpg?v=1754904828&width=400",
 "type": "Face Cream",
@@ -34848,8 +34787,8 @@
 {
 "t": "Essie Color - Liquid Sunrise, Salon-Quality Nail Polish, Vegan formula for flawless coverage, easy-glide brush",
 "u": "https://looliacloset.com/products/essie-color-liquid-sunrise-salon-quality-nail-polish-vegan-formula-for-flawless-coverage-easy-glide-brush",
-"p": 7.68,
-"c": null,
+"p": 6.14,
+"c": 7.68,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/EssieBohoPdps_LiquidSunrise-8_930a3c16-5267-4a19-9598-f7f96029bbce.jpg?v=1754644868&width=400",
 "type": "Nail Color",
@@ -34868,8 +34807,8 @@
 {
 "t": "Essie Color - Charm To Stable, Salon-Quality Nail Polish, Vegan formula for flawless coverage, easy-glide brush",
 "u": "https://looliacloset.com/products/essie-color-charm-to-stable-salon-quality-nail-polish-vegan-formula-for-flawless-coverage-easy-glide-brush",
-"p": 7.68,
-"c": null,
+"p": 6.14,
+"c": 7.68,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/EssieBohoPdps_CharmtoStable-1.jpg?v=1754644035&width=400",
 "type": "Nail Color",
@@ -34888,8 +34827,8 @@
 {
 "t": "Essie Color - Fringes & Saddles, Salon-Quality Nail Polish, Vegan formula for flawless coverage, easy-glide brush",
 "u": "https://looliacloset.com/products/essie-color-fringes-saddles-salon-quality-nail-polish-vegan-formula-for-flawless-coverage-easy-glide-brush",
-"p": 7.68,
-"c": null,
+"p": 6.14,
+"c": 7.68,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/EssieBohoPdps_Fringes_Saddle-7.jpg?v=1754643573&width=400",
 "type": "Nail Color",
@@ -34908,8 +34847,8 @@
 {
 "t": "Essie Color - Sepia Retreat, Salon-Quality Nail Polish, Vegan formula for flawless coverage, easy-glide brush",
 "u": "https://looliacloset.com/products/essie-color-sepia-retreat-salon-quality-nail-polish-vegan-formula-for-flawless-coverage-easy-glide-brush",
-"p": 7.68,
-"c": null,
+"p": 6.14,
+"c": 7.68,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/EssieBohoPdps_SepiaRetreat-6.jpg?v=1754643089&width=400",
 "type": "Nail Color",
@@ -34928,8 +34867,8 @@
 {
 "t": "Essie Color - Boho Rodeo, Salon-Quality Nail Polish, Vegan formula for flawless coverage, easy-glide brush",
 "u": "https://looliacloset.com/products/essie-color-boho-rodeo-salon-quality-nail-polish-vegan-formula-for-flawless-coverage-easy-glide-brush",
-"p": 7.68,
-"c": null,
+"p": 6.14,
+"c": 7.68,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/EssieBohoPdps_BohoRodeo-5.jpg?v=1754642543&width=400",
 "type": "Nail Color",
@@ -34948,8 +34887,8 @@
 {
 "t": "Essie Color - Save A Cowboy, Salon-Quality Nail Polish, Vegan formula for flawless coverage, easy-glide brush",
 "u": "https://looliacloset.com/products/essie-color-save-a-cowboy-salon-quality-nail-polish-vegan-formula-for-flawless-coverage-easy-glide-brush",
-"p": 7.68,
-"c": null,
+"p": 6.14,
+"c": 7.68,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/EssieBohoPdps_SaveaCowboy-4.jpg?v=1754641847&width=400",
 "type": "Nail Color",
@@ -34968,8 +34907,8 @@
 {
 "t": "Essie Color - Too Hot To Tame, Salon-Quality Nail Polish, Vegan formula for flawless coverage, easy-glide brush",
 "u": "https://looliacloset.com/products/essie-color-too-hot-to-tame-salon-quality-nail-polish-vegan-formula-for-flawless-coverage-easy-glide-brush",
-"p": 7.68,
-"c": null,
+"p": 6.14,
+"c": 7.68,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/EssieBohoPdps_TooHotToTame-2.jpg?v=1754641480&width=400",
 "type": "Nail Color",
@@ -34988,8 +34927,8 @@
 {
 "t": "Essie Color - Barn Boheme, Salon-Quality Nail Polish, Vegan formula for flawless coverage, easy-glide brush",
 "u": "https://looliacloset.com/products/essie-color-barn-boheme-salon-quality-nail-polish-vegan-formula-for-flawless-coverage-easy-glide-brush",
-"p": 7.68,
-"c": null,
+"p": 6.14,
+"c": 7.68,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/EssieBohoPdps_BarnBoheme-3.jpg?v=1754641093&width=400",
 "type": "Nail Color",
@@ -35008,8 +34947,8 @@
 {
 "t": "Infallible Laque Resistance Liquid Lipstick",
 "u": "https://looliacloset.com/products/infallible-laque-resistance-liquid-lipstick",
-"p": 14.5,
-"c": null,
+"p": 11.6,
+"c": 14.5,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/InfallibleLaqueResistance420.jpg?v=1754555020&width=400",
 "type": "Lipstick",
@@ -35174,14 +35113,14 @@
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/PradaIntense.jpg?v=1753792656&width=400",
 "type": "Fragrance Set",
 "tags": [
+"All_Set",
 "Blue_Monday26",
 "BP_Italy",
 "budget>100",
 "check-sets",
 "christmas-sets-2025",
 "discount-20-and-under",
-"Fragrance Set",
-"LLD_21.07.2025"
+"Fragrance Set"
 ],
 "in": true
 },
@@ -35194,14 +35133,14 @@
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Prada_8998a170-6e25-49f3-8819-28ff21b4d254.jpg?v=1753791886&width=400",
 "type": "Fragrance Set",
 "tags": [
+"All_Set",
 "Blue_Monday26",
 "BP_Italy",
 "budget>100",
 "check-sets",
 "christmas-sets-2025",
 "discount-20-and-under",
-"Eid_offer26",
-"Fragrance Set"
+"Eid_offer26"
 ],
 "in": true
 },
@@ -36678,8 +36617,8 @@
 {
 "t": "Lumi Le Liquid Blush with a Glowy Radiant Natural Blush Finish, Weightless and Buildable",
 "u": "https://looliacloset.com/products/lumi-le-liquid-blush-with-a-glowy-radiant-natural-blush-finish-weightless-and-buildable",
-"p": 13.5,
-"c": null,
+"p": 10.8,
+"c": 13.5,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/L_Oreal_Paris_Lumi_Blush_625.png?v=1752135463&width=400",
 "type": "Blush",
@@ -37398,8 +37337,8 @@
 {
 "t": "Super UV Invisible Air Mist Face & Body Sunscreen To Correct And Protect Your Skin With SPF 50+",
 "u": "https://looliacloset.com/products/super-uv-invisible-air-mist-face-body-sunscreen",
-"p": 11.1,
-"c": null,
+"p": 8.88,
+"c": 11.1,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/1_5efbf9ff-4ec5-49f7-b3de-2a05013c1167.jpg?v=1752067578&width=400",
 "type": "Sunscreen",
@@ -38421,13 +38360,13 @@
 "type": "Skin Care Set",
 "tags": [
 "A8_upto60",
+"All_Set",
 "BP_US",
 "budget50_100",
 "budget60+",
 "check-sets",
 "christmas-sets-2025",
-"discount-20-and-under",
-"for-her"
+"discount-20-and-under"
 ],
 "in": true
 },
@@ -38441,13 +38380,13 @@
 "type": "Skin Care Set",
 "tags": [
 "A8_upto40",
+"All_Set",
 "BF_GIFT_SET_2025",
 "BP_US",
 "budget50_100",
 "budget60+",
 "check-sets",
-"christmas-sets-2025",
-"discount-20-and-under"
+"christmas-sets-2025"
 ],
 "in": true
 },
@@ -39354,8 +39293,8 @@
 {
 "t": "Sunkisser 12H Longwear Multi-use Matte Liquid Blush, Bronzer, Blendable, Buildable",
 "u": "https://looliacloset.com/products/sunkisser-12h-longwear-multi-use-matte-liquid-blush-bronzer-blendable-buildable",
-"p": 10.8,
-"c": null,
+"p": 8.64,
+"c": 10.8,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/30PinkMirageHazyMatteSunkisserArtboard1-100.jpg?v=1750418470&width=400",
 "type": "Blush",
@@ -39574,8 +39513,8 @@
 {
 "t": "Essie Color - Jelly Slushy Sun 136",
 "u": "https://looliacloset.com/products/jelly-136-slush",
-"p": 7.49,
-"c": null,
+"p": 5.99,
+"c": 7.49,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/EssieSlushySunArtboard31_1-100.jpg?v=1748520684&width=400",
 "type": "Nail Color",
@@ -39594,8 +39533,8 @@
 {
 "t": "Essie Color - Bikini Snapped 45",
 "u": "https://looliacloset.com/products/toppers-45-bikini",
-"p": 7.68,
-"c": null,
+"p": 6.14,
+"c": 7.68,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/EssieBikiniSnappedArtboard31copy-100.jpg?v=1748518588&width=400",
 "type": "Nail Color",
@@ -39614,8 +39553,8 @@
 {
 "t": "Essie Color - Riviera Rush 1000",
 "u": "https://looliacloset.com/products/1000-riviera-rush",
-"p": 7.49,
-"c": null,
+"p": 5.99,
+"c": 7.49,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/EssieRivieraRushArtboard26_1-100.jpg?v=1748517950&width=400",
 "type": "Nail Color",
@@ -39634,8 +39573,8 @@
 {
 "t": "Essie Color - Limon Cielo 999",
 "u": "https://looliacloset.com/products/999-limon-cielo",
-"p": 7.49,
-"c": null,
+"p": 5.99,
+"c": 7.49,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/EssieLimonCieloArtboard21-100.jpg?v=1748517131&width=400",
 "type": "Nail Color",
@@ -39654,8 +39593,8 @@
 {
 "t": "Essie Color - Identity Illusion 7",
 "u": "https://looliacloset.com/products/7-identity-illu",
-"p": 7.49,
-"c": null,
+"p": 5.99,
+"c": 7.49,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/EssieIdentityIllusionArtboard16-100.jpg?v=1748514690&width=400",
 "type": "Nail Color",
@@ -39674,8 +39613,8 @@
 {
 "t": "Essie Color - This and That 994",
 "u": "https://looliacloset.com/products/994-this-and-that",
-"p": 7.49,
-"c": null,
+"p": 5.99,
+"c": 7.49,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/EssieThisandThatArtboard11-100.jpg?v=1748517478&width=400",
 "type": "Nail Color",
@@ -39694,8 +39633,8 @@
 {
 "t": "Essie Color - Be Them All 993",
 "u": "https://looliacloset.com/products/essie-993-be-them-all",
-"p": 7.68,
-"c": null,
+"p": 6.14,
+"c": 7.68,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/EssieBeThemAllArtboard6-100.jpg?v=1748509657&width=400",
 "type": "Nail Color",
@@ -39714,8 +39653,8 @@
 {
 "t": "Essie Color - New Day New  991",
 "u": "https://looliacloset.com/products/991-new-day",
-"p": 7.68,
-"c": null,
+"p": 6.14,
+"c": 7.68,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/EssieNewDayArtboard1-100.jpg?v=1748507099&width=400",
 "type": "Nail Color",
@@ -39752,26 +39691,6 @@
 "in": false
 },
 {
-"t": "Lotus Brow & Lash Transparent Gel Mini Mascara",
-"u": "https://looliacloset.com/products/lotus-brow-lash-transparent-gel-mini-mascara",
-"p": 4.14,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Samoa_Cosmetics_Lotus_Brow_Lash_Transparent_Gel_Mini_Mascara.jpg?v=1727159034&width=400",
-"type": "Mascara",
-"tags": [
-"BP_Lebanon",
-"budget<10",
-"Casual_Makeup",
-"discount-20-and-under",
-"Everything Except LID LLD",
-"Makeup",
-"Mascara",
-"Mascara_Concealer"
-],
-"in": false
-},
-{
 "t": "Luna Rossa Ocean Parfum Set",
 "u": "https://looliacloset.com/products/l-homme-and-luna-rossa-ocean-parfum-parfum-v100-v10-h24",
 "p": 182.56,
@@ -39794,8 +39713,8 @@
 {
 "t": "Sunkisser Multi-Use Liquid Blush And Bronzer",
 "u": "https://looliacloset.com/products/sunkisser-multi-use-liquid-blush-and-bronzer",
-"p": 10.8,
-"c": null,
+"p": 8.64,
+"c": 10.8,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Maybelline_New_York_-_Sunkisser_Multi-Use_Liquid_Blush_And_Bronzer_-_02_Uptown_Glow.jpg?v=1747299032&width=400",
 "type": "Blush",
@@ -40129,7 +40048,7 @@
 "Gliss | Palette",
 "Halloween 2025"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Gliss Shampoo Ultimate Repair",
@@ -40234,8 +40153,8 @@
 {
 "t": "Glycolic Bright Anti-Dark Spot Daily UV Fluid, SPF 50+ with [Glycolic Acid + Niacinamide], 50ml",
 "u": "https://looliacloset.com/products/loreal-glycolic-bright-uv-fluid-spf50-dark-spots",
-"p": 14.28,
-"c": null,
+"p": 11.42,
+"c": 14.28,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/loreal-paris-glycolic-bright-uv-fluid-001.jpg?v=1774944289&width=400",
 "type": "Sunscreen",
@@ -40254,8 +40173,8 @@
 {
 "t": "Infallible 24H Tinted Serum with 1% Hyaluronic Acid for Radiant Hydrated Skin, Light to Medium Coverage, 30ml",
 "u": "https://looliacloset.com/products/infallible-24h-tinted-serum-with-1-hyaluronic-acid-for-radiant-hydrated-skin-light-to-medium-coverage-30ml",
-"p": 18.0,
-"c": null,
+"p": 14.4,
+"c": 18.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/L_OrealParisInfallible24HTintedS00erumShadeVeryLight0.5-2.jpg?v=1746774324&width=400",
 "type": "Foundation",
@@ -40319,14 +40238,14 @@
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/I9A3158F_copy_1600x1600_crop_center_9ecac319-b762-4562-8e79-d713f6b880b9.jpg?v=1747661122&width=400",
 "type": "Body Skin Care Set",
 "tags": [
+"All_Set",
 "BP_Lebanon",
 "budget60+",
 "christmas-sets-2025",
 "Fall_Into_Hydra",
 "Father's Day",
 "for-her",
-"for-him",
-"Kiehl Sampling Campaign"
+"for-him"
 ],
 "in": true
 },
@@ -41208,8 +41127,8 @@
 {
 "t": "To the Rescue UV Gel Damage Repair Treatment",
 "u": "https://looliacloset.com/products/to-the-rescue-uv-gel-damage-repair-treatment",
-"p": 8.52,
-"c": null,
+"p": 6.82,
+"c": 8.52,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/EssietotherescueArtboard2-100.jpg?v=1747319240&width=400",
 "type": "Nail Care",
@@ -41223,13 +41142,13 @@
 "Essie",
 "for-her"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Ambre Solaire Sensitive Advanced SPF 50+ Ceramide Protect Sunscreen Spray For Adults",
 "u": "https://looliacloset.com/products/ambre-solaire-sensitive-advanced-spf-50-ceramide-protect-sunscreen-spray-for-adults",
-"p": 12.25,
-"c": null,
+"p": 9.8,
+"c": 12.25,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/1_92d1d3d6-6c6c-4ba2-9e01-dff5ed8aa791.jpg?v=1747138620&width=400",
 "type": "Body Sunscreen",
@@ -43241,8 +43160,8 @@
 {
 "t": "Glycolic Bright Face Serum, With 8% [Melasyl ™ + Glycolic Acid + Niacinamide], for Dark Spots and Brightening 30ml",
 "u": "https://looliacloset.com/products/loreal-glycolic-bright-serum-8-dark-spots",
-"p": 14.9,
-"c": null,
+"p": 11.92,
+"c": 14.9,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/loreal-paris-glycolic-bright-serum-001.jpg?v=1774943013&width=400",
 "type": "Face Serum",
@@ -44301,8 +44220,8 @@
 {
 "t": "Plump Ambition Hyaluron Lip Oil, 24HR Hydration and Volumizing Shine",
 "u": "https://looliacloset.com/products/oap-plump-ambition",
-"p": 13.8,
-"c": null,
+"p": 11.04,
+"c": 13.8,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/PA_worth_it.jpg?v=1746425045&width=400",
 "type": "Lip Oil",
@@ -44887,14 +44806,14 @@
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/ANY_2_31.png?v=1792420049&width=400",
 "type": "Skin Care Set",
 "tags": [
+"All_Set",
 "BF_GIFT_SET_2025",
 "BP_France",
 "budget50_100",
 "check-sets",
 "christmas-sets-2025",
 "discount-20-and-under",
-"Kiehl Sampling Campaign",
-"LANC_25"
+"Kiehl Sampling Campaign"
 ],
 "in": true
 },
@@ -45001,8 +44920,8 @@
 {
 "t": "Super Stay Lumi-Matte, Light As Air Foundation - 30H Longwear",
 "u": "https://looliacloset.com/products/super-stay-lumi-matte-light-as-air-foundation-30h-longwear-1",
-"p": 14.0,
-"c": null,
+"p": 11.2,
+"c": 14.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Maybelline_New_York_-_Super_Stay_Lumi-Matte_Light_As_Air_Foundation_-_30H_Longwear_-_128.jpg?v=1747240406&width=400",
 "type": "Foundation",
@@ -45946,14 +45865,14 @@
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/20816661_fpx.jpg?v=1742546366&width=400",
 "type": "Fragrance Set",
 "tags": [
+"All_Set",
 "BF_2025",
 "BF_GIFT_SET_2025",
 "BP_US",
 "budget50_100",
 "Calvin Klein",
 "check-sets",
-"christmas-sets-2025",
-"CK_DAVIDOFF"
+"christmas-sets-2025"
 ],
 "in": true
 },
@@ -46048,12 +45967,12 @@
 "tags": [
 "A8_KB_10",
 "A8_Kbeauty",
+"All_Set",
 "BP_SouthKorea",
 "budget20-40",
 "budget20_50",
 "christmas-sets-2025",
-"COSRX_SOMEBYMI",
-"discount-20-and-under"
+"COSRX_SOMEBYMI"
 ],
 "in": true
 },
@@ -46300,8 +46219,8 @@
 {
 "t": "3-in-1 Refreshing and Moisturizing Micellar Water, Cleanse, Remove Makeup and Soothe, for Sensitive and Normal to Dry Skin, 400ml",
 "u": "https://looliacloset.com/products/loreal-micellar-water-3-in-1-makeup-remover",
-"p": 7.8,
-"c": null,
+"p": 6.24,
+"c": 7.8,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/loreal-paris-micellar-3in1-001.jpg?v=1774882529&width=400",
 "type": "Makeup Remover",
@@ -46320,8 +46239,8 @@
 {
 "t": "3-in-1 Bi-Phase Micellar Water, Deeply Cleanse, Remove Water Proof Makeup and Soothe, for All Skin Types and Sensitive Skin, 400ml",
 "u": "https://looliacloset.com/products/loreal-bi-phase-micellar-water-waterproof-makeup",
-"p": 9.0,
-"c": null,
+"p": 7.2,
+"c": 9.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/loreal-paris-micellar-water-oil-001.jpg?v=1774883337&width=400",
 "type": "Makeup Remover",
@@ -46335,13 +46254,13 @@
 "Micellar Water",
 "OAP_5_26"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Color Protect Hair Mask",
 "u": "https://looliacloset.com/products/color-protect-hair-mask",
-"p": 5.08,
-"c": null,
+"p": 4.06,
+"c": 5.08,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/color-protect-mask-jar.jpg?v=1742892522&width=400",
 "type": "Hair Mask",
@@ -46640,8 +46559,8 @@
 {
 "t": "Super UV Invisible Serum Sunscreen",
 "u": "https://looliacloset.com/products/super-uv-invisible-serum-sunscreen",
-"p": 11.9,
-"c": null,
+"p": 9.52,
+"c": 11.9,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Garnier_-_Super_UV_Invisible_Serum_Sunscreen.jpg?v=1759227638&width=400",
 "type": "Sunscreen",
@@ -47775,7 +47694,7 @@
 "Day4_Ramadan",
 "discount-20-to-30"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Mela B3 Dark Spot Serum with Melasyl™ + Niacinamide",
@@ -51059,8 +50978,8 @@
 {
 "t": "Essie Color - No To Do 897",
 "u": "https://looliacloset.com/products/essie-color-no-to-do-897",
-"p": 7.68,
-"c": null,
+"p": 6.14,
+"c": 7.68,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Essie_Color_-_No_To_Do_897_1.jpg?v=1741621542&width=400",
 "type": "Nail Color",
@@ -51079,8 +50998,8 @@
 {
 "t": "Essie Color - Bacherlorette Bash 702",
 "u": "https://looliacloset.com/products/essie-color-bacherlorette-bash-30",
-"p": 7.68,
-"c": null,
+"p": 6.14,
+"c": 7.68,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Essie_Color_-_Bacherlorette_Bash_702_2.jpg?v=1741353423&width=400",
 "type": "Nail Color",
@@ -51099,8 +51018,8 @@
 {
 "t": "Essie Color - Demure 40",
 "u": "https://looliacloset.com/products/essie-color-demure-40",
-"p": 7.68,
-"c": null,
+"p": 6.14,
+"c": 7.68,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Essie_Color_-_Demure_40_2.jpg?v=1741353472&width=400",
 "type": "Nail Color",
@@ -53124,7 +53043,7 @@
 "Hair Care",
 "Hair Week | Casual Haircare"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Shampoo Force & Eclat 300ml",
@@ -53144,7 +53063,7 @@
 "Hair Care",
 "Hair Week | Casual Haircare"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Deep Clean Gel Wash Normal/Oily Skin",
@@ -55449,8 +55368,8 @@
 {
 "t": "Lash Sensational Firework Mascara",
 "u": "https://looliacloset.com/products/lash-sensational-firework-waterproof-mascara-makeup",
-"p": 13.0,
-"c": null,
+"p": 10.4,
+"c": 13.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/1-FireworkMascara_faffc554-cc8c-42a0-bc3f-2328fdf45e9a.jpg?v=1747982121&width=400",
 "type": "Mascara",
@@ -56327,26 +56246,6 @@
 "in": false
 },
 {
-"t": "Pack 5+1 Never Nude Tropical Breeze",
-"u": "https://looliacloset.com/products/pack-5-1-never-nude-tropical-breeze",
-"p": 16.1,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Samoa_Cosmetics_-_Pack_5_1_Never_Nude_Tropical_Breeze.jpg?v=1748266450&width=400",
-"type": "Nail Color",
-"tags": [
-"BP_Lebanon",
-"budget10_20",
-"discount-20-and-under",
-"Makeup",
-"Nail Color",
-"Samoa Cosmetics",
-"Samoa Cosmetics | Black Friday Offer",
-"Samoa Cosmetics | Christmas Bundles 2024"
-],
-"in": false
-},
-{
 "t": "* Juicy Bomb Christmas Shiny Lipgloss Set",
 "u": "https://looliacloset.com/products/juicy-bomb-christmas-shiny-lipgloss-set",
 "p": 9.0,
@@ -57143,6 +57042,206 @@
 "budget20_50",
 "check-sets",
 "Christmas Sets | Haircare 2024"
+],
+"in": false
+},
+{
+"t": "* Jasmin Mini body Set",
+"u": "https://looliacloset.com/products/bee-merry-jasmin-mini-body-set",
+"p": 17.48,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2298/5927/files/ApivitaSet-CaringLavender_1.jpg?v=1733479723&width=400",
+"type": "Body Skin Care Set",
+"tags": [
+"Apivita",
+"Apivita_Sets",
+"BF_2025",
+"BF_GIFT_SET_2025",
+"budget10_20",
+"budget20",
+"check-sets",
+"christmas-sets-2025"
+],
+"in": false
+},
+{
+"t": "* Body Treat Honey",
+"u": "https://looliacloset.com/products/body-treat-honey",
+"p": 16.0,
+"c": 32.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2298/5927/files/ApivitaSet-Honey.jpg?v=1733476154&width=400",
+"type": "Body Skin Care Set",
+"tags": [
+"Apivita",
+"Apivita_Sets",
+"BF_2025",
+"BF_GIFT_SET_2025",
+"budget20-40",
+"budget20_50",
+"check-sets",
+"christmas-sets-2025"
+],
+"in": false
+},
+{
+"t": "A Kiss on the Hand Honey",
+"u": "https://looliacloset.com/products/a-kiss-on-the-hand-honey",
+"p": 14.26,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Bronze_4.jpg?v=1733413542&width=400",
+"type": "Body Skin Care Set",
+"tags": [
+"Apivita",
+"Apivita_Sets",
+"BF_2025",
+"BF_GIFT_SET_2025",
+"budget10_20",
+"check-sets",
+"christmas-sets-2025",
+"Day21_Ramadan"
+],
+"in": false
+},
+{
+"t": "* A Kiss On The Hand  Hypericum",
+"u": "https://looliacloset.com/products/a-kiss-on-the-hand-hyper",
+"p": 16.77,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Bronze_3.jpg?v=1733413463&width=400",
+"type": "Body Skin Care Set",
+"tags": [
+"Apivita",
+"Apivita_Sets",
+"BF_2025",
+"BF_GIFT_SET_2025",
+"budget10_20",
+"budget20",
+"check-sets",
+"christmas-sets-2025"
+],
+"in": false
+},
+{
+"t": "* A Kiss on the Hand Jasmin",
+"u": "https://looliacloset.com/products/a-kiss-on-the-hand-jasmin",
+"p": 12.78,
+"c": 15.97,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Bronze_5.jpg?v=1733413668&width=400",
+"type": "Body Skin Care Set",
+"tags": [
+"A8_upto30",
+"All_Set",
+"Apivita",
+"Apivita_Sets",
+"BF_2025",
+"BF_GIFT_SET_2025",
+"budget10_20",
+"budget20"
+],
+"in": true
+},
+{
+"t": "* Hydration Mini Moisturizing Shampoo",
+"u": "https://looliacloset.com/products/secret-santa-hydration-shampoo",
+"p": 14.9,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Hydration_Mini_Moisturizing_Shampoo.png?v=1748339264&width=400",
+"type": "Shampoo",
+"tags": [
+"Apivita",
+"Apivita_Sets",
+"BF_2025",
+"budget10_20",
+"budget20",
+"check-sets",
+"Christmas Sets | Haircare 2024",
+"christmas-sets-2025"
+],
+"in": true
+},
+{
+"t": "* Tonic Mountain Tea Mini Shower Gel",
+"u": "https://looliacloset.com/products/secret-santa-body-mountain-tea",
+"p": 11.12,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Tonic_Mountain_Tea_Mini_Shower_Gel.png?v=1748339336&width=400",
+"type": "Shower Gel",
+"tags": [
+"Apivita",
+"Apivita_Sets",
+"BF_2025",
+"budget20",
+"budget<10",
+"check-sets",
+"christmas-sets-2025",
+"Day21_Ramadan"
+],
+"in": true
+},
+{
+"t": "* Body Treat Lavender Set",
+"u": "https://looliacloset.com/products/body-treat-lavender-set",
+"p": 20.38,
+"c": 29.11,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2298/5927/files/ApivitaSet-CaringLavender.jpg?v=1733477876&width=400",
+"type": "Body Skin Care Set",
+"tags": [
+"A8_upto40",
+"All_Set",
+"Apivita",
+"Apivita_Sets",
+"BF_2025",
+"BF_GIFT_SET_2025",
+"budget20-40",
+"budget20_50"
+],
+"in": true
+},
+{
+"t": "* Mountain Tea Mini body Set",
+"u": "https://looliacloset.com/products/bee-merry-mountain-tea-mini-body-set",
+"p": 13.77,
+"c": 18.36,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2298/5927/files/ApivitaSet-CaringLavender_2.jpg?v=1733481473&width=400",
+"type": "Body Skin Care Set",
+"tags": [
+"Apivita",
+"Apivita_Sets",
+"BF_2025",
+"BF_GIFT_SET_2025",
+"budget10_20",
+"budget20",
+"check-sets",
+"christmas-sets-2025"
+],
+"in": false
+},
+{
+"t": "* Body Treat Jasmin",
+"u": "https://looliacloset.com/products/body-treat-jasmin",
+"p": 23.99,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2298/5927/files/ApivitaSet-Jasmin.jpg?v=1733475198&width=400",
+"type": "Body Skin Care Set",
+"tags": [
+"Apivita",
+"Apivita_Sets",
+"BF_2025",
+"BF_GIFT_SET_2025",
+"budget10_20",
+"budget20-40",
+"check-sets",
+"christmas-sets-2025"
 ],
 "in": false
 }
