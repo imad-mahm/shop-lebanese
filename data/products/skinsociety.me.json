@@ -1,5 +1,41 @@
 [
 {
+"t": "The October Reset Package",
+"u": "https://skinsociety.me/products/the-october-reset-package",
+"p": 80.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/Artboard2copy30_a33f61bc-d392-4925-8d38-588000d3d553.jpg?v=1792584576&width=400",
+"type": "Services",
+"tags": [
+"Aesthetic Services",
+"Brand_Skin Time",
+"No-Sync",
+"Service"
+],
+"in": true
+},
+{
+"t": "Ultra Doux - Avocado & Shea butter Shampoo & Pure Avocado and Shea Butter - Hair Nourisher",
+"u": "https://skinsociety.me/products/ultra-doux-avocado-shea-butter-shampoo-pure-avocado-and-shea-butter-hair-nourisher",
+"p": 9.56,
+"c": 11.25,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/Artboard4_2x-100_3543800b-9583-4c6d-8e41-223dea9f988f.jpg?v=1792501743&width=400",
+"type": "Casual",
+"tags": [
+"Brand_Garnier",
+"Bundle",
+"Casual",
+"Casual Hair Care",
+"Category_Hair Expert",
+"Hair Expert",
+"Item Type_Shampoo",
+"No-Sync"
+],
+"in": true
+},
+{
 "t": "Garnier Colorful Bandana - Gift",
 "u": "https://skinsociety.me/products/garnier-colorful-bandana-gift",
 "p": 0.0,
@@ -912,7 +948,7 @@
 "POSM",
 "SEARCH_IGNORE"
 ],
-"in": true
+"in": false
 },
 {
 "t": "PDRN Pink Tone up Sun Cream SPF50+ - Gift",
@@ -1401,7 +1437,7 @@
 "Loyalty Program",
 "new arrivals"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Phyto Phytophanere Serum Growth",
@@ -2237,7 +2273,7 @@
 "Sub Category_Sun Care",
 "Sun Care"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Uriage Glow Up Water Essence Duo",
@@ -3418,7 +3454,7 @@
 "tags": [
 "No-Sync"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Kérastase Genesis Anti Hair-Fall Fortifying Serum - Gift",
@@ -4275,7 +4311,7 @@
 "Pain & Cramps",
 "Parapharmacy"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Moringa Oleifera",
@@ -5978,12 +6014,12 @@
 "Sub Category_Treatments",
 "Treatments"
 ],
-"in": false
+"in": true
 },
 {
 "t": "PCA Skin Pigment Bar",
 "u": "https://skinsociety.me/products/pca-skin-pigment-bar",
-"p": 72.0,
+"p": 72.15,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/812025010373.jpg?v=1789558697&width=400",
@@ -5998,7 +6034,7 @@
 "Sub Category_Treatments",
 "Treatments"
 ],
-"in": false
+"in": true
 },
 {
 "t": "PCA Skin Hyaluronic Acid Boosting Serum",
@@ -7403,7 +7439,7 @@
 "Eyeshadow",
 "Fragrances"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Fast Clear Micellar Water with Salicylic Acid for Acne Prone Skin & Skin Active Fast Bright Vitamin C + Niacinamide 30x Brightening Booster Day Serum",
@@ -8049,7 +8085,7 @@
 "Product Type_Blood Sugar Control",
 "Sub Category_Food Supplements"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Double Wood Magnesium Glycinate 400Mg",
@@ -9047,7 +9083,7 @@
 "korean",
 "Medicube"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Zero Pore One day Serum",
@@ -9147,7 +9183,7 @@
 "K-Secret",
 "korean"
 ],
-"in": true
+"in": false
 },
 {
 "t": "The Retinol 0.3 Cream",
@@ -9587,7 +9623,7 @@
 "Loyalty Program",
 "Luxury"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Scandal For Women Eau De Parfum",
@@ -9946,7 +9982,7 @@
 "Item Type_Face Masks",
 "korean"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Azelaic Acid 16 BB Calming Serum",
@@ -12124,7 +12160,7 @@
 "3282770206784",
 "3282770206784-32656189620317"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Color Enhancing Shampoo with Pomegranate - Color-Treated Hair",
@@ -13229,7 +13265,7 @@
 "new arrivals",
 "No-Sync"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Hair Honey Treasures Trio - Repairing Serum, Shampoo & Conditioner",
@@ -13709,7 +13745,7 @@
 "Loyalty Program",
 "Medicube"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Red Acne Body Wash",
@@ -13949,7 +13985,7 @@
 "Item Type_Day & Night Care",
 "korean"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Collagen Glow Sunscreen",
@@ -14269,7 +14305,7 @@
 "face wash",
 "Face Wash & Cleansers"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Low pH Good Morning Gel Cleanser",
@@ -14529,7 +14565,7 @@
 "Item Type_Eye Patches",
 "korean"
 ],
-"in": true
+"in": false
 },
 {
 "t": "EGF NAD Firming Gel Mask (4ea)",
@@ -19419,7 +19455,7 @@
 "Item Type_Day & Night Care",
 "Loyalty Program"
 ],
-"in": false
+"in": true
 },
 {
 "t": "CeraVe Invisible Hydrating Fluid Sunscreen SPF50 50ml",
@@ -20272,7 +20308,7 @@
 "Parapharmacy",
 "Product Type_Immunity Weakness"
 ],
-"in": false
+"in": true
 },
 {
 "t": "GNC Glutathione 250 Mg",
@@ -21032,7 +21068,7 @@
 "Casual",
 "Casual Make Up"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Flower by Kenzo - Eau de Toilette",
@@ -23808,7 +23844,7 @@
 "SubCategory_Value Deals",
 "Value Deal"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Vitamin C Micellar Water Facial Brightening Cleanser and Makeup Remover Duo",
@@ -26197,7 +26233,7 @@
 "Product Type_Sleeping & Stress Disorder",
 "Sleeping & Stress Disorder"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Sleep Regimen 3 In 1",
@@ -26237,7 +26273,7 @@
 "Parapharmacy",
 "Product Type_Memory & Concentration"
 ],
-"in": false
+"in": true
 },
 {
 "t": "NOW Psyllium Husk 500 Mg",
@@ -26257,7 +26293,7 @@
 "Parapharmacy",
 "Product Type_Digestive Problems"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Phosphatidyl Serine 300 Mg",
@@ -26297,7 +26333,7 @@
 "Slimming & Firming",
 "Sub Category_Food Supplements"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Chlorophyll Liquid",
@@ -26357,7 +26393,7 @@
 "Product Type_Slimming & Firming",
 "Slimming & Firming"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Probiotic-10 25 Billion",
@@ -26397,7 +26433,7 @@
 "Parapharmacy",
 "Product Type_Memory & Concentration"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Lash Sensational Sky High Brown Mascara & Lifter Gloss & Lifter Liner Trio",
@@ -26635,7 +26671,7 @@
 "new arrivals",
 "No-Sync"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Gloss Absolu Frizz Glaze Cream",
@@ -28320,7 +28356,7 @@
 "Product Type_Gluten Free",
 "Sub Category_Nutrition"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Gum Protection Toothpaste",
@@ -28500,7 +28536,7 @@
 "Nerves",
 "Parapharmacy"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Elastiderm Facial Serum",
@@ -29428,7 +29464,7 @@
 "Parapharmacy",
 "Product Type_Bones & Osteoporosis"
 ],
-"in": false
+"in": true
 },
 {
 "t": "TMG",
@@ -29548,7 +29584,7 @@
 "Parapharmacy",
 "Product Type_Immunity Weakness"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Turmeric Curcumin + Bioperine",
@@ -29568,7 +29604,7 @@
 "Parapharmacy",
 "Product Type_Joints & Cartilages"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Thyroid Energy",
@@ -29705,7 +29741,7 @@
 "Parapharmacy",
 "Product Type_Pain & Cramps"
 ],
-"in": false
+"in": true
 },
 {
 "t": "NOW Magnesium Citrate 200Mg",
@@ -29725,7 +29761,7 @@
 "Pain & Cramps",
 "Parapharmacy"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Liver Refresh™ Veg Capsules",
@@ -29745,7 +29781,7 @@
 "No-Sync",
 "Parapharmacy"
 ],
-"in": false
+"in": true
 },
 {
 "t": "L-Optizinc 30 Mg",
@@ -29765,7 +29801,7 @@
 "Parapharmacy",
 "Product Type_Immunity Weakness"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Iron Complex",
@@ -29785,7 +29821,7 @@
 "Parapharmacy",
 "Product Type_Anemia"
 ],
-"in": false
+"in": true
 },
 {
 "t": "NOW Vitamin C 1000Mg Zinc Immune",
@@ -29825,7 +29861,7 @@
 "Loyalty Program",
 "Parapharmacy"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Candida Support",
@@ -31747,7 +31783,7 @@
 "Product Type_Foot Health Care",
 "Sub Category_Family Health"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Cushions Insoles Sneakers Women",
@@ -34344,7 +34380,7 @@
 "No-Sync",
 "SAVE20"
 ],
-"in": true
+"in": false
 },
 {
 "t": "White Musk Hair and Body Spray",
@@ -34364,7 +34400,7 @@
 "new arrivals",
 "No-Sync"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Lemongrass Hair and Body Spray",
@@ -37781,7 +37817,7 @@
 {
 "t": "Organic Moringa Powder",
 "u": "https://skinsociety.me/products/organic-moringa-powder",
-"p": 5.25,
+"p": 5.4,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/5285001703753.jpg?v=1772630702&width=400",
@@ -37796,7 +37832,7 @@
 "Product Type_Organic Variety",
 "Sub Category_Nutrition"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Organic Himalayan Salt",
@@ -37816,7 +37852,7 @@
 "Product Type_Organic Variety",
 "Sub Category_Nutrition"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Crea Zero Orange 320 Gr",
@@ -38016,7 +38052,7 @@
 "Category_Skin Care",
 "Loyalty Program"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Oud Body Oil",
@@ -38116,7 +38152,7 @@
 "Category_Skin Care",
 "Loyalty Program"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Shea Almond Milk Body Lotion",
@@ -39339,7 +39375,7 @@
 "Product Type_Organic Variety",
 "Sub Category_Nutrition"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Dark Choco Chips & Cocoa Crunchy Cookies",
@@ -41459,7 +41495,7 @@
 "Sub Category_Dental Care",
 "Toothbrushes"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Complete 8 Charcoal Toothpaste",
@@ -41624,7 +41660,7 @@
 {
 "t": "Liquid Allulose Sweetner",
 "u": "https://skinsociety.me/products/liquid-allulose-sweetner",
-"p": 6.65,
+"p": 6.74,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/5285001705894.jpg?v=1770048178&width=400",
@@ -41639,7 +41675,7 @@
 "Product Type_Diabetic Friendly",
 "Sub Category_Nutrition"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Wraps",
@@ -41839,7 +41875,7 @@
 "Product Type_Diabetic Friendly",
 "Sub Category_Nutrition"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Organic Golden Flaxseeds",
@@ -42259,7 +42295,7 @@
 "Product Type_Healthy Snacking",
 "Sub Category_Nutrition"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Chocolate Hazelnut 18Gr Protein Bar",
@@ -43244,7 +43280,7 @@
 {
 "t": "Organic Soya Protein Chunks",
 "u": "https://skinsociety.me/products/organic-soya-protein-chunks",
-"p": 3.25,
+"p": 3.71,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/5285001703371.jpg?v=1769774247&width=400",
@@ -43259,7 +43295,7 @@
 "Product Type_Organic Variety",
 "Sub Category_Nutrition"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Thyme & Sesame Protein Puffs",
@@ -43679,7 +43715,7 @@
 "Product Type_Healthy Snacking",
 "Sub Category_Nutrition"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Collagen Raspberry Protein Bar",
@@ -45121,7 +45157,7 @@
 "Product Type_Organic Variety",
 "Sub Category_Nutrition"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Organic Crunchy Peanut Butter",
@@ -45201,7 +45237,7 @@
 "Product Type_Organic Variety",
 "Sub Category_Nutrition"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Organic Roasted Peanut",
@@ -45266,7 +45302,7 @@
 {
 "t": "Organic Turmeric",
 "u": "https://skinsociety.me/products/organic-turmeric",
-"p": 3.65,
+"p": 3.79,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/5285001703067.jpg?v=1768235390&width=400",
@@ -45281,7 +45317,7 @@
 "Product Type_Organic Variety",
 "Sub Category_Nutrition"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Natural Xylitol",
@@ -45401,7 +45437,7 @@
 "Product Type_Organic Variety",
 "Sub Category_Nutrition"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Organic Chlorella Powder",
@@ -45441,7 +45477,7 @@
 "Product Type_Organic Variety",
 "Sub Category_Nutrition"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Pimple Clear Patches",
@@ -46268,7 +46304,7 @@
 "Product Type_First Aid",
 "Sub Category_Family Health"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Abdomen 2Pcs (NG-160)",
@@ -46548,7 +46584,7 @@
 "Sub Category_Baby Skin Care",
 "Wipes"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Flexa Elast Skin Color",
@@ -47988,7 +48024,7 @@
 "Product Type_Healthy Snacking",
 "Sub Category_Nutrition"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Organic Original Coconut Bliss",
@@ -48093,7 +48129,7 @@
 {
 "t": "Aktiv Mouthwash",
 "u": "https://skinsociety.me/products/aktiv-mouthwash",
-"p": 5.55,
+"p": 6.1,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/4016369546505.jpg?v=1767018901&width=400",
@@ -48108,7 +48144,7 @@
 "Product Type_Mouthwash",
 "Sub Category_Dental Care"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Herbal Dental Cavity Protection Toothpaste",
@@ -48193,7 +48229,7 @@
 {
 "t": "Lacalut Sensitive Toothpaste",
 "u": "https://skinsociety.me/products/lacalut-sensitive-toothpaste",
-"p": 4.72,
+"p": 5.21,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/4010439201400.jpg?v=1767022561&width=400",
@@ -48208,7 +48244,7 @@
 "Sub Category_Dental Care",
 "Toothpaste"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Complete Fresh Mint Toothpaste",
@@ -53809,7 +53845,7 @@
 "Product Type_Cleaning Equipment",
 "Sub Category_Baby Feeding"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Toothbrush 3-6 Years",
@@ -53889,7 +53925,7 @@
 "Eau De Toilette",
 "Product Type_Eau De Toilette"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Wheat & Fruits 6M+",
@@ -55407,7 +55443,7 @@
 "Item Type_Mascara",
 "Loyalty Program"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Kit Vamp!Sexy Lashes & Skinny Liner",
@@ -55567,7 +55603,7 @@
 "Eyes",
 "For Her"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Kit Vamp! Mascara & Skinny Liner",
@@ -55687,7 +55723,7 @@
 "For Her",
 "Highlighter & Luminizer"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Kit Vamp!All In One & Skinny Liner",
@@ -55707,7 +55743,7 @@
 "Eyes",
 "For Her"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Kit Vamp! Lash Extender & Minimultplay",
@@ -56887,7 +56923,7 @@
 "Product Type_First Aid",
 "Sub Category_Family Health"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Silicone Sandals Strips",
@@ -58622,45 +58658,6 @@
 "No-Sync",
 "SAVE20",
 "SAVE22"
-],
-"in": true
-},
-{
-"t": "Lady Slim Headband 15037",
-"u": "https://skinsociety.me/products/lady-slim-headband-15037",
-"p": 5.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/9310460150377-2.jpg?v=1764169121&width=400",
-"type": "Casual",
-"tags": [
-"Brand_Lady Jayne",
-"Casual",
-"Casual Hair Care",
-"Loyalty Program",
-"new arrivals",
-"No-Sync",
-"SAVE20",
-"SAVE22"
-],
-"in": true
-},
-{
-"t": "Lady Eday Brush Style  7605",
-"u": "https://skinsociety.me/products/lady-eday-brush-style-7605",
-"p": 8.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/9310460576054-1.jpg?v=1764169245&width=400",
-"type": "Casual",
-"tags": [
-"Brand_Lady Jayne",
-"Casual",
-"Casual Hair Care",
-"Hair Brushes",
-"Loyalty Program",
-"No-Sync",
-"Product Type_Hair Brushes"
 ],
 "in": true
 }

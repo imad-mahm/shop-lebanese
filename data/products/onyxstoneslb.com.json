@@ -1081,7 +1081,7 @@
 "onyxstoneslb",
 "rose quartz"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Tiger Eye's pointer Generator",
@@ -1632,7 +1632,7 @@
 "tags": [
 "Pocket Stones"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Bracelet Man Onyx/Labradorite/Hematite 8mm",
@@ -3593,7 +3593,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0094/1925/9959/products/image_b4ffbda6-3be1-4af4-8671-afecbb35d0df.jpg?v=1725559020&width=400",
 "type": "Stones & Crystals",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Amethyst Stone (Uruguay)",

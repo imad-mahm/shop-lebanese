@@ -960,7 +960,7 @@
 "p": 755.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/GOLDEN-MUREX-LOULOU-BRONZE-BOX-CLUTCH-ON-MODEL-2.jpg?v=1779453644&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/MUREX-LOULOU-BRONZE-BOX.jpg?v=1751959080&width=400",
 "type": "Box Clutch",
 "tags": [
 "BAGS",
@@ -1094,7 +1094,7 @@
 "p": 655.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/DRIP-SILVER-BOX-CLUTCH-ON-MODEL-2.jpg?v=1779453390&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/DRIP-SILVER-BOX-CLUTCH-FRONT.jpg?v=1779285448&width=400",
 "type": "Box Clutch",
 "tags": [
 "BAGS",
@@ -2063,17 +2063,6 @@
 "in": true
 },
 {
-"t": "MANDALA PALM MENOTTES WRISTLET",
-"u": "https://sarahsbag.com/products/mandala-palm-menottes-wristlet",
-"p": 675.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/MANDALA-PALM-MENOTTES-WRISTLET-FRONT.jpg?v=1756732716&width=400",
-"type": "Wristlet",
-"tags": [],
-"in": true
-},
-{
 "t": "SAOUDIYAH DIRIYAH PALM GRACE CLUTCH",
 "u": "https://sarahsbag.com/products/saoudiyah-diriyah-palm-grace-clutch",
 "p": 355.0,
@@ -2556,20 +2545,6 @@
 "in": true
 },
 {
-"t": "BIRDS LOG LOVERS",
-"u": "https://sarahsbag.com/products/birds-log-lovers",
-"p": 500.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/BIRDS-LOG-LOVERS-FRONT.jpg?v=1779110753&width=400",
-"type": "Clutch",
-"tags": [
-"Bags",
-"CHIC BRIDESMAID"
-],
-"in": true
-},
-{
 "t": "SUNRISE ON BLUE TRAVEL BAG",
 "u": "https://sarahsbag.com/products/sunrise-on-blue-travel-bag",
 "p": 195.0,
@@ -2933,19 +2908,6 @@
 "in": true
 },
 {
-"t": "MANDALA SILVER CLUTCH",
-"u": "https://sarahsbag.com/products/mandala-silver-clutch",
-"p": 575.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/silver-mandala-back_5a024930-230d-4514-9e98-fa93584fc00a.jpg?v=1773151174&width=400",
-"type": "Clutch",
-"tags": [
-"Bags"
-],
-"in": true
-},
-{
 "t": "KEFFIYEH ANTHRACITE CLASSIC BAG",
 "u": "https://sarahsbag.com/products/keffiyeh-anthracite-classic-bag",
 "p": 335.0,
@@ -3147,20 +3109,6 @@
 "img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/products/wild-mushroom-badge.jpg?v=1697789081&width=400",
 "type": "Badge / Pin",
 "tags": [],
-"in": true
-},
-{
-"t": "THE ADORED GOLD",
-"u": "https://sarahsbag.com/products/the-adored-gold",
-"p": 950.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/the-adored-gold-on-model.jpg?v=1747726299&width=400",
-"type": "Clutch",
-"tags": [
-"Bags",
-"ICONIC BRIDE"
-],
 "in": true
 },
 {
@@ -3777,20 +3725,6 @@
 "in": true
 },
 {
-"t": "BIRDS GOLD LOG LOVERS",
-"u": "https://sarahsbag.com/products/birds-gold-log-lovers",
-"p": 500.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/products/birds-gold-log-lovers.jpg?v=1697789643&width=400",
-"type": "Clutch",
-"tags": [
-"Bags",
-"COUTURE MOM"
-],
-"in": true
-},
-{
 "t": "BEDOUIN METALLIC GRACE CLUTCH",
 "u": "https://sarahsbag.com/products/bedouin-metallic-grace",
 "p": 455.0,
@@ -3888,19 +3822,6 @@
 "tags": [
 "Bags",
 "GLAM GUEST"
-],
-"in": true
-},
-{
-"t": "AFRO MARQUETRY",
-"u": "https://sarahsbag.com/products/afro-marquetry",
-"p": 585.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0828/5483/8550/files/AFRO-MARQUETRY_d2091005-4672-4714-bf20-cecb48ac1042.jpg?v=1717590430&width=400",
-"type": "Box Clutch",
-"tags": [
-"Bags"
 ],
 "in": true
 }

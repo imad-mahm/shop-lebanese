@@ -1,5 +1,65 @@
 [
 {
+"t": "Canadian Jade & Aquamarine Beaded Necklace",
+"u": "https://mukhisisters.com/products/canadian-jade-aquamarine-beaded-necklace",
+"p": 370.0,
+"c": 0.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0604/7255/7703/files/MSP-03854BeadedAquamarineandJadenecklace.png?v=1792578119&width=400",
+"type": "Necklace",
+"tags": [
+"aquamarine",
+"beaded",
+"beaded gems",
+"beads",
+"Canadian jade",
+"diamond",
+"gift",
+"gift for her"
+],
+"in": false
+},
+{
+"t": "Golden Mica and Sunstone Beaded Necklace",
+"u": "https://mukhisisters.com/products/golden-mica-sunstone-beaded-necklace",
+"p": 320.0,
+"c": 0.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0604/7255/7703/files/MSP-03852beadedsunstonenecklace.png?v=1792578061&width=400",
+"type": "Necklace",
+"tags": [
+"beaded",
+"beaded gems",
+"beads",
+"brown",
+"diamond",
+"earth",
+"earthy",
+"gift"
+],
+"in": false
+},
+{
+"t": "Curious Flower Beaded Coral and Aragonite Necklace",
+"u": "https://mukhisisters.com/products/curious-flower-beaded-coral-aragonite-necklace",
+"p": 420.0,
+"c": 0.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0604/7255/7703/files/MSP-03858Beadednecklacewithagateflower.png?v=1792577988&width=400",
+"type": "Necklace",
+"tags": [
+"agate",
+"Aragonite",
+"beaded",
+"beaded gems",
+"beads",
+"coral",
+"fleur",
+"floral"
+],
+"in": true
+},
+{
 "t": "Quartz & Opal Beaded Necklace",
 "u": "https://mukhisisters.com/products/quartz-opal-beaded-necklace",
 "p": 700.0,
@@ -357,7 +417,7 @@
 "fleur",
 "floral"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Wild Orchid Pendant",
@@ -2429,26 +2489,6 @@
 "in": true
 },
 {
-"t": "The World Is My Oyster Ring",
-"u": "https://mukhisisters.com/products/the-world-is-my-oyster-ring",
-"p": 6000.0,
-"c": 0.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0604/7255/7703/files/MSR-02675-1.jpg?v=1725883558&width=400",
-"type": "Ring",
-"tags": [
-"At that moment I felt eternal",
-"atmife",
-"azurite",
-"azurite malachite",
-"blue",
-"diamond",
-"diamonds",
-"earth"
-],
-"in": true
-},
-{
 "t": "Serpent Ring - Mini",
 "u": "https://mukhisisters.com/products/serpent-ring-mini",
 "p": 1345.0,
@@ -2565,26 +2605,6 @@
 "coral",
 "coral orange",
 "dangle"
-],
-"in": true
-},
-{
-"t": "Eternal World Necklace",
-"u": "https://mukhisisters.com/products/eternal-world-necklace",
-"p": 5990.0,
-"c": 0.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0604/7255/7703/files/MSP-02876_1.png?v=1724839235&width=400",
-"type": "Necklace",
-"tags": [
-"18 kt",
-"18 kt gold",
-"18kt",
-"18kt gold",
-"18kt yellow gold",
-"At That Moment I Felt Eternal",
-"ATMIFE",
-"Azurite"
 ],
 "in": true
 },

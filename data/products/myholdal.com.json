@@ -1,5 +1,18 @@
 [
 {
+"t": "ROSE VIBE - SMALL POCHETT",
+"u": "https://myholdal.com/products/rose-vibe-small-pochett",
+"p": 0.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3Z0222000_GWP_TRADE_big_23022026154835.webp?v=1792563250&width=400",
+"type": "",
+"tags": [
+"hide-cart"
+],
+"in": true
+},
+{
 "t": "UV Solutions Brightening+Tinted SPF50 Sunscreen",
 "u": "https://myholdal.com/products/uv-solutions-brightening-tinted-spf50-sunscreen-lebanon",
 "p": 49.0,
@@ -823,7 +836,6 @@
 "tags": [
 "BAGS",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl bags",
 "byl fw26",
 "LEATHER GOODS LUGGAGE",
@@ -843,7 +855,6 @@
 "tags": [
 "BAGS",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl bags",
 "byl fw26",
 "LEATHER GOODS LUGGAGE",
@@ -2665,7 +2676,7 @@
 "COURT SNEAKERS",
 "FW23 20 DISCOUNT"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Juniors' T-Clip Synthetic Trainers - 42Suj0004",
@@ -3049,7 +3060,7 @@
 "CORE FOOTWEAR",
 "FOOTWEAR"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Men's Court Cage Leather Trainers - 41SMA0027",
@@ -5869,7 +5880,7 @@
 "LACOSTE BAGS WOMEN",
 "lacoste end summer sale"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Men's Lacoste Lerond Pro Leather Tricolour Trainers - 45Cma0055407",
@@ -8813,7 +8824,7 @@
 "LACOSTE BF21",
 "LACOSTE CLOTHING MEN SALE"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Men's Lacoste Sport Oversized Crocodile Technical Jersey Tennis T-Shirt - TH3377",
@@ -10085,7 +10096,6 @@
 "tags": [
 "BAGS",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl bags",
 "byl fw26",
 "LEATHER GOODS LUGGAGE",
@@ -10105,7 +10115,6 @@
 "tags": [
 "BAGS",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl bags",
 "byl fw26",
 "LEATHER GOODS LUGGAGE",
@@ -11465,7 +11474,6 @@
 "tags": [
 "BAGS",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl bags",
 "byl fw26",
 "LEATHER GOODS LUGGAGE",
@@ -11484,13 +11492,13 @@
 "type": "EARRINGS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "BYL Jewelry",
 "EARRINGS",
 "JEWELRY",
-"WOMEN"
+"WOMEN",
+"women accessories"
 ],
 "in": true
 },
@@ -11504,13 +11512,13 @@
 "type": "EARRINGS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "BYL Jewelry",
 "EARRINGS",
 "JEWELRY",
-"WOMEN"
+"WOMEN",
+"women accessories"
 ],
 "in": true
 },
@@ -11524,12 +11532,12 @@
 "type": "SNEAKERS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl fw26",
 "byl shoes",
 "FOOTWEAR",
 "SNEAKERS",
 "WOMEN",
+"women shoes",
 "WOMEN SNEAKERS"
 ],
 "in": true
@@ -11544,13 +11552,13 @@
 "type": "EARRINGS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "BYL Jewelry",
 "EARRINGS",
 "JEWELRY",
-"WOMEN"
+"WOMEN",
+"women accessories"
 ],
 "in": true
 },
@@ -11564,13 +11572,13 @@
 "type": "RINGS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "BYL Jewelry",
 "JEWELRY",
 "RINGS",
-"WOMEN"
+"WOMEN",
+"women accessories"
 ],
 "in": true
 },
@@ -11584,13 +11592,13 @@
 "type": "RINGS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "BYL Jewelry",
 "JEWELRY",
 "RINGS",
-"WOMEN"
+"WOMEN",
+"women accessories"
 ],
 "in": true
 },
@@ -11604,12 +11612,12 @@
 "type": "NECKLACES",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "JEWELRY",
 "NECKLACES",
 "WOMEN",
+"women accessories",
 "WOMEN NECKLACES"
 ],
 "in": true
@@ -11624,13 +11632,13 @@
 "type": "EARRINGS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "BYL Jewelry",
 "EARRINGS",
 "JEWELRY",
-"WOMEN"
+"WOMEN",
+"women accessories"
 ],
 "in": true
 },
@@ -11644,13 +11652,13 @@
 "type": "RINGS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "BYL Jewelry",
 "JEWELRY",
 "RINGS",
-"WOMEN"
+"WOMEN",
+"women accessories"
 ],
 "in": true
 },
@@ -11665,11 +11673,11 @@
 "tags": [
 "ACCESSORIES",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "SCARVES AND SHAWLS",
 "WOMEN",
+"women accessories",
 "WOMEN SCARVES AND SHAWLS"
 ],
 "in": true
@@ -11684,13 +11692,13 @@
 "type": "EARRINGS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "BYL Jewelry",
 "EARRINGS",
 "JEWELRY",
-"WOMEN"
+"WOMEN",
+"women accessories"
 ],
 "in": true
 },
@@ -11705,11 +11713,11 @@
 "tags": [
 "ACCESSORIES",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "SCARVES AND SHAWLS",
 "WOMEN",
+"women accessories",
 "WOMEN SCARVES AND SHAWLS"
 ],
 "in": false
@@ -11725,11 +11733,11 @@
 "tags": [
 "ACCESSORIES",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "SCARVES AND SHAWLS",
 "WOMEN",
+"women accessories",
 "WOMEN SCARVES AND SHAWLS"
 ],
 "in": true
@@ -11745,11 +11753,11 @@
 "tags": [
 "ACCESSORIES",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "SCARVES AND SHAWLS",
 "WOMEN",
+"women accessories",
 "WOMEN SCARVES AND SHAWLS"
 ],
 "in": true
@@ -11764,13 +11772,13 @@
 "type": "PANTS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl clothing",
 "byl fw26",
+"byl textile",
 "CLOTHING",
 "PANTS",
 "WOMEN",
-"WOMEN PANTS"
+"women clothing"
 ],
 "in": true
 },
@@ -11784,13 +11792,13 @@
 "type": "PANTS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl clothing",
 "byl fw26",
+"byl textile",
 "CLOTHING",
 "PANTS",
 "WOMEN",
-"WOMEN PANTS"
+"women clothing"
 ],
 "in": true
 },
@@ -11804,13 +11812,13 @@
 "type": "PANTS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl clothing",
 "byl fw26",
+"byl textile",
 "CLOTHING",
 "PANTS",
 "WOMEN",
-"WOMEN PANTS"
+"women clothing"
 ],
 "in": true
 },
@@ -11824,13 +11832,13 @@
 "type": "PANTS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl clothing",
 "byl fw26",
+"byl textile",
 "CLOTHING",
 "PANTS",
 "WOMEN",
-"WOMEN PANTS"
+"women clothing"
 ],
 "in": true
 },
@@ -11844,13 +11852,13 @@
 "type": "JEANS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl clothing",
 "byl fw26",
+"byl textile",
 "CLOTHING",
 "PANTS",
 "WOMEN",
-"WOMEN PANTS"
+"women clothing"
 ],
 "in": true
 },
@@ -11864,13 +11872,13 @@
 "type": "JEANS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl clothing",
 "byl fw26",
+"byl textile",
 "CLOTHING",
 "PANTS",
 "WOMEN",
-"WOMEN PANTS"
+"women clothing"
 ],
 "in": true
 },
@@ -11884,13 +11892,13 @@
 "type": "JEANS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl clothing",
 "byl fw26",
+"byl textile",
 "CLOTHING",
 "PANTS",
 "WOMEN",
-"WOMEN PANTS"
+"women clothing"
 ],
 "in": true
 },
@@ -11904,13 +11912,13 @@
 "type": "JEANS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl clothing",
 "byl fw26",
+"byl textile",
 "CLOTHING",
 "PANTS",
 "WOMEN",
-"WOMEN PANTS"
+"women clothing"
 ],
 "in": true
 },
@@ -11925,11 +11933,11 @@
 "tags": [
 "ACCESSORIES",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "SCARVES AND SHAWLS",
 "WOMEN",
+"women accessories",
 "WOMEN SCARVES AND SHAWLS"
 ],
 "in": true
@@ -11944,13 +11952,13 @@
 "type": "PANTS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl clothing",
 "byl fw26",
+"byl textile",
 "CLOTHING",
 "PANTS",
 "WOMEN",
-"WOMEN PANTS"
+"women clothing"
 ],
 "in": true
 },
@@ -11964,13 +11972,13 @@
 "type": "PANTS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl clothing",
 "byl fw26",
+"byl textile",
 "CLOTHING",
 "PANTS",
 "WOMEN",
-"WOMEN PANTS"
+"women clothing"
 ],
 "in": true
 },
@@ -11984,13 +11992,13 @@
 "type": "EARRINGS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "BYL Jewelry",
 "EARRINGS",
 "JEWELRY",
-"WOMEN"
+"WOMEN",
+"women accessories"
 ],
 "in": true
 },
@@ -12005,12 +12013,12 @@
 "tags": [
 "BIMBA Y LOLA FW26",
 "BRACELETS",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "BYL Jewelry",
 "JEWELRY",
-"WOMEN"
+"WOMEN",
+"women accessories"
 ],
 "in": true
 },
@@ -12025,7 +12033,6 @@
 "tags": [
 "BAGS",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl bags",
 "byl fw26",
 "LEATHER GOODS LUGGAGE",
@@ -12045,7 +12052,6 @@
 "tags": [
 "BAGS",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl bags",
 "byl fw26",
 "LEATHER GOODS LUGGAGE",
@@ -12064,12 +12070,12 @@
 "type": "WALLETS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "SMALL LEATHER GOODS",
 "WALLETS",
 "WOMEN",
+"women accessories",
 "WOMEN WALLETS"
 ],
 "in": true
@@ -12085,7 +12091,6 @@
 "tags": [
 "BAGS",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl bags",
 "byl fw26",
 "LEATHER GOODS LUGGAGE",
@@ -12105,12 +12110,12 @@
 "tags": [
 "BIMBA Y LOLA FW26",
 "BRACELETS",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "BYL Jewelry",
 "JEWELRY",
-"WOMEN"
+"WOMEN",
+"women accessories"
 ],
 "in": true
 },
@@ -12124,12 +12129,12 @@
 "type": "NECKLACES",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "JEWELRY",
 "NECKLACES",
 "WOMEN",
+"women accessories",
 "WOMEN NECKLACES"
 ],
 "in": true
@@ -12144,13 +12149,13 @@
 "type": "JACKETS AND COATS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl clothing",
 "byl fw26",
+"byl textile",
 "CLOTHING",
 "JACKETS AND COATS",
 "WOMEN",
-"WOMEN JACKETS AND COATS"
+"women clothing"
 ],
 "in": true
 },
@@ -12164,13 +12169,13 @@
 "type": "T-SHIRTS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl clothing",
 "byl fw26",
+"byl textile",
 "CLOTHING",
 "T-SHIRTS",
 "WOMEN",
-"WOMEN T-SHIRTS"
+"women clothing"
 ],
 "in": true
 },
@@ -12184,13 +12189,13 @@
 "type": "JACKETS AND COATS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl clothing",
 "byl fw26",
+"byl textile",
 "CLOTHING",
 "JACKETS AND COATS",
 "WOMEN",
-"WOMEN JACKETS AND COATS"
+"women clothing"
 ],
 "in": true
 },
@@ -12205,11 +12210,11 @@
 "tags": [
 "ACCESSORIES",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "SCARVES AND SHAWLS",
 "WOMEN",
+"women accessories",
 "WOMEN SCARVES AND SHAWLS"
 ],
 "in": true
@@ -12225,12 +12230,12 @@
 "tags": [
 "BIMBA Y LOLA FW26",
 "BRACELETS",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "BYL Jewelry",
 "JEWELRY",
-"WOMEN"
+"WOMEN",
+"women accessories"
 ],
 "in": true
 },
@@ -12244,13 +12249,13 @@
 "type": "PANTS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl clothing",
 "byl fw26",
+"byl textile",
 "CLOTHING",
 "PANTS",
 "WOMEN",
-"WOMEN PANTS"
+"women clothing"
 ],
 "in": true
 },
@@ -12265,11 +12270,11 @@
 "tags": [
 "ACCESSORIES",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "SCARVES AND SHAWLS",
 "WOMEN",
+"women accessories",
 "WOMEN SCARVES AND SHAWLS"
 ],
 "in": true
@@ -12285,11 +12290,11 @@
 "tags": [
 "ACCESSORIES",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "SCARVES AND SHAWLS",
 "WOMEN",
+"women accessories",
 "WOMEN SCARVES AND SHAWLS"
 ],
 "in": true
@@ -12305,11 +12310,11 @@
 "tags": [
 "ACCESSORIES",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "CAPS AND HATS",
 "WOMEN",
+"women accessories",
 "WOMEN CAPS AND HATS"
 ],
 "in": true
@@ -12325,11 +12330,11 @@
 "tags": [
 "ACCESSORIES",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "SCARVES AND SHAWLS",
 "WOMEN",
+"women accessories",
 "WOMEN SCARVES AND SHAWLS"
 ],
 "in": true
@@ -12344,12 +12349,12 @@
 "type": "NECKLACES",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "JEWELRY",
 "NECKLACES",
 "WOMEN",
+"women accessories",
 "WOMEN NECKLACES"
 ],
 "in": true
@@ -12365,11 +12370,11 @@
 "tags": [
 "ACCESSORIES",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "SCARVES AND SHAWLS",
 "WOMEN",
+"women accessories",
 "WOMEN SCARVES AND SHAWLS"
 ],
 "in": true
@@ -12385,11 +12390,11 @@
 "tags": [
 "ACCESSORIES",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "SCARVES AND SHAWLS",
 "WOMEN",
+"women accessories",
 "WOMEN SCARVES AND SHAWLS"
 ],
 "in": true
@@ -12405,11 +12410,11 @@
 "tags": [
 "ACCESSORIES",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "SCARVES AND SHAWLS",
 "WOMEN",
+"women accessories",
 "WOMEN SCARVES AND SHAWLS"
 ],
 "in": true
@@ -12425,7 +12430,6 @@
 "tags": [
 "BAGS",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl bags",
 "byl fw26",
 "LEATHER GOODS LUGGAGE",
@@ -12444,12 +12448,12 @@
 "type": "NECKLACES",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "JEWELRY",
 "NECKLACES",
 "WOMEN",
+"women accessories",
 "WOMEN NECKLACES"
 ],
 "in": true
@@ -12465,11 +12469,11 @@
 "tags": [
 "ACCESSORIES",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "SCARVES AND SHAWLS",
 "WOMEN",
+"women accessories",
 "WOMEN SCARVES AND SHAWLS"
 ],
 "in": true
@@ -12484,12 +12488,12 @@
 "type": "NECKLACES",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "JEWELRY",
 "NECKLACES",
 "WOMEN",
+"women accessories",
 "WOMEN NECKLACES"
 ],
 "in": true
@@ -12504,12 +12508,12 @@
 "type": "NECKLACES",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "JEWELRY",
 "NECKLACES",
 "WOMEN",
+"women accessories",
 "WOMEN NECKLACES"
 ],
 "in": true
@@ -12525,7 +12529,6 @@
 "tags": [
 "BAGS",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl bags",
 "byl fw26",
 "LEATHER GOODS LUGGAGE",
@@ -12545,7 +12548,6 @@
 "tags": [
 "BAGS",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl bags",
 "byl fw26",
 "LEATHER GOODS LUGGAGE",
@@ -12565,11 +12567,11 @@
 "tags": [
 "ACCESSORIES",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "KEY RINGS",
 "WOMEN",
+"women accessories",
 "WOMEN KEY RINGS"
 ],
 "in": true
@@ -12584,12 +12586,12 @@
 "type": "SNEAKERS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl fw26",
 "byl shoes",
 "FOOTWEAR",
 "SNEAKERS",
 "WOMEN",
+"women shoes",
 "WOMEN SNEAKERS"
 ],
 "in": true
@@ -12604,12 +12606,12 @@
 "type": "WALLETS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "SMALL LEATHER GOODS",
 "WALLETS",
 "WOMEN",
+"women accessories",
 "WOMEN WALLETS"
 ],
 "in": true
@@ -12624,12 +12626,12 @@
 "type": "PURSES",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl bags",
 "byl fw26",
 "PURSES",
 "SMALL LEATHER GOODS",
 "WOMEN",
+"women bags",
 "WOMEN PURSES"
 ],
 "in": true
@@ -12645,7 +12647,6 @@
 "tags": [
 "BAGS",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl bags",
 "byl fw26",
 "LEATHER GOODS LUGGAGE",
@@ -12665,11 +12666,11 @@
 "tags": [
 "ACCESSORIES",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "SCARVES AND SHAWLS",
 "WOMEN",
+"women accessories",
 "WOMEN SCARVES AND SHAWLS"
 ],
 "in": true
@@ -12685,11 +12686,11 @@
 "tags": [
 "ACCESSORIES",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "SCARVES AND SHAWLS",
 "WOMEN",
+"women accessories",
 "WOMEN SCARVES AND SHAWLS"
 ],
 "in": true
@@ -12704,12 +12705,12 @@
 "type": "SNEAKERS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl fw26",
 "byl shoes",
 "FOOTWEAR",
 "SNEAKERS",
 "WOMEN",
+"women shoes",
 "WOMEN SNEAKERS"
 ],
 "in": true
@@ -12724,13 +12725,13 @@
 "type": "PANTS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl clothing",
 "byl fw26",
+"byl textile",
 "CLOTHING",
 "PANTS",
 "WOMEN",
-"WOMEN PANTS"
+"women clothing"
 ],
 "in": true
 },
@@ -12744,13 +12745,13 @@
 "type": "PANTS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl clothing",
 "byl fw26",
+"byl textile",
 "CLOTHING",
 "PANTS",
 "WOMEN",
-"WOMEN PANTS"
+"women clothing"
 ],
 "in": true
 },
@@ -12764,13 +12765,13 @@
 "type": "TOP",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl clothing",
 "byl fw26",
+"byl textile",
 "CLOTHING",
 "TOP",
 "WOMEN",
-"WOMEN TOP"
+"women clothing"
 ],
 "in": true
 },
@@ -12784,13 +12785,13 @@
 "type": "SWEATER",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl clothing",
 "byl fw26",
+"byl textile",
 "CLOTHING",
 "SWEATER",
 "WOMEN",
-"WOMEN SWEATER"
+"women clothing"
 ],
 "in": true
 },
@@ -12805,11 +12806,11 @@
 "tags": [
 "ACCESSORIES",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "SCARVES AND SHAWLS",
 "WOMEN",
+"women accessories",
 "WOMEN SCARVES AND SHAWLS"
 ],
 "in": true
@@ -12824,12 +12825,12 @@
 "type": "WALLETS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "SMALL LEATHER GOODS",
 "WALLETS",
 "WOMEN",
+"women accessories",
 "WOMEN WALLETS"
 ],
 "in": true
@@ -12845,11 +12846,11 @@
 "tags": [
 "BILLFOLDS",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "SMALL LEATHER GOODS",
 "WOMEN",
+"women accessories",
 "WOMEN BILLFOLDS"
 ],
 "in": true
@@ -12864,12 +12865,12 @@
 "type": "VANITY POUCHES",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl bags",
 "byl fw26",
 "SMALL LEATHER GOODS",
 "VANITY POUCHES",
 "WOMEN",
+"women bags",
 "WOMEN VANITY POUCHES"
 ],
 "in": true
@@ -12884,12 +12885,12 @@
 "type": "WALLETS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "SMALL LEATHER GOODS",
 "WALLETS",
 "WOMEN",
+"women accessories",
 "WOMEN WALLETS"
 ],
 "in": true
@@ -12905,11 +12906,11 @@
 "tags": [
 "ACCESSORIES",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "SCARVES AND SHAWLS",
 "WOMEN",
+"women accessories",
 "WOMEN SCARVES AND SHAWLS"
 ],
 "in": true
@@ -12925,12 +12926,12 @@
 "tags": [
 "BIMBA Y LOLA FW26",
 "BRACELETS",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "BYL Jewelry",
 "JEWELRY",
-"WOMEN"
+"WOMEN",
+"women accessories"
 ],
 "in": true
 },
@@ -12944,12 +12945,12 @@
 "type": "NECKLACES",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "JEWELRY",
 "NECKLACES",
 "WOMEN",
+"women accessories",
 "WOMEN NECKLACES"
 ],
 "in": true
@@ -12965,12 +12966,12 @@
 "tags": [
 "BIMBA Y LOLA FW26",
 "BRACELETS",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "BYL Jewelry",
 "JEWELRY",
-"WOMEN"
+"WOMEN",
+"women accessories"
 ],
 "in": true
 },
@@ -12984,12 +12985,12 @@
 "type": "NECKLACES",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "JEWELRY",
 "NECKLACES",
 "WOMEN",
+"women accessories",
 "WOMEN NECKLACES"
 ],
 "in": true
@@ -13005,11 +13006,11 @@
 "tags": [
 "ACCESSORIES",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "KEY RINGS",
 "WOMEN",
+"women accessories",
 "WOMEN KEY RINGS"
 ],
 "in": true
@@ -13025,11 +13026,11 @@
 "tags": [
 "ACCESSORIES",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "SCARVES AND SHAWLS",
 "WOMEN",
+"women accessories",
 "WOMEN SCARVES AND SHAWLS"
 ],
 "in": true
@@ -13045,11 +13046,11 @@
 "tags": [
 "ACCESSORIES",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "SCARVES AND SHAWLS",
 "WOMEN",
+"women accessories",
 "WOMEN SCARVES AND SHAWLS"
 ],
 "in": true
@@ -13065,11 +13066,11 @@
 "tags": [
 "ACCESSORIES",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "SCARVES AND SHAWLS",
 "WOMEN",
+"women accessories",
 "WOMEN SCARVES AND SHAWLS"
 ],
 "in": true
@@ -13085,11 +13086,11 @@
 "tags": [
 "ACCESSORIES",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "SCARVES AND SHAWLS",
 "WOMEN",
+"women accessories",
 "WOMEN SCARVES AND SHAWLS"
 ],
 "in": true
@@ -13105,11 +13106,11 @@
 "tags": [
 "ACCESSORIES",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "SCARVES AND SHAWLS",
 "WOMEN",
+"women accessories",
 "WOMEN SCARVES AND SHAWLS"
 ],
 "in": true
@@ -13125,11 +13126,11 @@
 "tags": [
 "ACCESSORIES",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "SCARVES AND SHAWLS",
 "WOMEN",
+"women accessories",
 "WOMEN SCARVES AND SHAWLS"
 ],
 "in": true
@@ -13144,13 +13145,13 @@
 "type": "RINGS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "BYL Jewelry",
 "JEWELRY",
 "RINGS",
-"WOMEN"
+"WOMEN",
+"women accessories"
 ],
 "in": true
 },
@@ -13164,13 +13165,13 @@
 "type": "EARRINGS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "BYL Jewelry",
 "EARRINGS",
 "JEWELRY",
-"WOMEN"
+"WOMEN",
+"women accessories"
 ],
 "in": true
 },
@@ -13185,11 +13186,11 @@
 "tags": [
 "ACCESSORIES",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "KEY RINGS",
 "WOMEN",
+"women accessories",
 "WOMEN KEY RINGS"
 ],
 "in": true
@@ -13204,13 +13205,13 @@
 "type": "EARRINGS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "BYL Jewelry",
 "EARRINGS",
 "JEWELRY",
-"WOMEN"
+"WOMEN",
+"women accessories"
 ],
 "in": true
 },
@@ -13224,13 +13225,13 @@
 "type": "RINGS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "BYL Jewelry",
 "JEWELRY",
 "RINGS",
-"WOMEN"
+"WOMEN",
+"women accessories"
 ],
 "in": true
 },
@@ -13244,13 +13245,13 @@
 "type": "RINGS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "BYL Jewelry",
 "JEWELRY",
 "RINGS",
-"WOMEN"
+"WOMEN",
+"women accessories"
 ],
 "in": true
 },
@@ -13264,13 +13265,13 @@
 "type": "EARRINGS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "BYL Jewelry",
 "EARRINGS",
 "JEWELRY",
-"WOMEN"
+"WOMEN",
+"women accessories"
 ],
 "in": true
 },
@@ -13285,11 +13286,11 @@
 "tags": [
 "ACCESSORIES",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "SCARVES AND SHAWLS",
 "WOMEN",
+"women accessories",
 "WOMEN SCARVES AND SHAWLS"
 ],
 "in": true
@@ -13304,12 +13305,12 @@
 "type": "SNEAKERS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl fw26",
 "byl shoes",
 "FOOTWEAR",
 "SNEAKERS",
 "WOMEN",
+"women shoes",
 "WOMEN SNEAKERS"
 ],
 "in": true
@@ -13325,7 +13326,6 @@
 "tags": [
 "BAGS",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl bags",
 "byl fw26",
 "LEATHER GOODS LUGGAGE",
@@ -13345,11 +13345,11 @@
 "tags": [
 "ACCESSORIES",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "KEY RINGS",
 "WOMEN",
+"women accessories",
 "WOMEN KEY RINGS"
 ],
 "in": true
@@ -13364,13 +13364,13 @@
 "type": "T-SHIRTS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl clothing",
 "byl fw26",
+"byl textile",
 "CLOTHING",
 "T-SHIRTS",
 "WOMEN",
-"WOMEN T-SHIRTS"
+"women clothing"
 ],
 "in": true
 },
@@ -13385,11 +13385,11 @@
 "tags": [
 "ACCESSORIES",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "SCARVES AND SHAWLS",
 "WOMEN",
+"women accessories",
 "WOMEN SCARVES AND SHAWLS"
 ],
 "in": true
@@ -13405,11 +13405,11 @@
 "tags": [
 "ACCESSORIES",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "KEY RINGS",
 "WOMEN",
+"women accessories",
 "WOMEN KEY RINGS"
 ],
 "in": true
@@ -13425,7 +13425,6 @@
 "tags": [
 "BAGS",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl bags",
 "byl fw26",
 "LEATHER GOODS LUGGAGE",
@@ -13445,11 +13444,11 @@
 "tags": [
 "ACCESSORIES",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "KEY RINGS",
 "WOMEN",
+"women accessories",
 "WOMEN KEY RINGS"
 ],
 "in": true
@@ -13465,7 +13464,6 @@
 "tags": [
 "BAGS",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl bags",
 "byl fw26",
 "LEATHER GOODS LUGGAGE",
@@ -13484,13 +13482,13 @@
 "type": "EARRINGS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "BYL Jewelry",
 "EARRINGS",
 "JEWELRY",
-"WOMEN"
+"WOMEN",
+"women accessories"
 ],
 "in": true
 },
@@ -13504,13 +13502,13 @@
 "type": "RINGS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "BYL Jewelry",
 "JEWELRY",
 "RINGS",
-"WOMEN"
+"WOMEN",
+"women accessories"
 ],
 "in": true
 },
@@ -13525,12 +13523,12 @@
 "tags": [
 "BIMBA Y LOLA FW26",
 "BRACELETS",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "BYL Jewelry",
 "JEWELRY",
-"WOMEN"
+"WOMEN",
+"women accessories"
 ],
 "in": true
 },
@@ -13545,12 +13543,12 @@
 "tags": [
 "BIMBA Y LOLA FW26",
 "BRACELETS",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "BYL Jewelry",
 "JEWELRY",
-"WOMEN"
+"WOMEN",
+"women accessories"
 ],
 "in": true
 },
@@ -13565,11 +13563,11 @@
 "tags": [
 "ACCESSORIES",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "SCARVES AND SHAWLS",
 "WOMEN",
+"women accessories",
 "WOMEN SCARVES AND SHAWLS"
 ],
 "in": true
@@ -13584,13 +13582,13 @@
 "type": "SWEATER",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl clothing",
 "byl fw26",
+"byl textile",
 "CLOTHING",
 "SWEATER",
 "WOMEN",
-"WOMEN SWEATER"
+"women clothing"
 ],
 "in": true
 },
@@ -13604,13 +13602,13 @@
 "type": "SKIRTS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl clothing",
 "byl fw26",
+"byl textile",
 "CLOTHING",
 "SKIRTS",
 "WOMEN",
-"WOMEN SKIRTS"
+"women clothing"
 ],
 "in": true
 },
@@ -13625,11 +13623,11 @@
 "tags": [
 "ACCESSORIES",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "SCARVES AND SHAWLS",
 "WOMEN",
+"women accessories",
 "WOMEN SCARVES AND SHAWLS"
 ],
 "in": true
@@ -13645,11 +13643,11 @@
 "tags": [
 "ACCESSORIES",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "SCARVES AND SHAWLS",
 "WOMEN",
+"women accessories",
 "WOMEN SCARVES AND SHAWLS"
 ],
 "in": true
@@ -13665,11 +13663,11 @@
 "tags": [
 "ACCESSORIES",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "SCARVES AND SHAWLS",
 "WOMEN",
+"women accessories",
 "WOMEN SCARVES AND SHAWLS"
 ],
 "in": true
@@ -13684,13 +13682,13 @@
 "type": "SWEATER",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl clothing",
 "byl fw26",
+"byl textile",
 "CLOTHING",
 "SWEATER",
 "WOMEN",
-"WOMEN SWEATER"
+"women clothing"
 ],
 "in": true
 },
@@ -13705,11 +13703,11 @@
 "tags": [
 "ACCESSORIES",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "SCARVES AND SHAWLS",
 "WOMEN",
+"women accessories",
 "WOMEN SCARVES AND SHAWLS"
 ],
 "in": true
@@ -13724,13 +13722,13 @@
 "type": "SWEATER",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl clothing",
 "byl fw26",
+"byl textile",
 "CLOTHING",
 "SWEATER",
 "WOMEN",
-"WOMEN SWEATER"
+"women clothing"
 ],
 "in": true
 },
@@ -13745,11 +13743,11 @@
 "tags": [
 "ACCESSORIES",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "SCARVES AND SHAWLS",
 "WOMEN",
+"women accessories",
 "WOMEN SCARVES AND SHAWLS"
 ],
 "in": true
@@ -13765,11 +13763,11 @@
 "tags": [
 "ACCESSORIES",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "SCARVES AND SHAWLS",
 "WOMEN",
+"women accessories",
 "WOMEN SCARVES AND SHAWLS"
 ],
 "in": true
@@ -13784,13 +13782,13 @@
 "type": "SKIRTS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl clothing",
 "byl fw26",
+"byl textile",
 "CLOTHING",
 "SKIRTS",
 "WOMEN",
-"WOMEN SKIRTS"
+"women clothing"
 ],
 "in": true
 },
@@ -13805,11 +13803,11 @@
 "tags": [
 "ACCESSORIES",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "SCARVES AND SHAWLS",
 "WOMEN",
+"women accessories",
 "WOMEN SCARVES AND SHAWLS"
 ],
 "in": true
@@ -13825,11 +13823,11 @@
 "tags": [
 "ACCESSORIES",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "SCARVES AND SHAWLS",
 "WOMEN",
+"women accessories",
 "WOMEN SCARVES AND SHAWLS"
 ],
 "in": true
@@ -13845,11 +13843,11 @@
 "tags": [
 "ACCESSORIES",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "SCARVES AND SHAWLS",
 "WOMEN",
+"women accessories",
 "WOMEN SCARVES AND SHAWLS"
 ],
 "in": true
@@ -13865,7 +13863,6 @@
 "tags": [
 "BAGS",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl bags",
 "byl fw26",
 "LEATHER GOODS LUGGAGE",
@@ -13885,11 +13882,11 @@
 "tags": [
 "BILLFOLDS",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "SMALL LEATHER GOODS",
 "WOMEN",
+"women accessories",
 "WOMEN BILLFOLDS"
 ],
 "in": true
@@ -13905,7 +13902,6 @@
 "tags": [
 "BAGS",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl bags",
 "byl fw26",
 "LEATHER GOODS LUGGAGE",
@@ -13925,7 +13921,6 @@
 "tags": [
 "BAGS",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl bags",
 "byl fw26",
 "LEATHER GOODS LUGGAGE",
@@ -13944,12 +13939,12 @@
 "type": "VANITY POUCHES",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl bags",
 "byl fw26",
 "SMALL LEATHER GOODS",
 "VANITY POUCHES",
 "WOMEN",
+"women bags",
 "WOMEN VANITY POUCHES"
 ],
 "in": true
@@ -13964,12 +13959,12 @@
 "type": "VANITY POUCHES",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl bags",
 "byl fw26",
 "SMALL LEATHER GOODS",
 "VANITY POUCHES",
 "WOMEN",
+"women bags",
 "WOMEN VANITY POUCHES"
 ],
 "in": false
@@ -13985,7 +13980,6 @@
 "tags": [
 "BAGS",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl bags",
 "byl fw26",
 "LEATHER GOODS LUGGAGE",
@@ -14005,7 +13999,6 @@
 "tags": [
 "BAGS",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl bags",
 "byl fw26",
 "LEATHER GOODS LUGGAGE",
@@ -14025,7 +14018,6 @@
 "tags": [
 "BAGS",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl bags",
 "byl fw26",
 "LEATHER GOODS LUGGAGE",
@@ -14045,7 +14037,6 @@
 "tags": [
 "BAGS",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl bags",
 "byl fw26",
 "LEATHER GOODS LUGGAGE",
@@ -14064,13 +14055,13 @@
 "type": "EARRINGS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "BYL Jewelry",
 "EARRINGS",
 "JEWELRY",
-"WOMEN"
+"WOMEN",
+"women accessories"
 ],
 "in": true
 },
@@ -14084,12 +14075,12 @@
 "type": "VANITY POUCHES",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl bags",
 "byl fw26",
 "SMALL LEATHER GOODS",
 "VANITY POUCHES",
 "WOMEN",
+"women bags",
 "WOMEN VANITY POUCHES"
 ],
 "in": true
@@ -14105,7 +14096,6 @@
 "tags": [
 "BAGS",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl bags",
 "byl fw26",
 "LEATHER GOODS LUGGAGE",
@@ -14125,7 +14115,6 @@
 "tags": [
 "BAGS",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl bags",
 "byl fw26",
 "LEATHER GOODS LUGGAGE",
@@ -14145,12 +14134,12 @@
 "tags": [
 "BACKPACKS",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl bags",
 "byl fw26",
 "LEATHER GOODS LUGGAGE",
 "WOMEN",
-"WOMEN BACKPACKS"
+"WOMEN BACKPACKS",
+"women bags"
 ],
 "in": true
 },
@@ -14164,13 +14153,13 @@
 "type": "T-SHIRTS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl clothing",
 "byl fw26",
+"byl textile",
 "CLOTHING",
 "T-SHIRTS",
 "WOMEN",
-"WOMEN T-SHIRTS"
+"women clothing"
 ],
 "in": true
 },
@@ -14185,11 +14174,11 @@
 "tags": [
 "ACCESSORIES",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "SCARVES AND SHAWLS",
 "WOMEN",
+"women accessories",
 "WOMEN SCARVES AND SHAWLS"
 ],
 "in": true
@@ -14205,11 +14194,11 @@
 "tags": [
 "ACCESSORIES",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "SCARVES AND SHAWLS",
 "WOMEN",
+"women accessories",
 "WOMEN SCARVES AND SHAWLS"
 ],
 "in": true
@@ -14225,11 +14214,11 @@
 "tags": [
 "ACCESSORIES",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "SCARVES AND SHAWLS",
 "WOMEN",
+"women accessories",
 "WOMEN SCARVES AND SHAWLS"
 ],
 "in": true
@@ -14245,11 +14234,11 @@
 "tags": [
 "ACCESSORIES",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "SCARVES AND SHAWLS",
 "WOMEN",
+"women accessories",
 "WOMEN SCARVES AND SHAWLS"
 ],
 "in": true
@@ -14264,13 +14253,13 @@
 "type": "PANTS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl clothing",
 "byl fw26",
+"byl textile",
 "CLOTHING",
 "PANTS",
 "WOMEN",
-"WOMEN PANTS"
+"women clothing"
 ],
 "in": true
 },
@@ -14284,13 +14273,13 @@
 "type": "PANTS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl clothing",
 "byl fw26",
+"byl textile",
 "CLOTHING",
 "PANTS",
 "WOMEN",
-"WOMEN PANTS"
+"women clothing"
 ],
 "in": true
 },
@@ -14305,11 +14294,11 @@
 "tags": [
 "ACCESSORIES",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "SCARVES AND SHAWLS",
 "WOMEN",
+"women accessories",
 "WOMEN SCARVES AND SHAWLS"
 ],
 "in": true
@@ -14324,13 +14313,13 @@
 "type": "JACKETS AND COATS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl clothing",
 "byl fw26",
+"byl textile",
 "CLOTHING",
 "JACKETS AND COATS",
 "WOMEN",
-"WOMEN JACKETS AND COATS"
+"women clothing"
 ],
 "in": false
 },
@@ -14345,11 +14334,11 @@
 "tags": [
 "ACCESSORIES",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "KEY RINGS",
 "WOMEN",
+"women accessories",
 "WOMEN KEY RINGS"
 ],
 "in": true
@@ -14364,13 +14353,13 @@
 "type": "EARRINGS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "BYL Jewelry",
 "EARRINGS",
 "JEWELRY",
-"WOMEN"
+"WOMEN",
+"women accessories"
 ],
 "in": true
 },
@@ -14385,7 +14374,6 @@
 "tags": [
 "BAGS",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl bags",
 "byl fw26",
 "LEATHER GOODS LUGGAGE",
@@ -14405,7 +14393,6 @@
 "tags": [
 "BAGS",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl bags",
 "byl fw26",
 "LEATHER GOODS LUGGAGE",
@@ -14425,7 +14412,6 @@
 "tags": [
 "BAGS",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl bags",
 "byl fw26",
 "LEATHER GOODS LUGGAGE",
@@ -14445,7 +14431,6 @@
 "tags": [
 "BAGS",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl bags",
 "byl fw26",
 "LEATHER GOODS LUGGAGE",
@@ -14464,13 +14449,13 @@
 "type": "EARRINGS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "BYL Jewelry",
 "EARRINGS",
 "JEWELRY",
-"WOMEN"
+"WOMEN",
+"women accessories"
 ],
 "in": true
 },
@@ -14484,12 +14469,12 @@
 "type": "VANITY POUCHES",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl bags",
 "byl fw26",
 "SMALL LEATHER GOODS",
 "VANITY POUCHES",
 "WOMEN",
+"women bags",
 "WOMEN VANITY POUCHES"
 ],
 "in": true
@@ -14505,11 +14490,11 @@
 "tags": [
 "BILLFOLDS",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "SMALL LEATHER GOODS",
 "WOMEN",
+"women accessories",
 "WOMEN BILLFOLDS"
 ],
 "in": true
@@ -14525,11 +14510,11 @@
 "tags": [
 "BILLFOLDS",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "SMALL LEATHER GOODS",
 "WOMEN",
+"women accessories",
 "WOMEN BILLFOLDS"
 ],
 "in": true
@@ -14545,7 +14530,6 @@
 "tags": [
 "BAGS",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl bags",
 "byl fw26",
 "LEATHER GOODS LUGGAGE",
@@ -14565,7 +14549,6 @@
 "tags": [
 "BAGS",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl bags",
 "byl fw26",
 "LEATHER GOODS LUGGAGE",
@@ -14584,13 +14567,13 @@
 "type": "EARRINGS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "BYL Jewelry",
 "EARRINGS",
 "JEWELRY",
-"WOMEN"
+"WOMEN",
+"women accessories"
 ],
 "in": true
 },
@@ -14605,7 +14588,6 @@
 "tags": [
 "BAGS",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl bags",
 "byl fw26",
 "LEATHER GOODS LUGGAGE",
@@ -14624,13 +14606,13 @@
 "type": "EARRINGS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "BYL Jewelry",
 "EARRINGS",
 "JEWELRY",
-"WOMEN"
+"WOMEN",
+"women accessories"
 ],
 "in": true
 },
@@ -14645,7 +14627,6 @@
 "tags": [
 "BAGS",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl bags",
 "byl fw26",
 "LEATHER GOODS LUGGAGE",
@@ -14665,7 +14646,6 @@
 "tags": [
 "BAGS",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl bags",
 "byl fw26",
 "LEATHER GOODS LUGGAGE",
@@ -14684,13 +14664,13 @@
 "type": "EARRINGS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "BYL Jewelry",
 "EARRINGS",
 "JEWELRY",
-"WOMEN"
+"WOMEN",
+"women accessories"
 ],
 "in": true
 },
@@ -14704,13 +14684,13 @@
 "type": "EARRINGS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "BYL Jewelry",
 "EARRINGS",
 "JEWELRY",
-"WOMEN"
+"WOMEN",
+"women accessories"
 ],
 "in": true
 },
@@ -14724,13 +14704,13 @@
 "type": "EARRINGS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "BYL Jewelry",
 "EARRINGS",
 "JEWELRY",
-"WOMEN"
+"WOMEN",
+"women accessories"
 ],
 "in": true
 },
@@ -14745,7 +14725,6 @@
 "tags": [
 "BAGS",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl bags",
 "byl fw26",
 "LEATHER GOODS LUGGAGE",
@@ -14764,12 +14743,12 @@
 "type": "VANITY POUCHES",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl bags",
 "byl fw26",
 "SMALL LEATHER GOODS",
 "VANITY POUCHES",
 "WOMEN",
+"women bags",
 "WOMEN VANITY POUCHES"
 ],
 "in": true
@@ -14785,11 +14764,11 @@
 "tags": [
 "BILLFOLDS",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "SMALL LEATHER GOODS",
 "WOMEN",
+"women accessories",
 "WOMEN BILLFOLDS"
 ],
 "in": true
@@ -14805,11 +14784,11 @@
 "tags": [
 "BILLFOLDS",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "SMALL LEATHER GOODS",
 "WOMEN",
+"women accessories",
 "WOMEN BILLFOLDS"
 ],
 "in": true
@@ -14825,7 +14804,6 @@
 "tags": [
 "BAGS",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl bags",
 "byl fw26",
 "LEATHER GOODS LUGGAGE",
@@ -14845,7 +14823,6 @@
 "tags": [
 "BAGS",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl bags",
 "byl fw26",
 "LEATHER GOODS LUGGAGE",
@@ -14865,7 +14842,6 @@
 "tags": [
 "BAGS",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl bags",
 "byl fw26",
 "LEATHER GOODS LUGGAGE",
@@ -14885,7 +14861,6 @@
 "tags": [
 "BAGS",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl bags",
 "byl fw26",
 "LEATHER GOODS LUGGAGE",
@@ -14904,13 +14879,13 @@
 "type": "EARRINGS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "BYL Jewelry",
 "EARRINGS",
 "JEWELRY",
-"WOMEN"
+"WOMEN",
+"women accessories"
 ],
 "in": true
 },
@@ -14925,11 +14900,11 @@
 "tags": [
 "ACCESSORIES",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "KEY RINGS",
 "WOMEN",
+"women accessories",
 "WOMEN KEY RINGS"
 ],
 "in": true
@@ -14945,7 +14920,6 @@
 "tags": [
 "BAGS",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl bags",
 "byl fw26",
 "LEATHER GOODS LUGGAGE",
@@ -14965,11 +14939,11 @@
 "tags": [
 "ACCESSORIES",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "KEY RINGS",
 "WOMEN",
+"women accessories",
 "WOMEN KEY RINGS"
 ],
 "in": true
@@ -14985,11 +14959,11 @@
 "tags": [
 "ACCESSORIES",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "KEY RINGS",
 "WOMEN",
+"women accessories",
 "WOMEN KEY RINGS"
 ],
 "in": true
@@ -15004,12 +14978,12 @@
 "type": "SNEAKERS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl fw26",
 "byl shoes",
 "FOOTWEAR",
 "SNEAKERS",
 "WOMEN",
+"women shoes",
 "WOMEN SNEAKERS"
 ],
 "in": true
@@ -15025,7 +14999,6 @@
 "tags": [
 "BAGS",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl bags",
 "byl fw26",
 "LEATHER GOODS LUGGAGE",
@@ -15045,7 +15018,6 @@
 "tags": [
 "BAGS",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl bags",
 "byl fw26",
 "LEATHER GOODS LUGGAGE",
@@ -15065,7 +15037,6 @@
 "tags": [
 "BAGS",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl bags",
 "byl fw26",
 "LEATHER GOODS LUGGAGE",
@@ -15085,7 +15056,6 @@
 "tags": [
 "BAGS",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl bags",
 "byl fw26",
 "LEATHER GOODS LUGGAGE",
@@ -15105,11 +15075,11 @@
 "tags": [
 "ACCESSORIES",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "SCARVES AND SHAWLS",
 "WOMEN",
+"women accessories",
 "WOMEN SCARVES AND SHAWLS"
 ],
 "in": true
@@ -15124,12 +15094,12 @@
 "type": "NECKLACES",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "JEWELRY",
 "NECKLACES",
 "WOMEN",
+"women accessories",
 "WOMEN NECKLACES"
 ],
 "in": true
@@ -15144,12 +15114,12 @@
 "type": "NECKLACES",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "JEWELRY",
 "NECKLACES",
 "WOMEN",
+"women accessories",
 "WOMEN NECKLACES"
 ],
 "in": true
@@ -15165,12 +15135,12 @@
 "tags": [
 "BIMBA Y LOLA FW26",
 "BRACELETS",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "BYL Jewelry",
 "JEWELRY",
-"WOMEN"
+"WOMEN",
+"women accessories"
 ],
 "in": true
 },
@@ -15184,13 +15154,13 @@
 "type": "RINGS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "BYL Jewelry",
 "JEWELRY",
 "RINGS",
-"WOMEN"
+"WOMEN",
+"women accessories"
 ],
 "in": true
 },
@@ -15204,13 +15174,13 @@
 "type": "EARRINGS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "BYL Jewelry",
 "EARRINGS",
 "JEWELRY",
-"WOMEN"
+"WOMEN",
+"women accessories"
 ],
 "in": true
 },
@@ -15225,12 +15195,12 @@
 "tags": [
 "BIMBA Y LOLA FW26",
 "BRACELETS",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "BYL Jewelry",
 "JEWELRY",
-"WOMEN"
+"WOMEN",
+"women accessories"
 ],
 "in": true
 },
@@ -15244,12 +15214,12 @@
 "type": "NECKLACES",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "JEWELRY",
 "NECKLACES",
 "WOMEN",
+"women accessories",
 "WOMEN NECKLACES"
 ],
 "in": true
@@ -15265,12 +15235,12 @@
 "tags": [
 "BIMBA Y LOLA FW26",
 "BRACELETS",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "BYL Jewelry",
 "JEWELRY",
-"WOMEN"
+"WOMEN",
+"women accessories"
 ],
 "in": true
 },
@@ -15284,13 +15254,13 @@
 "type": "RINGS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "BYL Jewelry",
 "JEWELRY",
 "RINGS",
-"WOMEN"
+"WOMEN",
+"women accessories"
 ],
 "in": true
 },
@@ -15305,12 +15275,12 @@
 "tags": [
 "BIMBA Y LOLA FW26",
 "BRACELETS",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "BYL Jewelry",
 "JEWELRY",
-"WOMEN"
+"WOMEN",
+"women accessories"
 ],
 "in": true
 },
@@ -15324,12 +15294,12 @@
 "type": "NECKLACES",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "JEWELRY",
 "NECKLACES",
 "WOMEN",
+"women accessories",
 "WOMEN NECKLACES"
 ],
 "in": true
@@ -15344,13 +15314,13 @@
 "type": "EARRINGS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "BYL Jewelry",
 "EARRINGS",
 "JEWELRY",
-"WOMEN"
+"WOMEN",
+"women accessories"
 ],
 "in": true
 },
@@ -15365,11 +15335,11 @@
 "tags": [
 "ACCESSORIES",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "SCARVES AND SHAWLS",
 "WOMEN",
+"women accessories",
 "WOMEN SCARVES AND SHAWLS"
 ],
 "in": true
@@ -15385,11 +15355,11 @@
 "tags": [
 "ACCESSORIES",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "SCARVES AND SHAWLS",
 "WOMEN",
+"women accessories",
 "WOMEN SCARVES AND SHAWLS"
 ],
 "in": true
@@ -15405,11 +15375,11 @@
 "tags": [
 "ACCESSORIES",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "SCARVES AND SHAWLS",
 "WOMEN",
+"women accessories",
 "WOMEN SCARVES AND SHAWLS"
 ],
 "in": true
@@ -15424,13 +15394,13 @@
 "type": "SWEATER",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl clothing",
 "byl fw26",
+"byl textile",
 "CLOTHING",
 "SWEATER",
 "WOMEN",
-"WOMEN SWEATER"
+"women clothing"
 ],
 "in": true
 },
@@ -15445,11 +15415,11 @@
 "tags": [
 "ACCESSORIES",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "SCARVES AND SHAWLS",
 "WOMEN",
+"women accessories",
 "WOMEN SCARVES AND SHAWLS"
 ],
 "in": true
@@ -15464,13 +15434,13 @@
 "type": "EARRINGS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "BYL Jewelry",
 "EARRINGS",
 "JEWELRY",
-"WOMEN"
+"WOMEN",
+"women accessories"
 ],
 "in": true
 },
@@ -15485,7 +15455,6 @@
 "tags": [
 "BAGS",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl bags",
 "byl fw26",
 "LEATHER GOODS LUGGAGE",
@@ -15505,11 +15474,11 @@
 "tags": [
 "ACCESSORIES",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "SCARVES AND SHAWLS",
 "WOMEN",
+"women accessories",
 "WOMEN SCARVES AND SHAWLS"
 ],
 "in": true
@@ -15525,11 +15494,11 @@
 "tags": [
 "ACCESSORIES",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "SCARVES AND SHAWLS",
 "WOMEN",
+"women accessories",
 "WOMEN SCARVES AND SHAWLS"
 ],
 "in": false
@@ -15545,12 +15514,12 @@
 "tags": [
 "BIMBA Y LOLA FW26",
 "BRACELETS",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "BYL Jewelry",
 "JEWELRY",
-"WOMEN"
+"WOMEN",
+"women accessories"
 ],
 "in": true
 },
@@ -15564,12 +15533,12 @@
 "type": "NECKLACES",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "JEWELRY",
 "NECKLACES",
 "WOMEN",
+"women accessories",
 "WOMEN NECKLACES"
 ],
 "in": true
@@ -15584,12 +15553,12 @@
 "type": "NECKLACES",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "JEWELRY",
 "NECKLACES",
 "WOMEN",
+"women accessories",
 "WOMEN NECKLACES"
 ],
 "in": true
@@ -15605,12 +15574,12 @@
 "tags": [
 "BIMBA Y LOLA FW26",
 "BRACELETS",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "BYL Jewelry",
 "JEWELRY",
-"WOMEN"
+"WOMEN",
+"women accessories"
 ],
 "in": true
 },
@@ -15624,13 +15593,13 @@
 "type": "EARRINGS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "BYL Jewelry",
 "EARRINGS",
 "JEWELRY",
-"WOMEN"
+"WOMEN",
+"women accessories"
 ],
 "in": true
 },
@@ -15644,13 +15613,13 @@
 "type": "RINGS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "BYL Jewelry",
 "JEWELRY",
 "RINGS",
-"WOMEN"
+"WOMEN",
+"women accessories"
 ],
 "in": true
 },
@@ -15664,13 +15633,13 @@
 "type": "EARRINGS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "BYL Jewelry",
 "EARRINGS",
 "JEWELRY",
-"WOMEN"
+"WOMEN",
+"women accessories"
 ],
 "in": true
 },
@@ -15684,13 +15653,13 @@
 "type": "RINGS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "BYL Jewelry",
 "JEWELRY",
 "RINGS",
-"WOMEN"
+"WOMEN",
+"women accessories"
 ],
 "in": true
 },
@@ -15704,12 +15673,12 @@
 "type": "VANITY POUCHES",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl bags",
 "byl fw26",
 "SMALL LEATHER GOODS",
 "VANITY POUCHES",
 "WOMEN",
+"women bags",
 "WOMEN VANITY POUCHES"
 ],
 "in": true
@@ -15725,11 +15694,11 @@
 "tags": [
 "ACCESSORIES",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "SCARVES AND SHAWLS",
 "WOMEN",
+"women accessories",
 "WOMEN SCARVES AND SHAWLS"
 ],
 "in": true
@@ -15744,13 +15713,13 @@
 "type": "PURSES",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
+"byl bags",
 "byl fw26",
 "SMALL LEATHER GOODS",
 "WALLETS",
 "WOMEN",
-"WOMEN WALLETS"
+"women bags"
 ],
 "in": true
 },
@@ -15764,12 +15733,12 @@
 "type": "PURSES",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl bags",
 "byl fw26",
 "PURSES",
 "SMALL LEATHER GOODS",
 "WOMEN",
+"women bags",
 "WOMEN PURSES"
 ],
 "in": true
@@ -15784,12 +15753,12 @@
 "type": "SNEAKERS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl fw26",
 "byl shoes",
 "FOOTWEAR",
 "SNEAKERS",
 "WOMEN",
+"women shoes",
 "WOMEN SNEAKERS"
 ],
 "in": true
@@ -15804,13 +15773,13 @@
 "type": "JACKETS AND COATS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl clothing",
 "byl fw26",
+"byl textile",
 "CLOTHING",
 "JACKETS AND COATS",
 "WOMEN",
-"WOMEN JACKETS AND COATS"
+"women clothing"
 ],
 "in": true
 },
@@ -15824,13 +15793,13 @@
 "type": "SHIRTS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl clothing",
 "byl fw26",
+"byl textile",
 "CLOTHING",
 "SHIRTS",
 "WOMEN",
-"WOMEN SHIRTS"
+"women clothing"
 ],
 "in": true
 },
@@ -15844,13 +15813,13 @@
 "type": "JACKETS AND COATS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl clothing",
 "byl fw26",
+"byl textile",
 "CLOTHING",
 "JACKETS AND COATS",
 "WOMEN",
-"WOMEN JACKETS AND COATS"
+"women clothing"
 ],
 "in": true
 },
@@ -15864,13 +15833,13 @@
 "type": "EARRINGS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "BYL Jewelry",
 "EARRINGS",
 "JEWELRY",
-"WOMEN"
+"WOMEN",
+"women accessories"
 ],
 "in": true
 },
@@ -15884,13 +15853,13 @@
 "type": "RINGS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "BYL Jewelry",
 "JEWELRY",
 "RINGS",
-"WOMEN"
+"WOMEN",
+"women accessories"
 ],
 "in": true
 },
@@ -15905,11 +15874,11 @@
 "tags": [
 "ACCESSORIES",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "SCARVES AND SHAWLS",
 "WOMEN",
+"women accessories",
 "WOMEN SCARVES AND SHAWLS"
 ],
 "in": true
@@ -15925,11 +15894,11 @@
 "tags": [
 "ACCESSORIES",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "KEY RINGS",
 "WOMEN",
+"women accessories",
 "WOMEN KEY RINGS"
 ],
 "in": true
@@ -15945,11 +15914,11 @@
 "tags": [
 "ACCESSORIES",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "KEY RINGS",
 "WOMEN",
+"women accessories",
 "WOMEN KEY RINGS"
 ],
 "in": true
@@ -15965,12 +15934,12 @@
 "tags": [
 "BIMBA Y LOLA FW26",
 "BRACELETS",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "BYL Jewelry",
 "JEWELRY",
-"WOMEN"
+"WOMEN",
+"women accessories"
 ],
 "in": true
 },
@@ -15985,12 +15954,12 @@
 "tags": [
 "BIMBA Y LOLA FW26",
 "BRACELETS",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "BYL Jewelry",
 "JEWELRY",
-"WOMEN"
+"WOMEN",
+"women accessories"
 ],
 "in": true
 },
@@ -16005,12 +15974,12 @@
 "tags": [
 "BIMBA Y LOLA FW26",
 "BRACELETS",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "BYL Jewelry",
 "JEWELRY",
-"WOMEN"
+"WOMEN",
+"women accessories"
 ],
 "in": true
 },
@@ -16024,13 +15993,13 @@
 "type": "RINGS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "BYL Jewelry",
 "JEWELRY",
 "RINGS",
-"WOMEN"
+"WOMEN",
+"women accessories"
 ],
 "in": true
 },
@@ -16044,12 +16013,12 @@
 "type": "NECKLACES",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "JEWELRY",
 "NECKLACES",
 "WOMEN",
+"women accessories",
 "WOMEN NECKLACES"
 ],
 "in": true
@@ -16064,13 +16033,13 @@
 "type": "RINGS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "BYL Jewelry",
 "JEWELRY",
 "RINGS",
-"WOMEN"
+"WOMEN",
+"women accessories"
 ],
 "in": true
 },
@@ -16084,13 +16053,13 @@
 "type": "PANTS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl clothing",
 "byl fw26",
+"byl textile",
 "CLOTHING",
 "PANTS",
 "WOMEN",
-"WOMEN PANTS"
+"women clothing"
 ],
 "in": true
 },
@@ -16104,13 +16073,13 @@
 "type": "T-SHIRTS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl clothing",
 "byl fw26",
+"byl textile",
 "CLOTHING",
 "T-SHIRTS",
 "WOMEN",
-"WOMEN T-SHIRTS"
+"women clothing"
 ],
 "in": true
 },
@@ -16124,13 +16093,13 @@
 "type": "PURSES",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
+"byl bags",
 "byl fw26",
 "SMALL LEATHER GOODS",
 "WALLETS",
 "WOMEN",
-"WOMEN WALLETS"
+"women bags"
 ],
 "in": true
 },
@@ -16144,12 +16113,12 @@
 "type": "PURSES",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl bags",
 "byl fw26",
 "PURSES",
 "SMALL LEATHER GOODS",
 "WOMEN",
+"women bags",
 "WOMEN PURSES"
 ],
 "in": true
@@ -16165,11 +16134,11 @@
 "tags": [
 "ACCESSORIES",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "SCARVES AND SHAWLS",
 "WOMEN",
+"women accessories",
 "WOMEN SCARVES AND SHAWLS"
 ],
 "in": true
@@ -16185,11 +16154,11 @@
 "tags": [
 "ACCESSORIES",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "SCARVES AND SHAWLS",
 "WOMEN",
+"women accessories",
 "WOMEN SCARVES AND SHAWLS"
 ],
 "in": true
@@ -16205,11 +16174,11 @@
 "tags": [
 "ACCESSORIES",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "SCARVES AND SHAWLS",
 "WOMEN",
+"women accessories",
 "WOMEN SCARVES AND SHAWLS"
 ],
 "in": true
@@ -16225,11 +16194,11 @@
 "tags": [
 "ACCESSORIES",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "SCARVES AND SHAWLS",
 "WOMEN",
+"women accessories",
 "WOMEN SCARVES AND SHAWLS"
 ],
 "in": true
@@ -16245,11 +16214,11 @@
 "tags": [
 "ACCESSORIES",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "SCARVES AND SHAWLS",
 "WOMEN",
+"women accessories",
 "WOMEN SCARVES AND SHAWLS"
 ],
 "in": true
@@ -16265,12 +16234,12 @@
 "tags": [
 "BIMBA Y LOLA FW26",
 "BRACELETS",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "BYL Jewelry",
 "JEWELRY",
-"WOMEN"
+"WOMEN",
+"women accessories"
 ],
 "in": true
 },
@@ -16285,12 +16254,12 @@
 "tags": [
 "BIMBA Y LOLA FW26",
 "BRACELETS",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "BYL Jewelry",
 "JEWELRY",
-"WOMEN"
+"WOMEN",
+"women accessories"
 ],
 "in": true
 },
@@ -16305,12 +16274,12 @@
 "tags": [
 "BIMBA Y LOLA FW26",
 "BRACELETS",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "BYL Jewelry",
 "JEWELRY",
-"WOMEN"
+"WOMEN",
+"women accessories"
 ],
 "in": true
 },
@@ -16324,12 +16293,12 @@
 "type": "NECKLACES",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "JEWELRY",
 "NECKLACES",
 "WOMEN",
+"women accessories",
 "WOMEN NECKLACES"
 ],
 "in": true
@@ -16344,12 +16313,12 @@
 "type": "NECKLACES",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "JEWELRY",
 "NECKLACES",
 "WOMEN",
+"women accessories",
 "WOMEN NECKLACES"
 ],
 "in": true
@@ -16364,13 +16333,13 @@
 "type": "EARRINGS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "BYL Jewelry",
 "EARRINGS",
 "JEWELRY",
-"WOMEN"
+"WOMEN",
+"women accessories"
 ],
 "in": true
 },
@@ -16384,13 +16353,13 @@
 "type": "RINGS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "BYL Jewelry",
 "JEWELRY",
 "RINGS",
-"WOMEN"
+"WOMEN",
+"women accessories"
 ],
 "in": true
 },
@@ -16405,12 +16374,12 @@
 "tags": [
 "BIMBA Y LOLA FW26",
 "BRACELETS",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "BYL Jewelry",
 "JEWELRY",
-"WOMEN"
+"WOMEN",
+"women accessories"
 ],
 "in": true
 },
@@ -16424,13 +16393,13 @@
 "type": "EARRINGS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "BYL Jewelry",
 "EARRINGS",
 "JEWELRY",
-"WOMEN"
+"WOMEN",
+"women accessories"
 ],
 "in": true
 },
@@ -16445,12 +16414,12 @@
 "tags": [
 "BIMBA Y LOLA FW26",
 "BRACELETS",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "BYL Jewelry",
 "JEWELRY",
-"WOMEN"
+"WOMEN",
+"women accessories"
 ],
 "in": true
 },
@@ -16464,13 +16433,13 @@
 "type": "RINGS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "BYL Jewelry",
 "JEWELRY",
 "RINGS",
-"WOMEN"
+"WOMEN",
+"women accessories"
 ],
 "in": true
 },
@@ -16484,13 +16453,13 @@
 "type": "EARRINGS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "BYL Jewelry",
 "EARRINGS",
 "JEWELRY",
-"WOMEN"
+"WOMEN",
+"women accessories"
 ],
 "in": true
 },
@@ -16504,13 +16473,13 @@
 "type": "EARRINGS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "BYL Jewelry",
 "EARRINGS",
 "JEWELRY",
-"WOMEN"
+"WOMEN",
+"women accessories"
 ],
 "in": true
 },
@@ -16524,13 +16493,13 @@
 "type": "RINGS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "BYL Jewelry",
 "JEWELRY",
 "RINGS",
-"WOMEN"
+"WOMEN",
+"women accessories"
 ],
 "in": true
 },
@@ -16544,13 +16513,13 @@
 "type": "EARRINGS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "BYL Jewelry",
 "EARRINGS",
 "JEWELRY",
-"WOMEN"
+"WOMEN",
+"women accessories"
 ],
 "in": true
 },
@@ -16565,7 +16534,6 @@
 "tags": [
 "BAGS",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl bags",
 "byl fw26",
 "LEATHER GOODS LUGGAGE",
@@ -16585,7 +16553,6 @@
 "tags": [
 "BAGS",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl bags",
 "byl fw26",
 "LEATHER GOODS LUGGAGE",
@@ -16605,7 +16572,6 @@
 "tags": [
 "BAGS",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl bags",
 "byl fw26",
 "LEATHER GOODS LUGGAGE",
@@ -16625,7 +16591,6 @@
 "tags": [
 "BAGS",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl bags",
 "byl fw26",
 "LEATHER GOODS LUGGAGE",
@@ -16644,13 +16609,13 @@
 "type": "EARRINGS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "BYL Jewelry",
 "EARRINGS",
 "JEWELRY",
-"WOMEN"
+"WOMEN",
+"women accessories"
 ],
 "in": true
 },
@@ -16665,7 +16630,6 @@
 "tags": [
 "BAGS",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl bags",
 "byl fw26",
 "LEATHER GOODS LUGGAGE",
@@ -16685,7 +16649,6 @@
 "tags": [
 "BAGS",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl bags",
 "byl fw26",
 "LEATHER GOODS LUGGAGE",
@@ -16705,7 +16668,6 @@
 "tags": [
 "BAGS",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl bags",
 "byl fw26",
 "LEATHER GOODS LUGGAGE",
@@ -16725,7 +16687,6 @@
 "tags": [
 "BAGS",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl bags",
 "byl fw26",
 "LEATHER GOODS LUGGAGE",
@@ -16744,12 +16705,12 @@
 "type": "VANITY POUCHES",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl bags",
 "byl fw26",
 "SMALL LEATHER GOODS",
 "VANITY POUCHES",
 "WOMEN",
+"women bags",
 "WOMEN VANITY POUCHES"
 ],
 "in": true
@@ -16765,7 +16726,6 @@
 "tags": [
 "BAGS",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl bags",
 "byl fw26",
 "LEATHER GOODS LUGGAGE",
@@ -16785,7 +16745,6 @@
 "tags": [
 "BAGS",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl bags",
 "byl fw26",
 "LEATHER GOODS LUGGAGE",
@@ -16804,12 +16763,12 @@
 "type": "VANITY POUCHES",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl bags",
 "byl fw26",
 "SMALL LEATHER GOODS",
 "VANITY POUCHES",
 "WOMEN",
+"women bags",
 "WOMEN VANITY POUCHES"
 ],
 "in": true
@@ -16825,7 +16784,6 @@
 "tags": [
 "BAGS",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl bags",
 "byl fw26",
 "LEATHER GOODS LUGGAGE",
@@ -16845,7 +16803,6 @@
 "tags": [
 "BAGS",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl bags",
 "byl fw26",
 "LEATHER GOODS LUGGAGE",
@@ -16865,7 +16822,6 @@
 "tags": [
 "BAGS",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl bags",
 "byl fw26",
 "LEATHER GOODS LUGGAGE",
@@ -16885,7 +16841,6 @@
 "tags": [
 "BAGS",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl bags",
 "byl fw26",
 "LEATHER GOODS LUGGAGE",
@@ -16905,7 +16860,6 @@
 "tags": [
 "BAGS",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl bags",
 "byl fw26",
 "LEATHER GOODS LUGGAGE",
@@ -16924,13 +16878,13 @@
 "type": "EARRINGS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "BYL Jewelry",
 "EARRINGS",
 "JEWELRY",
-"WOMEN"
+"WOMEN",
+"women accessories"
 ],
 "in": true
 },
@@ -16944,13 +16898,13 @@
 "type": "EARRINGS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "BYL Jewelry",
 "EARRINGS",
 "JEWELRY",
-"WOMEN"
+"WOMEN",
+"women accessories"
 ],
 "in": true
 },
@@ -16965,7 +16919,6 @@
 "tags": [
 "BAGS",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl bags",
 "byl fw26",
 "LEATHER GOODS LUGGAGE",
@@ -16984,13 +16937,13 @@
 "type": "EARRINGS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "BYL Jewelry",
 "EARRINGS",
 "JEWELRY",
-"WOMEN"
+"WOMEN",
+"women accessories"
 ],
 "in": true
 },
@@ -17004,13 +16957,13 @@
 "type": "EARRINGS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "BYL Jewelry",
 "EARRINGS",
 "JEWELRY",
-"WOMEN"
+"WOMEN",
+"women accessories"
 ],
 "in": true
 },
@@ -17024,13 +16977,13 @@
 "type": "EARRINGS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "BYL Jewelry",
 "EARRINGS",
 "JEWELRY",
-"WOMEN"
+"WOMEN",
+"women accessories"
 ],
 "in": true
 },
@@ -17044,13 +16997,13 @@
 "type": "EARRINGS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "BYL Jewelry",
 "EARRINGS",
 "JEWELRY",
-"WOMEN"
+"WOMEN",
+"women accessories"
 ],
 "in": true
 },
@@ -17064,13 +17017,13 @@
 "type": "EARRINGS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "BYL Jewelry",
 "EARRINGS",
 "JEWELRY",
-"WOMEN"
+"WOMEN",
+"women accessories"
 ],
 "in": true
 },
@@ -17084,13 +17037,13 @@
 "type": "EARRINGS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "BYL Jewelry",
 "EARRINGS",
 "JEWELRY",
-"WOMEN"
+"WOMEN",
+"women accessories"
 ],
 "in": true
 },
@@ -17104,13 +17057,13 @@
 "type": "EARRINGS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "BYL Jewelry",
 "EARRINGS",
 "JEWELRY",
-"WOMEN"
+"WOMEN",
+"women accessories"
 ],
 "in": true
 },
@@ -17125,7 +17078,6 @@
 "tags": [
 "BAGS",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl bags",
 "byl fw26",
 "LEATHER GOODS LUGGAGE",
@@ -17144,13 +17096,13 @@
 "type": "EARRINGS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "BYL Jewelry",
 "EARRINGS",
 "JEWELRY",
-"WOMEN"
+"WOMEN",
+"women accessories"
 ],
 "in": true
 },
@@ -17164,12 +17116,12 @@
 "type": "NECKLACES",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "JEWELRY",
 "NECKLACES",
 "WOMEN",
+"women accessories",
 "WOMEN NECKLACES"
 ],
 "in": true
@@ -17184,13 +17136,13 @@
 "type": "RINGS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "BYL Jewelry",
 "JEWELRY",
 "RINGS",
-"WOMEN"
+"WOMEN",
+"women accessories"
 ],
 "in": true
 },
@@ -17204,13 +17156,13 @@
 "type": "RINGS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "BYL Jewelry",
 "JEWELRY",
 "RINGS",
-"WOMEN"
+"WOMEN",
+"women accessories"
 ],
 "in": true
 },
@@ -17225,12 +17177,12 @@
 "tags": [
 "BIMBA Y LOLA FW26",
 "BRACELETS",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "BYL Jewelry",
 "JEWELRY",
-"WOMEN"
+"WOMEN",
+"women accessories"
 ],
 "in": true
 },
@@ -17244,12 +17196,12 @@
 "type": "NECKLACES",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "JEWELRY",
 "NECKLACES",
 "WOMEN",
+"women accessories",
 "WOMEN NECKLACES"
 ],
 "in": true
@@ -17264,12 +17216,12 @@
 "type": "NECKLACES",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "JEWELRY",
 "NECKLACES",
 "WOMEN",
+"women accessories",
 "WOMEN NECKLACES"
 ],
 "in": true
@@ -17285,11 +17237,11 @@
 "tags": [
 "ACCESSORIES",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "SCARVES AND SHAWLS",
 "WOMEN",
+"women accessories",
 "WOMEN SCARVES AND SHAWLS"
 ],
 "in": true
@@ -17304,13 +17256,13 @@
 "type": "EARRINGS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "BYL Jewelry",
 "EARRINGS",
 "JEWELRY",
-"WOMEN"
+"WOMEN",
+"women accessories"
 ],
 "in": true
 },
@@ -17324,13 +17276,13 @@
 "type": "JACKETS AND COATS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl clothing",
 "byl fw26",
+"byl textile",
 "CLOTHING",
 "JACKETS AND COATS",
 "WOMEN",
-"WOMEN JACKETS AND COATS"
+"women clothing"
 ],
 "in": true
 },
@@ -17345,11 +17297,11 @@
 "tags": [
 "ACCESSORIES",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "SCARVES AND SHAWLS",
 "WOMEN",
+"women accessories",
 "WOMEN SCARVES AND SHAWLS"
 ],
 "in": true
@@ -17365,11 +17317,11 @@
 "tags": [
 "ACCESSORIES",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "SCARVES AND SHAWLS",
 "WOMEN",
+"women accessories",
 "WOMEN SCARVES AND SHAWLS"
 ],
 "in": true
@@ -17384,13 +17336,13 @@
 "type": "JACKETS AND COATS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl clothing",
 "byl fw26",
+"byl textile",
 "CLOTHING",
 "JACKETS AND COATS",
 "WOMEN",
-"WOMEN JACKETS AND COATS"
+"women clothing"
 ],
 "in": true
 },
@@ -17405,11 +17357,11 @@
 "tags": [
 "ACCESSORIES",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "SCARVES AND SHAWLS",
 "WOMEN",
+"women accessories",
 "WOMEN SCARVES AND SHAWLS"
 ],
 "in": true
@@ -17425,11 +17377,11 @@
 "tags": [
 "ACCESSORIES",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "SCARVES AND SHAWLS",
 "WOMEN",
+"women accessories",
 "WOMEN SCARVES AND SHAWLS"
 ],
 "in": true
@@ -17444,13 +17396,13 @@
 "type": "T-SHIRTS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl clothing",
 "byl fw26",
+"byl textile",
 "CLOTHING",
 "T-SHIRTS",
 "WOMEN",
-"WOMEN T-SHIRTS"
+"women clothing"
 ],
 "in": true
 },
@@ -17465,11 +17417,11 @@
 "tags": [
 "ACCESSORIES",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "SCARVES AND SHAWLS",
 "WOMEN",
+"women accessories",
 "WOMEN SCARVES AND SHAWLS"
 ],
 "in": true
@@ -17485,11 +17437,11 @@
 "tags": [
 "ACCESSORIES",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "SCARVES AND SHAWLS",
 "WOMEN",
+"women accessories",
 "WOMEN SCARVES AND SHAWLS"
 ],
 "in": false
@@ -17505,11 +17457,11 @@
 "tags": [
 "ACCESSORIES",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "SCARVES AND SHAWLS",
 "WOMEN",
+"women accessories",
 "WOMEN SCARVES AND SHAWLS"
 ],
 "in": true
@@ -17524,13 +17476,13 @@
 "type": "JEANS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl clothing",
 "byl fw26",
+"byl textile",
 "CLOTHING",
 "PANTS",
 "WOMEN",
-"WOMEN PANTS"
+"women clothing"
 ],
 "in": true
 },
@@ -17544,13 +17496,13 @@
 "type": "EARRINGS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "BYL Jewelry",
 "EARRINGS",
 "JEWELRY",
-"WOMEN"
+"WOMEN",
+"women accessories"
 ],
 "in": true
 },
@@ -17565,11 +17517,11 @@
 "tags": [
 "BILLFOLDS",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "SMALL LEATHER GOODS",
 "WOMEN",
+"women accessories",
 "WOMEN BILLFOLDS"
 ],
 "in": true
@@ -17584,12 +17536,12 @@
 "type": "WALLETS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "SMALL LEATHER GOODS",
 "WALLETS",
 "WOMEN",
+"women accessories",
 "WOMEN WALLETS"
 ],
 "in": true
@@ -17605,7 +17557,6 @@
 "tags": [
 "BAGS",
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl bags",
 "byl fw26",
 "LEATHER GOODS LUGGAGE",
@@ -17625,12 +17576,12 @@
 "tags": [
 "BIMBA Y LOLA FW26",
 "BRACELETS",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "BYL Jewelry",
 "JEWELRY",
-"WOMEN"
+"WOMEN",
+"women accessories"
 ],
 "in": true
 },
@@ -17644,12 +17595,12 @@
 "type": "NECKLACES",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "JEWELRY",
 "NECKLACES",
 "WOMEN",
+"women accessories",
 "WOMEN NECKLACES"
 ],
 "in": true
@@ -17664,13 +17615,13 @@
 "type": "EARRINGS",
 "tags": [
 "BIMBA Y LOLA FW26",
-"byl 26 mapping",
 "byl accessories",
 "byl fw26",
 "BYL Jewelry",
 "EARRINGS",
 "JEWELRY",
-"WOMEN"
+"WOMEN",
+"women accessories"
 ],
 "in": true
 },
@@ -18073,7 +18024,7 @@
 "WOMEN",
 "WOMEN WALLETS"
 ],
-"in": true
+"in": false
 },
 {
 "t": "New Dyson Airwrap Co-anda2x™ multi-styler and dryer - Straight+Wavy (Ceramic apricot/Topaz)",
@@ -18086,7 +18037,8 @@
 "tags": [
 "Dyson",
 "dyson haircare",
-"Dyson new"
+"Dyson new",
+"Dyson Regular"
 ],
 "in": true
 },
@@ -27888,7 +27840,7 @@
 "LRLDIS40",
 "WOMEN HAIRCARE"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Keratin Alpha Sleek Serum 50ML",
@@ -32084,7 +32036,7 @@
 "WOMEN",
 "WOMEN VANITY POUCHES"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Green striped towel",
@@ -32236,7 +32188,7 @@
 "WOMEN",
 "WOMEN PURSES"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Medium red nylon Pocket bag",
@@ -32483,7 +32435,7 @@
 "WOMEN",
 "WOMEN RINGS"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Red patchwork scarf",
@@ -32748,7 +32700,7 @@
 "WOMEN",
 "WOMEN BAGS"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Compact Dancers purse",
@@ -33035,7 +32987,7 @@
 "WOMEN",
 "WOMEN BRACELETS"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Pearls, conch shells and multicolor stones body chain",
@@ -33317,7 +33269,7 @@
 "WOMEN",
 "WOMEN RINGS"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Yellow leather coin purse",
@@ -33508,7 +33460,7 @@
 "WOMEN",
 "WOMEN FLIP FLOP"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Cream leather coin purse",
@@ -33819,7 +33771,7 @@
 "WOMEN",
 "WOMEN BAGS"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Mini off-white cotton crossbody bag",
@@ -34978,7 +34930,7 @@
 "WOMEN",
 "WOMEN BALLERINAS"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Yellow Cala Bimba striped towel",
@@ -35344,7 +35296,7 @@
 "WOMEN",
 "WOMEN VANITY POUCHES"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Medium emerald leather Paper shoulder bag",
@@ -35418,7 +35370,7 @@
 "WOMEN",
 "WOMEN SCARVES AND SHAWLS"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Silver beads and mother-of-pearl earrings",
@@ -35693,7 +35645,7 @@
 "WOMEN",
 "WOMEN TOP"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Micro yellow leather crossbody bag",
@@ -37370,7 +37322,7 @@
 "Kipling SS26 Second drop",
 "Kipling Women"
 ],
-"in": true
+"in": false
 },
 {
 "t": "NAOMI -I8863",
@@ -47250,7 +47202,7 @@
 "HYALURONIC ACID",
 "influencer code"
 ],
-"in": true
+"in": false
 },
 {
 "t": "MY CRUSH",
@@ -48313,7 +48265,7 @@
 "lgp sale aug",
 "LGP SALE JULY26"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Le Pliage Green Top Handle Bag M  -  1623919",
@@ -53360,24 +53312,6 @@
 "in": true
 },
 {
-"t": "Pink enamel flower hoop earrings",
-"u": "https://myholdal.com/products/buy-pink-enamel-flower-hoop-earrings-lebanon",
-"p": 44.0,
-"c": 110.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/download_d0f452c4-b979-4a5f-b0b1-0c1514bd681b.jpg?v=1762428321&width=400",
-"type": "EARRINGS",
-"tags": [
-"bimba bf  25",
-"BIMBA Y LOLA SS25",
-"BYL Jewelry",
-"JEWELRY",
-"WOMEN",
-"WOMEN EARRINGS"
-],
-"in": true
-},
-{
 "t": "Small desert leather Chihuahua bag",
 "u": "https://myholdal.com/products/buy-small-desert-leather-chihuahua-bag-lebanon",
 "p": 144.0,
@@ -55712,7 +55646,7 @@
 "WOMEN",
 "WOMEN VANITY POUCH"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Necklace with metal silhouettes and multicolor stones",
