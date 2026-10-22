@@ -1,5 +1,267 @@
 [
 {
+"t": "Garnier Salicylic Fresh & Matte Cream 85ml",
+"u": "https://sohaticare.com/products/garnier-salicylic-fresh-matte-cream-85ml",
+"p": 9.5,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/Garnier_Salicylic_Fresh_Matte_Cream.webp?v=1792658364&width=400",
+"type": "Face Cream",
+"tags": [
+"garnier-cream"
+],
+"in": true
+},
+{
+"t": "Garnier Hyaluron Fresh & Plump Cream 85ml",
+"u": "https://sohaticare.com/products/garnier-hyaluron-fresh-plump-cream-85ml",
+"p": 9.5,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/InternalbundleCPD_6.webp?v=1792658175&width=400",
+"type": "Face Cream",
+"tags": [
+"garnier-cream"
+],
+"in": true
+},
+{
+"t": "Garnier Vitamin C Fresh & Bright Cream 85ml",
+"u": "https://sohaticare.com/products/garnier-vitamin-c-fresh-bright-cream-85ml",
+"p": 9.5,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/Garnier_Vitamin_C_Cream.webp?v=1792658022&width=400",
+"type": "Face Cream",
+"tags": [
+"garnier-cream"
+],
+"in": true
+},
+{
+"t": "Roseliane CC cream -SPF550+ Light Tint -40ML",
+"u": "https://sohaticare.com/products/roseliane-cc-cream-spf550-light-tint-40ml",
+"p": 24.66,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/WhatsAppImage2026-10-22at9.29.53AM.jpg?v=1792650642&width=400",
+"type": "ANTI REDNESS CREAM",
+"tags": [],
+"in": false
+},
+{
+"t": "Dr. Althea GWP  *or an equivalent based on availability",
+"u": "https://sohaticare.com/products/dr-althea-gwp-or-an-equivalent-based-on-availability-copy-1",
+"p": 0.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/Dr.Althea-345-Cream-Mask_4bcde06a-d1ea-4a29-9801-ce9e7ea614de.webp?v=1792586707&width=400",
+"type": "GWP",
+"tags": [
+"_appmaker_disable_purchase",
+"appmaker.hide_product_status",
+"GWP",
+"hide_product_status",
+"SEARCHANISE_IGNORE",
+"wizzy-ignore"
+],
+"in": false
+},
+{
+"t": "Skin1004 GWP  *or an equivalent based on availability",
+"u": "https://sohaticare.com/products/skin1004-gwp-or-an-equivalent-based-on-availability-copy",
+"p": 0.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/Madagascar_Centella_Sachet_Duo.png?v=1792586202&width=400",
+"type": "GWP",
+"tags": [
+"_appmaker_disable_purchase",
+"appmaker.hide_product_status",
+"GWP",
+"hide_product_status",
+"SEARCHANISE_IGNORE",
+"wizzy-ignore"
+],
+"in": false
+},
+{
+"t": "La Roche-Posay Mela B3 Double Dose 40ml",
+"u": "https://sohaticare.com/products/la-roche-posay-mela-b3-double-dose-40ml",
+"p": 50.92,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/3337875944618_1.jpg?v=1792397474&width=400",
+"type": "Serum",
+"tags": [],
+"in": true
+},
+{
+"t": "Zero Pore Peel Pads 6G/0.21OZ",
+"u": "https://sohaticare.com/products/zero-pore-peel-pads",
+"p": 3.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/Zero-Pore-Peel-Pads-MEDICUBE.webp?v=1792572764&width=400",
+"type": "Pad",
+"tags": [],
+"in": true
+},
+{
+"t": "Azelaic Acid 20% B5 redness soothing cream 30ML",
+"u": "https://sohaticare.com/products/azelaic-acid-20-b5-redness-soothing-cream-30ml",
+"p": 22.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/WhatsAppImage2026-10-21at11.47.06AM.jpg?v=1792572442&width=400",
+"type": "Anti-Redness",
+"tags": [],
+"in": true
+},
+{
+"t": "Revlon One Step Volumiser RVDR5298E",
+"u": "https://sohaticare.com/products/revlon-one-step-volumiser-rvdr5298e",
+"p": 79.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/shopping_3dd6ae78-f9a6-4fa4-8220-bbd93153e081.webp?v=1792571701&width=400",
+"type": "Hot Air Brush",
+"tags": [],
+"in": true
+},
+{
+"t": "Revlon Style Twist Hair Dryer RVDR5320E",
+"u": "https://sohaticare.com/products/revlon-style-twist-hair-dryer-rvdr5320e",
+"p": 45.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/71_5GYVix7L.jpg?v=1792571188&width=400",
+"type": "Hair Dryer",
+"tags": [],
+"in": true
+},
+{
+"t": "Revlon 25mm Smoothstay Straightener RVST2211PE",
+"u": "https://sohaticare.com/products/revlon-25mm-smoothstay-straightener-rvst2211pe",
+"p": 52.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/rvst2211pe-a05028.webp?v=1792571133&width=400",
+"type": "Hair Straightener",
+"tags": [],
+"in": true
+},
+{
+"t": "Revlon Wave Master RVIR3056UKE",
+"u": "https://sohaticare.com/products/revlon-wave-master-rvir3056uke",
+"p": 55.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/RVIR3056UKE.jpg?v=1792571064&width=400",
+"type": "Hair Waver",
+"tags": [],
+"in": true
+},
+{
+"t": "Braun Manual Nasal Aspirator BNA050",
+"u": "https://sohaticare.com/products/braun-manual-nasal-aspirator-bna050",
+"p": 16.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/braun--manual-nasal-aspirator-bna050eu.jpg?v=1792570978&width=400",
+"type": "Nasal Aspirator",
+"tags": [],
+"in": true
+},
+{
+"t": "Braun ExactFit 1 Blood Pressure Monitor BUA4000",
+"u": "https://sohaticare.com/products/braun-exactfit-1-blood-pressure-monitor-bua4000",
+"p": 53.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/JutfJZZ4KAu6D0j5B1G6.png?v=1792570922&width=400",
+"type": "Blood Pressure Monitor",
+"tags": [],
+"in": true
+},
+{
+"t": "Braun ExactFit 2 Blood Pressure Monitor BUA4050",
+"u": "https://sohaticare.com/products/braun-exactfit-2-blood-pressure-monitor-bua4050",
+"p": 63.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/images_b345d387-3113-4274-8ef4-38f611910790.jpg?v=1792570809&width=400",
+"type": "Blood Pressure Monitor",
+"tags": [],
+"in": true
+},
+{
+"t": "Braun ExactFit 3 Blood Pressure Monitor BUA6150",
+"u": "https://sohaticare.com/products/braun-exactfit-3-blood-pressure-monitor-bua6150",
+"p": 109.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/kz3-1__97666.webp?v=1792570754&width=400",
+"type": "Blood Pressure Monitor",
+"tags": [],
+"in": true
+},
+{
+"t": "Braun No Touch 3-in-1 Thermometer BNT050EE",
+"u": "https://sohaticare.com/products/braun-no-touch-3-in-1-thermometer-bnt050ee",
+"p": 45.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/01.jpg?v=1792570707&width=400",
+"type": "Thermometer",
+"tags": [],
+"in": true
+},
+{
+"t": "Braun ThermoScan 3 Compact Ear Thermometer IRT3030EE",
+"u": "https://sohaticare.com/products/braun-thermoscan-3-compact-ear-thermometer-irt3030ee",
+"p": 64.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/kz2-1__66261.1739014278.1280.1280.webp?v=1792570668&width=400",
+"type": "Thermometer",
+"tags": [],
+"in": true
+},
+{
+"t": "Braun ThermoScan 6 Ear Thermometer IRT6515",
+"u": "https://sohaticare.com/products/braun-thermoscan-6-ear-thermometer-irt6515",
+"p": 95.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/271288.webp?v=1792569736&width=400",
+"type": "Thermometer",
+"tags": [],
+"in": true
+},
+{
+"t": "Filorga Daily Peel - Dark Spots 50ml",
+"u": "https://sohaticare.com/products/daily-peel-dark-spots-50ml",
+"p": 62.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/3540550020969_DAILY_PEEL_DS_0_VI.jpg?v=1790941024&width=400",
+"type": "Face Peel",
+"tags": [],
+"in": true
+},
+{
+"t": "Eric Favre Laboratoire NMN+ 60 Capsules",
+"u": "https://sohaticare.com/products/eric-favre-laboratoire-nmn-60-capsules",
+"p": 77.7,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/Untitled-design_6f5bc912-dada-4764-8424-5f1e87bac6a2.png?v=1792568004&width=400",
+"type": "Supplement",
+"tags": [],
+"in": true
+},
+{
 "t": "Buy Avène Sunscreen Tinted Fluid SPF 50+ 50ml & get the 2nd at 50% off",
 "u": "https://sohaticare.com/products/buy-avene-sunscreen-tinted-fluid-spf-50-50ml-get-the-2nd-at-50-off",
 "p": 36.0,
@@ -87,7 +349,7 @@
 "Giftset",
 "TOPOFFER"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Buy Bio-Oil Dry Skin Gel & get a FREE mini of your choice",
@@ -282,7 +544,7 @@
 "Giftset",
 "TOPOFFER"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Buy Frezyderm Anti-Wrinkle Rich Day Cream 45+ 50ml + Anti-Wrinkle Rich Night Cream 45+ 50ml & get a FREE Color Eye Balm 15ml",
@@ -1813,7 +2075,7 @@
 "Giftset",
 "nutripo_acne_aug26"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Buy Nutripo Hyal-C Facial Serum 30 ml & get a FREE one",
@@ -1835,12 +2097,12 @@
 "in": true
 },
 {
-"t": "🎁 Congratulations! Your order qualifies you for our giveaway! Your order number is now in the list to get the chance to WIN the MDO Transforming Kit. Good luck!",
+"t": "🎁 Congratulations! Your order qualifies you for our giveaway! It's your chance to Win the MDO Transforming Kit or a full Nutripo routine. Good luck!",
 "u": "https://sohaticare.com/products/get-the-chance-to-win-mdo-skin-transforming-kit",
 "p": 0.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/m_d970ba6b-4e46-4b07-8103-8524f4469b1f.webp?v=1782724229&width=400",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/200_WorthGiveawayPackshot.jpg?v=1792585058&width=400",
 "type": "GWP",
 "tags": [
 "appmaker.hide_product_status",
@@ -2455,7 +2717,7 @@
 "oily-bundle-nutripo",
 "TOPOFFER"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Buy Nutripo Matipore 3 in 1 50 ml & get a FREE Matipore Salicylic Acid 30 ml",
@@ -2515,7 +2777,7 @@
 "oily-bundle-nutripo",
 "TOPOFFER"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Lipo Redux Cryogel Cafeine 24H 1KG",
@@ -2736,7 +2998,7 @@
 {
 "t": "Original Shampoo 500ML",
 "u": "https://sohaticare.com/products/original-shampoo-500ml",
-"p": 14.0,
+"p": 16.61,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/Shampoo_Original.webp?v=1787222853&width=400",
@@ -3776,7 +4038,7 @@
 "PF_Sale_25",
 "summer_bundles_skincare-aug26"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Maybelline Lifter Gel Sugar Spritz, Lip Oil-in-Gel, Glassy, Bouncy Shine 6.6 ML / 0.22 FL OZ",
@@ -11221,26 +11483,6 @@
 "in": true
 },
 {
-"t": "Clear Skin Duo",
-"u": "https://sohaticare.com/products/oily-skin-balance-routine-copy",
-"p": 9.88,
-"c": 19.76,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/packshotNutripooffer5_d4d0ca02-0155-488c-8f2c-8d733d38fd6a.png?v=1777030055&width=400",
-"type": "Bundle",
-"tags": [
-"backtoschool-exclusive",
-"BOGO-Collection",
-"Bundle",
-"COMPENSATION_APR26",
-"Giftset",
-"Nutripo_Apr26",
-"openstock_nutripomay26",
-"TOPOFFER"
-],
-"in": true
-},
-{
 "t": "Brightening & Radiance Routine",
 "u": "https://sohaticare.com/products/plumping-firming-routine-copy-1",
 "p": 39.94,
@@ -14206,7 +14448,7 @@
 "Fatal_electro_apr26_available",
 "mencorner"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Braun Shaver 62-S1000s SILV BOX EURO",
@@ -15013,7 +15255,7 @@
 "COMPENSATION_JAN26",
 "COMPENSATION_MAR26"
 ],
-"in": false
+"in": true
 },
 {
 "t": "With any Purchase of Mela B3 Cream Get Mela B3 Serum 10ml",
@@ -17498,7 +17740,7 @@
 "mothersday26",
 "sunscreendiscount"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Dry touch protective fluid SPF 50+, PPD 30 40 ml",
@@ -18915,7 +19157,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/90304.webp?v=1769503565&width=400",
 "type": "",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Anti Pimple Patches",
@@ -23043,7 +23285,7 @@
 "New In Loolia Closet2025",
 "Tools"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Face Mask Chocolate Purifies & Refines Pores",
@@ -24018,7 +24260,7 @@
 "Giftset",
 "TOPOFFERS"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Pimple Clear Patch",
@@ -24094,7 +24336,7 @@
 "COMPENSATION_JAN26",
 "Giftset"
 ],
-"in": true
+"in": false
 },
 {
 "t": "15% Off: Hydra Bébé® Facial Cream 40ML + Hydra Bébé® Body lotion 300ML",
@@ -24967,7 +25209,7 @@
 "backtoschool-exclusive",
 "kocastar_may26"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Liftactiv H.A Epidermic Filler 30ML + Vitamin C 4 ml x2 (Gift)",
@@ -26585,7 +26827,7 @@
 "remington_mar26",
 "remington_promojan15"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Keratin Therapy Pro Straightener",
@@ -39295,7 +39537,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/hairb.webp?v=1753445066&width=400",
 "type": "Hair Spray",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "L’Oréal Professionnel | Blondifier Mask | for highlighted or blond hair | SERIE EXPERT | 250mL",
@@ -43924,244 +44166,5 @@
 "type": "Tools",
 "tags": [],
 "in": true
-},
-{
-"t": "CUSHION MAKEUP SPONGES",
-"u": "https://sohaticare.com/products/cushion-makeup-sponges",
-"p": 2.5,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/OPT-3157-CUSHIONMAKEUPSPONGEcopy.png?v=1748435322&width=400",
-"type": "Tools",
-"tags": [],
-"in": true
-},
-{
-"t": "POWDER PUFF SPONGE",
-"u": "https://sohaticare.com/products/powder-puff-sponge",
-"p": 2.78,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/OPT-3156-POWDERPUFFSPONGE-BEIGEcopy.png?v=1748435253&width=400",
-"type": "Tools",
-"tags": [],
-"in": true
-},
-{
-"t": "ROUNDED MAKEUP SPONGE",
-"u": "https://sohaticare.com/products/rounded-makeup-sponge",
-"p": 2.5,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/OPT-3155-ROUNDMAKEUPSPONGE_1_copy.png?v=1748435151&width=400",
-"type": "Tools",
-"tags": [],
-"in": true
-},
-{
-"t": "Buffer Nail file",
-"u": "https://sohaticare.com/products/buffer-nail-file",
-"p": 3.33,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/OPT-3147-3WAYSNAILBUFFER.png?v=1748434594&width=400",
-"type": "Tools",
-"tags": [],
-"in": true
-},
-{
-"t": "Blades for foot corn cutter",
-"u": "https://sohaticare.com/products/blades-for-foot-corn-cutter",
-"p": 1.67,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/OPT-3146.png?v=1748434542&width=400",
-"type": "Tools",
-"tags": [
-"HAND&FOOT"
-],
-"in": true
-},
-{
-"t": "CUTICULE AND NAIL CLEANER",
-"u": "https://sohaticare.com/products/cuticule-and-nail-cleaner",
-"p": 2.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/OPT-3140-CUTICLEREMOVER.png?v=1748434445&width=400",
-"type": "Tools",
-"tags": [],
-"in": false
-},
-{
-"t": "Steel Needle Comb Anti Lice",
-"u": "https://sohaticare.com/products/steel-needle-comb-anti-lice",
-"p": 1.5,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/OPT-3133-ANTI-LICESTEELNEEDLECOMB.png?v=1748434255&width=400",
-"type": "Tools",
-"tags": [],
-"in": true
-},
-{
-"t": "Callus remover",
-"u": "https://sohaticare.com/products/callus-remover",
-"p": 3.5,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/OPT-3132-CALLUSREMOVER-BLACKSANDSKIN.png?v=1748434038&width=400",
-"type": "Tools",
-"tags": [],
-"in": false
-},
-{
-"t": "Acne Pin",
-"u": "https://sohaticare.com/products/acne-pin",
-"p": 2.5,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/036_113908.jpg?v=1748510752&width=400",
-"type": "Tools",
-"tags": [],
-"in": true
-},
-{
-"t": "DOUBLE MIRROR DESK STAND",
-"u": "https://sohaticare.com/products/double-mirror-desk-stand",
-"p": 10.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/OPT-3123-GOLDMIRRORcopy.jpg?v=1748512530&width=400",
-"type": "Tools",
-"tags": [],
-"in": true
-},
-{
-"t": "PLASTIC HAIR BRUSH COMB WHITE SMALL",
-"u": "https://sohaticare.com/products/plastic-hair-brush-comb-white-small",
-"p": 1.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/OPT-3117-1.jpg?v=1748510818&width=400",
-"type": "Tools",
-"tags": [],
-"in": false
-},
-{
-"t": "PLASTIC HAIR BRUSH COMB BROWN SMALL",
-"u": "https://sohaticare.com/products/plastic-hair-brush-comb-brown-small",
-"p": 2.22,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/183_101957.jpg?v=1748511850&width=400",
-"type": "Tools",
-"tags": [],
-"in": true
-},
-{
-"t": "WOODEN HAIR BRUSH BIG",
-"u": "https://sohaticare.com/products/wooden-hair-brush-big",
-"p": 6.5,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/OPT-3113-1.jpg?v=1748510870&width=400",
-"type": "Tools",
-"tags": [],
-"in": false
-},
-{
-"t": "WOODEN HAIR BRUSH MEDIUM",
-"u": "https://sohaticare.com/products/wooden-hair-brush-medium",
-"p": 6.67,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/OPT-3112-1.jpg?v=1748510929&width=400",
-"type": "Tools",
-"tags": [],
-"in": false
-},
-{
-"t": "EYELASH CURLER PEARL MATT",
-"u": "https://sohaticare.com/products/eyelash-curler-pearl-matt",
-"p": 4.44,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/673_103831.jpg?v=1748511075&width=400",
-"type": "Tools",
-"tags": [],
-"in": false
-},
-{
-"t": "EYEBROWSCISSORS SATIN",
-"u": "https://sohaticare.com/products/eyebrowscissors-satin",
-"p": 3.5,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/958_103830.png?v=1748511144&width=400",
-"type": "Tools",
-"tags": [],
-"in": false
-},
-{
-"t": "NAIL CLIPPERS GOLD PLATED",
-"u": "https://sohaticare.com/products/nail-clippers-gold-plated",
-"p": 2.75,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/720_103814.jpg?v=1748511210&width=400",
-"type": "Tools",
-"tags": [
-"lipcarecollec"
-],
-"in": true
-},
-{
-"t": "CUTICLE AND NAIL CLEANER",
-"u": "https://sohaticare.com/products/cuticle-and-nail-cleaner",
-"p": 2.22,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/The-Body-Set-Cuticle-And-Nail-Cleaner_d234063b-dff4-4c18-be0a-5089cf4dd793.jpg?v=1755584086&width=400",
-"type": "Tools",
-"tags": [],
-"in": true
-},
-{
-"t": "FOOT CARE CORN CUTTER",
-"u": "https://sohaticare.com/products/foot-care-corn-cutter",
-"p": 4.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/136_101945.jpg?v=1748511940&width=400",
-"type": "Tools",
-"tags": [
-"HAND&FOOT"
-],
-"in": true
-},
-{
-"t": "STAINLESS STEEL NAIL FILE",
-"u": "https://sohaticare.com/products/stainless-steel-nail-file",
-"p": 3.33,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/620_103824.jpg?v=1748511295&width=400",
-"type": "Tools",
-"tags": [],
-"in": false
-},
-{
-"t": "FOOT CARE FOOT FILE",
-"u": "https://sohaticare.com/products/foot-care-foot-file",
-"p": 3.3,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/220_101944.jpg?v=1748511339&width=400",
-"type": "Tools",
-"tags": [
-"HAND&FOOT"
-],
-"in": false
 }
 ]
