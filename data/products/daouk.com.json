@@ -1,5 +1,35 @@
 [
 {
+"t": "HTC EF 2028 Professional Hair Dryer 2300W",
+"u": "https://daouk.com/products/htc-ef-2028-hair-dryer-high-speed-professional-salon-quality",
+"p": 55.0,
+"c": 59.23,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/logo_5.png?v=1771681258&width=400",
+"type": "HAIR DRYER",
+"tags": [
+"Hairdryer",
+"kb-rewritten"
+],
+"in": true
+},
+{
+"t": "HTC EF 2012 Professional Hair Dryer 2200W",
+"u": "https://daouk.com/products/htc-ef-2012-professional-hair-dryer",
+"p": 45.0,
+"c": 59.23,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/HTC_EF-_2012_Professional_Hair_Dryer_2200W.png?v=1756072381&width=400",
+"type": "HAIR DRYER",
+"tags": [
+"hair dryer 2200",
+"hair dryer 2200W",
+"HTC",
+"kb-rewritten"
+],
+"in": true
+},
+{
 "t": "Test-1",
 "u": "https://daouk.com/products/test-2",
 "p": 1.0,
@@ -1217,7 +1247,7 @@
 "kb-rewritten",
 "seo-rewritten"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Cheung Plastic Tint Brush 1152",
@@ -1843,7 +1873,7 @@
 "haircare",
 "JUST FOR MEN"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Just For Men M45 Dark Brown Beard Color",
@@ -9780,7 +9810,7 @@
 "Nail Polish",
 "seo-rewritten"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Pastel Nail Polish 261",
@@ -47824,40 +47854,6 @@
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/products/signature-scents-a-la-folie-eau-de-parfum-80ml-izzat-daouk-1.jpg?v=1792171299&width=400",
-"type": "Perfume",
-"tags": [
-"body scents",
-"body scents for her",
-"eau de perfume for her",
-"kb-rewritten",
-"seo-rewritten"
-],
-"in": true
-},
-{
-"t": "Signature Scents Star Sparkl Eau de Parfum 80ml",
-"u": "https://daouk.com/products/signature-scents-star-sparkl-eau-de-parfum-80ml",
-"p": 38.43,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/products/signature-scents-star-sparkl-eau-de-parfum-80ml-izzat-daouk-1.jpg?v=1792171299&width=400",
-"type": "Perfume",
-"tags": [
-"body scents",
-"body scents for her",
-"eau de perfume for her",
-"kb-rewritten",
-"seo-rewritten"
-],
-"in": true
-},
-{
-"t": "Signature Scents Dream Eau de Parfum 80ml",
-"u": "https://daouk.com/products/signature-scents-dream-eau-de-parfum-80ml",
-"p": 38.43,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/products/signature-scents-dream-eau-de-parfum-80ml-izzat-daouk-1.jpg?v=1792171299&width=400",
 "type": "Perfume",
 "tags": [
 "body scents",

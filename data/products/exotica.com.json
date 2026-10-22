@@ -2,7 +2,7 @@
 {
 "t": "Autumn Sweetness",
 "u": "https://exotica.com/products/autumn-sweetness",
-"p": 75.0,
+"p": 146.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/fall-in-love.jpg?v=1735637859&width=400",
@@ -13,7 +13,7 @@
 {
 "t": "Velvet Sunshine",
 "u": "https://exotica.com/products/velvet-sunshine",
-"p": 95.0,
+"p": 122.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/velvet-sunshine.jpg?v=1735637856&width=400",
@@ -33,7 +33,7 @@
 {
 "t": "My Sweet Pumpkin",
 "u": "https://exotica.com/products/my-sweet-pumpkin",
-"p": 185.0,
+"p": 165.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/My-Sweet-Pumpkin.jpg?v=1735637840&width=400",
@@ -44,7 +44,7 @@
 {
 "t": "Petal Kiss",
 "u": "https://exotica.com/products/petal-kiss",
-"p": 60.0,
+"p": 86.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/petalkiss.jpg?v=1735637858&width=400",
@@ -714,7 +714,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Honeyed_Glow_-_Flower_with_honey.jpg?v=1789547822&width=400",
 "type": "Flowers",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Violet Aura",
@@ -890,7 +890,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Fallen_Leaves_-_Dried_Flowers.jpg?v=1789545002&width=400",
 "type": "Flowers",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Pumpkins & Petals",
@@ -1001,7 +1001,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Cozy_Box.jpg?v=1791283564&width=400",
 "type": "Flowers",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Flamingo Red",
@@ -1113,7 +1113,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/1_0001_2.jpg?v=1757419383&width=400",
 "type": "Flowers",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "October Blush",
@@ -1894,7 +1894,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/sables_mini.jpg?v=1779106320&width=400",
 "type": "Add-Ons",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Mionetto Prosecco Rosé Mini",
@@ -1929,7 +1929,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Get_well_soon.jpg?v=1779105520&width=400",
 "type": "Add-Ons",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Pick Mom",
@@ -1951,7 +1951,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Untitled_design.jpg?v=1779106820&width=400",
 "type": "Add-Ons",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Pick Love Red",
@@ -2248,7 +2248,7 @@
 "Handheld Bouquets",
 "Pink"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Vanilla Roses",
@@ -2861,7 +2861,7 @@
 "For Teta",
 "Mixed Colors"
 ],
-"in": true
+"in": false
 },
 {
 "t": "The Spiky Plant",
@@ -3005,7 +3005,7 @@
 "Graduation",
 "Love & Romance"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Pink Paradise",
@@ -3274,7 +3274,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/DarkMilkRocher_SablesGourmet.webp?v=1781262306&width=400",
 "type": "Add-Ons",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "White Nobile",
@@ -4308,7 +4308,7 @@
 "Love & Romance",
 "Roses"
 ],
-"in": true
+"in": false
 },
 {
 "t": "I'm Blushing",
@@ -4366,7 +4366,7 @@
 "For Mom",
 "Mixed Colors"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Rush of Feelings",
@@ -4698,7 +4698,7 @@
 "New Born",
 "Teddy Bears"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Add Large Vase",
@@ -4814,7 +4814,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Sables-Gourmets---Chocolate-Small-Box.png?v=1735638005&width=400",
 "type": "Add-Ons",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Peace & Love",
@@ -4975,7 +4975,7 @@
 "For Mom",
 "For Teta"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Shades Of Passion",
@@ -5145,7 +5145,7 @@
 "Graduation",
 "Handheld Bouquets"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Yellow Puffs",
@@ -5165,7 +5165,7 @@
 "Get Well Soon",
 "Graduation"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Love Tenderly",
@@ -5185,7 +5185,7 @@
 "For Kids",
 "For Mom"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Blushing Petals",
@@ -5205,7 +5205,7 @@
 "Graduation",
 "Handheld Bouquets"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Rainbow Feels",
@@ -5787,7 +5787,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Pot_Bowl_Round_Fiberstone_0.jpg?v=1791541918&width=400",
 "type": "Pots & Vases",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Hurricane Nome Glass",
@@ -5897,7 +5897,7 @@
 "Roses",
 "White"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Serene Blessings",

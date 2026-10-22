@@ -1,5 +1,85 @@
 [
 {
+"t": "KOMIS KOMIS D515 SUEDE BROWN LOAFERS",
+"u": "https://comostore.me/products/komis-komis-d515-suede-brown-loafers",
+"p": 180.0,
+"c": null,
+"cur": "USD",
+"img": "",
+"type": "Loafers",
+"tags": [
+"KOMIS KOMIS IN LEBANON",
+"KOMIS KOMIS MADE IN GREECE",
+"komis made in greece",
+"LOAFERS",
+"Loafers in Beirut",
+"Loafers in Lebanon",
+"LORO PIANA",
+"LORO PIANA IN LEBANON"
+],
+"in": true
+},
+{
+"t": "KOMIS KOMIS D515 SUEDE SIGARO LOAFERS",
+"u": "https://comostore.me/products/komis-komis-d515-suede-sigaro-loafers",
+"p": 180.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1367/5161/files/comowebsitedesign-2026-10-22T135106.480.png?v=1792666485&width=400",
+"type": "Loafers",
+"tags": [
+"KOMIS KOMIS IN LEBANON",
+"KOMIS KOMIS MADE IN GREECE",
+"komis made in greece",
+"LOAFERS",
+"Loafers in Beirut",
+"Loafers in Lebanon",
+"LORO PIANA",
+"LORO PIANA IN LEBANON"
+],
+"in": true
+},
+{
+"t": "BIRKENSTOCK NAPLE DARK TEA SLIDES",
+"u": "https://comostore.me/products/birkenstock-naple-dark-tea-slides",
+"p": 240.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1367/5161/files/comowebsitedesign-2026-10-22T114757.630.png?v=1792659180&width=400",
+"type": "Slides",
+"tags": [
+"birken",
+"birkenstock",
+"birkenstock arizona",
+"birkenstock collection",
+"birkenstock essentials",
+"birkenstock flip flop",
+"birkenstock for women",
+"birkenstock gizeh"
+],
+"in": true
+},
+{
+"t": "HUNTER UNISEX DOWNPOUR TALL BOOT",
+"u": "https://comostore.me/products/hunter-unisex-downpour-tall-boot",
+"p": 210.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1367/5161/files/comowebsitedesign-2026-09-18T132847.863.png?v=1789733882&width=400",
+"type": "Boots",
+"tags": [
+"boots",
+"Boots at como store",
+"Boots in Beirut",
+"Boots in Lebanon",
+"hunter",
+"hunter rain boots",
+"hunter rain boots at como store",
+"hunter rain boots in lebanon"
+],
+"in": true
+},
+{
 "t": "LOVE MOSCHINO CHUNKY QUILTED BOOTS",
 "u": "https://comostore.me/products/love-moschino-chunky-quilted-boots",
 "p": 168.0,
@@ -1901,26 +1981,6 @@
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1367/5161/files/comowebsitedesign-2026-09-18T133219.843.png?v=1789733607&width=400",
-"type": "Boots",
-"tags": [
-"boots",
-"Boots at como store",
-"Boots in Beirut",
-"Boots in Lebanon",
-"hunter",
-"hunter rain boots",
-"hunter rain boots at como store",
-"hunter rain boots in lebanon"
-],
-"in": true
-},
-{
-"t": "HUNTER UNISEX DOWNPOUR TALL BOOT",
-"u": "https://comostore.me/products/hunter-unisex-downpour-tall-boot",
-"p": 210.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1367/5161/files/comowebsitedesign-2026-09-18T132847.863.png?v=1789733882&width=400",
 "type": "Boots",
 "tags": [
 "boots",
@@ -4111,7 +4171,7 @@
 "MELISSA slippers",
 "MELISSA spring/summer 2024 collection"
 ],
-"in": false
+"in": true
 },
 {
 "t": "HAVAIANAS ROSA FLUX CORAL SQUARE",
@@ -13430,7 +13490,7 @@
 "birkenstock for women",
 "birkenstock gizeh"
 ],
-"in": false
+"in": true
 },
 {
 "t": "BIRKENSTOCK ARIZONA SHEERLING TAUPE SLIDES",
@@ -22148,7 +22208,7 @@
 "como store number",
 "como-store"
 ],
-"in": false
+"in": true
 },
 {
 "t": "WINDSOR SMITH STRIKE BLACK BOOTS",
