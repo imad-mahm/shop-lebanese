@@ -10,12 +10,12 @@
 "tags": [
 "0-15",
 "00Discount",
-"Adwisely Exclude",
 "Alcohol Level:Medium",
 "crimson",
 "Food Pairing:Aperitif",
 "Food Pairing:Cold cuts",
-"Food Pairing:Grilled fish and seafood"
+"Food Pairing:Grilled fish and seafood",
+"Food Pairing:Lebanese Mezze"
 ],
 "in": true
 },
@@ -130,12 +130,12 @@
 "tags": [
 "0-15",
 "00Discount",
-"Adwisely Exclude",
 "Alcohol Level:Medium",
 "Bal",
 "BeirutCellar",
 "blossom",
-"Food Pairing:Aperitif"
+"Food Pairing:Aperitif",
+"Food Pairing:Cold cuts"
 ],
 "in": true
 },
@@ -150,12 +150,12 @@
 "tags": [
 "00Discount",
 "36-55",
-"Adwisely Exclude",
 "Alcohol Level:Medium",
 "Food Pairing:Red meat - Beef - Pork - Lamb",
 "Food Pairing:Strong cheese - Roquefort - Blue cheese",
 "Grape Varieties:Cabernet Sauvignon",
-"Grape Varieties:Merlot"
+"Grape Varieties:Merlot",
+"Grape Varieties:Petit Verdot"
 ],
 "in": true
 },
@@ -169,13 +169,13 @@
 "type": "Light Red Wine",
 "tags": [
 "0-15",
-"Adwisely Exclude",
 "Alcohol Level:Medium",
 "Food Pairing:Aperitif",
 "Food Pairing:Cold cuts",
 "Food Pairing:Grilled fish and seafood",
 "Food Pairing:Lebanese Mezze",
-"Food Pairing:Pasta and pizza"
+"Food Pairing:Pasta and pizza",
+"Food Pairing:Red meat - Beef - Pork - Lamb"
 ],
 "in": true
 },
@@ -230,12 +230,12 @@
 "tags": [
 "00Discount",
 "16-25",
-"Adwisely Exclude",
 "Alcohol Level:Medium",
 "Food Pairing:Aperitif",
 "Food Pairing:Cold cuts",
 "Food Pairing:Grilled fish and seafood",
-"Food Pairing:Lebanese Mezze"
+"Food Pairing:Lebanese Mezze",
+"Food Pairing:Pasta and pizza"
 ],
 "in": true
 },
@@ -250,12 +250,12 @@
 "tags": [
 "00Discount",
 "16-25",
-"Adwisely Exclude",
 "Alcohol Level:Medium",
 "Food Pairing:Red meat - Beef - Pork - Lamb",
 "Food Pairing:Strong cheese - Roquefort - Blue cheese",
 "Grape Varieties:Blend",
-"Grape Varieties:Cabernet Sauvignon"
+"Grape Varieties:Cabernet Sauvignon",
+"Grape Varieties:Syrah"
 ],
 "in": true
 },
@@ -290,12 +290,12 @@
 "tags": [
 "00Discount",
 "16-25",
-"Adwisely Exclude",
 "Alcohol Level:Medium",
 "Bal",
 "blossom",
 "Food Pairing:Aperitif",
-"Food Pairing:Cold cuts"
+"Food Pairing:Cold cuts",
+"Food Pairing:Grilled fish and seafood"
 ],
 "in": true
 },
@@ -370,12 +370,12 @@
 "tags": [
 "0-15",
 "00Discount",
-"Adwisely Exclude",
 "Alcohol Level:Medium",
 "blossom",
 "Chardonnay Single",
 "Food Pairing:Aperitif",
-"Food Pairing:Cold cuts"
+"Food Pairing:Cold cuts",
+"Food Pairing:Grilled fish and seafood"
 ],
 "in": false
 },
@@ -390,12 +390,12 @@
 "tags": [
 "00Discount",
 "16-25",
-"Adwisely Exclude",
 "Alcohol Level:High",
 "Food Pairing:Aperitif",
 "Food Pairing:Cold cuts",
 "Food Pairing:Grilled fish and seafood",
-"Food Pairing:Lebanese Mezze"
+"Food Pairing:Lebanese Mezze",
+"Food Pairing:Pasta and pizza"
 ],
 "in": false
 },
@@ -450,12 +450,12 @@
 "tags": [
 "00Discount",
 "16-25",
-"Adwisely Exclude",
 "Alcohol Level:Medium",
 "blossom",
 "Food Pairing:Aperitif",
 "Food Pairing:Cold cuts",
-"Food Pairing:Grilled fish and seafood"
+"Food Pairing:Grilled fish and seafood",
+"Food Pairing:Lebanese Mezze"
 ],
 "in": true
 },
@@ -470,12 +470,12 @@
 "tags": [
 "00Discount",
 "16-25",
-"Adwisely Exclude",
 "Alcohol Level:Medium",
 "blossom",
 "Food Pairing:Aperitif",
 "Food Pairing:Cold cuts",
-"Food Pairing:Grilled fish and seafood"
+"Food Pairing:Grilled fish and seafood",
+"Food Pairing:Lebanese Mezze"
 ],
 "in": true
 },
@@ -510,12 +510,12 @@
 "tags": [
 "00Discount",
 "16-25",
-"Adwisely Exclude",
 "Alcohol Level:Medium",
 "blossom",
 "Food Pairing:Aperitif",
 "Food Pairing:Cold cuts",
-"Food Pairing:Grilled fish and seafood"
+"Food Pairing:Grilled fish and seafood",
+"Food Pairing:Lebanese Mezze"
 ],
 "in": true
 },
@@ -550,12 +550,12 @@
 "tags": [
 "0-15",
 "00Discount",
-"Adwisely Exclude",
 "Alcohol Level:Medium",
 "bf",
 "Chardonnay Single",
 "Food Pairing:Aperitif",
-"Food Pairing:Cold cuts"
+"Food Pairing:Cold cuts",
+"Food Pairing:Grilled fish and seafood"
 ],
 "in": false
 },
@@ -571,11 +571,11 @@
 "0-15",
 "00Discount",
 "16-25",
-"Adwisely Exclude",
 "Alcohol Level:Medium",
 "Food Pairing:Aperitif",
 "Food Pairing:Cold cuts",
-"Food Pairing:Grilled fish and seafood"
+"Food Pairing:Grilled fish and seafood",
+"Food Pairing:Lebanese Mezze"
 ],
 "in": true
 },
@@ -590,12 +590,12 @@
 "tags": [
 "0-15",
 "00Discount",
-"Adwisely Exclude",
 "Alcohol Level:Medium",
 "blossom",
 "Food Pairing:Aperitif",
 "Food Pairing:Cold cuts",
-"Food Pairing:Grilled fish and seafood"
+"Food Pairing:Grilled fish and seafood",
+"Food Pairing:Lebanese Mezze"
 ],
 "in": true
 },
@@ -610,12 +610,12 @@
 "tags": [
 "00Discount",
 "26-35",
-"Adwisely Exclude",
 "Alcohol Level:Medium",
 "blossom",
 "Food Pairing:Aperitif",
 "Food Pairing:Cold cuts",
-"Food Pairing:Grilled fish and seafood"
+"Food Pairing:Grilled fish and seafood",
+"Food Pairing:Lebanese Mezze"
 ],
 "in": true
 },
@@ -630,12 +630,12 @@
 "tags": [
 "00Discount",
 "16-25",
-"Adwisely Exclude",
 "Alcohol Level:High",
 "Autumn",
 "Food Pairing:Aperitif",
 "Food Pairing:Cold cuts",
-"Food Pairing:Grilled fish and seafood"
+"Food Pairing:Grilled fish and seafood",
+"Food Pairing:Lebanese Mezze"
 ],
 "in": true
 },
@@ -650,12 +650,12 @@
 "tags": [
 "00Discount",
 "26-35",
-"Adwisely Exclude",
 "Alcohol Level:High",
 "Food Pairing:Aperitif",
 "Food Pairing:Cold cuts",
 "Food Pairing:Grilled fish and seafood",
-"Food Pairing:Lebanese Mezze"
+"Food Pairing:Lebanese Mezze",
+"Food Pairing:Light cheese - Goat cheese"
 ],
 "in": true
 },
@@ -670,12 +670,12 @@
 "tags": [
 "00Discount",
 "36-55",
-"Adwisely Exclude",
 "Alcohol Level:High",
 "Food Pairing:Red meat - Beef - Pork - Lamb",
 "Food Pairing:Strong cheese - Roquefort - Blue cheese",
 "Grape Varieties:Blend",
-"Grape Varieties:Cabernet Sauvignon"
+"Grape Varieties:Cabernet Sauvignon",
+"Grape Varieties:Merlot"
 ],
 "in": true
 },
@@ -710,12 +710,12 @@
 "tags": [
 "00Discount",
 "16-25",
-"Adwisely Exclude",
 "Alcohol Level:High",
 "Autumn",
 "Food Pairing:Red meat - Beef - Pork - Lamb",
 "Food Pairing:Strong cheese - Roquefort - Blue cheese",
-"Grape Varieties:Blend"
+"Grape Varieties:Blend",
+"Grape Varieties:Cabernet Sauvignon"
 ],
 "in": true
 },
@@ -730,12 +730,12 @@
 "tags": [
 "00Discount",
 "16-25",
-"Adwisely Exclude",
 "Alcohol Level:Medium",
 "blossom",
 "Chardonnay Single",
 "Food Pairing:Aperitif",
-"Food Pairing:Cold cuts"
+"Food Pairing:Cold cuts",
+"Food Pairing:Grilled fish and seafood"
 ],
 "in": true
 },
@@ -750,12 +750,12 @@
 "tags": [
 "0-15",
 "00Discount",
-"Adwisely Exclude",
 "Alcohol Level:Medium",
 "Bal",
 "BeirutCellar",
 "blossom",
-"Chardonnay Single"
+"Chardonnay Single",
+"Food Pairing:Aperitif"
 ],
 "in": true
 },
@@ -770,12 +770,12 @@
 "tags": [
 "00Discount",
 "36-55",
-"Adwisely Exclude",
 "Alcohol Level:High",
 "Bal",
 "BR",
 "Cozy",
-"Food Pairing:Red meat - Beef - Pork - Lamb"
+"Food Pairing:Red meat - Beef - Pork - Lamb",
+"Food Pairing:Strong cheese - Roquefort - Blue cheese"
 ],
 "in": true
 },
@@ -790,12 +790,12 @@
 "tags": [
 "00Discount",
 "36-55",
-"Adwisely Exclude",
 "Food Pairing:Aperitif",
 "Food Pairing:Cold cuts",
 "Food Pairing:Grilled fish and seafood",
 "Food Pairing:Lebanese Mezze",
-"Food Pairing:Light cheese - Goat cheese"
+"Food Pairing:Light cheese - Goat cheese",
+"Food Pairing:Pasta and pizza"
 ],
 "in": true
 },
@@ -828,12 +828,12 @@
 "tags": [
 "00Discount",
 "16-25",
-"Adwisely Exclude",
 "Alcohol Level:Medium",
 "Food Pairing:Red meat - Beef - Pork - Lamb",
 "Food Pairing:Strong cheese - Roquefort - Blue cheese",
 "Grape Varieties:Blend",
-"Grape Varieties:Cabernet Sauvignon"
+"Grape Varieties:Cabernet Sauvignon",
+"Grape Varieties:Syrah"
 ],
 "in": true
 },
@@ -848,12 +848,12 @@
 "tags": [
 "0-15",
 "00Discount",
-"Adwisely Exclude",
 "Alcohol Level:High",
 "Autumn",
 "bf",
 "Earthy",
-"Food Pairing:Red meat - Beef - Pork - Lamb"
+"Food Pairing:Red meat - Beef - Pork - Lamb",
+"Food Pairing:Strong cheese - Roquefort - Blue cheese"
 ],
 "in": true
 },
@@ -868,7 +868,6 @@
 "tags": [
 "00Discount",
 "56+",
-"Adwisely Exclude",
 "Alcohol Level:High",
 "Region:Mount Lebanon",
 "Tannins:No Tannins",
@@ -887,7 +886,6 @@
 "tags": [
 "00Discount",
 "36-55",
-"Adwisely Exclude",
 "Alcohol Level:High",
 "Region:Mount Lebanon",
 "Tannins:No Tannins",
@@ -906,7 +904,6 @@
 "tags": [
 "00Discount",
 "36-55",
-"Adwisely Exclude",
 "Alcohol Level:High",
 "Region:Mount Lebanon",
 "Tannins:No Tannins",
@@ -942,7 +939,6 @@
 "tags": [
 "00Discount",
 "36-55",
-"Adwisely Exclude",
 "Alcohol Level:High",
 "Region:Mount Lebanon",
 "Tannins:No Tannins",
@@ -960,7 +956,6 @@
 "type": "Whisky",
 "tags": [
 "00Discount",
-"Adwisely Exclude",
 "Alcohol Level:High",
 "Region:Mount Lebanon",
 "Tannins:No Tannins",
@@ -1019,12 +1014,12 @@
 "tags": [
 "0-15",
 "00Discount",
-"Adwisely Exclude",
 "Alcohol Level:Medium",
 "Exclusive",
 "Food Pairing:Aperitif",
 "Food Pairing:Cold cuts",
-"Food Pairing:Grilled fish and seafood"
+"Food Pairing:Grilled fish and seafood",
+"Food Pairing:Lebanese Mezze"
 ],
 "in": true
 },
@@ -1099,12 +1094,12 @@
 "tags": [
 "00Discount",
 "56+",
-"Adwisely Exclude",
 "Alcohol Level:High",
 "CHR25",
 "Food Pairing:Red meat - Beef - Pork - Lamb",
 "Food Pairing:Strong cheese - Roquefort - Blue cheese",
-"Grape Varieties:Cabernet Sauvignon"
+"Grape Varieties:Cabernet Sauvignon",
+"Grape Varieties:Carignan"
 ],
 "in": true
 },
@@ -1119,12 +1114,12 @@
 "tags": [
 "00Discount",
 "56+",
-"Adwisely Exclude",
 "Alcohol Level:High",
 "CHR25",
 "Food Pairing:Red meat - Beef - Pork - Lamb",
 "Food Pairing:Strong cheese - Roquefort - Blue cheese",
-"Grape Varieties:Cabernet Sauvignon"
+"Grape Varieties:Cabernet Sauvignon",
+"Grape Varieties:Carignan"
 ],
 "in": true
 },
@@ -1139,12 +1134,12 @@
 "tags": [
 "00Discount",
 "56+",
-"Adwisely Exclude",
 "Alcohol Level:High",
 "CHR25",
 "Food Pairing:Red meat - Beef - Pork - Lamb",
 "Food Pairing:Strong cheese - Roquefort - Blue cheese",
-"Grape Varieties:Blend"
+"Grape Varieties:Blend",
+"Grape Varieties:Cabernet Sauvignon"
 ],
 "in": true
 },
@@ -1159,12 +1154,12 @@
 "tags": [
 "00Discount",
 "56+",
-"Adwisely Exclude",
 "Alcohol Level:Medium",
 "CHR25",
 "Food Pairing:Red meat - Beef - Pork - Lamb",
 "Food Pairing:Strong cheese - Roquefort - Blue cheese",
-"Grape Varieties:Blend"
+"Grape Varieties:Blend",
+"Grape Varieties:Cabernet Sauvignon"
 ],
 "in": true
 },
@@ -1179,12 +1174,12 @@
 "tags": [
 "00Discount",
 "56+",
-"Adwisely Exclude",
 "Alcohol Level:Medium",
 "CHR25",
 "Food Pairing:Red meat - Beef - Pork - Lamb",
 "Food Pairing:Strong cheese - Roquefort - Blue cheese",
-"Grape Varieties:Blend"
+"Grape Varieties:Blend",
+"Grape Varieties:Cabernet Sauvignon"
 ],
 "in": true
 },
@@ -1199,12 +1194,12 @@
 "tags": [
 "00Discount",
 "56+",
-"Adwisely Exclude",
 "Alcohol Level:Medium",
 "CHR25",
 "Food Pairing:Red meat - Beef - Pork - Lamb",
 "Food Pairing:Strong cheese - Roquefort - Blue cheese",
-"Grape Varieties:Blend"
+"Grape Varieties:Blend",
+"Grape Varieties:Cabernet Sauvignon"
 ],
 "in": true
 },
@@ -1219,12 +1214,12 @@
 "tags": [
 "0-15",
 "00Discount",
-"Adwisely Exclude",
 "Alcohol Level:Medium",
 "bf",
 "blossom",
 "Food Pairing:Aperitif",
-"Food Pairing:Cold cuts"
+"Food Pairing:Cold cuts",
+"Food Pairing:Grilled fish and seafood"
 ],
 "in": true
 },
@@ -1239,12 +1234,12 @@
 "tags": [
 "0-15",
 "00Discount",
-"Adwisely Exclude",
 "Alcohol Level:Medium",
 "bf",
 "elias",
 "Food Pairing:Aperitif",
-"Food Pairing:Cold cuts"
+"Food Pairing:Cold cuts",
+"Food Pairing:Grilled fish and seafood"
 ],
 "in": true
 },
@@ -1259,12 +1254,12 @@
 "tags": [
 "0-15",
 "00Discount",
-"Adwisely Exclude",
 "Alcohol Level:Medium",
 "bf",
 "elias",
 "Food Pairing:Red meat - Beef - Pork - Lamb",
-"Food Pairing:Strong cheese - Roquefort - Blue cheese"
+"Food Pairing:Strong cheese - Roquefort - Blue cheese",
+"Grape Varieties:Mourvedre"
 ],
 "in": true
 },
@@ -1319,12 +1314,12 @@
 "tags": [
 "0-15",
 "00Discount",
-"Adwisely Exclude",
 "Alcohol Level:High",
 "bf",
 "CS",
 "Food Pairing:Red meat - Beef - Pork - Lamb",
-"Food Pairing:Strong cheese - Roquefort - Blue cheese"
+"Food Pairing:Strong cheese - Roquefort - Blue cheese",
+"Grape Varieties:Cabernet Sauvignon"
 ],
 "in": true
 },
@@ -1359,12 +1354,12 @@
 "tags": [
 "00Discount",
 "16-25",
-"Adwisely Exclude",
 "Alcohol Level:Medium",
 "Food Pairing:Aperitif",
 "Food Pairing:Caviar",
 "Food Pairing:Desserts",
-"Food Pairing:Foie gras"
+"Food Pairing:Foie gras",
+"Food Pairing:Grilled fish and seafood"
 ],
 "in": true
 },
@@ -1379,12 +1374,12 @@
 "tags": [
 "00Discount",
 "16-25",
-"Adwisely Exclude",
 "Alcohol Level:Medium",
 "Food Pairing:Aperitif",
 "Food Pairing:Caviar",
 "Food Pairing:Desserts",
-"Food Pairing:Foie gras"
+"Food Pairing:Foie gras",
+"Food Pairing:Grilled fish and seafood"
 ],
 "in": true
 },
@@ -1399,12 +1394,12 @@
 "tags": [
 "00Discount",
 "26-35",
-"Adwisely Exclude",
 "Alcohol Level:High",
 "Bal",
 "horeca",
 "Levain",
-"sunset"
+"sunset",
+"Type:Arak"
 ],
 "in": true
 },
@@ -1419,12 +1414,12 @@
 "tags": [
 "00Discount",
 "26-35",
-"Adwisely Exclude",
 "Alcohol Level:High",
 "Bal",
 "horeca",
 "Levain",
-"sunset"
+"sunset",
+"Type:Arak"
 ],
 "in": true
 },
@@ -1440,11 +1435,11 @@
 "00Discount",
 "26-35",
 "36-55",
-"Adwisely Exclude",
 "Alcohol Level:Medium",
 "blossom",
 "Food Pairing:Aperitif",
-"Food Pairing:Cold cuts"
+"Food Pairing:Cold cuts",
+"Food Pairing:Grilled fish and seafood"
 ],
 "in": true
 },
@@ -1537,12 +1532,12 @@
 "tags": [
 "00Discount",
 "16-25",
-"Adwisely Exclude",
 "Alcohol Level:High",
 "Bal",
 "crimson",
 "Food Pairing:Red meat - Beef - Pork - Lamb",
-"Food Pairing:Strong cheese - Roquefort - Blue cheese"
+"Food Pairing:Strong cheese - Roquefort - Blue cheese",
+"Grape Varieties:Cabernet Franc"
 ],
 "in": true
 },
@@ -1557,12 +1552,12 @@
 "tags": [
 "0-15",
 "00Discount",
-"Adwisely Exclude",
 "Alcohol Level:Medium",
 "Food Pairing:Aperitif",
 "Food Pairing:Cold cuts",
 "Food Pairing:Grilled fish and seafood",
-"Food Pairing:Lebanese Mezze"
+"Food Pairing:Lebanese Mezze",
+"Food Pairing:Pasta and pizza"
 ],
 "in": true
 },
@@ -1577,12 +1572,12 @@
 "tags": [
 "00Discount",
 "36-55",
-"Adwisely Exclude",
 "Alcohol Level:Medium",
 "Bal",
 "BR",
 "Food Pairing:Red meat - Beef - Pork - Lamb",
-"Food Pairing:Strong cheese - Roquefort - Blue cheese"
+"Food Pairing:Strong cheese - Roquefort - Blue cheese",
+"Grape Varieties:Blend"
 ],
 "in": true
 },
@@ -1597,12 +1592,12 @@
 "tags": [
 "0-15",
 "00Discount",
-"Adwisely Exclude",
 "Alcohol Level:Medium",
 "blossom",
 "Food Pairing:Aperitif",
 "Food Pairing:Cold cuts",
-"Food Pairing:Grilled fish and seafood"
+"Food Pairing:Grilled fish and seafood",
+"Food Pairing:Lebanese Mezze"
 ],
 "in": true
 },
@@ -1617,12 +1612,12 @@
 "tags": [
 "00Discount",
 "56+",
-"Adwisely Exclude",
 "Alcohol Level:Medium",
 "BR",
 "Food Pairing:Red meat - Beef - Pork - Lamb",
 "Food Pairing:Strong cheese - Roquefort - Blue cheese",
-"Grape Varieties:Cabernet Sauvignon"
+"Grape Varieties:Cabernet Sauvignon",
+"Grape Varieties:Syrah"
 ],
 "in": true
 },
@@ -1637,12 +1632,12 @@
 "tags": [
 "0-15",
 "00Discount",
-"Adwisely Exclude",
 "Alcohol Level:Medium",
 "BeirutCellar",
 "blossom",
 "Food Pairing:Aperitif",
-"Food Pairing:Cold cuts"
+"Food Pairing:Cold cuts",
+"Food Pairing:Grilled fish and seafood"
 ],
 "in": true
 },
@@ -1657,12 +1652,12 @@
 "tags": [
 "00Discount",
 "36-55",
-"Adwisely Exclude",
 "Alcohol Level:High",
 "blossom",
 "Levain",
 "Region:Bekaa Valley",
-"sunset"
+"sunset",
+"Type:Arak"
 ],
 "in": true
 },
@@ -1737,12 +1732,12 @@
 "tags": [
 "0-15",
 "00Discount",
-"Adwisely Exclude",
 "Alcohol Level:Medium",
 "Food Pairing:Aperitif",
 "Food Pairing:Cold cuts",
 "Food Pairing:Grilled fish and seafood",
-"Food Pairing:Lebanese Mezze"
+"Food Pairing:Lebanese Mezze",
+"Food Pairing:Pasta and pizza"
 ],
 "in": false
 },
@@ -1757,12 +1752,12 @@
 "tags": [
 "00Discount",
 "16-25",
-"Adwisely Exclude",
 "Alcohol Level:Medium",
 "BeirutCellar",
 "GingerPertutti",
 "Grape Varieties:Cabernet Franc",
-"Grape Varieties:Single Varietal"
+"Grape Varieties:Single Varietal",
+"Horeca"
 ],
 "in": true
 },
@@ -1777,12 +1772,12 @@
 "tags": [
 "0-15",
 "00Discount",
-"Adwisely Exclude",
 "Alcohol Level:Medium",
 "blossom",
 "Chardonnay Single",
 "Food Pairing:Aperitif",
-"Food Pairing:Cold cuts"
+"Food Pairing:Cold cuts",
+"Food Pairing:Grilled fish and seafood"
 ],
 "in": true
 },
@@ -1797,12 +1792,12 @@
 "tags": [
 "0-15",
 "00Discount",
-"Adwisely Exclude",
 "Alcohol Level:High",
 "Levain",
 "Medals:Gold",
 "Region:Bekaa Valley",
-"sunset"
+"sunset",
+"Tannins:No Tannins"
 ],
 "in": true
 },
@@ -1857,12 +1852,12 @@
 "tags": [
 "0-15",
 "00Discount",
-"Adwisely Exclude",
 "Alcohol Level:High",
 "Cozy",
 "Food Pairing:Red meat - Beef - Pork - Lamb",
 "Food Pairing:Strong cheese - Roquefort - Blue cheese",
-"Grape Varieties:Single Varietal"
+"Grape Varieties:Single Varietal",
+"Grape Varieties:Syrah"
 ],
 "in": true
 },
@@ -1956,12 +1951,12 @@
 "tags": [
 "0-15",
 "00Discount",
-"Adwisely Exclude",
 "Alcohol Level:Medium",
 "crimson",
 "Food Pairing:Aperitif",
 "Food Pairing:Cold cuts",
-"Food Pairing:Grilled fish and seafood"
+"Food Pairing:Grilled fish and seafood",
+"Food Pairing:Lebanese Mezze"
 ],
 "in": true
 },
@@ -1976,12 +1971,12 @@
 "tags": [
 "0-15",
 "00Discount",
-"Adwisely Exclude",
 "Alcohol Level:Medium",
 "Bal",
 "Food Pairing:Red meat - Beef - Pork - Lamb",
 "Food Pairing:Strong cheese - Roquefort - Blue cheese",
-"Grape Varieties:Single Varietal"
+"Grape Varieties:Single Varietal",
+"Grape Varieties:Syrah"
 ],
 "in": true
 },
@@ -2016,12 +2011,12 @@
 "tags": [
 "0-15",
 "00Discount",
-"Adwisely Exclude",
 "Alcohol Level:Medium",
 "blossom",
 "Food Pairing:Aperitif",
 "Food Pairing:Cold cuts",
-"Food Pairing:Grilled fish and seafood"
+"Food Pairing:Grilled fish and seafood",
+"Food Pairing:Lebanese Mezze"
 ],
 "in": true
 },
@@ -2036,12 +2031,12 @@
 "tags": [
 "00Discount",
 "16-25",
-"Adwisely Exclude",
 "Alcohol Level:Medium",
 "Food Pairing:Red meat - Beef - Pork - Lamb",
 "Food Pairing:Strong cheese - Roquefort - Blue cheese",
 "Grape Varieties:Blend",
-"Grape Varieties:Cabernet Sauvignon"
+"Grape Varieties:Cabernet Sauvignon",
+"Grape Varieties:Merlot"
 ],
 "in": true
 },
@@ -2076,12 +2071,12 @@
 "tags": [
 "0-15",
 "00Discount",
-"Adwisely Exclude",
 "Alcohol Level:Medium",
 "bachelor",
 "CS",
 "Food Pairing:Red meat - Beef - Pork - Lamb",
-"Food Pairing:Strong cheese - Roquefort - Blue cheese"
+"Food Pairing:Strong cheese - Roquefort - Blue cheese",
+"Grape Varieties:Cabernet Sauvignon"
 ],
 "in": true
 },
@@ -2137,11 +2132,11 @@
 "0-15",
 "00Discount",
 "2018",
-"Adwisely Exclude",
 "Alcohol Level:Medium",
 "Cozy",
 "Food Pairing:Red meat - Beef - Pork - Lamb",
-"Food Pairing:Strong cheese - Roquefort - Blue cheese"
+"Food Pairing:Strong cheese - Roquefort - Blue cheese",
+"Grape Varieties:Blend"
 ],
 "in": true
 },
@@ -2156,12 +2151,12 @@
 "tags": [
 "00Discount",
 "26-35",
-"Adwisely Exclude",
 "Alcohol Level:Medium",
 "Food Pairing:Red meat - Beef - Pork - Lamb",
 "Food Pairing:Strong cheese - Roquefort - Blue cheese",
 "Grape Varieties:Blend",
-"Grape Varieties:Cabernet Sauvignon"
+"Grape Varieties:Cabernet Sauvignon",
+"Grape Varieties:Merlot"
 ],
 "in": false
 },
@@ -2209,12 +2204,12 @@
 "tags": [
 "00Discount",
 "16-25",
-"Adwisely Exclude",
 "Alcohol Level:High",
 "Food Pairing:Red meat - Beef - Pork - Lamb",
 "Food Pairing:Strong cheese - Roquefort - Blue cheese",
 "Grape Varieties:Blend",
-"Grape Varieties:Cabernet Sauvignon"
+"Grape Varieties:Cabernet Sauvignon",
+"Grape Varieties:Merlot"
 ],
 "in": true
 },
@@ -2229,12 +2224,12 @@
 "tags": [
 "00Discount",
 "26-35",
-"Adwisely Exclude",
 "Alcohol Level:Medium",
 "Food Pairing:Red meat - Beef - Pork - Lamb",
 "Food Pairing:Strong cheese - Roquefort - Blue cheese",
 "Grape Varieties:Blend",
-"Grape Varieties:Cabernet Sauvignon"
+"Grape Varieties:Cabernet Sauvignon",
+"Grape Varieties:Carignan"
 ],
 "in": true
 },
@@ -2249,12 +2244,12 @@
 "tags": [
 "00Discount",
 "16-25",
-"Adwisely Exclude",
 "Alcohol Level:Medium",
 "Food Pairing:Aperitif",
 "Food Pairing:Cold cuts",
 "Food Pairing:Grilled fish and seafood",
-"Food Pairing:Lebanese Mezze"
+"Food Pairing:Lebanese Mezze",
+"Food Pairing:Light cheese - Goat cheese"
 ],
 "in": true
 },
@@ -2289,12 +2284,12 @@
 "tags": [
 "00Discount",
 "26-35",
-"Adwisely Exclude",
 "Alcohol Level:Medium",
 "Food Pairing:Aperitif",
 "Food Pairing:Cold cuts",
 "Food Pairing:Grilled fish and seafood",
-"Food Pairing:Lebanese Mezze"
+"Food Pairing:Lebanese Mezze",
+"Food Pairing:Light cheese - Goat cheese"
 ],
 "in": false
 },
@@ -2329,7 +2324,6 @@
 "tags": [
 "00Discount",
 "16-25",
-"Adwisely Exclude",
 "Alcohol Level:High",
 "blossom",
 "horeca",
@@ -2349,12 +2343,12 @@
 "tags": [
 "00Discount",
 "26-35",
-"Adwisely Exclude",
 "Alcohol Level:High",
 "Bal",
 "Food Pairing:Red meat - Beef - Pork - Lamb",
 "Food Pairing:Strong cheese - Roquefort - Blue cheese",
-"Grape Varieties:Blend"
+"Grape Varieties:Blend",
+"Grape Varieties:Merlot"
 ],
 "in": false
 },
@@ -2389,12 +2383,12 @@
 "tags": [
 "00Discount",
 "16-25",
-"Adwisely Exclude",
 "Alcohol Level:Medium",
 "elias",
 "Food Pairing:Red meat - Beef - Pork - Lamb",
 "Food Pairing:Strong cheese - Roquefort - Blue cheese",
-"Grape Varieties:Cabernet Franc"
+"Grape Varieties:Cabernet Franc",
+"Grape Varieties:Single Varietal"
 ],
 "in": true
 },
@@ -2429,12 +2423,12 @@
 "tags": [
 "00Discount",
 "16-25",
-"Adwisely Exclude",
 "Alcohol Level:Medium",
 "Food Pairing:Red meat - Beef - Pork - Lamb",
 "Food Pairing:Strong cheese - Roquefort - Blue cheese",
 "Grape Varieties:Blend",
-"Grape Varieties:Cabernet Sauvignon"
+"Grape Varieties:Cabernet Sauvignon",
+"Grape Varieties:Tempranillo"
 ],
 "in": true
 },
@@ -2509,12 +2503,12 @@
 "tags": [
 "00Discount",
 "16-25",
-"Adwisely Exclude",
 "Alcohol Level:High",
 "blossom",
 "Levain",
 "Region:Bekaa Valley",
-"sunset"
+"sunset",
+"Type:Arak"
 ],
 "in": true
 },
@@ -2529,12 +2523,12 @@
 "tags": [
 "0-15",
 "00Discount",
-"Adwisely Exclude",
 "Alcohol Level:Medium",
 "Food Pairing:Red meat - Beef - Pork - Lamb",
 "Food Pairing:Strong cheese - Roquefort - Blue cheese",
 "Grape Varieties:Cabernet Sauvignon",
-"Grape Varieties:Syrah"
+"Grape Varieties:Syrah",
+"Levain"
 ],
 "in": true
 },
@@ -2549,12 +2543,12 @@
 "tags": [
 "00Discount",
 "26-35",
-"Adwisely Exclude",
 "Alcohol Level:Medium",
 "Food Pairing:Red meat - Beef - Pork - Lamb",
 "Food Pairing:Strong cheese - Roquefort - Blue cheese",
 "Grape Varieties:Cabernet Sauvignon",
-"Grape Varieties:Syrah"
+"Grape Varieties:Syrah",
+"Levain"
 ],
 "in": true
 },
@@ -2569,12 +2563,12 @@
 "tags": [
 "00Discount",
 "26-35",
-"Adwisely Exclude",
 "Alcohol Level:Medium",
 "BeirutCellar",
 "elias",
 "Food Pairing:Red meat - Beef - Pork - Lamb",
-"Food Pairing:Strong cheese - Roquefort - Blue cheese"
+"Food Pairing:Strong cheese - Roquefort - Blue cheese",
+"GingerPertutti"
 ],
 "in": true
 },
@@ -2589,12 +2583,12 @@
 "tags": [
 "00Discount",
 "16-25",
-"Adwisely Exclude",
 "Alcohol Level:Medium",
 "BeirutCellar",
 "Cozy",
 "elias",
-"Food Pairing:Red meat - Beef - Pork - Lamb"
+"Food Pairing:Red meat - Beef - Pork - Lamb",
+"Food Pairing:Strong cheese - Roquefort - Blue cheese"
 ],
 "in": true
 },
@@ -2649,7 +2643,6 @@
 "tags": [
 "0-15",
 "00Discount",
-"Adwisely Exclude",
 "Alcohol Level:High",
 "Autumn",
 "horeca",
@@ -2668,12 +2661,12 @@
 "tags": [
 "00Discount",
 "16-25",
-"Adwisely Exclude",
 "Alcohol Level:Medium",
 "BR",
 "Earthy",
 "elias",
-"Food Pairing:Red meat - Beef - Pork - Lamb"
+"Food Pairing:Red meat - Beef - Pork - Lamb",
+"Food Pairing:Strong cheese - Roquefort - Blue cheese"
 ],
 "in": true
 },
@@ -2688,12 +2681,12 @@
 "tags": [
 "00Discount",
 "16-25",
-"Adwisely Exclude",
 "Alcohol Level:Medium",
 "blossom",
 "Food Pairing:Aperitif",
 "Food Pairing:Caviar",
-"Food Pairing:Desserts"
+"Food Pairing:Desserts",
+"Food Pairing:Foie gras"
 ],
 "in": true
 },
@@ -2708,12 +2701,12 @@
 "tags": [
 "0-15",
 "00Discount",
-"Adwisely Exclude",
 "Alcohol Level:Medium",
 "BeirutCellar",
 "Cozy",
 "Earthy",
-"Food Pairing:Red meat - Beef - Pork - Lamb"
+"Food Pairing:Red meat - Beef - Pork - Lamb",
+"Food Pairing:Strong cheese - Roquefort - Blue cheese"
 ],
 "in": true
 },
@@ -2728,12 +2721,12 @@
 "tags": [
 "0-15",
 "00Discount",
-"Adwisely Exclude",
 "Alcohol Level:High",
 "Earthy",
 "Food Pairing:Red meat - Beef - Pork - Lamb",
 "Food Pairing:Strong cheese - Brie - Camembert",
-"Food Pairing:Strong cheese - Roquefort - Blue cheese"
+"Food Pairing:Strong cheese - Roquefort - Blue cheese",
+"Grape Varieties:Blend"
 ],
 "in": true
 },
@@ -2768,12 +2761,12 @@
 "tags": [
 "0-15",
 "00Discount",
-"Adwisely Exclude",
 "Alcohol Level:Medium",
 "Bal",
 "Food Pairing:Aperitif",
 "Food Pairing:Cold cuts",
-"Food Pairing:Grilled fish and seafood"
+"Food Pairing:Grilled fish and seafood",
+"Food Pairing:Lebanese Mezze"
 ],
 "in": true
 },
@@ -2788,12 +2781,12 @@
 "tags": [
 "00Discount",
 "16-25",
-"Adwisely Exclude",
 "Alcohol Level:Medium",
 "BR",
 "Cozy",
 "Food Pairing:Red meat - Beef - Pork - Lamb",
-"Food Pairing:Strong cheese - Roquefort - Blue cheese"
+"Food Pairing:Strong cheese - Roquefort - Blue cheese",
+"Grape Varieties:Cabernet Franc"
 ],
 "in": true
 },
@@ -2808,12 +2801,12 @@
 "tags": [
 "0-15",
 "00Discount",
-"Adwisely Exclude",
 "Alcohol Level:Medium",
 "Food Pairing:Red meat - Beef - Pork - Lamb",
 "Food Pairing:Strong cheese - Roquefort - Blue cheese",
 "Grape Varieties:Blend",
-"Grape Varieties:Cabernet Sauvignon"
+"Grape Varieties:Cabernet Sauvignon",
+"Grape Varieties:Merlot"
 ],
 "in": true
 },
@@ -2866,12 +2859,12 @@
 "tags": [
 "00Discount",
 "26-35",
-"Adwisely Exclude",
 "Alcohol Level:Medium",
 "Food Pairing:Red meat - Beef - Pork - Lamb",
 "Food Pairing:Strong cheese - Roquefort - Blue cheese",
 "Grape Varieties:Blend",
-"Grape Varieties:Cabernet Sauvignon"
+"Grape Varieties:Cabernet Sauvignon",
+"Grape Varieties:Merlot"
 ],
 "in": true
 },
@@ -2906,12 +2899,12 @@
 "tags": [
 "0-15",
 "00Discount",
-"Adwisely Exclude",
 "Alcohol Level:High",
 "blossom",
 "Food Pairing:Aperitif",
 "Food Pairing:Cold cuts",
-"Food Pairing:Grilled fish and seafood"
+"Food Pairing:Grilled fish and seafood",
+"Food Pairing:Lebanese Mezze"
 ],
 "in": true
 },
@@ -2946,12 +2939,12 @@
 "tags": [
 "00Discount",
 "36-55",
-"Adwisely Exclude",
 "Alcohol Level:High",
 "Bal",
 "horeca",
 "Levain",
-"Region:North Lebanon"
+"Region:North Lebanon",
+"Type:Liqueur"
 ],
 "in": true
 },
@@ -2966,12 +2959,12 @@
 "tags": [
 "0-15",
 "00Discount",
-"Adwisely Exclude",
 "Alcohol Level:Medium",
 "elias",
 "Food Pairing:Red meat - Beef - Pork - Lamb",
 "Food Pairing:Strong cheese - Roquefort - Blue cheese",
-"Grape Varieties:Cabernet Sauvignon"
+"Grape Varieties:Cabernet Sauvignon",
+"Grape Varieties:Cinsault"
 ],
 "in": false
 },
@@ -2986,12 +2979,12 @@
 "tags": [
 "00Discount",
 "16-25",
-"Adwisely Exclude",
 "Alcohol Level:High",
 "BeirutCellar",
 "BR",
 "Food Pairing:Red meat - Beef - Pork - Lamb",
-"Food Pairing:Strong cheese - Roquefort - Blue cheese"
+"Food Pairing:Strong cheese - Roquefort - Blue cheese",
+"Grape Varieties:Blend"
 ],
 "in": true
 },
@@ -3006,12 +2999,12 @@
 "tags": [
 "0-15",
 "00Discount",
-"Adwisely Exclude",
 "Alcohol Level:Medium",
 "Bal",
 "Cozy",
 "Food Pairing:Red meat - Beef - Pork - Lamb",
-"Food Pairing:Strong cheese - Roquefort - Blue cheese"
+"Food Pairing:Strong cheese - Roquefort - Blue cheese",
+"GingerPertutti"
 ],
 "in": true
 },
@@ -3046,12 +3039,12 @@
 "tags": [
 "0-15",
 "00Discount",
-"Adwisely Exclude",
 "Alcohol Level:Medium",
 "blossom",
 "Food Pairing:Aperitif",
 "Food Pairing:Caviar",
-"Food Pairing:Desserts"
+"Food Pairing:Desserts",
+"Food Pairing:Foie gras"
 ],
 "in": true
 },
@@ -3066,12 +3059,12 @@
 "tags": [
 "0-15",
 "00Discount",
-"Adwisely Exclude",
 "Alcohol Level:Medium",
 "BR",
 "Food Pairing:Red meat - Beef - Pork - Lamb",
 "Food Pairing:Strong cheese - Roquefort - Blue cheese",
-"Grape Varieties:Blend"
+"Grape Varieties:Blend",
+"Grape Varieties:Cabernet Sauvignon"
 ],
 "in": true
 },
@@ -3086,12 +3079,12 @@
 "tags": [
 "0-15",
 "00Discount",
-"Adwisely Exclude",
 "Alcohol Level:Medium",
 "blossom",
 "Food Pairing:Aperitif",
 "Food Pairing:Caviar",
-"Food Pairing:Desserts"
+"Food Pairing:Desserts",
+"Food Pairing:Foie gras"
 ],
 "in": true
 },
@@ -3106,12 +3099,12 @@
 "tags": [
 "0-15",
 "00Discount",
-"Adwisely Exclude",
 "Alcohol Level:High",
 "blossom",
 "horeca",
 "Region:North Lebanon",
-"sunset"
+"sunset",
+"Type:Arak"
 ],
 "in": true
 },
@@ -3146,12 +3139,12 @@
 "tags": [
 "00Discount",
 "56+",
-"Adwisely Exclude",
 "Alcohol Level:High",
 "BR",
 "Food Pairing:Red meat - Beef - Pork - Lamb",
 "Food Pairing:Strong cheese - Roquefort - Blue cheese",
-"Grape Varieties:Blend"
+"Grape Varieties:Blend",
+"Grape Varieties:Cabernet Sauvignon"
 ],
 "in": true
 },
@@ -3186,12 +3179,12 @@
 "tags": [
 "00Discount",
 "16-25",
-"Adwisely Exclude",
 "Alcohol Level:Medium",
 "BR",
 "Cozy",
 "elias",
-"Food Pairing:Red meat - Beef - Pork - Lamb"
+"Food Pairing:Red meat - Beef - Pork - Lamb",
+"Food Pairing:Strong cheese - Roquefort - Blue cheese"
 ],
 "in": true
 },
@@ -3226,12 +3219,12 @@
 "tags": [
 "0-15",
 "00Discount",
-"Adwisely Exclude",
 "Alcohol Level:Medium",
 "Food Pairing:Red meat - Beef - Pork - Lamb",
 "Food Pairing:Strong cheese - Roquefort - Blue cheese",
 "Grape Varieties:Blend",
-"Grape Varieties:Cabernet Sauvignon"
+"Grape Varieties:Cabernet Sauvignon",
+"Grape Varieties:Carignan"
 ],
 "in": true
 }

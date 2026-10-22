@@ -1,5 +1,191 @@
 [
 {
+"t": "Xiaomi Mijia Vacuum Cleaner 4",
+"u": "https://kaystore.com/product/xiaomi-mijia-vacuum-cleaner-4/",
+"p": 345.0,
+"c": null,
+"cur": "USD",
+"img": "https://kaystore.com/wp-content/uploads/2026/10/Xiaomi-Mijia-Vacuum-Cleaner-4-247x296.jpg",
+"type": "Vacuum Cleaners",
+"tags": [
+"Appliances",
+"Home cleaner",
+"STICK VACUUM",
+"vacuum cleaner"
+],
+"in": true
+},
+{
+"t": "Xiaomi Grooming Kit Pro",
+"u": "https://kaystore.com/product/xiaomi-grooming-kit-pro/",
+"p": 55.0,
+"c": null,
+"cur": "USD",
+"img": "https://kaystore.com/wp-content/uploads/2026/10/Xiaomi-Grooming-Kit-Pro-247x296.jpg",
+"type": "Trimmers &amp; Shavers",
+"tags": [
+"Appliances",
+"Hair clipper",
+"Shaver",
+"shavers"
+],
+"in": true
+},
+{
+"t": "Xiaomi Electric Shaver S200",
+"u": "https://kaystore.com/product/xiaomi-electric-shaver-s200/",
+"p": 35.0,
+"c": null,
+"cur": "USD",
+"img": "https://kaystore.com/wp-content/uploads/2026/10/Xiaomi-Electric-Shaver-S200-247x296.jpg",
+"type": "Trimmers &amp; Shavers",
+"tags": [
+"Appliances",
+"Hair clipper",
+"Shaver",
+"shavers"
+],
+"in": true
+},
+{
+"t": "Bose SoundLink Micro Bluetooth Speaker",
+"u": "https://kaystore.com/product/bose-soundlink-micro-bluetooth-speaker/",
+"p": 99.0,
+"c": null,
+"cur": "USD",
+"img": "https://kaystore.com/wp-content/uploads/2026/10/Bose-SoundLink-Micro-247x296.jpg",
+"type": "Speakers",
+"tags": [
+"audio and video",
+"bluetooth",
+"bt",
+"Electronic",
+"mobile speaker",
+"music",
+"Portable Speaker",
+"sound"
+],
+"in": true
+},
+{
+"t": "Bose S1 Pro Portable Bluetooth Speaker",
+"u": "https://kaystore.com/product/bose-s1-pro-portable-bluetooth-speaker/",
+"p": 799.0,
+"c": null,
+"cur": "USD",
+"img": "https://kaystore.com/wp-content/uploads/2026/10/Bose-S1-Pro-247x296.jpg",
+"type": "Speakers",
+"tags": [
+"audio and video",
+"bluetooth",
+"bt",
+"Electronic",
+"mobile speaker",
+"music",
+"Portable Speaker",
+"sound"
+],
+"in": true
+},
+{
+"t": "JBL Xtreme 5 Portable Bluetooth Speaker",
+"u": "https://kaystore.com/product/jbl-xtreme-5-portable-bluetooth-speaker/",
+"p": 333.0,
+"c": null,
+"cur": "USD",
+"img": "https://kaystore.com/wp-content/uploads/2026/10/JBL-Xtreme-5-3-247x296.jpg",
+"type": "Speakers",
+"tags": [
+"audio and video",
+"bluetooth",
+"bt",
+"Electronic",
+"mobile speaker",
+"music",
+"Portable Speaker",
+"sound"
+],
+"in": true
+},
+{
+"t": "JBL Xtreme 4 Portable Bluetooth Speaker",
+"u": "https://kaystore.com/product/jbl-xtreme-4-bluetooth-portable-speaker-copy/",
+"p": 279.0,
+"c": null,
+"cur": "USD",
+"img": "https://kaystore.com/wp-content/uploads/2026/10/JBL-Xtreme-4-247x296.jpg",
+"type": "Speakers",
+"tags": [
+"audio and video",
+"bluetooth",
+"bt",
+"Electronic",
+"mobile speaker",
+"music",
+"Portable Speaker",
+"sound"
+],
+"in": true
+},
+{
+"t": "JBL PartyLight Stick 360°",
+"u": "https://kaystore.com/product/jbl-partylight-stick/",
+"p": 128.0,
+"c": null,
+"cur": "USD",
+"img": "https://kaystore.com/wp-content/uploads/2026/10/JBL-PartyLight-Stick-247x296.jpg",
+"type": "Bulb &amp; Rechargeable Light",
+"tags": [
+"Accessories",
+"bulb",
+"eco",
+"Electronic",
+"LED",
+"led light",
+"light"
+],
+"in": true
+},
+{
+"t": "JBL PartyLight Beam",
+"u": "https://kaystore.com/product/jbl-partylight-beam/",
+"p": 139.0,
+"c": null,
+"cur": "USD",
+"img": "https://kaystore.com/wp-content/uploads/2026/10/JBL-PartyLight-Beam-247x296.jpg",
+"type": "Bulb &amp; Rechargeable Light",
+"tags": [
+"Accessories",
+"bulb",
+"eco",
+"Electronic",
+"LED",
+"led light",
+"light"
+],
+"in": true
+},
+{
+"t": "JBL PartyBox Club 120 Speaker",
+"u": "https://kaystore.com/product/jbl-partybox-club-120-speaker/",
+"p": 366.0,
+"c": null,
+"cur": "USD",
+"img": "https://kaystore.com/wp-content/uploads/2026/10/JBL-PartyBox-Club-120-247x296.jpg",
+"type": "Speakers",
+"tags": [
+"audio and video",
+"bluetooth",
+"bt",
+"Electronic",
+"mobile speaker",
+"music",
+"Portable Speaker",
+"sound"
+],
+"in": true
+},
+{
 "t": "JBL Flip Essential 2 Bluetooth Portable Speaker",
 "u": "https://kaystore.com/product/jbl-flip-essential-2-bluetooth-speaker/",
 "p": 90.0,
@@ -5363,7 +5549,7 @@
 "Heat Pump",
 "home"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Kelvinator 4 Doors Fridge",
@@ -48421,6 +48607,23 @@
 "in": true
 },
 {
+"t": "Thousand Pearl Ball Decoration",
+"u": "https://kaystore.com/product/thousand-pearl-ball-decoration-d-12/",
+"p": 32.0,
+"c": null,
+"cur": "USD",
+"img": "https://kaystore.com/wp-content/uploads/2025/10/I137592-247x296.jpg",
+"type": "Baubles, Christmas",
+"tags": [
+"Bauble Decoration",
+"Christmas",
+"Christmas Tree",
+"Decoration Tree",
+"La Maison"
+],
+"in": true
+},
+{
 "t": "Base Pino Elfo Trousers",
 "u": "https://kaystore.com/product/base-pino-elfo-trousers-h-66-l-57-w-41-c4/",
 "p": 639.0,
@@ -51723,176 +51926,6 @@
 "Christmas",
 "La Maison",
 "Nativity"
-],
-"in": true
-},
-{
-"t": "Holy Family",
-"u": "https://kaystore.com/product/holy-family-7/",
-"p": 170.0,
-"c": null,
-"cur": "USD",
-"img": "https://kaystore.com/wp-content/uploads/2025/10/I137741-247x296.jpg",
-"type": "Christmas, Nativities",
-"tags": [
-"Christmas",
-"La Maison",
-"Nativity"
-],
-"in": true
-},
-{
-"t": "Holy Family",
-"u": "https://kaystore.com/product/holy-family-6/",
-"p": 335.0,
-"c": null,
-"cur": "USD",
-"img": "https://kaystore.com/wp-content/uploads/2025/10/I137740-247x296.jpg",
-"type": "Christmas, Nativities",
-"tags": [
-"Christmas",
-"La Maison",
-"Nativity"
-],
-"in": true
-},
-{
-"t": "Nativity Modern X 6",
-"u": "https://kaystore.com/product/nativity-modern-x-6/",
-"p": 189.0,
-"c": null,
-"cur": "USD",
-"img": "https://kaystore.com/wp-content/uploads/2025/10/I137738-247x296.jpg",
-"type": "Christmas, Nativities",
-"tags": [
-"Christmas",
-"La Maison",
-"Nativity"
-],
-"in": true
-},
-{
-"t": "Angel Boticelli W/ Lyre",
-"u": "https://kaystore.com/product/angel-boticelli-w-lyre/",
-"p": 499.0,
-"c": null,
-"cur": "USD",
-"img": "https://kaystore.com/wp-content/uploads/2025/10/I137737-247x296.jpg",
-"type": "Christmas, Nativities",
-"tags": [
-"Christmas",
-"La Maison",
-"Nativity"
-],
-"in": true
-},
-{
-"t": "Nativity Set On Wreath",
-"u": "https://kaystore.com/product/nativity-set-on-wreath/",
-"p": 399.0,
-"c": null,
-"cur": "USD",
-"img": "https://kaystore.com/wp-content/uploads/2025/10/I137736-247x296.jpg",
-"type": "Christmas, Nativities",
-"tags": [
-"Christmas",
-"La Maison",
-"Nativity"
-],
-"in": true
-},
-{
-"t": "Nativity Set X 6",
-"u": "https://kaystore.com/product/nativity-set-x-6-5/",
-"p": 1110.0,
-"c": null,
-"cur": "USD",
-"img": "https://kaystore.com/wp-content/uploads/2025/10/I137735-247x296.jpg",
-"type": "Christmas, Nativities",
-"tags": [
-"Christmas",
-"La Maison",
-"Nativity"
-],
-"in": true
-},
-{
-"t": "Holy Family",
-"u": "https://kaystore.com/product/holy-family-4/",
-"p": 290.0,
-"c": null,
-"cur": "USD",
-"img": "https://kaystore.com/wp-content/uploads/2025/10/I137733-247x296.jpg",
-"type": "Christmas, Nativities",
-"tags": [
-"Christmas",
-"La Maison",
-"Nativity"
-],
-"in": true
-},
-{
-"t": "Base iron",
-"u": "https://kaystore.com/product/base-iron/",
-"p": 190.0,
-"c": null,
-"cur": "USD",
-"img": "https://kaystore.com/wp-content/uploads/2025/10/I137264-247x296.jpg",
-"type": "Accessories, Christmas",
-"tags": [
-"Accessories",
-"Christmas",
-"Christmas Accessories",
-"Home Deco",
-"La Maison"
-],
-"in": true
-},
-{
-"t": "Micro LED bunch lights steady outdoor",
-"u": "https://kaystore.com/product/micro-led-bunch-lights-steady-outdoor/",
-"p": 25.0,
-"c": null,
-"cur": "USD",
-"img": "https://kaystore.com/wp-content/uploads/2025/10/I137252-247x296.jpg",
-"type": "Christmas, Lighting",
-"tags": [
-"Christmas",
-"Christmas Lighting",
-"La Maison",
-"Lighting"
-],
-"in": true
-},
-{
-"t": "Micro LED cluster lights 8 function twinkle effect outdoor",
-"u": "https://kaystore.com/product/micro-led-cluster-lights-8-function-twinkle-effect-outdoor/",
-"p": 115.0,
-"c": null,
-"cur": "USD",
-"img": "https://kaystore.com/wp-content/uploads/2025/10/I137251-247x296.jpg",
-"type": "Christmas, Lighting",
-"tags": [
-"Christmas",
-"Christmas Lighting",
-"La Maison",
-"Lighting"
-],
-"in": true
-},
-{
-"t": "Micro LED polestar lights flashing effect outdoor",
-"u": "https://kaystore.com/product/micro-led-polestar-lights-flashing-effect-outdoor-2/",
-"p": 45.0,
-"c": null,
-"cur": "USD",
-"img": "https://kaystore.com/wp-content/uploads/2025/10/I137248-247x296.jpg",
-"type": "Christmas, Lighting",
-"tags": [
-"Christmas",
-"Christmas Lighting",
-"La Maison",
-"Lighting"
 ],
 "in": true
 }
