@@ -1,23 +1,126 @@
 [
 {
-"t": "Wibo Cheek To Cheek Blusher",
-"u": "https://feel22.com/products/wibo-cheek-to-cheek-blusher",
-"p": 5.6,
-"c": 7.0,
+"t": "L’Oréal Paris x Faces Of Feel22: Tia kiwan's Bundle",
+"u": "https://feel22.com/products/l-oreal-paris-x-faces-of-feel22-tia-kiwan-s-bundle",
+"p": 29.17,
+"c": 38.89,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Untitled_design_0d32a6f2-582a-4391-8ebb-cb46d3e893c6.png?v=1718095529&width=400",
-"type": "Blush",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/L_OrealParisxFacesOfFeel22_Tiakiwan_sBundle.png?v=1792184894&width=400",
+"type": "Makeup Gifts and Sets",
 "tags": [
-"24Makeup",
-"ANNIVERSARYBRANDS",
-"BestOf2024",
-"EVERYTHING",
-"MK15",
-"party22",
-"raneemsami",
-"SPOOKY26"
+"facesloreal1026"
 ],
-"in": false
+"in": true
+},
+{
+"t": "L'Oreal Paris Excellence Tablier GIFT",
+"u": "https://feel22.com/products/loreal-paris-free-excellence-tablier",
+"p": 0.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/OAPColoGWP-ColoringCape.jpg?v=1730894395&width=400",
+"type": "GWP",
+"tags": [
+"Hidden recommendation",
+"nobundles",
+"SDGWP24",
+"SEARCHANISE_IGNORE"
+],
+"in": true
+},
+{
+"t": "NYX Professional Makeup Baddieween Vividly Bold Bundle",
+"u": "https://feel22.com/products/nyx-professional-makeup-baddieween-vividly-bold-bundle",
+"p": 31.01,
+"c": 38.76,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Artboard5_2x-100_f9f415c9-593c-41e3-bd99-e48a4f40a14e.jpg?v=1791900174&width=400",
+"type": "Makeup Gifts and Sets",
+"tags": [
+"baddieween26"
+],
+"in": true
+},
+{
+"t": "NYX Professional Makeup Baddieween Epic Colors Bundle",
+"u": "https://feel22.com/products/nyx-professional-makeup-baddieween-epic-colors-bundle",
+"p": 39.98,
+"c": 49.98,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Artboard3_2x-100_e50568f7-9d4f-4a11-8b05-1b7478cd4086.jpg?v=1791899052&width=400",
+"type": "Makeup Gifts and Sets",
+"tags": [
+"baddieween26"
+],
+"in": true
+},
+{
+"t": "NYX Professional Makeup Baddieween Crazy Eyes Bundle",
+"u": "https://feel22.com/products/nyx-professional-makeup-baddieween-crazy-eyes-bundle",
+"p": 46.92,
+"c": 58.65,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Artboard2_2x-100_a807a93d-7bc9-4567-ba94-634109fa9d10.jpg?v=1791898492&width=400",
+"type": "Makeup Gifts and Sets",
+"tags": [
+"baddieween26"
+],
+"in": true
+},
+{
+"t": "NYX Professional Makeup Baddieween Wonder Epic Bundle",
+"u": "https://feel22.com/products/nyx-professional-makeup-baddieween-wonder-epic-bundle",
+"p": 34.28,
+"c": 42.85,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Artboard1_2x-100_c56922cb-16ab-49e5-8183-079a2ca285ab.jpg?v=1791897797&width=400",
+"type": "Makeup Gifts and Sets",
+"tags": [
+"baddieween26"
+],
+"in": true
+},
+{
+"t": "NYX Professional Makeup Heart Mirror Keychain GIFT",
+"u": "https://feel22.com/products/nyx-professional-makeup-heart-mirror-keychain-gift",
+"p": 0.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshotstemp-Lynn_1_25f2196f-612a-4b36-8c46-fd076250c8f9.png?v=1791897517&width=400",
+"type": "GWP",
+"tags": [
+"Hidden recommendation",
+"SEARCHANISE_IGNORE"
+],
+"in": true
+},
+{
+"t": "L'Oréal Professionnel Keratin Alpha Sleek Shampoo",
+"u": "https://feel22.com/products/loreal-professionnel-keratin-alpha-sleek-shampoo",
+"p": 18.49,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/L_OrealProfessionnelKeratinAlphaSleekShampoo.png?v=1792143054&width=400",
+"type": "Shampoo",
+"tags": [
+"ALLPRO",
+"OCTSKU26"
+],
+"in": true
+},
+{
+"t": "Kérastase Chronologist Youth Revitalizing Shampoo For Aging Hair",
+"u": "https://feel22.com/products/kerastase-chronologist-youth-revitalizing-shampoo-for-aging-hair",
+"p": 40.37,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/KerastaseChronologistYouthRevitalizingShampooforAgingHair.png?v=1792142239&width=400",
+"type": "Shampoo",
+"tags": [
+"ALLPRO",
+"OCTSKU26"
+],
+"in": true
 },
 {
 "t": "Feel22 Your Summer Essentials Pouch",
@@ -449,7 +552,7 @@
 {
 "t": "La Roche-Posay Mela B3 Double Dose Serum For Sun Spots & Age Marks",
 "u": "https://feel22.com/products/la-roche-posay-mela-b3-double-dose-day-night-intensive-treatment-for-sunspots-and-age-marks-powered-by-multi-patented-anti-pigmentation-melasyl-and-proxylane",
-"p": 38.19,
+"p": 43.28,
 "c": 50.92,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/LaRoche-PosayMelaB3DoubleDose.png?v=1792074226&width=400",
@@ -2749,7 +2852,7 @@
 "Hidden recommendation",
 "SEARCHANISE_IGNORE"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Revlon One Stop Round Brush Style Booster",
@@ -2901,7 +3004,7 @@
 "MUPSKINALL926",
 "raneemsami"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Feel22 October Mystery Box With Gifts",
@@ -3356,7 +3459,7 @@
 "nobundles",
 "OCT26"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Etiaxil Men 48H Control Aerosol & Roll-On Protection Bundle At 10% Off",
@@ -3450,13 +3553,13 @@
 "type": "Hair Care Gifts and Sets",
 "tags": [
 "99PHARMA",
-"BALDING1026",
 "brainrott626",
 "EIDSALE2026",
 "FEB26",
 "KFFBrands",
 "MARCH26",
-"OCTOBERSALEPHARMA"
+"OCTOBERSALEPHARMA",
+"PHARMAALL"
 ],
 "in": false
 },
@@ -3822,36 +3925,17 @@
 "in": true
 },
 {
-"t": "Selaya Double-Ended Brow Sculpt Offer 15% Off",
-"u": "https://feel22.com/products/selaya-double-ended-brow-sculpt-offer-15-off",
-"p": 32.28,
-"c": 37.98,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Untitleddesign-2023-07-05T223126.104.png?v=1688585505&width=400",
-"type": "Makeup Gifts and Sets",
-"tags": [
-"ANVBUNDLE2023",
-"DDSEP",
-"EVERYTHING",
-"FEB2024",
-"FEB26",
-"halloween23",
-"MARCH26",
-"nobundles"
-],
-"in": true
-},
-{
 "t": "Selaya Brow Essential Sculpt And Oil Bundle At 20% Off",
 "u": "https://feel22.com/products/selaya-brow-essential-sculpt-and-oil-bundle-at-20-off",
 "p": 28.78,
 "c": 35.98,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/SelayaBrowEssentialSculptAndOilBundleAt20_Off_1.png?v=1777551869&width=400",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Martinepackshots7_5.png?v=1792746539&width=400",
 "type": "Skincare Gifts and Sets",
 "tags": [
 "brainrott626",
 "MAY26",
+"NOV26",
 "OCT26",
 "SEPT26"
 ],
@@ -7756,7 +7840,8 @@
 "EVERYTHING",
 "FREE1125",
 "JULY26",
-"MUPSKINALL926"
+"MUPSKINALL926",
+"OCT26"
 ],
 "in": true
 },
@@ -7774,7 +7859,7 @@
 "JULY26",
 "MUPSKINALL926"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Potion Kitchen Kisses to the Universe Lip Balm",
@@ -9733,7 +9818,7 @@
 "SC15",
 "Sdd"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Montale Amber Musk Eau De Parfum 100ml",
@@ -11234,7 +11319,7 @@
 {
 "t": "Vichy Liftactiv Hydrating and Boosting Collagen Specialist 16 Collagel",
 "u": "https://feel22.com/products/vichy-liftactiv-hydrating-and-boosting-collagen-specialist-16-collagel",
-"p": 29.88,
+"p": 33.86,
 "c": 39.84,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/3337875945851-VichyLiftactivHydratingandBoostingCollagenSpecialist16Collagel-50ml.png?v=1787247207&width=400",
@@ -11254,7 +11339,7 @@
 {
 "t": "La Roche-Posay Mela B3 Dual Action Body Treatment",
 "u": "https://feel22.com/products/la-roche-posay-mela-b3-dual-action-body-treatment",
-"p": 25.11,
+"p": 28.46,
 "c": 33.48,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/3337875952958-LaRoche-PosayMelaB3DualActionBodyTreatment-200ml.png?v=1787246578&width=400",
@@ -11274,7 +11359,7 @@
 {
 "t": "La Roche-Posay Thermal Spring Water Face Mist 150g",
 "u": "https://feel22.com/products/la-roche-posay-thermal-spring-water-face-mist-for-sensitive-skin-150g",
-"p": 7.64,
+"p": 8.65,
 "c": 10.18,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Untitleddesign-2025-03-11T114058.436.png?v=1749637306&width=400",
@@ -11548,7 +11633,7 @@
 {
 "t": "Vichy Thermal Mineralizing Water 150ml",
 "u": "https://feel22.com/products/vichy-thermal-mineralizing-water-150ml",
-"p": 8.69,
+"p": 9.84,
 "c": 11.58,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/3337871308612_1.jpg?v=1678270072&width=400",
@@ -11568,7 +11653,7 @@
 {
 "t": "La Roche-Posay Anthelios UVAIR Daily SPF50+ Complexion 50ml",
 "u": "https://feel22.com/products/la-roche-posay-anthelios-uvair-daily-spf50-complexion-50ml",
-"p": 33.74,
+"p": 38.23,
 "c": 44.98,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/3337875932301-LaRoche-PosayAntheliosUVAIRDailySPF50_Complexion50ml-Light.png?v=1787246576&width=400",
@@ -12198,7 +12283,7 @@
 "tags": [
 "MUPSKINALL926"
 ],
-"in": false
+"in": true
 },
 {
 "t": "HaruHaru Wonder Black Rice Facial Oil",
@@ -13804,7 +13889,7 @@
 {
 "t": "La Roche-Posay Lipikar Baume AP+Max Triple-action Balm 72h With Neurobioma For Ultra-dry To Atopic Eczema-prone Skin",
 "u": "https://feel22.com/products/la-roche-posay-lipikar-baume-ap-max-triple-action-balm-72h-with-neurobioma-for-ultra-dry-to-atopic-eczema-prone-skin",
-"p": 25.27,
+"p": 28.64,
 "c": 33.69,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/3337875930239-LaRoche-PosayLIPIKARBalmAP_MaxTriple-actionbalmwithNeurobiomaforultra-drytoatopiceczema-proneskin-400ml.png?v=1785360960&width=400",
@@ -22889,12 +22974,12 @@
 "tags": [
 "1STWAVE826PHARMA",
 "99PHARMA",
+"BALDING1026",
 "BTSPHARMA26",
 "GAM926",
 "JUNESKU26",
 "Margam826",
-"NUTRI826",
-"OCTOBERSALEPHARMA"
+"NUTRI826"
 ],
 "in": true
 },
@@ -22909,12 +22994,12 @@
 "tags": [
 "1STWAVE826PHARMA",
 "99PHARMA",
+"BALDING1026",
 "BTSPHARMA26",
 "GAM926",
 "JUNESKU26",
 "Margam826",
-"NUTRI826",
-"OCTOBERSALEPHARMA"
+"NUTRI826"
 ],
 "in": true
 },
@@ -22929,12 +23014,12 @@
 "tags": [
 "1STWAVE826PHARMA",
 "99PHARMA",
+"BALDING1026",
 "BTSPHARMA26",
 "GAM926",
 "JUNESKU26",
 "Margam826",
-"NUTRI826",
-"OCTOBERSALEPHARMA"
+"NUTRI826"
 ],
 "in": true
 },
@@ -22949,12 +23034,12 @@
 "tags": [
 "1STWAVE826PHARMA",
 "99PHARMA",
+"BALDING1026",
 "BTSPHARMA26",
 "GAM926",
 "JUNESKU26",
 "Margam826",
-"NUTRI826",
-"OCTOBERSALEPHARMA"
+"NUTRI826"
 ],
 "in": true
 },
@@ -23089,12 +23174,12 @@
 "tags": [
 "1STWAVE826PHARMA",
 "99PHARMA",
+"BALDING1026",
 "BTSPHARMA26",
 "GAM926",
 "JUNESKU26",
 "Margam826",
-"NUTRI826",
-"OCTOBERSALEPHARMA"
+"NUTRI826"
 ],
 "in": true
 },
@@ -23369,12 +23454,12 @@
 "tags": [
 "1STWAVE826PHARMA",
 "99PHARMA",
+"BALDING1026",
 "BTSPHARMA26",
 "GAM926",
 "JUNESKU26",
 "Margam826",
-"NUTRI826",
-"OCTOBERSALEPHARMA"
+"NUTRI826"
 ],
 "in": true
 },
@@ -23524,7 +23609,7 @@
 {
 "t": "La Roche Posay Hydraphase HA Light Daily Face Moisturiser, Suitable for Normal to Dry & Dehydrated Skin",
 "u": "https://feel22.com/products/la-roche-posay-hydraphase-ha-light-daily-face-moisturiser-suitable-for-normal-to-dry-dehydrated-skin",
-"p": 19.51,
+"p": 22.11,
 "c": 26.01,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/LaRochePosayHydraphaseHALightDailyFaceMoisturiser_SuitableforNormaltoDry_DehydratedSkin_4a5e8ec0-3ea1-48b5-b76a-3bcb56beb740.png?v=1792140031&width=400",
@@ -23551,13 +23636,13 @@
 "type": "Hair Care Gifts and Sets",
 "tags": [
 "99PHARMA",
+"BALDING1026",
 "DEC26",
 "HEALTHYHAIRPHARMA26",
 "JUNESKU26",
 "NOV26",
 "OCT26",
-"PFBTS926",
-"PHARMAALL"
+"PFBTS926"
 ],
 "in": true
 },
@@ -23571,13 +23656,13 @@
 "type": "Hair Care Gifts and Sets",
 "tags": [
 "99PHARMA",
+"BALDING1026",
 "DEC26",
 "HEALTHYHAIRPHARMA26",
 "JUNESKU26",
 "NOV26",
 "OCT26",
-"PFBTS926",
-"PHARMAALL"
+"PFBTS926"
 ],
 "in": true
 },
@@ -23592,12 +23677,12 @@
 "tags": [
 "1STWAVE826PHARMA",
 "99PHARMA",
+"BALDING1026",
 "DEC26",
 "HEALTHYHAIRPHARMA26",
 "JUNESKU26",
 "NOV26",
-"OCT26",
-"PFALL826"
+"OCT26"
 ],
 "in": true
 },
@@ -23711,13 +23796,13 @@
 "type": "Hair Care Gifts and Sets",
 "tags": [
 "99PHARMA",
+"BALDING1026",
 "DEC26",
 "HEALTHYHAIRPHARMA26",
 "JUNESKU26",
 "NOV26",
 "OCT26",
-"PFBTS926",
-"PHARMAALL"
+"PFBTS926"
 ],
 "in": true
 },
@@ -24509,7 +24594,7 @@
 "JUNESKU26",
 "LUXEALL"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Lancôme Hydra Zen Day Routine Set",
@@ -25062,11 +25147,11 @@
 "1STWAVE826PHARMA",
 "99PHARMA",
 "AVB1G1",
+"BALDING1026",
 "DEC26",
 "ducb1g1bnds",
 "HEALTHYHAIRPHARMA26",
-"JUNESKU26",
-"NOV26"
+"JUNESKU26"
 ],
 "in": true
 },
@@ -25080,13 +25165,13 @@
 "type": "Hair Care Gifts and Sets",
 "tags": [
 "99PHARMA",
+"BALDING1026",
 "DEC26",
 "HEALTHYHAIRPHARMA26",
 "JUNESKU26",
 "NOV26",
 "OCT26",
-"PFBTS926",
-"PHARMAALL"
+"PFBTS926"
 ],
 "in": true
 },
@@ -25100,13 +25185,13 @@
 "type": "Hair Care Gifts and Sets",
 "tags": [
 "99PHARMA",
+"BALDING1026",
 "ddn",
 "DEC26",
 "HEALTHYHAIRPHARMA26",
 "JUNESKU26",
 "NOV26",
-"OCT26",
-"PFBTS926"
+"OCT26"
 ],
 "in": true
 },
@@ -27624,7 +27709,7 @@
 {
 "t": "Vichy Dercos Oil Correct Shampoo For Oily Hair 200ml",
 "u": "https://feel22.com/products/vichy-dercos-oil-correct-shampoo-for-oily-hair-200ml",
-"p": 13.77,
+"p": 15.61,
 "c": 18.36,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Untitleddesign-2025-06-11T154130.412.png?v=1749645827&width=400",
@@ -27899,7 +27984,7 @@
 "ws926",
 "WSEDPT"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Women'Secret So Captivating Body Mist",
@@ -27971,7 +28056,7 @@
 "WS726",
 "ws926"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Women'Secret Flowerland Over Rose Body Mist",
@@ -28191,7 +28276,7 @@
 "CLEXCM625",
 "clinique"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Neutrogena Ultra Sheer SPF50 Body Sun Screen",
@@ -28271,7 +28356,7 @@
 "SPOOKY26",
 "SPOOKYPHARMA26"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Neutrogena Ultra Sheer Age Shield SPF50 Sun Screen",
@@ -30568,7 +30653,7 @@
 {
 "t": "Vichy Dercos Aminexil Clinical R.E.G.E.N. Booster Hair Serum",
 "u": "https://feel22.com/products/vichy-dercos-aminexil-clinical-r-e-g-e-n-booster-hair-serum",
-"p": 55.04,
+"p": 62.37,
 "c": 73.38,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/VichyDercosAminexilClinicalR.E.G.E.N.BoosterHairSerum.png?v=1778492462&width=400",
@@ -30963,7 +31048,7 @@
 {
 "t": "La Roche-Posay Anthelios UV Air Daily Ultra Light SPF50+",
 "u": "https://feel22.com/products/la-roche-posay-anthelios-uv-air-daily-ultra-light-spf50",
-"p": 19.51,
+"p": 22.11,
 "c": 26.01,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/LaRoche-PosayAntheliosUVAirDailyUltraLightSPF50.png?v=1778245477&width=400",
@@ -40890,7 +40975,7 @@
 "FB",
 "IZZAT15"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Remington Curl & Straight Confidence Hairdryer D5706",
@@ -44883,7 +44968,7 @@
 {
 "t": "Vichy 48 Hour Mineral Spray Deodorant 125ml",
 "u": "https://feel22.com/products/vichy-48-hour-mineral-aluminum-free-spray-deodorant-50ml",
-"p": 10.72,
+"p": 12.15,
 "c": 14.29,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/3337875553155_1.jpg?v=1690987201&width=400",
@@ -45608,7 +45693,7 @@
 "giftid-8721285185674",
 "HBT1225"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Triopharm TrioT Wash 280ml",
@@ -45705,7 +45790,7 @@
 {
 "t": "Vichy Liftactiv Collagen Specialist Eye Care Cream Anti-Ageing 15ml",
 "u": "https://feel22.com/products/vichy-liftactiv-collagen-specialist-eye-care-cream-anti-ageing-15ml",
-"p": 29.05,
+"p": 32.92,
 "c": 38.73,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshotstemp-Lynn_3_a76ca0bf-5467-4103-8efb-729f16ebd054.png?v=1742821253&width=400",
@@ -46003,7 +46088,7 @@
 {
 "t": "Sabouneh Mn Beirut Gift Box",
 "u": "https://feel22.com/products/sabouneh-mn-beirut-gift-box",
-"p": 6.6,
+"p": 10.2,
 "c": 12.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/LaRoche-PosayEffaclarDuo_Cream_GelMoussantGift-2023-08-28T130751.208.png?v=1693217027&width=400",
@@ -46011,12 +46096,12 @@
 "tags": [
 "EVERYTHING",
 "nobundles",
+"NOV26",
 "papaday",
 "ram25",
 "sabounehsd",
 "SD2023",
-"SMB325",
-"SMB426"
+"SMB325"
 ],
 "in": true
 },
@@ -47769,6 +47854,7 @@
 "allofcpd326",
 "CPDALL426",
 "CPDTODO426",
+"exc1026",
 "FEBSKU26"
 ],
 "in": true
@@ -50115,115 +50201,6 @@
 "flormar826",
 "JANSKU26",
 "MUPSKINALL926"
-],
-"in": true
-},
-{
-"t": "Collistar Body Cream Benessere Fig And Wisteria Shower Milk-Cream 250ml",
-"u": "https://feel22.com/products/collistar-body-cream-benessere-fig-and-wisteria-shower-milk-cream-250ml",
-"p": 33.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/darkbrown_0a14b796-a43e-4e6e-98f5-93c1deabf5a1.png?v=1728474052&width=400",
-"type": "Body Lotion and Oil",
-"tags": [
-"COLLI725",
-"COLLIS325",
-"EVERYTHING",
-"giftid-8341750251658",
-"giftid-8597337964682",
-"luxeadha25",
-"LUXEALL",
-"MALIA625"
-],
-"in": true
-},
-{
-"t": "Remington Power Volume 2000 D3015",
-"u": "https://feel22.com/products/remington-power-volume-2000-d3015",
-"p": 35.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/products/pix_22_2.jpg?v=1647529730&width=400",
-"type": "Hair Dryer",
-"tags": [
-"EVERYTHING",
-"FB",
-"giftid-8193433403530",
-"giftid-8297610870922",
-"giftid-8341888303242",
-"IZZAT15",
-"izzatbf"
-],
-"in": false
-},
-{
-"t": "Laki Beauty 601 Brow Sculpt Spoolie",
-"u": "https://feel22.com/products/laki-beauty-601-brow-sculpt-spoolie",
-"p": 5.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/LakiBeauty601BrowSculptSpoolie.png?v=1769610418&width=400",
-"type": "Makeup Tools and Brushes",
-"tags": [
-"JANSKU26",
-"LAKI826"
-],
-"in": true
-},
-{
-"t": "Laki Beauty 401 Seamless Finish Brush",
-"u": "https://feel22.com/products/laki-beauty-401-seamless-finish-brush",
-"p": 15.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/LakiBeauty401SeamlessFinishBrush.png?v=1769610227&width=400",
-"type": "Makeup Tools and Brushes",
-"tags": [
-"JANSKU26",
-"LAKI826"
-],
-"in": true
-},
-{
-"t": "Laki Beauty 302 Shape & Buff Brush",
-"u": "https://feel22.com/products/laki-beauty-302-shape-buff-brush",
-"p": 8.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/LakiBeauty302Shape_BuffBrush.png?v=1769609971&width=400",
-"type": "Makeup Tools and Brushes",
-"tags": [
-"JANSKU26",
-"LAKI826"
-],
-"in": true
-},
-{
-"t": "Laki Beauty 301 Precision Concealer Brush",
-"u": "https://feel22.com/products/laki-beauty-301-precision-concealer-brush",
-"p": 11.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/LakiBeauty301PrecisionConcealerBrush.png?v=1769609163&width=400",
-"type": "Makeup Tools and Brushes",
-"tags": [
-"JANSKU26",
-"LAKI826"
-],
-"in": false
-},
-{
-"t": "Laki Beauty 201 Perfect Base Brush",
-"u": "https://feel22.com/products/laki-beauty-201-perfect-base-brush",
-"p": 9.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Laki_Beauty_201_Perfect_Base_Brush.png?v=1769609626&width=400",
-"type": "Makeup Tools and Brushes",
-"tags": [
-"JANSKU26",
-"LAKI826"
 ],
 "in": true
 }
