@@ -1,5 +1,51 @@
 [
 {
+"t": "Bounce Curl Detangle Define EdgeLift Brush",
+"u": "https://curlygirlaccessories.com/product/bounce-curl-detangle-define-edgelift-brush/",
+"p": 29.0,
+"c": null,
+"cur": "USD",
+"img": "https://curlygirlaccessories.com/wp-content/uploads/2026/10/bounce-curl-detangle-define-edgelift-brush-coral-300x300.jpg",
+"type": "Brushes &amp; Combs",
+"tags": [
+"Bounce Curl"
+],
+"in": true
+},
+{
+"t": "Cantu Acai Berry Curling Cream – Revitalizing Hair Cream",
+"u": "https://curlygirlaccessories.com/product/cantu-acai-berry-curling-cream-revitalizing-hair-cream/",
+"p": 19.0,
+"c": null,
+"cur": "USD",
+"img": "https://curlygirlaccessories.com/wp-content/uploads/2026/10/cantu-acai-berry-revitalizing-curling-cream-340g-300x300.jpg",
+"type": "Curl Creams",
+"tags": [],
+"in": true
+},
+{
+"t": "Canto Acai Berry Leave in Conditioner Rejuvenation and Treatment of Damaged Hair 340g",
+"u": "https://curlygirlaccessories.com/product/canto-acai-berry-leaf-conditioner-in-rejuvenation-and-treatment-of-damaged-hair-340g/",
+"p": 19.0,
+"c": null,
+"cur": "USD",
+"img": "https://curlygirlaccessories.com/wp-content/uploads/2026/10/1723533271-3CE16EEA-A0BA-4520-AFAE-B3A300A81269-1342x1342-1-300x300.jpeg",
+"type": "Leave-In",
+"tags": [],
+"in": true
+},
+{
+"t": "Cantu Acai Berry Revitalizing Deep Conditioning Treatment Masque 340g",
+"u": "https://curlygirlaccessories.com/product/cantu-acai-berry-revitalizing-deep-conditioning-treatment-masque-340g/",
+"p": 19.0,
+"c": null,
+"cur": "USD",
+"img": "https://curlygirlaccessories.com/wp-content/uploads/2026/10/cantu-acai-berry-deep-conditioning-treatment-masque-340g-300x300.jpg",
+"type": "Masks &amp; Treatments",
+"tags": [],
+"in": true
+},
+{
 "t": "Heatless Curling Rod",
 "u": "https://curlygirlaccessories.com/product/heatless-curling-rod/",
 "p": 7.0,
@@ -12555,7 +12601,7 @@
 "tags": [
 "All Products"
 ],
-"in": true
+"in": false
 },
 {
 "t": "OLAPLEX NO. 4C CLARIFYING SHAMPOO 250 ml",
@@ -14396,7 +14442,7 @@
 "Cantu",
 "Leave-in"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Cantu Guava Scalp Relief Conditioner – 400 mL",

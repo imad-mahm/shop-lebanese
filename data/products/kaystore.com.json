@@ -1,5 +1,187 @@
 [
 {
+"t": "Xiaomi Robot Vacuum H50 Pro",
+"u": "https://kaystore.com/product/xiaomi-robot-vacuum-h50-pro/",
+"p": 599.0,
+"c": null,
+"cur": "USD",
+"img": "https://kaystore.com/wp-content/uploads/2026/10/Xiaomi-Robot-Vacuum-H50-Pro-247x296.jpg",
+"type": "Vacuum Cleaners",
+"tags": [
+"Appliances",
+"Home cleaner",
+"Robot vacuum",
+"vacuum cleaner"
+],
+"in": true
+},
+{
+"t": "Xiaomi Robot Vacuum H50",
+"u": "https://kaystore.com/product/xiaomi-robot-vacuum-h50/",
+"p": 490.0,
+"c": null,
+"cur": "USD",
+"img": "https://kaystore.com/wp-content/uploads/2026/10/Xiaomi-Robot-Vacuum-H50-247x296.jpg",
+"type": "Vacuum Cleaners",
+"tags": [
+"Appliances",
+"Home cleaner",
+"Robot vacuum",
+"vacuum cleaner"
+],
+"in": true
+},
+{
+"t": "Xiaomi Robot Vacuum E12",
+"u": "https://kaystore.com/product/xiaomi-robot-vacuum-e12/",
+"p": 199.0,
+"c": null,
+"cur": "USD",
+"img": "https://kaystore.com/wp-content/uploads/2026/10/Xiaomi-Robot-Vacuum-E12-247x296.jpg",
+"type": "Vacuum Cleaners",
+"tags": [
+"Appliances",
+"Home cleaner",
+"Robot vacuum",
+"vacuum cleaner"
+],
+"in": true
+},
+{
+"t": "Xiaomi Robot Vacuum 6 Max",
+"u": "https://kaystore.com/product/xiaomi-robot-vacuum-6-max/",
+"p": 1099.0,
+"c": null,
+"cur": "USD",
+"img": "https://kaystore.com/wp-content/uploads/2026/10/Xiaomi-Robot-Vacuum-6-Max-247x296.jpg",
+"type": "Vacuum Cleaners",
+"tags": [
+"Appliances",
+"Home cleaner",
+"Robot vacuum",
+"vacuum cleaner"
+],
+"in": true
+},
+{
+"t": "Xiaomi Robot Vacuum 6",
+"u": "https://kaystore.com/product/xiaomi-robot-vacuum-6/",
+"p": 760.0,
+"c": null,
+"cur": "USD",
+"img": "https://kaystore.com/wp-content/uploads/2026/10/Xiaomi-Robot-Vacuum-6-247x296.jpg",
+"type": "Vacuum Cleaners",
+"tags": [
+"Appliances",
+"Home cleaner",
+"Robot vacuum",
+"vacuum cleaner"
+],
+"in": true
+},
+{
+"t": "Xiaomi Robot Vacuum 5 Pro",
+"u": "https://kaystore.com/product/xiaomi-robot-vacuum-5-pro/",
+"p": 900.0,
+"c": null,
+"cur": "USD",
+"img": "https://kaystore.com/wp-content/uploads/2026/10/Xiaomi-Robot-Vacuum-5-Pro-247x296.jpg",
+"type": "Vacuum Cleaners",
+"tags": [
+"Appliances",
+"Home cleaner",
+"Robot vacuum",
+"vacuum cleaner"
+],
+"in": true
+},
+{
+"t": "Xiaomi Robot Vacuum 5",
+"u": "https://kaystore.com/product/xiaomi-robot-vacuum-5/",
+"p": 740.0,
+"c": null,
+"cur": "USD",
+"img": "https://kaystore.com/wp-content/uploads/2026/10/Xiaomi-Robot-Vacuum-5-247x296.jpg",
+"type": "Vacuum Cleaners",
+"tags": [
+"Appliances",
+"Home cleaner",
+"Robot vacuum",
+"vacuum cleaner"
+],
+"in": true
+},
+{
+"t": "Xiaomi Portable Blender",
+"u": "https://kaystore.com/product/xiaomi-portable-blender/",
+"p": 29.0,
+"c": null,
+"cur": "USD",
+"img": "https://kaystore.com/wp-content/uploads/2026/10/Xiaomi-Portable-Blender-247x296.jpg",
+"type": "Blenders &amp; Hand Blenders",
+"tags": [
+"Appliances",
+"Blender",
+"Cocktail",
+"Glass Blender"
+],
+"in": true
+},
+{
+"t": "Xiaomi Night Light 3",
+"u": "https://kaystore.com/product/xiaomi-night-light-3/",
+"p": 28.0,
+"c": null,
+"cur": "USD",
+"img": "https://kaystore.com/wp-content/uploads/2026/10/Xiaomi-Night-Light-3-247x296.jpg",
+"type": "Bulb &amp; Rechargeable Light",
+"tags": [
+"Accessories",
+"bulb",
+"eco",
+"Electronic",
+"LED",
+"led light",
+"light"
+],
+"in": true
+},
+{
+"t": "Xiaomi Multi-Function Flashlight",
+"u": "https://kaystore.com/product/xiaomi-multi-function-flashlight/",
+"p": 39.0,
+"c": null,
+"cur": "USD",
+"img": "https://kaystore.com/wp-content/uploads/2026/10/Xiaomi-Multi-Function-Flashlight-247x296.jpg",
+"type": "Bulb &amp; Rechargeable Light",
+"tags": [
+"Accessories",
+"bulb",
+"eco",
+"Electronic",
+"LED",
+"led light",
+"light"
+],
+"in": true
+},
+{
+"t": "Xiaomi Mijia Wireless Wet & Dry Vacuum 5 Pro",
+"u": "https://kaystore.com/product/xiaomi-mijia-wireless-wet-dry-vacuum-5-pro/",
+"p": 510.0,
+"c": null,
+"cur": "USD",
+"img": "https://kaystore.com/wp-content/uploads/2026/10/Xiaomi-Mijia-Wireless-Wet-Dry-Vacuum-5-Pro-247x296.jpg",
+"type": "Vacuum Cleaners",
+"tags": [
+"Appliances",
+"Home cleaner",
+"STICK VACUUM",
+"vacuum cleaner"
+],
+"in": true
+},
+{
 "t": "Xiaomi Mijia Vacuum Cleaner 4",
 "u": "https://kaystore.com/product/xiaomi-mijia-vacuum-cleaner-4/",
 "p": 345.0,
@@ -5429,7 +5611,7 @@
 "washer10KG",
 "Washing Machine"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Kelvinator Washer 10kg 1400RPM",
@@ -5658,7 +5840,7 @@
 "Inverter Fridge",
 "Refrigerator"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Kelvinator Top Mount Fridge 606 Liters",
@@ -48607,23 +48789,6 @@
 "in": true
 },
 {
-"t": "Thousand Pearl Ball Decoration",
-"u": "https://kaystore.com/product/thousand-pearl-ball-decoration-d-12/",
-"p": 32.0,
-"c": null,
-"cur": "USD",
-"img": "https://kaystore.com/wp-content/uploads/2025/10/I137592-247x296.jpg",
-"type": "Baubles, Christmas",
-"tags": [
-"Bauble Decoration",
-"Christmas",
-"Christmas Tree",
-"Decoration Tree",
-"La Maison"
-],
-"in": true
-},
-{
 "t": "Base Pino Elfo Trousers",
 "u": "https://kaystore.com/product/base-pino-elfo-trousers-h-66-l-57-w-41-c4/",
 "p": 639.0,
@@ -51772,160 +51937,6 @@
 "Christmas Accessories",
 "Home Deco",
 "La Maison"
-],
-"in": true
-},
-{
-"t": "Tall North Pole Mailbox With Candy Cane Stand 185Cm",
-"u": "https://kaystore.com/product/tall-north-pole-mailbox-with-candy-cane-stand-185cm/",
-"p": 299.0,
-"c": null,
-"cur": "USD",
-"img": "https://kaystore.com/wp-content/uploads/2025/10/I137513-1-247x296.jpg",
-"type": "Accessories, Christmas",
-"tags": [
-"Accessories",
-"Christmas",
-"Christmas Accessories",
-"Home Deco",
-"La Maison"
-],
-"in": true
-},
-{
-"t": "Iron Christmas Old Style Truck W Tree In Glossy R",
-"u": "https://kaystore.com/product/iron-christmas-old-style-truck-w-tree-in-glossy-r/",
-"p": 99.0,
-"c": null,
-"cur": "USD",
-"img": "https://kaystore.com/wp-content/uploads/2025/10/I137512-1-247x296.jpg",
-"type": "Accessories, Christmas",
-"tags": [
-"Accessories",
-"Christmas",
-"Christmas Accessories",
-"Home Deco",
-"La Maison"
-],
-"in": true
-},
-{
-"t": "Stable",
-"u": "https://kaystore.com/product/stable/",
-"p": 190.0,
-"c": null,
-"cur": "USD",
-"img": "https://kaystore.com/wp-content/uploads/2025/10/I137749-247x296.jpg",
-"type": "Christmas, Nativities",
-"tags": [
-"Christmas",
-"La Maison",
-"Nativity"
-],
-"in": true
-},
-{
-"t": "Angel",
-"u": "https://kaystore.com/product/angel-2/",
-"p": 250.0,
-"c": null,
-"cur": "USD",
-"img": "https://kaystore.com/wp-content/uploads/2025/10/I137748-247x296.jpg",
-"type": "Christmas, Nativities",
-"tags": [
-"Christmas",
-"La Maison",
-"Nativity"
-],
-"in": true
-},
-{
-"t": "Holy Family X 3",
-"u": "https://kaystore.com/product/holy-family-x-3-7/",
-"p": 1999.0,
-"c": null,
-"cur": "USD",
-"img": "https://kaystore.com/wp-content/uploads/2025/10/I137747-247x296.jpg",
-"type": "Christmas, Nativities",
-"tags": [
-"Christmas",
-"La Maison",
-"Nativity"
-],
-"in": true
-},
-{
-"t": "Pres?pio Egipto",
-"u": "https://kaystore.com/product/prespio-egipto/",
-"p": 1839.0,
-"c": null,
-"cur": "USD",
-"img": "https://kaystore.com/wp-content/uploads/2025/10/I137746-247x296.jpg",
-"type": "Christmas, Nativities",
-"tags": [
-"Christmas",
-"La Maison",
-"Nativity"
-],
-"in": true
-},
-{
-"t": "Holy Family",
-"u": "https://kaystore.com/product/holy-family-8/",
-"p": 155.0,
-"c": null,
-"cur": "USD",
-"img": "https://kaystore.com/wp-content/uploads/2025/10/I137745-247x296.jpg",
-"type": "Christmas, Nativities",
-"tags": [
-"Christmas",
-"La Maison",
-"Nativity"
-],
-"in": true
-},
-{
-"t": "Pres?pio",
-"u": "https://kaystore.com/product/presopio/",
-"p": 295.0,
-"c": null,
-"cur": "USD",
-"img": "https://kaystore.com/wp-content/uploads/2025/10/I137744-247x296.jpg",
-"type": "Christmas, Nativities",
-"tags": [
-"Christmas",
-"La Maison",
-"Nativity"
-],
-"in": true
-},
-{
-"t": "Holy Family X 3",
-"u": "https://kaystore.com/product/holy-family-x-3-6/",
-"p": 129.0,
-"c": null,
-"cur": "USD",
-"img": "https://kaystore.com/wp-content/uploads/2025/10/I137743-247x296.jpg",
-"type": "Christmas, Nativities",
-"tags": [
-"Christmas",
-"La Maison",
-"Nativity"
-],
-"in": true
-},
-{
-"t": "Pres?pio",
-"u": "https://kaystore.com/product/presopio-2/",
-"p": 195.0,
-"c": null,
-"cur": "USD",
-"img": "https://kaystore.com/wp-content/uploads/2025/10/I137742-247x296.jpg",
-"type": "Christmas, Nativities",
-"tags": [
-"Christmas",
-"La Maison",
-"Nativity"
 ],
 "in": true
 }

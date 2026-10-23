@@ -1,5 +1,118 @@
 [
 {
+"t": "PUPA Milano Vamp! Sexy Lashes Volume and Curve Mascara",
+"u": "https://zedstorelb.com/products/pupa-milano-vamp-sexy-lashes-volume-and-curve-mascara",
+"p": 16.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/pupa-milano-vamp-mascara-sexy-lashes-011-sexy-black.jpg?v=1792738819&width=400",
+"type": "Makeup",
+"tags": [],
+"in": true
+},
+{
+"t": "Free Gift Gua Sha from essence",
+"u": "https://zedstorelb.com/products/free-gift-gua-sha-from-essence",
+"p": 0.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/rn-image_picker_lib_temp_75ed1fe0-c2a5-4856-9ef6-ff69c5b2e1ad.jpg?v=1792688873&width=400",
+"type": "FREE Gift",
+"tags": [
+"freegift",
+"giftcollection"
+],
+"in": true
+},
+{
+"t": "Ice Wild Figs N164 15ml",
+"u": "https://zedstorelb.com/products/ice-wild-figs-n164-15ml",
+"p": 4.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/N164_Wild_Figs_BOTTLE_1.webp?v=1792685759&width=400",
+"type": "naiil polish",
+"tags": [],
+"in": true
+},
+{
+"t": "Ice Chestnut N472 15ml",
+"u": "https://zedstorelb.com/products/ice-chestnut-n472-15ml",
+"p": 4.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/N472_Chestnut_BOTTLE_1.webp?v=1792685594&width=400",
+"type": "Nail Polish",
+"tags": [],
+"in": true
+},
+{
+"t": "Ice Plum Reserve N98 15ml",
+"u": "https://zedstorelb.com/products/ice-plum-reserve-n98-15ml",
+"p": 4.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/N98_PLUMRESERVE_BOTTLE.webp?v=1792685487&width=400",
+"type": "naiil polish",
+"tags": [],
+"in": true
+},
+{
+"t": "Ice Dried Rose N163 15ml",
+"u": "https://zedstorelb.com/products/ice-dried-rose-n163-15ml",
+"p": 4.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/N163_Dried_Rose_BOTTLE.webp?v=1792685349&width=400",
+"type": "Nail Polish",
+"tags": [],
+"in": true
+},
+{
+"t": "Ice Garnet Fall N70 15mL",
+"u": "https://zedstorelb.com/products/ice-garnet-fall-n70-15ml",
+"p": 4.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/N70_Garnet_Fall_BOTTLE.webp?v=1792685051&width=400",
+"type": "naiil polish",
+"tags": [],
+"in": true
+},
+{
+"t": "Ice Evening Rain N192 15ml",
+"u": "https://zedstorelb.com/products/ice-evening-rain-n192-15ml",
+"p": 4.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/N192_Evening_Rain_BOTTLE.webp?v=1792684841&width=400",
+"type": "Nail Polish",
+"tags": [],
+"in": true
+},
+{
+"t": "Ice Crushed Berry N424 15ml",
+"u": "https://zedstorelb.com/products/ice-crushed-berry-n424-15ml",
+"p": 4.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/N424_Crushed_Berry_BOTTLE.webp?v=1792684736&width=400",
+"type": "Nail Polish",
+"tags": [],
+"in": true
+},
+{
+"t": "Ice Salted Olives N233 15ml",
+"u": "https://zedstorelb.com/products/ice-salted-olives-n233-15ml",
+"p": 4.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/N223_Salted_Olives_BOTTLE.webp?v=1792684562&width=400",
+"type": "Nail Polish",
+"tags": [],
+"in": true
+},
+{
 "t": "Dali Beauty Creamy Contour - Mochaccino",
 "u": "https://zedstorelb.com/products/dali-beauty-creamy-contour",
 "p": 6.5,
@@ -1252,7 +1365,7 @@
 "freegift",
 "giftcollection"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Free Gift Makeup Brush",
@@ -1884,7 +1997,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/n64_CherryBomb.webp?v=1790696913&width=400",
 "type": "naiil polish",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Ice Tipsy Rouge N66 16ml",
@@ -1906,7 +2019,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/n68_RedDesire.webp?v=1790697525&width=400",
 "type": "naiil polish",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Ice Love Potion N92 15ml",
@@ -1928,7 +2041,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/n97DeepCommitment.webp?v=1790697293&width=400",
 "type": "naiil polish",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Ice Kiss Me Red N63 15ml",
@@ -1961,7 +2074,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/n91CHEERSDARLING.webp?v=1790697759&width=400",
 "type": "naiil polish",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Ice Royal Iris N153 15ml",
@@ -2016,7 +2129,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/n471Spicethingsup.webp?v=1790698553&width=400",
 "type": "naiil polish",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Ice Pine Forest N214 15ml",
@@ -3106,7 +3219,7 @@
 "medicube",
 "skin care"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Medicube PDRN Pink Collagen Jelly Eye Mask - 6 Pairs",
@@ -4032,72 +4145,6 @@
 "in": true
 },
 {
-"t": "essence What The Fluff?! Eyeshadow Palette - 01 Cotton Candy Skies",
-"u": "https://zedstorelb.com/products/essence-what-the-fluff-eyeshadow-palette-01-cotton-candy-skies",
-"p": 7.35,
-"c": 7.99,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/images_d12a35e3-9513-4bb0-bc0d-d0192aaafb59.jpg?v=1788288695&width=400",
-"type": "Eyeshadow",
-"tags": [],
-"in": false
-},
-{
-"t": "essence What The Fluff?! Powder Puff Duo",
-"u": "https://zedstorelb.com/products/essence-what-the-fluff-powder-puff-duo",
-"p": 3.67,
-"c": 3.99,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/images_c4941d23-5ecb-4ed3-b2ae-f14c8865096f.jpg?v=1788288622&width=400",
-"type": "Makeup Tools",
-"tags": [],
-"in": false
-},
-{
-"t": "essence What The Fluff?! Mattifying Face Balm - 01 On Cloud Candy",
-"u": "https://zedstorelb.com/products/essence-what-the-fluff-mattifying-face-balm-01-on-cloud-candy",
-"p": 4.22,
-"c": 4.59,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/Essence-What-The-Fluff-Mattifying-Face-Balm-01-On-0.webp?v=1788288531&width=400",
-"type": "Face Balm",
-"tags": [],
-"in": false
-},
-{
-"t": "essence What The Fluff?! Lip Glaze - 01 Cloudy Kiss",
-"u": "https://zedstorelb.com/products/essence-what-the-fluff-lip-glaze-01-cloudy-kiss",
-"p": 3.36,
-"c": 3.65,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/12221941_1000.jpg?v=1788288386&width=400",
-"type": "Lip Gloss",
-"tags": [],
-"in": false
-},
-{
-"t": "essence What The Fluff?! Lip Scrub - 01 Sugar Dreams",
-"u": "https://zedstorelb.com/products/essence-what-the-fluff-lip-scrub-01-sugar-dreams",
-"p": 2.75,
-"c": 2.99,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/4059729597243_1.webp?v=1788286584&width=400",
-"type": "Lip Care",
-"tags": [],
-"in": false
-},
-{
-"t": "essence What The Fluff?! Lip Tint - 01 Candy-Stain",
-"u": "https://zedstorelb.com/products/essence-what-the-fluff-lip-tint-01-candy-stain",
-"p": 3.95,
-"c": 4.29,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/Essence_What_The_Fluff_Lip_Tint_01_Candy_Stain.webp?v=1788286234&width=400",
-"type": "Lip Tint",
-"tags": [],
-"in": false
-},
-{
 "t": "essence the Lip-Smilin' Club Glycerin Lip Treatment - 01 Sunshine Mood: On!",
 "u": "https://zedstorelb.com/products/essence-the-lip-smilin-club-glycerin-lip-treatment-01-sunshine-mood-on",
 "p": 5.51,
@@ -4260,7 +4307,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/images_c66dddd5-b7d2-45ba-9c42-2c642dd0ea5d.jpg?v=1787900261&width=400",
 "type": "Eyelashes",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Dali 46 Aqua Nail Polish",
@@ -4543,7 +4590,7 @@
 "tags": [
 "sephoracollection"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Bath & Body Works Gingham Gorgeous Fine Fragrance Mist 236ml",
@@ -4556,7 +4603,7 @@
 "tags": [
 "sephoracollection"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Bath & Body Works Candy-Coated Season Gingham Gorgeous Gift Set",
@@ -4915,7 +4962,7 @@
 "Nails",
 "New Releases"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Urban Decay All Nighter Ultra Matte Long Lasting Makeup Setting Spray 118mL",
@@ -5193,7 +5240,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/n272FeatherNude.webp?v=1786783159&width=400",
 "type": "Nail Polish",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Pastel 435",
@@ -6402,24 +6449,6 @@
 "in": true
 },
 {
-"t": "Essence feelin' comfy lash curler 01 Self-Care Club Member",
-"u": "https://zedstorelb.com/products/essence-feelin-comfy-lash-curler-01-self-care-club-member",
-"p": 3.68,
-"c": 4.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/669348_17.png?v=1785266579&width=400",
-"type": "Makeup Tools",
-"tags": [
-"essence",
-"Eyes",
-"feelin comfy",
-"Makeup",
-"New Arrivals",
-"Tools"
-],
-"in": false
-},
-{
 "t": "Essence feelin' comfy giant sponge 01 My Safe Space Cloud",
 "u": "https://zedstorelb.com/products/essence-feelin-comfy-giant-sponge-01-my-safe-space-cloud",
 "p": 5.98,
@@ -6436,89 +6465,6 @@
 "Tools"
 ],
 "in": true
-},
-{
-"t": "Essence feelin' comfy blush balm duo 01 In My Blushin' Era, 3.9g",
-"u": "https://zedstorelb.com/products/essence-feelin-comfy-blush-balm-duo-01-in-my-blushin-era-3-9g",
-"p": 3.96,
-"c": 4.3,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/669348_34.png?v=1785266599&width=400",
-"type": "Blush",
-"tags": [
-"Blush",
-"essence",
-"Face",
-"feelin comfy",
-"Makeup",
-"New Arrivals"
-],
-"in": false
-},
-{
-"t": "Essence feelin' comfy lash without limits brown extreme lengthening & volume mascara 01 Lash Cocoon, 13ml",
-"u": "https://zedstorelb.com/products/essence-feelin-comfy-lash-without-limits-brown-extreme-lengthening-volume-mascara-01-lash-cocoon-13ml",
-"p": 4.32,
-"c": 4.7,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/4059729589835_b5e6654d-ab84-416a-b57b-e029983f8b5d.jpg?v=1785266749&width=400",
-"type": "Mascara",
-"tags": [
-"essence",
-"Eyes",
-"feelin comfy",
-"Makeup",
-"Mascara",
-"New Arrivals"
-],
-"in": false
-},
-{
-"t": "Essence feelin' comfy peptide lipgloss 02 Cinnamon Cuddles, 15ml",
-"u": "https://zedstorelb.com/products/essence-feelin-comfy-peptide-lipgloss-02-cinnamon-cuddles-15ml",
-"p": 3.96,
-"c": 4.3,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/4059729590077_1dc44436-cb43-46b4-89b1-0872f5b6e96e.jpg?v=1785266719&width=400",
-"type": "Lip Gloss",
-"tags": [
-"essence",
-"feelin comfy",
-"Lipgloss",
-"Lips",
-"Makeup",
-"New Arrivals"
-],
-"in": false
-},
-{
-"t": "Essence feelin' comfy peptide lipgloss 01 Strawberry Self-love, 15ml",
-"u": "https://zedstorelb.com/products/essence-feelin-comfy-peptide-lipgloss-01-strawberry-self-love-15ml",
-"p": 3.96,
-"c": 4.3,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/669348_24.png?v=1785266522&width=400",
-"type": "Lip Gloss",
-"tags": [
-"essence",
-"feelin comfy",
-"Lipgloss",
-"Lips",
-"Makeup",
-"New Arrivals"
-],
-"in": false
-},
-{
-"t": "Essence Inner Eye Khol Kajal 01",
-"u": "https://zedstorelb.com/products/essence-inner-eye-khol-kajal-01",
-"p": 1.29,
-"c": 1.4,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/images_82bad740-9326-46cf-af85-a8c13b63f65b.jpg?v=1785255225&width=400",
-"type": "Eye pencil",
-"tags": [],
-"in": false
 },
 {
 "t": "Avene Buy 1 Get 1 Avène Ultra Fluid Invisible SPF50+ Sunscreen 50ml - Ultra Light texture",
@@ -7017,7 +6963,7 @@
 "Rice",
 "Skincare"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Emerald Bay Dark Mojo Tingle Tanning Accelerator Lotion Sachet 15ml",
@@ -8771,7 +8717,7 @@
 "tags": [
 "Pastel"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Pastel Nail Polish 459",
@@ -8810,7 +8756,7 @@
 "tags": [
 "Pastel"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Pastel Nail Polish 462",
@@ -8849,7 +8795,7 @@
 "tags": [
 "Pastel"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Pastel Nail Polish 457",
@@ -8862,7 +8808,7 @@
 "tags": [
 "Pastel"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Pastel Nail Polish 458",
@@ -8888,7 +8834,7 @@
 "tags": [
 "Pastel"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Pastel Nail Polish 452",
@@ -9137,17 +9083,6 @@
 "type": "hair oil",
 "tags": [],
 "in": true
-},
-{
-"t": "Essence All About That Bow Peptide Lipgloss",
-"u": "https://zedstorelb.com/products/essence-all-about-that-bow-peptide-lipgloss",
-"p": 4.32,
-"c": 4.7,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/download_6828338c-6d3c-4dca-ab8b-687f97504f80.jpg?v=1781680194&width=400",
-"type": "Lipgloss",
-"tags": [],
-"in": false
 },
 {
 "t": "Dessange Color & Keratin Protective Shampoo 250ml",
@@ -9532,7 +9467,7 @@
 "tags": [
 "sephoracollection"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Bath & Body Works Perfect in Pink",
@@ -9545,7 +9480,7 @@
 "tags": [
 "sephoracollection"
 ],
-"in": false
+"in": true
 },
 {
 "t": "La Roche Posay Anthelios UVAir Serum Sunscreen SPF50 50ml",
@@ -11203,7 +11138,7 @@
 "tags": [
 "sephoracollection"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Bath & Body Works Youre The One Body Splash 236ML",
@@ -11295,7 +11230,7 @@
 "tags": [
 "sephoracollection"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Victoria's Secret Velvet Petals Fragrance Mist 250ml",
@@ -11334,7 +11269,7 @@
 "tags": [
 "sephoracollection"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Victoria's Secret Fragrance Mist Collection 4 Piece Mini Mist Gift Set 75ml",
@@ -11779,39 +11714,6 @@
 "in": false
 },
 {
-"t": "Essence Get The Glaze Baked Highlighter - 01 Don't Worry, Be Glazy",
-"u": "https://zedstorelb.com/products/essence-get-the-glaze-baked-highlighter-01-dont-worry-be-glazy",
-"p": 6.24,
-"c": 6.78,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/Essence-Get-The-Glaze-Baked-Highlighter-01-Don-t-W-0.webp?v=1776930676&width=400",
-"type": "Highilighter",
-"tags": [],
-"in": false
-},
-{
-"t": "Essence Get The Glaze! Swirl Creamy Blush 01-What A Yummy Twist!",
-"u": "https://zedstorelb.com/products/essence-get-the-glaze-swirl-creamy-blush-01-what-a-yummy-twist",
-"p": 6.24,
-"c": 6.78,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/images_dc53bcd1-2c55-4a41-9850-06ecc0fad07d.jpg?v=1776930457&width=400",
-"type": "Blush",
-"tags": [],
-"in": false
-},
-{
-"t": "Essence Get The Glaze! Lip Cream -01 Vanilla Strawberry Drip 17ml",
-"u": "https://zedstorelb.com/products/essence-get-the-glaze-lip-cream-01-vanilla-strawberry-drip-17ml",
-"p": 3.06,
-"c": 3.33,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/POST_Instagramfacebook_6.webp?v=1776930829&width=400",
-"type": "lip cream",
-"tags": [],
-"in": false
-},
-{
 "t": "Essence Get The Glaze! Freckle Tattoos 3 Sheets",
 "u": "https://zedstorelb.com/products/essence-get-the-glaze-freckle-tattoos-3-sheets",
 "p": 3.51,
@@ -12058,17 +11960,6 @@
 "type": "perfume",
 "tags": [],
 "in": true
-},
-{
-"t": "Essence Skin Lovin' Sensitive Concealer",
-"u": "https://zedstorelb.com/products/essence-skin-lovin-sensitive-concealer",
-"p": 3.59,
-"c": 3.9,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/4059729308382.webp?v=1776760472&width=400",
-"type": "Concealer",
-"tags": [],
-"in": false
 },
 {
 "t": "Unbreakable Hair Clip 3",
@@ -12789,33 +12680,6 @@
 "type": "perfume",
 "tags": [],
 "in": true
-},
-{
-"t": "Essence Disney Alice in Wonderland Key Chain Sheer Lip Balm",
-"u": "https://zedstorelb.com/products/essence-disney-alice-in-wonderland-key-chain-sheer-lip-balm",
-"p": 3.59,
-"c": 3.9,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/IMG-4247.webp?v=1774721128&width=400",
-"type": "Lip Balm",
-"tags": [
-"essenceinwonderland"
-],
-"in": false
-},
-{
-"t": "Disney Alice in Wonderland Colour-Changing Make-Up Sponge",
-"u": "https://zedstorelb.com/products/disney-alice-in-wonderland-colour-changing-make-up-sponge",
-"p": 3.28,
-"c": 4.1,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/images_9e0b3bc8-70ba-4902-87d4-f851326bd992.jpg?v=1774687123&width=400",
-"type": "sponge",
-"tags": [
-"clearance1",
-"essence2"
-],
-"in": false
 },
 {
 "t": "Essence Lipgloss Sheer Brown with Gold Shimmer",
@@ -18222,7 +18086,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/download_99061632-ebe7-4390-98c6-0540e4ff14e4.jpg?v=1761744149&width=400",
 "type": "eyeliner",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Shiseido Fino premium touch revitalizing shampoo for dry hair 550ml",
@@ -20835,7 +20699,7 @@
 "sephoracollection",
 "splashlotion"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Bath And Body Works Brightest Bloom Body Splash",
@@ -20863,7 +20727,7 @@
 "sephoracollection",
 "splashlotion"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Bath And Body Works Petal Parade Body Splash",
@@ -20947,7 +20811,7 @@
 "sephoracollection",
 "splashlotion"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Bath and Body Works in the SUN Body Splash",
@@ -20961,7 +20825,7 @@
 "sephoracollection",
 "splashlotion"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Bath and Body Works LOYAL TO YOU Body Splash",
@@ -21101,7 +20965,7 @@
 "sephoracollection",
 "splashlotion"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Bath and Body Works PINK OBSESSED Body Splash",
@@ -21115,7 +20979,7 @@
 "sephoracollection",
 "splashlotion"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Bath and Body Works GUILTY AS FIG Body Splash",
@@ -21129,7 +20993,7 @@
 "sephoracollection",
 "splashlotion"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Bath and Body Works AQUA HOUR Body Splash",
@@ -21157,7 +21021,7 @@
 "sephoracollection",
 "splashlotion"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Too Faced Super Fine Brow Detailer Eyebrow Pencil Soft Black",
@@ -25622,7 +25486,7 @@
 "tags": [
 "koreancollection"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Cosrx Advanced Snail Mucin Glass Glow Hydrogel Mask x3 Masks",
@@ -34977,7 +34841,7 @@
 "sephoracollection",
 "splashlotion"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Bath And Body Works Fine Fragrance Mist 236ml - Pink Suede",
@@ -34993,7 +34857,7 @@
 "sephoracollection",
 "splashlotion"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Bath And Body Works Fine Fragrance Mist 236ml - Carried Away",
@@ -35025,7 +34889,7 @@
 "sephoracollection",
 "splashlotion"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Bath And Body Works Fine Fragrance Mist 236ml - Pure Wonder",
@@ -35089,7 +34953,7 @@
 "sephoracollection",
 "splashlotion"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Bath And Body Works Fine Fragrance Mist 236ml - Golden Berry Mistletoe",
@@ -36881,7 +36745,7 @@
 "sephoracollection",
 "splashlotion"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Bath And Body Works Fine Fragrance Mist 236ml - Frosted Coconut Snowball",
@@ -38346,6 +38210,136 @@
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/026590643.jpg?v=1736785044&width=400",
+"type": "body Splash",
+"tags": [
+"Bath And Body Works Fine Fragrance Mist 236ml",
+"sephoracollection",
+"splashlotion"
+],
+"in": false
+},
+{
+"t": "Bath And Body Works Fine Fragrance Mist 236ml - Thailand Sweet Kiwi & Starfruit",
+"u": "https://zedstorelb.com/products/bath-and-body-works-fine-fragrance-mist-236ml-thailand-sweet-kiwi-starfruit",
+"p": 15.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/Studio-Project-2024-09-10T132211.811.jpg?v=1725963762&width=400",
+"type": "body Splash",
+"tags": [
+"Bath And Body Works Fine Fragrance Mist 236ml",
+"sephoracollection",
+"splashlotion"
+],
+"in": false
+},
+{
+"t": "Bath And Body Works Fine Fragrance Mist 236ml - Hello Beautiful",
+"u": "https://zedstorelb.com/products/bath-and-body-works-fine-fragrance-mist-236ml-hello-beautiful",
+"p": 15.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/Studio-Project-2024-09-10T125808.621.jpg?v=1725962357&width=400",
+"type": "body Splash",
+"tags": [
+"Bath And Body Works Fine Fragrance Mist 236ml",
+"sephoracollection",
+"splashlotion"
+],
+"in": false
+},
+{
+"t": "Bath And Body Works Fine Fragrance Mist 236ml - Costa Rica Pink Pineaplle Sunrise",
+"u": "https://zedstorelb.com/products/bath-and-body-works-fine-fragrance-mist-236ml-costa-rica-pink-pineaplle-sunrise",
+"p": 15.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/Studio-Project-2024-09-10T125317.948.jpg?v=1725962017&width=400",
+"type": "body Splash",
+"tags": [
+"Bath And Body Works Fine Fragrance Mist 236ml",
+"sephoracollection",
+"splashlotion"
+],
+"in": false
+},
+{
+"t": "Lancome Trésor Gift Set",
+"u": "https://zedstorelb.com/products/lancome-tresor-gift-set",
+"p": 40.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/130082-0-0-0.jpg?v=1725833554&width=400",
+"type": "gift set",
+"tags": [
+"Lancome Trésor Gift Set",
+"sephoracollection"
+],
+"in": false
+},
+{
+"t": "YSL Mascara Volume Effet Faux Cils Eye Gift Set",
+"u": "https://zedstorelb.com/products/ysl-mascara-volume-effet-faux-cils-eye-gift-set",
+"p": 60.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/3614274121254.jpg?v=1725832972&width=400",
+"type": "gift set",
+"tags": [
+"sephoracollection",
+"YSL Mascara Volume Effet Faux Cils Eye Gift Set"
+],
+"in": false
+},
+{
+"t": "Sol De Janeiro Rio Body Trio Set",
+"u": "https://zedstorelb.com/products/sol-de-janeiro-rio-body-trio-set",
+"p": 58.5,
+"c": 65.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/Studio-Project_27.jpg?v=1725832154&width=400",
+"type": "body lotion",
+"tags": [
+"sephoracollection",
+"Sol De Janeiro Rio Body Trio Set",
+"splashlotion"
+],
+"in": true
+},
+{
+"t": "Lattafa Yara Deodorant Perfumed Body Spray 200ml for Women",
+"u": "https://zedstorelb.com/products/lattafa-yara-deodorant-perfumed-body-spray-200ml-for-women",
+"p": 3.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/Studio-Project_26.jpg?v=1725826859&width=400",
+"type": "Deodorant",
+"tags": [
+"Lattafa Yara Deodorant Perfumed Body Spray 200ml for Women"
+],
+"in": false
+},
+{
+"t": "Maybelline Lifter Liner Lip Liner Pencil with Hyaluronic Acid and Jojoba Oil",
+"u": "https://zedstorelb.com/products/maybelline-lifter-liner-lip-liner-pencil-with-hyaluronic-acid-and-jojoba-oil",
+"p": 7.56,
+"c": 8.4,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/03.PlayerLifterLinerA_ContentArtboard1-100.webp?v=1725459268&width=400",
+"type": "Lip Liner",
+"tags": [
+"1212/2025",
+"lorealfinal"
+],
+"in": true
+},
+{
+"t": "Bath And Body Works Fine Fragrance Mist 236ml - Waikiki Beach Coconut",
+"u": "https://zedstorelb.com/products/bath-and-body-works-fine-fragrance-mist-236ml-waikiki-beach-coconut",
+"p": 15.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/Studio-Project_22.jpg?v=1725528083&width=400",
 "type": "body Splash",
 "tags": [
 "Bath And Body Works Fine Fragrance Mist 236ml",
