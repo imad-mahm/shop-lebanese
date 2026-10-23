@@ -1,5 +1,67 @@
 [
 {
+"t": "GWP RUBY ROSE  *or an equivalent based on availability",
+"u": "https://sohaticare.com/products/gwp-ruby-rose",
+"p": 0.0,
+"c": null,
+"cur": "USD",
+"img": "",
+"type": "GWP",
+"tags": [
+"ALLSUMSPLASH_05.16",
+"BACK2SKL23",
+"wizzy-ignore"
+],
+"in": true
+},
+{
+"t": "2x Fresh & Bright Creams + FREE Small Plushies Mochi",
+"u": "https://sohaticare.com/products/2x-fresh-bright-creams-free-small-plushies-mochi",
+"p": 19.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/Artboard1_2x-100_1.jpg?v=1792579537&width=400",
+"type": "Bundle",
+"tags": [
+"Bundle",
+"Factory Sync Transfer",
+"garnier-cream",
+"Giftset"
+],
+"in": true
+},
+{
+"t": "Aloe Ha Moisturizer Cream Dry To very Dry 125ML",
+"u": "https://sohaticare.com/products/aloe-ha-moisturizer-cream-dry-to-very-dry-125ml",
+"p": 9.8,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/WhatsAppImage2026-10-22at3.40.28PM_1.jpg?v=1792676102&width=400",
+"type": "Moisturizer Cream",
+"tags": [],
+"in": true
+},
+{
+"t": "Gentle Eye Make-up Remover 125ML",
+"u": "https://sohaticare.com/products/gentle-eye-make-up-remover",
+"p": 18.0,
+"c": 35640.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/products/avene-gentle-eye-make-up-remover-125ml.jpg?v=1596714416&width=400",
+"type": "Eye Makeup Remover",
+"tags": [
+"ADHA23",
+"ADHA23_20%",
+"AllPF",
+"ALLSUMSPLASH_05.16",
+"Anti-Aging Eye Care",
+"Avene",
+"Cleansers and Makeup Removers",
+"Dermo-Cosmetics"
+],
+"in": true
+},
+{
 "t": "Garnier Salicylic Fresh & Matte Cream 85ml",
 "u": "https://sohaticare.com/products/garnier-salicylic-fresh-matte-cream-85ml",
 "p": 9.5,
@@ -65,7 +127,7 @@
 "SEARCHANISE_IGNORE",
 "wizzy-ignore"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Skin1004 GWP  *or an equivalent based on availability",
@@ -83,7 +145,7 @@
 "SEARCHANISE_IGNORE",
 "wizzy-ignore"
 ],
-"in": false
+"in": true
 },
 {
 "t": "La Roche-Posay Mela B3 Double Dose 40ml",
@@ -544,7 +606,7 @@
 "Giftset",
 "TOPOFFER"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Buy Frezyderm Anti-Wrinkle Rich Day Cream 45+ 50ml + Anti-Wrinkle Rich Night Cream 45+ 50ml & get a FREE Color Eye Balm 15ml",
@@ -2664,7 +2726,7 @@
 "pf-bck-to-schl-cmpgn",
 "PF_AUG_26_Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Neutrogena Collagen Bank Day Cream SPF 50ml",
@@ -2757,7 +2819,7 @@
 "nutripo_acne_aug26",
 "oily-bundle-nutripo"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Buy Nutripo Facial Wash 500 ml & get a FREE Matipore Salicylic Acid 30 ml",
@@ -2777,7 +2839,7 @@
 "oily-bundle-nutripo",
 "TOPOFFER"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Lipo Redux Cryogel Cafeine 24H 1KG",
@@ -3251,7 +3313,7 @@
 "p": 11.97,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/mascara3_1.png?v=1787146117&width=400",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/mascara_4cd2fae7-e5b6-46aa-b16a-121b418f91f6.webp?v=1792743109&width=400",
 "type": "Mascara",
 "tags": [],
 "in": true
@@ -4038,7 +4100,7 @@
 "PF_Sale_25",
 "summer_bundles_skincare-aug26"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Maybelline Lifter Gel Sugar Spritz, Lip Oil-in-Gel, Glassy, Bouncy Shine 6.6 ML / 0.22 FL OZ",
@@ -4813,7 +4875,7 @@
 "tags": [
 "lumi collection"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Samao Prime Melt Hydrating Smoothing Primer",
@@ -4826,7 +4888,7 @@
 "tags": [
 "lumi collection"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Samoa LumiMelt Radiant Long-wear Concealer",
@@ -15315,7 +15377,7 @@
 "Giftset",
 "mothersday26"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Brighten Boost Kit",
@@ -17740,7 +17802,7 @@
 "mothersday26",
 "sunscreendiscount"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Dry touch protective fluid SPF 50+, PPD 30 40 ml",
@@ -24098,7 +24160,7 @@
 "ALLSUMSPLASH_05.16",
 "BACK2SKL23"
 ],
-"in": false
+"in": true
 },
 {
 "t": "FOTOPROTECTOR TRANSPARENT SPRAY WET SKIN SPF50",
@@ -32664,7 +32726,7 @@
 "Bundles",
 "cleanance bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "AVENE CLEANANCE SOLAIRE SPF 50+ 50ml Get cleanance gel 15ml + comedomed 5ml",
@@ -35164,7 +35226,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/TheOrdinaryAHA30_BHA2_PeelingSolution30ml.packshot_05865f09-815f-4054-a79f-aa4af1114762.webp?v=1757936155&width=400",
 "type": "",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "100% PLANT-DERIVED SQUALANE 30ML/1FLOZ",
@@ -35730,7 +35792,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/2_53168442-934a-4f30-905b-043fd262b584.png?v=1757660522&width=400",
 "type": "",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "AZELAIC ACID SUSPENSION 10% 30ML/1FLOZ",
@@ -38831,26 +38893,6 @@
 "in": false
 },
 {
-"t": "Hand & Body Lotion 300mL",
-"u": "https://sohaticare.com/products/hand-body-lotion-300ml",
-"p": 10.27,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/jasmine-500_6996ea7c-4063-4838-a74c-a607eed3156d.webp?v=1753709566&width=400",
-"type": "Body Lotion",
-"tags": [
-"8Anniversary",
-"ALLSUMSPLASH_05.16",
-"Body Care",
-"Body Lotion",
-"CLEAR50",
-"Drugstore",
-"LOCALBRAND",
-"MOMDAYMAIN_15.24"
-],
-"in": false
-},
-{
 "t": "Belle Vie Nutri Cheuveux  30 capsules",
 "u": "https://sohaticare.com/products/belle-vie-nutri-cheuveux-30",
 "p": 22.2,
@@ -40337,26 +40379,6 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/troperaser1.webp?v=1741017642&width=400",
 "type": "Make Up Remover",
 "tags": [],
-"in": true
-},
-{
-"t": "Trop Glitterbeam Highlighter ( Limited Edition )",
-"u": "https://sohaticare.com/products/trop-glitterbeam-highlighter",
-"p": 34.97,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/Stella_Glitterbeam_Highlighter.webp?v=1730204476&width=400",
-"type": "Highlighter",
-"tags": [
-"golden highlighter",
-"Highlighter",
-"highlighter palette",
-"Highlighter Powder",
-"makeup",
-"Makeup Lebanon",
-"pink highlighter",
-"Trop Cosmetics"
-],
 "in": true
 },
 {
@@ -43045,7 +43067,7 @@
 "mothersday26",
 "NOV25DISCOUNTS"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Buy SPF50 Mineral Shield Tint 1 + 2% Hyaluronic Acid + B5 Get FREE Rose Mist",
@@ -44134,37 +44156,6 @@
 "marti-game",
 "martiderm-35-backtoschool"
 ],
-"in": true
-},
-{
-"t": "SPF 50+ Active [D] Hydra Gel, 50ml",
-"u": "https://sohaticare.com/products/spf-50-active-d-hydra-gel-50ml",
-"p": 24.14,
-"c": 32.19,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/marti1.jpg?v=1748606970&width=400",
-"type": "Sunscreen",
-"tags": [
-"8Anniversary",
-"adha_26",
-"allsunscreen_sohati",
-"backtoschool-exclusive",
-"FRENCHWEEK2025",
-"FRENCHWEEK2025.20%",
-"marti-game",
-"martiderm-35-backtoschool"
-],
-"in": true
-},
-{
-"t": "CUSHION MAKEUP SPONGES WITH PLASTIC BOX",
-"u": "https://sohaticare.com/products/cushion-makeup-sponges-with-plastic-box",
-"p": 2.78,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/OPT-3158-CUSHIONMAKEUPSPONGEWITHPLASTICBOXcopy.png?v=1748435385&width=400",
-"type": "Tools",
-"tags": [],
 "in": true
 }
 ]

@@ -42,7 +42,7 @@
 "Collection_Iconic Swan",
 "Material_Rose Gold Plated",
 "New Collection",
-"Selection_Gift"
+"Preorder"
 ],
 "in": true
 },
@@ -60,8 +60,8 @@
 {
 "t": "The Lion",
 "u": "https://swarovski.com.lb/products/5526677",
-"p": 5110.0,
-"c": 7300.0,
+"p": 7300.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5526677_cb3a9480-9454-452e-a675-33f2806eebde.jpg?v=1788397352&width=400",
 "type": "Home Décor",
@@ -2912,7 +2912,7 @@
 "t": "Annual Edition Festive Ornament 2025",
 "u": "https://swarovski.com.lb/products/5701826",
 "p": 125.0,
-"c": 200.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5701826.jpg?v=1751642365&width=400",
 "type": "Home Décor",
@@ -7308,8 +7308,8 @@
 {
 "t": "Constella drop earrings, Round cut, White, Rhodium plated",
 "u": "https://swarovski.com.lb/products/5728584",
-"p": 109.0,
-"c": 155.0,
+"p": 155.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5728584_var1.jpg?v=1754397356&width=400",
 "type": "Earrings",
@@ -8651,7 +8651,7 @@
 "Material_White Rhodium Plated",
 "New Collection",
 "New In",
-"Selection_Gift"
+"Preorder"
 ],
 "in": true
 },
@@ -9293,7 +9293,7 @@
 "Category_Charm",
 "Collection_Idyllia",
 "Material_White Rhodium Plated",
-"Selection_Gift"
+"Preorder"
 ],
 "in": true
 },
@@ -9813,7 +9813,8 @@
 "Category_Earrings",
 "Category_Stud Earrings",
 "Collection_Magic",
-"Material_White Rhodium Plated"
+"Material_White Rhodium Plated",
+"Preorder"
 ],
 "in": true
 },
@@ -11577,7 +11578,7 @@
 "tags": [
 "Category_Pen",
 "Collection_Crystalline Ballpoint",
-"Selection_Gift"
+"Preorder"
 ],
 "in": true
 },
@@ -11592,7 +11593,8 @@
 "tags": [
 "Category_Watch",
 "Collection_Dextera",
-"Material_Gold Plated"
+"Material_Gold Plated",
+"Preorder"
 ],
 "in": true
 },
@@ -11968,7 +11970,8 @@
 "tags": [
 "Category_Pendant",
 "Collection_Teddy Bear",
-"Material_Rose Gold Plated"
+"Material_Rose Gold Plated",
+"Preorder"
 ],
 "in": true
 },
@@ -12690,8 +12693,8 @@
 "tags": [
 "Category_Pen",
 "Collection_Crystalline Ballpoint",
-"Sale Sep",
-"Selection_Gift"
+"Preorder",
+"Sale Sep"
 ],
 "in": true
 },
@@ -12766,7 +12769,7 @@
 "tags": [
 "Category_Pen",
 "Collection_Crystalline Ballpoint",
-"Selection_Gift"
+"Preorder"
 ],
 "in": true
 },
@@ -13178,7 +13181,7 @@
 "Material_White Rhodium Plated",
 "MEA",
 "New Collection",
-"Selection_Gift"
+"Preorder"
 ],
 "in": true
 },
@@ -13196,7 +13199,7 @@
 "Material_White Rhodium Plated",
 "MEA",
 "New Collection",
-"Selection_Gift"
+"Preorder"
 ],
 "in": true
 },
@@ -13642,7 +13645,8 @@
 "Category_Pen",
 "Colletion_Crystalline Ballpoint",
 "Material_Rose Gold Plated",
-"New Collection"
+"New Collection",
+"Preorder"
 ],
 "in": true
 },
@@ -13782,7 +13786,7 @@
 "Category_Watch",
 "Collection_Una Angelic",
 "New Collection",
-"Selection_Gift"
+"Preorder"
 ],
 "in": true
 },
@@ -13815,7 +13819,8 @@
 "Category_Pendant",
 "Collection_Sublima",
 "Material_White Rhodium Plated",
-"New Collection"
+"New Collection",
+"Preorder"
 ],
 "in": true
 },
@@ -13945,7 +13950,8 @@
 "Category_Necklace",
 "Collection_Mesmera",
 "Material_Gold Plated",
-"New Collection"
+"New Collection",
+"Preorder"
 ],
 "in": true
 },
@@ -13962,7 +13968,8 @@
 "Category_Earrings",
 "Collection_Mesmera",
 "Material_Gold Plated",
-"New Collection"
+"New Collection",
+"Preorder"
 ],
 "in": true
 },
@@ -14009,7 +14016,8 @@
 "tags": [
 "Category_Pen",
 "Collection_Matrix",
-"New Collection"
+"New Collection",
+"Preorder"
 ],
 "in": true
 },
@@ -14041,7 +14049,8 @@
 "Category_Necklace",
 "Collection_Mesmera",
 "Material_Gold Plated",
-"New Collection"
+"New Collection",
+"Preorder"
 ],
 "in": true
 },
@@ -14058,7 +14067,8 @@
 "Category_Earrings",
 "Collection_Mesmera",
 "Material_White Rhodium Plated",
-"New Collection"
+"New Collection",
+"Preorder"
 ],
 "in": true
 },
@@ -14074,7 +14084,8 @@
 "Category_Necklace",
 "Collection_Mesmera",
 "Material_White Rhodium Plated",
-"New Collection"
+"New Collection",
+"Preorder"
 ],
 "in": true
 },
@@ -14124,7 +14135,7 @@
 "Collection_Mesmera",
 "Material_White Rhodium Plated",
 "New Collection",
-"Selection_Gift"
+"Preorder"
 ],
 "in": true
 },
@@ -14156,7 +14167,8 @@
 "Category_Bracelet",
 "Collection_Mesmera",
 "Material_White Rhodium Plated",
-"New Collection"
+"New Collection",
+"Preorder"
 ],
 "in": true
 },
@@ -14208,7 +14220,7 @@
 "Collection_Vienna",
 "Material_White Rhodium Plated",
 "New Collection",
-"Selection_Gift"
+"Preorder"
 ],
 "in": true
 },
@@ -14259,7 +14271,8 @@
 "Category_Necklace",
 "Collection_Vienna",
 "Material_White Rhodium Plated",
-"New Collection"
+"New Collection",
+"Preorder"
 ],
 "in": true
 },
@@ -14337,7 +14350,8 @@
 "Category_Watch",
 "Collection_Dextera",
 "Material_Gold Plated",
-"New Collection"
+"New Collection",
+"Preorder"
 ],
 "in": true
 },
@@ -14354,7 +14368,7 @@
 "Collection_Una Angelic",
 "Material_Gold Plated",
 "New Collection",
-"Selection_Gift"
+"Preorder"
 ],
 "in": true
 },
@@ -14417,7 +14431,8 @@
 "tags": [
 "Category_Necklace",
 "Collection_Hyperbola",
-"New Collection"
+"New Collection",
+"Preorder"
 ],
 "in": true
 },
@@ -14485,7 +14500,7 @@
 "Collection_Sublima",
 "Material_Gold Plated",
 "New Collection",
-"Selection_Gift"
+"Preorder"
 ],
 "in": true
 },
@@ -14501,7 +14516,8 @@
 "Category_Pendant",
 "Collection_Imber",
 "Material_Gold Plated",
-"New Collection"
+"New Collection",
+"Preorder"
 ],
 "in": true
 },
@@ -14554,7 +14570,8 @@
 "Category_Necklace",
 "Collection_Imber",
 "Material_Gold Plated",
-"New Collection"
+"New Collection",
+"Preorder"
 ],
 "in": true
 },
@@ -14588,7 +14605,7 @@
 "Collection_Una Angelic",
 "Material_Rose Gold Plated",
 "New Collection",
-"Selection_Gift"
+"Preorder"
 ],
 "in": true
 },
@@ -14620,7 +14637,8 @@
 "Category_Earrings",
 "Category_Hoop Earrings",
 "Material_White Rhodium Plated",
-"New Collection"
+"New Collection",
+"Preorder"
 ],
 "in": true
 },
@@ -14652,7 +14670,8 @@
 "Category_Bracelet",
 "Collection_Matrix",
 "Material_Gold Plated",
-"New Collection"
+"New Collection",
+"Preorder"
 ],
 "in": true
 },
@@ -14700,7 +14719,8 @@
 "Category_Necklace",
 "Collection_Matrix",
 "Material_White Rhodium Plated",
-"New Collection"
+"New Collection",
+"Preorder"
 ],
 "in": true
 },
@@ -14893,7 +14913,8 @@
 "Category_Pendant",
 "Collection_Swan",
 "Material_White Rhodium Plated",
-"New Collection"
+"New Collection",
+"Preorder"
 ],
 "in": true
 },
@@ -14909,7 +14930,8 @@
 "Category_Watch",
 "Collection_Matrix",
 "Material_Rose Gold Plated",
-"New Collection"
+"New Collection",
+"Preorder"
 ],
 "in": true
 },
@@ -14943,7 +14965,8 @@
 "Category_Pendant",
 "Collection_Swan",
 "Material_Gold Plated",
-"New Collection"
+"New Collection",
+"Preorder"
 ],
 "in": true
 },
@@ -14976,7 +14999,7 @@
 "Collection_Imber",
 "Material_Rose Gold Plated",
 "New Collection",
-"Selection_Gift"
+"Preorder"
 ],
 "in": true
 },
@@ -15107,7 +15130,8 @@
 "Category_Choker",
 "Collection_Mesmera",
 "Material_White Rhodium Plated",
-"New Collection"
+"New Collection",
+"Preorder"
 ],
 "in": true
 },
@@ -15125,7 +15149,7 @@
 "Collection_Vienna",
 "Material_White Rhodium Plated",
 "New Collection",
-"Selection_Gift"
+"Preorder"
 ],
 "in": true
 },
@@ -15141,7 +15165,8 @@
 "Category_Pendant",
 "Collection_Vienna",
 "Material_White Rhodium Plated",
-"New Collection"
+"New Collection",
+"Preorder"
 ],
 "in": true
 },
@@ -15191,7 +15216,8 @@
 "Category_Pen",
 "Colletion_Crystalline Ballpoint",
 "Material_Chrome Plated",
-"New Collection"
+"New Collection",
+"Preorder"
 ],
 "in": true
 },
@@ -15239,7 +15265,8 @@
 "Category_Pendant",
 "Collection_Chroma",
 "Material_Gold Plated",
-"New Collection"
+"New Collection",
+"Preorder"
 ],
 "in": true
 },
@@ -15271,7 +15298,8 @@
 "Category_Pendant",
 "Collection_Chroma",
 "Material_White Rhodium Plated",
-"New Collection"
+"New Collection",
+"Preorder"
 ],
 "in": true
 },
@@ -15287,7 +15315,8 @@
 "Category_Bracelet",
 "Collection_Only",
 "Material_Gold Plated",
-"New Collection"
+"New Collection",
+"Preorder"
 ],
 "in": true
 },
@@ -15320,7 +15349,8 @@
 "Category_Earrings",
 "Collection_Chroma",
 "Material_White Rhodium Plated",
-"New Collection"
+"New Collection",
+"Preorder"
 ],
 "in": true
 },
@@ -15354,7 +15384,8 @@
 "Category_Stud Earrings",
 "Collection_Magic",
 "Material_Gold Plated",
-"New Collection"
+"New Collection",
+"Preorder"
 ],
 "in": true
 },
@@ -15386,7 +15417,8 @@
 "Category_Bangle",
 "Collection_Chroma",
 "Material_Gold Plated",
-"New Collection"
+"New Collection",
+"Preorder"
 ],
 "in": true
 },
@@ -15402,7 +15434,8 @@
 "Category_Bracelet",
 "Collection_Only",
 "Material_Rose Gold Plated",
-"New Collection"
+"New Collection",
+"Preorder"
 ],
 "in": true
 },
@@ -15451,7 +15484,8 @@
 "Category_Pendant",
 "Collection_Una Angelic",
 "Material_Gold Plated",
-"New Collection"
+"New Collection",
+"Preorder"
 ],
 "in": true
 },
@@ -15534,7 +15568,8 @@
 "Category_Bracelet",
 "Collection_Swan",
 "Material_White Rhodium Plated",
-"New Collection"
+"New Collection",
+"Preorder"
 ],
 "in": true
 },
@@ -15550,7 +15585,8 @@
 "Category_Bracelet",
 "Collection_Matrix",
 "Material_White Rhodium Plated",
-"New Collection"
+"New Collection",
+"Preorder"
 ],
 "in": true
 },
@@ -15582,7 +15618,8 @@
 "Category_Bracelet",
 "Collection_Imber",
 "Material_Gold Plated",
-"New Collection"
+"New Collection",
+"Preorder"
 ],
 "in": true
 },
@@ -15667,7 +15704,7 @@
 "Collection_Imber",
 "Material_Gold Plated",
 "New Collection",
-"Selection_Gift"
+"Preorder"
 ],
 "in": true
 },
@@ -15715,7 +15752,8 @@
 "tags": [
 "Category_Pen",
 "Collection_Matrix",
-"New Collection"
+"New Collection",
+"Preorder"
 ],
 "in": true
 },
@@ -15731,7 +15769,7 @@
 "Category_Pen",
 "Collection_Matrix",
 "New Collection",
-"Selection_Gift"
+"Preorder"
 ],
 "in": true
 },
@@ -15846,7 +15884,7 @@
 "Collection_Sublima",
 "Material_Gold Plated",
 "New Collection",
-"Selection_Gift"
+"Preorder"
 ],
 "in": true
 },
@@ -15931,7 +15969,8 @@
 "Category_Set",
 "Collection_Mesmera",
 "Material_White Rhodium Plated",
-"New Collection"
+"New Collection",
+"Preorder"
 ],
 "in": true
 },
@@ -16016,7 +16055,7 @@
 "Collection_Imber",
 "Material_Rose Gold Plated",
 "New Collection",
-"Selection_Gift"
+"Preorder"
 ],
 "in": true
 },
@@ -17540,7 +17579,7 @@
 "Collection_Ariana Grande x Swarovski",
 "Material_White Rhodium Plated",
 "New Collection",
-"Selection_Gift"
+"Preorder"
 ],
 "in": true
 },
@@ -17592,7 +17631,7 @@
 "Collection_Ariana Grande x Swarovski",
 "Material_White Rhodium Plated",
 "New Collection",
-"Selection_Gift"
+"Preorder"
 ],
 "in": true
 },
@@ -17627,7 +17666,7 @@
 "Collection_Ariana Grande x Swarovski",
 "Material_White Rhodium Plated",
 "New Collection",
-"Selection_Gift"
+"Preorder"
 ],
 "in": true
 },
@@ -17972,8 +18011,8 @@
 "type": "Home Décor",
 "tags": [
 "Category_Home Decor",
-"SALE SEP",
-"Selection_Gift"
+"Preorder",
+"SALE SEP"
 ],
 "in": true
 },
@@ -18267,7 +18306,7 @@
 "Category_Watch",
 "Collection_Sublima",
 "New Collection",
-"Selection_Gift",
+"Preorder",
 "Valentine_Gifts"
 ],
 "in": true
@@ -18683,7 +18722,7 @@
 "Collection_Idyllia",
 "Material_Gold Plated",
 "New Collection",
-"Selection_Gift"
+"Preorder"
 ],
 "in": true
 },
@@ -18700,7 +18739,7 @@
 "Collection_Idyllia",
 "Material_White Rhodium Plated",
 "New Collection",
-"Selection_Gift",
+"Preorder",
 "Valentine_Gifts"
 ],
 "in": true
@@ -18915,7 +18954,7 @@
 "Collection_Idyllia",
 "Material_White Rhodium Plated",
 "New Collection",
-"Selection_Gift",
+"Preorder",
 "Valentine_Gifts"
 ],
 "in": true
@@ -19202,7 +19241,7 @@
 "Collection_Gema",
 "Material_Gold Plated",
 "New Collection",
-"Selection_Gift",
+"Preorder",
 "Valentine_Gifts"
 ],
 "in": true
@@ -19344,7 +19383,7 @@
 "Collection_Gema",
 "Material_Gold Plated",
 "New Collection",
-"Selection_Gift",
+"Preorder",
 "Valentine_Gifts"
 ],
 "in": true
@@ -19796,7 +19835,7 @@
 "Category_Watch",
 "Collection_Cosmopolitan",
 "New Collection",
-"Selection_Gift"
+"Preorder"
 ],
 "in": true
 },
@@ -19847,7 +19886,7 @@
 "Collection_Chroma",
 "Material_Gold Plated",
 "New Collection",
-"Selection_Gift"
+"Preorder"
 ],
 "in": true
 },
@@ -19882,7 +19921,7 @@
 "Collection_Chroma",
 "Material_White Rhodium Plated",
 "New Collection",
-"Selection_Gift"
+"Preorder"
 ],
 "in": true
 },
@@ -19899,7 +19938,7 @@
 "Collection_Chroma",
 "Material_Gold Plated",
 "New Collection",
-"Selection_Gift"
+"Preorder"
 ],
 "in": true
 },
@@ -19932,7 +19971,7 @@
 "Collection_Idyllia",
 "Material_Gold Plated",
 "New Collection",
-"Selection_Gift",
+"Preorder",
 "Valentine_Gifts"
 ],
 "in": true
@@ -20077,7 +20116,7 @@
 "Collection_Una Angelic",
 "Material_Gold Plated",
 "New Collection",
-"Selection_Gift"
+"Preorder"
 ],
 "in": true
 },

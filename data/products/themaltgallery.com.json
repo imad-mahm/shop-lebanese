@@ -1,5 +1,16 @@
 [
 {
+"t": "CHATEAU HAUT FLORIN BORDEAUX 2021 RED 75 CL",
+"u": "https://themaltgallery.com/products/ch-haut-florin-bordeaux-2021-red-75-cl",
+"p": 0.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0551/7695/4062/products/CHATEAUHAUTFLORIN2020RED.jpg?v=1662551947&width=400",
+"type": "WINE",
+"tags": [],
+"in": true
+},
+{
 "t": "SKINOS MASTIHA COFFEE",
 "u": "https://themaltgallery.com/products/skinos-mastiha-coffee",
 "p": 28.0,
@@ -74,21 +85,6 @@
 "Our New Discoveries",
 "Premium Liqueur",
 "Summer Essentials"
-],
-"in": true
-},
-{
-"t": "CONTARINI VALDOBBIANDENE PROSECCO 75 CL",
-"u": "https://themaltgallery.com/products/contarini-valdobbiandene-prosecco-75-cl",
-"p": 13.99,
-"c": 13.99,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0551/7695/4062/files/CON-00001.jpg?v=1784280685&width=400",
-"type": "PROSECCO",
-"tags": [
-"new",
-"New at the Malt Gallery",
-"Our New Discoveries"
 ],
 "in": true
 },
@@ -1561,26 +1557,6 @@
 "Whisky"
 ],
 "in": false
-},
-{
-"t": "VINTAGE 1983 EARLY LANDED GRANDE CHAMPAGNE WOOD. BOX",
-"u": "https://themaltgallery.com/products/vintage-1983-early-landed-grande-champagne-wood-box",
-"p": 0.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0551/7695/4062/products/LIQ-0021.jpg?v=1621930215&width=400",
-"type": "COGNAC & EAU DE VIE",
-"tags": [
-"Ask for Price",
-"Cognac",
-"Collector",
-"France",
-"Rare and Collectors",
-"Spirits",
-"Sprts New",
-"TMG10"
-],
-"in": true
 },
 {
 "t": "BERONIA VERDEJO RUEDA 2024 WHITE",
@@ -3966,6 +3942,19 @@
 "c": 241.98,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0551/7695/4062/files/MCH-0019.jpg?v=1745405079&width=400",
+"type": "TEQUILA & MEZCAL",
+"tags": [
+"Mezcal"
+],
+"in": true
+},
+{
+"t": "LOS SIETE MISTERIOS COYOTE",
+"u": "https://themaltgallery.com/products/los-siete-misterios-coyote",
+"p": 241.98,
+"c": 241.98,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0551/7695/4062/files/MCH-0018.jpg?v=1745405354&width=400",
 "type": "TEQUILA & MEZCAL",
 "tags": [
 "Mezcal"
