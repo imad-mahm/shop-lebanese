@@ -1,6 +1,17 @@
 [
 {
 "t": "CHATEAU HAUT FLORIN BORDEAUX 2021 RED 75 CL",
+"u": "https://themaltgallery.com/products/chateau-haut-florin-bordeaux-2021-red-75-cl",
+"p": 11.34,
+"c": 11.34,
+"cur": "USD",
+"img": "",
+"type": "WINE",
+"tags": [],
+"in": true
+},
+{
+"t": "CHATEAU HAUT FLORIN BORDEAUX 2021 RED 75 CL",
 "u": "https://themaltgallery.com/products/ch-haut-florin-bordeaux-2021-red-75-cl",
 "p": 0.0,
 "c": null,
@@ -1311,8 +1322,8 @@
 {
 "t": "DOMAINE DE TERRES BLANCHES LE VALLON BLANC 2022 AOC SANCERRE",
 "u": "https://themaltgallery.com/products/domaine-de-terres-blanches-le-vallon-blanc-2022-aoc-sancerre",
-"p": 64.39,
-"c": 64.39,
+"p": 70.82,
+"c": 70.82,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0551/7695/4062/files/DOMAINEDETERRESBLANCHESLEVALLONBLANC2022AOCSANCERRE.jpg?v=1762779385&width=400",
 "type": "WINE",
@@ -2362,8 +2373,8 @@
 {
 "t": "FRENCH BLOOM L'EXTRA BRUT BLANC DE BLANC 0% ABV",
 "u": "https://themaltgallery.com/products/french-bloom-lextra-brut-blanc-de-blanc-0-abv",
-"p": 58.91,
-"c": 58.91,
+"p": 64.8,
+"c": 64.8,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0551/7695/4062/files/FRENCHBLOOMEXTRABRUTBLANCDEBLANC75CL.jpg?v=1757586292&width=400",
 "type": "Sparkling",
@@ -3942,19 +3953,6 @@
 "c": 241.98,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0551/7695/4062/files/MCH-0019.jpg?v=1745405079&width=400",
-"type": "TEQUILA & MEZCAL",
-"tags": [
-"Mezcal"
-],
-"in": true
-},
-{
-"t": "LOS SIETE MISTERIOS COYOTE",
-"u": "https://themaltgallery.com/products/los-siete-misterios-coyote",
-"p": 241.98,
-"c": 241.98,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0551/7695/4062/files/MCH-0018.jpg?v=1745405354&width=400",
 "type": "TEQUILA & MEZCAL",
 "tags": [
 "Mezcal"
