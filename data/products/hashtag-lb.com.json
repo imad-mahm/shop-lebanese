@@ -57,7 +57,7 @@
 {
 "t": "G- jeans 5684",
 "u": "https://www.hashtag-lb.com/products/g-jeans-5684",
-"p": 40.0,
+"p": 55.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/6592c196-f2ae-4e70-a215-5cd21afe99ad.jpg?v=1792678771&width=400",
@@ -470,7 +470,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/7457b151-08fe-4582-99c1-50d0915f6f55.jpg?v=1791196941&width=400",
 "type": "legging",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "G-leather legging 2416",
