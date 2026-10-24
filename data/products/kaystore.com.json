@@ -1,5 +1,233 @@
 [
 {
+"t": "Marshall Major V Headphones",
+"u": "https://kaystore.com/product/marshall-major-v-headphones/",
+"p": 105.0,
+"c": null,
+"cur": "USD",
+"img": "https://kaystore.com/wp-content/uploads/2026/10/Marshall-Major-V-247x296.jpg",
+"type": "Headphones",
+"tags": [
+"Headphones",
+"Mobile",
+"mobile accessories",
+"wearable"
+],
+"in": true
+},
+{
+"t": "Marshall Kilburn III Bluetooth Speaker",
+"u": "https://kaystore.com/product/marshall-kilburn-iii/",
+"p": 369.0,
+"c": null,
+"cur": "USD",
+"img": "https://kaystore.com/wp-content/uploads/2026/10/Marshall-Kilburn-III-247x296.jpg",
+"type": "Speakers",
+"tags": [
+"audio and video",
+"bluetooth",
+"bt",
+"Electronic",
+"mobile speaker",
+"music",
+"Portable Speaker",
+"sound"
+],
+"in": true
+},
+{
+"t": "Anker SOLIX C800X Portable Power Station",
+"u": "https://kaystore.com/product/anker-solix-c800x/",
+"p": 860.0,
+"c": null,
+"cur": "USD",
+"img": "https://kaystore.com/wp-content/uploads/2026/10/Anker-SOLIX-C800X-247x296.jpg",
+"type": "UPS",
+"tags": [
+"Accessories",
+"battery",
+"Electronic",
+"power",
+"protection",
+"ups"
+],
+"in": true
+},
+{
+"t": "Sony Headphones",
+"u": "https://kaystore.com/product/sony-wh-ch720n-headphones/",
+"p": 110.0,
+"c": null,
+"cur": "USD",
+"img": "https://kaystore.com/wp-content/uploads/2026/10/Sony-WH-CH720N-Headphones-1-247x296.jpg",
+"type": "Headphones",
+"tags": [
+"airpods",
+"Headphones",
+"Mobile",
+"mobile accessories",
+"wearable"
+],
+"in": true
+},
+{
+"t": "Sony Wireless Headphones",
+"u": "https://kaystore.com/product/sony-wh-ch520-wireless-headphones/",
+"p": 55.0,
+"c": null,
+"cur": "USD",
+"img": "https://kaystore.com/wp-content/uploads/2026/10/Sony-WH-CH520-Wireless-Headphones-247x296.jpg",
+"type": "Headphones",
+"tags": [
+"airpods",
+"Headphones",
+"Mobile",
+"mobile accessories",
+"wearable"
+],
+"in": true
+},
+{
+"t": "Sony Headphones",
+"u": "https://kaystore.com/product/sony-wh-1000xm5-headphones/",
+"p": 235.0,
+"c": null,
+"cur": "USD",
+"img": "https://kaystore.com/wp-content/uploads/2026/10/Sony-WH-1000XM5-Headphones-247x296.jpg",
+"type": "Headphones",
+"tags": [
+"airpods",
+"Headphones",
+"Mobile",
+"mobile accessories",
+"wearable"
+],
+"in": true
+},
+{
+"t": "Xiaomi Vacuum Cleaner G20 Max",
+"u": "https://kaystore.com/product/xiaomi-vacuum-cleaner-g20-max/",
+"p": 299.0,
+"c": null,
+"cur": "USD",
+"img": "https://kaystore.com/wp-content/uploads/2026/10/Xiaomi-Vacuum-Cleaner-G20-Max-247x296.jpg",
+"type": "Vacuum Cleaners",
+"tags": [
+"Appliances",
+"Home cleaner",
+"STICK VACUUM",
+"vacuum cleaner"
+],
+"in": true
+},
+{
+"t": "Xiaomi Soundbar Pro 2.1 Channel",
+"u": "https://kaystore.com/product/xiaomi-soundbar-pro-2-1-channel/",
+"p": 245.0,
+"c": null,
+"cur": "USD",
+"img": "https://kaystore.com/wp-content/uploads/2026/10/Xiaomi-Soundbar-Pro-2.1-Channel-247x296.jpg",
+"type": "Soundbars",
+"tags": [
+"audio and video",
+"Electronic",
+"home theater",
+"music",
+"sound",
+"soundbar"
+],
+"in": true
+},
+{
+"t": "Xiaomi Smart Ceiling Light D40",
+"u": "https://kaystore.com/product/xiaomi-smart-ceiling-light-d40/",
+"p": 99.0,
+"c": null,
+"cur": "USD",
+"img": "https://kaystore.com/wp-content/uploads/2026/10/Xiaomi-Smart-Ceiling-Light-D40-247x296.jpg",
+"type": "Bulb &amp; Rechargeable Light",
+"tags": [
+"Accessories",
+"bulb",
+"eco",
+"Electronic",
+"LED",
+"led light",
+"light"
+],
+"in": true
+},
+{
+"t": "Xiaomi Smart Ceiling Light D30",
+"u": "https://kaystore.com/product/xiaomi-smart-ceiling-light-d30/",
+"p": 69.0,
+"c": null,
+"cur": "USD",
+"img": "https://kaystore.com/wp-content/uploads/2026/10/Xiaomi-Smart-Ceiling-Light-D30-247x296.jpg",
+"type": "Bulb &amp; Rechargeable Light",
+"tags": [
+"Accessories",
+"bulb",
+"eco",
+"Electronic",
+"LED",
+"led light",
+"light"
+],
+"in": true
+},
+{
+"t": "Xiaomi Smart Ceiling Light D20",
+"u": "https://kaystore.com/product/xiaomi-smart-ceiling-light-d20/",
+"p": 48.0,
+"c": null,
+"cur": "USD",
+"img": "https://kaystore.com/wp-content/uploads/2026/10/Xiaomi-Smart-Ceiling-Light-D20-247x296.jpg",
+"type": "Bulb &amp; Rechargeable Light",
+"tags": [
+"Accessories",
+"bulb",
+"eco",
+"Electronic",
+"LED",
+"led light",
+"light"
+],
+"in": true
+},
+{
+"t": "Xiaomi Robot Vacuum S40C",
+"u": "https://kaystore.com/product/xiaomi-robot-vacuum-s40c/",
+"p": 249.0,
+"c": null,
+"cur": "USD",
+"img": "https://kaystore.com/wp-content/uploads/2026/10/Xiaomi-Robot-Vacuum-S40C-247x296.jpg",
+"type": "Vacuum Cleaners",
+"tags": [
+"Appliances",
+"Home cleaner",
+"Robot vacuum",
+"vacuum cleaner"
+],
+"in": true
+},
+{
+"t": "Xiaomi Robot Vacuum S40 Pro",
+"u": "https://kaystore.com/product/xiaomi-robot-vacuum-s40-pro/",
+"p": 349.0,
+"c": null,
+"cur": "USD",
+"img": "https://kaystore.com/wp-content/uploads/2026/10/Xiaomi-Robot-Vacuum-S40-Pro-247x296.jpg",
+"type": "Vacuum Cleaners",
+"tags": [
+"Appliances",
+"Home cleaner",
+"Robot vacuum",
+"vacuum cleaner"
+],
+"in": true
+},
+{
 "t": "Xiaomi Robot Vacuum H50 Pro",
 "u": "https://kaystore.com/product/xiaomi-robot-vacuum-h50-pro/",
 "p": 599.0,
@@ -51709,227 +51937,6 @@
 "c": null,
 "cur": "USD",
 "img": "https://kaystore.com/wp-content/uploads/2025/10/I137537-247x296.jpg",
-"type": "Accessories, Christmas",
-"tags": [
-"Accessories",
-"Christmas",
-"Christmas Accessories",
-"Home Deco",
-"La Maison"
-],
-"in": true
-},
-{
-"t": "10Ft. Iron Garden House Gazeb",
-"u": "https://kaystore.com/product/10ft-iron-garden-house-gazeb/",
-"p": 2799.0,
-"c": null,
-"cur": "USD",
-"img": "https://kaystore.com/wp-content/uploads/2025/10/I137536-247x296.jpg",
-"type": "Accessories, Christmas",
-"tags": [
-"Accessories",
-"Christmas",
-"Christmas Accessories",
-"Home Deco",
-"La Maison"
-],
-"in": true
-},
-{
-"t": "30.5 Inch Christmas Sleigh With Giant Jingle Bell",
-"u": "https://kaystore.com/product/30-5-inch-christmas-sleigh-with-giant-jingle-bell/",
-"p": 250.0,
-"c": null,
-"cur": "USD",
-"img": "https://kaystore.com/wp-content/uploads/2025/10/I137535-247x296.jpg",
-"type": "Accessories, Christmas",
-"tags": [
-"Accessories",
-"Christmas",
-"Christmas Accessories",
-"Home Deco",
-"La Maison"
-],
-"in": true
-},
-{
-"t": "59 Inch Iron Christmas Sleigh With Giant Jingle Be",
-"u": "https://kaystore.com/product/59-inch-iron-christmas-sleigh-with-giant-jingle-be/",
-"p": 775.0,
-"c": null,
-"cur": "USD",
-"img": "https://kaystore.com/wp-content/uploads/2025/10/I137534-247x296.jpg",
-"type": "Accessories, Christmas",
-"tags": [
-"Accessories",
-"Christmas",
-"Christmas Accessories",
-"Home Deco",
-"La Maison"
-],
-"in": true
-},
-{
-"t": "44 Inch Christmas Sleigh With Giant Jingle Bells M",
-"u": "https://kaystore.com/product/44-inch-christmas-sleigh-with-giant-jingle-bells-m/",
-"p": 490.0,
-"c": null,
-"cur": "USD",
-"img": "https://kaystore.com/wp-content/uploads/2025/10/I137533-247x296.jpg",
-"type": "Accessories, Christmas",
-"tags": [
-"Accessories",
-"Christmas",
-"Christmas Accessories",
-"Home Deco",
-"La Maison"
-],
-"in": true
-},
-{
-"t": "Stacked Drums Christmas Topiary",
-"u": "https://kaystore.com/product/stacked-drums-christmas-topiary/",
-"p": 315.0,
-"c": null,
-"cur": "USD",
-"img": "https://kaystore.com/wp-content/uploads/2025/10/I137531-247x296.jpg",
-"type": "Accessories, Christmas",
-"tags": [
-"Accessories",
-"Christmas",
-"Christmas Accessories",
-"Home Deco",
-"La Maison"
-],
-"in": true
-},
-{
-"t": "Xl Christms Train With Cart & Lan The Flying Santa",
-"u": "https://kaystore.com/product/xl-christms-train-with-cart-lan-the-flying-santa/",
-"p": 11000.0,
-"c": null,
-"cur": "USD",
-"img": "https://kaystore.com/wp-content/uploads/2025/10/I137530-247x296.jpg",
-"type": "Accessories, Christmas",
-"tags": [
-"Accessories",
-"Christmas",
-"Christmas Accessories",
-"Home Deco",
-"La Maison"
-],
-"in": true
-},
-{
-"t": "Hanging Sleigh Bells With Star Cutouts",
-"u": "https://kaystore.com/product/hanging-sleigh-bells-with-star-cutouts/",
-"p": 2349.0,
-"c": null,
-"cur": "USD",
-"img": "https://kaystore.com/wp-content/uploads/2025/10/I137527-247x296.jpg",
-"type": "Accessories, Christmas",
-"tags": [
-"Accessories",
-"Christmas",
-"Christmas Accessories",
-"Home Deco",
-"La Maison"
-],
-"in": true
-},
-{
-"t": "Large Iron Nutcracker Harry With Candy Cane Staff",
-"u": "https://kaystore.com/product/large-iron-nutcracker-harry-with-candy-cane-staff/",
-"p": 545.0,
-"c": null,
-"cur": "USD",
-"img": "https://kaystore.com/wp-content/uploads/2025/10/I137520-247x296.jpg",
-"type": "Christmas, Figurines &amp; Statues",
-"tags": [
-"Christmas",
-"Christmas Decoration",
-"Figurin",
-"La Maison",
-"Statue"
-],
-"in": true
-},
-{
-"t": "Nutcracker David With Trumpet & Led Lights",
-"u": "https://kaystore.com/product/nutcracker-david-with-trumpet-led-lights/",
-"p": 545.0,
-"c": null,
-"cur": "USD",
-"img": "https://kaystore.com/wp-content/uploads/2025/10/I137518-1-247x296.jpg",
-"type": "Christmas, Figurines &amp; Statues",
-"tags": [
-"Christmas",
-"Christmas Decoration",
-"Figurin",
-"La Maison",
-"Statue"
-],
-"in": true
-},
-{
-"t": "37 Inch Tall Green & White Striped Gift Box Stake",
-"u": "https://kaystore.com/product/37-inch-tall-green-white-striped-gift-box-stake/",
-"p": 119.0,
-"c": null,
-"cur": "USD",
-"img": "https://kaystore.com/wp-content/uploads/2025/10/I137517-1-247x296.jpg",
-"type": "Accessories, Christmas",
-"tags": [
-"Accessories",
-"Christmas",
-"Christmas Accessories",
-"Home Deco",
-"La Maison"
-],
-"in": true
-},
-{
-"t": "Tall Multi-Colored Christmas Ball Orn Stake 79Cm",
-"u": "https://kaystore.com/product/tall-multi-colored-christmas-ball-orn-stake-79cm/",
-"p": 89.0,
-"c": null,
-"cur": "USD",
-"img": "https://kaystore.com/wp-content/uploads/2025/10/I137516-1-247x296.jpg",
-"type": "Accessories, Christmas",
-"tags": [
-"Accessories",
-"Christmas",
-"Christmas Accessories",
-"Home Deco",
-"La Maison"
-],
-"in": true
-},
-{
-"t": "Christmas Nutcracker Soldier W/Gifts Zigmar",
-"u": "https://kaystore.com/product/christmas-nutcracker-soldier-w-gifts-zigmar/",
-"p": 649.0,
-"c": null,
-"cur": "USD",
-"img": "https://kaystore.com/wp-content/uploads/2025/10/I137515-1-247x296.jpg",
-"type": "Accessories, Christmas",
-"tags": [
-"Accessories",
-"Christmas",
-"Christmas Accessories",
-"Home Deco",
-"La Maison"
-],
-"in": true
-},
-{
-"t": "Glossy Red Christmas Mailboxes With Gold Detail S3",
-"u": "https://kaystore.com/product/glossy-red-christmas-mailboxes-with-gold-detail-s3/",
-"p": 699.0,
-"c": null,
-"cur": "USD",
-"img": "https://kaystore.com/wp-content/uploads/2025/10/I137514-1-247x296.jpg",
 "type": "Accessories, Christmas",
 "tags": [
 "Accessories",
