@@ -495,6 +495,17 @@
 "in": true
 },
 {
+"t": "Sharp fridge 14FT SJ-VT335-BK2 Black",
+"u": "https://aghasarkissian.com/product/sharp-fridge-14ft-sj-vt335-bk2-black/",
+"p": 355.0,
+"c": 383.0,
+"cur": "USD",
+"img": "https://aghasarkissian.com/wp-content/uploads/2026/02/Untitled-design-2026-02-10T133849.832-430x430.jpg",
+"type": "Fridges, Home Appliances, Refrigeration",
+"tags": [],
+"in": false
+},
+{
 "t": "Toshiba Fridge 25FT GR-RT735WE-PMFJ-(49) Silver",
 "u": "https://aghasarkissian.com/product/toshiba-fridge-25ft-gr-rt735we-pmfj-49-silver-2/",
 "p": 919.0,
@@ -2052,6 +2063,17 @@
 "in": false
 },
 {
+"t": "Tefal Easy Fry & Grill EY905D10  2 drawers Stainless 8.3L",
+"u": "https://aghasarkissian.com/product/tefal-easy-fry-and-grill-ey905d10-2-drawers-stainless/",
+"p": 229.0,
+"c": 240.0,
+"cur": "USD",
+"img": "https://aghasarkissian.com/wp-content/uploads/2024/04/ey905d40-main-image2.jpeg",
+"type": "Fryers, Home Appliances, Small Kitchen Appliances",
+"tags": [],
+"in": false
+},
+{
 "t": "Samsung Washer Dryer WD11TA046BX/RQ 11/7 Inox",
 "u": "https://aghasarkissian.com/product/samsung-washer-dryer-wd11ta046bx-rq-11-8-inox/",
 "p": 749.0,
@@ -2153,7 +2175,7 @@
 {
 "t": "Midea Washer 11k 1400rpm MF200W110WB/W white",
 "u": "https://aghasarkissian.com/product/midea-washer-11k-1400rpm-mf200w110wb-w-white/",
-"p": 399.0,
+"p": 419.0,
 "c": 451.0,
 "cur": "USD",
 "img": "https://aghasarkissian.com/wp-content/uploads/2025/02/Untitled-design-9-430x430.png",
@@ -2278,6 +2300,17 @@
 "c": 630.0,
 "cur": "USD",
 "img": "https://aghasarkissian.com/wp-content/uploads/2025/02/Untitled-design-14-430x430.png",
+"type": "Dryers, Home Appliances, Laundry",
+"tags": [],
+"in": false
+},
+{
+"t": "Hisense dryer condenser 9KG DH3S902BW heat pump white",
+"u": "https://aghasarkissian.com/product/hisense-dryer-condenser-9kg-dh3s902bw-heat-pump-white/",
+"p": 585.0,
+"c": null,
+"cur": "USD",
+"img": "https://aghasarkissian.com/wp-content/uploads/2025/02/Untitled-design-15-430x430.png",
 "type": "Dryers, Home Appliances, Laundry",
 "tags": [],
 "in": false
@@ -4076,6 +4109,17 @@
 "in": true
 },
 {
+"t": "Tefal Clipso Minut Easy 9L P4624966",
+"u": "https://aghasarkissian.com/product/tefal-clipso-minut-easy-9l-p4624966/",
+"p": 159.0,
+"c": 167.0,
+"cur": "USD",
+"img": "https://aghasarkissian.com/wp-content/uploads/2024/03/download-13-430x430.jpeg",
+"type": "Cookware, Kitchenware, Pressure Cooker",
+"tags": [],
+"in": true
+},
+{
 "t": "AEG Hob 30cm HRB32310CB 2Vitroceramic",
 "u": "https://aghasarkissian.com/product/aeg-hob-30cm-hrb32310cb-vitroceramic/",
 "p": 299.0,
@@ -4439,6 +4483,17 @@
 "in": true
 },
 {
+"t": "Delonghi Dehumidifier 16L DEXD216RF",
+"u": "https://aghasarkissian.com/product/delonghi-dehumidifier-dexd216rf-16l-day/",
+"p": 419.0,
+"c": 433.0,
+"cur": "USD",
+"img": "https://aghasarkissian.com/wp-content/uploads/2024/02/Delonghi-Dehumidifier-16L-DEXD216RF-430x430.png",
+"type": "Air Comfort &amp; Quality, Dehumidifiers, Home Appliances",
+"tags": [],
+"in": false
+},
+{
 "t": "Whirlpool Microwave 30L Grill MWP 303 SB Silver",
 "u": "https://aghasarkissian.com/product/whirlpool-microwave-30l-grill-mwp-3035b-silver/",
 "p": 197.0,
@@ -4459,17 +4514,6 @@
 "type": "Home Appliances, Microwaves, Small Kitchen Appliances",
 "tags": [],
 "in": false
-},
-{
-"t": "Sharp Microwave 25L R75MRK BLACK",
-"u": "https://aghasarkissian.com/product/sharp-microwave-25l-r75mrk-black/",
-"p": 129.0,
-"c": 140.0,
-"cur": "USD",
-"img": "https://aghasarkissian.com/wp-content/uploads/2024/02/Untitled-design-2025-11-05T105712.122-430x430.jpg",
-"type": "Home Appliances, Microwaves, Small Kitchen Appliances",
-"tags": [],
-"in": true
 },
 {
 "t": "Sharp Microwave 25L R75MRW WHITE",
@@ -4505,28 +4549,6 @@
 "in": true
 },
 {
-"t": "Salvado Fire Safe S-59EL Fire Proof",
-"u": "https://aghasarkissian.com/product/salvado-safe-s-59el/",
-"p": 489.0,
-"c": 514.0,
-"cur": "USD",
-"img": "https://aghasarkissian.com/wp-content/uploads/2021/05/Salvado-S-87EL-430x430.jpg",
-"type": "Fire resistant safe, Home Equipments, Safes",
-"tags": [],
-"in": true
-},
-{
-"t": "Salvado Fire Safe S-45E Fire Proof",
-"u": "https://aghasarkissian.com/product/salvado-safe-s-45e/",
-"p": 429.0,
-"c": 451.0,
-"cur": "USD",
-"img": "https://aghasarkissian.com/wp-content/uploads/2024/02/S-45E-430x430.jpeg",
-"type": "Fire resistant safe, Home Equipments, Safes",
-"tags": [],
-"in": true
-},
-{
 "t": "Braun Blender JB3010",
 "u": "https://aghasarkissian.com/product/braun-blender-jb3010/",
 "p": 75.0,
@@ -4545,17 +4567,6 @@
 "cur": "USD",
 "img": "https://aghasarkissian.com/wp-content/uploads/2024/02/Untitled-design-2025-11-03T100909.121-430x430.jpg",
 "type": "Breakfast Set, Coffee Maker, Home Appliances",
-"tags": [],
-"in": true
-},
-{
-"t": "Braun Hand Blender MQ7045   BLACK",
-"u": "https://aghasarkissian.com/product/braun-hand-blender-mq7045-black/",
-"p": 99.0,
-"c": 104.0,
-"cur": "USD",
-"img": "https://aghasarkissian.com/wp-content/uploads/2024/02/Untitled-design-55-430x430.jpg",
-"type": "Food Preparation, Hand Blenders and Mixers, Home Appliances",
 "tags": [],
 "in": true
 },
@@ -5088,17 +5099,6 @@
 "cur": "USD",
 "img": "https://aghasarkissian.com/wp-content/uploads/2024/02/Untitled-design-2025-11-03T100735.133-430x430.jpg",
 "type": "back to school, Breakfast Set, Home Appliances",
-"tags": [],
-"in": true
-},
-{
-"t": "Tefal Toaster TL330D11 Stainless Steel",
-"u": "https://aghasarkissian.com/product/tefal-toaster-equinox-tl330d11-stainless-steel/",
-"p": 39.0,
-"c": 44.0,
-"cur": "USD",
-"img": "https://aghasarkissian.com/wp-content/uploads/2024/02/TEFAL-TL330D11-1-430x323.jpeg",
-"type": "Breakfast Set, Home Appliances, Small Kitchen Appliances",
 "tags": [],
 "in": true
 },
@@ -5785,17 +5785,6 @@
 "in": false
 },
 {
-"t": "Delonghi Heater Blue Flame VBF2/S Thermostat Silver",
-"u": "https://aghasarkissian.com/product/delonghi-heater-blue-flame-vbf2-s-thermostat-silver/",
-"p": 199.0,
-"c": 212.0,
-"cur": "USD",
-"img": "https://aghasarkissian.com/wp-content/uploads/2023/10/Untitled-design-14-430x430.png",
-"type": "Air Comfort &amp; Quality, Gas Heater, Heaters",
-"tags": [],
-"in": true
-},
-{
 "t": "Hisense washer 12kg auto dose WF5S1245BB Black",
 "u": "https://aghasarkissian.com/product/hisense-washer-12-kg-wuto-dose-wf5s1245bb/",
 "p": 849.0,
@@ -6463,6 +6452,17 @@
 "type": "Food Preparation, Home Appliances, Small Kitchen Appliances",
 "tags": [],
 "in": true
+},
+{
+"t": "Midea Water Cooler YL1633S BLACK",
+"u": "https://aghasarkissian.com/product/midea-water-cooler-yl1633s-black/",
+"p": 199.0,
+"c": 217.0,
+"cur": "USD",
+"img": "https://aghasarkissian.com/wp-content/uploads/2022/01/Midea-Water-Cooler-YL1633S-Black-430x430.jpg",
+"type": "Home Appliances, Refrigeration, Water Dispensers",
+"tags": [],
+"in": false
 },
 {
 "t": "G3 Ferrari Wine Cooler DSWC08B01",
