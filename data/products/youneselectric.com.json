@@ -1,5 +1,83 @@
 [
 {
+"t": "Remington, Trim & Fit Detail Kit NE8000",
+"u": "https://youneselectric.com/products/remington-trim-fit-detail-kit-ne8000",
+"p": 35.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0663/6113/1235/files/3-6_ce70521a-eb7b-4a5c-955d-e1d8e1bf3484.jpg?v=1753689185&width=400",
+"type": "Health And Beauty",
+"tags": [
+"Remington"
+],
+"in": true
+},
+{
+"t": "Remington, Pro Spiral Curl CI5519",
+"u": "https://youneselectric.com/products/remington-pro-spiral-curl-ci5519",
+"p": 33.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0663/6113/1235/files/1-9_995c0f54-d0a4-44a6-b4b3-72be9445db98.jpg?v=1753691691&width=400",
+"type": "Health And Beauty",
+"tags": [
+"Remington"
+],
+"in": true
+},
+{
+"t": "Remington, Shine Therapy PRO AC Hairdryer",
+"u": "https://youneselectric.com/products/remington-shine-therapy-pro-ac-hairdryer",
+"p": 65.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0663/6113/1235/files/ors_1fe5f0af-94cd-495b-881f-2157584664f5.jpg?v=1759044657&width=400",
+"type": "Health And Beauty",
+"tags": [
+"Remington"
+],
+"in": true
+},
+{
+"t": "Remington, My Stylist Straightener",
+"u": "https://youneselectric.com/products/remington-pro-sleek-curl-hair-straightener-copy",
+"p": 29.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0663/6113/1235/files/wkwq-1.webp?v=1765968714&width=400",
+"type": "Health And Beauty",
+"tags": [
+"Remington"
+],
+"in": true
+},
+{
+"t": "Remington, ONE Straight and Curl Styler",
+"u": "https://youneselectric.com/products/remington-one-straight-and-curl-styler",
+"p": 59.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0663/6113/1235/files/S6077-E51.jpg?v=1753776771&width=400",
+"type": "Health And Beauty",
+"tags": [
+"Remington"
+],
+"in": true
+},
+{
+"t": "Remington, Rose Shimmer Straightener",
+"u": "https://youneselectric.com/products/remington-rose-shimmer-straightener",
+"p": 49.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0663/6113/1235/files/s5305.webp?v=1765136534&width=400",
+"type": "Health And Beauty",
+"tags": [
+"Remington"
+],
+"in": true
+},
+{
 "t": "Kenwood, White & Blue Steam Iron STP01.000 INT",
 "u": "https://youneselectric.com/products/kenwood-white-blue-steam-iron-stp01-000-int",
 "p": 19.0,
@@ -5191,19 +5269,6 @@
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0663/6113/1235/files/1-1_68b7d22d-adea-4e56-9b53-e253e9860c60.jpg?v=1753777397&width=400",
-"type": "Health And Beauty",
-"tags": [
-"Remington"
-],
-"in": true
-},
-{
-"t": "Remington, Proluxe 4-in-1 Adjustable Waver",
-"u": "https://youneselectric.com/products/remington-proluxe-4-in-1-adjustable-waver",
-"p": 69.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0663/6113/1235/files/burs.jpg?v=1759043784&width=400",
 "type": "Health And Beauty",
 "tags": [
 "Remington"
@@ -26151,19 +26216,6 @@
 "in": true
 },
 {
-"t": "Remington, Silk Straightener S9600",
-"u": "https://youneselectric.com/products/remington-silk-straightener-s9600",
-"p": 79.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0663/6113/1235/files/1-20_4a2af810-1a69-463a-96c7-9e3f1ef35249.jpg?v=1753777157&width=400",
-"type": "Health And Beauty",
-"tags": [
-"Remington"
-],
-"in": true
-},
-{
 "t": "Remington, PROluxe Hair Straightener",
 "u": "https://youneselectric.com/products/remington-proluxe-hair-straightener",
 "p": 169.0,
@@ -38741,52 +38793,6 @@
 "c": 425.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0663/6113/1235/files/k1.png?v=1705847881&width=400",
-"type": "Large Appliances",
-"tags": [],
-"in": true
-},
-{
-"t": "Hisense, U3120G Premium Sound Bar 420 W",
-"u": "https://youneselectric.com/products/hisense-u3120g-premium-sound-bar-420-w",
-"p": 375.0,
-"c": 478.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0663/6113/1235/files/U3120G.webp?v=1705846103&width=400",
-"type": "Electronics",
-"tags": [],
-"in": true
-},
-{
-"t": "Sharp, Air Fryer 5L, 1450W, 8 Cook Menu, Black",
-"u": "https://youneselectric.com/products/sharp-air-fryer-5l",
-"p": 109.0,
-"c": 150.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0663/6113/1235/files/Untitled-design-83.jpg?v=1705431063&width=400",
-"type": "Small Appliances",
-"tags": [
-"Sharp"
-],
-"in": true
-},
-{
-"t": "Hisense, Top Mount Refrigerator with Recessed Handle,LED interior Light, Separate Temperature control for Fridge and Freezer,No Frost",
-"u": "https://youneselectric.com/products/hisense-top-mount-refrigerator-with-recessed-handle-led-interior-light-separate-temperature-control-for-fridge-and-freezer-no-frost",
-"p": 620.0,
-"c": 713.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0663/6113/1235/files/11_2bde41b7-82a0-40ab-aee2-fbd0a734b6b0.jpg?v=1705242393&width=400",
-"type": "Large Appliances",
-"tags": [],
-"in": true
-},
-{
-"t": "Hisense, 5S Series WF5S1245BB Wifi Enabled 12kg Washing Machine",
-"u": "https://youneselectric.com/products/hisense-5s-series-wf5s1245bb-wifi-enabled-12kg-washing-machine",
-"p": 970.0,
-"c": 1212.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0663/6113/1235/files/new.jpg?v=1705239238&width=400",
 "type": "Large Appliances",
 "tags": [],
 "in": true

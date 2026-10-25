@@ -1,5 +1,98 @@
 [
 {
+"t": "levain napkins packs",
+"u": "https://www.209lebanesewine.com/products/levain-napkins-packs",
+"p": 0.0,
+"c": null,
+"cur": "USD",
+"img": "",
+"type": "POS",
+"tags": [
+"0-15"
+],
+"in": true
+},
+{
+"t": "Chateau Ksara 2007",
+"u": "https://www.209lebanesewine.com/products/chateau-ksara-2007",
+"p": 33.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0970/2132/products/chateau-ksara-2007.png?v=1691568406&width=400",
+"type": "Full-bodied Red Wine",
+"tags": [
+"26-35",
+"Alcohol Level:Medium",
+"Food Pairing:Red meat - Beef - Pork - Lamb",
+"Food Pairing:Strong cheese - Roquefort - Blue cheese",
+"Grape Varieties:Blend",
+"Grape Varieties:Cabernet Sauvignon",
+"Grape Varieties:Merlot",
+"Grape Varieties:Petit Verdot"
+],
+"in": true
+},
+{
+"t": "LATOURBA Syrah 2020",
+"u": "https://www.209lebanesewine.com/products/latourba-syrah",
+"p": 18.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0970/2132/products/latourba-syrah.png?v=1691568808&width=400",
+"type": "Full-bodied Red Wine",
+"tags": [
+"00Discount",
+"16-25",
+"Alcohol Level:High",
+"Food Pairing:Red meat - Beef - Pork - Lamb",
+"Food Pairing:Strong cheese - Roquefort - Blue cheese",
+"Grape Varieties:Single Varietal",
+"Grape Varieties:Syrah",
+"Levain"
+],
+"in": true
+},
+{
+"t": "Vertical 33 Carignan 2020",
+"u": "https://www.209lebanesewine.com/products/vertical-33-carignan",
+"p": 20.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0970/2132/products/vertical-33-carignan.png?v=1691568849&width=400",
+"type": "Light Red Wine",
+"tags": [
+"16-25",
+"Alcohol Level:Medium",
+"Food Pairing:Aperitif",
+"Food Pairing:Cold cuts",
+"Food Pairing:Grilled fish and seafood",
+"Food Pairing:Lebanese Mezze",
+"Food Pairing:Pasta and pizza",
+"Food Pairing:Red meat - Beef - Pork - Lamb"
+],
+"in": true
+},
+{
+"t": "Vertical 33 Cinsault du soir 2020",
+"u": "https://www.209lebanesewine.com/products/vertical-33-cinsault-du-soir",
+"p": 20.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0970/2132/products/vertical-33-cinsault-du-soir.png?v=1691568851&width=400",
+"type": "Light Red Wine",
+"tags": [
+"00Discount",
+"16-25",
+"Alcohol Level:Medium",
+"Food Pairing:Aperitif",
+"Food Pairing:Cold cuts",
+"Food Pairing:Grilled fish and seafood",
+"Food Pairing:Lebanese Mezze",
+"Food Pairing:Pasta and pizza"
+],
+"in": true
+},
+{
 "t": "Bybline Echo white 2025",
 "u": "https://www.209lebanesewine.com/products/bybline-echo-red-2025-copy",
 "p": 7.9,
@@ -200,26 +293,6 @@
 "in": true
 },
 {
-"t": "Domaine des Tourelles Red 2023",
-"u": "https://www.209lebanesewine.com/products/domaine_des_tourelles_red",
-"p": 7.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0970/2132/products/domaine_des_tourelles_red.png?v=1691568977&width=400",
-"type": "Full-bodied Red Wine",
-"tags": [
-"0-15",
-"Alcohol Level:Medium",
-"Food Pairing:Red meat - Beef - Pork - Lamb",
-"Food Pairing:Strong cheese - Roquefort - Blue cheese",
-"Grape Varieties:Blend",
-"Grape Varieties:Cabernet Sauvignon",
-"Grape Varieties:Carignan",
-"Grape Varieties:Cinsault"
-],
-"in": false
-},
-{
 "t": "Aurora Pinot Noir 2023",
 "u": "https://www.209lebanesewine.com/products/aurora-pinot-noir",
 "p": 21.0,
@@ -320,26 +393,6 @@
 "in": true
 },
 {
-"t": "IXSIR EL Red 2020",
-"u": "https://www.209lebanesewine.com/products/el_ixsir_red",
-"p": 42.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0970/2132/files/ELRedNV.png?v=1706525075&width=400",
-"type": "Full-bodied Red Wine",
-"tags": [
-"36-55",
-"Alcohol Level:Medium",
-"Cozy",
-"Food Pairing:Red meat - Beef - Pork - Lamb",
-"Food Pairing:Strong cheese - Roquefort - Blue cheese",
-"Grape Varieties:Blend",
-"Grape Varieties:Cabernet Sauvignon",
-"Grape Varieties:Merlot"
-],
-"in": false
-},
-{
 "t": "Coteaux du Liban Chateau 2010",
 "u": "https://www.209lebanesewine.com/products/coteaux-du-liban-chateau-2010",
 "p": 29.0,
@@ -358,46 +411,6 @@
 "Grape Varieties:Merlot"
 ],
 "in": true
-},
-{
-"t": "Chateau St Thomas Chardonnay 2022",
-"u": "https://www.209lebanesewine.com/products/chateau-st-thomas-chardonnay",
-"p": 11.9,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0970/2132/files/CHARDONNAYStThomas.png?v=1699709213&width=400",
-"type": "Dry White Wine",
-"tags": [
-"0-15",
-"00Discount",
-"Alcohol Level:Medium",
-"blossom",
-"Chardonnay Single",
-"Food Pairing:Aperitif",
-"Food Pairing:Cold cuts",
-"Food Pairing:Grilled fish and seafood"
-],
-"in": false
-},
-{
-"t": "Batroun Mountains Ruby 2019 Bag in Box 3L",
-"u": "https://www.209lebanesewine.com/products/batroun-mountains-ruby-3l-in-box-2015",
-"p": 25.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0970/2132/products/batroun-mountains-ruby-3l-in-box-2015.png?v=1691568497&width=400",
-"type": "Light Red Wine",
-"tags": [
-"00Discount",
-"16-25",
-"Alcohol Level:High",
-"Food Pairing:Aperitif",
-"Food Pairing:Cold cuts",
-"Food Pairing:Grilled fish and seafood",
-"Food Pairing:Lebanese Mezze",
-"Food Pairing:Pasta and pizza"
-],
-"in": false
 },
 {
 "t": "Chateau Trois Collines Ample Assyrtico white 2021",
@@ -480,26 +493,6 @@
 "in": true
 },
 {
-"t": "Le Vin Du Marje Rose 2020",
-"u": "https://www.209lebanesewine.com/products/le-vin-du-marje-rose",
-"p": 5.9,
-"c": 10.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0970/2132/products/le-vin-du-marje-rose.png?v=1691568732&width=400",
-"type": "Dry Rosé Wine",
-"tags": [
-"0-15",
-"Alcohol Level:Medium",
-"bf",
-"blossom",
-"Food Pairing:Aperitif",
-"Food Pairing:Cold cuts",
-"Food Pairing:Grilled fish and seafood",
-"Food Pairing:Lebanese Mezze"
-],
-"in": false
-},
-{
 "t": "Domaine de Baal White 2022",
 "u": "https://www.209lebanesewine.com/products/domaine_de_baal_white",
 "p": 20.0,
@@ -538,26 +531,6 @@
 "Grape Varieties:Mourvedre"
 ],
 "in": true
-},
-{
-"t": "Chateau Trois Collines Chardonnay 2022",
-"u": "https://www.209lebanesewine.com/products/chateau-trois-collines-chardonnay",
-"p": 12.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0970/2132/products/chateau-trois-collines-chardonnay.png?v=1691568658&width=400",
-"type": "Dry White Wine",
-"tags": [
-"0-15",
-"00Discount",
-"Alcohol Level:Medium",
-"bf",
-"Chardonnay Single",
-"Food Pairing:Aperitif",
-"Food Pairing:Cold cuts",
-"Food Pairing:Grilled fish and seafood"
-],
-"in": false
 },
 {
 "t": "Chateau Qanafar Riesling 2020",
@@ -1722,26 +1695,6 @@
 "in": true
 },
 {
-"t": "Chateau St Thomas Pinot Noir 2019",
-"u": "https://www.209lebanesewine.com/products/chateau-st-thomas-pinot-noir",
-"p": 13.9,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0970/2132/files/PINOTNOIRSTTHOMAS.png?v=1699710136&width=400",
-"type": "Light Red Wine",
-"tags": [
-"0-15",
-"00Discount",
-"Alcohol Level:Medium",
-"Food Pairing:Aperitif",
-"Food Pairing:Cold cuts",
-"Food Pairing:Grilled fish and seafood",
-"Food Pairing:Lebanese Mezze",
-"Food Pairing:Pasta and pizza"
-],
-"in": false
-},
-{
 "t": "Aurora Cabernet Franc 2022",
 "u": "https://www.209lebanesewine.com/products/aurora-cabernet-franc",
 "p": 18.0,
@@ -2101,26 +2054,6 @@
 "in": true
 },
 {
-"t": "Domaine St Gabriel Artisan red 2020",
-"u": "https://www.209lebanesewine.com/products/domaine-st-gabriel-artisan-red",
-"p": 9.9,
-"c": 20.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0970/2132/files/Artisan_2020.png?v=1737465161&width=400",
-"type": "Full-bodied Red Wine",
-"tags": [
-"0-15",
-"Alcohol Level:Medium",
-"Food Pairing:Red meat - Beef - Pork - Lamb",
-"Food Pairing:Strong cheese - Roquefort - Blue cheese",
-"Grape Varieties:Blend",
-"Grape Varieties:Cabernet Sauvignon",
-"Grape Varieties:Syrah",
-"horeca"
-],
-"in": false
-},
-{
 "t": "Chateau St Thomas Les Emirs 2018",
 "u": "https://www.209lebanesewine.com/products/chateau-st-thomas-les-emirs",
 "p": 11.9,
@@ -2139,26 +2072,6 @@
 "Grape Varieties:Blend"
 ],
 "in": true
-},
-{
-"t": "Chateau St Thomas 2018",
-"u": "https://www.209lebanesewine.com/products/chateau-st-thomas-2017",
-"p": 28.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0970/2132/files/ChateauStThomas_31b83799-9ca2-4b2f-91f1-806e011ec302.png?v=1699709076&width=400",
-"type": "Full-bodied Red Wine",
-"tags": [
-"00Discount",
-"26-35",
-"Alcohol Level:Medium",
-"Food Pairing:Red meat - Beef - Pork - Lamb",
-"Food Pairing:Strong cheese - Roquefort - Blue cheese",
-"Grape Varieties:Blend",
-"Grape Varieties:Cabernet Sauvignon",
-"Grape Varieties:Merlot"
-],
-"in": false
 },
 {
 "t": "Domaine S.Najm Arak",
@@ -2274,26 +2187,6 @@
 "in": true
 },
 {
-"t": "IXSIR EL White 2022",
-"u": "https://www.209lebanesewine.com/products/el_ixsir_white",
-"p": 31.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0970/2132/files/ELWhiteNV.png?v=1706525092&width=400",
-"type": "Dry White Wine",
-"tags": [
-"00Discount",
-"26-35",
-"Alcohol Level:Medium",
-"Food Pairing:Aperitif",
-"Food Pairing:Cold cuts",
-"Food Pairing:Grilled fish and seafood",
-"Food Pairing:Lebanese Mezze",
-"Food Pairing:Light cheese - Goat cheese"
-],
-"in": false
-},
-{
 "t": "Chateau Musar Arack triple distilled 70cl",
 "u": "https://www.209lebanesewine.com/products/chateau-musar-arak-triple-distilled-70cl",
 "p": 16.0,
@@ -2331,26 +2224,6 @@
 "Type:Liqueur"
 ],
 "in": true
-},
-{
-"t": "Chateau Qanafar 2017",
-"u": "https://www.209lebanesewine.com/products/chateau-qanafar",
-"p": 35.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0970/2132/products/chateau-qanafar-2014.png?v=1691568673&width=400",
-"type": "Full-bodied Red Wine",
-"tags": [
-"00Discount",
-"26-35",
-"Alcohol Level:High",
-"Bal",
-"Food Pairing:Red meat - Beef - Pork - Lamb",
-"Food Pairing:Strong cheese - Roquefort - Blue cheese",
-"Grape Varieties:Blend",
-"Grape Varieties:Merlot"
-],
-"in": false
 },
 {
 "t": "Chateau Ksara Le Souverain 2011",
@@ -2451,26 +2324,6 @@
 "Food Pairing:Lebanese Mezze"
 ],
 "in": true
-},
-{
-"t": "Domaine des Tourelles Rose 2023",
-"u": "https://www.209lebanesewine.com/products/domaine-des-tourelles-rose",
-"p": 3.9,
-"c": 7.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0970/2132/products/domaine-des-tourelles-rose.png?v=1691568976&width=400",
-"type": "Dry Rosé Wine",
-"tags": [
-"0-15",
-"Alcohol Level:Medium",
-"blossom",
-"Food Pairing:Aperitif",
-"Food Pairing:Cold cuts",
-"Food Pairing:Grilled fish and seafood",
-"Food Pairing:Lebanese Mezze",
-"Food Pairing:Light cheese - Goat cheese"
-],
-"in": false
 },
 {
 "t": "Domaine des Tourelles Carignan Vieilles Vignes 2022",
@@ -2791,26 +2644,6 @@
 "in": true
 },
 {
-"t": "Aurora Chateau 2022",
-"u": "https://www.209lebanesewine.com/products/aurora-chateau",
-"p": 13.5,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0970/2132/products/aurora-chateau.png?v=1691568994&width=400",
-"type": "Full-bodied Red Wine",
-"tags": [
-"0-15",
-"00Discount",
-"Alcohol Level:Medium",
-"Food Pairing:Red meat - Beef - Pork - Lamb",
-"Food Pairing:Strong cheese - Roquefort - Blue cheese",
-"Grape Varieties:Blend",
-"Grape Varieties:Cabernet Sauvignon",
-"Grape Varieties:Merlot"
-],
-"in": false
-},
-{
 "t": "The Three Brothers handcrafted Mother of Eight dry gin 75 cl",
 "u": "https://www.209lebanesewine.com/products/the-three-brothers-mother-of-eight-gin-75-cl",
 "p": 5.9,
@@ -2949,26 +2782,6 @@
 "in": true
 },
 {
-"t": "Chateau Heritage Plaisir du Vin 2022",
-"u": "https://www.209lebanesewine.com/products/chateau-heritage-plaisir-du-vin",
-"p": 7.9,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0970/2132/products/chateau-heritage-plaisir-du-vin.png?v=1691568707&width=400",
-"type": "Full-bodied Red Wine",
-"tags": [
-"0-15",
-"00Discount",
-"Alcohol Level:Medium",
-"elias",
-"Food Pairing:Red meat - Beef - Pork - Lamb",
-"Food Pairing:Strong cheese - Roquefort - Blue cheese",
-"Grape Varieties:Cabernet Sauvignon",
-"Grape Varieties:Cinsault"
-],
-"in": false
-},
-{
 "t": "Chateau Khoury Perseides 2012",
 "u": "https://www.209lebanesewine.com/products/chateau-khoury-perseides",
 "p": 22.2,
@@ -3007,26 +2820,6 @@
 "GingerPertutti"
 ],
 "in": true
-},
-{
-"t": "Chateau Trois Collines Pinot Noir 2021",
-"u": "https://www.209lebanesewine.com/products/chateau-trois-collines-pinot-noir",
-"p": 13.0,
-"c": 20.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0970/2132/products/chateau-trois-collines-pinot-noir.png?v=1691568553&width=400",
-"type": "Full-bodied Red Wine",
-"tags": [
-"0-15",
-"Alcohol Level:Medium",
-"Food Pairing:Red meat - Beef - Pork - Lamb",
-"Food Pairing:Strong cheese - Roquefort - Blue cheese",
-"Grape Varieties:Pinot Noir",
-"Grape Varieties:Single Varietal",
-"Levain",
-"Region:Bekaa Valley"
-],
-"in": false
 },
 {
 "t": "Batroun Mountains Frizzante sparkling rose wine 2023",
