@@ -901,7 +901,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Pumpkin_Petals_Fall_Flower_Arrangement.png?v=1789544778&width=400",
 "type": "Flowers",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Cozy Blooms",
@@ -1311,7 +1311,7 @@
 "Pink October",
 "Roses"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Classic Symbol of Purity",
@@ -1396,7 +1396,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Berry_Blush.jpg?v=1791443253&width=400",
 "type": "Flowers",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Lilac Hugs",
@@ -1663,7 +1663,7 @@
 "New Born",
 "Pink"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Soon to Be Mrs.",
@@ -2436,7 +2436,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/0012_Remove_tool_edits.jpg?v=1769583722&width=400",
 "type": "Flowers",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Soft Pearl",
@@ -3970,7 +3970,7 @@
 "Flower Boxes",
 "WHITE"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Coffea Arabica",
@@ -4366,7 +4366,7 @@
 "For Mom",
 "Mixed Colors"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Rush of Feelings",
@@ -4426,7 +4426,7 @@
 "For Mom",
 "Graduation"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Pink Celebration",
@@ -4443,7 +4443,7 @@
 "For Mom",
 "Gift Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Endless Bloom",
@@ -4814,7 +4814,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Sables-Gourmets---Chocolate-Small-Box.png?v=1735638005&width=400",
 "type": "Add-Ons",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Peace & Love",
@@ -5052,7 +5052,7 @@
 "Pink",
 "Pink October"
 ],
-"in": false
+"in": true
 },
 {
 "t": "IXSIR Arak",
@@ -5403,7 +5403,7 @@
 "Get Well Soon",
 "Graduation"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Silver Linings",
