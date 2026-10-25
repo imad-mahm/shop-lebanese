@@ -284,12 +284,12 @@
 "in": true
 },
 {
-"t": "Gift From La Roche-Posay : Anthelios UVMUNE 400 Invisible Fluid SPF50+",
+"t": "Gift From La Roche-Posay : Anthelios UV Mune 400 Anti Dark Spot spf50",
 "u": "https://looliacloset.com/products/gift-from-la-roche-posay-anthelios-uvmune-400-anti-dark-spot-spf50-copy",
 "p": 0.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2298/5927/files/image-2026-09-25T135842.279.jpg?v=1790333935&width=400",
+"img": "https://cdn.shopify.com/s/files/1/2298/5927/files/FullSizeRender.jpg?v=1792874677&width=400",
 "type": "GWP",
 "tags": [
 "_appmaker_disable_purchase",
@@ -357,7 +357,7 @@
 "Loolia Closet",
 "SEARCHANISE_IGNORE"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Lancôme Absolue Soft Set",
@@ -499,7 +499,7 @@
 "Eau De Parfum",
 "LATTAFA"
 ],
-"in": true
+"in": false
 },
 {
 "t": "L’Oréal Paris Elvive Collagen Lifter – Choose Any 3 + Free Brush",
@@ -892,7 +892,7 @@
 "Eye Masks",
 "FEATURED_PRODUCTS"
 ],
-"in": true
+"in": false
 },
 {
 "t": "PDRN Pink One Day Serum",
@@ -1608,7 +1608,7 @@
 "L'Oréal Professionnel",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Absolut Repair Shampoo + Absolut Repair Golden Mask At 15% OFF",
@@ -2754,7 +2754,7 @@
 "Maybelline New York",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Eco Tools Brush Retractable Face",
@@ -6358,7 +6358,7 @@
 "Lip Balm",
 "Vaseline"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Intensive Care Body Lotion Ice Cool Hydration 200ml",
@@ -16509,7 +16509,7 @@
 "skincare must",
 "Viral_2026"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Gift From Mixa: Silver Spoon",
@@ -16547,7 +16547,7 @@
 "Mixa",
 "SEARCHANISE_IGNORE"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Absolut Repair Molecular Pre-Treatment",
@@ -16587,7 +16587,7 @@
 "Checked_Charbel",
 "cream"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Soothing Peony Shampoo",
@@ -20352,7 +20352,7 @@
 "serum",
 "Skin Care"
 ],
-"in": true
+"in": false
 },
 {
 "t": "NAD+ Peptide Boosting Serum",
@@ -27802,7 +27802,7 @@
 "face&body",
 "FEATURED_PRODUCTS"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Zero Exosome Shot 2000",
@@ -30211,7 +30211,7 @@
 "discount-20-and-under",
 "Essence"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Brush It Like It's Art Blending Brush",
@@ -30451,7 +30451,7 @@
 "discount-20-to-30",
 "first_in_collection"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Hello Kitty Strawberry Lip Balm",
@@ -32664,7 +32664,7 @@
 "Eyeliner",
 "for-her"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Fast Clear Gentle Cleanser Hydrating Face Wash",
@@ -33204,7 +33204,7 @@
 "fragrances must",
 "Halloween 2025"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Badee Al Oud Honor and Glory",
@@ -41046,7 +41046,7 @@
 "Kerastase_styling",
 "Keraxlorp"
 ],
-"in": true
+"in": false
 },
 {
 "t": "‏Gloss Absolu Glaze Drops Hair Oil",
@@ -48078,7 +48078,7 @@
 "discount-20-to-30",
 "Kiehl Sampling Campaign"
 ],
-"in": true
+"in": false
 },
 {
 "t": "B3 Retinol Serum to Regenerate and Resurface",

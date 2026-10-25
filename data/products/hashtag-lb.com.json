@@ -1,5 +1,49 @@
 [
 {
+"t": "G-top 1117",
+"u": "https://www.hashtag-lb.com/products/g-top-1117",
+"p": 17.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/8959f6a4-b32c-4759-b20b-d8d010d855d4_e228198b-1141-4d48-8485-b6463eee0060.jpg?v=1792849979&width=400",
+"type": "top",
+"tags": [],
+"in": true
+},
+{
+"t": "G-jacket",
+"u": "https://www.hashtag-lb.com/products/g-jacket-1",
+"p": 55.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/d4dea830-42aa-4f5e-8636-4397c20c1f6b.jpg?v=1792849371&width=400",
+"type": "jacket",
+"tags": [],
+"in": true
+},
+{
+"t": "G-jacket 96012",
+"u": "https://www.hashtag-lb.com/products/g-jacket-96012",
+"p": 42.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/0a92783e-c049-4535-b51c-9a3addb48324_1.jpg?v=1792849176&width=400",
+"type": "jacket",
+"tags": [],
+"in": true
+},
+{
+"t": "blazer 008",
+"u": "https://www.hashtag-lb.com/products/blazer-008",
+"p": 49.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/42e536ab-8009-44ed-b574-37a73809f7b8.jpg?v=1792848860&width=400",
+"type": "BLAZERS",
+"tags": [],
+"in": true
+},
+{
 "t": "G-top 251185",
 "u": "https://www.hashtag-lb.com/products/g-top-251185",
 "p": 19.0,
@@ -38,7 +82,7 @@
 "p": 45.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/8fe04ec7-7d91-44f8-8ece-fc3b1428e514.jpg?v=1792679314&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/bc8d54cd-5a79-4f44-9de5-0c40bdeffd9f.jpg?v=1792848646&width=400",
 "type": "jacket",
 "tags": [],
 "in": true
@@ -71,7 +115,7 @@
 "p": 39.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/1df9dde6-6948-47be-bd82-61273777dfca.jpg?v=1792669606&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/b2593422-a083-48cf-b8b0-d89147536fe0_-_Copy.jpg?v=1792848451&width=400",
 "type": "jacket",
 "tags": [],
 "in": true
@@ -93,7 +137,7 @@
 "p": 35.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/be74291e-f7a2-4d46-99cd-b974f7b52d2f_1.jpg?v=1792668475&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/6ce9c56a-cd89-4fbf-8571-2cd06755336b.jpg?v=1792848790&width=400",
 "type": "Vest",
 "tags": [],
 "in": true
@@ -415,7 +459,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/WhatsAppImage2026-10-12at13.36.06.jpg?v=1791804162&width=400",
 "type": "",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "jeans 26859",
@@ -800,7 +844,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/789939b9-d731-4746-aee0-e28c150b6267.jpg?v=1790002532&width=400",
 "type": "top",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "G-top 5069",
