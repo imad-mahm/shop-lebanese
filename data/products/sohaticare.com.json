@@ -400,7 +400,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/WhatsAppImage2026-10-21at11.47.06AM.jpg?v=1792572442&width=400",
 "type": "Anti-Redness",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Revlon One Step Volumiser RVDR5298E",
@@ -1961,7 +1961,7 @@
 "PF_Sale_25",
 "TOPOFFER"
 ],
-"in": true
+"in": false
 },
 {
 "t": "20% Off - Buy 2x Magic Retouch Hair Roots Concealer Spray Get  Fan (Gift)",
@@ -2604,7 +2604,7 @@
 "pf-bck-to-schl-cmpgn",
 "PF_AUG_26_Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Buy Ducray Keracnyl Glycolic+ anti-blackhead cream 30ml & get a FREE 5ml Keracnyl Glycolic+ cream + 5ml Keracnyl PP+ soothing cream + Pouch",
@@ -10824,8 +10824,8 @@
 {
 "t": "Soft Touch Bouncy Blush 30",
 "u": "https://sohaticare.com/products/soft-touch-bouncy-blush",
-"p": 2.89,
-"c": 3.4,
+"p": 3.4,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/images_3d677d79-fad8-4678-8875-32165ac288bd.jpg?v=1778582362&width=400",
 "type": "Blush",
@@ -12141,7 +12141,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/KanzHydrationLipOil.png?v=1777020757&width=400",
 "type": "Lip Oil",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Antati Travel Pouch",
@@ -25955,7 +25955,7 @@
 "COMPENSATION_DEC25",
 "LUMIMATTE_DEC25"
 ],
-"in": true
+"in": false
 },
 {
 "t": "20 % OFF Lumi Matte Foundation + Sky high",
@@ -28055,8 +28055,8 @@
 {
 "t": "Soft Touch Bouncy Blush 10",
 "u": "https://sohaticare.com/products/soft-touch-bouncy-blush-10",
-"p": 2.89,
-"c": 3.4,
+"p": 3.4,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/essence-colorete-en-polvo-en-polvo-soft-touch-10-antique-bloom-1-91054.jpg?v=1763973524&width=400",
 "type": "Blush",
@@ -28202,8 +28202,8 @@
 {
 "t": "Lash Princessfalselash Mascara  Purple",
 "u": "https://sohaticare.com/products/lash-princessfalselash-masc-purple",
-"p": 4.33,
-"c": 5.09,
+"p": 5.09,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/4059729541703_1.webp?v=1763971738&width=400",
 "type": "Mascara",
@@ -35946,7 +35946,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/10_8517ac85-dfdc-4847-804f-17c63732e7b3.png?v=1757660530&width=400",
 "type": "",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "NATURAL MOISTURIZING FACTORS +HA 30ML/1FLOZ",
@@ -38345,8 +38345,8 @@
 {
 "t": "Essence Foundation Stick 180",
 "u": "https://sohaticare.com/products/essence-foundation-stick-180",
-"p": 6.04,
-"c": 7.1,
+"p": 7.1,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/4059729517517_6_90f59311-52d8-4745-a67a-000b0ef704c1.webp?v=1755000113&width=400",
 "type": "Foundation Stick",
@@ -38358,8 +38358,8 @@
 {
 "t": "Essence Foundation Stick 140",
 "u": "https://sohaticare.com/products/essence-foundation-stick-140",
-"p": 6.04,
-"c": 7.1,
+"p": 7.1,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/4059729517432_6_500x500_crop_center_5ae9b274-ffaa-4055-b028-23cd0665ffcd.webp?v=1755000034&width=400",
 "type": "Foundation Stick",
@@ -38371,8 +38371,8 @@
 {
 "t": "Essence Foundation Stick 130",
 "u": "https://sohaticare.com/products/essence-foundation-stick-130",
-"p": 6.04,
-"c": 7.1,
+"p": 7.1,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/4059729517418_6.webp?v=1754999542&width=400",
 "type": "Foundation Stick",
@@ -38384,8 +38384,8 @@
 {
 "t": "Essence Foundation Stick 120",
 "u": "https://sohaticare.com/products/essence-foundation-stick-120",
-"p": 6.04,
-"c": 7.1,
+"p": 7.1,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/4059729517395_6.webp?v=1754999512&width=400",
 "type": "Foundation Stick",
@@ -38397,8 +38397,8 @@
 {
 "t": "Essence Foundation Stick 100",
 "u": "https://sohaticare.com/products/essence-foundation-stick-100",
-"p": 6.04,
-"c": 7.1,
+"p": 7.1,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/4059729517357_6.webp?v=1754999453&width=400",
 "type": "Foundation Stick",
@@ -38487,8 +38487,8 @@
 {
 "t": "Essence Glossy Glaze Lipstick 04",
 "u": "https://sohaticare.com/products/essence-glossy-glaze-lipstick-04",
-"p": 3.4,
-"c": 4.0,
+"p": 4.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/essence-glossy-glaze-high-shine-lipstick-04-red-dy-for-the-day-1-9g.jpg?v=1755002500&width=400",
 "type": "Lipstcik",
@@ -38501,8 +38501,8 @@
 {
 "t": "Essence Glossy Glaze Lipstick 02",
 "u": "https://sohaticare.com/products/essence-glossy-glaze-lipstick-02",
-"p": 3.4,
-"c": 4.0,
+"p": 4.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/essence-glossy-glaze-high-shine-lipstick-02-on-cloud-nude-1-9g.jpg?v=1755002539&width=400",
 "type": "Lipstcik",
@@ -38515,8 +38515,8 @@
 {
 "t": "Essence Glossy Glaze Lipstick 01",
 "u": "https://sohaticare.com/products/essence-glossy-glaze-lipstick-01",
-"p": 3.4,
-"c": 4.0,
+"p": 4.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/essence-glossy-glaze-high-shine-lipstick-01-livin-la-vida-mocha-1-9g.jpg?v=1755002581&width=400",
 "type": "Lipstcik",
