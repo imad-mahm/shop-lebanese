@@ -1,5 +1,105 @@
 [
 {
+"t": "Lactocare",
+"u": "https://skinsociety.me/products/lactocare",
+"p": 13.89,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/4961900000000.jpg?v=1793012937&width=400",
+"type": "Parapharmacy",
+"tags": [
+"4961900000000",
+"Brand_Skin Society Para",
+"Category_Parapharmacy",
+"Digestive Problems",
+"Food Supplements",
+"Parapharmacy",
+"Product Type_Digestive Problems",
+"Sub Category_Food Supplements"
+],
+"in": true
+},
+{
+"t": "Krampix Magnesium+ B6",
+"u": "https://skinsociety.me/products/krampix-magnesium-b6",
+"p": 15.54,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/4122900000000.jpg?v=1793012683&width=400",
+"type": "Parapharmacy",
+"tags": [
+"2025 JAN Flash Sale",
+"2025 JAN Flash Sale Excluded",
+"4122900000000",
+"Category_Parapharmacy",
+"Food Supplemnets",
+"No-Sync",
+"Pain & Cramps",
+"Parapharmacy"
+],
+"in": true
+},
+{
+"t": "Quickliner For Eyes Intense Eyeliner",
+"u": "https://skinsociety.me/products/quickliner-for-eyes-intense-eyeliner",
+"p": 40.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/Screenshot2026-10-26092714.png?v=1792999664&width=400",
+"type": "Luxury",
+"tags": [
+"Brand_Clinique",
+"Category_Make Up",
+"Eyeliners",
+"Eyes",
+"Loyalty Program",
+"Luxury",
+"Luxury Make Up",
+"Make Up"
+],
+"in": true
+},
+{
+"t": "UV Solutions Brightening+Tinted SPF50 Sunscreen",
+"u": "https://skinsociety.me/products/uv-solutions-brightening-tinted-spf50-sunscreen",
+"p": 49.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/updatedphoto_54da9ec9-76fa-43e9-9a8d-8c877301d9dc.png?v=1792998694&width=400",
+"type": "Luxury",
+"tags": [
+"Brand_Clinique",
+"Category_Skin Care",
+"Item Type_Sunscreens",
+"Loyalty Program",
+"Luxury",
+"Luxury Skin Care",
+"Mineral Sunscreen",
+"new arrivals"
+],
+"in": true
+},
+{
+"t": "Twilly d'Hermès - Eau de Parfum",
+"u": "https://skinsociety.me/products/twilly-dhermes-eau-de-parfum-hermes",
+"p": 143.0,
+"c": 0.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/hermes-twilly-d-hermes-eau-de-parfum-skin-society-shop-address-country-1.jpg?v=1686489343&width=400",
+"type": "Luxury",
+"tags": [
+"2025 JAN Flash Sale",
+"2025 JAN Flash Sale Excluded",
+"3346130010357",
+"3346130010364",
+"3346130010364-32657019207773",
+"3346133200014",
+"3346133200014-32657019175005",
+"Brand_Hermès"
+],
+"in": true
+},
+{
 "t": "Fresh Pressed Renewing Powder Cleanser with Pure Vitamin C",
 "u": "https://skinsociety.me/products/fresh-pressed-renewing-powder-cleanser-with-pure-vitamin-c",
 "p": 62.0,
@@ -282,7 +382,7 @@
 {
 "t": "Haze Mini Eyeshadow Palette",
 "u": "https://skinsociety.me/products/haze-mini-eyeshadow-palette",
-"p": 47.0,
+"p": 48.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/689304181952-AnastasiaBeverlyHillsHazeMiniEyeshadowPalette_3.webp?v=1792665348&width=400",
@@ -885,7 +985,7 @@
 {
 "t": "Sublime Curl Nutri-Activating Cream - Wavy, Curly Hair",
 "u": "https://skinsociety.me/products/sublime-curl-nutri-activating-cream-wavy-curly-hair-rene-furterer",
-"p": 22.0,
+"p": 29.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/updatedphoto_365d1d57-0a85-40cc-b11a-e728654e237b.png?v=1792068599&width=400",
@@ -1624,7 +1724,7 @@
 "Loyalty Program",
 "No-Sync"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Eyevision Plus",
@@ -2138,7 +2238,7 @@
 {
 "t": "Slay Lab Moisturizing Hand Mask",
 "u": "https://skinsociety.me/products/slay-lab-moisturizing-hand-mask",
-"p": 3.5,
+"p": 4.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/idc-institute-mascara-de-manos-hidratacion-intensiva-argan-y-coco-1-94186.jpg?v=1791789011&width=400",
@@ -2816,7 +2916,7 @@
 {
 "t": "Collagen Absortion Eye Mask",
 "u": "https://skinsociety.me/products/collagen-absortion-eye-mask",
-"p": 2.0,
+"p": 3.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/idc-institute-collagen-absorption-eye-mask-90481.webp?v=1791380453&width=400",
@@ -2836,7 +2936,7 @@
 {
 "t": "Basic Hair Clips",
 "u": "https://skinsociety.me/products/basic-hair-clips",
-"p": 3.5,
+"p": 4.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/idc-institute-basic-hair-clips-ref-90249.jpg?v=1791380254&width=400",
@@ -3696,7 +3796,7 @@
 {
 "t": "Makeup Remover Wipes Aloe Vera",
 "u": "https://skinsociety.me/products/makeup-remover-wipes-aloe-vera",
-"p": 1.5,
+"p": 3.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/8436616353919.jpg?v=1788245689&width=400",
@@ -4432,7 +4532,7 @@
 "Item Type_Face Serums",
 "korean"
 ],
-"in": true
+"in": false
 },
 {
 "t": "L'eau Bleue Eau de Parfum",
@@ -6747,7 +6847,7 @@
 "Item Type_Day & Night Care",
 "Item Type_Face Serums"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Triple Collagen Cream",
@@ -7836,7 +7936,7 @@
 "Category_Bath & Body",
 "Disney"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Frozen Padded Make-Up Case",
@@ -9596,7 +9696,7 @@
 "No-Sync",
 "pimple patch"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Red Acne Body Peeling Shot",
@@ -11695,7 +11795,7 @@
 {
 "t": "Vamp! Eyeshadow",
 "u": "https://skinsociety.me/products/vamp-eyeshadow",
-"p": 17.16,
+"p": 19.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/products/8011607368174.jpg?v=1688037538&width=400",
@@ -13701,13 +13801,13 @@
 "type": "Dermocosmetics",
 "tags": [
 "All Skin Types",
+"Anti-Aging",
 "Brand_Vichy",
+"Category_ Skin Care",
 "Category_Skin Care",
+"Day & Night Care",
 "Dermocosmetics",
-"Loyalty Program",
-"new arrivals",
-"No-Sync",
-"Skin Care"
+"Item Type_Day & Night Care"
 ],
 "in": true
 },
@@ -17639,7 +17739,7 @@
 {
 "t": "Double Wear Stay-In-Place Makeup SPF10/PA++",
 "u": "https://skinsociety.me/products/double-wear-stay-in-place-makeup-spf10-pa",
-"p": 68.0,
+"p": 72.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/1N2Ecru.jpg?v=1785938748&width=400",
@@ -20742,7 +20842,7 @@
 "Parapharmacy",
 "Product Type_Immunity Weakness"
 ],
-"in": true
+"in": false
 },
 {
 "t": "GNC Glutathione 250 Mg",
@@ -20982,7 +21082,7 @@
 "Sleeping & Stress Disorder",
 "Sub Category_Food Supplements"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Zell-V NMN",
@@ -22467,7 +22567,7 @@
 {
 "t": "Vamp! Eye Pencil",
 "u": "https://skinsociety.me/products/vamp-eye-pencil",
-"p": 16.0,
+"p": 17.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/products/8011607354801.jpg?v=1691133782&width=400",
@@ -22695,7 +22795,7 @@
 {
 "t": "Hydrance SPF 30 Moisturizing Cream,40ml",
 "u": "https://skinsociety.me/products/hydrance-spf-30-moisturizing-cream-40ml",
-"p": 25.0,
+"p": 28.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/1_2_cfabe509-8316-4f69-b707-e397aa9b553c.png?v=1784197924&width=400",
@@ -24394,7 +24494,7 @@
 "Parapharmacy",
 "Product Type_Cardiovascular Diseases"
 ],
-"in": true
+"in": false
 },
 {
 "t": "DRAW ENTRY CARD - GSPA GIVEAWAY",
@@ -24813,7 +24913,7 @@
 "t": "Génifique Starter Kit",
 "u": "https://skinsociety.me/products/genifique-starter-kit",
 "p": 53.25,
-"c": 0.0,
+"c": 82.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/54.png?v=1783412146&width=400",
 "type": "Luxury",
@@ -25037,7 +25137,7 @@
 "Parapharmacy",
 "Product Type_Cardiovascular Diseases"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Challenger Whey Protein Chocolate",
@@ -25188,7 +25288,7 @@
 "Make Up",
 "new arrivals"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Ladies Libre Berry Crush Eau de Parfum Intense",
@@ -25214,19 +25314,19 @@
 "t": "Génifique Day-Night Routine",
 "u": "https://skinsociety.me/products/genifique-day-night-routine",
 "p": 133.64,
-"c": 0.0,
+"c": 223.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/2_aab7e095-c1b9-441b-ba08-c261bc2408c8.png?v=1782977513&width=400",
 "type": "Luxury",
 "tags": [
 "Brand_Lancôme",
+"Category_ Skin Care",
+"Category_Skin Care",
 "Gift Sets",
 "Loyalty Program",
 "Luxury",
 "Luxury Skin Care",
-"new arrivals",
-"No-Sync",
-"Product Type_Gift Sets"
+"new arrivals"
 ],
 "in": true
 },
@@ -25253,8 +25353,8 @@
 {
 "t": "Génifique Eye Routine Kit",
 "u": "https://skinsociety.me/products/genifique-eye-routine-kit",
-"p": 74.93,
-"c": 0.0,
+"p": 75.0,
+"c": 125.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/2_ef57a23f-895c-4966-8a00-ab6608d33b9c.png?v=1782972367&width=400",
 "type": "Luxury",
@@ -25274,7 +25374,7 @@
 "t": "Hydra Zen Starter Kit",
 "u": "https://skinsociety.me/products/hydra-zen-starter-kit",
 "p": 45.47,
-"c": 0.0,
+"c": 70.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/51_974d2063-b070-4f4a-bbd3-85880babc7c8.png?v=1782971939&width=400",
 "type": "Luxury",
@@ -25293,8 +25393,8 @@
 {
 "t": "Hydra Zen Day Routine Set",
 "u": "https://skinsociety.me/products/hydra-zen-day-routine-set",
-"p": 73.9,
-"c": 0.0,
+"p": 74.0,
+"c": 119.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/51_3d6ac4cf-77c3-4a20-8fc5-250e68aa9043.png?v=1782910490&width=400",
 "type": "Luxury",
@@ -26445,7 +26545,7 @@
 "Parapharmacy",
 "Product Type_Memory & Concentration"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Nature's Bounty Gentle Iron",
@@ -27097,7 +27197,7 @@
 "new arrivals",
 "No-Sync"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Gloss Absolu Frizz Glaze Cream",
@@ -27137,7 +27237,7 @@
 "new arrivals",
 "No-Sync"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Clinique Green Pouch With Lipstick - Gift",
@@ -27430,7 +27530,7 @@
 {
 "t": "Natural Roll-On Deo Beauty Pearl 48hr Anti-Perspirant",
 "u": "https://skinsociety.me/products/natural-roll-on-deo-beauty-pearl-48hr-anti-perspirant",
-"p": 2.53,
+"p": 2.69,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/beesline-beauty-pearl-natural-roll-on_2589940.webp?v=1781267056&width=400",
@@ -28318,7 +28418,7 @@
 "No-Sync",
 "Product Type_Value Deals"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Essence Mystery Gift",
@@ -28354,7 +28454,7 @@
 "Maybelline New York",
 "No-Sync"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Lifter Serum Concealer & Lifter Gloss Lip Gloss Duo",
@@ -28374,7 +28474,7 @@
 "Lip Gloss",
 "Lips"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Maybelline New York Brush Concealer - Gift",
@@ -28390,7 +28490,7 @@
 "POSM",
 "SEARCH_IGNORE"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Ultra Sheer Invisible Hydration Body Lotion Sunscreen SPF50",
@@ -29112,7 +29212,7 @@
 "Hair Treatment/Others",
 "Item Type_Hair Treatment/Others"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Soft Baked Blush",
@@ -33585,7 +33685,7 @@
 {
 "t": "Organic Wierook Oliban Essential Oil",
 "u": "https://skinsociety.me/products/organic-wierook-oliban-essential-oil",
-"p": 18.98,
+"p": 28.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/puressentiel-essential-oil-oliban-incense-organic-5-ml.jpg?v=1774516591&width=400",
@@ -36106,7 +36206,7 @@
 "Protein Bars",
 "Sub Category_Nutrition"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Apple Pie Protein Bar",
@@ -36522,7 +36622,7 @@
 "Parapharmacy",
 "Product Type_Slimming & Firming"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Slimming Duo",
@@ -39625,7 +39725,7 @@
 "Parapharmacy",
 "Product Type_Diabetic Friendly"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Cranberry Biscuits",
@@ -39665,7 +39765,7 @@
 "Product Type_Healthy Snacking",
 "Sub Category_Nutrition"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Vanilla Biscuits",
@@ -39685,7 +39785,7 @@
 "Product Type_Healthy Snacking",
 "Sub Category_Nutrition"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Classic Monk Fruit Sweetner",
@@ -40925,7 +41025,7 @@
 "Parapharmacy",
 "Product Type_Body Building"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Iso Whey Zero Vanilla 25 Gr",
@@ -41804,7 +41904,7 @@
 "Sub Category_Dental Care",
 "Toothpaste"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Whiter Teeth Toothpaste",
@@ -42269,7 +42369,7 @@
 {
 "t": "Organic Stevia Sweetener",
 "u": "https://skinsociety.me/products/organic-stevia-sweetener",
-"p": 3.2,
+"p": 3.3,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/5285001702886.jpg?v=1770047323&width=400",
@@ -42704,7 +42804,7 @@
 "Product Type_Healthy Snacking",
 "Sub Category_Nutrition"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Chocolate Hazelnut 18Gr Protein Bar",
@@ -42869,7 +42969,7 @@
 {
 "t": "Dark Chocolate & Pistachio Biscuits",
 "u": "https://skinsociety.me/products/dark-chocolate-pistachio-biscuits",
-"p": 4.04,
+"p": 3.44,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/5287001804188.jpg?v=1768922938&width=400",
@@ -42884,7 +42984,7 @@
 "Product Type_Healthy Snacking",
 "Sub Category_Nutrition"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Cream Wafer",
@@ -43689,7 +43789,7 @@
 {
 "t": "Organic Soya Protein Chunks",
 "u": "https://skinsociety.me/products/organic-soya-protein-chunks",
-"p": 3.71,
+"p": 3.35,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/5285001703371.jpg?v=1769774247&width=400",
@@ -44149,7 +44249,7 @@
 {
 "t": "Nut Sell Crunchy Peanut Butter",
 "u": "https://skinsociety.me/products/nut-sell-crunchy-peanut-butter",
-"p": 5.15,
+"p": 4.38,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/5289000064518.jpg?v=1769790220&width=400",
@@ -44164,7 +44264,7 @@
 "Product Type_Healthy Snacking",
 "Sub Category_Nutrition"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Gluten Free Flax Chia Plus Oatmeal",
@@ -46753,7 +46853,7 @@
 "Product Type_Herbal Tea",
 "Sub Category_Nutrition"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Ultra-Air Night Time Soother 6-18M For Boys",
@@ -47073,7 +47173,7 @@
 "Shavers & Shaving Creams",
 "Sub Category_Hair Removal"
 ],
-"in": true
+"in": false
 },
 {
 "t": "361 Whole Mouth Clean Soft Toothbrush -Pack of 2",
@@ -51587,7 +51687,7 @@
 "Product Type_Cereals",
 "Sub Category_Baby Nutrition"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Boy Potty 10M+",
@@ -52273,7 +52373,7 @@
 "t": "Lash Idôle Mascara & Cils Booster Duo Set",
 "u": "https://skinsociety.me/products/lash-idole-mascara-cils-booster-duo-set",
 "p": 54.79,
-"c": 0.0,
+"c": 84.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3614274653502.jpg?v=1765809140&width=400",
 "type": "Luxury",
@@ -54832,7 +54932,7 @@
 "Product Type_Feeding Sets & Utensils",
 "Sub Category_Baby Feeding"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Fastener Soother",
@@ -55758,7 +55858,7 @@
 "t": "Idole Eau de Parfum Trio Set",
 "u": "https://skinsociety.me/products/idole-eau-de-parfum-trio-set",
 "p": 175.12,
-"c": 0.0,
+"c": 258.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3614274654394.jpg?v=1764752925&width=400",
 "type": "Luxury",
@@ -57132,7 +57232,7 @@
 "Sub Category_Wellness",
 "Tools & Accessories"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Instant Ice Pack",
@@ -58520,105 +58620,5 @@
 "Eau De Parfum"
 ],
 "in": true
-},
-{
-"t": "Barbie Printed Blemish Dots",
-"u": "https://skinsociety.me/products/barbie-printed-blemish-dots",
-"p": 6.5,
-"c": 10.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/83800067572-2.jpg?v=1765446001&width=400",
-"type": "Casual",
-"tags": [
-"Brand_7th Heaven",
-"Casual",
-"Casual Skin Care",
-"Category_Skin Care",
-"Face Masks",
-"healthex",
-"Masks & Patches",
-"new arrivals"
-],
-"in": true
-},
-{
-"t": "Barbie Primer Sheet Mask",
-"u": "https://skinsociety.me/products/barbie-primer-sheet-mask",
-"p": 4.36,
-"c": 6.7,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/83800067367.jpg?v=1763375840&width=400",
-"type": "Casual",
-"tags": [
-"Brand_7th Heaven",
-"Casual",
-"Casual Skin Care",
-"Face",
-"Face Masks",
-"healthex",
-"Item Type_Face Masks",
-"Masks & Patches"
-],
-"in": true
-},
-{
-"t": "Barbie Pink Grapefruit & Vitamin E Peel Off Face Mask",
-"u": "https://skinsociety.me/products/barbie-pink-grapefruit-vitamin-e-peel-off-face-mask",
-"p": 2.89,
-"c": 4.45,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/83800067589.jpg?v=1763376373&width=400",
-"type": "Casual",
-"tags": [
-"Brand_7th Heaven",
-"Casual",
-"Casual Skin Care",
-"Category_Skin Care",
-"Face Masks",
-"healthex",
-"Item Type_Face Masks",
-"Masks"
-],
-"in": true
-},
-{
-"t": "The One Pour Femme Gift Set.",
-"u": "https://skinsociety.me/products/the-one-pour-femme-gift-set-eau-de-parfum-75ml-travel-size-eau-de-parfum-10ml-body-lotion-100ml-dolce-gabbana",
-"p": 179.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/8056669922322-1.jpg?v=1764327295&width=400",
-"type": "Luxury",
-"tags": [
-"3423478776159",
-"3423478776159-32656173858909",
-"Brand_Dolce & Gabbana",
-"Category_Fragrances",
-"For Her",
-"Fragrances",
-"Gift Sets",
-"Gifts & Sets"
-],
-"in": false
-},
-{
-"t": "Twist Up Mascara",
-"u": "https://skinsociety.me/products/twist-up-mascara",
-"p": 12.82,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3616306381698-1.jpg?v=1764317080&width=400",
-"type": "Casual",
-"tags": [
-"Brand_Bourjois Paris",
-"Casual",
-"Casual Make Up",
-"Category_Make Up",
-"Color_Black Mascara",
-"Eyes",
-"Item Type_Mascara",
-"Loyalty Program"
-],
-"in": false
 }
 ]
