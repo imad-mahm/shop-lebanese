@@ -1,5 +1,38 @@
 [
 {
+"t": "G- slouchy jeans",
+"u": "https://www.hashtag-lb.com/products/g-slouchy-jeans",
+"p": 45.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/27b8cc2f-a204-47ee-b9fb-45cf28a74930.jpg?v=1792920818&width=400",
+"type": "jeans",
+"tags": [],
+"in": true
+},
+{
+"t": "G-hoodie 2017",
+"u": "https://www.hashtag-lb.com/products/g-hoodie-1",
+"p": 15.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/0b516306-041d-4dda-bccd-3c5ce487eeb3.jpg?v=1792918976&width=400",
+"type": "top",
+"tags": [],
+"in": true
+},
+{
+"t": "G-vest t80",
+"u": "https://www.hashtag-lb.com/products/g-vest-t80",
+"p": 49.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/656e2e90-cbd3-44b8-bd93-6153d807078a.jpg?v=1792918667&width=400",
+"type": "Vest",
+"tags": [],
+"in": true
+},
+{
 "t": "G-top 1117",
 "u": "https://www.hashtag-lb.com/products/g-top-1117",
 "p": 17.0,
@@ -679,7 +712,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/5d8971ff-19ee-4b93-b4dc-fb59140fe294.jpg?v=1790755020&width=400",
 "type": "TOP",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "G-leather jacket 508398",
@@ -833,7 +866,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/97b47e7c-a35d-463c-ab92-e5084e9030e1.jpg?v=1790074660&width=400",
 "type": "top",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "G- TOP 5068",
@@ -1122,28 +1155,6 @@
 "in": true
 },
 {
-"t": "G-top261129",
-"u": "https://www.hashtag-lb.com/products/g-top261129",
-"p": 35.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/046cbc80-095e-41c9-9c8e-f7ecd412ab6f.jpg?v=1789902063&width=400",
-"type": "top",
-"tags": [],
-"in": false
-},
-{
-"t": "G-top 241184",
-"u": "https://www.hashtag-lb.com/products/g-top-241184",
-"p": 35.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/7e44f23b-bbb3-4fc1-9f42-ed4248b0c480.jpg?v=1789901843&width=400",
-"type": "top",
-"tags": [],
-"in": false
-},
-{
 "t": "G-chemise-261035",
 "u": "https://www.hashtag-lb.com/products/g-chemise-261035",
 "p": 32.0,
@@ -1340,17 +1351,6 @@
 "type": "top",
 "tags": [],
 "in": true
-},
-{
-"t": "top 17306",
-"u": "https://www.hashtag-lb.com/products/top-17306",
-"p": 19.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/5c08f2e2-1215-4ac7-8cff-0f528fef4adc.jpg?v=1788694804&width=400",
-"type": "top",
-"tags": [],
-"in": false
 },
 {
 "t": "top 17867",
@@ -1978,17 +1978,6 @@
 "type": "pants",
 "tags": [],
 "in": true
-},
-{
-"t": "top",
-"u": "https://www.hashtag-lb.com/products/top-11",
-"p": 19.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/8711ad67-d31d-4baf-902e-10e759d4c4e0.jpg?v=1780412179&width=400",
-"type": "TOP",
-"tags": [],
-"in": false
 },
 {
 "t": "wide leg pants 3317",

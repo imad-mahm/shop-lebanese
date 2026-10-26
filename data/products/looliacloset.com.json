@@ -281,7 +281,7 @@
 "hide_product_status",
 "SEARCHANISE_IGNORE"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Gift From La Roche-Posay : Anthelios UV Mune 400 Anti Dark Spot spf50",
@@ -299,7 +299,7 @@
 "La Roche-Posay",
 "SEARCHANISE_IGNORE"
 ],
-"in": true
+"in": false
 },
 {
 "t": "The Magic Box",
@@ -3551,7 +3551,7 @@
 "Eau De Parfum",
 "LATTAFA"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Quinine Intense Growth Accelerator Serum with Adenosine, 100ml",
@@ -3715,7 +3715,7 @@
 "Serum_moment",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "PDRN Pink Vita Coating Mask",
@@ -4229,7 +4229,7 @@
 "L'Oréal Paris",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "2x Micellar Water + FREE Cotton Holder At 20% OFF",
@@ -4821,7 +4821,7 @@
 "Maybelline New York",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "New Colossal Bubble Mascara + Lip Gloss + Vinyl Ink Lipstick + FREE Pouch At 10% OFF",
@@ -11336,7 +11336,7 @@
 "CPD_EXC_17March",
 "CPD_EXMay26"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Blueberry Sorbet",
@@ -11435,7 +11435,7 @@
 "Fragrance Set",
 "Tubbees"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Blueberry Sorbet Body Mist",
@@ -13954,7 +13954,7 @@
 "Skin Glow Edit",
 "Summer_2026"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Johnson's Intense Body Lotion 400 mL",
@@ -14833,7 +14833,7 @@
 "Skin Glow Edit",
 "skincare must"
 ],
-"in": true
+"in": false
 },
 {
 "t": "L’Oréal Revitalift Retinol Serum & Day Cream SPF25 Bundle + FREE Pouch At 15% OFF",
@@ -15351,7 +15351,7 @@
 "Fall_Into_Hydra",
 "Skin Glow Edit"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Bepanthen Derma Regenerating Night Face Cream 50ml",
@@ -17601,7 +17601,7 @@
 "Kérastase",
 "oil&serum"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Excellence Crème Universal Nudes Hair Coloration, Ammonia-free Conditioning Coloration",
@@ -21782,7 +21782,7 @@
 "Mother's_Day26",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Nutritive Bain Satin Riche - Very Dry Hair + Nutritive Lotion Thermique Sublimatrice - Leave-In + FREE Packaging At 10% OFF",
@@ -26433,7 +26433,7 @@
 "Essence",
 "Essence New"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Juicy Bomb Party Jumbo Lipgloss",
@@ -32924,7 +32924,7 @@
 "fragrances must",
 "Halloween 2025"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Victoria",
@@ -38812,7 +38812,7 @@
 "for-her",
 "Hair Mist"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Butter'd Up Tanning Butter",
@@ -39632,7 +39632,7 @@
 "CPD_ex_april26",
 "CPD_EXC_17March"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Essie Color - Jelly Slushy Sun 136",
@@ -43299,7 +43299,7 @@
 "Face Serum",
 "Fall_Into_Hydra"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Xemose Huile Lavante",
@@ -48058,7 +48058,7 @@
 "discount-20-to-30",
 "Kiehl Sampling Campaign"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Anthelios UVMune 400 Moisturizing Sunscreen SPF50+",
@@ -48318,7 +48318,7 @@
 "Face Care",
 "first_in_collection"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Lipikar Baume Ap+M Moisturizing for Dry and Eczema-Prone Skin",
@@ -49237,7 +49237,7 @@
 "Makeup",
 "Shiseido"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Holiday 24 Blockbuster Prestige",
