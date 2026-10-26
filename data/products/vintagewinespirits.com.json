@@ -1,5 +1,19 @@
 [
 {
+"t": "Château Tronquoy Saint-Estèphe 2020",
+"u": "https://vintagewinespirits.com/products/chateau-tronquoy-saint-estephe-2020",
+"p": 76.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0738/8597/4801/files/Tronquoystestephe2020.png?v=1793010611&width=400",
+"type": "Wine",
+"tags": [
+"red",
+"red wine"
+],
+"in": true
+},
+{
 "t": "Nebbiolo D'Alba Michet Marchesi Di Barolo 2023",
 "u": "https://vintagewinespirits.com/products/nebbiolo-dalba-michet-marchesi-di-barolo-2023",
 "p": 52.0,
@@ -4576,7 +4590,7 @@
 {
 "t": "Olivier Leflaive Bourgogne Les Setilles 2021",
 "u": "https://vintagewinespirits.com/products/olivier-leflaive-bourgogne-les-setilles",
-"p": 59.5,
+"p": 65.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0738/8597/4801/files/OlivierLeflaiveBourgogneLesSetilles.png?v=1745825877&width=400",
@@ -4736,7 +4750,7 @@
 "red",
 "red meat"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Marquis De Mons 2016",

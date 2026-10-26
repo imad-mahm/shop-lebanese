@@ -1,5 +1,16 @@
 [
 {
+"t": "Vichy Liftactiv Collagen 16 Eye Serum to Boost and Bond All Collagen Families with Co Bonding Technology For Men and Women, 15ml",
+"u": "https://sohaticare.com/products/vichy-liftactiv-collagen-16-eye-serum-to-boost-and-bond-all-collagen-families-with-co-bonding-technology-for-men-and-women-15ml",
+"p": 37.98,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/3337875943932_1.jpg?v=1793002902&width=400",
+"type": "Eye Serum",
+"tags": [],
+"in": true
+},
+{
 "t": "Lumi-Matte Foundation + Tattoo Liner Pen + Instant Age Rewind Concealer + FREE Surprise Treat At 20% OFF",
 "u": "https://sohaticare.com/products/lumi-matte-foundation-tattoo-liner-pen-instant-age-rewind-concealer-free-surprise-treat-at-20-off",
 "p": 26.0,
@@ -132,7 +143,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/antihairlossserum.png?v=1778755458&width=400",
 "type": "Hair Serum",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Anti Hair Loss Conditioner 200 ml",
@@ -154,7 +165,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/antihairlossshampoo.png?v=1778755399&width=400",
 "type": "Shampoo",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Rosemary Strenghtening hair oil 50 ml",
@@ -1363,8 +1374,8 @@
 {
 "t": "A-Derma Epitheliale Ultra-Repair Balm-Patch 50g",
 "u": "https://sohaticare.com/products/a-derma-epitheliale-ultra-repair-balm-patch-50g",
-"p": 22.0,
-"c": null,
+"p": 16.5,
+"c": 22.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/1_11_943e6b0b-76a3-4916-bae3-9a77d911eca0.png?v=1790593215&width=400",
 "type": "Balm",
@@ -1394,9 +1405,9 @@
 "hair growth",
 "hair loss",
 "Klorane",
+"priceUpdate",
 "quinine",
-"shampoing",
-"shampoo"
+"shampoing"
 ],
 "in": true
 },
@@ -1416,7 +1427,7 @@
 "hair growth",
 "hair loss",
 "Klorane",
-"quinine"
+"priceUpdate"
 ],
 "in": true
 },
@@ -1434,9 +1445,9 @@
 "hair growth",
 "hair loss",
 "Klorane",
+"priceUpdate",
 "quinine",
-"serum",
-"strengthening"
+"serum"
 ],
 "in": true
 },
@@ -1859,7 +1870,9 @@
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/1_17_d9df861e-7790-4ade-9818-695a1eeb6e68.png?v=1790596323&width=400",
 "type": "Shampoo",
-"tags": [],
+"tags": [
+"priceUpdate"
+],
 "in": false
 },
 {
@@ -1958,7 +1971,9 @@
 "type": "Set",
 "tags": [
 "backtoschool-exclusive",
+"discount-change-pf-oct26",
 "PF_Sale_25",
+"priceUpdate",
 "TOPOFFER"
 ],
 "in": false
@@ -2264,7 +2279,9 @@
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/d1_80811cd1-eb65-4b3d-98e2-da1ec4cfeab6.png?v=1778491060&width=400",
 "type": "Lip Balm",
-"tags": [],
+"tags": [
+"priceUpdate"
+],
 "in": true
 },
 {
@@ -2275,7 +2292,9 @@
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/t1_8d833fe1-a953-45de-8aef-16937516b345.png?v=1781164629&width=400",
 "type": "Tinted Sunscreen",
-"tags": [],
+"tags": [
+"priceUpdate"
+],
 "in": false
 },
 {
@@ -2306,7 +2325,9 @@
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/a1_151e724b-f768-4f12-a68a-fec54e8a07c4.png?v=1781261638&width=400",
 "type": "Sunscreen",
-"tags": [],
+"tags": [
+"priceUpdate"
+],
 "in": true
 },
 {
@@ -2318,7 +2339,8 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/a1_57e40bc4-498c-49e5-9008-4c90ef930fc5.png?v=1778489857&width=400",
 "type": "Tinted Compact",
 "tags": [
-"eta_june26"
+"eta_june26",
+"priceUpdate"
 ],
 "in": true
 },
@@ -4340,9 +4362,9 @@
 "BOGO-Collection",
 "Bundle",
 "COMPENSATION_AUG26",
+"discount-change-pf-oct26",
 "Giftset",
-"PF_Sale_25",
-"summer_bundles_skincare-aug26"
+"PF_Sale_25"
 ],
 "in": false
 },
@@ -4972,7 +4994,9 @@
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/avene-xeracalm-a-d-lipid-replenishing-cleansing-oil-750ml_1_1.jpg?v=1775894012&width=400",
 "type": "",
-"tags": [],
+"tags": [
+"priceUpdate"
+],
 "in": true
 },
 {
@@ -5662,7 +5686,8 @@
 "type": "Cleanser Gel",
 "tags": [
 "not-included-kelual-campaign",
-"pf-bck-to-schl-cmpgn"
+"pf-bck-to-schl-cmpgn",
+"priceUpdate"
 ],
 "in": true
 },
@@ -5675,7 +5700,8 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/1_8_68e1d3c2-2c3a-42cd-8f45-763aabe020f5.png?v=1784288445&width=400",
 "type": "Moisturizing Cream",
 "tags": [
-"avene-suncare"
+"avene-suncare",
+"priceUpdate"
 ],
 "in": true
 },
@@ -5688,7 +5714,8 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/1_7_ae5b9fdd-eb3a-494e-bf93-5e3a77dbac56.png?v=1784288193&width=400",
 "type": "Sunscreen",
 "tags": [
-"avene-suncare"
+"avene-suncare",
+"priceUpdate"
 ],
 "in": true
 },
@@ -7002,7 +7029,7 @@
 {
 "t": "Buy Two Get One Rene Furterer Forticea Eenergizing Shampoo 200ml",
 "u": "https://sohaticare.com/products/buy-rene-furterer-color-glow-repairing-mask-200-ml-get-a-free-200ml-color-glow-shampoo-copy",
-"p": 33.8,
+"p": 39.0,
 "c": 52.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/1_16.png?v=1782904440&width=400",
@@ -7010,7 +7037,9 @@
 "tags": [
 "backtoschool-exclusive",
 "BOGO-Collection",
+"discount-change-pf-oct26",
 "PF_Sale_25",
+"priceUpdate",
 "TOPOFFER",
 "TOPOFFERS"
 ],
@@ -7019,7 +7048,7 @@
 {
 "t": "Buy Two Get One Rene Furterer Sublime Curl Enhancing Shampoo 200ml",
 "u": "https://sohaticare.com/products/buy-two-get-one-rene-furterer-forticea-eenergizing-shampoo-200ml-copy",
-"p": 32.5,
+"p": 31.5,
 "c": 50.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/1_17.png?v=1782905561&width=400",
@@ -7027,7 +7056,9 @@
 "tags": [
 "backtoschool-exclusive",
 "BOGO-Collection",
+"discount-change-pf-oct26",
 "PF_Sale_25",
+"priceUpdate",
 "TOPOFFER",
 "TOPOFFERS"
 ],
@@ -7044,7 +7075,8 @@
 "tags": [
 "avene-suncare",
 "FRENCHWEEK2025",
-"pierre_fabre_portfolio"
+"pierre_fabre_portfolio",
+"priceUpdate"
 ],
 "in": true
 },
@@ -7145,7 +7177,7 @@
 {
 "t": "Buy Ducray Neoptide Expert Anti-hair loss & growth serum 100 ml & get a FREE 100ml Anaphase anti-thinning shampoo",
 "u": "https://sohaticare.com/products/buy-two-get-one-kelual-ds-anti-dandruff-treatment-shampoo-100ml-copy",
-"p": 46.14,
+"p": 53.24,
 "c": 70.99,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/1_21.png?v=1782907022&width=400",
@@ -7153,8 +7185,10 @@
 "tags": [
 "backtoschool-exclusive",
 "BOGO-Collection",
+"discount-change-pf-oct26",
 "FRENCHWEEK2025",
 "PF_Sale_25",
+"priceUpdate",
 "TOPOFFER",
 "TOPOFFERS"
 ],
@@ -7163,7 +7197,7 @@
 {
 "t": "Buy Two Get One Ducray Extra-Gentle Dermo-protective shampoo 400ml",
 "u": "https://sohaticare.com/products/buy-two-get-one-rene-furterer-sublime-curl-enhancing-shampoo-200ml-copy",
-"p": 31.2,
+"p": 36.0,
 "c": 48.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/1_18_85ce02fb-c52d-43da-9e8a-e797ef95f62e.png?v=1782906230&width=400",
@@ -7171,8 +7205,10 @@
 "tags": [
 "backtoschool-exclusive",
 "BOGO-Collection",
+"discount-change-pf-oct26",
 "FRENCHWEEK2025",
 "PF_Sale_25",
+"priceUpdate",
 "TOPOFFER",
 "TOPOFFERS"
 ],
@@ -8649,6 +8685,7 @@
 "backtoschool-exclusive",
 "BOGO-Collection",
 "FRENCHWEEK2025",
+"priceUpdate",
 "TOPOFFER",
 "TOPOFFERS"
 ],
@@ -9328,7 +9365,8 @@
 "tags": [
 "avene-suncare",
 "FRENCHWEEK2025",
-"pierre_fabre_portfolio"
+"pierre_fabre_portfolio",
+"priceUpdate"
 ],
 "in": true
 },
@@ -9347,14 +9385,15 @@
 "backtoschool-exclusive",
 "eta_june26",
 "Face Serum",
-"FRENCHWEEK2025"
+"FRENCHWEEK2025",
+"priceUpdate"
 ],
 "in": true
 },
 {
 "t": "Buy Klorane Petit Brin Scented Water & get a FREE 100ml Organic Change Cream",
 "u": "https://sohaticare.com/products/buy-klorane-petit-brin-scented-water-get-a-free-100ml-organic-change-cream",
-"p": 15.59,
+"p": 17.99,
 "c": 23.99,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/k1_05709a8f-64ad-4462-a034-f76e380f07b4.png?v=1780651291&width=400",
@@ -9363,18 +9402,18 @@
 "backtoschool-exclusive",
 "BOGO-Collection",
 "bogo_pierrefabre",
+"discount-change-pf-oct26",
 "FRENCHWEEK2025",
 "PF_Sale_25",
 "pf_sets_june26",
-"TOPOFFER",
-"TOPOFFERS"
+"priceUpdate"
 ],
 "in": true
 },
 {
 "t": "Buy Ducray Dexyane Med Soothing Repair Cream & get a FREE 100ml Ultra-Rich Cleansing Gel",
 "u": "https://sohaticare.com/products/buy-ducray-dexyane-med-soothing-repair-cream-get-a-free-100ml-ultra-rich-cleansing-gel",
-"p": 16.57,
+"p": 19.13,
 "c": 25.5,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/d1_f7141ede-cfdf-4f23-92fc-300f60c4d200.png?v=1780651137&width=400",
@@ -9383,19 +9422,19 @@
 "backtoschool-exclusive",
 "BOGO-Collection",
 "bogo_pierrefabre",
+"discount-change-pf-oct26",
 "ducray_hair",
 "ducray_skinhair_june26",
 "FRENCHWEEK2025",
-"PF_Sale_25",
-"pf_sets_june26"
+"PF_Sale_25"
 ],
 "in": false
 },
 {
 "t": "Buy Avène 1.2 Sand cream compact foundation & get a FREE 100ml Avène micellar lotion",
 "u": "https://sohaticare.com/products/buy-avene-1-2-sand-cream-compact-foundation-get-a-free-100ml-avene-micellar-lotion",
-"p": 18.23,
-"c": 28.05,
+"p": 24.75,
+"c": 33.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/s1_2a385526-7ebd-44a8-94f6-67abe325d269.png?v=1780650973&width=400",
 "type": "Set",
@@ -9405,17 +9444,17 @@
 "backtoschool-exclusive",
 "BOGO-Collection",
 "bogo_pierrefabre",
+"discount-change-pf-oct26",
 "eta_june26",
-"eta_june26_sets",
-"FRENCHWEEK2025"
+"eta_june26_sets"
 ],
 "in": true
 },
 {
 "t": "Buy Avène 1.1 Natural cream compact foundation & get a FREE 100ml Avène micellar lotion",
 "u": "https://sohaticare.com/products/buy-avene-1-1-natural-cream-compact-foundation-get-a-free-100ml-avene-micellar-lotion",
-"p": 18.23,
-"c": 28.05,
+"p": 24.75,
+"c": 33.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/n1_00cf7478-6cd9-4169-9be4-fb71ac843063.png?v=1780650871&width=400",
 "type": "Set",
@@ -9425,17 +9464,17 @@
 "backtoschool-exclusive",
 "BOGO-Collection",
 "bogo_pierrefabre",
+"discount-change-pf-oct26",
 "eta_june26",
-"eta_june26_sets",
-"FRENCHWEEK2025"
+"eta_june26_sets"
 ],
 "in": true
 },
 {
 "t": "Buy Avène Sunscreen tinted cream SPF50+ & get a FREE 50ml after-sun repair lotion",
 "u": "https://sohaticare.com/products/buy-avene-sunscreen-tinted-cream-spf50-get-a-free-50ml-after-sun-repair-lotion",
-"p": 12.7,
-"c": 19.54,
+"p": 17.25,
+"c": 23.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/T1_fe1e12c3-91b8-4ced-b8f8-7f65f669f528.png?v=1780650251&width=400",
 "type": "Set",
@@ -9446,15 +9485,15 @@
 "backtoschool-exclusive",
 "BOGO-Collection",
 "bogo_pierrefabre",
-"eta_june26",
-"eta_june26_sets"
+"discount-change-pf-oct26",
+"eta_june26"
 ],
 "in": true
 },
 {
 "t": "Buy Avène Cicalfate multi-protective skin repair cream & get a FREE 100ml Cicalfate instant repairing protective cream",
 "u": "https://sohaticare.com/products/buy-avene-cicalfate-multi-protective-skin-repair-cream-get-a-free-100ml-cicalfate-instant-repairing-protective-cream",
-"p": 16.25,
+"p": 18.75,
 "c": 25.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/CI1.png?v=1780650081&width=400",
@@ -9465,9 +9504,9 @@
 "backtoschool-exclusive",
 "BOGO-Collection",
 "bogo_pierrefabre",
+"discount-change-pf-oct26",
 "eta_june26",
-"eta_june26_sets",
-"FRENCHWEEK2025"
+"eta_june26_sets"
 ],
 "in": false
 },
@@ -9486,16 +9525,16 @@
 "BOGO-Collection",
 "bogo_pierrefabre",
 "cleanance bundles",
-"eta_june26",
-"eta_june26_sets"
+"discount-change-pf-oct26",
+"eta_june26"
 ],
 "in": false
 },
 {
 "t": "Buy Avène Hyaluron Activ B3 concentrated plumping serum & get a FREE 10ml serum | Plumping Duo",
 "u": "https://sohaticare.com/products/buy-avene-hyaluron-activ-b3-concentrated-plumping-serum-get-a-free-10ml-serum-plumping-duo",
-"p": 28.73,
-"c": 44.2,
+"p": 39.0,
+"c": 52.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/h1_4a5ac922-c700-4443-9d39-97df9ef4ace4.png?v=1780648014&width=400",
 "type": "Set",
@@ -9506,16 +9545,16 @@
 "backtoschool-exclusive",
 "BOGO-Collection",
 "bogo_pierrefabre",
-"eta_june26",
-"eta_june26_sets"
+"discount-change-pf-oct26",
+"eta_june26"
 ],
 "in": false
 },
 {
 "t": "Buy Avène Radiance Vitamin Activ Cg Corrector serum & get a FREE 10ml Hyaluron activ B3 plumping serum",
 "u": "https://sohaticare.com/products/buy-avene-radiance-vitamin-activ-cg-corrector-serum-get-a-free-10ml-hyaluron-activ-b3-plumping-serum",
-"p": 26.61,
-"c": 40.94,
+"p": 36.0,
+"c": 48.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/a1_431a3a22-17ee-416b-a2b0-1bf6ad4be931.png?v=1780647349&width=400",
 "type": "Set",
@@ -9525,9 +9564,9 @@
 "avene_bundle_setmay26",
 "backtoschool-exclusive",
 "bogo_pierrefabre",
+"discount-change-pf-oct26",
 "eta_june26",
-"eta_june26_sets",
-"FRENCHWEEK2025"
+"eta_june26_sets"
 ],
 "in": false
 },
@@ -9563,18 +9602,18 @@
 "backtoschool-exclusive",
 "Bundle",
 "COMPENSATION_JUNE26",
+"discount-change-pf-oct26",
 "FRENCHWEEK2025",
 "Giftset",
 "klorane-quinine-range",
-"pf-hair-campaign-klorane",
-"PF_Sale_25"
+"pf-hair-campaign-klorane"
 ],
 "in": false
 },
 {
 "t": "Buy Two Get One Klorane Oat Shampoo 400ml",
 "u": "https://sohaticare.com/products/buy-ducray-kelual-squanorm-anti-dandruff-treatment-shampoo-get-a-free-100ml-elution-rebalancing-anti-dandruff-shampoo-copy",
-"p": 24.0,
+"p": 20.8,
 "c": 32.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/1_1_7eb130c2-211b-433c-95e7-90d60b6f53f9.png?v=1780519094&width=400",
@@ -9584,10 +9623,10 @@
 "BOGO-Collection",
 "Bundle",
 "COMPENSATION_JUNE26",
+"discount-change-pf-oct26",
 "FRENCHWEEK2025",
 "Giftset",
-"pf-hair-campaign-klorane",
-"PF_Sale_25"
+"pf-hair-campaign-klorane"
 ],
 "in": true
 },
@@ -9605,9 +9644,9 @@
 "bogo_pierrefabre",
 "Bundle",
 "COMPENSATION_JUNE26",
+"discount-change-pf-oct26",
 "ducray_hair",
-"ducray_skinhair_june26",
-"FRENCHWEEK2025"
+"ducray_skinhair_june26"
 ],
 "in": false
 },
@@ -10052,11 +10091,11 @@
 "bogo_pierrefabre",
 "Bundle",
 "COMPENSATION_MAY26",
+"discount-change-pf-oct26",
 "eta_june26",
-"FRENCHWEEK2025",
-"Giftset"
+"FRENCHWEEK2025"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Buy Hyaluron Activ B3 Concentrated plumping serum Get Free Avène Hyaluron creme du jour pot 7ml",
@@ -10087,7 +10126,8 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/k1.png?v=1778491257&width=400",
 "type": "Shampoo",
 "tags": [
-"FRENCHWEEK2025"
+"FRENCHWEEK2025",
+"priceUpdate"
 ],
 "in": true
 },
@@ -10304,8 +10344,8 @@
 {
 "t": "Buy one Avène Hydrating Emulsion Hydrance Light and get a FREE 150ml Avène Cleansing Foam",
 "u": "https://sohaticare.com/products/buy-one-avene-hydrating-emulsion-hydrance-light-and-get-a-free-150ml-avene-cleansing-foam",
-"p": 20.15,
-"c": 31.0,
+"p": 31.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/a1_a728a96e-50af-4541-9a21-3ff56d06a507.png?v=1777040475&width=400",
 "type": "Set",
@@ -10313,19 +10353,19 @@
 "anti_june26",
 "backtoschool-exclusive",
 "bogoavene",
+"discount-change-pf-oct26",
 "eta_june26",
 "FRENCHWEEK2025",
 "pf_bogo",
-"PF_Sale_25",
-"TOPOFFER"
+"PF_Sale_25"
 ],
 "in": false
 },
 {
 "t": "Buy one Avène Hydrance UV Light SPF 30 Emulsion and get a FREE 150ml Avène Cleansing Foam.",
 "u": "https://sohaticare.com/products/buy-one-avene-hydrance-uv-light-spf-30-emulsion-and-get-a-free-150ml-avene-cleansing-foam",
-"p": 20.8,
-"c": 32.0,
+"p": 32.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/L1_43fa1637-13ab-45df-940a-a8bd05eb41e8.png?v=1777040775&width=400",
 "type": "Set",
@@ -10333,11 +10373,11 @@
 "anti_june26",
 "backtoschool-exclusive",
 "bogoavene",
+"discount-change-pf-oct26",
 "eta_june26",
 "FRENCHWEEK2025",
 "pf_bogo",
-"PF_Sale_25",
-"TOPOFFER"
+"PF_Sale_25"
 ],
 "in": false
 },
@@ -10377,8 +10417,8 @@
 {
 "t": "Buy 1 Get 1  Buy Cleanance cleansing gel 400ml Get Cleanance cleansing gel 200ml",
 "u": "https://sohaticare.com/products/buy-1-get-1-buy-cleanance-cleansing-gel-400ml-get-cleanance-cleansing-gel-200ml",
-"p": 15.6,
-"c": 24.0,
+"p": 24.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/2_238db7a2-d35e-4b80-83e4-c0e58586953f.png?v=1769075830&width=400",
 "type": "Set",
@@ -10386,11 +10426,11 @@
 "anti_june26",
 "avene2",
 "bogoavene",
+"discount-change-pf-oct26",
 "eta_june26",
 "FRENCHWEEK2025",
 "pf_bogo",
-"PF_Sale_25",
-"PFBuy1Get1"
+"PF_Sale_25"
 ],
 "in": false
 },
@@ -10522,7 +10562,8 @@
 "avene_june26",
 "backtoschool-exclusive",
 "eta_june26",
-"FRENCHWEEK2025"
+"FRENCHWEEK2025",
+"priceUpdate"
 ],
 "in": true
 },
@@ -10542,7 +10583,7 @@
 "bogoavene",
 "Bundle",
 "COMPENSATION_FEB26",
-"eta_june26"
+"discount-change-pf-oct26"
 ],
 "in": false
 },
@@ -11209,8 +11250,8 @@
 {
 "t": "Buy 1 Get 1  Avène Ultra Fluid Invisible SPF50+ Sunscreen 50ml",
 "u": "https://sohaticare.com/products/buy-1-get-1-avene-ultra-fluid-invisible-spf50-sunscreen-50ml",
-"p": 18.85,
-"c": 29.0,
+"p": 29.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/aveneset.png?v=1772628131&width=400",
 "type": "Set",
@@ -11222,7 +11263,7 @@
 "backtoschool-exclusive",
 "BOGO-Collection",
 "bogoavene",
-"eta_june26"
+"discount-change-pf-oct26"
 ],
 "in": false
 },
@@ -11419,10 +11460,10 @@
 "avene_bundle_setmay26",
 "backtoschool-exclusive",
 "Bundle",
+"discount-change-pf-oct26",
 "eta_june26",
 "exclusivedeals_may26",
-"FRENCHWEEK2025",
-"Giftset"
+"FRENCHWEEK2025"
 ],
 "in": false
 },
@@ -11646,9 +11687,9 @@
 "avene_bundle_setmay26",
 "bogo_pierrefabre",
 "bogoavene",
+"discount-change-pf-oct26",
 "eta_june26",
-"FRENCHWEEK2025",
-"pf_bogo"
+"FRENCHWEEK2025"
 ],
 "in": false
 },
@@ -11686,7 +11727,8 @@
 "backtoschool-exclusive",
 "eta_june26",
 "eta_may26",
-"FRENCHWEEK2025"
+"FRENCHWEEK2025",
+"priceUpdate"
 ],
 "in": true
 },
@@ -11733,8 +11775,8 @@
 {
 "t": "Buy one Avène Intensive Radiance Vitamin Activ Cg Cream and get a FREE 150ml Avène Cleansing Foam",
 "u": "https://sohaticare.com/products/buy-one-avene-intensive-radiance-vitamin-activ-cg-cream-and-get-a-free-150ml-avene-cleansing-foam",
-"p": 40.3,
-"c": 62.0,
+"p": 62.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/C1_8c73f173-5086-4eaa-b393-6ccb76ae6b11.png?v=1777041116&width=400",
 "type": "Set",
@@ -11745,8 +11787,8 @@
 "backtoschool-exclusive",
 "bogo_pierrefabre",
 "bogoavene",
-"eta_june26",
-"exclusivedeals_may26"
+"discount-change-pf-oct26",
+"eta_june26"
 ],
 "in": false
 },
@@ -11761,6 +11803,7 @@
 "tags": [
 "backtoschool-exclusive",
 "bogo_pierrefabre",
+"discount-change-pf-oct26",
 "exclusivedeals_may26",
 "pf_bogo",
 "PF_Sale_25",
@@ -13019,7 +13062,8 @@
 "tags": [
 "adha_15",
 "adha_26",
-"backtoschool-exclusive"
+"backtoschool-exclusive",
+"priceUpdate"
 ],
 "in": true
 },
@@ -13033,9 +13077,11 @@
 "type": "Bundle",
 "tags": [
 "bogo_pierrefabre",
+"discount-change-pf-oct26",
 "FRENCHWEEK2025",
 "Klorane Bebe",
-"PF_Sale_25"
+"PF_Sale_25",
+"priceUpdate"
 ],
 "in": false
 },
@@ -13049,17 +13095,19 @@
 "type": "Bundle",
 "tags": [
 "bogo_pierrefabre",
+"discount-change-pf-oct26",
 "FRENCHWEEK2025",
 "Klorane Bebe",
-"PF_Sale_25"
+"PF_Sale_25",
+"priceUpdate"
 ],
 "in": false
 },
 {
 "t": "Buy One Get One Ducray Keracnyl Foaming Gel 400ml",
 "u": "https://sohaticare.com/products/buy-one-get-one-ducray-keracnyl-foaming-gel-400ml",
-"p": 14.95,
-"c": 23.0,
+"p": 23.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/22_87119c59-33d7-4f47-b6b1-200a45446c6e.png?v=1775728324&width=400",
 "type": "Set",
@@ -13067,25 +13115,29 @@
 "backtoschool-exclusive",
 "BOGO-Collection",
 "bogo_pierrefabre",
+"discount-change-pf-oct26",
 "ducray_skinhair_june26",
 "FRENCHWEEK2025",
-"PF_Sale_25"
+"PF_Sale_25",
+"priceUpdate"
 ],
 "in": false
 },
 {
 "t": "Buy One Get One Hidrosis Control Antiperspirant Roll-on",
 "u": "https://sohaticare.com/products/buy-one-get-one-hidrosis-control-antiperspirant-roll-on",
-"p": 11.05,
-"c": 17.0,
+"p": 17.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/15_a889b9e0-b803-4d20-bd84-e879c8b0f891.png?v=1775728274&width=400",
 "type": "Set",
 "tags": [
 "bogo_pierrefabre",
+"discount-change-pf-oct26",
 "ducray_skinhair_june26",
 "FRENCHWEEK2025",
-"PF_Sale_25"
+"PF_Sale_25",
+"priceUpdate"
 ],
 "in": false
 },
@@ -13101,7 +13153,9 @@
 "backtoschool-exclusive",
 "BOGO-Collection",
 "bogo_pierrefabre",
+"discount-change-pf-oct26",
 "PF_Sale_25",
+"priceUpdate",
 "TOPOFFER"
 ],
 "in": true
@@ -13118,7 +13172,9 @@
 "backtoschool-exclusive",
 "BOGO-Collection",
 "bogo_pierrefabre",
+"discount-change-pf-oct26",
 "PF_Sale_25",
+"priceUpdate",
 "TOPOFFER"
 ],
 "in": false
@@ -13135,8 +13191,10 @@
 "backtoschool-exclusive",
 "BOGO-Collection",
 "bogo_pierrefabre",
+"discount-change-pf-oct26",
 "exclusivedeals_may26",
 "PF_Sale_25",
+"priceUpdate",
 "TOPOFFER"
 ],
 "in": false
@@ -14411,25 +14469,6 @@
 "in": true
 },
 {
-"t": "Nutripo Acne Wash 250 mL + Matipore Salicylic Acid 30 mL + Nutripo Acne Wash 250 mL (Gift)",
-"u": "https://sohaticare.com/products/hyaluronic-1-facial-serum-30-ml-vitamin-c-10-facial-serum-30-ml-facial-wash-200ml-gift-copy",
-"p": 19.58,
-"c": 29.28,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/NutripoBundlesPackshots3.jpg?v=1774532971&width=400",
-"type": "Bundle",
-"tags": [
-"backtoschool-exclusive",
-"Bundle",
-"COMPENSATION_MAR26",
-"Giftset",
-"openstock_nutripomay26",
-"TOPOFFER",
-"TOPOFFERS"
-],
-"in": true
-},
-{
 "t": "Hyaluronic 1% Facial Serum 30 mL+ Vitamin C 10%  Facial Serum 30 mL +Facial Wash 200ml (Gift)",
 "u": "https://sohaticare.com/products/hyal-c-facial-serum-30-ml-lift-c-serum-30-ml-facial-wash-200ml-gift-copy",
 "p": 38.83,
@@ -14870,7 +14909,7 @@
 "Fatal_electro_apr26_available",
 "mencorner"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Braun All in One Trimmer Serie 3 AIO3560",
@@ -15161,8 +15200,8 @@
 {
 "t": "Buy Avène Sunscreen spray SPF50+ 200ml Get Avène Thermal Spring Water Spray 50ml | Light Weight & Invisible High Protection & Hydration",
 "u": "https://sohaticare.com/products/buy-avene-sunscreen-spray-spf50-200ml-get-avene-thermal-spring-water-spray-50ml-light-weight-invisible-high-protection-hydration",
-"p": 22.1,
-"c": 34.0,
+"p": 34.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/1_9815bccb-b2ec-4592-a903-94b3b47df330.png?v=1773922350&width=400",
 "type": "Set",
@@ -15171,10 +15210,10 @@
 "avene-suncare",
 "avene_bundle_setmay26",
 "bogoavene",
+"discount-change-pf-oct26",
 "eta_june26",
 "exclusivedeals_may26",
-"FRENCHWEEK2025",
-"pf_bogo"
+"FRENCHWEEK2025"
 ],
 "in": false
 },
@@ -15483,7 +15522,9 @@
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/aderma1.webp?v=1773751750&width=400",
 "type": "GWP",
-"tags": [],
+"tags": [
+"priceUpdate"
+],
 "in": true
 },
 {
@@ -16144,7 +16185,8 @@
 "type": "",
 "tags": [
 "FRENCHWEEK2025",
-"pierre_fabre_portfolio"
+"pierre_fabre_portfolio",
+"priceUpdate"
 ],
 "in": true
 },
@@ -16181,9 +16223,10 @@
 "backtoschool-exclusive",
 "bogo_pierrefabre",
 "Bundle",
+"discount-change-pf-oct26",
 "Giftset",
 "PF_Sale_25",
-"TOPOFFER"
+"priceUpdate"
 ],
 "in": false
 },
@@ -16200,6 +16243,7 @@
 "backtoschool-exclusive",
 "bogo_pierrefabre",
 "Bundle",
+"discount-change-pf-oct26",
 "Giftset",
 "PF_Sale_25",
 "TOPOFFER"
@@ -16219,7 +16263,8 @@
 "adha_15",
 "adha_26",
 "backtoschool-exclusive",
-"pierre_fabre_portfolio"
+"pierre_fabre_portfolio",
+"priceUpdate"
 ],
 "in": true
 },
@@ -17379,7 +17424,8 @@
 "ducray_hair",
 "ducray_skinhair_june26",
 "FRENCHWEEK2025",
-"pierre_fabre_portfolio"
+"pierre_fabre_portfolio",
+"priceUpdate"
 ],
 "in": true
 },
@@ -17397,7 +17443,8 @@
 "ducray_hair",
 "ducray_skinhair_june26",
 "FRENCHWEEK2025",
-"pierre_fabre_portfolio"
+"pierre_fabre_portfolio",
+"priceUpdate"
 ],
 "in": true
 },
@@ -17720,8 +17767,8 @@
 {
 "t": "Magnesium B6 - 30 Tablets",
 "u": "https://sohaticare.com/products/magnesium-b6-30-tablets",
-"p": 7.33,
-"c": 12.21,
+"p": 12.21,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/NewProject_15_9deaa840-3858-4f5c-b922-cbc515856dbe.png?v=1709726461&width=400",
 "type": "Sleep Aid Supplements",
@@ -17994,7 +18041,8 @@
 "type": "",
 "tags": [
 "FRENCHWEEK2025",
-"pierre_fabre_portfolio"
+"pierre_fabre_portfolio",
+"priceUpdate"
 ],
 "in": false
 },
@@ -18008,7 +18056,8 @@
 "type": "",
 "tags": [
 "FRENCHWEEK2025",
-"pierre_fabre_portfolio"
+"pierre_fabre_portfolio",
+"priceUpdate"
 ],
 "in": true
 },
@@ -18024,7 +18073,8 @@
 "adha_15",
 "adha_26",
 "backtoschool-exclusive",
-"pierre_fabre_portfolio"
+"pierre_fabre_portfolio",
+"priceUpdate"
 ],
 "in": true
 },
@@ -18501,7 +18551,8 @@
 "adha_26",
 "backtoschool-exclusive",
 "pf_newprice",
-"pierre_fabre_portfolio"
+"pierre_fabre_portfolio",
+"priceUpdate"
 ],
 "in": true
 },
@@ -19158,7 +19209,7 @@
 "NOV25DISCOUNTS_RF",
 "PF_Sale_25",
 "pierre_fabre_portfolio",
-"URGENTSUN"
+"priceUpdate"
 ],
 "in": true
 },
@@ -20090,7 +20141,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/Untitleddesign_33_3a7afa32-1098-4703-8633-c71753edcbf3.webp?v=1768826546&width=400",
 "type": "",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Men's Gym Set 4 Pieces",
@@ -20591,16 +20642,18 @@
 {
 "t": "Buy 1 Get 1  Buy A-Derma Biology micellar water 400ml  Get A-Derma Biology micellar water 400ml",
 "u": "https://sohaticare.com/products/buy-1-get-1-buy-a-derma-biology-micellar-water-400ml-get-a-derma-biology-micellar-water-400ml",
-"p": 16.25,
-"c": 25.0,
+"p": 25.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/3_e9fd0b93-40b9-41f8-a3c2-0b8fd06cbdec.png?v=1769076054&width=400",
 "type": "set",
 "tags": [
 "bogo_pierrefabre",
+"discount-change-pf-oct26",
 "pf_bogo",
 "PF_Sale_25",
-"PFBuy1Get1"
+"PFBuy1Get1",
+"priceUpdate"
 ],
 "in": false
 },
@@ -20613,6 +20666,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/4_05f2ea7a-918f-4225-96f9-350b9737c6a2.png?v=1769075965&width=400",
 "type": "Set",
 "tags": [
+"discount-change-pf-oct26",
 "ducray_hair",
 "ducray_skinhair_june26",
 "FRENCHWEEK2025",
@@ -23043,11 +23097,11 @@
 "AllPF",
 "Bundle",
 "COMPENSATION_JUNE25",
+"discount-change-pf-oct26",
 "Giftset",
 "JUNE25.SUMMER.BUNDLES",
 "PF_ADHA25",
-"pf_bogo",
-"PF_Sale_25"
+"pf_bogo"
 ],
 "in": false
 },
@@ -23360,7 +23414,7 @@
 "New In Loolia Closet2025",
 "sunkissed-look"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Sweet Swirls Citrus Bliss Set 4 Pieces",
@@ -27924,7 +27978,7 @@
 "Peptides",
 "Provitamins"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Intensive Repair Shampoo – Tropical Vanilla",
@@ -28458,18 +28512,20 @@
 {
 "t": "Thinning Hair Kit",
 "u": "https://sohaticare.com/products/thinning-hair-kit",
-"p": 35.91,
-"c": 55.25,
+"p": 55.25,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/38_d232fe52-03c3-4b3f-b5a4-b8fd3c0d82c3.png?v=1763459701&width=400",
 "type": "Set",
 "tags": [
 "CHR25SETS",
 "Coffret",
+"discount-change-pf-oct26",
 "exclusivedeals_may26",
 "FRENCHWEEK2025",
 "PF_Sale_25",
-"PfSetsNov"
+"PfSetsNov",
+"priceUpdate"
 ],
 "in": false
 },
@@ -28484,12 +28540,12 @@
 "tags": [
 "CHR25SETS",
 "Coffret",
+"discount-change-pf-oct26",
 "ducray_hair",
 "ducray_skinhair_june26",
 "DucrayAnaphase",
 "FRENCHWEEK2025",
-"PF_Sale_25",
-"PfSetsNov"
+"PF_Sale_25"
 ],
 "in": false
 },
@@ -29185,7 +29241,8 @@
 "NOV25DISCOUNTS",
 "NOV25DISCOUNTS_KLORANE",
 "NOV25DISCOUNTS_PF",
-"pierre_fabre_portfolio"
+"pierre_fabre_portfolio",
+"priceUpdate"
 ],
 "in": true
 },
@@ -30342,7 +30399,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/281113_b8d1b3e6-fa58-4b9e-877f-283e068d9c4f_1.webp?v=1761658646&width=400",
 "type": "Face Serum",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Clarins Total Eye Hydrate 20ML",
@@ -32056,7 +32113,7 @@
 "CLRNC_23",
 "CLRNC_23_40%"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Buy Lumi Blush + Plump Ambition Lip oil Get Lumi Bag",
@@ -33221,7 +33278,7 @@
 "Giftset",
 "NOV25DISCOUNTS"
 ],
-"in": true
+"in": false
 },
 {
 "t": "2x Capital Soleil UV Age SPF50+ 40ml + Mini 89 Mineral (Gift)",
@@ -35391,7 +35448,8 @@
 "NOV25DISCOUNTS",
 "NOV25DISCOUNTS_KLORANE",
 "NOV25DISCOUNTS_PF",
-"pierre_fabre_portfolio"
+"pierre_fabre_portfolio",
+"priceUpdate"
 ],
 "in": true
 },
@@ -35582,7 +35640,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/1_e137cb5b-0e50-4124-91bd-78fda1122066.webp?v=1757936928&width=400",
 "type": "",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "GLYCOLIC ACID 7% EXFOLIATING TONER 100ML/3.4FLOZ",
@@ -35593,7 +35651,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/42_0daddae9-609f-4647-92ae-2bc403863309.png?v=1757660562&width=400",
 "type": "",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "ALPHA ARBUTIN 2% + HA 60ML/2FLOZ",
@@ -35935,7 +35993,7 @@
 "tags": [
 "ORDINARYUPS"
 ],
-"in": true
+"in": false
 },
 {
 "t": "NIACINAMIDE 10% + ZINC 1% 30ML/1FLOZ",
@@ -36132,7 +36190,7 @@
 "Giftset",
 "NOV25DISCOUNTS"
 ],
-"in": true
+"in": false
 },
 {
 "t": "20% Off: Kids Gummy Omega 3 With DHA + EPA + Kids Gummy Multivitamins + Pouch",
@@ -37838,7 +37896,7 @@
 "NOV25DISCOUNTS_PF",
 "PF_Sale_25",
 "pierre_fabre_portfolio",
-"URGENTSUN"
+"priceUpdate"
 ],
 "in": true
 },
@@ -40051,7 +40109,7 @@
 "tags": [
 "OPENSTOCK"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Butter'd Up Tanning Butter",
@@ -40097,7 +40155,7 @@
 "ifran_20%_sep25",
 "ifran_black25"
 ],
-"in": true
+"in": false
 },
 {
 "t": "VITADEA  Head to Toe shampoo & shower gel 250ML",

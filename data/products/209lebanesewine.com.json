@@ -750,7 +750,7 @@
 "Food Pairing:Red meat - Beef - Pork - Lamb",
 "Food Pairing:Strong cheese - Roquefort - Blue cheese"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Atibaia White 2024",
@@ -1394,7 +1394,7 @@
 "sunset",
 "Type:Arak"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Chateau Musar White 2018",
