@@ -57,6 +57,72 @@
 "in": true
 },
 {
+"t": "KIT Cronogram Capilar (2A-4C) Love Curls 3P",
+"u": "https://curlygirlaccessories.com/product/kit-cronogram-capilar-2a-4c-love-curls-3p/",
+"p": 47.43,
+"c": null,
+"cur": "USD",
+"img": "https://curlygirlaccessories.com/wp-content/uploads/2026/10/PAPT0031-KitCronograma-2-300x300.jpg",
+"type": "Bundles &amp; Sets",
+"tags": [],
+"in": true
+},
+{
+"t": "Instant Nourishing Mask (2A-4C) Love Curls 250 g",
+"u": "https://curlygirlaccessories.com/product/instant-nourishing-mask-2a-4c-love-curls-250-g/",
+"p": 18.68,
+"c": null,
+"cur": "USD",
+"img": "https://curlygirlaccessories.com/wp-content/uploads/2026/10/PAPT0034-mascNutri-300x300.jpg",
+"type": "Masks &amp; Treatments",
+"tags": [],
+"in": true
+},
+{
+"t": "Instant Hydration Mask (2A-4C) Love Curls 250 g",
+"u": "https://curlygirlaccessories.com/product/instant-hydration-mask-2a-4c-love-curls-250-g/",
+"p": 18.68,
+"c": null,
+"cur": "USD",
+"img": "https://curlygirlaccessories.com/wp-content/uploads/2026/10/PAPT0033-mascHidrata-300x300.jpg",
+"type": "Masks &amp; Treatments",
+"tags": [],
+"in": true
+},
+{
+"t": "Reconstructing and Strengthening Mask (2A-4C) Love Curls 250 g",
+"u": "https://curlygirlaccessories.com/product/reconstructing-and-strengthening-mask-2a-4c-love-curls-250-g/",
+"p": 18.68,
+"c": null,
+"cur": "USD",
+"img": "https://curlygirlaccessories.com/wp-content/uploads/2026/10/PAPT0032-mascRecon-300x300.jpg",
+"type": "Masks &amp; Treatments",
+"tags": [],
+"in": true
+},
+{
+"t": "Snail activating gelatin (2A-4C) LOVE CURLS 420 g",
+"u": "https://curlygirlaccessories.com/product/snail-activating-gelatin-2a-4c-love-curls-420-g/",
+"p": 21.55,
+"c": null,
+"cur": "USD",
+"img": "https://curlygirlaccessories.com/wp-content/uploads/2026/10/PAPT0039-Ativadora-300x300.webp",
+"type": "Gels &amp; Custards",
+"tags": [],
+"in": true
+},
+{
+"t": "Acidifying Gelatin PH Reducer (2A-4C) LOVE CURLS 420 g",
+"u": "https://curlygirlaccessories.com/product/acidifying-gelatin-ph-reducer-2a-4c-love-curls-420-g/",
+"p": 21.55,
+"c": null,
+"cur": "USD",
+"img": "https://curlygirlaccessories.com/wp-content/uploads/2026/10/PAPT0038-Acidificante-300x300.webp",
+"type": "Gels &amp; Custards",
+"tags": [],
+"in": true
+},
+{
 "t": "Skala Strawberry Conditioner 325ml",
 "u": "https://curlygirlaccessories.com/product/skala-strawberry-conditioner-325ml/",
 "p": 12.75,
@@ -65,7 +131,7 @@
 "img": "https://curlygirlaccessories.com/wp-content/uploads/2026/03/skala-strawberry-conditioner_1024x1024-300x300.webp",
 "type": "Conditioner",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Skala Expert Mais Crespinhos Conditioner 325ml",
@@ -98,7 +164,7 @@
 "img": "https://curlygirlaccessories.com/wp-content/uploads/2026/10/amido-de-milho-condicionador-325-ml-300x300.jpg",
 "type": "Conditioner",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Skala Expert Amido de Milho Shampoo 325ml",
@@ -120,7 +186,7 @@
 "img": "https://curlygirlaccessories.com/wp-content/uploads/2026/10/images-300x300.jpg",
 "type": "Conditioner",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Skala Expert Passion Fruit and Patauá Oil Shampoo 325ml",
@@ -164,7 +230,7 @@
 "img": "https://curlygirlaccessories.com/wp-content/uploads/2026/10/NewList_4-300x300.webp",
 "type": "",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Aussie Repair & Reconstruct Hair Mask 300ml",
@@ -890,7 +956,7 @@
 "img": "https://curlygirlaccessories.com/wp-content/uploads/2026/09/sleekandglazeconditioner-300x300.webp",
 "type": "Conditioner",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Revuele Blow Dry Milk Sleek & Glaze 150 ML",
@@ -1825,7 +1891,7 @@
 "img": "https://curlygirlaccessories.com/wp-content/uploads/2026/07/img_6291-300x300.png",
 "type": "Bundles &amp; Sets",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Curloo Flexi Brush",
@@ -1914,12 +1980,34 @@
 "in": false
 },
 {
+"t": "Griffus – Shampoo Condtioner & leave in for kinky hair",
+"u": "https://curlygirlaccessories.com/product/griffus-shampoo-condtioner-leave-in-for-kinky-hair/",
+"p": 54.9,
+"c": null,
+"cur": "USD",
+"img": "https://curlygirlaccessories.com/wp-content/uploads/2026/07/Untitled-design-16-300x300.png",
+"type": "Shampoo",
+"tags": [],
+"in": false
+},
+{
 "t": "Griffus – Shampoo Condtioner & leave in for wavy hair",
 "u": "https://curlygirlaccessories.com/product/griffus-shampoo-condtioner-leave-in-for-wavy-hair/",
 "p": 55.17,
 "c": null,
 "cur": "USD",
 "img": "https://curlygirlaccessories.com/wp-content/uploads/2026/07/Untitled-design-15-300x300.png",
+"type": "Shampoo",
+"tags": [],
+"in": false
+},
+{
+"t": "Griffus – Shampoo Condtioner & leave in for curly hair",
+"u": "https://curlygirlaccessories.com/product/griffus-shampoo-condtioner-leave-in-for-curly-hair/",
+"p": 52.8,
+"c": null,
+"cur": "USD",
+"img": "https://curlygirlaccessories.com/wp-content/uploads/2026/07/Untitled-design-14-300x300.png",
 "type": "Shampoo",
 "tags": [],
 "in": false
@@ -1999,7 +2087,7 @@
 "img": "https://curlygirlaccessories.com/wp-content/uploads/2026/06/images-2-300x300.jpeg",
 "type": "Leave-In",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "WETBRUSH PADDLE DETANGLER BLACK",
@@ -2202,7 +2290,7 @@
 {
 "t": "Griffus Kids Shampoo Conditioner",
 "u": "https://curlygirlaccessories.com/product/griffus-kids-shampoo-conditioner/",
-"p": 25.0,
+"p": 34.0,
 "c": null,
 "cur": "USD",
 "img": "https://curlygirlaccessories.com/wp-content/uploads/2026/05/1-300x300.jpeg",
@@ -2697,7 +2785,7 @@
 {
 "t": "Love little curls Modeling Hair Gelatin 240 g – Griffus",
 "u": "https://curlygirlaccessories.com/product/love-little-curls-modeling-hair-gelatin-240-g-griffus/",
-"p": 14.48,
+"p": 16.65,
 "c": null,
 "cur": "USD",
 "img": "https://curlygirlaccessories.com/wp-content/uploads/2026/04/42951_2-cf99289fc8d00e3ece17407785696765-480-0-300x300.webp",
@@ -2708,7 +2796,7 @@
 {
 "t": "Love Little Curls Moisturizing Hair Mask 250 g – Griffus",
 "u": "https://curlygirlaccessories.com/product/love-little-curls-moisturizing-hair-mask-250-g-griffus/",
-"p": 14.9,
+"p": 17.13,
 "c": null,
 "cur": "USD",
 "img": "https://curlygirlaccessories.com/wp-content/uploads/2026/04/43743-edaac7dfd8788f6dfd17407778598223-480-0-300x300.webp",
@@ -2730,7 +2818,7 @@
 {
 "t": "Love Little Curls Detangling Combing Cream 300 ml – Griffus",
 "u": "https://curlygirlaccessories.com/product/love-little-curls-detangling-combing-cream-300-ml-griffus/",
-"p": 15.9,
+"p": 18.3,
 "c": null,
 "cur": "USD",
 "img": "https://curlygirlaccessories.com/wp-content/uploads/2026/04/42948_2-e642814a66277467dd17407785606432-480-0-300x300.webp",
@@ -7019,7 +7107,7 @@
 "img": "https://curlygirlaccessories.com/wp-content/uploads/2026/03/img_1934-300x300.jpeg",
 "type": "Hair Care",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Slick-Dense Define EdgeLift",
@@ -8329,7 +8417,7 @@
 "tags": [
 "SKALA Masks"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Skala 2 in 1 Watermelon Treatment Mask",
@@ -9788,7 +9876,7 @@
 "Cantu",
 "Curly Kids"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Satin Lined Hijab Bandanna",
@@ -12601,7 +12689,7 @@
 "tags": [
 "All Products"
 ],
-"in": false
+"in": true
 },
 {
 "t": "OLAPLEX NO. 4C CLARIFYING SHAMPOO 250 ml",

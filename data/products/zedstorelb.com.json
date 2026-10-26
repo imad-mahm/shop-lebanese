@@ -1,5 +1,60 @@
 [
 {
+"t": "L'Oreal Professionnel Serie Expert Absolut Repair 10-in-1 Oil",
+"u": "https://zedstorelb.com/products/loreal-professionnel-serie-expert-absolut-repair-10-in-1-oil",
+"p": 42.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/3474636977369_1300x1300_c355e1aa-1080-429e-93f3-d331d3bbdb17.webp?v=1793038213&width=400",
+"type": "Hair Care",
+"tags": [],
+"in": true
+},
+{
+"t": "Maybelline Poreless Jelly Hydrating Blur Primer",
+"u": "https://zedstorelb.com/products/maybelline-poreless-jelly-hydrating-blur-primer",
+"p": 13.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/IMG-0521.webp?v=1793038080&width=400",
+"type": "Makeup",
+"tags": [],
+"in": true
+},
+{
+"t": "Maybelline Fit Me Loose Setting Powder",
+"u": "https://zedstorelb.com/products/maybelline-fit-me-setting-powder",
+"p": 18.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/images_2ae62872-8222-47d0-b867-4400cb0353d4.jpg?v=1793037837&width=400",
+"type": "Makeup",
+"tags": [],
+"in": true
+},
+{
+"t": "NARS Natural Radiant Longwear Foundation",
+"u": "https://zedstorelb.com/products/nars-natural-radiant-longwear-foundation",
+"p": 63.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/Gobi-Light3-L3-lightwithneutralundertones.webp?v=1793037688&width=400",
+"type": "Makeup",
+"tags": [],
+"in": true
+},
+{
+"t": "NYX Professional Makeup Wallflower x Bridgerton Cheek Palette - 01",
+"u": "https://zedstorelb.com/products/nyx-professional-makeup-wallflower-x-bridgerton-cheek-palette",
+"p": 22.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/NYX-PMU-Makeup-Face-PALLETTE-BRIDGERTON-ROYAL-FLUSH-PALETTE-BRBP01-WALLFLOWER-0800897276621-Open.webp?v=1793037447&width=400",
+"type": "Makeup",
+"tags": [],
+"in": true
+},
+{
 "t": "PUPA Milano Vamp! Sexy Lashes Volume and Curve Mascara",
 "u": "https://zedstorelb.com/products/pupa-milano-vamp-sexy-lashes-volume-and-curve-mascara",
 "p": 16.0,
@@ -33,7 +88,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/N164_Wild_Figs_BOTTLE_1.webp?v=1792685759&width=400",
 "type": "naiil polish",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Ice Chestnut N472 15ml",
@@ -1365,7 +1420,7 @@
 "freegift",
 "giftcollection"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Free Gift Makeup Brush",
@@ -2030,7 +2085,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/n92LOVEPOTION.webp?v=1790697398&width=400",
 "type": "naiil polish",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "ice Deep Commitment N97 15ml",
@@ -2096,7 +2151,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/n155PurpleMajesty.webp?v=1790698048&width=400",
 "type": "naiil polish",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Ice Instant Crush N93 15ml",
@@ -2107,7 +2162,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/n93INSTANTCRUSH.webp?v=1790698784&width=400",
 "type": "naiil polish",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Ice Shady Business N245 15ml",
@@ -2140,7 +2195,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/n214PineForest.webp?v=1790698421&width=400",
 "type": "naiil polish",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Free Gift jade Roller",
@@ -3174,7 +3229,7 @@
 "kundal",
 "scalp care"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Kundal Rich Perfume Body Mist - White Musk",
@@ -3234,7 +3289,7 @@
 "medicube",
 "skin care"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Medicube EGF NAD Firming Gel Mask - Single Sheet",
@@ -3279,7 +3334,7 @@
 "medicube",
 "skin care"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Cosmaline Hair & Body Mist - Celebrate Life in Full Bloom Amber Bloom",
@@ -3423,7 +3478,7 @@
 "freegift",
 "giftcollection"
 ],
-"in": true
+"in": false
 },
 {
 "t": "L'Oreal Paris Elvive Collagen Lifter Fiber Thickening Conditioner",
@@ -5289,7 +5344,7 @@
 "sephoracollection",
 "Super Lock"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Elf Makeup Mist & Set 2X The Original 120mL",
@@ -5347,7 +5402,7 @@
 "Maybelline",
 "New Releases"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Makeup Revolution Reloaded Eyeshadow Palette Basic Mattes",
@@ -5404,7 +5459,7 @@
 "Reloaded",
 "sephoracollection"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Makeup Revolution Reloaded Eyeshadow Palette Velvet Rose",
@@ -5606,7 +5661,7 @@
 "Sebile",
 "sephoracollection"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Makeup Revolution X Kisu Makeup Pigment and Highlighter Palette",
@@ -6924,7 +6979,7 @@
 "Serum",
 "Skincare"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Emerald Bay Definitely Dark Sachet 15ml",
@@ -7024,7 +7079,7 @@
 "Kojic Acid",
 "New Arrivals"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Dr. Althea Melaclear Cream, TXA & Niacinamide Dark Spot Cream, 20g",
@@ -7058,7 +7113,7 @@
 "Skincare",
 "Spot Treatment"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Dr.Melaxin Calcium CX Cemenrete Cyano Pink Spicule Serum, Vitamin B12 Serum, 30ml",
@@ -7125,7 +7180,7 @@
 "New Arrivals",
 "Styling"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Medicube Rosemary PDRN Damage Care Hair Mask, Intensive Conditioning Treatment, 200ml",
@@ -7194,7 +7249,7 @@
 "SPF 50",
 "Sunscreen"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Rare Beauty Soft Pinch Matte Bouncy Blush, Cream-to-Powder Cheek Color",
@@ -7528,7 +7583,7 @@
 "freegift",
 "giftcollection"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Byphasse Mousse Definition Boucles 300ml",
@@ -10353,7 +10408,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/dr-althea-aqua-marine-watery-cream-50ml.avif?v=1779436434&width=400",
 "type": "Cream",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Eqqualberry - Serum Minis Discovery Kit - 5x10ml",
@@ -12533,7 +12588,7 @@
 "koreancollection",
 "koreanskincare"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Medicube Zero Pore Peel Pads (1 Sheet)",
@@ -12590,7 +12645,7 @@
 "koreancollection",
 "koreanskincare"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Missha M Perfect Cover Serum BB Cream SPF50+ 50ml",
@@ -13745,7 +13800,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/PDRN-Pink-Collagen-Glow-Jelly-Mist-Serum-MEDICUBE.webp?v=1772180732&width=400",
 "type": "serum",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Eqqualberry Bakuchiol Plumping Capsule Toner 150ml",
@@ -14053,7 +14108,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/images_d9d75be6-8f3e-4e40-b3dd-d2a0afa49a2c.jpg?v=1770374255&width=400",
 "type": "perfume",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Rimmel Wonder'ink Liquid Eyeliner 004 Velvet Ivy",
@@ -16799,7 +16854,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/NYX-PMU-Makeup-Eyes-Brow-THE-BROW-GLUE-TBG01-01-000-0800897003777-OpenSwatch_5867210b-0a61-4ac5-ac9f-266297010eba.webp?v=1763987811&width=400",
 "type": "brow glue",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Essence Hello GoodStuff Skin Repair Serum",
@@ -17069,7 +17124,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/herconfesionlattafa100ml.webp?v=1763742581&width=400",
 "type": "perfume",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Lattafa Afeef Perfume Eau de Parfum 100ml",
@@ -17342,7 +17397,7 @@
 "tags": [
 "sephoracollection"
 ],
-"in": false
+"in": true
 },
 {
 "t": "NYX professional The Face Glue Setting Spray 60 mL",
@@ -17355,7 +17410,7 @@
 "tags": [
 "sephoracollection"
 ],
-"in": false
+"in": true
 },
 {
 "t": "NYX Wonder Stick Highlight And Contour.",
@@ -17607,7 +17662,7 @@
 "koreancollection",
 "koreanskincare"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Reebok Activate Your Senses Women Gift Set",
@@ -17732,7 +17787,7 @@
 "koreancollection",
 "koreanskincare"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Medicube Collagen Lifting Mask",
@@ -17746,7 +17801,7 @@
 "koreancollection",
 "koreanskincare"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Medicube Age-R Glutathione Glow Serum 30g",
@@ -17774,7 +17829,7 @@
 "koreancollection",
 "koreanskincare"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Medicube AGE-R Vita C Pro Ampoule 20ml",
@@ -17788,7 +17843,7 @@
 "koreancollection",
 "koreanskincare"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Medicube Deep Vita a Retinol Serum 30ml",
@@ -17816,7 +17871,7 @@
 "koreancollection",
 "koreanskincare"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Medicube PDRN Glow Set",
@@ -19149,7 +19204,7 @@
 "Sensitiveskincollection",
 "sephoracollection"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Dolce & Gabbana Devotion Make-Up Set",
@@ -24110,7 +24165,7 @@
 "koreancollection",
 "sephoracollection"
 ],
-"in": false
+"in": true
 },
 {
 "t": "The Secret Key Snow White Milky Lotion",
@@ -28822,7 +28877,7 @@
 "tags": [
 "koreancollection"
 ],
-"in": false
+"in": true
 },
 {
 "t": "SOME BY MI AHA BHA PHA 30 Days Miracle Toner 150ml",
@@ -29225,7 +29280,7 @@
 "tags": [
 "sephoracollection"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Some By Mi AHA BHA PHA 30 Days Miracle Starter Kit (4pcs).",
@@ -30019,7 +30074,7 @@
 "tags": [
 "koreancollection"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Nacific Hyal Panthenol Hydrating Sheet Mask",
@@ -30686,7 +30741,7 @@
 "koreancollection",
 "Sensitiveskincollection"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Skin1004 Centella Hyalu-Cica Sunsational Kit",
@@ -37196,7 +37251,7 @@
 "tags": [
 "sephoracollection"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Bath And Body Works Scented Candle 411g - Into The Night",
@@ -37283,7 +37338,7 @@
 "PanOxyl Acne Creamy Wash 4% Benzoyl 170g",
 "sephoracollection"
 ],
-"in": false
+"in": true
 },
 {
 "t": "PanOxyl Acne Foaming Wash 10% Benzoyl 156g",
@@ -37714,7 +37769,7 @@
 "koreancollection",
 "sephoracollection"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Axis-Y The Mini Glow Set",
@@ -37925,7 +37980,7 @@
 "oilyskincollection",
 "sephoracollection"
 ],
-"in": false
+"in": true
 },
 {
 "t": "BEAUTY OF JOSEON Revive Serum : Ginseng + Snail Mucin",
@@ -38274,77 +38329,6 @@
 "tags": [
 "Lancome Trésor Gift Set",
 "sephoracollection"
-],
-"in": false
-},
-{
-"t": "YSL Mascara Volume Effet Faux Cils Eye Gift Set",
-"u": "https://zedstorelb.com/products/ysl-mascara-volume-effet-faux-cils-eye-gift-set",
-"p": 60.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/3614274121254.jpg?v=1725832972&width=400",
-"type": "gift set",
-"tags": [
-"sephoracollection",
-"YSL Mascara Volume Effet Faux Cils Eye Gift Set"
-],
-"in": false
-},
-{
-"t": "Sol De Janeiro Rio Body Trio Set",
-"u": "https://zedstorelb.com/products/sol-de-janeiro-rio-body-trio-set",
-"p": 58.5,
-"c": 65.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/Studio-Project_27.jpg?v=1725832154&width=400",
-"type": "body lotion",
-"tags": [
-"sephoracollection",
-"Sol De Janeiro Rio Body Trio Set",
-"splashlotion"
-],
-"in": true
-},
-{
-"t": "Lattafa Yara Deodorant Perfumed Body Spray 200ml for Women",
-"u": "https://zedstorelb.com/products/lattafa-yara-deodorant-perfumed-body-spray-200ml-for-women",
-"p": 3.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/Studio-Project_26.jpg?v=1725826859&width=400",
-"type": "Deodorant",
-"tags": [
-"Lattafa Yara Deodorant Perfumed Body Spray 200ml for Women"
-],
-"in": false
-},
-{
-"t": "Maybelline Lifter Liner Lip Liner Pencil with Hyaluronic Acid and Jojoba Oil",
-"u": "https://zedstorelb.com/products/maybelline-lifter-liner-lip-liner-pencil-with-hyaluronic-acid-and-jojoba-oil",
-"p": 7.56,
-"c": 8.4,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/03.PlayerLifterLinerA_ContentArtboard1-100.webp?v=1725459268&width=400",
-"type": "Lip Liner",
-"tags": [
-"1212/2025",
-"lorealfinal"
-],
-"in": true
-},
-{
-"t": "Bath And Body Works Fine Fragrance Mist 236ml - Waikiki Beach Coconut",
-"u": "https://zedstorelb.com/products/bath-and-body-works-fine-fragrance-mist-236ml-waikiki-beach-coconut",
-"p": 15.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/Studio-Project_22.jpg?v=1725528083&width=400",
-"type": "body Splash",
-"tags": [
-"Bath And Body Works Fine Fragrance Mist 236ml",
-"sephoracollection",
-"splashlotion"
 ],
 "in": false
 }
