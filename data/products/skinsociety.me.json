@@ -1,5 +1,65 @@
 [
 {
+"t": "Medvial Ovacure",
+"u": "https://skinsociety.me/products/medvial-ovacure",
+"p": 33.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/608786051003.jpg?v=1774521189&width=400",
+"type": "Parapharmacy",
+"tags": [
+"608786051003",
+"Brand_Medvial",
+"Category_Parapharmacy",
+"Fertility & Pregnancy",
+"Food Supplements",
+"Parapharmacy",
+"Product Type_Fertility & Pregnancy",
+"Sub Category_Food Supplements"
+],
+"in": true
+},
+{
+"t": "Matte & Satin Lipstick",
+"u": "https://skinsociety.me/products/matte-satin-lipstick",
+"p": 37.28,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/anastasia-beverly-hills-matte-and-satin-lipstick-skin-society-shop-address-country-1.jpg?v=1686497326&width=400",
+"type": "LUXURY",
+"tags": [
+"2025 JAN Flash Sale",
+"2025 JAN Flash Sale Excluded",
+"689304186766",
+"689304186766-41168217210973",
+"689304186810",
+"689304186810-41168218456157",
+"689304186827",
+"689304186827-40327885979741"
+],
+"in": true
+},
+{
+"t": "Lip Liner",
+"u": "https://skinsociety.me/products/lip-liner",
+"p": 32.12,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/anastasia-beverly-hills-lip-linerr-skin-society-shop-address-country-1.jpg?v=1686497358&width=400",
+"type": "Luxury",
+"tags": [
+"689304187503",
+"689304187503-42369279787101",
+"689304187510",
+"689304188678",
+"Beauty Sale Pupa & ABH",
+"Best Seller",
+"Brand_Anastasia Beverly Hills",
+"Category_Make Up"
+],
+"in": true
+},
+{
 "t": "Lactocare",
 "u": "https://skinsociety.me/products/lactocare",
 "p": 13.89,
@@ -1684,7 +1744,7 @@
 "Fine Lines/Wrinkles",
 "Item Type_Day & Night Care"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Glovit Multivitamins & Minerals",
@@ -2273,7 +2333,7 @@
 "No-Sync",
 "Product Type_Bath & Body"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Rogé Cavaillès Extra-Gentle Intimate Cleanser 500ml + Free Extra-Gentle Intimate Cleanser 250ml",
@@ -2333,7 +2393,7 @@
 "Dermocosmetics",
 "Item Type_Underarms"
 ],
-"in": false
+"in": true
 },
 {
 "t": "HydraAOX intensive Antioxidant Serum & Hyalu-Filler Hydratig Plumping Cream Offer",
@@ -4014,7 +4074,7 @@
 "tags": [
 "No-Sync"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Kérastase Genesis Anti Hair-Fall Fortifying Serum - Gift",
@@ -4849,7 +4909,7 @@
 "korean",
 "Loyalty Program"
 ],
-"in": false
+"in": true
 },
 {
 "t": "NOW Magnesium Glycinate",
@@ -7776,7 +7836,7 @@
 "Casual",
 "Casual Fragrances"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Minnie Shower Gel & Shampoo 1D 400ml",
@@ -8112,7 +8172,7 @@
 "Loyalty Program",
 "new arrivals"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Eau my Unicorn Gift Set Body Spray 200ml & Shower gel & Shampoo 1D 400ml",
@@ -9536,7 +9596,7 @@
 "korean",
 "Medicube"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Deep Vita C Glutathione Brightening Mask",
@@ -9636,7 +9696,7 @@
 "Medicube",
 "Moisturizers"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Zero Pore One day Serum",
@@ -9656,7 +9716,7 @@
 "Item Type_Day & Night Care",
 "Item Type_Face Serums"
 ],
-"in": false
+"in": true
 },
 {
 "t": "TXA Niacinamide Capsule Cream",
@@ -9696,7 +9756,7 @@
 "No-Sync",
 "pimple patch"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Red Acne Body Peeling Shot",
@@ -10356,7 +10416,7 @@
 "Item Type_Day & Night Care",
 "Item Type_Face Serums"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Triple Collagen Toner",
@@ -12110,7 +12170,7 @@
 "Dry Skin",
 "Dryness"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Baby & Child Very High Protection Sun Lotion SPF50+",
@@ -12790,7 +12850,7 @@
 "Category_Skin Care",
 "Cleansers"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Eau Thermale - Thermal Water",
@@ -14267,7 +14327,7 @@
 "Medicube",
 "new arrivals"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Deep Lifting Peptide Eye Cream",
@@ -14287,7 +14347,7 @@
 "Medicube",
 "Moisturizers"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Red Acne Body Wash",
@@ -14525,7 +14585,7 @@
 "korean",
 "Loyalty Program"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Collagen Glow Sunscreen",
@@ -14565,7 +14625,7 @@
 "Item Type_Face Masks",
 "Item Type_Face Wash & Cleansers"
 ],
-"in": false
+"in": true
 },
 {
 "t": "PDRN Pink Collagen Gel Mask (4EA)",
@@ -14624,7 +14684,7 @@
 "Loyalty Program",
 "Masks & Patches"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Zero Pore Pads 2.0",
@@ -14844,7 +14904,7 @@
 "Face Wash & Cleansers",
 "Item Type_Face Wash & Cleansers"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Low pH Good Morning Gel Cleanser",
@@ -15104,7 +15164,7 @@
 "korean",
 "Loyalty Program"
 ],
-"in": false
+"in": true
 },
 {
 "t": "EGF NAD Firming Gel Mask (4ea)",
@@ -20465,26 +20525,6 @@
 "in": true
 },
 {
-"t": "Matte & Satin Lipstick",
-"u": "https://skinsociety.me/products/matte-satin-lipstick",
-"p": 37.28,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/anastasia-beverly-hills-matte-and-satin-lipstick-skin-society-shop-address-country-1.jpg?v=1686497326&width=400",
-"type": "LUXURY",
-"tags": [
-"2025 JAN Flash Sale",
-"2025 JAN Flash Sale Excluded",
-"689304186766",
-"689304186766-41168217210973",
-"689304186810",
-"689304186810-41168218456157",
-"689304186827",
-"689304186827-40327885979741"
-],
-"in": true
-},
-{
 "t": "Dipbrow Pomade",
 "u": "https://skinsociety.me/products/dipbrow-pomade",
 "p": 33.43,
@@ -24494,7 +24534,7 @@
 "Parapharmacy",
 "Product Type_Cardiovascular Diseases"
 ],
-"in": false
+"in": true
 },
 {
 "t": "DRAW ENTRY CARD - GSPA GIVEAWAY",
@@ -29192,7 +29232,7 @@
 "Make Up Removers",
 "Medical Skin Care"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Aminexil Clinical R.E.G.E.N. Hair Renewing Serum +14,000 Hairs",
@@ -30775,7 +30815,7 @@
 "Medical Skin Care",
 "new arrivals"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Bariesun Tinted Sunscreen Cream SPF50+",
@@ -33604,7 +33644,7 @@
 "Product Type_Hair Treatment/Others",
 "SAVE20"
 ],
-"in": true
+"in": false
 },
 {
 "t": "ROSELIFT Masque Tenseur Liftant",
@@ -33641,26 +33681,6 @@
 "SEARCH_IGNORE"
 ],
 "in": false
-},
-{
-"t": "Medvial Ovacure",
-"u": "https://skinsociety.me/products/medvial-ovacure",
-"p": 33.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/608786051003.jpg?v=1774521189&width=400",
-"type": "Parapharmacy",
-"tags": [
-"608786051003",
-"Brand_Medvial",
-"Category_Parapharmacy",
-"Fertility & Pregnancy",
-"Food Supplements",
-"Parapharmacy",
-"Product Type_Fertility & Pregnancy",
-"Sub Category_Food Supplements"
-],
-"in": true
 },
 {
 "t": "Surveal Calcinovo",
@@ -35033,20 +35053,20 @@
 {
 "t": "Précieux Argan Anti-Wrinkle Moisturizer Organic",
 "u": "https://skinsociety.me/products/precieux-argan-anti-wrinkle-moisturizer-organic",
-"p": 26.86,
-"c": null,
+"p": 18.8,
+"c": 26.86,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/45_b591c4d0-f2b3-4884-8c56-c2d65612344d.png?v=1779369125&width=400",
 "type": "Dermocosmetics",
 "tags": [
 "Anti-Aging",
+"APRILSALE",
 "BOTANICAL",
 "Brand_SO' BIO ETIC",
 "Category_ Skin Care",
 "Category_Skin Care",
 "Day & Night Care",
-"Dermocosmetics",
-"greenedit"
+"Dermocosmetics"
 ],
 "in": false
 },
@@ -40945,7 +40965,7 @@
 "Parapharmacy",
 "Product Type_Body Building"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Protein Power Chocolate 1000 Gr",
@@ -44689,20 +44709,20 @@
 {
 "t": "Carrot Oil",
 "u": "https://skinsociety.me/products/carrot-oil-natessance",
-"p": 19.0,
-"c": null,
+"p": 15.2,
+"c": 19.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/natessance-carrot-oil-skin-society-shop-address-country.jpg?v=1686484744&width=400",
 "type": "Dermocosmetics",
 "tags": [
 "3517360007053",
 "3517360007053-32655663726685",
+"APRILSALE",
 "Bath & Body",
 "BOTANICAL",
 "Brand_Natessance",
 "Category_Skin Care",
-"Dermocosmetics",
-"greenedit"
+"Dermocosmetics"
 ],
 "in": true
 },
@@ -50358,28 +50378,28 @@
 {
 "t": "Argan Coffret",
 "u": "https://skinsociety.me/products/argan-coffret",
-"p": 45.0,
-"c": null,
+"p": 31.5,
+"c": 45.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3517360028034.jpg?v=1764774114&width=400",
 "type": "Dermocosmetics",
 "tags": [
 "Anti-Aging",
+"APRILSALE",
 "BOTANICAL",
 "Brand_SO' BIO ETIC",
 "Category_ Skin Care",
 "Category_Skin Care",
 "Dermocosmetics",
-"Face Serums",
-"Gift Sets"
+"Face Serums"
 ],
 "in": false
 },
 {
 "t": "Almond Body Milk",
 "u": "https://skinsociety.me/products/almond-body-milk",
-"p": 26.0,
-"c": null,
+"p": 16.9,
+"c": 26.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3517360022254.jpg?v=1764774034&width=400",
 "type": "Dermocosmetics",
@@ -50498,20 +50518,20 @@
 {
 "t": "100% Pure Jojoba Oil",
 "u": "https://skinsociety.me/products/100-pure-jojoba-oil-natessance",
-"p": 17.0,
-"c": null,
+"p": 13.6,
+"c": 17.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/products/3517360007015.jpg?v=1674492586&width=400",
 "type": "Dermocosmetics",
 "tags": [
 "3517360007015",
 "3517360007015-32655663759453",
+"APRILSALE",
 "Bath & Body",
 "BOTANICAL",
 "Brand_Natessance",
 "Category_Skin Care",
-"Dermocosmetics",
-"greenedit"
+"Dermocosmetics"
 ],
 "in": false
 },
@@ -58598,26 +58618,6 @@
 "Fragrances",
 "Gift Sets",
 "Loyalty Program"
-],
-"in": true
-},
-{
-"t": "Au Bout Du Monde Set - EDP 30ml & Shower Gel",
-"u": "https://skinsociety.me/products/au-bout-du-monde-set-1",
-"p": 18.2,
-"c": 28.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/adopt-au-bout-du-monde-set-1-skin-society-shop-address-country-1.jpg?v=1686498867&width=400",
-"type": "Casual",
-"tags": [
-"2025 JAN Flash Sale",
-"3701429814489",
-"3701429814489-40742806847581",
-"Brand_Adopt",
-"Casual",
-"Casual Fragrances",
-"Category_Fragrances",
-"Eau De Parfum"
 ],
 "in": true
 }
