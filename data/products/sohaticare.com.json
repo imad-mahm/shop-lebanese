@@ -1,5 +1,105 @@
 [
 {
+"t": "The Super Peptide Glossy Lip Treatment",
+"u": "https://sohaticare.com/products/the-super-peptide-glossy-lip-treatment",
+"p": 4.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/essence-the-super-peptide-glossy-lip-treatment-01-peptacular-10ml.avif?v=1777883348&width=400",
+"type": "Lip Treatment",
+"tags": [],
+"in": true
+},
+{
+"t": "Hydra Kiss Lip Oil",
+"u": "https://sohaticare.com/products/hydra-kiss-lip-oil",
+"p": 4.2,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/May_Packshots_-_Ess._Hydra_Kiss_Lip_Oil_01.jpg?v=1777881639&width=400",
+"type": "Lip Oil",
+"tags": [],
+"in": true
+},
+{
+"t": "Phyto Ultra Serum Length-Boosting Serum 50 ml",
+"u": "https://sohaticare.com/products/phyto-ultra-serum-length-boosting-serum-50-ml",
+"p": 55.5,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/PHYTOPARIS-PHYTOPHANEREULTRASERUM-BOTTLEOPEN.png?v=1793093611&width=400",
+"type": "Serum",
+"tags": [
+"phytophanererange"
+],
+"in": true
+},
+{
+"t": "Lierac Glow Fresh The Revitalizing Express Mask 75ml",
+"u": "https://sohaticare.com/products/lierac-glow-fresh-the-revitalizing-express-mask-75ml",
+"p": 39.96,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/GlowFreshPackshots4.jpg?v=1793096699&width=400",
+"type": "Face Mask",
+"tags": [
+"GlowFreshRange"
+],
+"in": true
+},
+{
+"t": "Lierac Glow Fresh The Plumping Lip Gloss 10ml",
+"u": "https://sohaticare.com/products/lierac-glow-fresh-the-plumping-lip-gloss-10ml",
+"p": 25.53,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/GlowFreshPackshots5.jpg?v=1793096666&width=400",
+"type": "Lip Gloss",
+"tags": [
+"GlowFreshRange"
+],
+"in": true
+},
+{
+"t": "Lierac Glow Fresh The Radiance Booster Serum 30ml",
+"u": "https://sohaticare.com/products/lierac-glow-fresh-the-radiance-booster-serum-30ml",
+"p": 54.39,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/GlowFreshPackshots1.jpg?v=1793096607&width=400",
+"type": "Face Serum",
+"tags": [
+"GlowFreshRange"
+],
+"in": true
+},
+{
+"t": "Lierac Glow Fresh The Fresh Radiance Gel-Cream 50ml",
+"u": "https://sohaticare.com/products/lierac-glow-fresh-the-fresh-radiance-gel-cream-50ml",
+"p": 51.06,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/GlowFreshPackshots2.jpg?v=1793096534&width=400",
+"type": "Face Cream",
+"tags": [
+"GlowFreshRange"
+],
+"in": true
+},
+{
+"t": "Lierac Glow Fresh The Radiance Plumping Cream 50ml",
+"u": "https://sohaticare.com/products/lierac-glow-fresh-the-radiance-plumping-cream-50ml",
+"p": 51.06,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/GlowFreshPackshots3.jpg?v=1793096465&width=400",
+"type": "Face Cream",
+"tags": [
+"GlowFreshRange"
+],
+"in": true
+},
+{
 "t": "Vichy Liftactiv Collagen 16 Eye Serum to Boost and Bond All Collagen Families with Co Bonding Technology For Men and Women, 15ml",
 "u": "https://sohaticare.com/products/vichy-liftactiv-collagen-16-eye-serum-to-boost-and-bond-all-collagen-families-with-co-bonding-technology-for-men-and-women-15ml",
 "p": 37.98,
@@ -591,7 +691,7 @@
 "Drugstore Offers",
 "Lipcare"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Digital thermometer with Age Precision®",
@@ -755,7 +855,7 @@
 "Novus_oct26",
 "TOPOFFER"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Buy 1, Get 1 Free Novus Pimple Patches",
@@ -2533,7 +2633,7 @@
 "in": false
 },
 {
-"t": "LADDER GWP  *or an equivalent based on availability",
+"t": "ORDER VALUE GWP  *or an equivalent based on availability",
 "u": "https://sohaticare.com/products/xellence-gwp-or-an-equivalent-based-on-availability-copy",
 "p": 0.0,
 "c": null,
@@ -3326,7 +3426,7 @@
 {
 "t": "Original Shampoo 500ML",
 "u": "https://sohaticare.com/products/original-shampoo-500ml",
-"p": 16.61,
+"p": 17.21,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/Shampoo_Original.webp?v=1787222853&width=400",
@@ -4442,7 +4542,7 @@
 "tags": [
 "essence"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Essence Feelin' Comfy Lash W/Limits Mascara Brown",
@@ -9368,7 +9468,7 @@
 "pierre_fabre_portfolio",
 "priceUpdate"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Avène Ultra Glow Serum SPF50+ | Activates Glow 30ml",
@@ -9904,7 +10004,7 @@
 "Giftset",
 "TOPOFFER"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Buy 1 Get 1 Free Dermedic Normacne Pore Minimizing Serum",
@@ -12779,19 +12879,6 @@
 "tags": [
 "Beurer_promo_apr26",
 "fitnesss"
-],
-"in": false
-},
-{
-"t": "Beurer LR310 Air Purifier",
-"u": "https://sohaticare.com/products/beurer-lr310-air-purifier",
-"p": 169.0,
-"c": 222.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/s-l1600.webp?v=1776180779&width=400",
-"type": "Air Purifer",
-"tags": [
-"Beurer_promo_apr26"
 ],
 "in": false
 },
@@ -20272,7 +20359,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/skuimg_1062057_xl.jpg?v=1769414858&width=400",
 "type": "",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Collagen Milk Toning Wrapping Mask",
@@ -20417,7 +20504,7 @@
 "tags": [
 "korean_game"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Hypochlorous Acid Daily Facial Spray 125 ML",
@@ -33499,7 +33586,7 @@
 "aloelab_dec25",
 "aloelab_eid26"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Hydra Rescue Hair Mask 200 ml",
@@ -44045,129 +44132,5 @@
 "essie_rivierarush_new"
 ],
 "in": false
-},
-{
-"t": "Essie Identity Illusion 7, Salon-Quality Nail Polish, Vegan formula for flawless coverage, easy-glide brush",
-"u": "https://sohaticare.com/products/your-nails-are-a-canvas-paint-on-your-true-self-with-this-large-green-flaky-pearl-vegan-nail-polish-with-iridescence-layer-with-other-essie-polishes-for-a-nail-art-look",
-"p": 7.49,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/IdentityIllusion3.jpg?v=1748860158&width=400",
-"type": "Nail Polish",
-"tags": [
-"adha_26",
-"backtoschool-exclusive",
-"CPD",
-"CPD_BLACK25_FLASH",
-"CPD_FLASH26",
-"essie_11.11_25",
-"essie_new_june25",
-"essie_rivierarush_new"
-],
-"in": false
-},
-{
-"t": "Essie This And That 994 , Salon-Quality Nail Polish, Vegan formula for flawless coverage, easy-glide brush",
-"u": "https://sohaticare.com/products/essie-this-and-that-salon-quality-nail-polish-vegan-formula-for-flawless-coverage-easy-glide-brush",
-"p": 7.49,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/ThisandThat.jpg?v=1748859291&width=400",
-"type": "Nail Polish",
-"tags": [
-"adha_26",
-"backtoschool-exclusive",
-"CPD",
-"CPD_BLACK25_FLASH",
-"CPD_FLASH26",
-"essie_11.11_25",
-"essie_new_june25",
-"essie_rivierarush_new"
-],
-"in": false
-},
-{
-"t": "Essie Be Them All 993, Salon-Quality Nail Polish, Vegan formula for flawless coverage, easy-glide brush",
-"u": "https://sohaticare.com/products/essie-be-them-all-salon-quality-nail-polish-vegan-formula-for-flawless-coverage-easy-glide-brush",
-"p": 7.68,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/BeThemAll1.jpg?v=1748858766&width=400",
-"type": "Nail Polish",
-"tags": [
-"adha_26",
-"backtoschool-exclusive",
-"CPD",
-"CPD_BLACK25_FLASH",
-"CPD_FLASH26",
-"essie_11.11_25",
-"essie_new_june25",
-"essie_rivierarush_new"
-],
-"in": false
-},
-{
-"t": "Essie New Day New Me 991, Salon-Quality Nail Polish, Vegan formula for flawless coverage, easy-glide brush",
-"u": "https://sohaticare.com/products/essie-new-day-new-me-salon-quality-nail-polish-vegan-formula-for-flawless-coverage-easy-glide-brush",
-"p": 7.68,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/essienewday.jpg?v=1748858209&width=400",
-"type": "Nail Polish",
-"tags": [
-"adha_26",
-"backtoschool-exclusive",
-"CPD",
-"CPD_BLACK25_FLASH",
-"CPD_FLASH26",
-"essie_11.11_25",
-"essie_new_june25",
-"essie_rivierarush_new"
-],
-"in": true
-},
-{
-"t": "Novus Trimmer For Sensitive Areas",
-"u": "https://sohaticare.com/products/https-www-novusgroom-com-products-novus-trimmer",
-"p": 39.99,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/novus.webp?v=1748948067&width=400",
-"type": "Beard Trimmers",
-"tags": [
-"mencorner",
-"Shaving & Trimming",
-"Trimmer"
-],
-"in": false
-},
-{
-"t": "Novus Beard Balm",
-"u": "https://sohaticare.com/products/https-www-novusgroom-com-products-beard-balm",
-"p": 12.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/beardbalm_813a0078-1a48-4516-bb85-77504732e164.webp?v=1748954830&width=400",
-"type": "Beard Care",
-"tags": [
-"Beard Care",
-"mencorner"
-],
-"in": true
-},
-{
-"t": "Novus Beard Oil",
-"u": "https://sohaticare.com/products/https-www-novusgroom-com-products-beard-oil",
-"p": 12.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/beardoil.webp?v=1748954753&width=400",
-"type": "Beard Care",
-"tags": [
-"Beard Care",
-"Beard Oil",
-"mencorner"
-],
-"in": true
 }
 ]

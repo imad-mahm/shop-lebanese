@@ -47,17 +47,6 @@
 "in": true
 },
 {
-"t": "test 1",
-"u": "https://swarovski.com.lb/products/123-1",
-"p": 1.0,
-"c": null,
-"cur": "USD",
-"img": "",
-"type": "",
-"tags": [],
-"in": true
-},
-{
 "t": "The Lion",
 "u": "https://swarovski.com.lb/products/5526677",
 "p": 7300.0,
@@ -3139,7 +3128,8 @@
 "Category_Earrings",
 "Category_Stud Earrings",
 "Collection_Stilla",
-"Material_Rhodium Plated"
+"Material_Rhodium Plated",
+"Preorder"
 ],
 "in": true
 },

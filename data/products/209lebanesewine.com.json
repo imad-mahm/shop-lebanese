@@ -393,26 +393,6 @@
 "in": true
 },
 {
-"t": "Coteaux du Liban Chateau 2010",
-"u": "https://www.209lebanesewine.com/products/coteaux-du-liban-chateau-2010",
-"p": 29.0,
-"c": 85.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0970/2132/products/ELI_6273.JPG?v=1640179117&width=400",
-"type": "Full-bodied Red Wine",
-"tags": [
-"00Discount",
-"26-35",
-"Alcohol Level:Medium",
-"Food Pairing:Red meat - Beef - Pork - Lamb",
-"Food Pairing:Strong cheese - Roquefort - Blue cheese",
-"Grape Varieties:Blend",
-"Grape Varieties:Cabernet Sauvignon",
-"Grape Varieties:Merlot"
-],
-"in": true
-},
-{
 "t": "Chateau Trois Collines Ample Assyrtico white 2021",
 "u": "https://www.209lebanesewine.com/products/chateau-trois-collines-white-wine",
 "p": 11.0,
@@ -1657,13 +1637,13 @@
 {
 "t": "Karam Wines Saint John 2019",
 "u": "https://www.209lebanesewine.com/products/karam-wines-saint-john",
-"p": 15.9,
+"p": 17.9,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0970/2132/products/karam-wines-saint-john.png?v=1691568683&width=400",
 "type": "Full-bodied Red Wine",
 "tags": [
-"0-15",
+"16-25",
 "Alcohol Level:Medium",
 "Cozy",
 "Food Pairing:Red meat - Beef - Pork - Lamb",
@@ -2071,7 +2051,7 @@
 "Food Pairing:Strong cheese - Roquefort - Blue cheese",
 "Grape Varieties:Blend"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Domaine S.Najm Arak",
@@ -2308,7 +2288,7 @@
 {
 "t": "Karam Wines Cloud Nine 2023",
 "u": "https://www.209lebanesewine.com/products/karam-wines-cloud-nine",
-"p": 9.9,
+"p": 12.9,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0970/2132/products/karam-wines-cloud-nine.png?v=1691568874&width=400",
@@ -2984,7 +2964,7 @@
 {
 "t": "Karam Wines Syrah de Nicolas 2020",
 "u": "https://www.209lebanesewine.com/products/karam-wines-syrah-de-nicolas",
-"p": 14.0,
+"p": 14.9,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0970/2132/products/karam-wines-syrah-de-nicolas.png?v=1691568882&width=400",
