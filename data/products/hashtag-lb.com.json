@@ -1,5 +1,16 @@
 [
 {
+"t": "G-Pants",
+"u": "https://www.hashtag-lb.com/products/g-pants",
+"p": 35.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/1001467279.jpg?v=1793038702&width=400",
+"type": "Pants",
+"tags": [],
+"in": true
+},
+{
 "t": "G- slouchy jeans",
 "u": "https://www.hashtag-lb.com/products/g-slouchy-jeans",
 "p": 45.0,
@@ -481,7 +492,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/WhatsAppImage2026-10-12at13.36.32.jpg?v=1791804378&width=400",
 "type": "",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "G-set 17889",
@@ -624,7 +635,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/1001444119.jpg?v=1790949403&width=400",
 "type": "Set",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "G-set 0867",
@@ -910,7 +921,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/7c88ea13-5755-4a8f-af4a-5ab1f45aa0b6.jpg?v=1790001156&width=400",
 "type": "jacket",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "G-Jacket 506382",
@@ -1273,7 +1284,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/31688713-d146-4d4b-89af-213520c25b44.jpg?v=1789049174&width=400",
 "type": "jacket",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "G-Wool set skirt 131",
@@ -1529,17 +1540,6 @@
 "in": true
 },
 {
-"t": "vest",
-"u": "https://www.hashtag-lb.com/products/vest-2",
-"p": 35.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/93b78252-4d62-43b3-9134-534b03d1e7e8.jpg?v=1785237119&width=400",
-"type": "Vest",
-"tags": [],
-"in": false
-},
-{
 "t": "linen pants",
 "u": "https://www.hashtag-lb.com/products/linen-pants",
 "p": 35.0,
@@ -1659,28 +1659,6 @@
 "type": "Jeans",
 "tags": [],
 "in": true
-},
-{
-"t": "Pants",
-"u": "https://www.hashtag-lb.com/products/pants-12",
-"p": 35.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/1001370885.jpg?v=1784736990&width=400",
-"type": "Pants",
-"tags": [],
-"in": true
-},
-{
-"t": "Pants",
-"u": "https://www.hashtag-lb.com/products/pants-4",
-"p": 35.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/1001334005.jpg?v=1784718752&width=400",
-"type": "Pants",
-"tags": [],
-"in": false
 },
 {
 "t": "straight jeans",
