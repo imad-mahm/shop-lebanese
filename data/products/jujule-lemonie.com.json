@@ -803,7 +803,7 @@
 "tags": [
 "dress"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Sirocco Top - Retro Bloom",
@@ -2102,7 +2102,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0620/6980/1212/files/Gigi_Wrap_Skirt.jpg?v=1788164338&width=400",
 "type": "",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Arielle Pants - Green",
@@ -2373,7 +2373,7 @@
 "set",
 "summer"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Leaf Dress - Orange",
@@ -2509,7 +2509,7 @@
 "new in",
 "summer"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Gaia Pants - Zoe Print Blue",
@@ -2809,7 +2809,7 @@
 "summer",
 "tops"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Tropicool Top - Crab",
@@ -4018,7 +4018,7 @@
 "The Lebanese Project",
 "upperwear"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Mahrousse Tshirt",
@@ -4093,7 +4093,7 @@
 "The Lebanese Project",
 "upperwear"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Sroud 3a Broud Tshirt",
@@ -4161,7 +4161,7 @@
 "in": true
 },
 {
-"t": "Jujule Bird Cardigan",
+"t": "Jujule Bird Cardigan - Fushia",
 "u": "https://www.jujule-lemonie.com/products/jujule-bird-cardigan",
 "p": 145.0,
 "c": null,
@@ -4171,7 +4171,7 @@
 "tags": [
 "knitwear"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Jujule Tiger Cardigan",
@@ -4239,7 +4239,7 @@
 "in": false
 },
 {
-"t": "Jujule Heart Cardigan",
+"t": "Jujule Heart Cardigan - Fushia",
 "u": "https://www.jujule-lemonie.com/products/jujule-heart-cardigan",
 "p": 145.0,
 "c": null,
@@ -9275,7 +9275,7 @@
 "in": true
 },
 {
-"t": "Viviana Jumpsuit - Purple",
+"t": "Viviana Jumpsuit - Light Purple",
 "u": "https://www.jujule-lemonie.com/products/viviana-jumpsuit-purple",
 "p": 245.0,
 "c": null,
@@ -9532,7 +9532,7 @@
 "The Lebanese Project",
 "upperwear"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Marhaba Tshirt - Red",
@@ -9994,7 +9994,7 @@
 "in": true
 },
 {
-"t": "Viviana Jumpsuit - off-white",
+"t": "Viviana Jumpsuit - Off White",
 "u": "https://www.jujule-lemonie.com/products/viviana-jumpsuit",
 "p": 245.0,
 "c": null,

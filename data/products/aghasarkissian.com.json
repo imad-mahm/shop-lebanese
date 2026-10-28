@@ -495,17 +495,6 @@
 "in": true
 },
 {
-"t": "Sharp fridge 14FT SJ-VT335-BK2 Black",
-"u": "https://aghasarkissian.com/product/sharp-fridge-14ft-sj-vt335-bk2-black/",
-"p": 355.0,
-"c": 383.0,
-"cur": "USD",
-"img": "https://aghasarkissian.com/wp-content/uploads/2026/02/Untitled-design-2026-02-10T133849.832-430x430.jpg",
-"type": "Fridges, Home Appliances, Refrigeration",
-"tags": [],
-"in": false
-},
-{
 "t": "Toshiba Fridge 25FT GR-RT735WE-PMFJ-(49) Silver",
 "u": "https://aghasarkissian.com/product/toshiba-fridge-25ft-gr-rt735we-pmfj-49-silver-2/",
 "p": 919.0,
@@ -606,6 +595,17 @@
 "type": "Audio, Electronics, Soundbar",
 "tags": [],
 "in": true
+},
+{
+"t": "Samsung Led 75″ UA75U8000FUXTW UHD",
+"u": "https://aghasarkissian.com/product/samsung-led-75-ua75u8000fuxtw-uhd/",
+"p": 756.0,
+"c": 900.0,
+"cur": "USD",
+"img": "https://aghasarkissian.com/wp-content/uploads/2026/01/Untitled-design-2026-01-13T103123.793-2-430x430.jpg",
+"type": "Electronics, Led TV, Televisions",
+"tags": [],
+"in": false
 },
 {
 "t": "Samsung Led 65″ UA65U8000HUXTW UHD",
@@ -2523,17 +2523,6 @@
 "type": "Floor Care, Home Appliances, Upright Vacuum",
 "tags": [],
 "in": false
-},
-{
-"t": "Midea Washer 7k 1000rpm MF100W70/W White",
-"u": "https://aghasarkissian.com/product/midea-washer-7k-1000rpm-mf100w70-w-white/",
-"p": 225.0,
-"c": 248.0,
-"cur": "USD",
-"img": "https://aghasarkissian.com/wp-content/uploads/2025/01/Untitled-design-15-430x430.png",
-"type": "Home Appliances, Laundry, Washing Machines",
-"tags": [],
-"in": true
 },
 {
 "t": "Samsung Fridge 4 Doors RF48A4010B4LV Black Matt",
@@ -4927,7 +4916,7 @@
 "in": false
 },
 {
-"t": "HISENSE Fridge Trilogy 25Ft RF820N4WBU Black",
+"t": "HISENSE Fridge Trilogy 22Ft RF820N4WBU Black",
 "u": "https://aghasarkissian.com/product/hisense-fridge-trilogy-rf820n4wbu-black/",
 "p": 1529.0,
 "c": 1576.0,
@@ -5000,17 +4989,6 @@
 "cur": "USD",
 "img": "https://aghasarkissian.com/wp-content/uploads/2024/02/Untitled-design-2025-11-03T094205.236-430x430.jpg",
 "type": "back to school, Breakfast Set, Coffee Maker",
-"tags": [],
-"in": true
-},
-{
-"t": "Delonghi Coffee Maker DKC-ICM2.1B Black",
-"u": "https://aghasarkissian.com/product/delonghi-coffee-maker-dkc-icm2-1-black/",
-"p": 49.0,
-"c": 50.0,
-"cur": "USD",
-"img": "https://aghasarkissian.com/wp-content/uploads/2024/02/Untitled-design-2025-11-03T093949.145-430x430.jpg",
-"type": "Breakfast Set, Coffee Maker, Home Appliances",
 "tags": [],
 "in": true
 },
@@ -5433,17 +5411,6 @@
 "in": true
 },
 {
-"t": "Master Chef Kettle K-114 SS 1.7L",
-"u": "https://aghasarkissian.com/product/master-chef-kettle-k-114-ss-1-7l-2/",
-"p": 29.0,
-"c": 35.0,
-"cur": "USD",
-"img": "https://aghasarkissian.com/wp-content/uploads/2024/01/Untitled-design-2025-11-03T094325.207-430x430.jpg",
-"type": "Breakfast Set, Home Appliances, Kettles",
-"tags": [],
-"in": true
-},
-{
 "t": "Master Chef Kettle K-105 SS 1.0L",
 "u": "https://aghasarkissian.com/product/master-chef-kettle-k-105-ss-1l/",
 "p": 26.0,
@@ -5708,6 +5675,17 @@
 "in": true
 },
 {
+"t": "SAMSUNG Stick Vacuum VS15A60AGR5/YL",
+"u": "https://aghasarkissian.com/product/samsung-stick-vacuum-vs15a6032r5-eu/",
+"p": 199.0,
+"c": 252.0,
+"cur": "USD",
+"img": "https://aghasarkissian.com/wp-content/uploads/2023/11/VAC-430x430.png",
+"type": "Floor Care, Hand And Stick Vacuum, Home Appliances",
+"tags": [],
+"in": false
+},
+{
 "t": "Samsung Washer 11kg WW11B1944DGBFH Black",
 "u": "https://aghasarkissian.com/product/samsung-washer-11kg-ww11b1944dgbfh-black/",
 "p": 719.0,
@@ -5954,17 +5932,6 @@
 "cur": "USD",
 "img": "https://aghasarkissian.com/wp-content/uploads/2023/01/Untitled-design-55-430x430.jpg",
 "type": "Floor Care, Home Appliances, Upright Vacuum",
-"tags": [],
-"in": true
-},
-{
-"t": "France Cooker 90cm 9650ZXCIFSF Inox",
-"u": "https://aghasarkissian.com/product/france-cooker-90cm-9650zxcifsf-inox/",
-"p": 1199.0,
-"c": 1399.0,
-"cur": "USD",
-"img": "https://aghasarkissian.com/wp-content/uploads/2022/12/Untitled-design-2025-09-02T111709.122-430x430.jpg",
-"type": "Cookers, Cooking, Home Appliances",
 "tags": [],
 "in": true
 },
