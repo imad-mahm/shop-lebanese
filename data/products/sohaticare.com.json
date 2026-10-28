@@ -1,5 +1,23 @@
 [
 {
+"t": "Hyaluronic Acid Boosting Serum 30ML",
+"u": "https://sohaticare.com/products/hyaluronic-acid-boosting-serum-30ml",
+"p": 144.3,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/PCA_HyaluronicAcidBoostingSerum_6.webp?v=1762344117&width=400",
+"type": "serum",
+"tags": [
+"all_expiry",
+"all_expiry_11_12",
+"near-expiry-dec26",
+"pcaos",
+"samenear_expiry26_6_10",
+"second_near_expiry26_11_12"
+],
+"in": true
+},
+{
 "t": "The Super Peptide Glossy Lip Treatment",
 "u": "https://sohaticare.com/products/the-super-peptide-glossy-lip-treatment",
 "p": 4.0,
@@ -674,26 +692,6 @@
 "in": true
 },
 {
-"t": "Buy 1 get 1 Lip care",
-"u": "https://sohaticare.com/products/buy-1-get-1-lip-care",
-"p": 2.9,
-"c": 5.8,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/beesline8.jpg?v=1741166442&width=400",
-"type": "Bundle",
-"tags": [
-"backtoschool-exclusive",
-"beesline_march25",
-"BOGO-Collection",
-"Bundle",
-"COMPENSATION_MAR25",
-"Drugstore Offer",
-"Drugstore Offers",
-"Lipcare"
-],
-"in": false
-},
-{
 "t": "Digital thermometer with Age Precision®",
 "u": "https://sohaticare.com/products/digital-thermometer-with-age-precision®",
 "p": 29.0,
@@ -729,7 +727,7 @@
 "Giftset",
 "TOPOFFER"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Buy Bio-Oil Body Lotion & get a FREE mini of your choice",
@@ -1352,7 +1350,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/Packshots-2024-01-03T130925.562_68a7eafe-e164-4d60-b4cd-ae2106aa6e41.webp?v=1791193967&width=400",
 "type": "Eye Contour",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "ACM DEPIWHITE WHITENING PEEL-OFF MASK 40ML",
@@ -2117,7 +2115,7 @@
 {
 "t": "Buy Avène Sunscreen Tinted Cream SPF 50+ 50ml & get a FREE Towel + SPF Ultra Fluid Sachet",
 "u": "https://sohaticare.com/products/buy-avene-sunscreen-tinted-cream-spf-50-50ml-get-a-free-towel-spf-ultra-fluid-sachet",
-"p": 21.77,
+"p": 25.13,
 "c": 33.5,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/AveneSunscreenOffersPackshot1.jpg?v=1790321046&width=400",
@@ -7148,8 +7146,8 @@
 {
 "t": "Buy Two Get One Rene Furterer Sublime Curl Enhancing Shampoo 200ml",
 "u": "https://sohaticare.com/products/buy-two-get-one-rene-furterer-forticea-eenergizing-shampoo-200ml-copy",
-"p": 31.5,
-"c": 50.0,
+"p": 36.0,
+"c": 48.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/1_17.png?v=1782905561&width=400",
 "type": "Set",
@@ -12842,7 +12840,7 @@
 {
 "t": "Beurer MG 195 Hot & Cold Massager Limited Edition",
 "u": "https://sohaticare.com/products/beurer-mg-195-hot-cold-massage-gun-limited-edition",
-"p": 159.0,
+"p": 149.0,
 "c": 222.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/431522-650180.avif?v=1776181493&width=400",
@@ -12871,8 +12869,8 @@
 {
 "t": "Beurer BF183 Diagnostic Bathroom Scale Limited Edition",
 "u": "https://sohaticare.com/products/beurer-bf183-diagnostic-bathroom-scale-limited-edition",
-"p": 25.0,
-"c": 34.0,
+"p": 34.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/2_1010084-3333x3333.jpg?v=1776180967&width=400",
 "type": "Diagnostic Scale",
@@ -12898,8 +12896,8 @@
 {
 "t": "Beurer Hair Dryer HC25 Limited Edition",
 "u": "https://sohaticare.com/products/beurer-hair-dryer-hc25-limited-edition",
-"p": 19.0,
-"c": 22.0,
+"p": 22.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/4211125105389_1_fullHD.webp?v=1776180496&width=400",
 "type": "Hair Dryer",
@@ -12911,7 +12909,7 @@
 {
 "t": "Beurer Makeup Mirror BS47 Limited Edition",
 "u": "https://sohaticare.com/products/beurer-makeup-mirror-bs47-limited-edition",
-"p": 39.0,
+"p": 35.0,
 "c": 45.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/images_2_ef7a73bb-ce1d-42d9-91fb-6a6f42a0c7f3.jpg?v=1776180415&width=400",
@@ -15526,8 +15524,8 @@
 {
 "t": "BUY NCEF-Revitalize Serum 30 ml GET NCEF-Revitalize Night Cream Mini 15 ml + Filorga Pouch FREE",
 "u": "https://sohaticare.com/products/buy-ncef-revitalize-serum-30-ml-get-ncef-revitalize-night-cream-mini-15-ml-filorga-pouch-free",
-"p": 109.0,
-"c": null,
+"p": 141.1,
+"c": 109.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/FilorgaRamadanbundlesPackshots2.jpg?v=1773756674&width=400",
 "type": "Bundle",
@@ -15689,7 +15687,7 @@
 "COMPENSATION_JAN26",
 "COMPENSATION_MAR26"
 ],
-"in": true
+"in": false
 },
 {
 "t": "With any Purchase of Mela B3 Cream Get Mela B3 Serum 10ml",
@@ -18848,7 +18846,7 @@
 "exclude_flash26",
 "Hair Coloring"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Celimax the vita A retinal shot Tightening Booster 15ml",
@@ -20041,7 +20039,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/Picture1_503155b8-788b-4192-90b8-b8421968a4a2.png?v=1769195886&width=400",
 "type": "",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Double Bristle Rectangular Brush",
@@ -20407,7 +20405,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/8800289470165.webp?v=1769414711&width=400",
 "type": "",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "PDRN Pink Collagen Gel Mask (1EA)",
@@ -20421,7 +20419,7 @@
 "available-korean",
 "os_june26_2"
 ],
-"in": false
+"in": true
 },
 {
 "t": "PDRN Glow Set",
@@ -24545,7 +24543,7 @@
 "ALLSUMSPLASH_05.16",
 "BACK2SKL23"
 ],
-"in": true
+"in": false
 },
 {
 "t": "FOTOPROTECTOR TRANSPARENT SPRAY WET SKIN SPF50",
@@ -26019,8 +26017,8 @@
 {
 "t": "Beurer Non-Contact Infrared Thermometer with Fever Indicator",
 "u": "https://sohaticare.com/products/beurer-non-contact-infrared-thermometer-with-fever-indicator",
-"p": 39.0,
-"c": 55.0,
+"p": 55.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/img.jpg?v=1765879188&width=400",
 "type": "",
@@ -26065,8 +26063,8 @@
 {
 "t": "Beurer Easy-Store Hair Straightener with 360° Swivel Joint",
 "u": "https://sohaticare.com/products/beurer-easy-store-hair-straightener-with-360-swivel-joint",
-"p": 25.0,
-"c": null,
+"p": 19.0,
+"c": 25.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/4211125100742.webp?v=1765879384&width=400",
 "type": "",
@@ -26976,7 +26974,7 @@
 "exclusivedeals_may26",
 "Giftset"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Cozy Eyes",
@@ -28511,24 +28509,6 @@
 "10%flat-summer"
 ],
 "in": false
-},
-{
-"t": "Hyaluronic Acid Boosting Serum 30ML",
-"u": "https://sohaticare.com/products/hyaluronic-acid-boosting-serum-30ml",
-"p": 57.72,
-"c": 144.3,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/PCA_HyaluronicAcidBoostingSerum_6.webp?v=1762344117&width=400",
-"type": "serum",
-"tags": [
-"all_expiry",
-"all_expiry_11_12",
-"near-expiry-dec26",
-"pcaos",
-"samenear_expiry26_6_10",
-"second_near_expiry26_11_12"
-],
-"in": true
 },
 {
 "t": "HYSEAC 3 REGUL SOIN GLOBAL T40 ML+HYS.GEL NET.50ml",
@@ -31217,7 +31197,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/FabowlousNailStickers011.webp?v=1761120701&width=400",
 "type": "Nail Stickers",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Fabowlous Gel Eyeshadow Topper 01",
@@ -33597,7 +33577,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/f1.png?v=1759268620&width=400",
 "type": "Hair Mask",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Shine Revival Hair Mask 200 ml",
@@ -33619,7 +33599,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/f1_25a352e2-70a7-49e8-b4f8-f1fc4c1bacf1.png?v=1759301847&width=400",
 "type": "Hair Mask",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Peptide Restore Preserving Hair Serum 30 ml",
@@ -36170,7 +36150,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/3_cbe2a9ed-e243-4e9c-a052-265d73b0e76a.png?v=1757660521&width=400",
 "type": "",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "MULTI-PEPTIDE SERUM FOR HAIR DENSITY 60ML/2FLOZ",
@@ -37873,7 +37853,7 @@
 "in": false
 },
 {
-"t": "L’Oréal Paris Infaillible 3-Second setting mist spray, 36h of long wear, no transfer, no marks, no stickiness, 75ml",
+"t": "L’Oréal Paris Infaillible 3-Second setting mist spray, 36h of long wear, no transfer, no marks, no stickiness",
 "u": "https://sohaticare.com/products/l-oreal-paris-infaillible-3-second-setting-mist-spray-36h-of-long-wear-no-transfer-no-marks-no-stickiness-75ml",
 "p": 9.5,
 "c": null,
@@ -39812,7 +39792,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/prolongershampoo.jpg?v=1753350010&width=400",
 "type": "Shampoo",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "L’Oréal Professionnel |  Metal Detox Leave-in |  After color, balayage & lightening  | 100 ml",
@@ -44120,6 +44100,26 @@
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/LimonCielo.jpg?v=1748860710&width=400",
+"type": "Nail Polish",
+"tags": [
+"adha_26",
+"backtoschool-exclusive",
+"CPD",
+"CPD_BLACK25_FLASH",
+"CPD_FLASH26",
+"essie_11.11_25",
+"essie_new_june25",
+"essie_rivierarush_new"
+],
+"in": false
+},
+{
+"t": "Essie Identity Illusion 7, Salon-Quality Nail Polish, Vegan formula for flawless coverage, easy-glide brush",
+"u": "https://sohaticare.com/products/your-nails-are-a-canvas-paint-on-your-true-self-with-this-large-green-flaky-pearl-vegan-nail-polish-with-iridescence-layer-with-other-essie-polishes-for-a-nail-art-look",
+"p": 7.49,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/IdentityIllusion3.jpg?v=1748860158&width=400",
 "type": "Nail Polish",
 "tags": [
 "adha_26",

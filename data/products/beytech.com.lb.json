@@ -1,5 +1,77 @@
 [
 {
+"t": "Bianca Espresso Machine",
+"u": "https://beytech.com.lb/product/bianca-espresso-machine/",
+"p": 250.0,
+"c": null,
+"cur": "USD",
+"img": "https://beytech.com.lb/wp-content/uploads/2026/10/White-1200x1200px-247x247.jpg",
+"type": "Home Appliances, Breakfast, Coffee Makers",
+"tags": [
+"Barista",
+"Coffee",
+"Coffee Machines"
+],
+"in": true
+},
+{
+"t": "Hollyland LARK A1 Wireless Microphone System",
+"u": "https://beytech.com.lb/product/hollyland-lark-a1-wireless-microphone-system/",
+"p": 76.0,
+"c": 85.0,
+"cur": "USD",
+"img": "https://beytech.com.lb/wp-content/uploads/2026/10/HollylandLARKA1-247x247.jpg",
+"type": "Autumn Offers 🍂, Cameras, Electronics",
+"tags": [
+"Hollyland",
+"Microphones",
+"Wireless Microphone"
+],
+"in": true
+},
+{
+"t": "DJI Osmo Action 6 – Standard Combo",
+"u": "https://beytech.com.lb/product/dji-osmo-action-6-standard-combo/",
+"p": 408.0,
+"c": 453.0,
+"cur": "USD",
+"img": "https://beytech.com.lb/wp-content/uploads/2026/10/DJIOSMO6standard-247x247.jpg",
+"type": "Autumn Offers 🍂, Cameras, Electronics",
+"tags": [
+"Action Camera",
+"DJI"
+],
+"in": true
+},
+{
+"t": "DJI Osmo Nano Wearable Camera – 4K/60fps, 143° Wide-Angle, Magnetic Design & Vision Dock",
+"u": "https://beytech.com.lb/product/dji-osmo-nano-wearable-camera-4k-60fps-143-wide-angle-magnetic-design-vision-dock/",
+"p": 410.0,
+"c": 456.0,
+"cur": "USD",
+"img": "https://beytech.com.lb/wp-content/uploads/2026/10/853b7cd29605008379b8beaf456f8f83-247x247.jpg",
+"type": "Autumn Offers 🍂, Cameras, Electronics",
+"tags": [
+"Action Camera",
+"DJI"
+],
+"in": true
+},
+{
+"t": "DJI RS 5 3-Axis Camera Gimbal Stabilizer – 3kg Payload, Intelligent Tracking & Native Vertical Shooting",
+"u": "https://beytech.com.lb/product/dji-rs-5-3-axis-camera-gimbal-stabilizer-3kg-payload-intelligent-tracking-native-vertical-shooting/",
+"p": 610.0,
+"c": 678.0,
+"cur": "USD",
+"img": "https://beytech.com.lb/wp-content/uploads/2026/10/dji-rs-5-247x247.jpg",
+"type": "Autumn Offers 🍂, Cameras, Electronics",
+"tags": [
+"DJI",
+"Gimbal Stabilizer"
+],
+"in": true
+},
+{
 "t": "FUJIFILM Instax Mini Film 1PK ( 10SH ) /PHOTO SLIDE",
 "u": "https://beytech.com.lb/product/fujifilm-instax-mini-film-1pk-10sh-photo-slide-2/",
 "p": 19.0,
@@ -2917,7 +2989,7 @@
 "in": true
 },
 {
-"t": "DJI Osmo Action 6 Action Camera",
+"t": "DJI Osmo Action 6 Action Camera Adventure Combo",
 "u": "https://beytech.com.lb/product/dji-osmo-action-6-action-camera/",
 "p": 494.0,
 "c": 539.0,
@@ -3156,7 +3228,7 @@
 "Microphones",
 "Wireless Microphone"
 ],
-"in": false
+"in": true
 },
 {
 "t": "DJI Mic 2 – Pocket-Sized Wireless Microphone",
@@ -15988,7 +16060,7 @@
 "Hisense Audio Video",
 "Televisions"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Hisense  75U7Q 75″ QLED Ultra HD Smart TV",
@@ -16141,7 +16213,7 @@
 {
 "t": "Haier HRF-260NS No Frost Two Doors Refrigerator Inverter",
 "u": "https://beytech.com.lb/product/haier-hrf-260ns-no-frost-two-doors-refrigerator-inverter/",
-"p": 369.0,
+"p": 425.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/06/HRF-260NS-CLOSE-247x247.jpg",
@@ -16487,7 +16559,7 @@
 {
 "t": "Haier H85S80GUX 85″ Qled Google Tv 4K Uhd Smart",
 "u": "https://beytech.com.lb/product/haier-h85s80gux-85-inch-qled-4k-uhd-smart-google-tv/",
-"p": 1319.0,
+"p": 1320.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/02/H50S80EUX-247x247.jpg",
@@ -16504,7 +16576,7 @@
 {
 "t": "Haier H75S80GUX 75″ Qled Google Tv 4K Uhd Smart",
 "u": "https://beytech.com.lb/product/haier-h75s80gux-75-inch-qled-4k-uhd-smart-google-tv/",
-"p": 865.0,
+"p": 869.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/02/H50S80EUX-247x247.jpg",
@@ -16521,7 +16593,7 @@
 {
 "t": "Haier H65S80GUX 65″ Qled Google Tv 4K Uhd Smart",
 "u": "https://beytech.com.lb/product/haier-h65s80gux-65-inch-qled-4k-uhd-smart-google-tv/",
-"p": 615.0,
+"p": 649.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/02/H50S80EUX-247x247.jpg",
@@ -16538,7 +16610,7 @@
 {
 "t": "Haier H50S80GUX 50″ Qled Google Tv 4K Uhd Smart",
 "u": "https://beytech.com.lb/product/haier-h50s80gux-50-inch-4k-uhd-smart-google-tv/",
-"p": 399.0,
+"p": 379.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/02/H50S80EUX-247x247.jpg",
@@ -21077,7 +21149,7 @@
 {
 "t": "Haier Hvf-624Nile No Frost Convertible Inverter Chest Fridge/Freezer",
 "u": "https://beytech.com.lb/product/haier-hvf-624nil-upright-freezer-fridge-conversion/",
-"p": 1415.0,
+"p": 1190.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/HVF-624NILE-CLOSE-247x247.jpg",
@@ -24261,7 +24333,7 @@
 {
 "t": "Haier HW100-BP14357GU1 10Kg Smart Ai Front Loading Washing Machine Inverter",
 "u": "https://beytech.com.lb/product/haier-hw100-bp14357gu1-10kg-smart-ai-front-loading-washing-machine-inverter/",
-"p": 528.0,
+"p": 549.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/04/HW100-BP14357GU1-247x247.jpg",
@@ -24276,7 +24348,7 @@
 {
 "t": "Haier HW100-BP14357U1 10Kg Smart Ai Front Loading Washing Machine Inverter",
 "u": "https://beytech.com.lb/product/haier-hw100-bp14357u1-10kg-smart-ai-front-loading-washing-machine-inverter/",
-"p": 494.0,
+"p": 475.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/04/HW100-BP14357U1-247x247.jpg",
@@ -24896,7 +24968,7 @@
 {
 "t": "Haier Hcf-588Vs 519L Convertible Inverter Chest Fridge/Freezer",
 "u": "https://beytech.com.lb/product/haier-hcf-588vs-519l-convertible-inverter-chest-freezer/",
-"p": 589.0,
+"p": 609.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/04/HCF-588VSKE-1-247x247.png",
@@ -24913,7 +24985,7 @@
 {
 "t": "Haier Hcf-478Vs 429L Convertible Inverter Chest Fridge/Freezer",
 "u": "https://beytech.com.lb/product/haier-hcf-478vs-429l-convertible-inverter-chest-freezer/",
-"p": 545.0,
+"p": 565.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/04/HCF-478VSKE-1-247x247.png",
@@ -24930,7 +25002,7 @@
 {
 "t": "Haier Hcf-428Vs 379L Convertible Inverter Chest Fridge/Freezer",
 "u": "https://beytech.com.lb/product/haier-hcf-428vs-379l-convertible-inverter-chest-freezer/",
-"p": 455.0,
+"p": 472.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/04/HCF-428VS-1-247x247.jpeg",
@@ -24947,7 +25019,7 @@
 {
 "t": "Haier HCF-368VSR 301L Convertible Inverter Chest Fridge/Freezer",
 "u": "https://beytech.com.lb/product/haier-hcf-368vsr-301l-inverter-chest-freezer/",
-"p": 405.0,
+"p": 418.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/04/HCF-368VSR-247x247.png",
@@ -24964,7 +25036,7 @@
 {
 "t": "Haier HCF-328VSR  251L Convertible Inverter Chest Fridge/Freezer",
 "u": "https://beytech.com.lb/product/haier-hcf-328vsr-251l-inverter-chest-freezer/",
-"p": 349.0,
+"p": 365.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/04/HCF-328VSR-247x247.png",
@@ -29249,7 +29321,7 @@
 {
 "t": "Haier Hmw23DB 23L Digital Microwave Oven",
 "u": "https://beytech.com.lb/product/haier-hmw23dg-23l-digital-microwave-oven/",
-"p": 99.0,
+"p": 95.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/04/16270000B01995-62700-0L330801-HMW23DB-Haier-247x247.jpg",
@@ -29264,7 +29336,7 @@
 {
 "t": "Haier HMW31DBMG 31L Digital Microwave Oven",
 "u": "https://beytech.com.lb/product/haier-hmw31dbmg-31l-digital-microwave-oven/",
-"p": 135.0,
+"p": 130.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/04/4cf9eb6c-e826-47bc-8c39-sfd6138c31976-247x247.jpg",
@@ -29279,7 +29351,7 @@
 {
 "t": "Haier Hw120-B14979S8U1 12 Kg 1400 Rpm Smart Washing Machine",
 "u": "https://beytech.com.lb/product/haier-hw120-b14979s8u1-12-kg-1400-rpm-washing-machine/",
-"p": 722.0,
+"p": 699.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/04/HAIWWASHW120B14979S8U1-1-247x247.jpeg",
@@ -30311,7 +30383,7 @@
 {
 "t": "Haier HRF-850VNFMINo-Frost Top Mount Refrigerator (chiller box)",
 "u": "https://beytech.com.lb/product/haier-hrf-850vnfmi-no-frost-top-mount-refrigerator/",
-"p": 905.0,
+"p": 899.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/03/HRF-850VNFMI-close-247x247.jpg",
@@ -30326,7 +30398,7 @@
 {
 "t": "Haier HRF-680VNFMI No-Frost Top Mount Refrigerator Reversible door",
 "u": "https://beytech.com.lb/product/haier-hrf-680vnfmi-no-frost-top-mount-refrigerator/",
-"p": 759.0,
+"p": 785.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/03/HRF-680VNFMI-close-247x247.jpg",
@@ -30341,7 +30413,7 @@
 {
 "t": "Haier H100S90FUX 100″ Smart Mini Led Tv 4K  Google Tv 144Hz  Ai",
 "u": "https://beytech.com.lb/product/haier-h100s90fux-100-smart-mini-led-tv-4k-google-tv-144hz-ai/",
-"p": 2549.0,
+"p": 2500.0,
 "c": 2897.0,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/03/H100S90FUX-for-website-247x247.jpg",
@@ -34781,7 +34853,7 @@
 {
 "t": "Haier HRF672VCFMSWSA  No Frost Top Mount Refrigerator 23 CFT Twin Inverter",
 "u": "https://beytech.com.lb/product/haier-top-mount-refrigerator-23-cft-shop-now-beytech/",
-"p": 629.0,
+"p": 619.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/01/HRF672VCFMSWSA-247x247.jpg",
@@ -34896,7 +34968,7 @@
 {
 "t": "Haier HWM140-B1678S8 14kg Direct Motion Top Load Washing Machine",
 "u": "https://beytech.com.lb/product/haier-hwm140-b1678s8-14-kgs-direct-motion-motor-dd-inverter/",
-"p": 549.0,
+"p": 495.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/01/HWM140-B1678S8-247x247.webp",
@@ -35057,7 +35129,7 @@
 {
 "t": "Haier HWS42GDAU1 42 Bottles Smart Dual Zone Wine Cellar",
 "u": "https://beytech.com.lb/product/haier-hws42gdau1-42-bottles-smart-dual-zone-wine-cellar/",
-"p": 700.0,
+"p": 649.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/01/HAIWWICHWS42GDAU1-1-247x247.jpg",
@@ -35071,7 +35143,7 @@
 {
 "t": "Haier HWS32GDG 32 Bottles Dual Zone Wine Cellar",
 "u": "https://beytech.com.lb/product/haier-hws32gdg-32-bottles-dual-zone-wine-cellar/",
-"p": 550.0,
+"p": 499.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/01/HAIWWICHWS32GDG-1-247x247.jpg",
@@ -35085,7 +35157,7 @@
 {
 "t": "Haier HWS205GGEH1  205 Bottles Smart Single Zone Wine Cellar",
 "u": "https://beytech.com.lb/product/haier-hws205ggeh1-205-bottles-smart-single-zone-wine-cellar/",
-"p": 995.0,
+"p": 999.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/01/HAIWWICHWS205GGEH1-1-247x247.jpg",
@@ -35099,7 +35171,7 @@
 {
 "t": "Haier HWS34GGH1 Smart 34 Bottles Single Zone Wine Cellar",
 "u": "https://beytech.com.lb/product/haier-hws34ggh1-smart-34-bottles-single-zone-wine-cellar/",
-"p": 420.0,
+"p": 399.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/01/HAIWWICHWS34GGH1-10-247x247.jpg",
@@ -37387,7 +37459,7 @@
 {
 "t": "Haier HDC-BB3A1SU-MEA Bottom Loading water dispenser",
 "u": "https://beytech.com.lb/product/haier-hdc-bb3a1su-mea-bottom-loading-water-dispenser/",
-"p": 250.0,
+"p": 249.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2025/12/HDC-BB3A1SU-MEA-247x247.jpg",
@@ -38057,7 +38129,7 @@
 {
 "t": "Haier HWD240-BD12LGNU1 AI Smart Washer/Dryer (Heat Pump) – 24kg Wash, 16kg Dry ”  Exclusively at Beytech “",
 "u": "https://beytech.com.lb/product/haier-hwd240-bd12lgnu1-ai-smart-washer-dryerheat-pump-washing-capacity-24kgdrying-capacity-16kg/",
-"p": 2949.0,
+"p": 2999.0,
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2025/12/HWD240-BD12LGU1-14-247x247.jpg",
@@ -44615,81 +44687,6 @@
 "c": null,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2025/10/702318830-247x247.jpg",
-"type": "Electronics, Mobiles &amp; Tablets, Mobiles &amp; Tablets Accessories",
-"tags": [
-"Mobile Covers",
-"Mobiles",
-"Zagg"
-],
-"in": true
-},
-{
-"t": "ZAGG-Cases-Luxe Snap-Apple-Capitol-FG-Black iPhone 17 Air",
-"u": "https://beytech.com.lb/product/zagg-cases-luxe-snap-apple-capitol-fg-black-iphone-17-air/",
-"p": 12.0,
-"c": null,
-"cur": "USD",
-"img": "https://beytech.com.lb/wp-content/uploads/2025/10/702318829-247x247.jpg",
-"type": "Electronics, Mobiles &amp; Tablets, Mobiles &amp; Tablets Accessories",
-"tags": [
-"Mobile Covers",
-"Mobiles",
-"Zagg"
-],
-"in": true
-},
-{
-"t": "ZAGG-Cases-Luxe Snap-Apple-Bryce-FG-Black iPhone 17",
-"u": "https://beytech.com.lb/product/zagg-cases-luxe-snap-apple-bryce-fg-black-iphone-17/",
-"p": 12.0,
-"c": null,
-"cur": "USD",
-"img": "https://beytech.com.lb/wp-content/uploads/2025/10/702318828-247x247.jpg",
-"type": "Electronics, Mobiles &amp; Tablets, Mobiles &amp; Tablets Accessories",
-"tags": [
-"Mobile Covers",
-"Mobiles",
-"Zagg"
-],
-"in": true
-},
-{
-"t": "ZAGG Cases Manhattan Snap Apple Iphone 15Pro Max Black EN/FR",
-"u": "https://beytech.com.lb/product/zagg-cases-manhattan-snap-apple-iphone-15pro-max-black-en-fr/",
-"p": 15.0,
-"c": null,
-"cur": "USD",
-"img": "https://beytech.com.lb/wp-content/uploads/2025/10/702312679-247x247.jpg",
-"type": "Electronics, Mobiles &amp; Tablets, Mobiles &amp; Tablets Accessories",
-"tags": [
-"Mobile Covers",
-"Mobiles",
-"Zagg"
-],
-"in": true
-},
-{
-"t": "ZAGG Cases Manhattan Snap Aplle Iphone 15Pro Black EN/FR",
-"u": "https://beytech.com.lb/product/zagg-cases-manhattan-snap-aplle-iphone-15pro-black-en-fr/",
-"p": 15.0,
-"c": null,
-"cur": "USD",
-"img": "https://beytech.com.lb/wp-content/uploads/2025/10/702312678-247x247.jpg",
-"type": "Electronics, Mobiles &amp; Tablets, Mobiles &amp; Tablets Accessories",
-"tags": [
-"Mobile Covers",
-"Mobiles",
-"Zagg"
-],
-"in": true
-},
-{
-"t": "ZAGG Cases Crystal Palace Snap Iphone 15 Pro Max Clear EN/FR",
-"u": "https://beytech.com.lb/product/zagg-cases-crystal-palace-snap-iphone-15-pro-max-clear-en-fr/",
-"p": 18.0,
-"c": null,
-"cur": "USD",
-"img": "https://beytech.com.lb/wp-content/uploads/2025/10/702312619-247x247.jpg",
 "type": "Electronics, Mobiles &amp; Tablets, Mobiles &amp; Tablets Accessories",
 "tags": [
 "Mobile Covers",
