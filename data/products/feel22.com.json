@@ -1,5 +1,146 @@
 [
 {
+"t": "Garnier Booster Serum x Fresh & Bright Bundle",
+"u": "https://feel22.com/products/garnier-booster-serum-x-fresh-bright-bundle",
+"p": 22.87,
+"c": 25.05,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Artboard7_2x-100_9e540725-37f2-46f2-bbd0-bb633f0e29eb.jpg?v=1791813384&width=400",
+"type": "Skincare Gifts and Sets",
+"tags": [
+"1010GR26"
+],
+"in": true
+},
+{
+"t": "SkinCeuticals Hai Mod 4ML Gift",
+"u": "https://feel22.com/products/skinceuticals-hai-mod-4ml-gift",
+"p": 0.0,
+"c": null,
+"cur": "USD",
+"img": "",
+"type": "GWP",
+"tags": [
+"SEARCHANISE_IGNORE"
+],
+"in": true
+},
+{
+"t": "Garnier Skin Active Fast Bright Day & Night Basic Routine Bundle At 20% Off",
+"u": "https://feel22.com/products/garnier-skin-active-fast-bright-day-night-basic-routine-bundle",
+"p": 17.63,
+"c": 22.04,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Artboard1copy13.jpg?v=1786096099&width=400",
+"type": "Skincare Gifts and Sets",
+"tags": [
+"1010GR26",
+"BTG926",
+"CPDALL426",
+"CPDTODO426",
+"FB826",
+"GARNIERED426"
+],
+"in": true
+},
+{
+"t": "Garnier Fast Bright Dual Cleansing & Brightening Bundle At 20% Off",
+"u": "https://feel22.com/products/garnier-dual-cleansing-bundle-free-face-towel",
+"p": 14.26,
+"c": 17.82,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Artboard8copy15.jpg?v=1788770814&width=400",
+"type": "Skincare Gifts and Sets",
+"tags": [
+"1010GR26",
+"allofcpd326",
+"BTG926",
+"CPDALL426",
+"CPDTODO426",
+"FB826",
+"GRSER326"
+],
+"in": true
+},
+{
+"t": "Ducray Keracnyl Purifying Set At 20% Off",
+"u": "https://feel22.com/products/ducray-keracnyl-purifying-set-at-20-off",
+"p": 33.59,
+"c": 42.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/DucrayKeracnylPurifyingSetAt20_Off_624654e8-494c-4fb6-ae3f-dc2718da9d4b.png?v=1763389924&width=400",
+"type": "Skincare Gifts and Sets",
+"tags": [
+"99PHARMA",
+"EVERYTHING",
+"pfall526",
+"PFHairCare",
+"PHARMAALL",
+"PHARMAALL2.0",
+"PHARMAW/OLDB",
+"SPOOKYPHARMA26"
+],
+"in": true
+},
+{
+"t": "Klorane Quinine Growth Accelerating Conditioner",
+"u": "https://feel22.com/products/klorane-quinine-growth-accelerating-conditioner",
+"p": 13.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/KloraneQuinineGrowthAcceleratingConditioner.png?v=1792395735&width=400",
+"type": "Conditioner",
+"tags": [
+"OCTSKU26",
+"PHARMAALL",
+"SPOOKYPHARMA26"
+],
+"in": true
+},
+{
+"t": "Klorane Quinine Intense Growth Accelerator Serum with Adenosine",
+"u": "https://feel22.com/products/klorane-quinine-intense-growth-accelerator-serum-with-adenosine",
+"p": 27.99,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/KloraneQuinineIntenseGrowthAcceleratorSerumwithAdenosine.png?v=1792395268&width=400",
+"type": "Hair Oil and Serum",
+"tags": [
+"OCTSKU26",
+"PHARMAALL",
+"SPOOKYPHARMA26"
+],
+"in": true
+},
+{
+"t": "Klorane Growth Accelerating Shampoo",
+"u": "https://feel22.com/products/klorane-growth-accelerating-shampoo",
+"p": 10.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/KloraneGrowthAcceleratingShampoo.png?v=1791187373&width=400",
+"type": "Shampoo",
+"tags": [
+"OCTSKU26",
+"PHARMAALL",
+"SPOOKYPHARMA26"
+],
+"in": true
+},
+{
+"t": "L’Oréal Paris x Faces Of Feel22: Jana Haddad's Bundle",
+"u": "https://feel22.com/products/l-oreal-paris-x-faces-of-feel22-jana-haddad-s-bundle",
+"p": 22.5,
+"c": 30.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/L_OrealParisxFacesOfFeel22_JanaHaddad_sBundle.png?v=1792172494&width=400",
+"type": "Makeup Gifts and Sets",
+"tags": [
+"facesloreal1026"
+],
+"in": true
+},
+{
 "t": "Clinique Smart Clinical Repair Wrinkle Correcting Cream 50ml",
 "u": "https://feel22.com/products/clinique-smart-clinical-repair-wrinkle-correcting-cream-50ml",
 "p": 115.0,
@@ -1375,7 +1516,7 @@
 "tags": [
 "inky926"
 ],
-"in": true
+"in": false
 },
 {
 "t": "NYX Professional Makeup Buttermelt x Epic Inky Bundle + Free Tote",
@@ -1487,7 +1628,7 @@
 "PHARMAALL",
 "SPOOKYRGAA1026"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Lierac Glow Fresh The Revitalizing Express Mask",
@@ -3475,7 +3616,7 @@
 "tags": [
 "crush1026"
 ],
-"in": true
+"in": false
 },
 {
 "t": "NYX Professional Makeup Buttermelt & Wonder Bundle + Free Gift",
@@ -3623,26 +3764,6 @@
 "in": true
 },
 {
-"t": "Maybelline Fit Me Concealer Duo Bundle At 15% Off",
-"u": "https://feel22.com/products/maybelline-fit-me-concealer-duo-bundle-15-off",
-"p": 12.48,
-"c": 15.6,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/MNYfeelbundlesArtboard2-100.jpg?v=1698660753&width=400",
-"type": "Concealer and Corrector",
-"tags": [
-"ALLCPD96",
-"allofcpd326",
-"ANVBUNDLE2023",
-"CPD2025",
-"CPDALL426",
-"EVERYTHING",
-"fitme",
-"FITME625"
-],
-"in": true
-},
-{
 "t": "Maybelline New York Fit Me Matte Face Base Trio Bundle At 25% Off",
 "u": "https://feel22.com/products/maybelline-new-york-fit-me-matte-face-base-trio-bundle-at-15-off",
 "p": 18.06,
@@ -3710,7 +3831,7 @@
 "nobundles",
 "SEARCHANISE_IGNORE"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Lierac Instit Pouch Gift",
@@ -7457,95 +7578,42 @@
 "in": true
 },
 {
-"t": "Mixa Body Cream Jar Duo Bundle + Free Body Scrubber",
-"u": "https://feel22.com/products/mixa-body-cream-jar-duo-bundle-free-body-scrubber",
-"p": 17.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Artboard2copy-100_1.jpg?v=1773757744&width=400",
-"type": "Body Gifts and Sets",
-"tags": [
-"CPDALL426",
-"CPDBTS926",
-"CPDTODO426",
-"mixabody326"
-],
-"in": true
-},
-{
-"t": "Mixa Body Lotion & Body Cream Jar Bundle + Free Spoon",
-"u": "https://feel22.com/products/mixa-body-lotion-body-cream-jar-bundle-free-spoon",
-"p": 14.5,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Artboard1copy-100_1_cf6bfdac-96bc-4f8e-a4cd-184d602c8fd7.jpg?v=1773757374&width=400",
-"type": "Body Gifts and Sets",
-"tags": [
-"CPDALL426",
-"CPDBTS926",
-"CPDTODO426",
-"MARCH26",
-"mixabody326"
-],
-"in": true
-},
-{
-"t": "Narta Any Women Deodorant Spray Duo Bundle At 20% Off",
+"t": "Narta Any Women Deodorant Spray Duo Bundle At 30% Off",
 "u": "https://feel22.com/products/narta-women-deodorant-duo-at-20-off",
-"p": 7.02,
+"p": 6.13,
 "c": 8.78,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/sArtboard2-100_b26214d6-e40e-4a66-ba72-385caf5fee3e.jpg?v=1751453359&width=400",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshots_temp_-_Lynn_7_63f9954b-f5b9-4f31-a265-ca14bf208191.png?v=1793101131&width=400",
 "type": "Body Gifts and Sets",
 "tags": [
 "allofcpd326",
 "CPD2025",
 "CPDALL426",
 "CPDBF25",
+"CPDBF26",
 "CPDBTS926",
 "CPDTODO426",
-"DEC25",
-"DEO725"
+"DEC25"
 ],
 "in": true
 },
 {
-"t": "Narta Any Men Deodorant Spray Duo Bundle At 20% Off",
+"t": "Narta Any Men Deodorant Spray Duo Bundle At 30% Off",
 "u": "https://feel22.com/products/narta-men-deodorant-intense-freshness-two-at-20-off-1",
-"p": 7.02,
+"p": 6.13,
 "c": 8.78,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Untitleddesign-2023-05-31T115140.976_a5b0ef59-e110-4836-9b9f-67a4463f75ea.png?v=1751452218&width=400",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshots_temp_-_Lynn_6_9db29207-6b1f-4e9a-b34f-f628a8ff26c5.png?v=1793101127&width=400",
 "type": "Body Gifts and Sets",
 "tags": [
 "allofcpd326",
 "CPD2025",
 "CPDALL426",
 "CPDBF25",
+"CPDBF26",
 "CPDBTS926",
 "CPDTODO426",
-"DEC25",
-"DEO725"
-],
-"in": true
-},
-{
-"t": "Narta Any Women Roll On Duo Bundle At 20% Off",
-"u": "https://feel22.com/products/narta-women-roll-on-protection-bundle-at-20-off",
-"p": 5.86,
-"c": 7.32,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/feelvalentinebundlewhite-1.jpg?v=1751450853&width=400",
-"type": "Deodorant For Her",
-"tags": [
-"allofcpd326",
-"CPD2025",
-"CPDALL426",
-"CPDBF25",
-"CPDBTS926",
-"CPDTODO426",
-"DEC25",
-"DEO725"
+"DEC25"
 ],
 "in": true
 },
@@ -7587,20 +7655,6 @@
 "clarinsbf"
 ],
 "in": true
-},
-{
-"t": "Garnier Fast Bright x Skin Active Essentials Bundle At 20% Off",
-"u": "https://feel22.com/products/garnier-fast-bright-x-skin-active-essentials-bundle-at-20-off",
-"p": 26.82,
-"c": 31.8,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Artboard1copy3_d5c8278f-19dd-4eef-9605-008b9b6ad4a2.jpg?v=1786095122&width=400",
-"type": "Skincare Gifts and Sets",
-"tags": [
-"CPDBTS926",
-"FB826"
-],
-"in": false
 },
 {
 "t": "Arencia Vitamin C Booster Shot Radiance And Boosting Serum",
@@ -12947,7 +13001,7 @@
 "MUPSKINALL926",
 "SPOOKY26"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Face Facts Peptide Radiance Drops Gel Serum",
@@ -26531,7 +26585,8 @@
 "99PHARMA",
 "Hidden recommendation",
 "rgaa726",
-"SEARCHANISE_IGNORE"
+"SEARCHANISE_IGNORE",
+"SPOOKYPHARMA26"
 ],
 "in": true
 },
@@ -26548,7 +26603,8 @@
 "99PHARMA",
 "Hidden recommendation",
 "rgaa726",
-"SEARCHANISE_IGNORE"
+"SEARCHANISE_IGNORE",
+"SPOOKYPHARMA26"
 ],
 "in": false
 },
@@ -41349,7 +41405,7 @@
 "lagoondeow",
 "MARCHSKU26"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Lagoon Midnight Storm Spray Deodorant For Men",
@@ -41573,7 +41629,7 @@
 "lagoonhand",
 "MARCHSKU26"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Lagoon Ocean Breeze Hand Wash",
@@ -43464,7 +43520,7 @@
 "Frizzy Hair",
 "leavein"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Garnier Ultra Doux Grape Moisture Deep Regenerative Mask for Dehydrated Hair With Hydrating Grape Water + Antioxidant Grapeseed Oil",
@@ -45458,26 +45514,6 @@
 "in": true
 },
 {
-"t": "Garnier Routine Serum Duo Bundle At 25% Off",
-"u": "https://feel22.com/products/garnier-routine-serum-duo-bundle-at-20-off-free-beanie",
-"p": 20.25,
-"c": 27.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Artboard1copy9-100.jpg?v=1770718866&width=400",
-"type": "Skincare Gifts and Sets",
-"tags": [
-"allofcpd326",
-"CPD2025",
-"CPDALL426",
-"CPDTODO426",
-"DEC25",
-"EVERYTHING",
-"FB1225",
-"GARXMAS25"
-],
-"in": true
-},
-{
 "t": "Ruby Rose Gel Full Brow Mascara",
 "u": "https://feel22.com/products/ruby-rose-gel-full-brow-mascara",
 "p": 1.11,
@@ -45735,7 +45771,7 @@
 "OLAPLEX226",
 "olaplex325"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Olaplex N.0 Intensive Bond Building Treatment 155ml",
@@ -46915,7 +46951,7 @@
 "WIBO426",
 "WIZE826"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Wibo 2 Hot 2 Handle 2 In 1 Double Eyepencil And Eyeliner",
@@ -47891,7 +47927,7 @@
 "nivea2020",
 "Sdd"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Dior Eau Sauvage Eau De Parfum 50ml",
@@ -48231,8 +48267,8 @@
 {
 "t": "Cetaphil Gentle Exfoliating Salicylic Acid Moisturizing Lotion",
 "u": "https://feel22.com/products/cetaphil-gentle-exfoliating-salicylic-acid-moisturizing-lotion",
-"p": 32.37,
-"c": null,
+"p": 24.28,
+"c": 32.37,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/CetaphilGentleExfoliatingSaLotion236Ml.png?v=1770292273&width=400",
 "type": "Day and Night Cream",
@@ -48251,8 +48287,8 @@
 {
 "t": "Cetaphil Gentle Salicylic Acid Exfoliating Cleanser",
 "u": "https://feel22.com/products/cetaphil-gentle-salicylic-acid-exfoliating-cleanser-1",
-"p": 29.67,
-"c": null,
+"p": 22.25,
+"c": 29.67,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/CetaphilGentleExfoliatingSaCleanser236Ml.png?v=1770292499&width=400",
 "type": "Cleanser and Face Soap",
@@ -48495,7 +48531,7 @@
 "KFF1026",
 "KFF426"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Etiaxil Detranspirant Normal Skin Armpits Roll-On",
@@ -50070,60 +50106,6 @@
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarBakedEyeshadow-001Beige.png?v=1767871370&width=400",
 "type": "Eyeshadow",
-"tags": [
-"EVERYTHING",
-"FLME",
-"flormar226",
-"flormar826",
-"JANSKU26",
-"MUPSKINALL926"
-],
-"in": true
-},
-{
-"t": "Flormar Color Eyeshadow Palette",
-"u": "https://feel22.com/products/flormar-color-eyeshadow-palette",
-"p": 21.92,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarColorEyeshadowPalette-001RisingStar.png?v=1767870487&width=400",
-"type": "Eyeshadow",
-"tags": [
-"EVERYTHING",
-"FLME",
-"flormar226",
-"flormar826",
-"JANSKU26",
-"MUPSKINALL926"
-],
-"in": true
-},
-{
-"t": "Flormar Eyeshadow Palette",
-"u": "https://feel22.com/products/flormar-eyeshadow-palette",
-"p": 26.92,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarEyeshadowPalette-001FallenAngel.png?v=1767870332&width=400",
-"type": "Eyeshadow",
-"tags": [
-"EVERYTHING",
-"FLME",
-"flormar226",
-"flormar826",
-"JANSKU26",
-"MUPSKINALL926"
-],
-"in": true
-},
-{
-"t": "Flormar Extreme Tattoo Gel Pencil",
-"u": "https://feel22.com/products/flormar-extreme-tattoo-gel-pencil",
-"p": 17.48,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/FlormarExtremeTattooGelPencil-01GlitzyBrown.png?v=1767869898&width=400",
-"type": "Eyeliner",
 "tags": [
 "EVERYTHING",
 "FLME",

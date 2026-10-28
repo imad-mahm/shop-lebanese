@@ -50,12 +50,12 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/petalkiss.jpg?v=1735637858&width=400",
 "type": "Flowers",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Custom Order",
 "u": "https://exotica.com/products/custom-order-2",
-"p": 407.0,
+"p": 88.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/0000_produced_at_exotica.jpg?v=1744022321&width=400",
@@ -211,7 +211,7 @@
 "Pink October",
 "Roses"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Endless Joy",
@@ -714,7 +714,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Honeyed_Glow_-_Flower_with_honey.jpg?v=1789547822&width=400",
 "type": "Flowers",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Violet Aura",
@@ -901,7 +901,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Pumpkin_Petals_Fall_Flower_Arrangement.png?v=1789544778&width=400",
 "type": "Flowers",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Cozy Blooms",
@@ -953,17 +953,6 @@
 "Yellow"
 ],
 "in": true
-},
-{
-"t": "Fall in Love",
-"u": "https://exotica.com/products/fall-in-love-1",
-"p": 86.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Fall_in_Love_1.jpg?v=1791283866&width=400",
-"type": "Flowers",
-"tags": [],
-"in": false
 },
 {
 "t": "Harvest Festival",
@@ -1102,7 +1091,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/SunlitSmiles.jpg?v=1791461742&width=400",
 "type": "Flowers",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Citrus Twist",
@@ -1124,7 +1113,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/October_Blush.jpg?v=1791447470&width=400",
 "type": "Flowers",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "My Sunshine",
@@ -1872,7 +1861,7 @@
 "Gift Bundles",
 "Mixed Flowers"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Rifai Dried and Stuffed Fruits",
@@ -1894,7 +1883,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/sables_mini.jpg?v=1779106320&width=400",
 "type": "Add-Ons",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Mionetto Prosecco Rosé Mini",
@@ -1951,7 +1940,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Untitled_design.jpg?v=1779106820&width=400",
 "type": "Add-Ons",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Pick Love Red",
@@ -2659,7 +2648,7 @@
 "For Teta",
 "Get Well Soon"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Artificial Dracaena Reflexa",
@@ -3149,7 +3138,7 @@
 "Plants",
 "Thank You"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Lush Orchid",
@@ -3880,7 +3869,7 @@
 "Plants",
 "Small"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Bonsai Ligustrum",
@@ -4443,7 +4432,7 @@
 "For Mom",
 "Gift Bundles"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Endless Bloom",
@@ -4854,7 +4843,7 @@
 "Fuschia",
 "Graduation"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Bonsai Essence",
@@ -4865,7 +4854,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Bonsai_Essence.jpg?v=1791285841&width=400",
 "type": "Plants",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Deep Coral",
@@ -5125,7 +5114,7 @@
 "Indoor Plants",
 "Medium"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Love",
