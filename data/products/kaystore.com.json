@@ -1,5 +1,77 @@
 [
 {
+"t": "Xiaomi Electric Scooter 4 Lite (2nd Gen) FR",
+"u": "https://kaystore.com/product/xiaomi-electric-scooter-4-lite-2nd-gen/",
+"p": 390.0,
+"c": null,
+"cur": "USD",
+"img": "https://kaystore.com/wp-content/uploads/2026/10/Xiaomi-Electric-Scooter-4-Lite-2nd-Gen-247x296.jpg",
+"type": "Electric Transporters",
+"tags": [
+"Accessories",
+"electric transporter",
+"Electronic",
+"kickscooter",
+"scooter",
+"transporter"
+],
+"in": true
+},
+{
+"t": "Xiaomi Electric Scooter 5 Pro GL",
+"u": "https://kaystore.com/product/xiaomi-electric-scooter-5-pro-gl/",
+"p": 570.0,
+"c": null,
+"cur": "USD",
+"img": "https://kaystore.com/wp-content/uploads/2026/10/Xiaomi-Electric-Scooter-5-Pro-GL-247x296.jpg",
+"type": "Electric Transporters",
+"tags": [
+"Accessories",
+"electric transporter",
+"Electronic",
+"kickscooter",
+"scooter",
+"transporter"
+],
+"in": true
+},
+{
+"t": "Xiaomi Electric Scooter 5 Plus GL With Seat",
+"u": "https://kaystore.com/product/xiaomi-electric-scooter-5-plus-gl/",
+"p": 750.0,
+"c": null,
+"cur": "USD",
+"img": "https://kaystore.com/wp-content/uploads/2026/10/Xiaomi-Electric-Scooter-5-Plus-GL-247x296.jpg",
+"type": "Electric Transporters",
+"tags": [
+"Accessories",
+"electric transporter",
+"Electronic",
+"kickscooter",
+"scooter",
+"transporter"
+],
+"in": true
+},
+{
+"t": "Xiaomi Electric Scooter 5 Max GL",
+"u": "https://kaystore.com/product/xiaomi-electric-scooter-5-max-gl/",
+"p": 630.0,
+"c": null,
+"cur": "USD",
+"img": "https://kaystore.com/wp-content/uploads/2026/10/Xiaomi-Electric-Scooter-5-Max-GL-247x296.jpg",
+"type": "Electric Transporters",
+"tags": [
+"Accessories",
+"electric transporter",
+"Electronic",
+"kickscooter",
+"scooter",
+"transporter"
+],
+"in": true
+},
+{
 "t": "Xiaomi Electric Scooter 6 Essential",
 "u": "https://kaystore.com/product/xiaomi-electric-scooter-6-essential/",
 "p": 455.0,
@@ -8364,11 +8436,11 @@
 },
 {
 "t": "Mirage Chest Freezer",
-"u": "https://kaystore.com/product/mirage-chest-freezer/",
+"u": "https://kaystore.com/product/mirage-mr-ch500-chest-freezer/",
 "p": 639.0,
 "c": null,
 "cur": "USD",
-"img": "https://kaystore.com/wp-content/uploads/2026/06/MIRAGE-247x296.jpg",
+"img": "https://kaystore.com/wp-content/uploads/2026/06/Mirage-MR-CH500-247x296.jpg",
 "type": "Freezers",
 "tags": [
 "Appliances",
@@ -10283,11 +10355,11 @@
 },
 {
 "t": "Mirage Upright Freezer 6 Drawers",
-"u": "https://kaystore.com/product/mirage-upright-freezer-6-drawers/",
+"u": "https://kaystore.com/product/mirage-mr-fz190w-upright-freezer-6-drawers/",
 "p": 379.0,
 "c": null,
 "cur": "USD",
-"img": "https://kaystore.com/wp-content/uploads/2026/05/mirage-247x296.jpg",
+"img": "https://kaystore.com/wp-content/uploads/2026/05/MIRAGE-MR-FZ190W-247x296.jpg",
 "type": "Freezers",
 "tags": [
 "freezers",
@@ -10303,7 +10375,7 @@
 "p": 449.0,
 "c": null,
 "cur": "USD",
-"img": "https://kaystore.com/wp-content/uploads/2026/05/mirage12-247x296.jpg",
+"img": "https://kaystore.com/wp-content/uploads/2026/05/Mirage-Freezer-247x296.jpg",
 "type": "Freezers",
 "tags": [
 "Freezer7D",
@@ -10312,7 +10384,7 @@
 "kitchen",
 "silver"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Mirage Freezer 5 Drawers",
@@ -10320,7 +10392,7 @@
 "p": 459.0,
 "c": null,
 "cur": "USD",
-"img": "https://kaystore.com/wp-content/uploads/2026/05/mirage_fz-247x296.jpg",
+"img": "https://kaystore.com/wp-content/uploads/2026/05/Mirage-Freezer-1-247x296.jpg",
 "type": "Freezers",
 "tags": [
 "Freezer7D",
@@ -10337,7 +10409,7 @@
 "p": 289.0,
 "c": null,
 "cur": "USD",
-"img": "https://kaystore.com/wp-content/uploads/2026/05/mirage1-247x296.jpg",
+"img": "https://kaystore.com/wp-content/uploads/2026/05/Mirage-Freezer-2-247x296.jpg",
 "type": "Freezers",
 "tags": [
 "freezers",
@@ -26648,22 +26720,6 @@
 "in": true
 },
 {
-"t": "Ariete Wet&Dry Handy Vac 18.5V",
-"u": "https://kaystore.com/product/ariete-wetdry-handy-vac-18-5v/",
-"p": 115.0,
-"c": 159.0,
-"cur": "USD",
-"img": "https://kaystore.com/wp-content/uploads/2026/02/I137138-247x296.jpg",
-"type": "Vacuum Cleaners",
-"tags": [
-"Appliances",
-"Hand vacuum",
-"Home cleaner",
-"vacuum cleaner"
-],
-"in": true
-},
-{
 "t": "Midea Corded Stick Vacuum 600W",
 "u": "https://kaystore.com/product/midea-corded-stick-vacuum-600w/",
 "p": 52.0,
@@ -26675,22 +26731,6 @@
 "Appliances",
 "Home cleaner",
 "STICK VACUUM",
-"vacuum cleaner"
-],
-"in": true
-},
-{
-"t": "Ariete Bagless Vacuum 2200W Wh",
-"u": "https://kaystore.com/product/ariete-bagless-vacuum-2200w-wh/",
-"p": 140.0,
-"c": 205.0,
-"cur": "USD",
-"img": "https://kaystore.com/wp-content/uploads/2026/02/I137136-247x296.jpg",
-"type": "Vacuum Cleaners",
-"tags": [
-"Appliances",
-"bagless",
-"Home cleaner",
 "vacuum cleaner"
 ],
 "in": true
@@ -34428,26 +34468,6 @@
 "pedicare"
 ],
 "in": true
-},
-{
-"t": "Elegance Gas Cooker 90Cm",
-"u": "https://kaystore.com/product/elegance-gas-cooker-90cm-wh/",
-"p": 299.0,
-"c": 399.0,
-"cur": "USD",
-"img": "https://kaystore.com/wp-content/uploads/2025/11/ELEGAS90BTLWH-3-247x296.jpg",
-"type": "Gas Cooker",
-"tags": [
-"Appliances",
-"baking",
-"big appliances",
-"cooker",
-"cooking",
-"freestanding cooker",
-"Gas",
-"Gas90"
-],
-"in": false
 },
 {
 "t": "FAR Triple T Plug EL806",
@@ -51933,22 +51953,6 @@
 "c": null,
 "cur": "USD",
 "img": "https://kaystore.com/wp-content/uploads/2025/10/I137313-247x296.jpg",
-"type": "Branches, Christmas",
-"tags": [
-"Branches",
-"Christmas",
-"Home Deco",
-"La Maison"
-],
-"in": true
-},
-{
-"t": "White Ice Spray 55Cm",
-"u": "https://kaystore.com/product/white-ice-spray-55cm/",
-"p": 10.0,
-"c": null,
-"cur": "USD",
-"img": "https://kaystore.com/wp-content/uploads/2025/10/I137310-247x296.jpg",
 "type": "Branches, Christmas",
 "tags": [
 "Branches",

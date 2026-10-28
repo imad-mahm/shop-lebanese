@@ -1,5 +1,65 @@
 [
 {
+"t": "KOMIS KOMIS D515 BROWN LOAFERS",
+"u": "https://comostore.me/products/komis-komis-d515-brown-loafers",
+"p": 195.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1367/5161/files/comowebsitedesign-2026-10-27T153135.098.png?v=1793107948&width=400",
+"type": "Loafers",
+"tags": [
+"KOMIS KOMIS IN LEBANON",
+"KOMIS KOMIS MADE IN GREECE",
+"komis made in greece",
+"LOAFERS",
+"Loafers in Beirut",
+"Loafers in Lebanon",
+"LORO PIANA",
+"LORO PIANA IN LEBANON"
+],
+"in": true
+},
+{
+"t": "KOMIS KOMIS D515 CAMEL LOAFERS",
+"u": "https://comostore.me/products/komis-komis-d515-camel-loafers",
+"p": 195.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1367/5161/files/comowebsitedesign-2026-10-27T151216.384.png?v=1793107390&width=400",
+"type": "Loafers",
+"tags": [
+"KOMIS KOMIS IN LEBANON",
+"KOMIS KOMIS MADE IN GREECE",
+"komis made in greece",
+"LOAFERS",
+"Loafers in Beirut",
+"Loafers in Lebanon",
+"LORO PIANA",
+"LORO PIANA IN LEBANON"
+],
+"in": true
+},
+{
+"t": "KOMIS KOMIS D515 LEATHER BLACK LOAFERS",
+"u": "https://comostore.me/products/komis-komis-d515-leather-black-loafers",
+"p": 185.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1367/5161/files/comowebsitedesign-2026-10-27T141437.540.png?v=1793103680&width=400",
+"type": "Loafers",
+"tags": [
+"KOMIS KOMIS IN LEBANON",
+"KOMIS KOMIS MADE IN GREECE",
+"komis made in greece",
+"LOAFERS",
+"Loafers in Beirut",
+"Loafers in Lebanon",
+"LORO PIANA",
+"LORO PIANA IN LEBANON"
+],
+"in": true
+},
+{
 "t": "UGG CLASSIC APRES CITY TALL BOOTS",
 "u": "https://comostore.me/products/ugg-classic-apres-city-tall-boots",
 "p": 465.0,
@@ -222,8 +282,8 @@
 {
 "t": "LOVE MOSCHINO CHUNKY QUILTED BOOTS",
 "u": "https://comostore.me/products/love-moschino-chunky-quilted-boots",
-"p": 168.0,
-"c": 280.0,
+"p": 215.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1367/5161/files/comowebsitedesign-2026-10-21T143610.092.png?v=1792582595&width=400",
 "type": "Boots",
@@ -237,13 +297,13 @@
 "LOVE MOSCHINO Espadrilles",
 "love moschino in lebanon"
 ],
-"in": false
+"in": true
 },
 {
 "t": "LOVE MOSCHINO WHITE SNOW BOOTS",
 "u": "https://comostore.me/products/love-moschino-white-snow-boots",
-"p": 168.0,
-"c": 280.0,
+"p": 215.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1367/5161/files/comowebsitedesign-2026-10-21T143117.197.png?v=1792582406&width=400",
 "type": "Boots",
@@ -257,13 +317,13 @@
 "LOVE MOSCHINO Espadrilles",
 "love moschino in lebanon"
 ],
-"in": false
+"in": true
 },
 {
 "t": "LOVE MOSCHINO LOGO HEARTED BOOTS",
 "u": "https://comostore.me/products/love-moschino-logo-hearted-boots",
-"p": 168.0,
-"c": 280.0,
+"p": 175.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1367/5161/files/comowebsitedesign-2026-10-21T142408.331.png?v=1792581945&width=400",
 "type": "Boots",
@@ -277,13 +337,13 @@
 "LOVE MOSCHINO Espadrilles",
 "love moschino in lebanon"
 ],
-"in": false
+"in": true
 },
 {
 "t": "LOVE MOSCHINO LOGO PRINT BLACK AND WHITE BOOTS",
 "u": "https://comostore.me/products/love-moschino-logo-print-black-and-white-boots",
-"p": 168.0,
-"c": 280.0,
+"p": 190.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1367/5161/files/comowebsitedesign-2026-10-21T142006.549.png?v=1792581694&width=400",
 "type": "Boots",
@@ -297,13 +357,13 @@
 "LOVE MOSCHINO Espadrilles",
 "love moschino in lebanon"
 ],
-"in": false
+"in": true
 },
 {
 "t": "LOVE MOSCHINO QUILTED HEART BOOTS",
 "u": "https://comostore.me/products/love-moschino-quilted-heart-boots",
-"p": 168.0,
-"c": 280.0,
+"p": 245.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1367/5161/files/comowebsitedesign-2026-10-21T141108.650.png?v=1792581364&width=400",
 "type": "Boots",
@@ -317,7 +377,7 @@
 "LOVE MOSCHINO Espadrilles",
 "love moschino in lebanon"
 ],
-"in": false
+"in": true
 },
 {
 "t": "PEPE JEANS IVONNE BLACK BAG",
@@ -1644,7 +1704,7 @@
 "in": true
 },
 {
-"t": "CRIME LONDON DISTRESSED DARK COFFEE SNEAKERS",
+"t": "CRIME LONDON DISTRESSED DARK SNEAKERS",
 "u": "https://comostore.me/products/crime-london-distressed-dark-coffee-sneakers",
 "p": 260.0,
 "c": null,
@@ -3583,7 +3643,7 @@
 "in": true
 },
 {
-"t": "CRIME LONDON DISTRESSED MOONLIGHTY SNEAKERS",
+"t": "CRIME LONDON SK8 DELUXE BROWN SNEAKERS",
 "u": "https://comostore.me/products/crime-london-distressed-moonlighty-sneakers",
 "p": 260.0,
 "c": 260.0,
@@ -3800,7 +3860,7 @@
 "LORO PIANA IN LEBANON",
 "Shop women shoes in Lebanon"
 ],
-"in": false
+"in": true
 },
 {
 "t": "KOMIS KOMIS E11 TABACCO SANDALS",
