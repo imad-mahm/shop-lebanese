@@ -1,5 +1,85 @@
 [
 {
+"t": "Twilly d'Hermès Eau Poivrée - Eau de Parfum",
+"u": "https://skinsociety.me/products/twilly-dhermes-eau-poivree-eau-de-parfum-hermes",
+"p": 143.3,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/hermes-twilly-d-hermes-eau-poivree-eau-de-parfum-skin-society-shop-address-country-1.jpg?v=1686488814&width=400",
+"type": "Luxury",
+"tags": [
+"2025 JAN Flash Sale",
+"2025 JAN Flash Sale Excluded",
+"3346130009481",
+"3346130009566",
+"3346133202506",
+"3346133202506-32656210985053",
+"3346133202513",
+"3346133202513-32656210952285"
+],
+"in": true
+},
+{
+"t": "They're Real! Double The Lip",
+"u": "https://skinsociety.me/products/theyre-real-double-the-lip",
+"p": 29.18,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/602004068552.jpg?v=1700656941&width=400",
+"type": "Luxury",
+"tags": [
+"2025 JAN Flash Sale",
+"2025 JAN Flash Sale Excluded",
+"602004068552",
+"602004068552-41335469310045",
+"602004068576",
+"602004068576-41335469408349",
+"602004068583",
+"602004068583-41335469441117"
+],
+"in": true
+},
+{
+"t": "Boi-ing Industrial Strength Concealer",
+"u": "https://skinsociety.me/products/boi-ing-industrial-strength-concealer",
+"p": 31.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/602004095961.jpg?v=1700743923&width=400",
+"type": "Luxury",
+"tags": [
+"2025 JAN Flash Sale",
+"2025 JAN Flash Sale Excluded",
+"602004095961",
+"602004095961-41338206879837",
+"Brand_Benefit Cosmetics",
+"Category_Make Up",
+"Concealer",
+"Eyes"
+],
+"in": true
+},
+{
+"t": "Ka-Brow Cream-Gel Brow Color with Brush - Mini",
+"u": "https://skinsociety.me/products/ka-brow-cream-gel-brow-color-with-brush-mini-benefit-cosmetics",
+"p": 36.57,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/benefit-cosmetics-ka-brow-cream-gel-brow-color-with-brush-mini-skin-society-shop-address-country.jpg?v=1686486035&width=400",
+"type": "Luxury",
+"tags": [
+"2025 JAN Flash Sale Excluded",
+"602004085542",
+"602004085542-32655951560797",
+"Brand_Benefit Cosmetics",
+"Brows",
+"Category_Make Up",
+"Color_3-Medium",
+"Eyes"
+],
+"in": true
+},
+{
 "t": "Medvial Ovacure",
 "u": "https://skinsociety.me/products/medvial-ovacure",
 "p": 33.0,
@@ -734,8 +814,8 @@
 {
 "t": "Gentle Eye Makeup Remover - Sensitive Eyes",
 "u": "https://skinsociety.me/products/gentle-eye-makeup-remover-sensitive-eyes-avene",
-"p": 18.0,
-"c": null,
+"p": 11.7,
+"c": 18.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/products/3282779051378.jpg?v=1674490823&width=400",
 "type": "Dermocosmetics",
@@ -747,15 +827,15 @@
 "Cleansers",
 "Dermocosmetics",
 "Eye Wash & Cleansers",
-"Loyalty Program"
+"Make Up Removers"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Skin Affair Cushion Foundation",
 "u": "https://skinsociety.me/products/skin-affair-cushion-foundation",
-"p": 74.9,
-"c": null,
+"p": 74.89,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/updated_photo_70430a5d-bea8-4862-8bb3-15a519ed134d.png?v=1792482373&width=400",
 "type": "Luxury",
@@ -949,7 +1029,7 @@
 "729238151925",
 "729238151925-32914092916829"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Teint Idole Ultra Wear Foundation - 24H Wear & Comfort Retouch-Free SPF15",
@@ -969,7 +1049,7 @@
 "3614271430236-32938237132893",
 "3614271430250"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Brush 15 - Mini Angled Brush",
@@ -1045,8 +1125,8 @@
 {
 "t": "Sublime Curl Nutri-Activating Cream - Wavy, Curly Hair",
 "u": "https://skinsociety.me/products/sublime-curl-nutri-activating-cream-wavy-curly-hair-rene-furterer",
-"p": 29.0,
-"c": null,
+"p": 18.85,
+"c": 29.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/updatedphoto_365d1d57-0a85-40cc-b11a-e728654e237b.png?v=1792068599&width=400",
 "type": "Dermocosmetics",
@@ -1100,7 +1180,7 @@
 "Face Serums",
 "Ingredient_Hyaluronic Acid"
 ],
-"in": false
+"in": true
 },
 {
 "t": "SMU SSSR Cushion Compact Refill",
@@ -1120,7 +1200,7 @@
 "729238157477",
 "729238157477-32914094162013"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Professional Brushes Eyeliner And Eyebrow Brush 001",
@@ -1140,7 +1220,7 @@
 "Category_Tools",
 "Category_Tools & Accessories"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Skinny Liner",
@@ -1160,7 +1240,7 @@
 "Beauty Sale Pupa & ABH",
 "Brand_Pupa Milano"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Lifter Liner Lip Liner Pencil & Cloudtopia Blush for Cheeks and Lip Mousse &  Lifter Gloss Lip Gloss Trio",
@@ -1433,6 +1513,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -1469,6 +1550,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -1485,6 +1567,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -1501,6 +1584,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -1517,6 +1601,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -1533,6 +1618,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -1549,10 +1635,11 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Medicube Collagen Firming Sun Cream SPF50+ - Gift",
@@ -1565,6 +1652,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -1581,10 +1669,11 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Fast Bright Serum Cleanser & Skin Active Fast Bright Day Serum & Garnier Fast Bright Overnight Serum  & Vitamin C Fresh & Bright Cream Offer",
@@ -1802,8 +1891,8 @@
 {
 "t": "DermAbsolu Intensive Reshaping Night Cream",
 "u": "https://skinsociety.me/products/dermabsolu-intensive-reshaping-night-cream",
-"p": 45.0,
-"c": null,
+"p": 29.25,
+"c": 45.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/updatedphoto_0800a888-0688-43a0-92a6-6d738f0b88a5.png?v=1791808255&width=400",
 "type": "Dermocosmetics",
@@ -1815,7 +1904,7 @@
 "Day & Night Care",
 "Dermocosmetics",
 "Item Type_Day & Night Care",
-"Loyalty Program"
+"Moisturizers"
 ],
 "in": true
 },
@@ -1862,7 +1951,7 @@
 {
 "t": "Peach’N Roses – Eau De Parfum Fruitée",
 "u": "https://skinsociety.me/products/peach-n-roses-eau-de-parfum-fruitee",
-"p": 188.88,
+"p": 188.87,
 "c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/Lancome_-_Idole_Peach_N_Roses_50ml.webp?v=1778498741&width=400",
@@ -2331,9 +2420,9 @@
 "Intimate Wash",
 "new arrivals",
 "No-Sync",
-"Product Type_Bath & Body"
+"OMG"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Rogé Cavaillès Extra-Gentle Intimate Cleanser 500ml + Free Extra-Gentle Intimate Cleanser 250ml",
@@ -2351,7 +2440,7 @@
 "Intimate Wash",
 "new arrivals",
 "No-Sync",
-"Product Type_Bath & Body"
+"OMG"
 ],
 "in": true
 },
@@ -2371,7 +2460,7 @@
 "Intimate Wash",
 "new arrivals",
 "No-Sync",
-"Product Type_Gift Sets"
+"OMG"
 ],
 "in": true
 },
@@ -2711,7 +2800,7 @@
 "Medicube",
 "new arrivals",
 "No-Sync",
-"Skin Care"
+"OMG"
 ],
 "in": true
 },
@@ -2770,8 +2859,8 @@
 "Loyalty Program",
 "new arrivals",
 "No-Sync",
-"Skin Care",
-"Skin Care Devices"
+"OMG",
+"Skin Care"
 ],
 "in": true
 },
@@ -2853,7 +2942,7 @@
 "new arrivals",
 "No-Sync"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Retinol 0.5% Intensive Age Refining 29G",
@@ -2926,6 +3015,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SAVE20",
 "SAVE22",
@@ -3009,7 +3099,7 @@
 "Loyalty Program",
 "new arrivals",
 "No-Sync",
-"Product Type_Hair Accessories"
+"OMG"
 ],
 "in": false
 },
@@ -3151,7 +3241,7 @@
 "Moisturizers",
 "new arrivals"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Plactive Neural",
@@ -3671,7 +3761,7 @@
 "Gift Sets",
 "Loyalty Program"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Hair Clip - 6009",
@@ -3911,7 +4001,7 @@
 "Category_Tools & Accessories",
 "Hair Accessories"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Hair Clip - 8389",
@@ -4004,10 +4094,10 @@
 "Category_POSM",
 "Hidden Recommendation",
 "No-Sync",
+"OMG",
 "POSM",
 "SAVE20",
-"SAVE22",
-"SEARCH_IGNORE"
+"SAVE22"
 ],
 "in": true
 },
@@ -4022,6 +4112,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -4038,6 +4129,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -4106,7 +4198,7 @@
 "POSM",
 "SEARCH_IGNORE"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Kérastase Gloss Absolu Insta Glaze Gloss Enhancing Conditioner - Gift",
@@ -4122,7 +4214,7 @@
 "POSM",
 "SEARCH_IGNORE"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Dark Spots Daily Peel Anti-Dark Spot Resurfacing Solution",
@@ -4140,7 +4232,7 @@
 "Loyalty Program",
 "new arrivals",
 "No-Sync",
-"Product Type_Skin Perfecting & Radiance"
+"OMG"
 ],
 "in": true
 },
@@ -4195,6 +4287,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SAVE20",
 "SAVE22",
@@ -4213,6 +4306,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -4229,6 +4323,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -4461,6 +4556,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -4477,6 +4573,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -4493,10 +4590,11 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Clinique Pink 2n1 Mirror & Gloss Holder -Gift",
@@ -4509,6 +4607,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -4572,7 +4671,7 @@
 "Moisturizers",
 "new arrivals"
 ],
-"in": true
+"in": false
 },
 {
 "t": "345 Relief Serum",
@@ -4617,7 +4716,7 @@
 {
 "t": "L'Eau Rosee Eau de Toilette",
 "u": "https://skinsociety.me/products/leau-rosee-eau-de-toilette",
-"p": 176.46,
+"p": 176.45,
 "c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/Miu-Miu-Leau-Rosee-Eau-de-Toilette.jpg?v=1790584174&width=400",
@@ -4637,8 +4736,8 @@
 {
 "t": "Klorane Growth Accelerating Conditioner",
 "u": "https://skinsociety.me/products/klorane-growth-accelerating-conditioner",
-"p": 13.0,
-"c": null,
+"p": 8.45,
+"c": 13.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/1_2_52eabaf1-0cd4-403c-bad6-1fcc0efca057.png?v=1790247734&width=400",
 "type": "Dermocosmetics",
@@ -4649,16 +4748,16 @@
 "Dermocosmetics",
 "Hair Care",
 "Hair Expert",
-"Loyalty Program",
-"Medical Hair Care"
+"Medical Hair Care",
+"new arrivals"
 ],
 "in": true
 },
 {
 "t": "Klorane Growth Accelerating Shampoo",
 "u": "https://skinsociety.me/products/klorane-growth-accelerating-shampoo",
-"p": 10.0,
-"c": null,
+"p": 6.5,
+"c": 10.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/1_2_38769048-b3cc-4957-a5c1-18bf63352f2a.png?v=1790249722&width=400",
 "type": "Dermocosmetics",
@@ -4669,16 +4768,16 @@
 "Hair Care",
 "Hair Expert",
 "Item Type_Shampoo",
-"Loyalty Program",
-"new arrivals"
+"new arrivals",
+"No-Sync"
 ],
 "in": true
 },
 {
 "t": "Klorane Intense Growth Accelerator Serum with Adenosine",
 "u": "https://skinsociety.me/products/klorane-intense-growth-accelerator-serum-with-adenosine",
-"p": 28.0,
-"c": null,
+"p": 18.2,
+"c": 28.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/1_2_1bba86e0-4ce4-48ec-ac9f-cbb6055f8ae5.png?v=1790247279&width=400",
 "type": "Dermocosmetics",
@@ -4689,8 +4788,8 @@
 "Hair Care",
 "Hair Expert",
 "Hair Serums",
-"Loyalty Program",
-"new arrivals"
+"new arrivals",
+"No-Sync"
 ],
 "in": true
 },
@@ -4710,7 +4809,7 @@
 "Loyalty Program",
 "new arrivals",
 "No-Sync",
-"Skin Care"
+"OMG"
 ],
 "in": false
 },
@@ -4752,7 +4851,7 @@
 "new arrivals",
 "No-Sync"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Coffret 1ere Senteur Bebe + Pouch",
@@ -4837,17 +4936,17 @@
 {
 "t": "Epithelliale Ultra Repair Balm Patch",
 "u": "https://skinsociety.me/products/epithelliale-ultra-repair-balm-patch",
-"p": 22.0,
-"c": null,
+"p": 14.3,
+"c": 22.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/1_2_3928c8ae-7989-476b-a31d-84ae9835235b.png?v=1790247055&width=400",
 "type": "Dermocosmetics",
 "tags": [
 "Brand_Aderma",
 "Dermocosmetics",
-"Loyalty Program",
 "new arrivals",
-"No-Sync"
+"No-Sync",
+"Value Deals"
 ],
 "in": true
 },
@@ -5049,7 +5148,7 @@
 "Parapharmacy",
 "Product Type_Anemia"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Curcumin",
@@ -5164,17 +5263,17 @@
 "Brand_Vital You",
 "Category_Parapharmacy",
 "Family Health",
+"OMG",
 "Parapharmacy",
-"Product Type_Accessories",
-"Sub Category_Family Health"
+"Product Type_Accessories"
 ],
 "in": true
 },
 {
 "t": "Blond Highlights Conditioner with Chamomile - Blond Hair",
 "u": "https://skinsociety.me/products/blond-highlights-conditioner-with-chamomile-blond-hair-klorane",
-"p": 13.0,
-"c": null,
+"p": 8.45,
+"c": 13.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/klorane-blond-highlights-conditioner-with-chamomile-blond-hair-skin-society-shop-address-country-1.jpg?v=1686484070&width=400",
 "type": "Dermocosmetics",
@@ -5352,8 +5451,8 @@
 {
 "t": "Nourishing Conditioner with Mango Butter - Dry Hair",
 "u": "https://skinsociety.me/products/nourishing-conditioner-with-mango-butter-dry-hair-klorane",
-"p": 13.0,
-"c": null,
+"p": 8.45,
+"c": 13.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/klorane-nourishing-conditioner-with-mango-butter-dry-hair-skin-society-shop-address-country-1.jpg?v=1686484070&width=400",
 "type": "Dermocosmetics",
@@ -6510,7 +6609,7 @@
 "Gift Sets",
 "new arrivals",
 "No-Sync",
-"Product Type_Gift Sets"
+"OMG"
 ],
 "in": true
 },
@@ -6529,8 +6628,8 @@
 "Gift Sets",
 "new arrivals",
 "No-Sync",
-"Product Type_Cleansing Water",
-"Product Type_Gift Sets"
+"OMG",
+"Product Type_Cleansing Water"
 ],
 "in": true
 },
@@ -6550,7 +6649,7 @@
 "Dermocosmetics",
 "new arrivals",
 "No-Sync",
-"Product Type_Cleansing Water"
+"OMG"
 ],
 "in": true
 },
@@ -6588,6 +6687,7 @@
 "Gift Sets",
 "new arrivals",
 "No-Sync",
+"OMG",
 "Product Type_Gift Sets",
 "Sub Category_Gift Sets"
 ],
@@ -6651,7 +6751,7 @@
 "Sub Category_Treatments",
 "Treatments"
 ],
-"in": true
+"in": false
 },
 {
 "t": "PCA Skin Hyaluronic Acid Boosting Serum",
@@ -6824,6 +6924,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -6832,7 +6933,7 @@
 {
 "t": "Men's Paradigme Le Parfum",
 "u": "https://skinsociety.me/products/mens-paradigme-le-parfum",
-"p": 195.82,
+"p": 195.81,
 "c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3614274485004.webp?v=1789395341&width=400",
@@ -7080,6 +7181,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SAVE20",
 "SAVE22",
@@ -7099,6 +7201,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -7442,7 +7545,7 @@
 "Loyalty Program",
 "Moisturizers"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Dark Spot Correcting Glow Cream",
@@ -7475,6 +7578,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SAVE20",
 "SAVE22",
@@ -7495,10 +7599,10 @@
 "Category_POSM",
 "Hidden Recommendation",
 "No-Sync",
+"OMG",
 "POSM",
 "SAVE20",
-"SAVE22",
-"SEARCH_IGNORE"
+"SAVE22"
 ],
 "in": true
 },
@@ -7513,6 +7617,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SAVE20",
 "SAVE22",
@@ -7631,6 +7736,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SAVE20",
 "SAVE22",
@@ -8109,6 +8215,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SAVE20",
 "SAVE22",
@@ -8127,6 +8234,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SAVE20",
 "SAVE22",
@@ -8192,7 +8300,7 @@
 "Loyalty Program",
 "new arrivals"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Eau my BB Toiletry Bag EDS 60ml & Body Lotion & Shower Gel 300ml & Pacifier Holder",
@@ -8305,6 +8413,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SAVE20",
 "SAVE22",
@@ -8323,6 +8432,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -8549,6 +8659,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SAVE20",
 "SAVE22",
@@ -8682,7 +8793,7 @@
 "Product Type_Pain & Cramps",
 "Sub Category_Food Supplements"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Double Wood Berberine 500Mg",
@@ -8882,7 +8993,7 @@
 "Product Type_Protein Bars",
 "Protein Bars"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Cookie Protein Bar",
@@ -8922,7 +9033,7 @@
 "Product Type_Protein Bars",
 "Protein Bars"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Vanilla Yogurt Protein Wafer",
@@ -9015,6 +9126,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -9031,6 +9143,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -9047,6 +9160,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -9083,6 +9197,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -9099,6 +9214,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SAVE20",
 "SAVE22",
@@ -9117,6 +9233,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -9133,6 +9250,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -9184,7 +9302,7 @@
 "POSM",
 "SEARCH_IGNORE"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Kérastase Summer Yellow & White Bag - Gift",
@@ -9754,7 +9872,7 @@
 "Medicube",
 "new arrivals",
 "No-Sync",
-"pimple patch"
+"OMG"
 ],
 "in": true
 },
@@ -10341,8 +10459,8 @@
 {
 "t": "Melascreen Skin Lightening Light Cream SPF15 - Brown Spots, Normal to Combination Skin",
 "u": "https://skinsociety.me/products/melascreen-skin-lightening-light-cream-spf15-brown-spots-normal-to-combination-skin",
-"p": 24.42,
-"c": null,
+"p": 15.87,
+"c": 24.42,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/ducray-melascreen-skin-lightening-light-cream-spf15-brown-spots-normal-to-combination-skin-skin-society-shop-address-country-1.jpg?v=1686491818&width=400",
 "type": "Dermocosmetics",
@@ -10490,6 +10608,7 @@
 "Loyalty Program",
 "No-Sync",
 "Nuraya",
+"OMG",
 "SAVE20",
 "SAVE22"
 ],
@@ -10618,8 +10737,8 @@
 {
 "t": "Makeup Removing Micellar Water - Sensitive Skin",
 "u": "https://skinsociety.me/products/makeup-removing-micellar-water-sensitive-skin",
-"p": 22.0,
-"c": null,
+"p": 14.3,
+"c": 22.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/u5wa3z31qn5sjwy9ja1s4nsonf6srdeasour17a.webp?v=1784538016&width=400",
 "type": "Dermocosmetics",
@@ -10627,11 +10746,11 @@
 "Brand_Avène",
 "Cleansing Water",
 "Dermocosmetics",
-"Loyalty Program",
 "Micellar Water",
 "new arrivals",
 "No-Sync",
-"Product Type_Cleansing Water"
+"Product Type_Cleansing Water",
+"Value Deals"
 ],
 "in": false
 },
@@ -10786,6 +10905,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SAVE20",
 "SAVE22",
@@ -10988,7 +11108,8 @@
 "korean",
 "Loyalty Program",
 "new arrivals",
-"No-Sync"
+"No-Sync",
+"OMG"
 ],
 "in": true
 },
@@ -11068,7 +11189,7 @@
 "Loyalty Program",
 "new arrivals",
 "No-Sync",
-"Skin Care"
+"OMG"
 ],
 "in": true
 },
@@ -12170,7 +12291,7 @@
 "Dry Skin",
 "Dryness"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Baby & Child Very High Protection Sun Lotion SPF50+",
@@ -12335,8 +12456,8 @@
 {
 "t": "Elution Rebalancing Shampoo - Limits Recurrence",
 "u": "https://skinsociety.me/products/elution-rebalancing-shampoo-limits-recurrence-ducray",
-"p": 19.0,
-"c": null,
+"p": 12.35,
+"c": 19.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/ducray-elution-rebalancing-shampoo-limits-recurrence-skin-society-shop-address-country-1.jpg?v=1686483808&width=400",
 "type": "Dermocosmetics",
@@ -12355,8 +12476,8 @@
 {
 "t": "Dermalibour Cream - Soothing, Repairing and Purifying",
 "u": "https://skinsociety.me/products/dermalibour-cream-soothing-repairing-and-purifying-aderma",
-"p": 8.54,
-"c": null,
+"p": 5.55,
+"c": 8.54,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/aderma-dermalibour-cream-soothing-repairing-and-purifying-skin-society-shop-address-country-1.jpg?v=1686483656&width=400",
 "type": "Dermocosmetics",
@@ -12715,8 +12836,8 @@
 {
 "t": "Exomega Control Emollient Shower Oil - Anti-Scratching",
 "u": "https://skinsociety.me/products/exomega-control-emollient-shower-oil-anti-scratching-aderma",
-"p": 12.0,
-"c": null,
+"p": 7.8,
+"c": 12.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/aderma-exomega-control-emollient-shower-oil-anti-scratching-skin-society-shop-address-country-1.jpg?v=1686488934&width=400",
 "type": "Dermocosmetics",
@@ -12755,8 +12876,8 @@
 {
 "t": "Klorane Junior Body and Hair Shower Gel 200ml",
 "u": "https://skinsociety.me/products/petit-junior-shower-gel-boday-and-hair-pear-fragrance-klorane",
-"p": 9.0,
-"c": null,
+"p": 5.85,
+"c": 9.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/1_1_0ec6d7f7-a699-4861-adf1-bedc17ec5a83.png?v=1776339571&width=400",
 "type": "Dermocosmetics",
@@ -12775,8 +12896,8 @@
 {
 "t": "Color Enhancing Shampoo with Pomegranate - Color-Treated Hair",
 "u": "https://skinsociety.me/products/color-enhancing-shampoo-with-pomegranate-color-treated-hair-klorane",
-"p": 10.0,
-"c": null,
+"p": 6.5,
+"c": 10.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/klorane-color-enhancing-shampoo-with-pomegranate-color-treated-hair-skin-society-shop-address-country-1.jpg?v=1686488559&width=400",
 "type": "Dermocosmetics",
@@ -12795,8 +12916,8 @@
 {
 "t": "Hydrance Aqua-Gel - Dehydrated Sensitive Skin",
 "u": "https://skinsociety.me/products/hydrance-aqua-gel-hydrating-aqua-cream-in-gel-dehydrated-sensitive-skin-avene",
-"p": 28.17,
-"c": null,
+"p": 18.31,
+"c": 28.17,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/avene-hydrance-aqua-gel-dehydrated-sensitive-skin-skin-society-shop-address-country-1.jpg?v=1686488411&width=400",
 "type": "Dermocosmetics",
@@ -12850,7 +12971,7 @@
 "Category_Skin Care",
 "Cleansers"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Eau Thermale - Thermal Water",
@@ -13015,8 +13136,8 @@
 {
 "t": "Keracnyl Foaming Gel - Face and Body - Acne-Prone Skin",
 "u": "https://skinsociety.me/products/keracnyl-foaming-gel-face-and-body-acne-prone-skin-ducray",
-"p": 11.95,
-"c": null,
+"p": 7.77,
+"c": 11.95,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/1_1_220225ad-7606-477b-b2f0-8d407053b23f.png?v=1774434936&width=400",
 "type": "Dermocosmetics",
@@ -13600,7 +13721,9 @@
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3337875930116_1.jpg?v=1787558304&width=400",
 "type": "Dermocosmetics",
-"tags": [],
+"tags": [
+"OMG"
+],
 "in": true
 },
 {
@@ -13848,7 +13971,9 @@
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3337875952958_1.png?v=1787559109&width=400",
 "type": "Dermocosmetics",
-"tags": [],
+"tags": [
+"OMG"
+],
 "in": false
 },
 {
@@ -13889,7 +14014,7 @@
 "earth26",
 "garskinr"
 ],
-"in": false
+"in": true
 },
 {
 "t": "The Peptide Collagen Hydrogel Eye Patch",
@@ -14006,7 +14131,8 @@
 "korean",
 "Loyalty Program",
 "new arrivals",
-"No-Sync"
+"No-Sync",
+"OMG"
 ],
 "in": true
 },
@@ -14327,7 +14453,7 @@
 "Medicube",
 "new arrivals"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Deep Lifting Peptide Eye Cream",
@@ -14384,7 +14510,8 @@
 "Loyalty Program",
 "Medicube",
 "new arrivals",
-"No-Sync"
+"No-Sync",
+"OMG"
 ],
 "in": true
 },
@@ -14403,7 +14530,8 @@
 "Loyalty Program",
 "Medicube",
 "new arrivals",
-"No-Sync"
+"No-Sync",
+"OMG"
 ],
 "in": true
 },
@@ -14642,7 +14770,8 @@
 "Loyalty Program",
 "Medicube",
 "new arrivals",
-"No-Sync"
+"No-Sync",
+"OMG"
 ],
 "in": true
 },
@@ -14684,7 +14813,7 @@
 "Loyalty Program",
 "Masks & Patches"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Zero Pore Pads 2.0",
@@ -15437,7 +15566,8 @@
 "tags": [
 "korean",
 "Loyalty Program",
-"No-Sync"
+"No-Sync",
+"OMG"
 ],
 "in": true
 },
@@ -15472,7 +15602,8 @@
 "tags": [
 "korean",
 "Loyalty Program",
-"No-Sync"
+"No-Sync",
+"OMG"
 ],
 "in": true
 },
@@ -15979,6 +16110,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SAVE22",
 "SEARCH_IGNORE"
@@ -16155,6 +16287,7 @@
 "Category_POSM",
 "Loyalty Program",
 "No-Sync",
+"OMG",
 "POSM",
 "SAVE20",
 "SAVE22",
@@ -16174,6 +16307,7 @@
 "Category_POSM",
 "Loyalty Program",
 "No-Sync",
+"OMG",
 "POSM",
 "SAVE20",
 "SAVE22",
@@ -16374,6 +16508,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -16390,6 +16525,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -16406,6 +16542,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SAVE20",
 "SAVE22",
@@ -16424,6 +16561,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SAVE20",
 "SAVE22",
@@ -16442,6 +16580,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -16459,6 +16598,7 @@
 "BLUSHEDBRONZED",
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SAVE20",
 "SAVE22",
@@ -16477,6 +16617,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SAVE20",
 "SAVE22",
@@ -16520,7 +16661,7 @@
 "Hair & Nails",
 "Loyalty Program",
 "No-Sync",
-"Parapharmacy"
+"OMG"
 ],
 "in": false
 },
@@ -16559,8 +16700,8 @@
 "Loyalty Program",
 "new arrivals",
 "No-Sync",
-"Product Type_Gift Sets",
-"Sub Category_Gift Sets"
+"OMG",
+"Product Type_Gift Sets"
 ],
 "in": false
 },
@@ -16655,6 +16796,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SAVE20",
 "SAVE22",
@@ -16673,6 +16815,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SAVE20",
 "SAVE22",
@@ -16691,6 +16834,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SAVE20",
 "SAVE22",
@@ -16709,6 +16853,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SAVE20",
 "SAVE22",
@@ -16744,6 +16889,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SAVE20",
 "SAVE22",
@@ -16762,6 +16908,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SAVE20",
 "SAVE22",
@@ -16985,7 +17132,7 @@
 "SAVE22",
 "SEARCH_IGNORE"
 ],
-"in": false
+"in": true
 },
 {
 "t": "CeraVe Foaming Cleanser - Gift",
@@ -17003,7 +17150,7 @@
 "SAVE22",
 "SEARCH_IGNORE"
 ],
-"in": false
+"in": true
 },
 {
 "t": "CeraVe Hydrating Cleanser - Gift",
@@ -17276,7 +17423,7 @@
 "Loyalty Program",
 "new arrivals",
 "No-Sync",
-"Product Type_Sunscreens"
+"OMG"
 ],
 "in": true
 },
@@ -17449,6 +17596,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SAVE20",
 "SAVE22",
@@ -17827,6 +17975,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -17843,6 +17992,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -17859,6 +18009,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SAVE20",
 "SAVE22",
@@ -17877,6 +18028,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SAVE20",
 "SAVE22",
@@ -17895,6 +18047,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SAVE20",
 "SAVE22",
@@ -17913,6 +18066,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -17967,10 +18121,11 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Sebiaclear Cleansing Cream Moisturising Soothing",
@@ -18095,6 +18250,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -18111,6 +18267,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -18127,6 +18284,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -18143,6 +18301,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -18159,6 +18318,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SAVE20",
 "SAVE22",
@@ -18177,6 +18337,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SAVE20",
 "SAVE22",
@@ -18193,6 +18354,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/328PM00001G.png?v=1785483985&width=400",
 "type": "POSM",
 "tags": [
+"OMG",
 "SAVE20",
 "SAVE22"
 ],
@@ -18209,6 +18371,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SAVE20",
 "SAVE22",
@@ -18227,6 +18390,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SAVE20",
 "SAVE22",
@@ -18245,6 +18409,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SAVE20",
 "SAVE22",
@@ -18263,6 +18428,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SAVE20",
 "SAVE22",
@@ -18281,6 +18447,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SAVE20",
 "SAVE22",
@@ -18339,6 +18506,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SAVE20",
 "SAVE22",
@@ -18357,6 +18525,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -18373,6 +18542,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -18389,6 +18559,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -18505,6 +18676,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -18521,6 +18693,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -18537,6 +18710,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -18553,6 +18727,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -18569,6 +18744,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -18612,7 +18788,7 @@
 "Parapharmacy",
 "Product Type_Body Building"
 ],
-"in": false
+"in": true
 },
 {
 "t": "QNT Testek",
@@ -18792,7 +18968,7 @@
 "Product Type_Hair & Nails",
 "Sub Category_Food Supplements"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Protein Gummies Berries 20 Gr Peach Mango",
@@ -18945,6 +19121,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -18961,6 +19138,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SAVE20",
 "SAVE22",
@@ -18982,9 +19160,9 @@
 "Family Health",
 "First Aid",
 "Loyalty Program",
+"OMG",
 "Para BF 20% OFF",
-"Parapharmacy",
-"Product Type_First Aid"
+"Parapharmacy"
 ],
 "in": true
 },
@@ -19124,7 +19302,7 @@
 "Loyalty Program",
 "new arrivals",
 "No-Sync",
-"Professional Hair Care"
+"OMG"
 ],
 "in": false
 },
@@ -19163,6 +19341,7 @@
 "Loyalty Program",
 "new arrivals",
 "No-Sync",
+"OMG",
 "Professional Hair Care"
 ],
 "in": false
@@ -19422,7 +19601,7 @@
 "Loyalty Program",
 "new arrivals",
 "No-Sync",
-"SAVE20"
+"OMG"
 ],
 "in": true
 },
@@ -19440,6 +19619,7 @@
 "Loyalty Program",
 "new arrivals",
 "No-Sync",
+"OMG",
 "SAVE20",
 "SAVE22"
 ],
@@ -19480,8 +19660,8 @@
 "Loyalty Program",
 "new arrivals",
 "No-Sync",
-"SAVE20",
-"SAVE22"
+"OMG",
+"SAVE20"
 ],
 "in": false
 },
@@ -19536,6 +19716,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -19552,6 +19733,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -19568,6 +19750,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SAVE20",
 "SAVE22",
@@ -19586,6 +19769,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -19602,6 +19786,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SAVE20",
 "SAVE22",
@@ -19620,6 +19805,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -19636,6 +19822,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -19652,6 +19839,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -19668,6 +19856,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SAVE20",
 "SAVE22",
@@ -19686,6 +19875,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -19702,6 +19892,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -19718,6 +19909,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -19734,6 +19926,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SAVE20",
 "SAVE22",
@@ -19752,6 +19945,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -19768,6 +19962,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -19784,6 +19979,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -19800,6 +19996,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -19816,6 +20013,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SAVE20",
 "SAVE22",
@@ -19834,6 +20032,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SAVE20",
 "SAVE22",
@@ -19852,6 +20051,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -19868,6 +20068,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -19884,6 +20085,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -19900,6 +20102,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SAVE20",
 "SAVE22",
@@ -19918,6 +20121,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -19934,6 +20138,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -19950,6 +20155,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -19966,6 +20172,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SAVE20",
 "SAVE22",
@@ -19984,6 +20191,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SAVE20",
 "SAVE22",
@@ -20177,6 +20385,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SAVE20",
 "SAVE22",
@@ -20382,7 +20591,7 @@
 "Loyalty Program",
 "Luxury"
 ],
-"in": true
+"in": false
 },
 {
 "t": "My Way Eau de Parfum 90ml + 10ml & Body Lotion Trio Coffret",
@@ -20440,7 +20649,7 @@
 "Luxury Skin Care",
 "new arrivals",
 "No-Sync",
-"Skin Care"
+"OMG"
 ],
 "in": true
 },
@@ -20659,8 +20868,8 @@
 "Loyalty Program",
 "new arrivals",
 "No-Sync",
-"SAVE20",
-"SAVE22"
+"OMG",
+"SAVE20"
 ],
 "in": true
 },
@@ -20739,8 +20948,8 @@
 "Loyalty Program",
 "new arrivals",
 "No-Sync",
-"SAVE20",
-"SAVE22"
+"OMG",
+"SAVE20"
 ],
 "in": true
 },
@@ -20780,7 +20989,7 @@
 "Loyalty Program",
 "new arrivals",
 "No-Sync",
-"SAVE20"
+"OMG"
 ],
 "in": true
 },
@@ -20862,7 +21071,7 @@
 "Treatments",
 "Whitening & Hyperpigmentation"
 ],
-"in": true
+"in": false
 },
 {
 "t": "NOW Zinc Glycinate 30 Mg",
@@ -21098,9 +21307,9 @@
 "Category_Parapharmacy",
 "Fatigue & Energy",
 "Food Supplements",
+"OMG",
 "Parapharmacy",
-"Product Type_Fatigue & Energy",
-"Sub Category_Food Supplements"
+"Product Type_Fatigue & Energy"
 ],
 "in": true
 },
@@ -21122,7 +21331,7 @@
 "Sleeping & Stress Disorder",
 "Sub Category_Food Supplements"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Zell-V NMN",
@@ -21147,7 +21356,7 @@
 {
 "t": "Myoki Powder",
 "u": "https://skinsociety.me/products/myoki-powder",
-"p": 130.0,
+"p": 125.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/8809171383033.jpg?v=1784637504&width=400",
@@ -21162,7 +21371,7 @@
 "Product Type_Body Building",
 "Sub Category_Food Supplements"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Sedicalm",
@@ -21380,7 +21589,7 @@
 "Neutrogena",
 "new arrivals",
 "No-Sync",
-"Product Type_Sunscreens"
+"OMG"
 ],
 "in": true
 },
@@ -22262,7 +22471,7 @@
 "Category_Fragrances",
 "Eau De Parfum"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Vanille Bourbon - Eau de Parfum",
@@ -22467,8 +22676,8 @@
 {
 "t": "Moisturizing Hand Cream - Fresh Verbena",
 "u": "https://skinsociety.me/products/moisturizing-hand-cream-fresh-verbena-compagnie-de-provence",
-"p": 6.29,
-"c": 12.58,
+"p": 12.58,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/compagnie-de-provence-moisturizing-hand-cream-fresh-verbena-skin-society-shop-address-country-1.jpg?v=1686485953&width=400",
 "type": "Dermocosmetics",
@@ -22478,17 +22687,17 @@
 "3551780000706-32655931703389",
 "3551780000805",
 "3551780000805-32655933735005",
-"APRILSALE",
 "Bath & Body",
-"Best Seller"
+"Best Seller",
+"Body Care"
 ],
 "in": true
 },
 {
 "t": "Moisturizing Hand Cream - Olive Wood",
 "u": "https://skinsociety.me/products/moisturizing-hand-cream-olive-wood-compagnie-de-provence",
-"p": 6.29,
-"c": 12.58,
+"p": 12.58,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/compagnie-de-provence-moisturizing-hand-cream-olive-wood-skin-society-shop-address-country-1.jpg?v=1686485943&width=400",
 "type": "Dermocosmetics",
@@ -22498,17 +22707,17 @@
 "3551780000614-32655928590429",
 "3551780000713",
 "3551780000713-32655935242333",
-"APRILSALE",
 "Bath & Body",
-"Body Care"
+"Body Care",
+"Body Moisturizers"
 ],
 "in": true
 },
 {
 "t": "Exfoliating Liquid Marseille Soap",
 "u": "https://skinsociety.me/products/exfoliating-liquid-marseille-soap-compagnie-de-provence",
-"p": 15.5,
-"c": 31.0,
+"p": 31.0,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/compagnie-de-provence-exfoliating-liquid-marseille-soap-skin-society-shop-address-country-1.jpg?v=1686485912&width=400",
 "type": "Dermocosmetics",
@@ -22527,8 +22736,8 @@
 {
 "t": "Phyto5 Facial Cleansing Gel",
 "u": "https://skinsociety.me/products/phyto5-facial-cleansing-gel-phytobiodermie",
-"p": 13.17,
-"c": 18.82,
+"p": 18.82,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/phytobiodermie-phyto5-facial-cleansing-gel-skin-society-shop-address-country-1.jpg?v=1686485591&width=400",
 "type": "Luxury",
@@ -22675,6 +22884,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SAVE20",
 "SAVE22",
@@ -22693,6 +22903,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -22709,6 +22920,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -22717,8 +22929,8 @@
 {
 "t": "Ducray Kelual DS Anti-Dandruff Cleansing Gel",
 "u": "https://skinsociety.me/products/ducray-kelual-ds-anti-dandruff-cleansing-gel",
-"p": 17.0,
-"c": null,
+"p": 11.05,
+"c": 17.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/1_2_186ee719-4395-4b6e-8388-23f42c4f5fcd.png?v=1784208074&width=400",
 "type": "Dermocosmetics",
@@ -22728,9 +22940,9 @@
 "Day & Night Care",
 "Dermocosmetics",
 "Item Type_Day & Night Care",
-"Loyalty Program",
 "Medical",
-"Medical Skin Care"
+"Medical Skin Care",
+"Moisturizers"
 ],
 "in": true
 },
@@ -22815,8 +23027,8 @@
 {
 "t": "Ultra fluid Eclat Radiance SPF50+ Sunscreen 50ml | Ultra Light Hydrating Micropigments Tinted Sunscreen",
 "u": "https://skinsociety.me/products/ultra-fluid-eclat-radiance-spf50-sunscreen-50ml-ultra-light-hydrating-micropigments-tinted-sunscreen",
-"p": 33.0,
-"c": null,
+"p": 21.45,
+"c": 33.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/1_2_f741657b-2d6f-48c5-9e86-c5fb5d7a95c7.png?v=1784196801&width=400",
 "type": "Dermocosmetics",
@@ -22826,17 +23038,17 @@
 "Category_Skin Care",
 "Dermocosmetics",
 "Item Type_Sunscreens",
-"Loyalty Program",
 "new arrivals",
-"No-Sync"
+"No-Sync",
+"Product Type_Sunscreens"
 ],
 "in": true
 },
 {
 "t": "Hydrance SPF 30 Moisturizing Cream,40ml",
 "u": "https://skinsociety.me/products/hydrance-spf-30-moisturizing-cream-40ml",
-"p": 28.0,
-"c": null,
+"p": 18.2,
+"c": 28.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/1_2_cfabe509-8316-4f69-b707-e397aa9b553c.png?v=1784197924&width=400",
 "type": "Dermocosmetics",
@@ -22846,17 +23058,17 @@
 "Day & Night Care",
 "Dermocosmetics",
 "Item Type_Day & Night Care",
-"Loyalty Program",
 "Medical Skin Care",
-"Moisturizers"
+"Moisturizers",
+"new arrivals"
 ],
 "in": true
 },
 {
 "t": "A-Derma Biology AC Purifying Cleansing Foaming Gel",
 "u": "https://skinsociety.me/products/a-derma-biology-ac-purifying-cleansing-foaming-gel",
-"p": 23.0,
-"c": null,
+"p": 14.95,
+"c": 23.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/1_2_a679de0d-d0ff-410d-89b8-a6c2b590cabd.png?v=1784198591&width=400",
 "type": "Dermocosmetics",
@@ -22875,8 +23087,8 @@
 {
 "t": "Ducray Kelual DS Intensive Anti-dandruff Treatment Shampoo",
 "u": "https://skinsociety.me/products/ducray-kelual-ds-intensive-anti-dandruff-treatment-shampoo",
-"p": 21.0,
-"c": null,
+"p": 13.65,
+"c": 21.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/1_2.png?v=1784187911&width=400",
 "type": "Dermocosmetics",
@@ -22887,8 +23099,8 @@
 "Hair Care",
 "Hair Expert",
 "Item Type_Shampoo",
-"Loyalty Program",
-"new arrivals"
+"new arrivals",
+"No-Sync"
 ],
 "in": false
 },
@@ -22943,6 +23155,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SAVE20",
 "SAVE22",
@@ -22961,6 +23174,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -23177,8 +23391,8 @@
 "Hair Expert",
 "Loyalty Program",
 "No-Sync",
-"SAVE20",
-"SAVE22"
+"OMG",
+"SAVE20"
 ],
 "in": false
 },
@@ -23337,8 +23551,8 @@
 "Loyalty Program",
 "new arrivals",
 "No-Sync",
-"Product Type_Brows",
-"SAVE20"
+"OMG",
+"Product Type_Brows"
 ],
 "in": true
 },
@@ -23493,6 +23707,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -23509,6 +23724,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SAVE20",
 "SAVE22",
@@ -23527,6 +23743,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -23543,6 +23760,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -23559,6 +23777,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SAVE20",
 "SAVE22",
@@ -23577,6 +23796,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SAVE20",
 "SAVE22",
@@ -23595,6 +23815,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -23611,6 +23832,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -23627,6 +23849,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -23643,6 +23866,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -23659,6 +23883,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -23675,6 +23900,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -23691,6 +23917,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -23707,6 +23934,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SAVE20",
 "SAVE22",
@@ -23725,6 +23953,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -23741,6 +23970,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -23757,6 +23987,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -23773,6 +24004,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -23789,6 +24021,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -23805,6 +24038,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -23821,6 +24055,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -23837,6 +24072,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -23853,6 +24089,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -23869,6 +24106,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -23885,6 +24123,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -23901,6 +24140,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SAVE20",
 "SAVE22",
@@ -23919,6 +24159,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SAVE20",
 "SAVE22",
@@ -23937,6 +24178,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -23953,6 +24195,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -23969,6 +24212,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -23985,6 +24229,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -24001,6 +24246,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -24017,6 +24263,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -24033,6 +24280,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -24049,6 +24297,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -24065,6 +24314,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -24081,6 +24331,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -24097,6 +24348,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -24133,6 +24385,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SAVE20",
 "SAVE22",
@@ -24151,6 +24404,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -24167,6 +24421,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -24183,6 +24438,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -24197,6 +24453,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/soleildejasmin_9c5a0227-3526-4884-b560-da114cffd01a.webp?v=1776411885&width=400",
 "type": "Dermocosmetics",
 "tags": [
+"OMG",
 "SAVE20",
 "SAVE22"
 ],
@@ -24211,6 +24468,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/soleildejasmin.webp?v=1776411883&width=400",
 "type": "Dermocosmetics",
 "tags": [
+"OMG",
 "SAVE20",
 "SAVE22"
 ],
@@ -24330,7 +24588,7 @@
 "SU26",
 "Sub Category_Value Deals"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Tatouage Couture Velvet Cream - Velvet Matte Stain Yves Saint Laurent Gift",
@@ -24343,6 +24601,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -24359,6 +24618,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -24375,6 +24635,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -24391,6 +24652,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -24414,7 +24676,7 @@
 "SubCategory_Value Deals",
 "Value Deal"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Vitamin C Micellar Water Facial Brightening Cleanser and Makeup Remover Duo",
@@ -24534,7 +24796,7 @@
 "Parapharmacy",
 "Product Type_Cardiovascular Diseases"
 ],
-"in": true
+"in": false
 },
 {
 "t": "DRAW ENTRY CARD - GSPA GIVEAWAY",
@@ -24890,6 +25152,7 @@
 "Loyalty Program",
 "new arrivals",
 "No-Sync",
+"OMG",
 "SAVE20",
 "SAVE22"
 ],
@@ -24924,6 +25187,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/Prada_-_Luna_Rossa_Carbon_50ml.webp?v=1778499015&width=400",
 "type": "Luxury",
 "tags": [
+"OMG",
 "SAVE20",
 "SAVE22"
 ],
@@ -25008,8 +25272,8 @@
 {
 "t": "Color Glow Repairing Glow Conditioner",
 "u": "https://skinsociety.me/products/color-glow-repairing-glow-conditioner",
-"p": 43.0,
-"c": null,
+"p": 27.95,
+"c": 43.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/u5wa3z31qn5sjrqnpwbkrntd6wew68pxa646bko_f8dfa281-b73e-43db-adca-c993a95730c3.webp?v=1782895956&width=400",
 "type": "Dermocosmetics",
@@ -25021,7 +25285,7 @@
 "Dermocosmetics",
 "Hair Care",
 "Hair Expert",
-"Loyalty Program"
+"Medical Hair Care"
 ],
 "in": true
 },
@@ -25250,6 +25514,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SAVE20",
 "SAVE22",
@@ -25288,6 +25553,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -25305,6 +25571,7 @@
 "Brand_L'Oréal Professionnel",
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -25461,6 +25728,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -25593,8 +25861,8 @@
 {
 "t": "Melascreen Control Invisible Fluid SPF50+ 30ml",
 "u": "https://skinsociety.me/products/melascreen-control-invisible-fluid-spf50-30-ml",
-"p": 28.0,
-"c": null,
+"p": 18.2,
+"c": 28.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/ducray-melascreen-control-365-jours-fluide-invisible-spf50-30ml.jpg?v=1782812899&width=400",
 "type": "Dermocosmetics",
@@ -25604,9 +25872,9 @@
 "Category_Skin Care",
 "Dermocosmetics",
 "Item Type_Sunscreens",
-"Loyalty Program",
 "Medical Skin Care",
-"new arrivals"
+"new arrivals",
+"No-Sync"
 ],
 "in": true
 },
@@ -25745,8 +26013,8 @@
 "Loyalty Program",
 "new arrivals",
 "No-Sync",
-"Product Type_For Him",
-"Product Type_Gift Sets"
+"OMG",
+"Product Type_For Him"
 ],
 "in": true
 },
@@ -26301,9 +26569,9 @@
 "Category_Parapharmacy",
 "Food Supplements",
 "Loyalty Program",
+"OMG",
 "Pain & Cramps",
-"Parapharmacy",
-"Product Type_Pain & Cramps"
+"Parapharmacy"
 ],
 "in": true
 },
@@ -26341,9 +26609,9 @@
 "Category_Parapharmacy",
 "Food Supplements",
 "Loyalty Program",
+"OMG",
 "Parapharmacy",
-"Product Type_Sleeping & Stress Disorder",
-"Sleeping & Stress Disorder"
+"Product Type_Sleeping & Stress Disorder"
 ],
 "in": true
 },
@@ -26501,9 +26769,9 @@
 "Category_Parapharmacy",
 "Food Supplements",
 "Loyalty Program",
+"OMG",
 "Pain & Cramps",
-"Parapharmacy",
-"Product Type_Pain & Cramps"
+"Parapharmacy"
 ],
 "in": false
 },
@@ -26542,8 +26810,8 @@
 "Food Supplements",
 "Joints & Cartilages",
 "Loyalty Program",
-"Parapharmacy",
-"Product Type_Joints & Cartilages"
+"OMG",
+"Parapharmacy"
 ],
 "in": false
 },
@@ -26561,9 +26829,9 @@
 "Category_Parapharmacy",
 "Food Supplements",
 "Loyalty Program",
+"OMG",
 "Parapharmacy",
-"Product Type_Skin Beauty",
-"Skin Beauty"
+"Product Type_Skin Beauty"
 ],
 "in": true
 },
@@ -26582,8 +26850,8 @@
 "Food Supplements",
 "Loyalty Program",
 "Memory & Concentration",
-"Parapharmacy",
-"Product Type_Memory & Concentration"
+"OMG",
+"Parapharmacy"
 ],
 "in": false
 },
@@ -26602,8 +26870,8 @@
 "Category_Parapharmacy",
 "Food Supplements",
 "Loyalty Program",
-"Parapharmacy",
-"Product Type_Anemia"
+"OMG",
+"Parapharmacy"
 ],
 "in": true
 },
@@ -26642,8 +26910,8 @@
 "Cold & Flu",
 "Family Health",
 "Loyalty Program",
-"Parapharmacy",
-"Product Type_Cold & Flu"
+"OMG",
+"Parapharmacy"
 ],
 "in": true
 },
@@ -26665,7 +26933,7 @@
 "Parapharmacy",
 "Product Type_Cardiovascular Diseases"
 ],
-"in": true
+"in": false
 },
 {
 "t": "The Rare Bears Blind Box Lipgloss",
@@ -26676,6 +26944,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/30_39785b2d-fb85-40c1-aaaf-ab8b2971b3a1.png?v=1781522932&width=400",
 "type": "Casual",
 "tags": [
+"OMG",
 "SAVE20",
 "SAVE22"
 ],
@@ -27172,10 +27441,10 @@
 "Brand_Novadiet",
 "Category_Parapharmacy",
 "Food Supplements",
+"OMG",
 "Para BF 20% OFF",
 "Parapharmacy",
-"Product Type_Skin Beauty",
-"Skin Beauty"
+"Product Type_Skin Beauty"
 ],
 "in": true
 },
@@ -27290,6 +27559,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -27493,7 +27763,7 @@
 "Item Type_Shampoo",
 "No-Sync"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Garnier Avocado Hair Clip - Gift",
@@ -27598,6 +27868,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -27722,8 +27993,8 @@
 {
 "t": "Exomega Control Emollient Solar Cream SPF50+",
 "u": "https://skinsociety.me/products/exomega-control-emollient-solar-cream-spf50",
-"p": 26.0,
-"c": null,
+"p": 16.9,
+"c": 26.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/a-derma-exomega-control-emollient-solar-cream-spf50-150-ml.jpg?v=1780921475&width=400",
 "type": "Dermocosmetics",
@@ -27732,10 +28003,10 @@
 "Category_Skin Care",
 "Dermocosmetics",
 "Item Type_Sunscreens",
-"Loyalty Program",
 "new arrivals",
 "No-Sync",
-"Product Type_Sunscreens"
+"Product Type_Sunscreens",
+"SAVE20"
 ],
 "in": true
 },
@@ -27891,7 +28162,7 @@
 "Product Type_Biscuits",
 "Sub Category_Baby Nutrition"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Interdental Brush 0.4mm S0 Pink",
@@ -28198,7 +28469,7 @@
 "new arrivals",
 "No-Sync",
 "Nuraya",
-"Product Type_After-Sun Care"
+"OMG"
 ],
 "in": true
 },
@@ -28218,7 +28489,7 @@
 "new arrivals",
 "No-Sync",
 "Nuraya",
-"Product Type_Tanning Oils & Creams"
+"OMG"
 ],
 "in": true
 },
@@ -28471,6 +28742,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -28643,6 +28915,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SAVE20",
 "SAVE22",
@@ -28668,7 +28941,7 @@
 "Loyalty Program",
 "Medical Skin Care"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Beach Towel - Gift",
@@ -28751,6 +29024,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SAVE20",
 "SAVE22",
@@ -28887,10 +29161,10 @@
 "Brand_Meridol",
 "Category_Parapharmacy",
 "Dental Care",
+"OMG",
 "Parapharmacy",
 "Product Type_Toothpaste",
-"Sub Category_Dental Care",
-"Toothpaste"
+"Sub Category_Dental Care"
 ],
 "in": false
 },
@@ -28927,10 +29201,10 @@
 "Brand_Pasta Del Capitano",
 "Category_Parapharmacy",
 "Dental Care",
+"OMG",
 "Parapharmacy",
 "Product Type_Toothpaste",
-"Sub Category_Dental Care",
-"Toothpaste"
+"Sub Category_Dental Care"
 ],
 "in": false
 },
@@ -29717,8 +29991,8 @@
 {
 "t": "Avene Ultra Fluid Invisible SPF50",
 "u": "https://skinsociety.me/products/avene-ultra-fluid-invisible-spf50",
-"p": 29.0,
-"c": null,
+"p": 18.85,
+"c": 29.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3282770392654.jpg?v=1763549869&width=400",
 "type": "Dermocosmetics",
@@ -29777,8 +30051,8 @@
 {
 "t": "Dermabsolu Redensifying Day Cream",
 "u": "https://skinsociety.me/products/dermabsolu-redensifying-day-cream",
-"p": 48.0,
-"c": null,
+"p": 31.2,
+"c": 48.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/u5wa3z31qn5sjwnqz45id1nw9rf1r1pebyxcsaa.webp?v=1778834530&width=400",
 "type": "Dermocosmetics",
@@ -29789,8 +30063,8 @@
 "Day & Night Care",
 "Dermocosmetics",
 "Item Type_Day & Night Care",
-"Loyalty Program",
-"Moisturizers"
+"Moisturizers",
+"new arrivals"
 ],
 "in": true
 },
@@ -29817,8 +30091,8 @@
 {
 "t": "Dermabsolu Filler Eye Contour Cream",
 "u": "https://skinsociety.me/products/dermabsolu-filler-eye-contour-cream",
-"p": 36.0,
-"c": null,
+"p": 23.4,
+"c": 36.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/u5wa3z31qn5sjwnqz45id1nw9gutdib5qkw1mwo.webp?v=1778831893&width=400",
 "type": "Dermocosmetics",
@@ -29829,8 +30103,8 @@
 "Dermocosmetics",
 "eye creams & serums",
 "Lip Care",
-"Loyalty Program",
-"Moisturizers"
+"Moisturizers",
+"new arrivals"
 ],
 "in": true
 },
@@ -29909,8 +30183,8 @@
 {
 "t": "Hyaluron Activ Procedure Retinal Lifting Cream - 0.1% Retinal",
 "u": "https://skinsociety.me/products/avene-hyaluron-activ-procedure-retinal-lifting-cream-0-1-retinal",
-"p": 65.0,
-"c": null,
+"p": 42.25,
+"c": 65.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/1_1_410ac034-1383-43b8-a9a1-9cc683c95e1c.png?v=1778590644&width=400",
 "type": "Dermocosmetics",
@@ -29921,8 +30195,8 @@
 "Face Serums",
 "hyaluron active avene",
 "Item Type_Face Serums",
-"Loyalty Program",
-"Moisturizers"
+"Moisturizers",
+"new arrivals"
 ],
 "in": true
 },
@@ -29935,6 +30209,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/4059729583420___L.jpg?v=1778584125&width=400",
 "type": "Casual",
 "tags": [
+"OMG",
 "SAVE20",
 "SAVE22"
 ],
@@ -30018,7 +30293,7 @@
 "Parapharmacy",
 "Product Type_Bones & Osteoporosis"
 ],
-"in": true
+"in": false
 },
 {
 "t": "TMG",
@@ -30078,7 +30353,7 @@
 "Sub Category_Treatments",
 "Treatments"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Resveratrol Red Wine",
@@ -30198,7 +30473,7 @@
 "Parapharmacy",
 "Product Type_Bones & Osteoporosis"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Soft Touch Mousse Blush",
@@ -30855,7 +31130,7 @@
 "Heat Protection",
 "Loyalty Program"
 ],
-"in": true
+"in": false
 },
 {
 "t": "L'oreal Paris Black Pack Of 2 Hair Clip - Gift",
@@ -31024,8 +31299,8 @@
 {
 "t": "Avène Ultra Serum Spf50+ Activates Radiance, 30 ml",
 "u": "https://skinsociety.me/products/avene-ultra-serum-spf50-activates-radiance-30-ml",
-"p": 52.0,
-"c": null,
+"p": 33.8,
+"c": 52.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/avene-ultra-serum-spf50-activa-la-luminosidad-30-ml-284580_2000x_0037491a-adbb-4e33-bcb5-571dfe85e1c4.webp?v=1777272303&width=400",
 "type": "Dermocosmetics",
@@ -31036,22 +31311,22 @@
 "Day & Night Care",
 "Dermocosmetics",
 "Item Type_Day & Night Care",
-"Loyalty Program",
-"Moisturizers"
+"Moisturizers",
+"new arrivals"
 ],
 "in": true
 },
 {
 "t": "ICTYANE Moisturizing lip balm",
 "u": "https://skinsociety.me/products/ictyane-moisturizing-lip-balm",
-"p": 11.0,
-"c": null,
+"p": 7.15,
+"c": 11.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/Screenshot2026-04-27103709.png?v=1777275447&width=400",
 "type": "Dermocosmetics",
 "tags": [
-"Loyalty Program",
-"No-Sync"
+"No-Sync",
+"Value Deals"
 ],
 "in": false
 },
@@ -31410,8 +31685,8 @@
 {
 "t": "High Protection Tinted Compact Sable SPF50",
 "u": "https://skinsociety.me/products/high-protection-tinted-compact-sable-spf50",
-"p": 35.99,
-"c": null,
+"p": 23.39,
+"c": 35.99,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/avene-compact-color-spf50-sand.jpg?v=1777101801&width=400",
 "type": "Dermocosmetics",
@@ -31423,7 +31698,7 @@
 "Face",
 "Foundation & Powder",
 "Item Type_Sunscreens",
-"Loyalty Program"
+"Make Up"
 ],
 "in": true
 },
@@ -31498,6 +31773,7 @@
 "tags": [
 "Loyalty Program",
 "No-Sync",
+"OMG",
 "SAVE20",
 "SAVE22"
 ],
@@ -31675,9 +31951,9 @@
 "Category_Parapharmacy",
 "Family Health",
 "Foot Health Care",
+"OMG",
 "Parapharmacy",
-"Product Type_Foot Health Care",
-"Sub Category_Family Health"
+"Product Type_Foot Health Care"
 ],
 "in": true
 },
@@ -31748,6 +32024,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -31804,6 +32081,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -31879,7 +32157,7 @@
 "Product Type_Cardiovascular Diseases",
 "Sub Category_Food Supplements"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Plantar Fascitis Men",
@@ -31895,9 +32173,9 @@
 "Category_Parapharmacy",
 "Family Health",
 "Foot Health Care",
+"OMG",
 "Parapharmacy",
-"Product Type_Foot Health Care",
-"Sub Category_Family Health"
+"Product Type_Foot Health Care"
 ],
 "in": true
 },
@@ -31915,9 +32193,9 @@
 "Category_Parapharmacy",
 "Family Health",
 "Foot Health Care",
+"OMG",
 "Parapharmacy",
-"Product Type_Foot Health Care",
-"Sub Category_Family Health"
+"Product Type_Foot Health Care"
 ],
 "in": true
 },
@@ -31935,9 +32213,9 @@
 "Category_Parapharmacy",
 "Family Health",
 "Foot Health Care",
+"OMG",
 "Parapharmacy",
-"Product Type_Foot Health Care",
-"Sub Category_Family Health"
+"Product Type_Foot Health Care"
 ],
 "in": true
 },
@@ -32013,9 +32291,9 @@
 "Category_Parapharmacy",
 "Family Health",
 "Foot Health Care",
+"OMG",
 "Parapharmacy",
-"Product Type_Foot Health Care",
-"Sub Category_Family Health"
+"Product Type_Foot Health Care"
 ],
 "in": true
 },
@@ -32142,8 +32420,8 @@
 {
 "t": "XeraCalm A.D Replenishing Cleansing Oil",
 "u": "https://skinsociety.me/products/xeracalm-a-d-replenishing-cleansing-oil",
-"p": 42.0,
-"c": null,
+"p": 27.3,
+"c": 42.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/xeraad.webp?v=1776249604&width=400",
 "type": "Dermocosmetics",
@@ -32162,8 +32440,8 @@
 {
 "t": "Body 24-Hour Effective Deodorant",
 "u": "https://skinsociety.me/products/avene-deodorant-efficacite-24h",
-"p": 16.0,
-"c": null,
+"p": 10.4,
+"c": 16.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/1_1_7c471339-61cf-400e-87d6-1501b804719d.png?v=1778661109&width=400",
 "type": "Dermocosmetics",
@@ -32182,8 +32460,8 @@
 {
 "t": "Hyaluron Activ Procedure Retinal 0.05% Retinal Eye & Lip Cream",
 "u": "https://skinsociety.me/products/hyaluron-activ-procedure-retinal-0-05-retinal-eye-lip-cream",
-"p": 72.0,
-"c": null,
+"p": 46.8,
+"c": 72.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/Avene_-_Hyaluron_Activ_Procedure_Retinal_0.05_Retinal_Eye_Lip_Cream_15ml_9abf422c-d59a-42ae-9547-b485fab63fff.webp?v=1776248218&width=400",
 "type": "Dermocosmetics",
@@ -32202,8 +32480,8 @@
 {
 "t": "Hyaluron Activ Procedure Hexapeptide Solution 10% Lifting Serum - Booster",
 "u": "https://skinsociety.me/products/hyaluron-activ-procedure-hexapeptide-solution-10-lifting-serum-booster",
-"p": 94.0,
-"c": null,
+"p": 61.1,
+"c": 94.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/Avene_-_Hyaluron_Activ_Procedure_Hexapeptide_Solution_10_Tightening_Serum_18_ml_8d482891-2ad3-4977-86a5-42e32b13e5c8.webp?v=1776247295&width=400",
 "type": "Dermocosmetics",
@@ -32250,6 +32528,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -32270,8 +32549,8 @@
 "Category_POSM",
 "Hidden Recommendation",
 "No-Sync",
-"POSM",
-"SAVE20"
+"OMG",
+"POSM"
 ],
 "in": true
 },
@@ -32289,9 +32568,9 @@
 "Category_Parapharmacy",
 "Family Health",
 "Foot Health Care",
+"OMG",
 "Parapharmacy",
-"Product Type_Foot Health Care",
-"Sub Category_Family Health"
+"Product Type_Foot Health Care"
 ],
 "in": true
 },
@@ -32309,9 +32588,9 @@
 "Category_Parapharmacy",
 "Family Health",
 "Foot Health Care",
+"OMG",
 "Parapharmacy",
-"Product Type_Foot Health Care",
-"Sub Category_Family Health"
+"Product Type_Foot Health Care"
 ],
 "in": true
 },
@@ -32329,9 +32608,9 @@
 "Category_Parapharmacy",
 "Family Health",
 "Foot Health Care",
+"OMG",
 "Parapharmacy",
-"Product Type_Foot Health Care",
-"Sub Category_Family Health"
+"Product Type_Foot Health Care"
 ],
 "in": true
 },
@@ -32349,9 +32628,9 @@
 "Category_Parapharmacy",
 "Family Health",
 "Foot Health Care",
+"OMG",
 "Parapharmacy",
-"Product Type_Foot Health Care",
-"Sub Category_Family Health"
+"Product Type_Foot Health Care"
 ],
 "in": true
 },
@@ -32369,9 +32648,9 @@
 "Category_Parapharmacy",
 "Family Health",
 "Foot Health Care",
+"OMG",
 "Parapharmacy",
-"Product Type_Foot Health Care",
-"Sub Category_Family Health"
+"Product Type_Foot Health Care"
 ],
 "in": true
 },
@@ -32389,9 +32668,9 @@
 "Category_Parapharmacy",
 "Family Health",
 "Foot Health Care",
+"OMG",
 "Parapharmacy",
-"Product Type_Foot Health Care",
-"Sub Category_Family Health"
+"Product Type_Foot Health Care"
 ],
 "in": true
 },
@@ -32409,9 +32688,9 @@
 "Category_Parapharmacy",
 "Family Health",
 "Foot Health Care",
+"OMG",
 "Parapharmacy",
-"Product Type_Foot Health Care",
-"Sub Category_Family Health"
+"Product Type_Foot Health Care"
 ],
 "in": false
 },
@@ -32449,9 +32728,9 @@
 "Category_Parapharmacy",
 "Family Health",
 "Foot Health Care",
+"OMG",
 "Parapharmacy",
-"Product Type_Foot Health Care",
-"Sub Category_Family Health"
+"Product Type_Foot Health Care"
 ],
 "in": true
 },
@@ -32549,9 +32828,9 @@
 "Category_Parapharmacy",
 "Family Health",
 "Foot Health Care",
+"OMG",
 "Parapharmacy",
-"Product Type_Foot Health Care",
-"Sub Category_Family Health"
+"Product Type_Foot Health Care"
 ],
 "in": true
 },
@@ -32569,9 +32848,9 @@
 "Category_Parapharmacy",
 "Family Health",
 "Foot Health Care",
+"OMG",
 "Parapharmacy",
-"Product Type_Foot Health Care",
-"Sub Category_Family Health"
+"Product Type_Foot Health Care"
 ],
 "in": true
 },
@@ -32589,9 +32868,9 @@
 "Category_Parapharmacy",
 "Family Health",
 "Foot Health Care",
+"OMG",
 "Parapharmacy",
-"Product Type_Foot Health Care",
-"Sub Category_Family Health"
+"Product Type_Foot Health Care"
 ],
 "in": true
 },
@@ -32609,9 +32888,9 @@
 "Category_Parapharmacy",
 "Family Health",
 "Foot Health Care",
+"OMG",
 "Parapharmacy",
-"Product Type_Foot Health Care",
-"Sub Category_Family Health"
+"Product Type_Foot Health Care"
 ],
 "in": true
 },
@@ -32629,9 +32908,9 @@
 "Category_Parapharmacy",
 "Family Health",
 "Foot Health Care",
+"OMG",
 "Parapharmacy",
-"Product Type_Foot Health Care",
-"Sub Category_Family Health"
+"Product Type_Foot Health Care"
 ],
 "in": true
 },
@@ -32649,9 +32928,9 @@
 "Category_Parapharmacy",
 "Family Health",
 "Foot Health Care",
+"OMG",
 "Parapharmacy",
-"Product Type_Foot Health Care",
-"Sub Category_Family Health"
+"Product Type_Foot Health Care"
 ],
 "in": true
 },
@@ -32669,9 +32948,9 @@
 "Category_Parapharmacy",
 "Family Health",
 "Foot Health Care",
+"OMG",
 "Parapharmacy",
-"Product Type_Foot Health Care",
-"Sub Category_Family Health"
+"Product Type_Foot Health Care"
 ],
 "in": true
 },
@@ -32689,9 +32968,9 @@
 "Category_Parapharmacy",
 "Family Health",
 "Foot Health Care",
+"OMG",
 "Parapharmacy",
-"Product Type_Foot Health Care",
-"Sub Category_Family Health"
+"Product Type_Foot Health Care"
 ],
 "in": true
 },
@@ -32746,6 +33025,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SAVE20",
 "SAVE22",
@@ -32764,6 +33044,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SAVE20",
 "SAVE22",
@@ -32782,6 +33063,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SAVE20",
 "SAVE22",
@@ -32800,6 +33082,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SAVE20",
 "SAVE22",
@@ -32834,6 +33117,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SAVE20",
 "SAVE22",
@@ -33496,7 +33780,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/8002140035401.jpg?v=1774952419&width=400",
 "type": "Parapharmacy",
 "tags": [
-"8002140035401"
+"8002140035401",
+"OMG"
 ],
 "in": false
 },
@@ -33604,6 +33889,7 @@
 "Brand_Isdin",
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -33621,6 +33907,7 @@
 "Brand_Apivita",
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -33644,7 +33931,7 @@
 "Product Type_Hair Treatment/Others",
 "SAVE20"
 ],
-"in": false
+"in": true
 },
 {
 "t": "ROSELIFT Masque Tenseur Liftant",
@@ -33677,6 +33964,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -33860,8 +34148,8 @@
 {
 "t": "Melascreen Control 365 Days Tinted Protective Anti Spots Fluid SPF 50+",
 "u": "https://skinsociety.me/products/melascreen-control-365-days-tinted-protective-anti-spots-fluid-spf-50",
-"p": 28.0,
-"c": null,
+"p": 18.2,
+"c": 28.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/u5wa3z31qn5secsfz14e1ckztxxm3gtc7sxu6fe.webp?v=1774342834&width=400",
 "type": "Dermocosmetics",
@@ -33871,17 +34159,17 @@
 "Category_Skin Care",
 "Dermocosmetics",
 "Item Type_Sunscreens",
-"Loyalty Program",
 "Medical Skin Care",
-"new arrivals"
+"new arrivals",
+"No-Sync"
 ],
 "in": false
 },
 {
 "t": "Avène mineral fluid SPF50+ Sunscreen 40ml | Ultra Light 100% Mineral Filter for Intolerant Skin - Matte Finish",
 "u": "https://skinsociety.me/products/ultra-light-mineral-filter-for-intolerant-skin-matte-finish",
-"p": 30.0,
-"c": null,
+"p": 19.5,
+"c": 30.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/AveneUltraLight100_MineralFilterForIntolerantSkinFluidMatteFinishSunscreenSPF50.webp?v=1774342638&width=400",
 "type": "Dermocosmetics",
@@ -33893,15 +34181,15 @@
 "Category_Skin Care",
 "Dermocosmetics",
 "Item Type_Sunscreens",
-"Loyalty Program"
+"Medical Skin Care"
 ],
 "in": true
 },
 {
 "t": "Protect X-Trem Stick Invisible Very High Protection SPF 50+",
 "u": "https://skinsociety.me/products/protect-x-trem-stick-invisible-very-high-protection-spf-50",
-"p": 23.13,
-"c": null,
+"p": 15.03,
+"c": 23.13,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/6267062_1.webp?v=1774273187&width=400",
 "type": "Dermocosmetics",
@@ -33911,17 +34199,17 @@
 "Category_Skin Care",
 "Dermocosmetics",
 "Item Type_Sunscreens",
-"Loyalty Program",
 "new arrivals",
-"No-Sync"
+"No-Sync",
+"presummer"
 ],
 "in": true
 },
 {
 "t": "Avène Ultra Plumping Serum SPF 50+ Sunscreen 30ML | Ultra Light Hydrating Hyaluronic Acid Serum",
 "u": "https://skinsociety.me/products/ultra-serum-spf-50-sunscreen",
-"p": 52.0,
-"c": null,
+"p": 33.8,
+"c": 52.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/Aveneultraserum.webp?v=1774600161&width=400",
 "type": "Dermocosmetics",
@@ -33940,8 +34228,8 @@
 {
 "t": "Bébé Cleansing Water High Tolerance With Organic Calendula",
 "u": "https://skinsociety.me/products/bebe-cleansing-water-high-tolerance-with-organic-calendula",
-"p": 19.0,
-"c": null,
+"p": 12.35,
+"c": 19.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/klorane-008491kl_01.png?v=1774272604&width=400",
 "type": "Dermocosmetics",
@@ -34120,8 +34408,8 @@
 {
 "t": "Angel Hand Cream",
 "u": "https://skinsociety.me/products/angel-hand-cream",
-"p": 22.6,
-"c": 32.29,
+"p": 32.29,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/IMG-20260318-WA0096.png?v=1773831235&width=400",
 "type": "Luxury",
@@ -34593,7 +34881,7 @@
 "Loyalty Program",
 "new arrivals",
 "No-Sync",
-"Product Type_Sunscreens"
+"OMG"
 ],
 "in": true
 },
@@ -34672,8 +34960,8 @@
 "Loyalty Program",
 "new arrivals",
 "No-Sync",
-"Product Type_Gift Sets",
-"Sub Category_Gift Sets"
+"OMG",
+"Product Type_Gift Sets"
 ],
 "in": false
 },
@@ -34712,8 +35000,8 @@
 "Loyalty Program",
 "new arrivals",
 "No-Sync",
-"Product Type_Gift Sets",
-"Sub Category_Gift Sets"
+"OMG",
+"Product Type_Gift Sets"
 ],
 "in": false
 },
@@ -34731,9 +35019,9 @@
 "Category_Parapharmacy",
 "Food Supplements",
 "Loyalty Program",
+"OMG",
 "Parapharmacy",
-"Product Type_Slimming & Firming",
-"SAVE20"
+"Product Type_Slimming & Firming"
 ],
 "in": true
 },
@@ -34751,9 +35039,9 @@
 "Category_Parapharmacy",
 "Food Supplements",
 "Loyalty Program",
+"OMG",
 "Parapharmacy",
-"Product Type_Slimming & Firming",
-"SAVE20"
+"Product Type_Slimming & Firming"
 ],
 "in": false
 },
@@ -34770,10 +35058,10 @@
 "Category_POSM",
 "Hidden Recommendation",
 "No-Sync",
+"OMG",
 "POSM",
 "SAVE20",
-"SAVE22",
-"SEARCH_IGNORE"
+"SAVE22"
 ],
 "in": false
 },
@@ -34793,7 +35081,7 @@
 "Loyalty Program",
 "new arrivals",
 "No-Sync",
-"Product Type_Gift Sets"
+"OMG"
 ],
 "in": false
 },
@@ -34811,6 +35099,7 @@
 "Gift Sets",
 "Loyalty Program",
 "No-Sync",
+"OMG",
 "Product Type_Gift Sets",
 "Sub Category_Gift Sets"
 ],
@@ -34829,7 +35118,8 @@
 "Dermocosmetics",
 "Loyalty Program",
 "new arrivals",
-"No-Sync"
+"No-Sync",
+"OMG"
 ],
 "in": false
 },
@@ -34847,6 +35137,7 @@
 "Loyalty Program",
 "new arrivals",
 "No-Sync",
+"OMG",
 "Product Type_Gift Sets",
 "Sub Category_Gift Sets"
 ],
@@ -34867,8 +35158,8 @@
 "Loyalty Program",
 "new arrivals",
 "No-Sync",
-"Product Type_Gift Sets",
-"Sub Category_Gift Sets"
+"OMG",
+"Product Type_Gift Sets"
 ],
 "in": false
 },
@@ -34907,8 +35198,8 @@
 "Loyalty Program",
 "new arrivals",
 "No-Sync",
-"SAVE20",
-"SAVE22"
+"OMG",
+"SAVE20"
 ],
 "in": false
 },
@@ -34928,7 +35219,7 @@
 "Loyalty Program",
 "new arrivals",
 "No-Sync",
-"SAVE20"
+"OMG"
 ],
 "in": false
 },
@@ -34948,7 +35239,7 @@
 "Loyalty Program",
 "new arrivals",
 "No-Sync",
-"SAVE20"
+"OMG"
 ],
 "in": true
 },
@@ -35053,20 +35344,20 @@
 {
 "t": "Précieux Argan Anti-Wrinkle Moisturizer Organic",
 "u": "https://skinsociety.me/products/precieux-argan-anti-wrinkle-moisturizer-organic",
-"p": 18.8,
-"c": 26.86,
+"p": 26.86,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/45_b591c4d0-f2b3-4884-8c56-c2d65612344d.png?v=1779369125&width=400",
 "type": "Dermocosmetics",
 "tags": [
 "Anti-Aging",
-"APRILSALE",
 "BOTANICAL",
 "Brand_SO' BIO ETIC",
 "Category_ Skin Care",
 "Category_Skin Care",
 "Day & Night Care",
-"Dermocosmetics"
+"Dermocosmetics",
+"greenedit"
 ],
 "in": false
 },
@@ -35262,9 +35553,9 @@
 "Category_Parapharmacy",
 "Fatigue & Energy",
 "Food Supplements",
+"OMG",
 "Parapharmacy",
-"Product Type_Fatigue & Energy",
-"Sub Category_Food Supplements"
+"Product Type_Fatigue & Energy"
 ],
 "in": true
 },
@@ -36191,7 +36482,7 @@
 {
 "t": "Quest Peanut Butter Protein Cookie",
 "u": "https://skinsociety.me/products/quest-peanut-butter-protein-cookie",
-"p": 7.11,
+"p": 7.26,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/888849006038.jpg?v=1773400942&width=400",
@@ -36206,7 +36497,7 @@
 "Protein Bars",
 "Sub Category_Nutrition"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Quest Chocolate Chip Protein Cookie",
@@ -36231,7 +36522,7 @@
 {
 "t": "Apple Pie Protein Bar",
 "u": "https://skinsociety.me/products/apple-pie-protein-bar",
-"p": 7.11,
+"p": 7.26,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/888849000630.jpg?v=1773400680&width=400",
@@ -36251,7 +36542,7 @@
 {
 "t": "Quest Chocolate Peanut Butter Protein Bar",
 "u": "https://skinsociety.me/products/quest-chocolate-peanut-butter-protein-bar",
-"p": 7.11,
+"p": 7.26,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/888849000456.jpg?v=1773400597&width=400",
@@ -36279,6 +36570,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SAVE20",
 "SAVE22",
@@ -36299,10 +36591,10 @@
 "Category_POSM",
 "Hidden Recommendation",
 "No-Sync",
+"OMG",
 "POSM",
 "SAVE20",
-"SAVE22",
-"SEARCH_IGNORE"
+"SAVE22"
 ],
 "in": true
 },
@@ -36324,7 +36616,7 @@
 "Protein Bars",
 "Sub Category_Nutrition"
 ],
-"in": false
+"in": true
 },
 {
 "t": "White Chocolate Raspberry Protein Bar",
@@ -36380,15 +36672,15 @@
 "Moisturizers",
 "new arrivals",
 "No-Sync",
-"Product Type_Face Masks"
+"OMG"
 ],
 "in": true
 },
 {
 "t": "Sabal Sebum-Regulating Treatment Shampoo For Oily Hair",
 "u": "https://skinsociety.me/products/sabal-sebum-regulating-treatment-shampoo-for-oily-hair",
-"p": 15.0,
-"c": null,
+"p": 9.75,
+"c": 15.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/7_ab33d020-0904-4358-8d93-d7451e7cb168.png?v=1772181147&width=400",
 "type": "Dermocosmetics",
@@ -36407,8 +36699,8 @@
 {
 "t": "Sabal Argeal Saily Sebum-Absorbing Shampoo For Oily Hair",
 "u": "https://skinsociety.me/products/sabal-argeal-saily-sebum-absorbing-shampoo-for-oily-hair",
-"p": 19.0,
-"c": null,
+"p": 12.35,
+"c": 19.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/1_1_edea02da-fe30-4977-951f-70fc9acec503.png?v=1772109140&width=400",
 "type": "Dermocosmetics",
@@ -36427,8 +36719,8 @@
 {
 "t": "Ducray Keracnyl Anti-blemishes regulating serum for period acne flare-ups",
 "u": "https://skinsociety.me/products/ducray-keracnyl-anti-blemishes-regulating-serum-for-period-acne-flareups",
-"p": 35.0,
-"c": null,
+"p": 22.75,
+"c": 35.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/keracnyl-serum-regulateur-anti-imperfections-30ml-ducray.jpg?v=1771594317&width=400",
 "type": "Dermocosmetics",
@@ -36547,8 +36839,8 @@
 {
 "t": "Melascreen Radiance Serum Gift Set",
 "u": "https://skinsociety.me/products/melascreen-radiance-serum-gift-set",
-"p": 33.0,
-"c": null,
+"p": 21.45,
+"c": 33.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/ducraymela.jpg?v=1732881649&width=400",
 "type": "Dermocosmetics",
@@ -36639,8 +36931,8 @@
 "Category_Parapharmacy",
 "Food Supplements",
 "No-Sync",
-"Parapharmacy",
-"Product Type_Slimming & Firming"
+"OMG",
+"Parapharmacy"
 ],
 "in": true
 },
@@ -36655,6 +36947,7 @@
 "tags": [
 "Category_Parapharmacy",
 "Food Supplements",
+"OMG",
 "Parapharmacy",
 "Product Type_Slimming & Firming",
 "Slimming & Firming",
@@ -36794,6 +37087,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -36810,6 +37104,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -38182,7 +38477,7 @@
 "Parapharmacy",
 "Product Type_Digestive Problems"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Taurine 500 Mg",
@@ -39037,7 +39332,7 @@
 "Food Supplements",
 "Loyalty Program",
 "No-Sync",
-"Parapharmacy"
+"OMG"
 ],
 "in": true
 },
@@ -39057,7 +39352,7 @@
 "Food Supplements",
 "Loyalty Program",
 "No-Sync",
-"Parapharmacy"
+"OMG"
 ],
 "in": true
 },
@@ -39229,8 +39524,8 @@
 "Detox",
 "Food Supplements",
 "Loyalty Program",
-"Parapharmacy",
-"Product Type_Detox"
+"OMG",
+"Parapharmacy"
 ],
 "in": true
 },
@@ -39249,8 +39544,8 @@
 "Detox",
 "Food Supplements",
 "Loyalty Program",
-"Parapharmacy",
-"Product Type_Detox"
+"OMG",
+"Parapharmacy"
 ],
 "in": false
 },
@@ -39317,7 +39612,7 @@
 {
 "t": "Men's Uomo Born in Roma Extradose",
 "u": "https://skinsociety.me/products/mens-uomo-born-in-roma-extradose",
-"p": 161.41,
+"p": 161.4,
 "c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/born-in-roma-extradose-uomo-perfume-for-him-amber-fougere_7.webp?v=1771574525&width=400",
@@ -39397,8 +39692,8 @@
 {
 "t": "Melascreen Anti Spots Concentrate Gift Set",
 "u": "https://skinsociety.me/products/melascreen-anti-spots-concentrate-gift-set",
-"p": 30.0,
-"c": null,
+"p": 19.5,
+"c": 30.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/ducraymelascreen01.jpg?v=1732881573&width=400",
 "type": "Dermocosmetics",
@@ -39503,10 +39798,10 @@
 "Category_POSM",
 "Hidden Recommendation",
 "No-Sync",
+"OMG",
 "POSM",
 "SAVE20",
-"SAVE22",
-"SEARCH_IGNORE"
+"SAVE22"
 ],
 "in": true
 },
@@ -39523,10 +39818,10 @@
 "Category_POSM",
 "Hidden Recommendation",
 "No-Sync",
+"OMG",
 "POSM",
 "SAVE20",
-"SAVE22",
-"SEARCH_IGNORE"
+"SAVE22"
 ],
 "in": false
 },
@@ -39620,10 +39915,10 @@
 "Category_POSM",
 "Hidden Recommendation",
 "No-Sync",
+"OMG",
 "POSM",
 "SAVE20",
-"SAVE22",
-"SEARCH_IGNORE"
+"SAVE22"
 ],
 "in": true
 },
@@ -40190,8 +40485,8 @@
 {
 "t": "Triphasic Active Grow Fortifying Anti-Breakage Mask",
 "u": "https://skinsociety.me/products/triphasic-active-grow-fortifying-anti-breakage-mask",
-"p": 43.0,
-"c": null,
+"p": 27.95,
+"c": 43.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/rene-furterer-triphasic-active-grow-mask-200-ml.jpg?v=1770989069&width=400",
 "type": "Dermocosmetics",
@@ -40210,8 +40505,8 @@
 {
 "t": "Triphasic Grow Growth Activating Shampoo",
 "u": "https://skinsociety.me/products/triphasic-grow-growth-activating-shampoo",
-"p": 29.0,
-"c": null,
+"p": 18.85,
+"c": 29.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/furterer-triphasic-active-grow-growth-activating-shampoo-200ml.png?v=1770991449&width=400",
 "type": "Dermocosmetics",
@@ -40222,16 +40517,16 @@
 "Hair Care",
 "Hair Expert",
 "Hair Loss",
-"Loyalty Program",
-"Medical Hair Care"
+"Medical Hair Care",
+"new arrivals"
 ],
 "in": true
 },
 {
 "t": "A-Derma Biology Hydra-Protective Dermatological Cleansing Foam",
 "u": "https://skinsociety.me/products/a-derma-biology-hydra-protective-dermatological-cleansing-foam",
-"p": 19.0,
-"c": null,
+"p": 12.35,
+"c": 19.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/7123406_adermabiologyespuma150ml.webp?v=1770799302&width=400",
 "type": "Dermocosmetics",
@@ -40461,9 +40756,9 @@
 "Category_Parapharmacy",
 "Fatigue & Energy",
 "Food Supplements",
+"OMG",
 "Parapharmacy",
-"Product Type_Fatigue & Energy",
-"SAVE20"
+"Product Type_Fatigue & Energy"
 ],
 "in": true
 },
@@ -40500,10 +40795,10 @@
 "Category_Parapharmacy",
 "Fatigue & Energy",
 "Food Supplements",
+"OMG",
 "Parapharmacy",
 "Product Type_Fatigue & Energy",
-"SAVE20",
-"SAVE22"
+"SAVE20"
 ],
 "in": true
 },
@@ -40521,9 +40816,9 @@
 "Category_Parapharmacy",
 "Fatigue & Energy",
 "Food Supplements",
+"OMG",
 "Parapharmacy",
-"Product Type_Fatigue & Energy",
-"SAVE20"
+"Product Type_Fatigue & Energy"
 ],
 "in": true
 },
@@ -40561,9 +40856,9 @@
 "Category_Parapharmacy",
 "Fatigue & Energy",
 "Food Supplements",
+"OMG",
 "Parapharmacy",
-"Product Type_Fatigue & Energy",
-"SAVE20"
+"Product Type_Fatigue & Energy"
 ],
 "in": true
 },
@@ -40581,9 +40876,9 @@
 "Category_Parapharmacy",
 "Fatigue & Energy",
 "Food Supplements",
+"OMG",
 "Parapharmacy",
-"Product Type_Fatigue & Energy",
-"SAVE20"
+"Product Type_Fatigue & Energy"
 ],
 "in": true
 },
@@ -41205,7 +41500,7 @@
 "Parapharmacy",
 "Product Type_Body Building"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Iso Whey Zero Cookies & Cream 908 Gr",
@@ -41285,7 +41580,7 @@
 "Parapharmacy",
 "Product Type_Body Building"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Protein Beef Chocolate",
@@ -41394,6 +41689,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "Revolution Beauty London",
 "SAVE20",
@@ -41413,6 +41709,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SAVE22",
 "SEARCH_IGNORE"
@@ -41497,7 +41794,7 @@
 "Nail Care",
 "Nails"
 ],
-"in": false
+"in": true
 },
 {
 "t": "L’Oréal Paris Telescopic Extensionist Mascara for 24H Long-Lasting Curl, Volume, and Exceptional Lengthening Eyelashes with Eyelash-Extension Effect",
@@ -41530,6 +41827,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SAVE20",
 "SAVE22",
@@ -41549,6 +41847,7 @@
 "Brand_Yves Saint Laurent",
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -41566,6 +41865,7 @@
 "Brand_Yves Saint Laurent",
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SAVE20",
 "SAVE22",
@@ -41585,6 +41885,7 @@
 "Brand_Yves Saint Laurent",
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -41602,6 +41903,7 @@
 "Brand_Mugler",
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SAVE20",
 "SAVE22",
@@ -41621,6 +41923,7 @@
 "Brand_Giorgio Armani",
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SAVE20",
 "SAVE22",
@@ -41639,6 +41942,7 @@
 "tags": [
 "Category_POSM",
 "Hidden Recommendation",
+"OMG",
 "POSM",
 "SAVE20",
 "SAVE22",
@@ -41659,10 +41963,10 @@
 "Category_POSM",
 "Hidden Recommendation",
 "No-Sync",
+"OMG",
 "POSM",
 "SAVE20",
-"SAVE22",
-"SEARCH_IGNORE"
+"SAVE22"
 ],
 "in": false
 },
@@ -41679,10 +41983,10 @@
 "Category_POSM",
 "Hidden Recommendation",
 "No-Sync",
+"OMG",
 "POSM",
 "SAVE20",
-"SAVE22",
-"SEARCH_IGNORE"
+"SAVE22"
 ],
 "in": false
 },
@@ -41713,6 +42017,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SAVE20",
 "SAVE22",
@@ -41731,6 +42036,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -41861,6 +42167,7 @@
 "Loyalty Program",
 "new arrivals",
 "No-Sync",
+"OMG",
 "SAVE20",
 "SAVE22"
 ],
@@ -41869,8 +42176,8 @@
 {
 "t": "Ducray Triple Action Anti-Spots Kit",
 "u": "https://skinsociety.me/products/ducray-triple-action-anti-spots-kit",
-"p": 76.0,
-"c": null,
+"p": 49.4,
+"c": 76.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/Ducray_Melascreen_Triple_Action_Anti-Spots_Set.webp?v=1763981371&width=400",
 "type": "Dermocosmetics",
@@ -41880,9 +42187,9 @@
 "Category_Skin Care",
 "Dermocosmetics",
 "Gift Sets",
-"Loyalty Program",
 "Medical Skin Care",
-"mother26"
+"mother26",
+"new arrivals"
 ],
 "in": true
 },
@@ -42839,10 +43146,10 @@
 "Brand_BLTZ",
 "Category_Parapharmacy",
 "Nutrition",
+"OMG",
 "Parapharmacy",
 "Product Type_Protein Bars",
-"Protein Bars",
-"Sub Category_Nutrition"
+"Protein Bars"
 ],
 "in": true
 },
@@ -42879,10 +43186,10 @@
 "Brand_BLTZ",
 "Category_Parapharmacy",
 "Nutrition",
+"OMG",
 "Parapharmacy",
 "Product Type_Protein Bars",
-"Protein Bars",
-"Sub Category_Nutrition"
+"Protein Bars"
 ],
 "in": true
 },
@@ -42899,10 +43206,10 @@
 "Brand_BLTZ",
 "Category_Parapharmacy",
 "Nutrition",
+"OMG",
 "Parapharmacy",
 "Product Type_Protein Bars",
-"Protein Bars",
-"Sub Category_Nutrition"
+"Protein Bars"
 ],
 "in": true
 },
@@ -42984,7 +43291,7 @@
 "Parapharmacy",
 "Product Type_Diabetic Friendly"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Dark Chocolate & Pistachio Biscuits",
@@ -43199,10 +43506,10 @@
 "Brand_BLTZ",
 "Category_Parapharmacy",
 "Nutrition",
+"OMG",
 "Parapharmacy",
 "Product Type_Protein Bars",
-"Protein Bars",
-"Sub Category_Nutrition"
+"Protein Bars"
 ],
 "in": true
 },
@@ -43224,7 +43531,7 @@
 "Parapharmacy",
 "Product Type_Diabetic Friendly"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Salted Caramel Protein Bar",
@@ -43239,10 +43546,10 @@
 "Brand_BLTZ",
 "Category_Parapharmacy",
 "Nutrition",
+"OMG",
 "Parapharmacy",
 "Product Type_Protein Bars",
-"Protein Bars",
-"Sub Category_Nutrition"
+"Protein Bars"
 ],
 "in": true
 },
@@ -43259,10 +43566,10 @@
 "Brand_BLTZ",
 "Category_Parapharmacy",
 "Nutrition",
+"OMG",
 "Parapharmacy",
 "Product Type_Protein Bars",
-"Protein Bars",
-"Sub Category_Nutrition"
+"Protein Bars"
 ],
 "in": false
 },
@@ -43941,8 +44248,8 @@
 "Diabetic Friendly",
 "Healthy Snacking",
 "Nutrition",
-"Parapharmacy",
-"Product Type_Diabetic Friendly"
+"OMG",
+"Parapharmacy"
 ],
 "in": true
 },
@@ -44041,8 +44348,8 @@
 "Diabetic Friendly",
 "Healthy Snacking",
 "Nutrition",
-"Parapharmacy",
-"Product Type_Diabetic Friendly"
+"OMG",
+"Parapharmacy"
 ],
 "in": false
 },
@@ -44499,10 +44806,10 @@
 "Brand_BLTZ",
 "Category_Parapharmacy",
 "Nutrition",
+"OMG",
 "Parapharmacy",
 "Product Type_Protein Bars",
-"Protein Bars",
-"Sub Category_Nutrition"
+"Protein Bars"
 ],
 "in": true
 },
@@ -44709,20 +45016,20 @@
 {
 "t": "Carrot Oil",
 "u": "https://skinsociety.me/products/carrot-oil-natessance",
-"p": 15.2,
-"c": 19.0,
+"p": 19.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/natessance-carrot-oil-skin-society-shop-address-country.jpg?v=1686484744&width=400",
 "type": "Dermocosmetics",
 "tags": [
 "3517360007053",
 "3517360007053-32655663726685",
-"APRILSALE",
 "Bath & Body",
 "BOTANICAL",
 "Brand_Natessance",
 "Category_Skin Care",
-"Dermocosmetics"
+"Dermocosmetics",
+"greenedit"
 ],
 "in": true
 },
@@ -45204,7 +45511,7 @@
 "Dermocosmetics",
 "Loyalty Program"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Express Eye Grape",
@@ -45224,7 +45531,7 @@
 "Dermocosmetics",
 "Eye Masks"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Express Eye Mask Biloba",
@@ -45244,7 +45551,7 @@
 "Dermocosmetics",
 "Eye Masks"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Express Pink Clay",
@@ -45289,8 +45596,8 @@
 {
 "t": "Express Sea Lavender",
 "u": "https://skinsociety.me/products/express-sea-lavender",
-"p": 5.25,
-"c": null,
+"p": 1.84,
+"c": 5.25,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/apivita-express-sea-lavender-skin-society-shop-address-country.jpg?v=1686495989&width=400",
 "type": "Dermocosmetics",
@@ -45299,12 +45606,12 @@
 "2025 JAN Flash Sale Excluded",
 "5201279072254",
 "5201279072254-39965093331037",
+"ap1",
 "Brand_Apivita",
 "Category_Skin Care",
-"Dermocosmetics",
-"Face Masks"
+"Dermocosmetics"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Express Green Clay",
@@ -45324,7 +45631,7 @@
 "Dermocosmetics",
 "Face Masks"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Express Apricot",
@@ -45359,6 +45666,7 @@
 "Category_POSM",
 "greenedit",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -45487,6 +45795,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SAVE20",
 "SAVE22",
@@ -45505,6 +45814,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "ORGANIC26",
 "POSM",
 "SEARCH_IGNORE"
@@ -46099,6 +46409,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -46115,6 +46426,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -46132,6 +46444,7 @@
 "Brand_Lancôme",
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SAVE20",
 "SAVE22",
@@ -46150,6 +46463,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SAVE20",
 "SAVE22",
@@ -46169,6 +46483,7 @@
 "Brand_Ralph Lauren",
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -46515,9 +46830,9 @@
 "Category_Parapharmacy",
 "Dental Care",
 "Loyalty Program",
+"OMG",
 "Parapharmacy",
-"Product Type_Toothbrushes",
-"Sub Category_Dental Care"
+"Product Type_Toothbrushes"
 ],
 "in": true
 },
@@ -46898,8 +47213,8 @@
 {
 "t": "Ducky In Disguise Toy Soap",
 "u": "https://skinsociety.me/products/ducky-in-disguise-toy-soap",
-"p": 6.5,
-"c": 10.0,
+"p": 10.0,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/5037028280546.jpg?v=1751974123&width=400",
 "type": "Casual",
@@ -46918,8 +47233,8 @@
 {
 "t": "Snuggle Duck Bath Blaster",
 "u": "https://skinsociety.me/products/snuggle-duck-bath-blaster",
-"p": 5.36,
-"c": 8.25,
+"p": 8.25,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/5037028280515.jpg?v=1751974097&width=400",
 "type": "Casual",
@@ -46938,8 +47253,8 @@
 {
 "t": "Octopi My Mind Toy Soap",
 "u": "https://skinsociety.me/products/octopi-my-mind-toy-soap",
-"p": 5.21,
-"c": 8.02,
+"p": 8.02,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/5037028280560.jpg?v=1751974180&width=400",
 "type": "Casual",
@@ -46958,8 +47273,8 @@
 {
 "t": "Quack Fu Panda Bath Blaster",
 "u": "https://skinsociety.me/products/quack-fu-panda-bath-blaster",
-"p": 5.36,
-"c": 8.25,
+"p": 8.25,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/5037028280454.jpg?v=1751973908&width=400",
 "type": "Casual",
@@ -46978,8 +47293,8 @@
 {
 "t": "Number 1 Mum Bath Blaster",
 "u": "https://skinsociety.me/products/number-1-mum-bath-blaster",
-"p": 5.07,
-"c": 7.8,
+"p": 7.8,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/products/5037028275702.jpg?v=1680030670&width=400",
 "type": "Casual",
@@ -47029,9 +47344,9 @@
 "Category_Parapharmacy",
 "Dental Care",
 "Mouthwash",
+"OMG",
 "Parapharmacy",
-"Product Type_Mouthwash",
-"Sub Category_Dental Care"
+"Product Type_Mouthwash"
 ],
 "in": false
 },
@@ -47048,10 +47363,10 @@
 "Brand_Colgate",
 "Category_Parapharmacy",
 "Dental Care",
+"OMG",
 "Parapharmacy",
 "Product Type_Toothbrushes",
-"Sub Category_Dental Care",
-"Toothbrushes"
+"Sub Category_Dental Care"
 ],
 "in": true
 },
@@ -47071,7 +47386,7 @@
 "Brand_Sevi Bebe",
 "Category_Baby & Mom",
 "Item Type_Bips & Burp Cloths Sets",
-"SAVE20"
+"OMG"
 ],
 "in": true
 },
@@ -47091,7 +47406,7 @@
 "Brand_Sevi Bebe",
 "Category_Baby & Mom",
 "Item Type_Bips & Burp Cloths Sets",
-"SAVE20"
+"OMG"
 ],
 "in": false
 },
@@ -47109,9 +47424,9 @@
 "Baby Skin Care",
 "Brand_Chicco",
 "Category_Baby & Mom",
+"OMG",
 "Product Type_Wipes",
-"Sub Category_Baby Skin Care",
-"Wipes"
+"Sub Category_Baby Skin Care"
 ],
 "in": true
 },
@@ -47169,9 +47484,9 @@
 "Category_Parapharmacy",
 "Family Health",
 "Foot Health Care",
+"OMG",
 "Parapharmacy",
-"Product Type_Foot Health Care",
-"SAVE20"
+"Product Type_Foot Health Care"
 ],
 "in": false
 },
@@ -47208,10 +47523,10 @@
 "Brand_Colgate",
 "Category_Parapharmacy",
 "Dental Care",
+"OMG",
 "Parapharmacy",
 "Product Type_Toothbrushes",
-"Sub Category_Dental Care",
-"Toothbrushes"
+"Sub Category_Dental Care"
 ],
 "in": true
 },
@@ -47308,10 +47623,10 @@
 "Brand_Colgate",
 "Category_Parapharmacy",
 "Dental Care",
+"OMG",
 "Parapharmacy",
 "Product Type_Toothpaste",
-"Sub Category_Dental Care",
-"Toothpaste"
+"Sub Category_Dental Care"
 ],
 "in": false
 },
@@ -47598,8 +47913,8 @@
 {
 "t": "Holly the Hot Choccy Buddy",
 "u": "https://skinsociety.me/products/holly-the-hot-choccy-buddy",
-"p": 5.2,
-"c": 8.0,
+"p": 8.0,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/5037028281185.jpg?v=1766416414&width=400",
 "type": "Casual",
@@ -47618,8 +47933,8 @@
 {
 "t": "Freeze a Jolly Good Fellow Jumper",
 "u": "https://skinsociety.me/products/freeze-a-jolly-good-fellow-jumper",
-"p": 12.51,
-"c": 19.25,
+"p": 19.25,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/5037028280959.jpg?v=1766416112&width=400",
 "type": "Casual",
@@ -47638,8 +47953,8 @@
 {
 "t": "Treat Your Elf Mini Character Box",
 "u": "https://skinsociety.me/products/treat-your-elf-mini-character-box",
-"p": 12.51,
-"c": 19.25,
+"p": 19.25,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/5037028281048.jpg?v=1766416201&width=400",
 "type": "Casual",
@@ -47658,8 +47973,8 @@
 {
 "t": "Sugar Plum Glow Gift Pack",
 "u": "https://skinsociety.me/products/sugar-plum-glow-gift-pack",
-"p": 19.18,
-"c": 29.5,
+"p": 29.5,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/5037028280935_2e0ca963-2a2c-485b-b812-db73b38f566b.jpg?v=1766416047&width=400",
 "type": "Casual",
@@ -47671,15 +47986,15 @@
 "Brand_Bomb Cosmetics",
 "Casual",
 "Category_Bath & Body",
-"new arrivals"
+"Loyalty Program"
 ],
 "in": true
 },
 {
 "t": "Santa Bae Mini Character Box",
 "u": "https://skinsociety.me/products/santa-bae-mini-character-box",
-"p": 12.51,
-"c": 19.25,
+"p": 19.25,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/5037028280898.jpg?v=1766415955&width=400",
 "type": "Casual",
@@ -47698,8 +48013,8 @@
 {
 "t": "Frosty & Fabulous Jumper Gift Pack",
 "u": "https://skinsociety.me/products/frosty-fabulous-jumper-gift-pack",
-"p": 12.51,
-"c": 19.25,
+"p": 19.25,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/5037028280966.jpg?v=1766416137&width=400",
 "type": "Casual",
@@ -47718,8 +48033,8 @@
 {
 "t": "Christmas Dream Tin Candle",
 "u": "https://skinsociety.me/products/christmas-dream-tin-candle",
-"p": 12.51,
-"c": 19.25,
+"p": 19.25,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/5037028281307.jpg?v=1766416489&width=400",
 "type": "Casual",
@@ -47738,8 +48053,8 @@
 {
 "t": "Poppy the Popcorn Buddy Buffer",
 "u": "https://skinsociety.me/products/poppy-the-popcorn-buddy-buffer",
-"p": 5.2,
-"c": 8.0,
+"p": 8.0,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/5037028281390.jpg?v=1766416505&width=400",
 "type": "Casual",
@@ -47758,8 +48073,8 @@
 {
 "t": "Splash Surprise Bomb Surprise",
 "u": "https://skinsociety.me/products/splash-surprise-bomb-surprise",
-"p": 9.75,
-"c": 15.0,
+"p": 15.0,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/5037028281277.jpg?v=1766416432&width=400",
 "type": "Casual",
@@ -47770,16 +48085,16 @@
 "Bomb OUTLETSALE",
 "Casual",
 "Category_Bath & Body",
-"new arrivals",
-"No-Sync"
+"Loyalty Program",
+"new arrivals"
 ],
 "in": false
 },
 {
 "t": "Penny the Peach Buddy Buffer",
 "u": "https://skinsociety.me/products/penny-the-peach-buddy-buffer",
-"p": 5.2,
-"c": 8.0,
+"p": 8.0,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/5037028281161.jpg?v=1766416378&width=400",
 "type": "Casual",
@@ -47798,8 +48113,8 @@
 {
 "t": "Monet the Macaron Buddy Buffer",
 "u": "https://skinsociety.me/products/monet-the-macaron-buddy-buffer",
-"p": 5.2,
-"c": 8.0,
+"p": 8.0,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/5037028281178.jpg?v=1766416394&width=400",
 "type": "Casual",
@@ -47818,8 +48133,8 @@
 {
 "t": "Stella the Strawberry Buddy Buffer",
 "u": "https://skinsociety.me/products/stella-the-strawberry-buddy-buffer",
-"p": 4.49,
-"c": 6.9,
+"p": 6.9,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/5037028281154.jpg?v=1766416358&width=400",
 "type": "Casual",
@@ -47838,8 +48153,8 @@
 {
 "t": "Prancer & Dancer Jumper Gift Pack",
 "u": "https://skinsociety.me/products/prancer-dancer-jumper-gift-pack",
-"p": 12.51,
-"c": 19.25,
+"p": 19.25,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/5037028280942.jpg?v=1766416090&width=400",
 "type": "Casual",
@@ -47858,8 +48173,8 @@
 {
 "t": "Tony The Toast Buddy Buffer",
 "u": "https://skinsociety.me/products/tony-the-toast-buddy-buffer",
-"p": 5.2,
-"c": 8.0,
+"p": 8.0,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/5037028281406.jpg?v=1766416524&width=400",
 "type": "Casual",
@@ -47878,8 +48193,8 @@
 {
 "t": "T'was the Night Before Gift Pack",
 "u": "https://skinsociety.me/products/twas-the-night-before-gift-pack",
-"p": 19.18,
-"c": 29.5,
+"p": 29.5,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/5037028281024.jpg?v=1766416169&width=400",
 "type": "Casual",
@@ -47898,8 +48213,8 @@
 {
 "t": "From Me To U-nicorn Character Box",
 "u": "https://skinsociety.me/products/from-me-to-u-nicorn-character-box",
-"p": 9.43,
-"c": 14.5,
+"p": 14.5,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/5037028281055.jpg?v=1766416228&width=400",
 "type": "Casual",
@@ -47918,8 +48233,8 @@
 {
 "t": "Gigi the Gelato Buddy Buffer",
 "u": "https://skinsociety.me/products/gigi-the-gelato-buddy-buffer",
-"p": 5.2,
-"c": 8.0,
+"p": 8.0,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/5037028281147.jpg?v=1766416320&width=400",
 "type": "Casual",
@@ -47938,8 +48253,8 @@
 {
 "t": "Claude the Croissant Buddy Buffer",
 "u": "https://skinsociety.me/products/claude-the-croissant-buddy-buffer",
-"p": 5.2,
-"c": 8.0,
+"p": 8.0,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/5037028281123.jpg?v=1766416259&width=400",
 "type": "Casual",
@@ -47958,8 +48273,8 @@
 {
 "t": "Coco the Cake Buddy Buffer",
 "u": "https://skinsociety.me/products/coco-the-cake-buddy-buffer",
-"p": 5.2,
-"c": 8.0,
+"p": 8.0,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/5037028281130.jpg?v=1766416305&width=400",
 "type": "Casual",
@@ -48658,7 +48973,7 @@
 {
 "t": "Aktiv Mouthwash",
 "u": "https://skinsociety.me/products/aktiv-mouthwash",
-"p": 6.1,
+"p": 6.11,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/4016369546505.jpg?v=1767018901&width=400",
@@ -48829,9 +49144,9 @@
 "Category_Parapharmacy",
 "Dental Care",
 "Mouthwash",
+"OMG",
 "Parapharmacy",
-"Product Type_Mouthwash",
-"Sub Category_Dental Care"
+"Product Type_Mouthwash"
 ],
 "in": false
 },
@@ -48908,10 +49223,10 @@
 "Brand_Pasta Del Capitano",
 "Category_Parapharmacy",
 "Dental Care",
+"OMG",
 "Parapharmacy",
 "Product Type_Toothpaste",
-"Sub Category_Dental Care",
-"Toothpaste"
+"Sub Category_Dental Care"
 ],
 "in": false
 },
@@ -49168,10 +49483,10 @@
 "Brand_Colgate",
 "Category_Parapharmacy",
 "Dental Care",
+"OMG",
 "Parapharmacy",
 "Product Type_Toothbrushes",
-"Sub Category_Dental Care",
-"Toothbrushes"
+"Sub Category_Dental Care"
 ],
 "in": false
 },
@@ -49188,10 +49503,10 @@
 "Brand_Colgate",
 "Category_Parapharmacy",
 "Dental Care",
+"OMG",
 "Parapharmacy",
 "Product Type_Toothpaste",
-"Sub Category_Dental Care",
-"Toothpaste"
+"Sub Category_Dental Care"
 ],
 "in": true
 },
@@ -49208,10 +49523,10 @@
 "Brand_Colgate",
 "Category_Parapharmacy",
 "Dental Care",
+"OMG",
 "Parapharmacy",
 "Product Type_Toothpaste",
-"Sub Category_Dental Care",
-"Toothpaste"
+"Sub Category_Dental Care"
 ],
 "in": false
 },
@@ -49228,10 +49543,10 @@
 "Brand_Colgate",
 "Category_Parapharmacy",
 "Dental Care",
+"OMG",
 "Parapharmacy",
 "Product Type_Toothpaste",
-"Sub Category_Dental Care",
-"Toothpaste"
+"Sub Category_Dental Care"
 ],
 "in": true
 },
@@ -49248,10 +49563,10 @@
 "Brand_Colgate",
 "Category_Parapharmacy",
 "Dental Care",
+"OMG",
 "Parapharmacy",
 "Product Type_Toothbrushes",
-"Sub Category_Dental Care",
-"Toothbrushes"
+"Sub Category_Dental Care"
 ],
 "in": true
 },
@@ -49268,10 +49583,10 @@
 "Brand_Colgate",
 "Category_Parapharmacy",
 "Dental Care",
+"OMG",
 "Parapharmacy",
 "Product Type_Toothbrushes",
-"Sub Category_Dental Care",
-"Toothbrushes"
+"Sub Category_Dental Care"
 ],
 "in": true
 },
@@ -49288,10 +49603,10 @@
 "Brand_Colgate",
 "Category_Parapharmacy",
 "Dental Care",
+"OMG",
 "Parapharmacy",
 "Product Type_Toothpaste",
-"Sub Category_Dental Care",
-"Toothpaste"
+"Sub Category_Dental Care"
 ],
 "in": true
 },
@@ -49308,10 +49623,10 @@
 "Brand_Colgate",
 "Category_Parapharmacy",
 "Dental Care",
+"OMG",
 "Parapharmacy",
 "Product Type_Toothbrushes",
-"Sub Category_Dental Care",
-"Toothbrushes"
+"Sub Category_Dental Care"
 ],
 "in": true
 },
@@ -49569,9 +49884,9 @@
 "Brand_Colgate",
 "Category_Parapharmacy",
 "Dental Care",
+"OMG",
 "Parapharmacy",
-"Product Type_Baby & Child Dental Care",
-"Product Type_Toothbrushes"
+"Product Type_Baby & Child Dental Care"
 ],
 "in": true
 },
@@ -49668,10 +49983,10 @@
 "Brand_Colgate",
 "Category_Parapharmacy",
 "Dental Care",
+"OMG",
 "Parapharmacy",
 "Product Type_Toothbrushes",
-"Sub Category_Dental Care",
-"Toothbrushes"
+"Sub Category_Dental Care"
 ],
 "in": true
 },
@@ -49728,10 +50043,10 @@
 "Brand_Colgate",
 "Category_Parapharmacy",
 "Dental Care",
+"OMG",
 "Parapharmacy",
 "Product Type_Toothbrushes",
-"Sub Category_Dental Care",
-"Toothbrushes"
+"Sub Category_Dental Care"
 ],
 "in": true
 },
@@ -49749,9 +50064,9 @@
 "Brand_Colgate",
 "Category_Parapharmacy",
 "Dental Care",
+"OMG",
 "Parapharmacy",
-"Product Type_Baby & Child Dental Care",
-"Product Type_Toothpaste"
+"Product Type_Baby & Child Dental Care"
 ],
 "in": false
 },
@@ -49769,9 +50084,9 @@
 "Brand_Colgate",
 "Category_Parapharmacy",
 "Dental Care",
+"OMG",
 "Parapharmacy",
-"Product Type_Baby & Child Dental Care",
-"Product Type_Toothpaste"
+"Product Type_Baby & Child Dental Care"
 ],
 "in": true
 },
@@ -49809,9 +50124,9 @@
 "Brand_Colgate",
 "Category_Parapharmacy",
 "Dental Care",
+"OMG",
 "Parapharmacy",
-"Product Type_Baby & Child Dental Care",
-"Product Type_Toothpaste"
+"Product Type_Baby & Child Dental Care"
 ],
 "in": true
 },
@@ -49829,9 +50144,9 @@
 "Category_Parapharmacy",
 "Dental Care",
 "Mouthwash",
+"OMG",
 "Parapharmacy",
-"Product Type_Mouthwash",
-"Sub Category_Dental Care"
+"Product Type_Mouthwash"
 ],
 "in": true
 },
@@ -49889,9 +50204,9 @@
 "Brand_Colgate",
 "Category_Parapharmacy",
 "Dental Care",
+"OMG",
 "Parapharmacy",
-"Product Type_Baby & Child Dental Care",
-"Product Type_Toothpaste"
+"Product Type_Baby & Child Dental Care"
 ],
 "in": true
 },
@@ -49948,10 +50263,10 @@
 "Brand_Colgate",
 "Category_Parapharmacy",
 "Dental Care",
+"OMG",
 "Parapharmacy",
 "Product Type_Toothbrushes",
-"Sub Category_Dental Care",
-"Toothbrushes"
+"Sub Category_Dental Care"
 ],
 "in": true
 },
@@ -50008,10 +50323,10 @@
 "Brand_Colgate",
 "Category_Parapharmacy",
 "Dental Care",
+"OMG",
 "Parapharmacy",
 "Product Type_Toothbrushes",
-"Sub Category_Dental Care",
-"Toothbrushes"
+"Sub Category_Dental Care"
 ],
 "in": true
 },
@@ -50171,7 +50486,7 @@
 "Baby Feeding",
 "Brand_Tommee Tippee",
 "Category_Baby & Mom",
-"Product Type_Baby Bottles"
+"OMG"
 ],
 "in": true
 },
@@ -50258,20 +50573,20 @@
 {
 "t": "Terra Fig Leaf Shower Gel",
 "u": "https://skinsociety.me/products/terra-fig-leaf-shower-gel",
-"p": 9.75,
-"c": 19.5,
+"p": 19.5,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3551780012846.jpg?v=1765276012&width=400",
 "type": "Dermocosmetics",
 "tags": [
-"APRILSALE",
 "Bath & Body",
 "Bath & Shower",
 "Body Wash & Shower Gel",
 "Brand_Compagnie De Provence",
 "Category_Bath & Body",
 "Dermocosmetics",
-"Item Type_Body Wash & Shower Gel"
+"Item Type_Body Wash & Shower Gel",
+"Loyalty Program"
 ],
 "in": false
 },
@@ -50298,20 +50613,20 @@
 {
 "t": "Terra Lemon Verbena Shower Gel",
 "u": "https://skinsociety.me/products/terra-lemon-verbena-shower-gel",
-"p": 9.75,
-"c": 19.5,
+"p": 19.5,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3551780012839.jpg?v=1765275881&width=400",
 "type": "Dermocosmetics",
 "tags": [
-"APRILSALE",
 "Bath & Body",
 "Brand_Compagnie De Provence",
 "Dermocosmetics",
+"Loyalty Program",
 "new arrivals",
 "No-Sync",
-"Product Type_Bath & Body",
-"SAVE22"
+"OMG",
+"Product Type_Bath & Body"
 ],
 "in": true
 },
@@ -50378,28 +50693,28 @@
 {
 "t": "Argan Coffret",
 "u": "https://skinsociety.me/products/argan-coffret",
-"p": 31.5,
-"c": 45.0,
+"p": 45.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3517360028034.jpg?v=1764774114&width=400",
 "type": "Dermocosmetics",
 "tags": [
 "Anti-Aging",
-"APRILSALE",
 "BOTANICAL",
 "Brand_SO' BIO ETIC",
 "Category_ Skin Care",
 "Category_Skin Care",
 "Dermocosmetics",
-"Face Serums"
+"Face Serums",
+"Gift Sets"
 ],
 "in": false
 },
 {
 "t": "Almond Body Milk",
 "u": "https://skinsociety.me/products/almond-body-milk",
-"p": 16.9,
-"c": 26.0,
+"p": 26.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3517360022254.jpg?v=1764774034&width=400",
 "type": "Dermocosmetics",
@@ -50518,20 +50833,20 @@
 {
 "t": "100% Pure Jojoba Oil",
 "u": "https://skinsociety.me/products/100-pure-jojoba-oil-natessance",
-"p": 13.6,
-"c": 17.0,
+"p": 17.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/products/3517360007015.jpg?v=1674492586&width=400",
 "type": "Dermocosmetics",
 "tags": [
 "3517360007015",
 "3517360007015-32655663759453",
-"APRILSALE",
 "Bath & Body",
 "BOTANICAL",
 "Brand_Natessance",
 "Category_Skin Care",
-"Dermocosmetics"
+"Dermocosmetics",
+"greenedit"
 ],
 "in": false
 },
@@ -50546,6 +50861,7 @@
 "tags": [
 "botanical",
 "No-Sync",
+"OMG",
 "Product Type_Value Deals",
 "Sub Category_Value Deals",
 "SubCategory_Value Deals",
@@ -50570,7 +50886,7 @@
 "Brand_Tommee Tippee",
 "Category_Baby & Mom",
 "Feeding Sets & Utensils",
-"Product Type_Feeding Sets & Utensils"
+"OMG"
 ],
 "in": true
 },
@@ -50589,8 +50905,8 @@
 "Bath Accessories",
 "Brand_Sevi Bebe",
 "Category_Baby & Mom",
-"Product Type_Bath Accessories",
-"SAVE20"
+"OMG",
+"Product Type_Bath Accessories"
 ],
 "in": false
 },
@@ -50610,7 +50926,7 @@
 "Brand_Sevi Bebe",
 "Category_Baby & Mom",
 "Feeding Sets & Utensils",
-"Pacifiers"
+"OMG"
 ],
 "in": true
 },
@@ -50630,7 +50946,7 @@
 "Brand_Sevi Bebe",
 "Category_Baby & Mom",
 "Item Type_Bips & Burp Cloths Sets",
-"SAVE20"
+"OMG"
 ],
 "in": true
 },
@@ -50650,7 +50966,7 @@
 "Health & Safety",
 "Item Type_Nasal Aspirators",
 "Nasal Aspirators",
-"SAVE20"
+"OMG"
 ],
 "in": true
 },
@@ -50670,7 +50986,7 @@
 "Health & Safety",
 "Item Type_Nasal Aspirators",
 "Nasal Aspirators",
-"SAVE20"
+"OMG"
 ],
 "in": false
 },
@@ -50690,7 +51006,7 @@
 "Brand_Sevi Bebe",
 "Category_Baby & Mom",
 "Item Type_Bips & Burp Cloths Sets",
-"SAVE20"
+"OMG"
 ],
 "in": true
 },
@@ -50709,8 +51025,8 @@
 "Baby Feeding",
 "Brand_Tommee Tippee",
 "Category_Baby & Mom",
-"Pacifiers",
-"Product Type_Pacifiers"
+"OMG",
+"Pacifiers"
 ],
 "in": true
 },
@@ -50730,7 +51046,7 @@
 "Brand_Tommee Tippee",
 "Category_Baby & Mom",
 "Feeding Sets & Utensils",
-"Product Type_Feeding Sets & Utensils"
+"OMG"
 ],
 "in": true
 },
@@ -50749,8 +51065,8 @@
 "Baby Feeding",
 "Brand_Tommee Tippee",
 "Category_Baby & Mom",
-"Pacifiers",
-"Product Type_Pacifiers"
+"OMG",
+"Pacifiers"
 ],
 "in": true
 },
@@ -50768,9 +51084,9 @@
 "Baby Feeding",
 "Brand_Tommee Tippee",
 "Category_Baby & Mom",
+"OMG",
 "Pacifiers",
-"Product Type_Pacifiers",
-"Sub Category_Baby Feeding"
+"Product Type_Pacifiers"
 ],
 "in": true
 },
@@ -50785,6 +51101,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SAVE20",
 "SAVE22",
@@ -50826,9 +51143,9 @@
 "Baby Feeding",
 "Brand_Tommee Tippee",
 "Category_Baby & Mom",
+"OMG",
 "Pacifiers",
-"Product Type_Pacifiers",
-"Sub Category_Baby Feeding"
+"Product Type_Pacifiers"
 ],
 "in": true
 },
@@ -50846,9 +51163,9 @@
 "Baby Feeding",
 "Brand_Tommee Tippee",
 "Category_Baby & Mom",
+"OMG",
 "Pacifiers",
-"Product Type_Pacifiers",
-"Sub Category_Baby Feeding"
+"Product Type_Pacifiers"
 ],
 "in": true
 },
@@ -50866,9 +51183,9 @@
 "Baby Feeding",
 "Brand_Tommee Tippee",
 "Category_Baby & Mom",
+"OMG",
 "Pacifiers",
-"Product Type_Pacifiers",
-"Sub Category_Baby Feeding"
+"Product Type_Pacifiers"
 ],
 "in": true
 },
@@ -50907,8 +51224,8 @@
 "Baby Feeding",
 "Brand_Tommee Tippee",
 "Category_Baby & Mom",
-"Pacifiers",
-"Product Type_Pacifiers"
+"OMG",
+"Pacifiers"
 ],
 "in": false
 },
@@ -50927,8 +51244,8 @@
 "Baby Feeding",
 "Brand_Tommee Tippee",
 "Category_Baby & Mom",
-"Pacifiers",
-"Product Type_Pacifiers"
+"OMG",
+"Pacifiers"
 ],
 "in": true
 },
@@ -51148,7 +51465,7 @@
 "Loyalty Program",
 "new arrivals",
 "No-Sync",
-"Product Type_Gift Sets"
+"OMG"
 ],
 "in": false
 },
@@ -51228,7 +51545,7 @@
 "Brand_Sevi Bebe",
 "Category_Baby & Mom",
 "Item Type_Bips & Burp Cloths Sets",
-"SAVE20"
+"OMG"
 ],
 "in": true
 },
@@ -51246,9 +51563,9 @@
 "Category_Tools & Accessories",
 "Home Accessories",
 "Home Care",
+"OMG",
 "Product Type_Home Accessories",
-"SAVE20",
-"SAVE22"
+"SAVE20"
 ],
 "in": true
 },
@@ -51266,9 +51583,9 @@
 "Category_Tools & Accessories",
 "Home Accessories",
 "Home Care",
+"OMG",
 "Product Type_Home Accessories",
-"SAVE20",
-"SAVE22"
+"SAVE20"
 ],
 "in": true
 },
@@ -51285,10 +51602,10 @@
 "Brand_Sevi Bebe",
 "Category_Parapharmacy",
 "Family Health",
+"OMG",
 "Parapharmacy",
 "Product Type_Stress & Pain Relief",
-"SAVE20",
-"SAVE22"
+"SAVE20"
 ],
 "in": true
 },
@@ -51304,6 +51621,7 @@
 "botanical",
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -51342,10 +51660,10 @@
 "Baby & Mom",
 "Brand_Sassy",
 "Category_Baby & Mom",
+"OMG",
 "Product Type_Soft Toys",
 "SAVE20",
-"SAVE22",
-"Soft Toys"
+"SAVE22"
 ],
 "in": true
 },
@@ -51362,10 +51680,10 @@
 "Baby & Mom",
 "Brand_Sassy",
 "Category_Baby & Mom",
+"OMG",
 "Product Type_Soft Toys",
 "SAVE20",
-"SAVE22",
-"Soft Toys"
+"SAVE22"
 ],
 "in": true
 },
@@ -51382,10 +51700,10 @@
 "Baby & Mom",
 "Brand_Sassy",
 "Category_Baby & Mom",
+"OMG",
 "Product Type_Soft Toys",
 "SAVE20",
-"SAVE22",
-"Soft Toys"
+"SAVE22"
 ],
 "in": false
 },
@@ -51522,10 +51840,10 @@
 "Baby & Mom",
 "Brand_Sassy",
 "Category_Baby & Mom",
+"OMG",
 "Product Type_Soft Toys",
 "SAVE20",
-"SAVE22",
-"Soft Toys"
+"SAVE22"
 ],
 "in": true
 },
@@ -51582,10 +51900,10 @@
 "Baby & Mom",
 "Brand_Sassy",
 "Category_Baby & Mom",
+"OMG",
 "Product Type_Soft Toys",
 "SAVE20",
-"SAVE22",
-"Soft Toys"
+"SAVE22"
 ],
 "in": false
 },
@@ -51622,10 +51940,10 @@
 "Baby & Mom",
 "Brand_Sassy",
 "Category_Baby & Mom",
+"OMG",
 "Product Type_Soft Toys",
 "SAVE20",
-"SAVE22",
-"Soft Toys"
+"SAVE22"
 ],
 "in": true
 },
@@ -51642,10 +51960,10 @@
 "Baby & Mom",
 "Brand_Sassy",
 "Category_Baby & Mom",
+"OMG",
 "Product Type_Soft Toys",
 "SAVE20",
-"SAVE22",
-"Soft Toys"
+"SAVE22"
 ],
 "in": true
 },
@@ -51662,10 +51980,10 @@
 "Baby & Mom",
 "Brand_Sassy",
 "Category_Baby & Mom",
+"OMG",
 "Product Type_Soft Toys",
 "SAVE20",
-"SAVE22",
-"Soft Toys"
+"SAVE22"
 ],
 "in": true
 },
@@ -51682,10 +52000,10 @@
 "Baby & Mom",
 "Brand_Sassy",
 "Category_Baby & Mom",
+"OMG",
 "Product Type_Soft Toys",
 "SAVE20",
-"SAVE22",
-"Soft Toys"
+"SAVE22"
 ],
 "in": true
 },
@@ -51785,7 +52103,7 @@
 "Brand_Sevi Bebe",
 "Category_Baby & Mom",
 "Item Type_Bips & Burp Cloths Sets",
-"SAVE20"
+"OMG"
 ],
 "in": true
 },
@@ -51825,7 +52143,7 @@
 "Brand_Sevi Bebe",
 "Category_Baby & Mom",
 "Item Type_Bips & Burp Cloths Sets",
-"SAVE20"
+"OMG"
 ],
 "in": true
 },
@@ -51902,10 +52220,10 @@
 "Baby & Mom",
 "Brand_Sassy",
 "Category_Baby & Mom",
+"OMG",
 "Product Type_Soft Toys",
 "SAVE20",
-"SAVE22",
-"Soft Toys"
+"SAVE22"
 ],
 "in": true
 },
@@ -51922,10 +52240,10 @@
 "Baby & Mom",
 "Brand_Sassy",
 "Category_Baby & Mom",
+"OMG",
 "Product Type_Soft Toys",
 "SAVE20",
-"SAVE22",
-"Soft Toys"
+"SAVE22"
 ],
 "in": true
 },
@@ -51942,10 +52260,10 @@
 "Baby & Mom",
 "Brand_Sassy",
 "Category_Baby & Mom",
+"OMG",
 "Product Type_Soft Toys",
 "SAVE20",
-"SAVE22",
-"Soft Toys"
+"SAVE22"
 ],
 "in": true
 },
@@ -52002,10 +52320,10 @@
 "Baby & Mom",
 "Brand_Sassy",
 "Category_Baby & Mom",
+"OMG",
 "Product Type_Soft Toys",
 "SAVE20",
-"SAVE22",
-"Soft Toys"
+"SAVE22"
 ],
 "in": true
 },
@@ -52042,10 +52360,10 @@
 "Baby & Mom",
 "Brand_Sassy",
 "Category_Baby & Mom",
+"OMG",
 "Product Type_Soft Toys",
 "SAVE20",
-"SAVE22",
-"Soft Toys"
+"SAVE22"
 ],
 "in": true
 },
@@ -52062,10 +52380,10 @@
 "Baby & Mom",
 "Brand_Sassy",
 "Category_Baby & Mom",
+"OMG",
 "Product Type_Soft Toys",
 "SAVE20",
-"SAVE22",
-"Soft Toys"
+"SAVE22"
 ],
 "in": true
 },
@@ -52125,7 +52443,7 @@
 "Brand_Sevi Bebe",
 "Category_Baby & Mom",
 "Item Type_Bips & Burp Cloths Sets",
-"SAVE20"
+"OMG"
 ],
 "in": true
 },
@@ -52145,7 +52463,7 @@
 "Brand_Sevi Bebe",
 "Category_Baby & Mom",
 "Item Type_Bips & Burp Cloths Sets",
-"SAVE20"
+"OMG"
 ],
 "in": true
 },
@@ -52480,6 +52798,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -52498,10 +52817,10 @@
 "Baby & Mom",
 "Brand_Sassy",
 "Category_Baby & Mom",
+"OMG",
 "Product Type_Soft Toys",
 "SAVE20",
-"SAVE22",
-"Soft Toys"
+"SAVE22"
 ],
 "in": true
 },
@@ -52517,6 +52836,7 @@
 "Brand_Clinique",
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -52536,9 +52856,9 @@
 "Category_Tools & Accessories",
 "Home Accessories",
 "Home Care",
+"OMG",
 "Product Type_Home Accessories",
-"Sub Category_Home Care",
-"Tools & Accessories"
+"Sub Category_Home Care"
 ],
 "in": true
 },
@@ -52657,8 +52977,8 @@
 "Baby Feeding",
 "Brand_Munchkin",
 "Category_Baby & Mom",
-"Product Type_Baby Bottles",
-"Sub Category_Baby Feeding"
+"OMG",
+"Product Type_Baby Bottles"
 ],
 "in": true
 },
@@ -53206,8 +53526,8 @@
 {
 "t": "Black Stone Set - EDP 30ml & Shower Gel",
 "u": "https://skinsociety.me/products/black-stone-coffret",
-"p": 18.2,
-"c": 28.0,
+"p": 28.0,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3701429846831.jpg?v=1765266702&width=400",
 "type": "Casual",
@@ -53217,17 +53537,17 @@
 "Eau De Parfum",
 "For Him",
 "Gift Sets",
+"Loyalty Program",
 "new arrivals",
-"No-Sync",
-"Product Type_Body Wash & Shower Gel"
+"No-Sync"
 ],
 "in": true
 },
 {
 "t": "Wonderful Holiday Set - EDP 100ml & Body Milk",
 "u": "https://skinsociety.me/products/wonderful-holiday-coffret",
-"p": 32.44,
-"c": 49.9,
+"p": 49.9,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3701429835484.jpg?v=1765266627&width=400",
 "type": "Casual",
@@ -53520,8 +53840,8 @@
 {
 "t": "Golden Queen Trio Set - EDP 30ml & Shower Gel & Body Milk",
 "u": "https://skinsociety.me/products/golden-queen-trio-gift-set",
-"p": 26.78,
-"c": 41.2,
+"p": 41.2,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3701429827083_ddeb3a13-1204-4063-a70f-0bcc91bc68bf.jpg?v=1765266589&width=400",
 "type": "Casual",
@@ -53590,7 +53910,7 @@
 "Category_Parapharmacy",
 "greenedit",
 "No-Sync",
-"Parapharmacy"
+"OMG"
 ],
 "in": true
 },
@@ -53626,6 +53946,7 @@
 "Brand_Roger & Gallet",
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -53643,6 +53964,7 @@
 "Brand_Compagnie De Provence",
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -53662,9 +53984,9 @@
 "Category_POSM",
 "greenedit",
 "No-Sync",
+"OMG",
 "POSM",
-"SAVE22",
-"SEARCH_IGNORE"
+"SAVE22"
 ],
 "in": true
 },
@@ -53683,8 +54005,8 @@
 "Category_POSM",
 "greenedit",
 "No-Sync",
-"POSM",
-"SAVE22"
+"OMG",
+"POSM"
 ],
 "in": false
 },
@@ -53699,6 +54021,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SAVE22",
 "SEARCH_IGNORE",
@@ -53718,6 +54041,7 @@
 "Brand_Bomb Cosmetics",
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE",
 "ss26"
@@ -53735,6 +54059,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SAVE20",
 "SAVE22",
@@ -53772,7 +54097,8 @@
 "Brand_Giorgio Armani",
 "Loyalty Program",
 "new arrivals",
-"No-Sync"
+"No-Sync",
+"OMG"
 ],
 "in": true
 },
@@ -54019,7 +54345,7 @@
 {
 "t": "SI Prafum",
 "u": "https://skinsociety.me/products/si-prafum",
-"p": 164.07,
+"p": 164.06,
 "c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3614274322293.jpg?v=1758869903&width=400",
@@ -54150,9 +54476,9 @@
 "Baby Feeding",
 "Brand_Dr. Brown's",
 "Category_Baby & Mom",
+"OMG",
 "Pacifiers",
-"Product Type_Pacifiers",
-"Sub Category_Baby Feeding"
+"Product Type_Pacifiers"
 ],
 "in": true
 },
@@ -54191,8 +54517,8 @@
 "Bottles Accessories",
 "Brand_Dr. Brown's",
 "Category_Baby & Mom",
-"Product Type_Bottles Accessories",
-"Sub Category_Baby Feeding"
+"OMG",
+"Product Type_Bottles Accessories"
 ],
 "in": true
 },
@@ -54211,8 +54537,8 @@
 "Baby Feeding",
 "Brand_Dr. Brown's",
 "Category_Baby & Mom",
-"Product Type_Baby Bottles",
-"Sub Category_Baby Feeding"
+"OMG",
+"Product Type_Baby Bottles"
 ],
 "in": false
 },
@@ -54251,8 +54577,8 @@
 "Bottles Accessories",
 "Brand_Dr. Brown's",
 "Category_Baby & Mom",
-"Product Type_Bottles Accessories",
-"Sub Category_Baby Feeding"
+"OMG",
+"Product Type_Bottles Accessories"
 ],
 "in": true
 },
@@ -54271,8 +54597,8 @@
 "Bottles Accessories",
 "Brand_Dr. Brown's",
 "Category_Baby & Mom",
-"Product Type_Bottles Accessories",
-"Sub Category_Baby Feeding"
+"OMG",
+"Product Type_Bottles Accessories"
 ],
 "in": true
 },
@@ -54310,11 +54636,11 @@
 "Baby Dental Care",
 "Brand_Dr. Brown's",
 "Category_Baby & Mom",
+"OMG",
 "Product Type_Toothbrushes",
-"Sub Category_Baby Dental Care",
-"Toothbrushes"
+"Sub Category_Baby Dental Care"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Cleft Lip Medical Bottle",
@@ -54332,7 +54658,7 @@
 "Baby Feeding",
 "Brand_Dr. Brown's",
 "Category_Baby & Mom",
-"Product Type_Baby Bottles"
+"OMG"
 ],
 "in": true
 },
@@ -54352,7 +54678,7 @@
 "Baby Feeding",
 "Brand_Dr. Brown's",
 "Category_Baby & Mom",
-"Product Type_Baby Bottles"
+"OMG"
 ],
 "in": true
 },
@@ -54371,8 +54697,8 @@
 "Brand_Chicco",
 "Category_Baby & Mom",
 "Cleaning Equipment",
-"Product Type_Cleaning Equipment",
-"Sub Category_Baby Feeding"
+"OMG",
+"Product Type_Cleaning Equipment"
 ],
 "in": true
 },
@@ -54391,8 +54717,8 @@
 "Baby Dental Care",
 "Brand_Chicco",
 "Category_Baby & Mom",
-"Product Type_Toothbrushes",
-"Sub Category_Baby Dental Care"
+"OMG",
+"Product Type_Toothbrushes"
 ],
 "in": true
 },
@@ -54410,9 +54736,9 @@
 "Baby Feeding",
 "Brand_Chicco",
 "Category_Baby & Mom",
+"OMG",
 "Pacifiers",
-"Product Type_Pacifiers",
-"Sub Category_Baby Feeding"
+"Product Type_Pacifiers"
 ],
 "in": true
 },
@@ -54431,8 +54757,8 @@
 "Baby Feeding",
 "Brand_Chicco",
 "Category_Baby & Mom",
-"Pacifiers",
-"Product Type_Pacifiers"
+"OMG",
+"Pacifiers"
 ],
 "in": true
 },
@@ -54452,7 +54778,7 @@
 "Category_Baby & Mom",
 "Categroy_Baby Fragrances",
 "Eau De Toilette",
-"Product Type_Eau De Toilette"
+"OMG"
 ],
 "in": true
 },
@@ -54492,7 +54818,7 @@
 "Brand_Dr. Brown's",
 "Category_Baby & Mom",
 "Feeding Sets & Utensils",
-"Product Type_Feeding Sets & Utensils"
+"OMG"
 ],
 "in": true
 },
@@ -54511,8 +54837,8 @@
 "Brand_Dr. Brown's",
 "Category_Baby & Mom",
 "Feeding Sets & Utensils",
-"Product Type_Feeding Sets & Utensils",
-"Sub Category_Baby Feeding"
+"OMG",
+"Product Type_Feeding Sets & Utensils"
 ],
 "in": false
 },
@@ -54531,8 +54857,8 @@
 "Bottles Accessories",
 "Brand_Dr. Brown's",
 "Category_Baby & Mom",
-"Product Type_Bottles Accessories",
-"Sub Category_Baby Feeding"
+"OMG",
+"Product Type_Bottles Accessories"
 ],
 "in": true
 },
@@ -54551,8 +54877,8 @@
 "Brand_Dr. Brown's",
 "Category_Baby & Mom",
 "Feeding Sets & Utensils",
-"Product Type_Feeding Sets & Utensils",
-"Sub Category_Baby Feeding"
+"OMG",
+"Product Type_Feeding Sets & Utensils"
 ],
 "in": true
 },
@@ -54571,8 +54897,8 @@
 "Brand_Dr. Brown's",
 "Category_Baby & Mom",
 "Feeding Sets & Utensils",
-"Product Type_Feeding Sets & Utensils",
-"Sub Category_Baby Feeding"
+"OMG",
+"Product Type_Feeding Sets & Utensils"
 ],
 "in": false
 },
@@ -54631,8 +54957,8 @@
 "Bottles Accessories",
 "Brand_Dr. Brown's",
 "Category_Baby & Mom",
-"Product Type_Bottles Accessories",
-"Sub Category_Baby Feeding"
+"OMG",
+"Product Type_Bottles Accessories"
 ],
 "in": false
 },
@@ -54652,7 +54978,7 @@
 "Brand_Dr. Brown's",
 "Category_Baby & Mom",
 "Feeding Sets & Utensils",
-"Product Type_Feeding Sets & Utensils"
+"OMG"
 ],
 "in": true
 },
@@ -54672,7 +54998,7 @@
 "Brand_Chicco",
 "Category_Baby & Mom",
 "Feeding Sets & Utensils",
-"Product Type_Feeding Sets & Utensils"
+"OMG"
 ],
 "in": true
 },
@@ -54692,7 +55018,7 @@
 "Baby Feeding",
 "Brand_Chicco",
 "Category_Baby & Mom",
-"Product Type_Baby Bottles"
+"OMG"
 ],
 "in": false
 },
@@ -54711,8 +55037,8 @@
 "Baby Feeding",
 "Brand_Chicco",
 "Category_Baby & Mom",
-"Product Type_Baby Bottles",
-"Sub Category_Baby Feeding"
+"OMG",
+"Product Type_Baby Bottles"
 ],
 "in": true
 },
@@ -54732,7 +55058,7 @@
 "Brand_Chicco",
 "Category_Baby & Mom",
 "Feeding Sets & Utensils",
-"Product Type_Feeding Sets & Utensils"
+"OMG"
 ],
 "in": true
 },
@@ -54770,6 +55096,7 @@
 "Baby Solar Care",
 "Brand_Chicco",
 "Category_Baby & Mom",
+"OMG",
 "Sub Category_Baby Solar Care"
 ],
 "in": true
@@ -54788,9 +55115,9 @@
 "Brand_Bébé Confort",
 "Category_Baby & Mom",
 "Health & Safety",
+"OMG",
 "Product type_Thermometers",
-"Sub Category_Health & Safety",
-"Thermometers"
+"Sub Category_Health & Safety"
 ],
 "in": true
 },
@@ -54809,8 +55136,8 @@
 "Bath Accessories",
 "Brand_Bébé Confort",
 "Category_Baby & Mom",
-"Product Type_Bath Accessories",
-"Sub Category_Baby Bath"
+"OMG",
+"Product Type_Bath Accessories"
 ],
 "in": true
 },
@@ -54830,7 +55157,7 @@
 "Category_Baby & Mom",
 "Feeding Sets & Utensils",
 "Item Type_Feeding Sets & Utensils",
-"Sub Category_Baby Feeding"
+"OMG"
 ],
 "in": false
 },
@@ -54848,9 +55175,9 @@
 "Baby Dental Care",
 "Brand_Bébé Confort",
 "Category_Baby & Mom",
+"OMG",
 "Product Type_Teethers",
-"Sub Category_Baby Dental Care",
-"Teethers"
+"Sub Category_Baby Dental Care"
 ],
 "in": true
 },
@@ -54869,8 +55196,8 @@
 "Brand_Bébé Confort",
 "Category_Baby & Mom",
 "Cleaning Equipment",
-"Product Type_Cleaning Equipment",
-"Sub Category_Baby Feeding"
+"OMG",
+"Product Type_Cleaning Equipment"
 ],
 "in": true
 },
@@ -54888,9 +55215,9 @@
 "Brand_Bébé Confort",
 "Category_Baby & Mom",
 "Health & Safety",
+"OMG",
 "Product Type_Thermometers",
-"Sub Category_Health & Safety",
-"Thermometers"
+"Sub Category_Health & Safety"
 ],
 "in": false
 },
@@ -54908,9 +55235,9 @@
 "Baby Dental Care",
 "Brand_Bébé Confort",
 "Category_Baby & Mom",
+"OMG",
 "Product Type_Toothbrushes",
-"Sub Category_Baby Dental Care",
-"Toothbrushes"
+"Sub Category_Baby Dental Care"
 ],
 "in": true
 },
@@ -54928,9 +55255,9 @@
 "Baby Dental Care",
 "Brand_Bébé Confort",
 "Category_Baby & Mom",
+"OMG",
 "Product Type_Toothbrushes",
-"Sub Category_Baby Dental Care",
-"Toothbrushes"
+"Sub Category_Baby Dental Care"
 ],
 "in": false
 },
@@ -54949,8 +55276,8 @@
 "Brand_Bébé Confort",
 "Category_Baby & Mom",
 "Feeding Sets & Utensils",
-"Product Type_Feeding Sets & Utensils",
-"Sub Category_Baby Feeding"
+"OMG",
+"Product Type_Feeding Sets & Utensils"
 ],
 "in": false
 },
@@ -54969,8 +55296,8 @@
 "Baby Feeding",
 "Brand_Bébé Confort",
 "Category_Baby & Mom",
-"Pacifiers",
-"Product Type_Pacifiers"
+"OMG",
+"Pacifiers"
 ],
 "in": false
 },
@@ -55230,7 +55557,7 @@
 "Brand_Bébé Confort",
 "Category_Baby & Mom",
 "Feeding Sets & Utensils",
-"Product Type_Feeding Sets & Utensils"
+"OMG"
 ],
 "in": true
 },
@@ -55287,10 +55614,10 @@
 "Baby & Mom",
 "Brand_Bébé Confort",
 "Category_Baby & Mom",
+"OMG",
 "Product Type_Soft Toys",
 "Soft Toys",
-"Sub Category_Toys",
-"Toys"
+"Sub Category_Toys"
 ],
 "in": true
 },
@@ -55347,10 +55674,10 @@
 "Baby & Mom",
 "Brand_Bébé Confort",
 "Category_Baby & Mom",
+"OMG",
 "Product Type_Soft Toys",
 "Soft Toys",
-"Sub Category_Toys",
-"Toys"
+"Sub Category_Toys"
 ],
 "in": true
 },
@@ -55430,7 +55757,7 @@
 "Brand_Bébé Confort",
 "Category_Baby & Mom",
 "Grooming Accessories",
-"Product Type_Grooming Accessories"
+"OMG"
 ],
 "in": true
 },
@@ -55450,7 +55777,7 @@
 "Brand_Bébé Confort",
 "Category_Baby & Mom",
 "Grooming Accessories",
-"Product Type_Grooming Accessories"
+"OMG"
 ],
 "in": false
 },
@@ -55469,8 +55796,8 @@
 "Brand_Bébé Confort",
 "Category_Baby & Mom",
 "Grooming Accessories",
-"Product Type_Grooming Accessories",
-"Sub Category_Baby Accessories"
+"OMG",
+"Product Type_Grooming Accessories"
 ],
 "in": true
 },
@@ -55489,8 +55816,8 @@
 "Brand_Bébé Confort",
 "Category_Baby & Mom",
 "Feeding Sets & Utensils",
-"Product Type_Feeding Sets & Utensils",
-"Sub Category_Baby Feeding"
+"OMG",
+"Product Type_Feeding Sets & Utensils"
 ],
 "in": true
 },
@@ -55508,9 +55835,9 @@
 "Brand_Bébé Confort",
 "Category_Baby & Mom",
 "Mom Needs",
+"OMG",
 "Product Type_Stretch Marks",
-"Stretch Marks",
-"Sub Category_Mom Needs"
+"Stretch Marks"
 ],
 "in": true
 },
@@ -56032,7 +56359,7 @@
 "Eyes",
 "For Her"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Kit Vamp! Mascara + Vamp Eyepencil",
@@ -56837,8 +57164,8 @@
 {
 "t": "Starnight Set - EDP 30ml & Hand Cream",
 "u": "https://skinsociety.me/products/starnight-set",
-"p": 15.6,
-"c": 24.0,
+"p": 24.0,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/adopt-starnight-set-skin-society-shop-address-country-2.jpg?v=1764747101&width=400",
 "type": "Casual",
@@ -57088,9 +57415,9 @@
 "Category_Parapharmacy",
 "Health Devices & Accessories",
 "Health Monitors",
+"OMG",
 "Parapharmacy",
-"Product Type_Health Monitors",
-"Sub Category_Health Devices & Accessories"
+"Product Type_Health Monitors"
 ],
 "in": true
 },
@@ -57107,10 +57434,10 @@
 "Brand_Beurer Health",
 "Category_Tools & Accessories",
 "Heating Pads",
+"OMG",
 "Parapharmacy",
 "Product Type_Heating Pads",
-"Sub Category_Wellness",
-"Tools & Accessories"
+"Sub Category_Wellness"
 ],
 "in": false
 },
@@ -57228,9 +57555,9 @@
 "Brand_Mon Image",
 "Category_Parapharmacy",
 "Family Health",
+"OMG",
 "Parapharmacy",
-"Product Type_Accessories",
-"Sub Category_Family Health"
+"Product Type_Accessories"
 ],
 "in": true
 },
@@ -57287,10 +57614,10 @@
 "Birth Control",
 "Brand_Pasante",
 "Category_Parapharmacy",
+"OMG",
 "Parapharmacy",
 "Product Type_Birth Control",
-"SAVE20",
-"SAVE22"
+"SAVE20"
 ],
 "in": false
 },
@@ -57308,11 +57635,11 @@
 "Brand_Mon Image",
 "Category_Parapharmacy",
 "Family Health",
+"OMG",
 "Parapharmacy",
-"Product Type_Accessories",
-"Sub Category_Family Health"
+"Product Type_Accessories"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Farmactive Plaster Spray",
@@ -57348,9 +57675,9 @@
 "Category_Parapharmacy",
 "Family Health",
 "First Aid",
+"OMG",
 "Parapharmacy",
-"Product Type_First Aid",
-"Sub Category_Family Health"
+"Product Type_First Aid"
 ],
 "in": true
 },
@@ -57368,9 +57695,9 @@
 "Category_Parapharmacy",
 "Health Devices & Accessories",
 "Health Monitors",
+"OMG",
 "Parapharmacy",
-"Product Type_Health Monitors",
-"Sub Category_Health Devices & Accessories"
+"Product Type_Health Monitors"
 ],
 "in": true
 },
@@ -57388,9 +57715,9 @@
 "Category_Parapharmacy",
 "Family Health",
 "First Aid",
+"OMG",
 "Parapharmacy",
-"Product Type_First Aid",
-"Sub Category_Family Health"
+"Product Type_First Aid"
 ],
 "in": false
 },
@@ -57428,9 +57755,9 @@
 "Category_Parapharmacy",
 "Family Health",
 "First Aid",
+"OMG",
 "Parapharmacy",
-"Product Type_First Aid",
-"Sub Category_Family Health"
+"Product Type_First Aid"
 ],
 "in": false
 },
@@ -57448,9 +57775,9 @@
 "Category_Parapharmacy",
 "Family Health",
 "First Aid",
+"OMG",
 "Parapharmacy",
-"Product Type_First Aid",
-"Sub Category_Family Health"
+"Product Type_First Aid"
 ],
 "in": false
 },
@@ -57508,9 +57835,9 @@
 "Category_Parapharmacy",
 "Health Devices & Accessories",
 "Health Monitors",
+"OMG",
 "Parapharmacy",
-"Product Type_Health Monitors",
-"Sub Category_Health Devices & Accessories"
+"Product Type_Health Monitors"
 ],
 "in": false
 },
@@ -57528,9 +57855,9 @@
 "Category_Parapharmacy",
 "Family Health",
 "First Aid",
+"OMG",
 "Parapharmacy",
-"Product Type_First Aid",
-"Sub Category_Family Health"
+"Product Type_First Aid"
 ],
 "in": true
 },
@@ -57587,10 +57914,10 @@
 "Birth Control",
 "Brand_Pasante",
 "Category_Parapharmacy",
+"OMG",
 "Parapharmacy",
 "Product Type_Birth Control",
-"SAVE20",
-"SAVE22"
+"SAVE20"
 ],
 "in": true
 },
@@ -57607,10 +57934,10 @@
 "Birth Control",
 "Brand_Pasante",
 "Category_Parapharmacy",
+"OMG",
 "Parapharmacy",
 "Product Type_Birth Control",
-"SAVE20",
-"SAVE22"
+"SAVE20"
 ],
 "in": false
 },
@@ -57648,9 +57975,9 @@
 "Brand_Vita Plus",
 "Category_Parapharmacy",
 "Family Health",
+"OMG",
 "Parapharmacy",
-"Product Type_Accessories",
-"Sub Category_Family Health"
+"Product Type_Accessories"
 ],
 "in": true
 },
@@ -57668,9 +57995,9 @@
 "Brand_Vita Plus",
 "Category_Parapharmacy",
 "Family Health",
+"OMG",
 "Parapharmacy",
-"Product Type_Accessories",
-"Sub Category_Family Health"
+"Product Type_Accessories"
 ],
 "in": false
 },
@@ -57748,9 +58075,9 @@
 "Category_Parapharmacy",
 "Health Devices & Accessories",
 "Health Monitors",
+"OMG",
 "Parapharmacy",
-"Product Type_Health Monitors",
-"Sub Category_Health Devices & Accessories"
+"Product Type_Health Monitors"
 ],
 "in": false
 },
@@ -57808,9 +58135,9 @@
 "Category_Parapharmacy",
 "Health Devices & Accessories",
 "Health Monitors",
+"OMG",
 "Parapharmacy",
-"Product Type_Health Monitors",
-"Sub Category_Health Devices & Accessories"
+"Product Type_Health Monitors"
 ],
 "in": false
 },
@@ -57832,7 +58159,7 @@
 "Product Type_First Aid",
 "Sub Category_Family Health"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Nebulizer Accessory N1",
@@ -57848,9 +58175,9 @@
 "Category_Parapharmacy",
 "Health Devices & Accessories",
 "Health Monitors",
+"OMG",
 "Parapharmacy",
-"Product Type_Health Monitors",
-"Sub Category_Health Devices & Accessories"
+"Product Type_Health Monitors"
 ],
 "in": true
 },
@@ -57865,6 +58192,7 @@
 "tags": [
 "Category_POSM",
 "No-Sync",
+"OMG",
 "POSM",
 "SEARCH_IGNORE"
 ],
@@ -57901,8 +58229,8 @@
 "Loyalty Program",
 "new arrivals",
 "No-Sync",
-"Product Type_Gift Sets",
-"Sub Category_Gift Sets"
+"OMG",
+"Product Type_Gift Sets"
 ],
 "in": false
 },
@@ -58009,8 +58337,8 @@
 {
 "t": "Rose Noir Set - EDP 30ml & Hand Cream",
 "u": "https://skinsociety.me/products/rose-noir-christmas-kit",
-"p": 15.6,
-"c": 24.0,
+"p": 24.0,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3701429847777.jpg?v=1764575067&width=400",
 "type": "Casual",
@@ -58029,8 +58357,8 @@
 {
 "t": "Wonderful Set - EDP 30ml & Hand Cream",
 "u": "https://skinsociety.me/products/wonderful-christmas-kit",
-"p": 15.6,
-"c": 24.0,
+"p": 24.0,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3701429847753.jpg?v=1764574953&width=400",
 "type": "Casual",
@@ -58049,8 +58377,8 @@
 {
 "t": "Lady Glitter Gold Edition Set - EDP 30ml & Shower Gel",
 "u": "https://skinsociety.me/products/lady-glitter-gold-edition-set",
-"p": 18.2,
-"c": 28.0,
+"p": 28.0,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3701429847166.jpg?v=1764574835&width=400",
 "type": "Casual",
@@ -58069,8 +58397,8 @@
 {
 "t": "L'Eau Virile Set - EDP 100ml & Shower Gel",
 "u": "https://skinsociety.me/products/adopt-leau-virile-gift-set",
-"p": 32.44,
-"c": 49.9,
+"p": 49.9,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3701429845575.jpg?v=1764574563&width=400",
 "type": "Casual",
@@ -58149,8 +58477,8 @@
 {
 "t": "Yummy Candy Single Set",
 "u": "https://skinsociety.me/products/yummy-candy-single-set",
-"p": 7.61,
-"c": 11.7,
+"p": 11.7,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3701429850005.jpg?v=1764444618&width=400",
 "type": "Casual",
@@ -58201,8 +58529,8 @@
 "Loyalty Program",
 "new arrivals",
 "No-Sync",
-"Product Type_Scented Candles",
-"SAVE22"
+"OMG",
+"Product Type_Scented Candles"
 ],
 "in": true
 },
@@ -58221,8 +58549,8 @@
 "Loyalty Program",
 "new arrivals",
 "No-Sync",
-"Product Type_Scented Candles",
-"SAVE22"
+"OMG",
+"Product Type_Scented Candles"
 ],
 "in": true
 },
@@ -58242,7 +58570,7 @@
 "Loyalty Program",
 "new arrivals",
 "No-Sync",
-"Product Type_Scented Candles"
+"OMG"
 ],
 "in": true
 },
@@ -58262,7 +58590,7 @@
 "Loyalty Program",
 "new arrivals",
 "No-Sync",
-"Product Type_Scented Candles"
+"OMG"
 ],
 "in": true
 },
@@ -58309,8 +58637,8 @@
 {
 "t": "Joalia Set - EDP 30ml & Hand Cream",
 "u": "https://skinsociety.me/products/joalia-set",
-"p": 15.6,
-"c": 24.0,
+"p": 24.0,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3701429847791.jpg?v=1764443306&width=400",
 "type": "Casual",
@@ -58329,8 +58657,8 @@
 {
 "t": "Onyx Set - EDP 30ml & Shower Gel",
 "u": "https://skinsociety.me/products/onyx-gift-set",
-"p": 18.2,
-"c": 28.0,
+"p": 28.0,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3701429847265.jpg?v=1764443230&width=400",
 "type": "Casual",
@@ -58436,6 +58764,7 @@
 "type": "Casual",
 "tags": [
 "adopt OUTLETSALE",
+"OMG",
 "SAVE22",
 "ss26"
 ],
@@ -58484,8 +58813,8 @@
 {
 "t": "Rouge Envoûtant Set - EDP 30ml & Hand Cream",
 "u": "https://skinsociety.me/products/rouge-envoutant-set",
-"p": 15.6,
-"c": 24.0,
+"p": 24.0,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3701429846824_e611241e-1fab-4912-9fe4-ffd6695b0217.jpg?v=1764408922&width=400",
 "type": "Casual",
@@ -58504,8 +58833,8 @@
 {
 "t": "Rouge Envoûtant Set - EDP 10ml & Bath Bomb",
 "u": "https://skinsociety.me/products/rouge-envoutant-christmas-kit",
-"p": 9.43,
-"c": 14.5,
+"p": 14.5,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3701429846633.jpg?v=1764408556&width=400",
 "type": "Casual",
@@ -58517,15 +58846,15 @@
 "For Her",
 "Gift Sets",
 "Handwash & Soap",
-"No-Sync"
+"Loyalty Program"
 ],
 "in": true
 },
 {
 "t": "Joalia Set - EDP 30ml & Shower Gel",
 "u": "https://skinsociety.me/products/joalia-gift-set",
-"p": 18.2,
-"c": 28.0,
+"p": 28.0,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3701429845797.jpg?v=1764408526&width=400",
 "type": "Casual",
@@ -58540,85 +58869,5 @@
 "Category_Fragrances"
 ],
 "in": false
-},
-{
-"t": "Onyx Set - EDP 100ml & Shower Gel",
-"u": "https://skinsociety.me/products/onyx-coffret",
-"p": 32.44,
-"c": 49.9,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3701429845513.jpg?v=1764408329&width=400",
-"type": "Casual",
-"tags": [
-"Adopt Men",
-"Bath & Body",
-"Bath & Shower",
-"Body Wash & Shower Gel",
-"Brand_Adopt",
-"Casual",
-"Casual Fragrances",
-"Category_Bath & Body"
-],
-"in": false
-},
-{
-"t": "Joalia Set - EDP 100ml & Shower Gel",
-"u": "https://skinsociety.me/products/joalia-coffret",
-"p": 32.44,
-"c": 49.9,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3701429845490.jpg?v=1764408148&width=400",
-"type": "Casual",
-"tags": [
-"Bath & Shower",
-"Body Care",
-"Body Wash & Shower Gel",
-"Brand_Adopt",
-"Casual",
-"Casual Fragrances",
-"Category_Fragrances",
-"Eau De Parfum"
-],
-"in": false
-},
-{
-"t": "Onyx Eau de parfum",
-"u": "https://skinsociety.me/products/onyx-eau-de-parfum",
-"p": 17.5,
-"c": 0.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3701429845476.jpg?v=1764408003&width=400",
-"type": "Casual",
-"tags": [
-"Adopt Men",
-"adopt OUTLETSALE",
-"Brand_Adopt",
-"Casual Fragrances",
-"Category_Fragrances",
-"Eau De Parfum",
-"For Him",
-"Fragrances"
-],
-"in": true
-},
-{
-"t": "The Enchanted Carousel  Advent Calendar",
-"u": "https://skinsociety.me/products/the-enchanted-carousel-advent-calendar",
-"p": 190.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3701429845377-1.jpg?v=1764407960&width=400",
-"type": "Casual",
-"tags": [
-"adopt OUTLETSALE",
-"Brand_Adopt",
-"Casual",
-"Casual Fragrances",
-"Category_Fragrances",
-"Fragrances",
-"Gift Sets",
-"Loyalty Program"
-],
-"in": true
 }
 ]
