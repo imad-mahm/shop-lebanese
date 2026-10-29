@@ -50,7 +50,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/petalkiss.jpg?v=1735637858&width=400",
 "type": "Flowers",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Custom Order",
@@ -173,7 +173,7 @@
 "Love & Romance",
 "Red"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Pink Harmony",
@@ -247,7 +247,7 @@
 "Pink October",
 "Roses"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Colorful Moments",
@@ -468,7 +468,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Bear_in_Blue_Pyjamas_with_Cushion.jpg?v=1790315035&width=400",
 "type": "Add-Ons",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Happy Anniversary Balloon",
@@ -868,7 +868,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Cookie_Bloom_-_Fall_Flower_with_cookies_1.jpg?v=1789547018&width=400",
 "type": "Flowers",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Colours of Fall",
@@ -1385,7 +1385,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Berry_Blush.jpg?v=1791443253&width=400",
 "type": "Flowers",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Lilac Hugs",
@@ -1779,7 +1779,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Into_the_Spotlight.jpg?v=1791448089&width=400",
 "type": "Flowers",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Summer's Glow",
@@ -1993,7 +1993,7 @@
 "Get Well Soon",
 "Thank You"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Passionate  Love",
@@ -2222,7 +2222,7 @@
 {
 "t": "Rose Prestige",
 "u": "https://exotica.com/products/rose-prestige",
-"p": 104.0,
+"p": 110.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Rose_Prestige.jpg?v=1775728075&width=400",
@@ -2994,7 +2994,7 @@
 "Graduation",
 "Love & Romance"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Pink Paradise",
@@ -3138,7 +3138,7 @@
 "Plants",
 "Thank You"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Lush Orchid",
@@ -3263,7 +3263,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/DarkMilkRocher_SablesGourmet.webp?v=1781262306&width=400",
 "type": "Add-Ons",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "White Nobile",
@@ -3945,7 +3945,7 @@
 "Pink",
 "Pink October"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Inner Peace",
@@ -4015,7 +4015,7 @@
 "For Him",
 "For Kids"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Pop Up",
@@ -4355,7 +4355,7 @@
 "For Mom",
 "Mixed Colors"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Rush of Feelings",
@@ -4626,7 +4626,7 @@
 "tags": [
 "Wine & Spirits"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Sunset Dust",
@@ -4792,7 +4792,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Blush-Crush.jpg?v=1749537215&width=400",
 "type": "Flowers",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Sablés Gourmets Small Box",
@@ -4823,7 +4823,7 @@
 "Graduation",
 "Handheld Bouquets"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Small Kisses",
@@ -4843,7 +4843,7 @@
 "Fuschia",
 "Graduation"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Bonsai Essence",
@@ -4984,7 +4984,7 @@
 "Get Well Soon",
 "Love & Romance"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Artistic Touch",
@@ -5114,7 +5114,7 @@
 "Indoor Plants",
 "Medium"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Love",
@@ -5297,7 +5297,7 @@
 "For Him",
 "For Kids"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Champagne Drappier Brut Magnum",
@@ -5806,7 +5806,7 @@
 "For Teta",
 "Indoor Plants"
 ],
-"in": true
+"in": false
 },
 {
 "t": "3 Dozen Reds",
@@ -5953,7 +5953,7 @@
 "Love & Romance",
 "Red"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Classic Symbol of Love",
@@ -6029,7 +6029,7 @@
 "tags": [
 "Wine & Spirits"
 ],
-"in": true
+"in": false
 },
 {
 "t": "IXSIR Altitudes Rosé Lebanon",
@@ -6042,7 +6042,7 @@
 "tags": [
 "Wine & Spirits"
 ],
-"in": false
+"in": true
 },
 {
 "t": "IXSIR Altitudes Red Lebanon",
