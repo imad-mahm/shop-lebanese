@@ -1,5 +1,16 @@
 [
 {
+"t": "#140145 online payment",
+"u": "https://comostore.me/products/140145-online-payment",
+"p": 140.0,
+"c": null,
+"cur": "USD",
+"img": "",
+"type": "",
+"tags": [],
+"in": true
+},
+{
 "t": "KOMIS KOMIS D515 BROWN LOAFERS",
 "u": "https://comostore.me/products/komis-komis-d515-brown-loafers",
 "p": 195.0,
@@ -2155,26 +2166,6 @@
 "in": true
 },
 {
-"t": "HUNTER DOWNPOUR BLACK CHELSEA BOOTS",
-"u": "https://comostore.me/products/hunter-downpour-black-chelsea-boots",
-"p": 185.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1367/5161/files/comowebsitedesign-2026-09-28T150453.884.png?v=1790597117&width=400",
-"type": "Boots",
-"tags": [
-"boots",
-"Boots at como store",
-"Boots in Beirut",
-"Boots in Lebanon",
-"hunter",
-"hunter rain boots",
-"hunter rain boots at como store",
-"hunter rain boots in lebanon"
-],
-"in": true
-},
-{
 "t": "HUNTER DOWNPOUR OLIVE TALL BOOT",
 "u": "https://comostore.me/products/hunter-downpour-olive-tall-boot",
 "p": 210.0,
@@ -3600,7 +3591,7 @@
 "crime London Sneakers",
 "crime London Sneakers lebanon"
 ],
-"in": true
+"in": false
 },
 {
 "t": "CRIME LONDON SK8 DELUXE OLIVE SNEAKERS",
@@ -6963,7 +6954,7 @@
 "birkenstock in lebanon",
 "Colors of California"
 ],
-"in": false
+"in": true
 },
 {
 "t": "COLORS OF CALIFORNIA SABOT DENIM FLATS",
@@ -7097,7 +7088,7 @@
 "birkenstock in lebanon",
 "Colors of California"
 ],
-"in": false
+"in": true
 },
 {
 "t": "COLORS OF CALIFORNIA TWO BUCKLE DENIM FLATS",
@@ -7117,7 +7108,7 @@
 "birkenstock in lebanon",
 "Colors of California"
 ],
-"in": false
+"in": true
 },
 {
 "t": "COLORS OF CALIFORNIA CAMEL PLATFORM FLATS",
@@ -9997,7 +9988,7 @@
 "Colors of California shoes",
 "Colors of California Sneakers"
 ],
-"in": false
+"in": true
 },
 {
 "t": "COLORS OF CALIFORNIA DOUBLE BUCKLE WHITE FLATS",
@@ -19179,7 +19170,7 @@
 {
 "t": "LEMON JELLY GUIDA NAVAL",
 "u": "https://comostore.me/products/lemon-jelly-guida-navy",
-"p": 110.0,
+"p": 90.0,
 "c": 110.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1367/5161/files/Untitleddesign-2025-12-02T143040.372.png?v=1764679177&width=400",
@@ -19379,7 +19370,7 @@
 {
 "t": "LEMON JELLY PEACHY DUSTY NUDE",
 "u": "https://comostore.me/products/lemon-jelly-peachy-06",
-"p": 110.0,
+"p": 80.0,
 "c": 110.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1367/5161/products/peachy06.2.jpg?v=1765538611&width=400",
@@ -19419,7 +19410,7 @@
 {
 "t": "LEMON JELLY PEACHY RUST",
 "u": "https://comostore.me/products/lemon-jelly-peachy-rust",
-"p": 110.0,
+"p": 90.0,
 "c": 110.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1367/5161/files/Untitleddesign-2025-12-02T120640.901.png?v=1764670018&width=400",
@@ -19439,7 +19430,7 @@
 {
 "t": "LEMON JELLY EIRWEN WOODLAND",
 "u": "https://comostore.me/products/lemon-jelly-eirwen-woodland",
-"p": 135.0,
+"p": 100.0,
 "c": 135.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1367/5161/files/Untitleddesign-2025-12-02T120251.078.png?v=1764669823&width=400",
@@ -19459,7 +19450,7 @@
 {
 "t": "LEMON JELLY HALLIE BLACK",
 "u": "https://comostore.me/products/lemon-jelly-hallie-black",
-"p": 120.0,
+"p": 90.0,
 "c": 120.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1367/5161/files/Untitleddesign-2025-12-02T120024.276.png?v=1764669650&width=400",
@@ -19479,7 +19470,7 @@
 {
 "t": "LEMON JELLY GUIDA DUSTY NUDE",
 "u": "https://comostore.me/products/lemon-jelly-guida-dusty-nude",
-"p": 110.0,
+"p": 90.0,
 "c": 110.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1367/5161/files/Untitleddesign-2025-12-02T115323.167.png?v=1764669219&width=400",
@@ -19519,7 +19510,7 @@
 {
 "t": "LEMON JELLY HALLIE DUSTY NUDE",
 "u": "https://comostore.me/products/lemon-jelly-hallie-dusty-nude",
-"p": 120.0,
+"p": 90.0,
 "c": 120.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1367/5161/files/Untitleddesign-2025-12-02T114654.591.png?v=1764668827&width=400",
@@ -19579,7 +19570,7 @@
 {
 "t": "LEMON JELLY PEACHY GREEN",
 "u": "https://comostore.me/products/lemon-jelly-peachy-03",
-"p": 110.0,
+"p": 80.0,
 "c": 110.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1367/5161/files/peachy03.2.jpg?v=1789382043&width=400",
@@ -19659,7 +19650,7 @@
 {
 "t": "LEMON JELLY SADIE BLACK",
 "u": "https://comostore.me/products/lemon-jelly-sadie-dusty-black",
-"p": 135.0,
+"p": 100.0,
 "c": 135.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1367/5161/files/Untitleddesign-2025-12-02T113310.395_7cc0b4f8-212a-4ff1-9839-a05fa248edf1.png?v=1764668130&width=400",
@@ -19679,7 +19670,7 @@
 {
 "t": "LEMON JELLY SADIE DUSTY NUDE",
 "u": "https://comostore.me/products/lemon-jelly-sadie-dusty-nude",
-"p": 135.0,
+"p": 100.0,
 "c": 135.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1367/5161/files/Untitleddesign-2025-12-02T112729.921.png?v=1764667695&width=400",
@@ -19719,7 +19710,7 @@
 {
 "t": "LEMON JELLY PEACHY WOODLAND",
 "u": "https://comostore.me/products/lemon-jelly-peachy-woodland",
-"p": 110.0,
+"p": 80.0,
 "c": 110.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1367/5161/files/Untitleddesign-2025-12-02T145102.214_edfc7469-1635-4bb6-98d7-29abdc6ea9c1.png?v=1764679901&width=400",
@@ -19739,7 +19730,7 @@
 {
 "t": "LEMON JELLY EIRWEN NAVAL",
 "u": "https://comostore.me/products/lemon-jelly-eirwen-naval",
-"p": 135.0,
+"p": 100.0,
 "c": 135.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1367/5161/files/comowebsitedesign-2026-02-02T155036.534.png?v=1770040270&width=400",
@@ -19759,7 +19750,7 @@
 {
 "t": "LEMON JELLY PEACHY DARK CHERRY",
 "u": "https://comostore.me/products/lemon-jelly-peachy-04",
-"p": 110.0,
+"p": 80.0,
 "c": 110.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1367/5161/products/peachy04.2.jpg?v=1765540333&width=400",
@@ -19779,7 +19770,7 @@
 {
 "t": "LEMON JELLY NASH WOODLAND",
 "u": "https://comostore.me/products/lemon-jelly-nash-03",
-"p": 135.0,
+"p": 100.0,
 "c": 135.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1367/5161/files/nash03.1.jpg?v=1789115969&width=400",
@@ -19819,7 +19810,7 @@
 {
 "t": "LEMON JELLY COLDEN BLACK",
 "u": "https://comostore.me/products/lemon-jelly-colden-01",
-"p": 125.0,
+"p": 90.0,
 "c": 125.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1367/5161/products/colden01.1.jpg?v=1733225641&width=400",
@@ -19839,7 +19830,7 @@
 {
 "t": "LEMON JELLY PEACHY BLACK",
 "u": "https://comostore.me/products/lemon-jelly-peachy-01",
-"p": 110.0,
+"p": 80.0,
 "c": 110.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1367/5161/products/peachy01.2.jpg?v=1765538793&width=400",
@@ -19879,7 +19870,7 @@
 {
 "t": "LEMON JELLY SAGE BLACK",
 "u": "https://comostore.me/products/lemon-jelly-sage-black",
-"p": 125.0,
+"p": 100.0,
 "c": 125.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1367/5161/files/Untitleddesign-2025-11-29T141147.605.png?v=1764418317&width=400",
@@ -19899,7 +19890,7 @@
 {
 "t": "LEMON JELLY FRAN WOODLAND",
 "u": "https://comostore.me/products/lemon-jelly-fran-woodland",
-"p": 175.0,
+"p": 140.0,
 "c": 175.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1367/5161/files/Untitleddesign-2025-11-29T140739.150.png?v=1764418066&width=400",
@@ -19919,7 +19910,7 @@
 {
 "t": "LEMON JELLY FRAN BLACK",
 "u": "https://comostore.me/products/lemon-jelly-fran-black",
-"p": 175.0,
+"p": 140.0,
 "c": 175.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1367/5161/files/Untitleddesign-2025-11-29T140513.145.png?v=1764417943&width=400",
@@ -19939,7 +19930,7 @@
 {
 "t": "LEMON JELLY COLDEN GREEN",
 "u": "https://comostore.me/products/lemon-jelly-colden-green",
-"p": 130.0,
+"p": 100.0,
 "c": 130.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1367/5161/files/Untitleddesign-2025-11-29T140150.107.png?v=1764417718&width=400",
@@ -19959,7 +19950,7 @@
 {
 "t": "LEMON JELLY EIRWEN DARK CHERRY",
 "u": "https://comostore.me/products/lemon-jelly-eirwen-dark-cherry",
-"p": 135.0,
+"p": 100.0,
 "c": 135.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1367/5161/files/Untitleddesign-2025-11-29T135411.260.png?v=1764417282&width=400",
@@ -19979,7 +19970,7 @@
 {
 "t": "LEMON JELLY KAIAH WOODLAND",
 "u": "https://comostore.me/products/lemon-jelly-kaiah-dusty-woodland",
-"p": 150.0,
+"p": 120.0,
 "c": 150.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1367/5161/files/Untitleddesign-2025-11-29T135049.683.png?v=1764417065&width=400",
@@ -19999,7 +19990,7 @@
 {
 "t": "LEMON JELLY EIRWEN DUSTY NUDE",
 "u": "https://comostore.me/products/lemon-jelly-eirwen-dusty-nude",
-"p": 135.0,
+"p": 100.0,
 "c": 135.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1367/5161/files/Untitleddesign-2025-11-29T134725.707.png?v=1764416895&width=400",
@@ -20039,7 +20030,7 @@
 {
 "t": "LEMON JELLY KAIAH DUSTY NUDE",
 "u": "https://comostore.me/products/lemon-jelly-kaiah-dusty-nude",
-"p": 150.0,
+"p": 120.0,
 "c": 150.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1367/5161/files/Untitleddesign-2025-11-29T133113.081.png?v=1764415884&width=400",
@@ -20059,7 +20050,7 @@
 {
 "t": "LEMON JELLY KAIAH BLACK",
 "u": "https://comostore.me/products/lemon-jelly-kaiah-black",
-"p": 150.0,
+"p": 120.0,
 "c": 150.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1367/5161/files/Untitleddesign-2025-11-29T132658.301.png?v=1764415647&width=400",
@@ -20079,7 +20070,7 @@
 {
 "t": "LEMON JELLY SELENA DUSTY BLACK",
 "u": "https://comostore.me/products/lemon-jelly-selena-dusty-black",
-"p": 135.0,
+"p": 100.0,
 "c": 135.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1367/5161/files/Untitleddesign-2025-11-29T132401.188.png?v=1764415457&width=400",
@@ -20119,7 +20110,7 @@
 {
 "t": "LEMON JELLY SELENA DUSTY NUDE",
 "u": "https://comostore.me/products/lemon-jelly-selena-susty-nude",
-"p": 135.0,
+"p": 100.0,
 "c": 135.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1367/5161/files/Untitleddesign-2025-11-28T124143.541_548dd4cc-c33c-460d-ad37-c88a2a0c3893.png?v=1764326946&width=400",
@@ -23243,8 +23234,8 @@
 {
 "t": "MARIO VALENTINO PINK LOGO SLIDES",
 "u": "https://comostore.me/products/mario-valentino-pink-logo-slides",
-"p": 100.0,
-"c": null,
+"p": 80.0,
+"c": 120.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1367/5161/files/Untitleddesign-2025-10-27T134518.878.png?v=1761565589&width=400",
 "type": "Slides",
