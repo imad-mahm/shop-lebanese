@@ -1130,7 +1130,7 @@
 "outerwear",
 "upperwear"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Lynn Pants - Suiko Print",
@@ -4197,7 +4197,7 @@
 "tags": [
 "knitwear"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Jujule Santorini Cardigan",
@@ -4236,7 +4236,7 @@
 "tags": [
 "knitwear"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Jujule Heart Cardigan - Fushia",
@@ -7084,7 +7084,7 @@
 "in": true
 },
 {
-"t": "Palm Jacket - Olive",
+"t": "Palm Jacket - Green",
 "u": "https://www.jujule-lemonie.com/products/palm-jacket-olive",
 "p": 275.0,
 "c": null,

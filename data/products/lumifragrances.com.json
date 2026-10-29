@@ -1,5 +1,365 @@
 [
 {
+"t": "Calvin Klein Euphoria EDP — Sample",
+"u": "https://lumifragrances.com/products/calvin-klein-euphoria-edp-decant",
+"p": 7.99,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0977/3111/7367/files/ck-euphoria-edp-sample-v3.jpg?v=1793289342&width=400",
+"type": "Sample",
+"tags": [
+"Sample",
+"Women"
+],
+"in": true
+},
+{
+"t": "Dior Gris Dior — Sample",
+"u": "https://lumifragrances.com/products/dior-gris-dior-decant",
+"p": 19.99,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0977/3111/7367/files/gris-dior-sample.jpg?v=1793288086&width=400",
+"type": "Sample",
+"tags": [
+"Men",
+"Sample",
+"Women"
+],
+"in": true
+},
+{
+"t": "Dior Sakura — Sample",
+"u": "https://lumifragrances.com/products/dior-sakura-decant",
+"p": 19.99,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0977/3111/7367/files/dior-sakura-sample.jpg?v=1793288086&width=400",
+"type": "Sample",
+"tags": [
+"Men",
+"Sample",
+"Women"
+],
+"in": true
+},
+{
+"t": "Dior Ambre Nuit — Sample",
+"u": "https://lumifragrances.com/products/dior-ambre-nuit-decant",
+"p": 19.99,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0977/3111/7367/files/dior-ambre-nuit-sample.jpg?v=1793288087&width=400",
+"type": "Sample",
+"tags": [
+"Men",
+"Sample",
+"Women"
+],
+"in": true
+},
+{
+"t": "Ex Nihilo Blue Talisman — Sample",
+"u": "https://lumifragrances.com/products/ex-nihilo-blue-talisman-decant",
+"p": 19.99,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0977/3111/7367/files/blue-talisman-sample.jpg?v=1793288086&width=400",
+"type": "Sample",
+"tags": [
+"Men",
+"Sample",
+"Women"
+],
+"in": true
+},
+{
+"t": "Tom Ford Oud Wood — Sample",
+"u": "https://lumifragrances.com/products/tom-ford-oud-wood-decant",
+"p": 26.99,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0977/3111/7367/files/tom-ford-oud-wood-sample.jpg?v=1793224655&width=400",
+"type": "Sample",
+"tags": [
+"Men",
+"Sample",
+"Women"
+],
+"in": true
+},
+{
+"t": "Xerjoff Alexandria II — Sample",
+"u": "https://lumifragrances.com/products/xerjoff-alexandria-ii-decant",
+"p": 26.99,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0977/3111/7367/files/alexandria-ii-sample.jpg?v=1793288087&width=400",
+"type": "Sample",
+"tags": [
+"Men",
+"Sample",
+"Women"
+],
+"in": true
+},
+{
+"t": "Amouage Reflection Man — Sample",
+"u": "https://lumifragrances.com/products/amouage-reflection-man-decant",
+"p": 26.99,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0977/3111/7367/files/reflection-man-sample.jpg?v=1793288087&width=400",
+"type": "Sample",
+"tags": [
+"Men",
+"Sample"
+],
+"in": true
+},
+{
+"t": "Initio Side Effect — Sample",
+"u": "https://lumifragrances.com/products/initio-side-effect-decant",
+"p": 19.99,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0977/3111/7367/files/side-effect-sample.jpg?v=1793288087&width=400",
+"type": "Sample",
+"tags": [
+"Men",
+"Sample",
+"Women"
+],
+"in": true
+},
+{
+"t": "Creed Millésime Impérial — Sample",
+"u": "https://lumifragrances.com/products/creed-millesime-imperial-decant",
+"p": 19.99,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0977/3111/7367/files/millesime-imperial-sample.jpg?v=1793288087&width=400",
+"type": "Sample",
+"tags": [
+"Men",
+"Sample",
+"Women"
+],
+"in": true
+},
+{
+"t": "Dior Bois d'Argent — Sample",
+"u": "https://lumifragrances.com/products/dior-bois-dargent-decant",
+"p": 19.99,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0977/3111/7367/files/bois-dargent-sample.jpg?v=1793288087&width=400",
+"type": "Sample",
+"tags": [
+"Men",
+"Sample",
+"Women"
+],
+"in": true
+},
+{
+"t": "Dolce & Gabbana The One Parfum — Sample",
+"u": "https://lumifragrances.com/products/dolce-gabbana-the-one-parfum-decant",
+"p": 11.99,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0977/3111/7367/files/the-one-parfum-sample.jpg?v=1793288088&width=400",
+"type": "Sample",
+"tags": [
+"Men",
+"Sample"
+],
+"in": true
+},
+{
+"t": "Emporio Armani Stronger With You Tobacco — Sample",
+"u": "https://lumifragrances.com/products/emporio-armani-stronger-with-you-tobacco-decant",
+"p": 11.99,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0977/3111/7367/files/swy-tobacco-sample.jpg?v=1793288088&width=400",
+"type": "Sample",
+"tags": [
+"Men",
+"Sample"
+],
+"in": true
+},
+{
+"t": "Emporio Armani Stronger With You Sandalwood — Sample",
+"u": "https://lumifragrances.com/products/emporio-armani-stronger-with-you-sandalwood-decant",
+"p": 8.99,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0977/3111/7367/files/swy-sandalwood-sample.jpg?v=1793288088&width=400",
+"type": "Sample",
+"tags": [
+"Men",
+"Sample"
+],
+"in": true
+},
+{
+"t": "Hugo Boss Boss Bottled Absolu — Sample",
+"u": "https://lumifragrances.com/products/hugo-boss-bottled-absolu-decant",
+"p": 8.99,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0977/3111/7367/files/bottled-absolu-sample.jpg?v=1793288088&width=400",
+"type": "Sample",
+"tags": [
+"Men",
+"Sample"
+],
+"in": true
+},
+{
+"t": "Yves Saint Laurent MYSLF EDT Intense — Sample",
+"u": "https://lumifragrances.com/products/ysl-myslf-edt-intense-decant",
+"p": 8.99,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0977/3111/7367/files/myslf-edt-intense-sample.jpg?v=1793288088&width=400",
+"type": "Sample",
+"tags": [
+"Men",
+"Sample"
+],
+"in": true
+},
+{
+"t": "Issey Miyake L'Eau d'Issey Pour Homme — Sample",
+"u": "https://lumifragrances.com/products/issey-miyake-leau-dissey-pour-homme-decant",
+"p": 7.99,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0977/3111/7367/files/leau-dissey-sample-v2.jpg?v=1793225581&width=400",
+"type": "Sample",
+"tags": [
+"Men",
+"Sample"
+],
+"in": true
+},
+{
+"t": "Givenchy Gentleman Réserve Privée — Sample",
+"u": "https://lumifragrances.com/products/givenchy-gentleman-reserve-privee-decant",
+"p": 8.99,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0977/3111/7367/files/gentleman-reserve-privee-sample-v2.jpg?v=1793225581&width=400",
+"type": "Sample",
+"tags": [
+"Men",
+"Sample"
+],
+"in": true
+},
+{
+"t": "Montale Arabians Tonka — Sample",
+"u": "https://lumifragrances.com/products/montale-arabians-tonka-decant",
+"p": 8.99,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0977/3111/7367/files/arabians-tonka-sample-v2.jpg?v=1793225581&width=400",
+"type": "Sample",
+"tags": [
+"Men",
+"Sample",
+"Women"
+],
+"in": true
+},
+{
+"t": "Paco Rabanne 1 Million Elixir — Sample",
+"u": "https://lumifragrances.com/products/paco-rabanne-1-million-elixir-decant",
+"p": 8.99,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0977/3111/7367/files/1-million-elixir-sample-v2.jpg?v=1793225581&width=400",
+"type": "Sample",
+"tags": [
+"Men",
+"Sample"
+],
+"in": true
+},
+{
+"t": "Dolce & Gabbana The One EDP — Sample",
+"u": "https://lumifragrances.com/products/dolce-gabbana-the-one-edp-decant",
+"p": 8.99,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0977/3111/7367/files/the-one-edp-sample-v2.jpg?v=1793225581&width=400",
+"type": "Sample",
+"tags": [
+"Men",
+"Sample"
+],
+"in": true
+},
+{
+"t": "Yves Saint Laurent Y EDP — Sample",
+"u": "https://lumifragrances.com/products/ysl-y-edp-decant",
+"p": 8.99,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0977/3111/7367/files/ysl-y-edp-sample-v2.jpg?v=1793225581&width=400",
+"type": "Sample",
+"tags": [
+"Men",
+"Sample"
+],
+"in": true
+},
+{
+"t": "Dior Homme Intense — Sample",
+"u": "https://lumifragrances.com/products/dior-homme-intense-decant",
+"p": 11.99,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0977/3111/7367/files/dior-homme-intense-sample-v2.jpg?v=1793225581&width=400",
+"type": "Sample",
+"tags": [
+"Men",
+"Sample"
+],
+"in": true
+},
+{
+"t": "Montblanc Legend EDP — Sample",
+"u": "https://lumifragrances.com/products/montblanc-legend-edp-decant",
+"p": 7.99,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0977/3111/7367/files/legend-edp-sample-v2.jpg?v=1793225580&width=400",
+"type": "Sample",
+"tags": [
+"Men",
+"Sample"
+],
+"in": true
+},
+{
+"t": "Dior Sauvage EDP — Sample",
+"u": "https://lumifragrances.com/products/dior-sauvage-edp-decant",
+"p": 11.99,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0977/3111/7367/files/sauvage-edp-sample-v2.jpg?v=1793225580&width=400",
+"type": "Sample",
+"tags": [
+"Men",
+"Sample"
+],
+"in": true
+},
+{
 "t": "Burberry London EDT - 100ml",
 "u": "https://lumifragrances.com/products/burberry-london-edt-100ml",
 "p": 59.0,
@@ -5097,7 +5457,8 @@
 "type": "Sample",
 "tags": [
 "Men",
-"Sample"
+"Sample",
+"Women"
 ],
 "in": true
 },

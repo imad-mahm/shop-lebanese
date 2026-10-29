@@ -2363,22 +2363,6 @@
 "in": true
 },
 {
-"t": "Rasasi Hawas Fire",
-"u": "https://moustaphaallabban.com/products/rasasi-hawas-fire",
-"p": 32.5,
-"c": 50.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/614514178065.jpg?v=1743027723&width=400",
-"type": "Perfumes & Fragrances",
-"tags": [
-"Eau De Parfume Men",
-"Eau De Parfume Women",
-"Men",
-"Women"
-],
-"in": true
-},
-{
 "t": "Collistar. Anti-Water Talasso Scrub 700Gr",
 "u": "https://moustaphaallabban.com/products/collistar-anti-water-talasso-scrub-700gr",
 "p": 61.26,
@@ -3339,22 +3323,6 @@
 "c": 185.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/products/5BIG.jpg?v=1742138214&width=400",
-"type": "Hair Treatment",
-"tags": [
-"Black25",
-"HAIR CARE",
-"HAIR STYLING & TREATMENTS",
-"Professional Hair Care"
-],
-"in": true
-},
-{
-"t": "OLAPLEX No.10 Bond Sharper Curl Defining Gel",
-"u": "https://moustaphaallabban.com/products/olaplex-no-3-hair-perfector-copy",
-"p": 34.4,
-"c": 43.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/850056933155.png?v=1740686158&width=400",
 "type": "Hair Treatment",
 "tags": [
 "Black25",
@@ -8778,22 +8746,6 @@
 "in": true
 },
 {
-"t": "Armani Stronger With You Sandalwood Edp",
-"u": "https://moustaphaallabban.com/products/armani-stronger-with-you-sandalwood-edp",
-"p": 135.35,
-"c": 159.24,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/3614274184631_911e9a20-d5c9-4a69-8743-e8b9f978be1a.png?v=1771480459&width=400",
-"type": "Perfumes & Fragrances",
-"tags": [
-"Eau De Parfume Men",
-"Eau De Parfume Women",
-"Men",
-"Women"
-],
-"in": true
-},
-{
 "t": "Armani Si Parfum",
 "u": "https://moustaphaallabban.com/products/armani-si-parfum",
 "p": 187.63,
@@ -9449,22 +9401,6 @@
 "tags": [
 "Lancome Makeup",
 "View All Luxury Makeup"
-],
-"in": true
-},
-{
-"t": "Jean Paul Gaultier Scandal Le Parfum Her Edp",
-"u": "https://moustaphaallabban.com/products/jean-paul-gaultier-scandal-le-parfum-her-edp",
-"p": 105.75,
-"c": 141.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/products/scanda.jpg?v=1662378946&width=400",
-"type": "Perfumes & Fragrances",
-"tags": [
-"Eau De Parfume Women",
-"v25",
-"Val26",
-"Women"
 ],
 "in": true
 },
@@ -42887,6 +42823,57 @@
 "Shiseido Skincare",
 "View All Luxury Makeup",
 "View all Luxury Skincare"
+],
+"in": true
+},
+{
+"t": "Shiseido Skin Filler Serum Refills",
+"u": "https://moustaphaallabban.com/products/shiseido-skin-filler-serum-refills",
+"p": 249.3,
+"c": 277.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/products/Sh.jpg?v=1678542015&width=400",
+"type": "Shiseido Skincare",
+"tags": [
+"Shiseido",
+"Shiseido Skincare",
+"View all Luxury Skincare"
+],
+"in": true
+},
+{
+"t": "Clinique Superpowder Double Face Powder",
+"u": "https://moustaphaallabban.com/products/superpowder-double-face-powder",
+"p": 51.85,
+"c": 61.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/products/20714066345_c3d31cd3-bc42-45f0-934a-be3b10bbbfe7.jpg?v=1743679248&width=400",
+"type": "Clinique Makeup",
+"tags": [],
+"in": true
+},
+{
+"t": "Clinique Even Better Make Up",
+"u": "https://moustaphaallabban.com/products/even-better-make-up",
+"p": 50.15,
+"c": 59.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/products/20714324629_66129934-b578-4ba0-a384-68f854089d84.jpg?v=1743679273&width=400",
+"type": "Clinique Makeup",
+"tags": [],
+"in": true
+},
+{
+"t": "Clinique Even Better Clinical Radical Dark Spot Corrector",
+"u": "https://moustaphaallabban.com/products/eb-drk-spt-crctr-intrptr-30ml-1floz",
+"p": 85.85,
+"c": 101.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/products/192333027219_10665539-ac35-4444-8d4c-60028b49d444.jpg?v=1743679301&width=400",
+"type": "Clinique SkinCare",
+"tags": [
+"SKINCARE",
+"View all Luxury skincare"
 ],
 "in": true
 }
