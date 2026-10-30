@@ -1,5 +1,107 @@
 [
 {
+"t": "The Exclusive Sohati Care Mystery Box - Yours Now !",
+"u": "https://sohaticare.com/products/yay-10-cashback-is-yours-keep-an-eye-on-your-bag-for-your-exclusive-code-to-use-on-your-next-order-copy",
+"p": 0.0,
+"c": 0.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/BlackNovemberMysteryBox.jpg?v=1793280277&width=400",
+"type": "GWP",
+"tags": [
+"_appmaker_disable_purchase",
+"appmaker.hide_product_status",
+"CPD_FASHSALE_BF24",
+"Hidden recommendation",
+"hide_product_status",
+"SEARCHANISE_IGNORE",
+"wizzy-ignore"
+],
+"in": true
+},
+{
+"t": "Yay! You Just Secured a $10 Cashback ! Keep an eye on your bag for your exclusive code to use on your next order!",
+"u": "https://sohaticare.com/products/10-cashback-from-sohati-care",
+"p": 0.0,
+"c": 0.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/10_CashBackCoupon.png?v=1793279696&width=400",
+"type": "GWP",
+"tags": [
+"_appmaker_disable_purchase",
+"appmaker.hide_product_status",
+"CPD_FASHSALE_BF24",
+"Hidden recommendation",
+"hide_product_status",
+"SEARCHANISE_IGNORE",
+"wizzy-ignore"
+],
+"in": true
+},
+{
+"t": "Black Friday Bonus Gift - Pouch",
+"u": "https://sohaticare.com/products/loreal-paris-gwp",
+"p": 0.0,
+"c": 0.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/Screenshot2024-11-09131327.png?v=1731150822&width=400",
+"type": "GWP",
+"tags": [
+"_appmaker_disable_purchase",
+"appmaker.hide_product_status",
+"CPD_FASHSALE_BF24",
+"Hidden recommendation",
+"hide_product_status",
+"SEARCHANISE_IGNORE",
+"wizzy-ignore"
+],
+"in": true
+},
+{
+"t": "Eucerin Hyaluron-Filler + Elasticity Coffret: Day Cream 50ml + Night Cream 50ml + FREE Eye Cream 15ml",
+"u": "https://sohaticare.com/products/eucerin-hyaluron-filler-elasticity-coffret-day-cream-50ml-night-cream-50ml-free-eye-cream-15ml",
+"p": 117.7,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/6085011016572EucerinElasticityCoffret.png?v=1792775209&width=400",
+"type": "Set",
+"tags": [
+"Bundle",
+"Coffret",
+"eucerin-xmas-oct26"
+],
+"in": true
+},
+{
+"t": "Eucerin Hyaluron-Filler 3xEffect Coffret: Day Cream 50ml + Night Cream 50ml + FREE Eye Cream 15ml",
+"u": "https://sohaticare.com/products/eucerin-hyaluron-filler-3xeffect-coffret-day-cream-50ml-night-cream-50ml-free-eye-cream-15ml",
+"p": 117.7,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/6085011013342EucerinHyaluronCoffret.png?v=1792767879&width=400",
+"type": "Set",
+"tags": [
+"Bundle",
+"Coffret",
+"eucerin-xmas-oct26"
+],
+"in": true
+},
+{
+"t": "Eucerin Even Pigment Perfector Coffret: Day cream 50 ml + Night Cream 50 ml + FREE Eye cream 15 ml",
+"u": "https://sohaticare.com/products/epp-day-cream-epp-night-cream-epp-eye-cream-gift",
+"p": 117.7,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/Eucerin_Even_Pigment_Perfector_Gift_Set.png?v=1792767206&width=400",
+"type": "Set",
+"tags": [
+"CHR25SETS",
+"Coffret",
+"eucerin-xmas-oct26"
+],
+"in": true
+},
+{
 "t": "Hyaluronic Acid Boosting Serum 30ML",
 "u": "https://sohaticare.com/products/hyaluronic-acid-boosting-serum-30ml",
 "p": 144.3,
@@ -763,7 +865,7 @@
 "Giftset",
 "TOPOFFER"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Buy Bio-Oil Skin Care Oil & get a FREE mini of your choice",
@@ -2966,7 +3068,7 @@
 "BACK2SKL23",
 "BF_SALE_23DG"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Feels Prep + Primer",
@@ -3986,7 +4088,7 @@
 "HAIR_BUNDLE",
 "pf-bck-to-schl-cmpgn"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Buy Rene Furterer Absolue Kératine repairing mask & get a FREE Hairbrush",
@@ -12633,7 +12735,7 @@
 "Drugstore",
 "Drugstore Beauty"
 ],
-"in": true
+"in": false
 },
 {
 "t": "15 % OFF 2x Vinyl Ink Lipstick Get Hair clip",
@@ -13051,8 +13153,8 @@
 {
 "t": "Eye lashes growth serum 10ml",
 "u": "https://sohaticare.com/products/eye-lashes-growth-serum-10ml",
-"p": 9.0,
-"c": null,
+"p": 7.65,
+"c": 9.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/61ACNzOnatL.jpg?v=1775731330&width=400",
 "type": "",
@@ -13062,8 +13164,8 @@
 {
 "t": "Lip oil plumping (pink) 7ml",
 "u": "https://sohaticare.com/products/lip-oil-plumping-pink-7ml",
-"p": 7.0,
-"c": null,
+"p": 5.95,
+"c": 7.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/beige_d38fa71d-b416-42db-b5fe-20dd8b647c96.webp?v=1775731493&width=400",
 "type": "",
@@ -13073,8 +13175,8 @@
 {
 "t": "Slimming herbal body gel 200ml",
 "u": "https://sohaticare.com/products/slimming-herbal-body-gel-200ml",
-"p": 15.0,
-"c": null,
+"p": 20.4,
+"c": 24.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/MedicaswissPackshotBodySlimming.jpg?v=1777273475&width=400",
 "type": "",
@@ -13084,8 +13186,8 @@
 {
 "t": "Sun care protector spf50+  50ml",
 "u": "https://sohaticare.com/products/sun-care-protector-spf50-50ml",
-"p": 18.0,
-"c": null,
+"p": 20.4,
+"c": 24.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/Sun-Care-Protector-Spf50-50ml.jpg?v=1775731214&width=400",
 "type": "",
@@ -13095,8 +13197,8 @@
 {
 "t": "Face peeling cream + granules 50ml",
 "u": "https://sohaticare.com/products/face-peeling-cream-granules-50ml",
-"p": 14.0,
-"c": null,
+"p": 11.9,
+"c": 14.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/madica-PEELING-CREAM.jpg?v=1775731088&width=400",
 "type": "",
@@ -13106,8 +13208,8 @@
 {
 "t": "Face peeling AHA 50ml",
 "u": "https://sohaticare.com/products/face-peeling-aha-50ml",
-"p": 14.0,
-"c": null,
+"p": 11.9,
+"c": 14.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/MedicaswissPackshotFacialPeeling.jpg?v=1777272869&width=400",
 "type": "",
@@ -33566,7 +33668,7 @@
 "aloelab_dec25",
 "aloelab_eid26"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Hydra Rescue Hair Mask 200 ml",
@@ -41841,8 +41943,8 @@
 {
 "t": "Anti hair loss & Regrow hair 50 ml",
 "u": "https://sohaticare.com/products/anti-hair-loss-regrow-hair-50-ml",
-"p": 9.0,
-"c": null,
+"p": 11.9,
+"c": 14.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/antiloss_regrowhair.png?v=1751268039&width=400",
 "type": "Hair Oil",
@@ -41852,8 +41954,8 @@
 {
 "t": "Hyaluronic hair serum 50 ml",
 "u": "https://sohaticare.com/products/hyaluronic-hair-serum-50-ml",
-"p": 9.0,
-"c": null,
+"p": 11.9,
+"c": 14.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/hyaluronichairserum.png?v=1751267643&width=400",
 "type": "Hair Serum",
@@ -41865,8 +41967,8 @@
 {
 "t": "Collagen lift face & under eyes serum 15 ml",
 "u": "https://sohaticare.com/products/collagen-lift-face-under-eyes-serum-15-ml",
-"p": 16.0,
-"c": null,
+"p": 20.4,
+"c": 24.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/collagenface_undereyes.png?v=1751267583&width=400",
 "type": "Hair Serum",
@@ -41876,8 +41978,8 @@
 {
 "t": "Filler face & under eyes 15 ml",
 "u": "https://sohaticare.com/products/filler-face-under-eyes",
-"p": 16.0,
-"c": null,
+"p": 20.4,
+"c": 24.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/filler_face.png?v=1751267492&width=400",
 "type": "Serum",
@@ -41889,8 +41991,8 @@
 {
 "t": "Gold Hair Mask 200ml",
 "u": "https://sohaticare.com/products/gold-hair-mask",
-"p": 14.0,
-"c": null,
+"p": 11.9,
+"c": 14.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/products/Madica_Swiss_Gold_hair_mask_200ml.jpg?v=1624267632&width=400",
 "type": "Mask",
@@ -42616,7 +42718,7 @@
 "Braun_PriceUpdate_14AUG24",
 "Braun_PriceUpdate_24June24"
 ],
-"in": true
+"in": false
 },
 {
 "t": "-25% OFF Colgate Junior Bubble Fruit Flavour Toothpaste 50ml",
@@ -44014,123 +44116,5 @@
 "NOV25DISCOUNTS"
 ],
 "in": true
-},
-{
-"t": "Hydration Heroes Kit",
-"u": "https://sohaticare.com/products/hydration-heroes-kit",
-"p": 96.3,
-"c": 107.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/BioageHydrationHeroesKitPackshot.jpg?v=1749037358&width=400",
-"type": "Bundle",
-"tags": [
-"Bundle",
-"Bundles",
-"COMPENSATION_JUNE25",
-"Giftset",
-"JUNE25.SUMMER.BUNDLES",
-"NOV25DISCOUNTS"
-],
-"in": false
-},
-{
-"t": "Essie Slushy Sun 136, Salon-Quality Nail Polish, Vegan formula for flawless coverage, easy-glide brush",
-"u": "https://sohaticare.com/products/essie-slushy-sun-salon-quality-nail-polish-vegan-formula-for-flawless-coverage-easy-glide-brush",
-"p": 7.49,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/SlushySun1.jpg?v=1748861980&width=400",
-"type": "Nail Polish",
-"tags": [
-"CPD",
-"CPD_BLACK25_FLASH",
-"essie_11.11_25",
-"essie_new_june25",
-"essie_rivierarush_new",
-"exclude_cpd_flashsale",
-"exclude_dec25",
-"exclude_flash_july25"
-],
-"in": false
-},
-{
-"t": "Essie Bikini Snapped 45 , Salon-Quality Nail Polish, Vegan formula for flawless coverage, easy-glide brush",
-"u": "https://sohaticare.com/products/essie-bikini-so-teeny-salon-quality-nail-polish-vegan-formula-for-flawless-coverage-easy-glide-brush",
-"p": 7.68,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/BikiniSnapped3.jpg?v=1748861294&width=400",
-"type": "Nail Polish",
-"tags": [
-"adha_26",
-"backtoschool-exclusive",
-"CPD",
-"CPD_BLACK25_FLASH",
-"CPD_FLASH26",
-"essie_11.11_25",
-"essie_new_june25",
-"essie_rivierarush_new"
-],
-"in": true
-},
-{
-"t": "Essie Riviera Rush 1000, Salon-Quality Nail Polish, Vegan formula for flawless coverage, easy-glide brush",
-"u": "https://sohaticare.com/products/essie-riviera-rush-salon-quality-nail-polish-vegan-formula-for-flawless-coverage-easy-glide-brush",
-"p": 7.49,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/RivieraRush1.jpg?v=1748860995&width=400",
-"type": "Nail Polish",
-"tags": [
-"adha_26",
-"backtoschool-exclusive",
-"CPD",
-"CPD_BLACK25_FLASH",
-"CPD_FLASH26",
-"essie_11.11_25",
-"essie_new_june25",
-"essie_rivierarush_new"
-],
-"in": false
-},
-{
-"t": "Essie Limon Cielo 999, Salon-Quality Nail Polish, Vegan formula for flawless coverage, easy-glide brush",
-"u": "https://sohaticare.com/products/essie-limon-cielo-salon-quality-nail-polish-vegan-formula-for-flawless-coverage-easy-glide-brush",
-"p": 7.49,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/LimonCielo.jpg?v=1748860710&width=400",
-"type": "Nail Polish",
-"tags": [
-"adha_26",
-"backtoschool-exclusive",
-"CPD",
-"CPD_BLACK25_FLASH",
-"CPD_FLASH26",
-"essie_11.11_25",
-"essie_new_june25",
-"essie_rivierarush_new"
-],
-"in": false
-},
-{
-"t": "Essie Identity Illusion 7, Salon-Quality Nail Polish, Vegan formula for flawless coverage, easy-glide brush",
-"u": "https://sohaticare.com/products/your-nails-are-a-canvas-paint-on-your-true-self-with-this-large-green-flaky-pearl-vegan-nail-polish-with-iridescence-layer-with-other-essie-polishes-for-a-nail-art-look",
-"p": 7.49,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/IdentityIllusion3.jpg?v=1748860158&width=400",
-"type": "Nail Polish",
-"tags": [
-"adha_26",
-"backtoschool-exclusive",
-"CPD",
-"CPD_BLACK25_FLASH",
-"CPD_FLASH26",
-"essie_11.11_25",
-"essie_new_june25",
-"essie_rivierarush_new"
-],
-"in": false
 }
 ]

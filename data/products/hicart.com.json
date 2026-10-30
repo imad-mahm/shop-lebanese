@@ -1,5 +1,145 @@
 [
 {
+"t": "Transcend M 2 2280 Pcie Gen4",
+"u": "https://www.hicart.com/products/hicart-variants-titan-tech-group-0013-transcend-m-2-2280-pcie-gen4",
+"p": 100.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/ts500gmte115s-1-982d3d_c5465fe1-0685-4253-bb83-5bcdfa009604.jpg?v=1790778405&width=400",
+"type": "Storage",
+"tags": [
+"Computers",
+"Electronics",
+"Storage",
+"Transcend"
+],
+"in": true
+},
+{
+"t": "Seagate Exos X18 3 5 5 Years Warranty",
+"u": "https://www.hicart.com/products/hicart-variants-titan-tech-group-0010-seagate-exos-x18-3-5-5-years-warranty",
+"p": 415.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/st18000nm000j-1-839f8b_d8b76123-bbaa-4377-bcce-206421187e12.jpg?v=1790778396&width=400",
+"type": "Storage",
+"tags": [
+"Computers",
+"Electronics",
+"Seagate",
+"Storage"
+],
+"in": true
+},
+{
+"t": "Sheglam, Beach Sunset Palette",
+"u": "https://www.hicart.com/products/sheglam-beach-sunset-palette-w1177-sbbeauty03200303058",
+"p": 11.68,
+"c": 12.29,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/sheglam-beach-sunset-palette-w1177-sbbeauty03200303058-a5571f.jpg?v=1785493365&width=400",
+"type": "simple",
+"tags": [
+"Beauty",
+"Makeup",
+"Palettes & Sets",
+"Sheglam"
+],
+"in": true
+},
+{
+"t": "Sheglam, Sun Sculpt Liquid Contour, Available in Different Colors",
+"u": "https://www.hicart.com/products/sheglam-sun-sculpt-liquid-contour-available-in-different-colors-w1177-sb2108186053482413cc",
+"p": 6.37,
+"c": 6.7,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/sheglam-sun-sculpt-liquid-contour-available-in-different-colors-w1177-sb2108186053482413cc-cdf625.jpg?v=1785493354&width=400",
+"type": "",
+"tags": [
+"Beauty",
+"Face",
+"Makeup",
+"Sheglam"
+],
+"in": true
+},
+{
+"t": "Aderma Avoine Rhealba- Phys-Ac Perfect Fluid Anti-Imperfections 40 Ml",
+"u": "https://www.hicart.com/products/aderma-avoine-rhealba-phys-ac-perfect-fluid-anti-imperfections-40-ml",
+"p": 16.15,
+"c": 17.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/DDqJeFCRtb.jpg?v=1792488486&width=400",
+"type": "Skincare",
+"tags": [
+"Beauty",
+"Face",
+"Skin Care"
+],
+"in": true
+},
+{
+"t": "Aderma Avoine Rhealba-Creme Mains 50 Ml",
+"u": "https://www.hicart.com/products/aderma-avoine-rhealba-creme-mains-50-ml",
+"p": 7.6,
+"c": 8.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/qG9u64Qfdr.jpg?v=1792488486&width=400",
+"type": "Skincare",
+"tags": [
+"Beauty",
+"Face",
+"Skin Care"
+],
+"in": true
+},
+{
+"t": "Aderma Pain Dermatologique 100G",
+"u": "https://www.hicart.com/products/aderma-pain-dermatologique-100g",
+"p": 9.5,
+"c": 10.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/Gnw571yTfv.jpg?v=1792488456&width=400",
+"type": "Skincare",
+"tags": [
+"Beauty",
+"Face",
+"Skin Care"
+],
+"in": true
+},
+{
+"t": "Acnomix Anti-Aging Serum With Vit A 30 Ml",
+"u": "https://www.hicart.com/products/acnomix-anti-aging-serum-with-vit-a-30-ml",
+"p": 23.75,
+"c": 25.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/R54SKR2m62.jpg?v=1792488456&width=400",
+"type": "Skincare",
+"tags": [
+"Beauty",
+"Face",
+"Skin Care"
+],
+"in": true
+},
+{
+"t": "Samsung Top Loading Washer 24kg, 700RPM, 12 Programs, WA24A8376GV/RQ",
+"u": "https://www.hicart.com/products/samsung-top-loading-washer-24kg-700rpm-12-programs-wa24a8376gvrq-w781-wa24a8376gvrq",
+"p": 1025.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/samsung-top-loading-washer-24kg-700rpm-12-programs-wa24a8376gvrq-w781-wa24a8376gvrq-e88558.jpg?v=1785420367&width=400",
+"type": "simple",
+"tags": [
+"Electronics",
+"Large Appliances",
+"Samsung",
+"Washing Machines"
+],
+"in": true
+},
+{
 "t": "Samsung 65-Inch QLED Q8F 4K Vision AI Smart TV (2025), QA65Q8FAAUXTW",
 "u": "https://www.hicart.com/products/samsung-65-inch-qled-q8f-4k-vision-ai-smart-tv-2025-qa65q8faauxtw-w781-qa65q8faauxtw",
 "p": 759.0,
@@ -1018,19 +1158,6 @@
 "c": 215.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/ymQfD7RMW8.jpg?v=1793110050&width=400",
-"type": "Water Dispensers,Large Appliances",
-"tags": [
-"Water Dispensers"
-],
-"in": true
-},
-{
-"t": "Panasonic Bottom Load Water Dispenser, Touchless Operation, Ice Maker, Digital Touch Control, Night Light, PAN-WD4534",
-"u": "https://www.hicart.com/products/panasonic-bottom-load-water-dispenser-touchless-operation-ice-maker-digital-touch-control-night-light-pan-wd4534",
-"p": 699.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/SIcYOTkwsM.jpg?v=1793110050&width=400",
 "type": "Water Dispensers,Large Appliances",
 "tags": [
 "Water Dispensers"
@@ -3678,6 +3805,3735 @@
 "Beauty",
 "Perfumes & Fragrances",
 "Women"
+],
+"in": true
+},
+{
+"t": "BATH AND BODY WORKS FROSTED COCONUT SNOWBALL BODY MIST 236ML",
+"u": "https://www.hicart.com/products/bath-and-body-works-frosted-coconut-snowball-body-mist-236ml",
+"p": 25.0,
+"c": 47.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/vaGsx3KaN0.png?v=1793022299&width=400",
+"type": "",
+"tags": [
+"Bath and Body Works",
+"Beauty",
+"Perfumes & Fragrances",
+"Women"
+],
+"in": true
+},
+{
+"t": "BATH AND BODY WORKS A THOUSAND WISHES BODY MIST 236ML",
+"u": "https://www.hicart.com/products/bath-and-body-works-a-thousand-wishes-body-mist-236ml",
+"p": 25.0,
+"c": 47.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/YXOkKjNGbP.png?v=1793022199&width=400",
+"type": "",
+"tags": [
+"Bath and Body Works",
+"Beauty",
+"Perfumes & Fragrances",
+"Women"
+],
+"in": true
+},
+{
+"t": "BATH AND BODY WORKS BUTTERFLY BODY MIST 236ML",
+"u": "https://www.hicart.com/products/bath-and-body-works-butterfly-body-mist-236ml",
+"p": 25.0,
+"c": 47.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/ZzDbQA9CUE.png?v=1793022117&width=400",
+"type": "",
+"tags": [
+"Bath and Body Works",
+"Beauty",
+"Perfumes & Fragrances",
+"Women"
+],
+"in": true
+},
+{
+"t": "BATH AND BODY WORKS YOU'RE THE ONE BODY MIST 236ML",
+"u": "https://www.hicart.com/products/bath-and-body-works-youre-the-one-body-mist-236ml",
+"p": 25.0,
+"c": 47.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/7rzWg21m9A.png?v=1793022008&width=400",
+"type": "",
+"tags": [
+"Bath and Body Works",
+"Beauty",
+"Perfumes & Fragrances",
+"Women"
+],
+"in": true
+},
+{
+"t": "BATH AND BODY WORKS DARK KISS BODY MIST 236ML",
+"u": "https://www.hicart.com/products/bath-and-body-works-dark-kiss-body-mist-236ml",
+"p": 25.0,
+"c": 47.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/DGaCwWRRux.png?v=1793021900&width=400",
+"type": "",
+"tags": [
+"Bath and Body Works",
+"Beauty",
+"Perfumes & Fragrances",
+"Women"
+],
+"in": true
+},
+{
+"t": "BATH AND BODY WORKS WARM VANILLA SUGAR BODY MIST 236ML",
+"u": "https://www.hicart.com/products/bath-and-body-works-warm-vanilla-sugar-body-mist-236ml",
+"p": 25.0,
+"c": 45.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/JmicktYdvv.png?v=1793021434&width=400",
+"type": "",
+"tags": [
+"Bath and Body Works",
+"Beauty",
+"Perfumes & Fragrances",
+"Women"
+],
+"in": true
+},
+{
+"t": "Kidilo KD001 Baby Electric Feeding Chair & Swing – Multifunctional Comfort with Music",
+"u": "https://www.hicart.com/products/kidilo-kd001-baby-electric-feeding-chair-swing-multifunctional-comfort-with-music",
+"p": 110.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/oB03YFSyXQ.png?v=1793020905&width=400",
+"type": "",
+"tags": [
+"Baby Gear",
+"Kidilo",
+"New Arrivals Baby Gear",
+"Strollers & Chairs"
+],
+"in": true
+},
+{
+"t": "Kidilo C810 Baby High Chair – Foldable, Multi-Functional, Adjustable",
+"u": "https://www.hicart.com/products/kidilo-c810-baby-high-chair-foldable-multi-functional-adjustable",
+"p": 125.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/rzNnEqrAyf.png?v=1793020904&width=400",
+"type": "",
+"tags": [
+"Baby Gear",
+"Kidilo",
+"New Arrivals Baby Gear",
+"Strollers & Chairs"
+],
+"in": true
+},
+{
+"t": "Kidilo MAX Baby Stroller – 3-in-1 Travel System (Car Seat, Carrier & Stroller)",
+"u": "https://www.hicart.com/products/kidilo-max-baby-stroller-3-in-1-travel-system-car-seat-carrier-stroller",
+"p": 253.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/2UTtxF5HyY.jpg?v=1793020903&width=400",
+"type": "",
+"tags": [
+"Baby Gear",
+"Kidilo",
+"New Arrivals Baby Gear",
+"Strollers & Chairs"
+],
+"in": true
+},
+{
+"t": "Kidilo T8 Premium Baby Stroller – Multi-Functional, Reversible Handle, Shock-Absorbent Wheels",
+"u": "https://www.hicart.com/products/kidilo-t8-premium-baby-stroller-multi-functional-reversible-handle-shock-absorbent-wheels",
+"p": 135.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/ysgdfDwADH.png?v=1793020904&width=400",
+"type": "",
+"tags": [
+"Baby Gear",
+"Kidilo",
+"New Arrivals Baby Gear",
+"Strollers & Chairs"
+],
+"in": true
+},
+{
+"t": "Kidilo K8F Pro Baby Stroller – Ultra-Light Carbon Fiber, 3-in-1 Convertible, Airline-Friendly",
+"u": "https://www.hicart.com/products/kidilo-k8f-pro-baby-stroller-ultra-light-carbon-fiber-3-in-1-convertible-airline-friendly",
+"p": 107.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/2gWuFsztsn.webp?v=1793020903&width=400",
+"type": "",
+"tags": [
+"Baby Gear",
+"Kidilo",
+"New Arrivals Baby Gear",
+"Strollers & Chairs"
+],
+"in": true
+},
+{
+"t": "Kidilo K9FG Foldable Baby Stroller – Lightweight High View Reclining Pushchair (Newborn to 20 kg)",
+"u": "https://www.hicart.com/products/kidilo-k9fg-foldable-baby-stroller-lightweight-high-view-reclining-pushchair-newborn-to-20-kg",
+"p": 110.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/f530c8XyXF.png?v=1793020903&width=400",
+"type": "",
+"tags": [
+"Baby Gear",
+"New Arrivals Baby Gear",
+"Strollers & Chairs"
+],
+"in": true
+},
+{
+"t": "Nutricook Healthi Flex Glass 7.6L - 2200W Air Fryer, AFH510",
+"u": "https://www.hicart.com/products/nutricook-healthi-flex-glass-7-6l-2200w-air-fryer-afh510",
+"p": 360.0,
+"c": 400.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/MAIbjHyIuW.jpg?v=1793020864&width=400",
+"type": "Food Preparation,Small Appliances",
+"tags": [
+"Food Preparation"
+],
+"in": true
+},
+{
+"t": "Kidilo KD005 Baby High Chair – Adjustable, Compact & Foldable Feeding Seat",
+"u": "https://www.hicart.com/products/kidilo-kd005-baby-high-chair-adjustable-compact-foldable-feeding-seat",
+"p": 79.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/4BTctxBxwl.png?v=1793020822&width=400",
+"type": "",
+"tags": [
+"Baby Gear",
+"Kidilo",
+"New Arrivals Baby Gear",
+"Strollers & Chairs"
+],
+"in": true
+},
+{
+"t": "La Perla Tech Professional Hand Hair Dryer 1800W – High-Power Salon Styling Tool",
+"u": "https://www.hicart.com/products/la-perla-tech-professional-hand-hair-dryer-1800w-high-power-salon-styling-tool",
+"p": 30.0,
+"c": 35.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/inSiDpUDPL.png?v=1793020805&width=400",
+"type": "",
+"tags": [
+"Beauty",
+"Hair Care",
+"Hair Dryers",
+"La Perla Tech"
+],
+"in": true
+},
+{
+"t": "La Perla Tech super turbo 3000 hair dryer",
+"u": "https://www.hicart.com/products/la-perla-tech-super-turbo-3000-hair-dryer",
+"p": 45.0,
+"c": 60.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/aCYrijENEg.png?v=1793020650&width=400",
+"type": "",
+"tags": [
+"Beauty",
+"Hair Care",
+"Hair Dryers",
+"La Perla Tech"
+],
+"in": true
+},
+{
+"t": "La Perla Tech professional hair straightener",
+"u": "https://www.hicart.com/products/la-perla-tech-professional-hair-straightener",
+"p": 45.0,
+"c": 60.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/0jTavk89nl.png?v=1793020562&width=400",
+"type": "",
+"tags": [
+"Beauty",
+"Hair Care",
+"Hair Straighteners",
+"La Perla Tech"
+],
+"in": true
+},
+{
+"t": "Three-Wheeled Kids Electric Motorcycle – Bluetooth, LED Lights & Remote Control (Ages 3–8)",
+"u": "https://www.hicart.com/products/three-wheeled-kids-electric-motorcycle-bluetooth-led-lights-remote-control-ages-3-8",
+"p": 139.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/bVgqaoFi0b.png?v=1793020368&width=400",
+"type": "",
+"tags": [
+"Baby & Toys",
+"Digital Toys",
+"Toys & Games"
+],
+"in": true
+},
+{
+"t": "Vespa Kids Electric Motorcycle – Lights & Music (Ages 1–4)Vespa Kids Electric Motorcycle – Lights & Music (Ages 1–4)",
+"u": "https://www.hicart.com/products/vespa-kids-electric-motorcycle-lights-music-ages-1-4vespa-kids-electric-motorcycle-lights-music-ages-1-4",
+"p": 82.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/ejyqySyg6Z.png?v=1793020368&width=400",
+"type": "",
+"tags": [
+"Baby & Toys",
+"Digital Toys",
+"Toys & Games"
+],
+"in": true
+},
+{
+"t": "Kids Battery-Powered ATV – 6V Ride-On with Music, LED Lights & Gel Wheels (Ages 2–5)",
+"u": "https://www.hicart.com/products/kids-battery-powered-atv-6v-ride-on-with-music-led-lights-gel-wheels-ages-2-5",
+"p": 75.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/pCrYHgsw9g.png?v=1793020368&width=400",
+"type": "",
+"tags": [
+"Baby & Toys",
+"Digital Toys",
+"Toys & Games"
+],
+"in": true
+},
+{
+"t": "Electric Bike – 36V Lead-Acid Battery, 500W Motor, Speed Display & Bluetooth",
+"u": "https://www.hicart.com/products/electric-bike-36v-lead-acid-battery-500w-motor-speed-display-bluetooth",
+"p": 549.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/5US9iRxd6h.png?v=1793020368&width=400",
+"type": "",
+"tags": [
+"Baby & Toys",
+"Digital Toys",
+"Toys & Games"
+],
+"in": true
+},
+{
+"t": "Rechargeable Kids 3-Wheel Electric Ride-On Motorcycle – Ribbon Racer (Ages 2–6)",
+"u": "https://www.hicart.com/products/rechargeable-kids-3-wheel-electric-ride-on-motorcycle-ribbon-racer-ages-2-6",
+"p": 82.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/DOqujdXbbi.png?v=1793020369&width=400",
+"type": "",
+"tags": [
+"Baby & Toys",
+"Digital Toys",
+"Toys & Games"
+],
+"in": true
+},
+{
+"t": "6V 3-Wheel Kids Ride-On Motorcycle – Lights & Music (Ages 3–8)",
+"u": "https://www.hicart.com/products/6v-3-wheel-kids-ride-on-motorcycle-lights-music-ages-3-8",
+"p": 75.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/JEV2DwpayI.png?v=1793020368&width=400",
+"type": "",
+"tags": [
+"Baby & Toys",
+"Digital Toys",
+"Toys & Games"
+],
+"in": true
+},
+{
+"t": "Kids Electric Bike – 24V Battery, 3 Speed Modes (Ages 4+)",
+"u": "https://www.hicart.com/products/kids-electric-bike-24v-battery-3-speed-modes-ages-4",
+"p": 336.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/OHZPXpWswC.png?v=1793020368&width=400",
+"type": "",
+"tags": [
+"Baby & Toys",
+"Digital Toys",
+"Toys & Games"
+],
+"in": true
+},
+{
+"t": "Green Lion Universal Pencil 1st Generation – Black",
+"u": "https://www.hicart.com/products/green-lion-universal-pencil-1st-generation-black",
+"p": 19.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/mT7LwbXyK4.jpg?v=1793020283&width=400",
+"type": "",
+"tags": [],
+"in": true
+},
+{
+"t": "Green Lion Find My Stylus Pencil for iPad – GL-PEN3",
+"u": "https://www.hicart.com/products/green-lion-find-my-stylus-pencil-for-ipad-gl-pen3",
+"p": 30.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/cHYHCiHmXg.jpg?v=1793020282&width=400",
+"type": "",
+"tags": [],
+"in": true
+},
+{
+"t": "WOPOW QW02 Magnetic Wireless Power Bank 10000mAh – 15W Wireless & 20W PD",
+"u": "https://www.hicart.com/products/wopow-qw02-magnetic-wireless-power-bank-10000mah-15w-wireless-20w-pd",
+"p": 33.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/6FaXNUWUUe.jpg?v=1793020282&width=400",
+"type": "",
+"tags": [],
+"in": true
+},
+{
+"t": "LITO LP08 Magnetic Wireless Power Bank 10000mAh – 20W PD & 15W Wireless",
+"u": "https://www.hicart.com/products/lito-lp08-magnetic-wireless-power-bank-10000mah-20w-pd-15w-wireless",
+"p": 36.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/UDF98LHslH.jpg?v=1793020282&width=400",
+"type": "",
+"tags": [],
+"in": true
+},
+{
+"t": "YESIDO JB23 True Wireless Earbuds – White",
+"u": "https://www.hicart.com/products/yesido-jb23-true-wireless-earbuds-white",
+"p": 19.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/WUkIrya1bn.jpg?v=1793020282&width=400",
+"type": "",
+"tags": [],
+"in": true
+},
+{
+"t": "LITO LT-T03 True Wireless Earbuds – White",
+"u": "https://www.hicart.com/products/lito-lt-t03-true-wireless-earbuds-white",
+"p": 25.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/yqwQUGu6jv.jpg?v=1793020281&width=400",
+"type": "",
+"tags": [],
+"in": true
+},
+{
+"t": "YESIDO TWS25 True Wireless Earbuds – Black",
+"u": "https://www.hicart.com/products/yesido-tws25-true-wireless-earbuds-black",
+"p": 19.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/p8twz73nMK.jpg?v=1793020281&width=400",
+"type": "",
+"tags": [],
+"in": true
+},
+{
+"t": "Green Lion Cairo Wireless Earbuds – Black",
+"u": "https://www.hicart.com/products/green-lion-cairo-wireless-earbuds-black",
+"p": 15.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/XK2nQZpiCJ.jpg?v=1793020281&width=400",
+"type": "",
+"tags": [],
+"in": true
+},
+{
+"t": "Green Lion Earbuds Pro2 G1 2nd Generation – White",
+"u": "https://www.hicart.com/products/green-lion-earbuds-pro2-g1-2nd-generation-white",
+"p": 25.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/8WJzEtFpzl.jpg?v=1793020281&width=400",
+"type": "",
+"tags": [],
+"in": true
+},
+{
+"t": "Sheglam, sb2108062111100511 - Skinfinite Hydrating Foundation, Available in Different Colors",
+"u": "https://www.hicart.com/products/sheglam-sb2108062111100511-skinfinite-hydrating-foundation-available-in-different-colors",
+"p": 12.61,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/vBUfqVdb4a.jpg?v=1793019914&width=400",
+"type": "",
+"tags": [
+"Beauty",
+"Face",
+"Makeup",
+"Sheglam"
+],
+"in": true
+},
+{
+"t": "Sheglam, sb25092829899933499 - Glass Lock Air Gloss, Available in Different Colors",
+"u": "https://www.hicart.com/products/sheglam-sb25092829899933499-glass-lock-air-gloss-available-in-different-colors",
+"p": 7.21,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/HqKkbCuiik.jpg?v=1793019332&width=400",
+"type": "",
+"tags": [
+"Beauty",
+"Lips",
+"Makeup",
+"Sheglam"
+],
+"in": true
+},
+{
+"t": "Sheglam, sb25012119551188655 - Baked Glow Setting Powder, Available in Different Colors",
+"u": "https://www.hicart.com/products/sheglam-sb25012119551188655-baked-glow-setting-powder-available-in-different-colors",
+"p": 6.31,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/Ws21dRlu6a.jpg?v=1793018362&width=400",
+"type": "",
+"tags": [
+"Beauty",
+"Face",
+"Makeup",
+"Sheglam"
+],
+"in": true
+},
+{
+"t": "Sheglam, sb25072140295239505 - Lock & Go Long-Lasting Cushion Foundation, Available in Different Colors",
+"u": "https://www.hicart.com/products/sheglam-sb25072140295239505-lock-go-long-lasting-cushion-foundation-available-in-different-colors",
+"p": 12.61,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/uuPAn4Li7k.jpg?v=1793017931&width=400",
+"type": "",
+"tags": [
+"Beauty",
+"Face",
+"Makeup",
+"Sheglam"
+],
+"in": true
+},
+{
+"t": "Sheglam, sb2409120010210147 - Crystal Jelly Glaze Stick, Available in Different Colors",
+"u": "https://www.hicart.com/products/sheglam-sb2409120010210147-crystal-jelly-glaze-stick-available-in-different-colors",
+"p": 9.01,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/abCjYZl6S2.jpg?v=1793017580&width=400",
+"type": "",
+"tags": [
+"Beauty",
+"Face",
+"Makeup",
+"Sheglam"
+],
+"in": true
+},
+{
+"t": "Sheglam, sb25021866312603067 - Bold Booster Lip Plumper, Available in Different Colors",
+"u": "https://www.hicart.com/products/sheglam-sb25021866312603067-bold-booster-lip-plumper-available-in-different-colors",
+"p": 7.21,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/PhpWVF5pUN.jpg?v=1793016666&width=400",
+"type": "",
+"tags": [
+"Beauty",
+"Lips",
+"Makeup",
+"Sheglam"
+],
+"in": true
+},
+{
+"t": "Bissell, PowerForce Helix Turbo Lightweight Upright Vacuum Cleaner",
+"u": "https://www.hicart.com/products/bissel-powerforce-helix-turbo-powerful-suction-with-multi-cyclonic-technology-lightweight-upright-vacuum-w1217-mf-2110e",
+"p": 144.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/mf-2110e_1_-67b05c.jpg?v=1782729044&width=400",
+"type": "simple",
+"tags": [
+"Bissell",
+"Electronics",
+"New Arrivals in Home Appliances",
+"Small Appliances",
+"Vacuum Cleaners"
+],
+"in": true
+},
+{
+"t": "Sheglam, sb25021808240563870 - Bold Booster Plumping Lip Liner, Available in Different Colors",
+"u": "https://www.hicart.com/products/sheglam-sb25021808240563870-bold-booster-plumping-lip-liner-available-in-different-colors",
+"p": 5.41,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/jiJp48xE2J.jpg?v=1793015825&width=400",
+"type": "",
+"tags": [
+"Beauty",
+"Lips",
+"Makeup",
+"Sheglam"
+],
+"in": true
+},
+{
+"t": "Sheglam, sb2403221699406195 - SG SHEGLAM Brow-Fection Angled Brush & Dip, Available in Different Colors",
+"u": "https://www.hicart.com/products/sheglam-sb2403221699406195-sg-sheglam-brow-fection-angled-brush-dip-available-in-different-colors",
+"p": 6.31,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/STa729gCua.png?v=1793015246&width=400",
+"type": "",
+"tags": [
+"Beauty",
+"Brows",
+"Makeup",
+"Sheglam"
+],
+"in": true
+},
+{
+"t": "Sheglam, sb2306276181121814 - SG SHEGLAM Complexion Boost Concealer, Available in Different Colors",
+"u": "https://www.hicart.com/products/sheglam-sb2306276181121814-sg-sheglam-complexion-boost-concealer-available-in-different-colors",
+"p": 7.21,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/K6TRAPBBwB.jpg?v=1793014870&width=400",
+"type": "",
+"tags": [
+"Beauty",
+"Eyes",
+"Makeup",
+"Sheglam"
+],
+"in": true
+},
+{
+"t": "Sheglam, sb2108186053482413 - SG SHEGLAM Sun Sculpt Liquid Contour, Available in Different Colors",
+"u": "https://www.hicart.com/products/sheglam-sb2108186053482413-sg-sheglam-sun-sculpt-liquid-contour-available-in-different-colors",
+"p": 7.21,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/lWA8h6U1cm.webp?v=1793009812&width=400",
+"type": "",
+"tags": [
+"Beauty",
+"Face",
+"Makeup",
+"Sheglam"
+],
+"in": true
+},
+{
+"t": "Sheglam, sbbeauty31210604662 - SG SHEGLAM Color Bloom Liquid Blush, Available in Different Colors",
+"u": "https://www.hicart.com/products/sheglam-sbbeauty31210604662-sg-sheglam-color-bloom-liquid-blush-available-in-different-colors",
+"p": 7.21,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/lAbBwqh7uO.webp?v=1793008796&width=400",
+"type": "",
+"tags": [
+"Beauty",
+"Face",
+"Makeup",
+"Sheglam"
+],
+"in": true
+},
+{
+"t": "Midea Silver Bundle - [22FT 539L Top Mount Refrigerator + 90cm Gas Cooker + 7KG 1200RPM Washer + Top Load Water Dispenser + 20L 700W Microwave + 43-Inch FHD Skyworth Google TV]",
+"u": "https://www.hicart.com/products/midea-silver-bundle-22ft-539l-top-mount-refrigerator-90cm-gas-cooker-7kg-1200rpm-washer-top-load-water-dispenser-20l-700w-microwave-43-inch-fhd-skyworth-google-tv",
+"p": 1799.0,
+"c": 2066.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/GkdAx1v6Wp.jpg?v=1793006262&width=400",
+"type": "Refrigerators,Large Appliances",
+"tags": [
+"Refrigerators"
+],
+"in": true
+},
+{
+"t": "VGR V-512 2.5 CM Wide Flat Iron Professional Hair Straightener with Ceramic coated plate & Uniform heat technology Straightens All Hair Types 140C to 220C Adjustable Temp 360° swivel cord",
+"u": "https://www.hicart.com/products/vgr-v-512-2-5-cm-wide-flat-iron-professional-hair-straightener-with-ceramic-coated-plate-uniform-heat-technology-straightens-all-hair-types-140c-to-220c-adjustable-temp-360-swivel-cord",
+"p": 20.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/y2OHG23jsJ.jpg?v=1793004642&width=400",
+"type": "",
+"tags": [
+"Category_Body & Hair Care",
+"Category_Hair & Body",
+"Category_Hair Straighteners",
+"Category_Personal Care",
+"Women"
+],
+"in": true
+},
+{
+"t": "Sokany sk-5109 Multi-function Electric Stove Temperature Adjustable Household",
+"u": "https://www.hicart.com/products/sokany-sk-5109-multi-function-electric-stove-temperature-adjustable-household",
+"p": 12.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/DxDDOP6DOY.jpg?v=1793004641&width=400",
+"type": "",
+"tags": [
+"Category_Electronics",
+"Category_Food Preparation",
+"Category_Home Appliances Up To 30%",
+"Category_Kitchen Appliances"
+],
+"in": true
+},
+{
+"t": "DSP hair dryer 2200W, KC-30103, ac motor, 3 speeds settings",
+"u": "https://www.hicart.com/products/dsp-hair-dryer-2200w-kc-30103-ac-motor-3-speeds-settings",
+"p": 25.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/WmomC5lm0G.jpg?v=1793004641&width=400",
+"type": "",
+"tags": [
+"Category_Personal Care",
+"Hair Dryers",
+"Women"
+],
+"in": true
+},
+{
+"t": "DSP, Electric Hair Dryer, 2200 Watt, KC-30088, 2 spend &3 heat settings, Ac motor",
+"u": "https://www.hicart.com/products/dsp-electric-hair-dryer-2200-watt-kc-30088-2-spend-3-heat-settings-ac-motor",
+"p": 20.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/WzNCfszk50.jpg?v=1793004641&width=400",
+"type": "",
+"tags": [
+"Category_Hair Dryers",
+"Category_Personal Care"
+],
+"in": true
+},
+{
+"t": "Professional Hair Dryer 1600 Watts – 15000 RPM – DSP KC-30284",
+"u": "https://www.hicart.com/products/professional-hair-dryer-1600-watts-15000-rpm-dsp-kc-30284",
+"p": 18.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/mlOyWP7GXt.jpg?v=1793004641&width=400",
+"type": "",
+"tags": [
+"Category_Body & Hair Care",
+"Category_Personal Care",
+"Hair Dryers"
+],
+"in": true
+},
+{
+"t": "DSP, Hair Dryer 1600W, KC-30101",
+"u": "https://www.hicart.com/products/dsp-hair-dryer-1600w-kc-30101",
+"p": 18.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/qUK7Xot8kz.jpg?v=1793004640&width=400",
+"type": "",
+"tags": [
+"Beauty",
+"DSP",
+"Hair Care",
+"Hair Dryers"
+],
+"in": true
+},
+{
+"t": "Sheglam, sb2305094194797707 - SG SHEGLAM Like Magic 12Hr Full Coverage Concealer, Available in Different Colors",
+"u": "https://www.hicart.com/products/sheglam-sb2305094194797707-sg-sheglam-like-magic-12hr-full-coverage-concealer-available-in-different-colors",
+"p": 7.21,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/nOTtK4NJ6o.webp?v=1793003761&width=400",
+"type": "",
+"tags": [
+"Beauty",
+"Eyes",
+"Makeup",
+"Sheglam"
+],
+"in": true
+},
+{
+"t": "Sheglam, sb2302080146988173 - SG SHEGLAM Skin-Focus High Coverage Powder Fnd, Available in Different Colors",
+"u": "https://www.hicart.com/products/sheglam-sb2302080146988173-sg-sheglam-skin-focus-high-coverage-powder-fnd-available-in-different-colors",
+"p": 11.71,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/dn186advGk.webp?v=1793002995&width=400",
+"type": "",
+"tags": [
+"Beauty",
+"Face",
+"Makeup",
+"Sheglam"
+],
+"in": true
+},
+{
+"t": "Elie Saab Elixir Gift Set Eau de Parfum 100ml + Body Lotion 75ml",
+"u": "https://www.hicart.com/products/elie-saab-elixir-gift-set-eau-de-parfum-100ml-body-lotion-75ml",
+"p": 186.0,
+"c": null,
+"cur": "USD",
+"img": "",
+"type": "Women Perfume",
+"tags": [
+"Beauty",
+"Perfumes & Fragrances",
+"Women"
+],
+"in": true
+},
+{
+"t": "Chopard Musk Malaki Eau de Parfum 80ml",
+"u": "https://www.hicart.com/products/chopard-musk-malaki-eau-de-parfum-80ml",
+"p": 93.0,
+"c": null,
+"cur": "USD",
+"img": "",
+"type": "Men Perfumes",
+"tags": [
+"Beauty",
+"Category_Men Perfumes",
+"Men Perfumes",
+"Perfumes & Fragrances"
+],
+"in": true
+},
+{
+"t": "Bi-Es Salt Lake for Men Eau de Toilette 100ml",
+"u": "https://www.hicart.com/products/bi-es-salt-lake-for-men-eau-de-toilette-100ml",
+"p": 9.0,
+"c": null,
+"cur": "USD",
+"img": "",
+"type": "Men Perfumes",
+"tags": [
+"Beauty",
+"Category_Men Perfumes",
+"Men Perfumes",
+"Perfumes & Fragrances"
+],
+"in": true
+},
+{
+"t": "Zilan, Smart Fry Pan, Zln7019",
+"u": "https://www.hicart.com/products/zilan-smart-fry-pan-zln7019-w781-zln7019",
+"p": 34.0,
+"c": 49.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/zilan-smart-fry-pan-zln7019-w781-zln7019-af5d16.jpg?v=1785412298&width=400",
+"type": "simple",
+"tags": [
+"Cookware",
+"Home & Kitchen",
+"Kitchen & Dining",
+"Zilan"
+],
+"in": true
+},
+{
+"t": "Luna Off-White Bouclé Storage Bench – 100 cm | YS038OW",
+"u": "https://www.hicart.com/products/luna-off-white-boucle-storage-bench-100-cm-ys038ow",
+"p": 220.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/8dciMjMf6M.png?v=1792763506&width=400",
+"type": "",
+"tags": [],
+"in": true
+},
+{
+"t": "Samsung 65-Inch Mini LED M80H 4K Vision AI Smart TV (2026), UA65M80HAUXTW",
+"u": "https://www.hicart.com/products/samsung-65-inch-mini-led-m80h-4k-vision-ai-smart-tv-2026-ua65m80hauxtw",
+"p": 869.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/LlpLI8vLwz.jpg?v=1791199507&width=400",
+"type": "TVs,TV,Audio & Video",
+"tags": [
+"TVs"
+],
+"in": true
+},
+{
+"t": "VGR V-402 Professional Salon Series Hair Dryer 1800-2200W AC Motor 3 Heat & 2 Speed Setting Independent Cool Shot 2 Styling Nozzle Concentrator Overheating Protection 2.5M Cord cable",
+"u": "https://www.hicart.com/products/vgr-v-402-professional-salon-series-hair-dryer-1800-2200w-ac-motor-3-heat-2-speed-setting-independent-cool-shot-2-styling-nozzle-concentrator-overheating-protection-2-5m-cord-cable",
+"p": 30.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/78m4p3z0qT.jpg?v=1792741421&width=400",
+"type": "",
+"tags": [
+"Category_Body & Hair Care",
+"Category_Love Shop - Personal Care",
+"Category_Personal Care",
+"Hair Dryers"
+],
+"in": true
+},
+{
+"t": "V-465 Hair Dryer 20000-2400W for Smooth & Healthy Finish Perfect Drying Power with Negative Ion Technology, Multiple Heat & Speed Settings, Integrated Attachments for Fast and Efficient Hair Styling",
+"u": "https://www.hicart.com/products/v-465-hair-dryer-20000-2400w-for-smooth-healthy-finish-perfect-drying-power-with-negative-ion-technology-multiple-heat-speed-settings-integrated-attachments-for-fast-and-efficient-hair-styling",
+"p": 25.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/fAWPHhg8lD.jpg?v=1792741420&width=400",
+"type": "",
+"tags": [
+"Category_Hair & Body",
+"Category_Hair Care",
+"Category_Personal Care",
+"Hair Dryers"
+],
+"in": true
+},
+{
+"t": "V-467 Hair Dryer 1800-2200W for Smooth & Healthy Finish Perfect Drying Power with Negative Ion Technology, Multiple Heat & Speed Settings, Integrated Attachments for Fast and Efficient Hair Styling",
+"u": "https://www.hicart.com/products/v-467-hair-dryer-1800-2200w-for-smooth-healthy-finish-perfect-drying-power-with-negative-ion-technology-multiple-heat-speed-settings-integrated-attachments-for-fast-and-efficient-hair-styling",
+"p": 24.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/MZf3hdlLFE.jpg?v=1792741419&width=400",
+"type": "",
+"tags": [
+"Category_Hair Care",
+"Category_Personal Care",
+"Hair Dryers"
+],
+"in": true
+},
+{
+"t": "Vgr V-467 New Design 1900-2300w Powerful Electric High Speed Salon Professional Hair Dryer",
+"u": "https://www.hicart.com/products/vgr-v-467-new-design-1900-2300w-powerful-electric-high-speed-salon-professional-hair-dryer",
+"p": 24.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/iF1A5FQ2rZ.jpg?v=1792741419&width=400",
+"type": "",
+"tags": [
+"Category_Gift Shop - Personal Care",
+"Category_Women",
+"Hair Dryers"
+],
+"in": true
+},
+{
+"t": "Vgr V-408 Professional Hot Air Styler, 700W 4 in 1:- VGR brought you 4 in 1 tool to keep your hair styled on daily basis. You can curl, straighten, dry (Grey, Pink)",
+"u": "https://www.hicart.com/products/vgr-v-408-professional-hot-air-styler-700w-4-in-1-vgr-brought-you-4-in-1-tool-to-keep-your-hair-styled-on-daily-basis-you-can-curl-straighten-dry-grey-pink",
+"p": 35.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/mXEwQwHmuG.jpg?v=1792741419&width=400",
+"type": "",
+"tags": [
+"Category_Hair & Body",
+"Category_Personal Care",
+"Hair Curlers",
+"Hair Dryers",
+"Hair Stylers"
+],
+"in": true
+},
+{
+"t": "VGR V-571 Professional 2-IN-1 Curling Iron - 25mm Ceramic Barrel, Uniform Heat Technology, Ceramic Coating, LED Indicator, 4 Temp. Settings Up to 200°C, 360° Swivel Cord for Effortless Styling (Grey)",
+"u": "https://www.hicart.com/products/vgr-v-571-professional-2-in-1-curling-iron-25mm-ceramic-barrel-uniform-heat-technology-ceramic-coating-led-indicator-4-temp-settings-up-to-200-c-360-swivel-cord-for-effortless-styling-grey",
+"p": 18.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/b0mu16xJWc.jpg?v=1792741419&width=400",
+"type": "",
+"tags": [
+"Category_Hair Care",
+"Category_Personal Care",
+"Hair Curlers"
+],
+"in": true
+},
+{
+"t": "VGR V-511 Professional Hair Straightener Slim Ceramic Plate, Adjustable Heat, Led Display, and Uniform Heating Technology, LED Indicator",
+"u": "https://www.hicart.com/products/vgr-v-511-professional-hair-straightener-slim-ceramic-plate-adjustable-heat-led-display-and-uniform-heating-technology-led-indicator",
+"p": 19.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/fQVGmgug4I.jpg?v=1792741419&width=400",
+"type": "",
+"tags": [
+"Category_Hair Care",
+"Category_Hair Straighteners",
+"Category_Personal Care"
+],
+"in": true
+},
+{
+"t": "VGR V-520 42 MM Professional Hair Straightener with Ceramic Coated Plate",
+"u": "https://www.hicart.com/products/vgr-v-520-42-mm-professional-hair-straightener-with-ceramic-coated-plate",
+"p": 19.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/GlDmewpXPz.jpg?v=1792741419&width=400",
+"type": "",
+"tags": [
+"Category_Hair & Body",
+"Category_Hair Straighteners",
+"Category_Personal Care"
+],
+"in": true
+},
+{
+"t": "VGR V-516 Long Plate Ceramic Coating Professional Hair Straightener 120mm",
+"u": "https://www.hicart.com/products/vgr-v-516-long-plate-ceramic-coating-professional-hair-straightener-120mm",
+"p": 18.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/d8yN0A5bIl.jpg?v=1792741418&width=400",
+"type": "",
+"tags": [
+"Category_Hair & Body",
+"Category_Personal Care",
+"Hair Straighteners",
+"Women"
+],
+"in": true
+},
+{
+"t": "VGR V-580 Professional Ceramic Hair Straightener, 5 Temp Settings 130°C-210°C, Uniform Heat Tech, LED Display, 360° Swivel Cord, Lockable Plates, Salon Like Smooth & Shiny Hair, Grey/Pink",
+"u": "https://www.hicart.com/products/vgr-v-580-professional-ceramic-hair-straightener-5-temp-settings-130-c-210-c-uniform-heat-tech-led-display-360-swivel-cord-lockable-plates-salon-like-smooth-shiny-hair-grey-pink",
+"p": 14.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/VoGuNq0dDq.jpg?v=1792741418&width=400",
+"type": "",
+"tags": [
+"Category_Personal Care",
+"Hair Straighteners"
+],
+"in": true
+},
+{
+"t": "VGR V-582 Professional Original Heated Hair Brush, High Gloss Ceramic Handle Hot Bristle 19mm",
+"u": "https://www.hicart.com/products/vgr-v-582-professional-original-heated-hair-brush-high-gloss-ceramic-handle-hot-bristle-19mm",
+"p": 18.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/jPovPSt6sx.jpg?v=1792741418&width=400",
+"type": "",
+"tags": [
+"Category_Body & Hair Care",
+"Category_Hair & Body",
+"Category_Personal Care",
+"Women"
+],
+"in": true
+},
+{
+"t": "Philips, 3000 Series Steam Iron Station, 2400W, 6 Bars, 120 G/Min Continuous Steam, 350 G Steam Boost, Fast And Powerful, Vertical Steam, Ceramic Sole, Deep Azure (Psg3000/20)",
+"u": "https://www.hicart.com/products/philips-3000-series-steam-iron-station-2400w-6-bars-120-g-min-continuous-steam-350-g-steam-boost-fast-and-powerful-vertical-steam-ceramic-sole-deep-azure-psg3000-20",
+"p": 209.0,
+"c": 229.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/psg3000-6f2117.jpg?v=1785153140&width=400",
+"type": "simple",
+"tags": [
+"Electronics",
+"Garment Care",
+"Philips",
+"Small Appliances"
+],
+"in": true
+},
+{
+"t": "Tefal Premiss PP1801 Glass Bathroom Scale 160 kg Silver",
+"u": "https://www.hicart.com/products/tefal-premiss-pp1801-glass-bathroom-scale-160-kg-silver",
+"p": 23.0,
+"c": 33.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/PxxupPZmNw.jpg?v=1792740847&width=400",
+"type": "",
+"tags": [
+"Category_Personal Scales",
+"Category_Tefal",
+"Kitchen Scale",
+"Personal Scales",
+"SMART SCALES",
+"Tefal"
+],
+"in": true
+},
+{
+"t": "Wab, Ups 2000Va",
+"u": "https://www.hicart.com/products/wab-ups-2000va",
+"p": 95.0,
+"c": 99.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/t8FvDBWhSA.jpg?v=1792740846&width=400",
+"type": "simple",
+"tags": [
+"Computers",
+"Electronics",
+"UPS & Batteries",
+"WB"
+],
+"in": true
+},
+{
+"t": "Hoffmans, Handheld Garment Steamer Hm-9049",
+"u": "https://www.hicart.com/products/hoffmans-handheld-garment-steamer-hm-9049",
+"p": 29.0,
+"c": 33.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/hm-9049.jpg?v=1785152896&width=400",
+"type": "simple",
+"tags": [
+"Electronics",
+"Garment Care",
+"Hoffmans",
+"Out of stock",
+"Small Appliances"
+],
+"in": true
+},
+{
+"t": "Ninja, Blast Portable Blender/Blender/Smoothie Maker, 530 Ml Cup, Leak-Proof Lid, Powerful Mini Stand Mixer, Wireless & Rechargeable, Crushes Ice & Fruit, Black Bc151Eubk",
+"u": "https://www.hicart.com/products/ninja-blast-portable-blender-blender-smoothie-maker-530-ml-cup-leak-proof-lid-powerful-mini-stand-mixer-wireless-rechargeable-crushes-ice-fruit-black-bc151eubk",
+"p": 109.0,
+"c": 119.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/bc151eubk-29f641.jpg?v=1785153137&width=400",
+"type": "simple",
+"tags": [
+"Blenders & Mixers",
+"Electronics",
+"NINJA",
+"Small Appliances"
+],
+"in": true
+},
+{
+"t": "Tefal, Handheld Clothes Steamer, Powerful 90G/Min Steam Boost, Ready To Use In 25 Seconds, 2000W, Dt8250",
+"u": "https://www.hicart.com/products/tefal-handheld-clothes-steamer-powerful-90g-min-steam-boost-ready-to-use-in-25-seconds-2000w-dt8250",
+"p": 79.0,
+"c": 89.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/dt8250-1d71f0.jpg?v=1785153142&width=400",
+"type": "simple",
+"tags": [
+"Electronics",
+"Garment Care",
+"Small Appliances",
+"Tefal"
+],
+"in": true
+},
+{
+"t": "Xiaomi, Mi TV Stick 1080P HD Streaming - Android",
+"u": "https://www.hicart.com/products/xiaomi-mi-tv-stick-1080p-hd-streaming-android",
+"p": 49.0,
+"c": 69.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/mi_stick_fhd-1752f2.jpg?v=1785153062&width=400",
+"type": "simple",
+"tags": [
+"Audio & Video",
+"Electronics",
+"TV",
+"TV Sticks & Accessories",
+"Xiaomi"
+],
+"in": true
+},
+{
+"t": "Hoffmans, Electric Mini Ketttle Hm-2563",
+"u": "https://www.hicart.com/products/hoffmans-electric-mini-ketttle-hm-2563",
+"p": 15.0,
+"c": 19.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/hm-2563-194d93.jpg?v=1785152898&width=400",
+"type": "simple",
+"tags": [
+"Electric Kettles",
+"Electronics",
+"Hoffmans",
+"Out of stock",
+"Small Appliances"
+],
+"in": true
+},
+{
+"t": "TOP Popcorn Machine A-209",
+"u": "https://www.hicart.com/products/top-popcorn-machine-a-209",
+"p": 19.0,
+"c": 22.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/kks4u4hcOm.jpg?v=1792740845&width=400",
+"type": "simple",
+"tags": [
+"Electronics",
+"Food Preparation",
+"Hoffmans",
+"Out of stock",
+"Small Appliances"
+],
+"in": true
+},
+{
+"t": "Hoffmans, 8L Electric Multifunction Pressure Cooker Hm-719",
+"u": "https://www.hicart.com/products/hoffmans-8l-electric-multifunction-pressure-cooker-hm-719",
+"p": 95.0,
+"c": 110.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/hm-719-7dd65a.jpg?v=1785152905&width=400",
+"type": "simple",
+"tags": [
+"Electronics",
+"Food Preparation",
+"Hoffmans",
+"Out of stock",
+"Small Appliances"
+],
+"in": true
+},
+{
+"t": "Panasonic, Kx-Tg1611 Dect Cordless Telephone",
+"u": "https://www.hicart.com/products/panasonic-kx-tg1611-dect-cordless-telephone",
+"p": 39.0,
+"c": 42.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/hQJWz2uMaI.jpg?v=1792740843&width=400",
+"type": "simple",
+"tags": [
+"Landlines",
+"Mobiles & Tablets",
+"Panasonic",
+"Wireless"
+],
+"in": true
+},
+{
+"t": "Panasonic, Kx-Ts400Sx Integrated Corded Telephone System, Black",
+"u": "https://www.hicart.com/products/panasonic-kx-ts400sx-integrated-corded-telephone-system-black",
+"p": 19.0,
+"c": 21.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/0YirCQHDn6.jpg?v=1792740844&width=400",
+"type": "simple",
+"tags": [
+"Landlines",
+"Mobiles & Tablets",
+"Panasonic",
+"Wired"
+],
+"in": true
+},
+{
+"t": "Tefal, Garment Steamer - 2000W T3480El",
+"u": "https://www.hicart.com/products/tefal-garment-steamer-2000w-t3480el",
+"p": 159.0,
+"c": 179.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/VBqRQUYrSy.jpg?v=1792740842&width=400",
+"type": "simple",
+"tags": [
+"Electronics",
+"Garment Care",
+"Small Appliances",
+"Tefal"
+],
+"in": true
+},
+{
+"t": "Philips See-Through Airfryer XL 7.2L/1.4KG, 2000W, 16 Functions, 12 Presets NA342/09",
+"u": "https://www.hicart.com/products/philips-see-through-airfryer-xl-7-2l-1-4kg-2000w-16-functions-12-presets-na342-09",
+"p": 249.0,
+"c": 259.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/gxIsGoI0cI.jpg?v=1792740841&width=400",
+"type": "",
+"tags": [
+"Category_Air Fryers & Grills",
+"Category_Electronics",
+"Category_Food Preparation",
+"Category_Small Appliances"
+],
+"in": true
+},
+{
+"t": "Tefal X-Pert 7.60 Essential Cordless stick vacuum TY6A35",
+"u": "https://www.hicart.com/products/tefal-x-pert-7-60-essential-cordless-stick-vacuum-ty6a35",
+"p": 169.0,
+"c": 189.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/OPLMLrpwYL.jpg?v=1792740842&width=400",
+"type": "simple",
+"tags": [
+"Electronics",
+"Small Appliances",
+"Tefal",
+"Vacuum Cleaners"
+],
+"in": true
+},
+{
+"t": "Transparent adhesive tape, very strong, 48 mm * 180 m, 45 microns, 1pcs",
+"u": "https://www.hicart.com/products/transparent-adhesive-tape-very-strong-48-mm-180-m-45-microns-1pcs",
+"p": 4.0,
+"c": 8.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/POu2pJ6Ygk.jpg?v=1792740842&width=400",
+"type": "",
+"tags": [
+"Category_Glues & Adhesives",
+"Category_Stationery",
+"Stationery"
+],
+"in": true
+},
+{
+"t": "Braun All-In-One Style Kit Series 3 MGK3410, 6-in-1 Kit for Beard, Hair & More",
+"u": "https://www.hicart.com/products/braun-all-in-one-style-kit-series-3-mgk3410-6-in-1-kit-for-beard-hair-more",
+"p": 49.0,
+"c": 59.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/OXzPrNY1oF.jpg?v=1792740841&width=400",
+"type": "",
+"tags": [
+"Beard",
+"Category_Beard",
+"Category_Beard Care",
+"Category_Beauty",
+"Category_Father's Day - Men's Grooming",
+"Category_Men's Grooming",
+"Men's Grooming"
+],
+"in": true
+},
+{
+"t": "Braun PowerBlend 3 Jug blender | JB 3100",
+"u": "https://www.hicart.com/products/braun-powerblend-3-jug-blender-jb-3100",
+"p": 79.0,
+"c": 89.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/4g7d7mJ4fy.jpg?v=1792740841&width=400",
+"type": "",
+"tags": [
+"Blenders & Food Processors",
+"Category_Electronics",
+"Category_Small Appliances"
+],
+"in": true
+},
+{
+"t": "BraunPowerPerfection dryer HD585 Ionic | Ultra Powerful | Lightweight | Cold Shot | With Diffuser | 2500 Watts",
+"u": "https://www.hicart.com/products/braunpowerperfection-dryer-hd585-ionic-ultra-powerful-lightweight-cold-shot-with-diffuser-2500-watts",
+"p": 75.0,
+"c": 85.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/CDWeat0Eua.jpg?v=1792740841&width=400",
+"type": "",
+"tags": [
+"Category_Beauty",
+"Category_Body & Hair Care",
+"Category_Hair Care",
+"Category_Hair Dryers",
+"Hair Dryers",
+"Women"
+],
+"in": true
+},
+{
+"t": "Samsung 85-Inch Mini LED M80H 4K Vision AI Smart TV (2026), UA85M80HAUXTW",
+"u": "https://www.hicart.com/products/samsung-85-inch-mini-led-m80h-4k-vision-ai-smart-tv-2026-ua85m80hauxtw",
+"p": 1749.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/PObtTi7RzA.jpg?v=1791199508&width=400",
+"type": "TVs,TV,Audio & Video",
+"tags": [
+"TVs"
+],
+"in": true
+},
+{
+"t": "Kettler, Treadmill Kettler Sprinter 2.0",
+"u": "https://www.hicart.com/products/kettler-treadmill-kettler-sprinter-2-0",
+"p": 1799.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/UlRMZqObwI.jpg?v=1792668291&width=400",
+"type": "",
+"tags": [
+"Home Gym",
+"Kettler",
+"Machines",
+"Rowing Machines",
+"Sports & Leisure"
+],
+"in": true
+},
+{
+"t": "Kettler, Treadmill Kettler Dortmund I3",
+"u": "https://www.hicart.com/products/kettler-treadmill-kettler-dortmund-i3",
+"p": 2499.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/FsEMtFAnTr.jpg?v=1792668291&width=400",
+"type": "",
+"tags": [
+"Home Gym",
+"Kettler",
+"Machines",
+"Rowing Machines",
+"Sports & Leisure"
+],
+"in": true
+},
+{
+"t": "Kettler, Treadmill Kettler Track S4",
+"u": "https://www.hicart.com/products/kettler-treadmill-kettler-track-s4",
+"p": 1999.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/G7kEyuVGmI.webp?v=1792668291&width=400",
+"type": "",
+"tags": [
+"Home Gym",
+"Kettler",
+"Machines",
+"Rowing Machines",
+"Sports & Leisure"
+],
+"in": true
+},
+{
+"t": "Kettler, Treadmill Kettler Track S8",
+"u": "https://www.hicart.com/products/kettler-treadmill-kettler-track-s8",
+"p": 2899.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/RQAR575QYN.png?v=1792668291&width=400",
+"type": "",
+"tags": [
+"Home Gym",
+"Kettler",
+"Machines",
+"Rowing Machines",
+"Sports & Leisure"
+],
+"in": true
+},
+{
+"t": "Kettler, Treadmill Kettler Track S6",
+"u": "https://www.hicart.com/products/kettler-treadmill-kettler-track-s6",
+"p": 2499.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/dnWdA1jkAn.png?v=1792668290&width=400",
+"type": "",
+"tags": [
+"Home Gym",
+"Kettler",
+"Machines",
+"Rowing Machines",
+"Sports & Leisure"
+],
+"in": true
+},
+{
+"t": "Kettler, Treadmill Kettler Track S10",
+"u": "https://www.hicart.com/products/kettler-treadmill-kettler-track-s10",
+"p": 3899.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/qUexOCnXST.png?v=1792668290&width=400",
+"type": "",
+"tags": [
+"Home Gym",
+"Kettler",
+"Machines",
+"Rowing Machines",
+"Sports & Leisure"
+],
+"in": true
+},
+{
+"t": "Kettler, Treadmill Ecorun 1",
+"u": "https://www.hicart.com/products/kettler-treadmill-ecorun-1",
+"p": 699.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/ywQB2M5n0k.webp?v=1792668289&width=400",
+"type": "",
+"tags": [
+"Home Gym",
+"Kettler",
+"Machines",
+"Rowing Machines",
+"Sports & Leisure"
+],
+"in": true
+},
+{
+"t": "Kettler, Rower Coach 2",
+"u": "https://www.hicart.com/products/kettler-rower-coach-2",
+"p": 1499.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/QZ0H1el3no.jpg?v=1792668290&width=400",
+"type": "",
+"tags": [
+"Home Gym",
+"Kettler",
+"Machines",
+"Rowing Machines",
+"Sports & Leisure"
+],
+"in": true
+},
+{
+"t": "Kettler, Rower Coach H2O",
+"u": "https://www.hicart.com/products/kettler-rower-coach-h2o",
+"p": 1799.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/IQayMlTQUB.jpg?v=1792668289&width=400",
+"type": "",
+"tags": [
+"Home Gym",
+"Kettler",
+"Machines",
+"Rowing Machines",
+"Sports & Leisure"
+],
+"in": true
+},
+{
+"t": "Kettler, Rower Axos Rower",
+"u": "https://www.hicart.com/products/kettler-rower-axos-rower",
+"p": 1099.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/INnfExbATl.jpg?v=1792668289&width=400",
+"type": "",
+"tags": [
+"Home Gym",
+"Kettler",
+"Machines",
+"Rowing Machines",
+"Sports & Leisure"
+],
+"in": true
+},
+{
+"t": "Kettler, Treadmill Kettler Dortmund S2",
+"u": "https://www.hicart.com/products/kettler-treadmill-kettler-dortmund-s2",
+"p": 1999.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/5AWcTHbp53.jpg?v=1792661386&width=400",
+"type": "",
+"tags": [
+"Home Gym",
+"Kettler",
+"Machines",
+"Rowing Machines",
+"Sports & Leisure"
+],
+"in": true
+},
+{
+"t": "Free-Shaped Wall Mirror with Shadow LED Lighting | SDLED",
+"u": "https://www.hicart.com/products/free-shaped-wall-mirror-with-shadow-led-lighting-sdled",
+"p": 39.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/bdPOLHgiCB.png?v=1792661148&width=400",
+"type": "",
+"tags": [
+"Category_Bed & Bath",
+"Furniture",
+"Home & Living"
+],
+"in": true
+},
+{
+"t": "Kettler, Elliptical Trainer Skylon 309",
+"u": "https://www.hicart.com/products/kettler-elliptical-trainer-skylon-309",
+"p": 1599.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/GNkEBFHGOD.jpg?v=1792660518&width=400",
+"type": "",
+"tags": [
+"Home Gym",
+"Kettler",
+"Machines",
+"Rowing Machines",
+"Sports & Leisure"
+],
+"in": true
+},
+{
+"t": "Kettler, Treadmill Kettler Dortmund S1",
+"u": "https://www.hicart.com/products/kettler-treadmill-kettler-dortmund-s1",
+"p": 1499.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/UlEsORTPHb.jpg?v=1792660508&width=400",
+"type": "",
+"tags": [
+"Home Gym",
+"Kettler",
+"Machines",
+"Rowing Machines",
+"Sports & Leisure"
+],
+"in": true
+},
+{
+"t": "Kettler, Spin Bike Racer 3 Ltd",
+"u": "https://www.hicart.com/products/kettler-spin-bike-racer-3-ltd",
+"p": 1199.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/G1M1Fii8DL.jpg?v=1792659955&width=400",
+"type": "",
+"tags": [
+"Home Gym",
+"Kettler",
+"Machines",
+"Rowing Machines",
+"Sports & Leisure"
+],
+"in": true
+},
+{
+"t": "Kettler, Crosstrainer",
+"u": "https://www.hicart.com/products/kettler-crosstrainer",
+"p": 499.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/5WXYFgWsKZ.jpg?v=1792659955&width=400",
+"type": "",
+"tags": [
+"Home Gym",
+"Kettler",
+"Machines",
+"Rowing Machines",
+"Sports & Leisure"
+],
+"in": true
+},
+{
+"t": "Kettler, Exercise Bike Giro C3 Ble Classic",
+"u": "https://www.hicart.com/products/kettler-exercise-bike-giro-c3-ble-classic",
+"p": 899.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/vk18iKitlk.jpg?v=1792659954&width=400",
+"type": "",
+"tags": [
+"Home Gym",
+"Kettler",
+"Machines",
+"Rowing Machines",
+"Sports & Leisure"
+],
+"in": true
+},
+{
+"t": "Kettler, Crosstrainer Cross M",
+"u": "https://www.hicart.com/products/kettler-crosstrainer-cross-m",
+"p": 799.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/y5cLH9eglx.jpg?v=1792659954&width=400",
+"type": "",
+"tags": [
+"Home Gym",
+"Kettler",
+"Machines",
+"Rowing Machines",
+"Sports & Leisure"
+],
+"in": true
+},
+{
+"t": "Kettler, Crosstrainer Cross 4",
+"u": "https://www.hicart.com/products/kettler-crosstrainer-cross-4",
+"p": 1099.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/LiOSgyzHoi.jpg?v=1792659955&width=400",
+"type": "",
+"tags": [
+"Home Gym",
+"Kettler",
+"Machines",
+"Rowing Machines",
+"Sports & Leisure"
+],
+"in": true
+},
+{
+"t": "Kettler, Exercise Bike Giro C1 Classic",
+"u": "https://www.hicart.com/products/kettler-exercise-bike-giro-c1-classic",
+"p": 699.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/sZmzD6ruea.jpg?v=1792659954&width=400",
+"type": "",
+"tags": [
+"Home Gym",
+"Kettler",
+"Machines",
+"Rowing Machines",
+"Sports & Leisure"
+],
+"in": true
+},
+{
+"t": "Kettler, Recumbent Bike Giro R300",
+"u": "https://www.hicart.com/products/kettler-recumbent-bike-giro-r300",
+"p": 1299.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/9R6DXPDEmC.jpg?v=1792659954&width=400",
+"type": "",
+"tags": [
+"Home Gym",
+"Kettler",
+"Machines",
+"Rowing Machines",
+"Sports & Leisure"
+],
+"in": true
+},
+{
+"t": "Kettler, Crosstrainer Rivo 2",
+"u": "https://www.hicart.com/products/kettler-crosstrainer-rivo-2",
+"p": 899.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/NKMC4nvf9d.png?v=1792659954&width=400",
+"type": "",
+"tags": [
+"Home Gym",
+"Kettler",
+"Machines",
+"Rowing Machines",
+"Sports & Leisure"
+],
+"in": true
+},
+{
+"t": "Kettler, Crosstrainer Rivo 4 Ble",
+"u": "https://www.hicart.com/products/kettler-crosstrainer-rivo-4-ble",
+"p": 1199.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/MoBEDIV2Pf.png?v=1792659954&width=400",
+"type": "",
+"tags": [
+"Home Gym",
+"Kettler",
+"Machines",
+"Rowing Machines",
+"Sports & Leisure"
+],
+"in": true
+},
+{
+"t": "Kettler, Exercise Bike Axos Cycle P",
+"u": "https://www.hicart.com/products/kettler-exercise-bike-axos-cycle-p",
+"p": 799.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/CJerBXuafS.jpg?v=1792656990&width=400",
+"type": "",
+"tags": [
+"Home Gym",
+"Kettler",
+"Machines",
+"Rowing Machines",
+"Sports & Leisure"
+],
+"in": true
+},
+{
+"t": "Kettler, Bench Axos Ab Trainer",
+"u": "https://www.hicart.com/products/kettler-bench-axos-ab-trainer",
+"p": 249.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/xMNWctV0SN.jpg?v=1792656990&width=400",
+"type": "",
+"tags": [
+"Fitness Accessories",
+"Home Gym",
+"Kettler",
+"Machines",
+"Sports",
+"Sports & Leisure"
+],
+"in": true
+},
+{
+"t": "Kettler, Bench Axos Combi Trainer",
+"u": "https://www.hicart.com/products/kettler-bench-axos-combi-trainer",
+"p": 459.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/ufOjjskp8q.jpg?v=1792656990&width=400",
+"type": "",
+"tags": [
+"Fitness Accessories",
+"Home Gym",
+"Kettler",
+"Machines",
+"Sports",
+"Sports & Leisure"
+],
+"in": true
+},
+{
+"t": "Kettler, Bench Axos Universal",
+"u": "https://www.hicart.com/products/kettler-bench-axos-universal",
+"p": 349.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/5zbCLIckpu.jpg?v=1792656990&width=400",
+"type": "",
+"tags": [
+"Fitness Accessories",
+"Home Gym",
+"Kettler",
+"Machines",
+"Sports",
+"Sports & Leisure"
+],
+"in": true
+},
+{
+"t": "Kettler, Weight Lifting Bench",
+"u": "https://www.hicart.com/products/kettler-weight-lifting-bench",
+"p": 459.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/J7hKPIgMGh.jpg?v=1792656989&width=400",
+"type": "",
+"tags": [
+"Fitness Accessories",
+"Home Gym",
+"Kettler",
+"Machines",
+"Sports",
+"Sports & Leisure"
+],
+"in": true
+},
+{
+"t": "Kettler, Spin Bike Racer 2",
+"u": "https://www.hicart.com/products/kettler-spin-bike-racer-2",
+"p": 1199.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/pBtBRdJLuU.webp?v=1792656989&width=400",
+"type": "",
+"tags": [
+"Home Gym",
+"Kettler",
+"Machines",
+"Rowing Machines",
+"Sports & Leisure"
+],
+"in": true
+},
+{
+"t": "Kettler, Exercise Bike Cycle M",
+"u": "https://www.hicart.com/products/kettler-exercise-bike-cycle-m",
+"p": 599.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/RWMd5KVlFv.jpg?v=1792654646&width=400",
+"type": "",
+"tags": [
+"Home Gym",
+"Kettler",
+"Machines",
+"Rowing Machines",
+"Sports & Leisure"
+],
+"in": true
+},
+{
+"t": "Kettler, Upright Bike",
+"u": "https://www.hicart.com/products/kettler-upright-bike-1",
+"p": 349.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/kl7bqTdXi9.jpg?v=1792654093&width=400",
+"type": "",
+"tags": [
+"Home Gym",
+"Kettler",
+"Machines",
+"Rowing Machines",
+"Sports & Leisure"
+],
+"in": true
+},
+{
+"t": "LALIQUE AMETHYST",
+"u": "https://www.hicart.com/products/lalique-amethyst",
+"p": 73.0,
+"c": 85.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/Qm1oh6MkT2.png?v=1792651442&width=400",
+"type": "",
+"tags": [
+"Beauty",
+"Lalique",
+"Perfumes & Fragrances",
+"Women"
+],
+"in": true
+},
+{
+"t": "AZZARO MOST WANTED EDP INTENSE",
+"u": "https://www.hicart.com/products/azzaro-most-wanted-edp-intense",
+"p": 99.99,
+"c": 170.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/rkjbl5giDk.png?v=1792651442&width=400",
+"type": "",
+"tags": [
+"Azzaro",
+"Beauty",
+"Men",
+"Perfumes & Fragrances"
+],
+"in": true
+},
+{
+"t": "LALIQUE L'AMOUR EDP 100ML",
+"u": "https://www.hicart.com/products/lalique-lamour-edp-100ml",
+"p": 61.0,
+"c": 76.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/cpNSFpdgZR.png?v=1792651442&width=400",
+"type": "",
+"tags": [
+"Beauty",
+"Lalique",
+"Perfumes & Fragrances",
+"Women"
+],
+"in": true
+},
+{
+"t": "JAGUAR CLASSIC BLUE EDT 100ML",
+"u": "https://www.hicart.com/products/jaguar-classic-blue-edt-100ml",
+"p": 34.99,
+"c": 44.99,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/ImmpKh1GzH.png?v=1792651363&width=400",
+"type": "",
+"tags": [
+"Beauty",
+"Jaguar",
+"Men",
+"Perfumes & Fragrances"
+],
+"in": true
+},
+{
+"t": "JAGUAR CLASSIC BLACK EDT 100ML",
+"u": "https://www.hicart.com/products/jaguar-classic-black-edt-100ml",
+"p": 34.99,
+"c": 44.99,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/3KXSawvZXf.png?v=1792651362&width=400",
+"type": "",
+"tags": [
+"Beauty",
+"Jaguar",
+"Men",
+"Perfumes & Fragrances"
+],
+"in": true
+},
+{
+"t": "MONTBLANC LADY EMBLEM EDP 75ML",
+"u": "https://www.hicart.com/products/montblanc-lady-emblem-edp-75ml",
+"p": 111.0,
+"c": 149.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/38NIKnMrTK.png?v=1792651363&width=400",
+"type": "",
+"tags": [
+"Beauty",
+"Montblanc",
+"Perfumes & Fragrances",
+"Women"
+],
+"in": true
+},
+{
+"t": "DAVIDOFF COOL WATER MEN EDT 75ML",
+"u": "https://www.hicart.com/products/davidoff-cool-water-men-edt-75ml",
+"p": 52.0,
+"c": 65.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/A0kud71k9R.png?v=1792651362&width=400",
+"type": "",
+"tags": [
+"Beauty",
+"Davidoff",
+"Men",
+"Perfumes & Fragrances"
+],
+"in": true
+},
+{
+"t": "CK ETERNITY EDP 100ML",
+"u": "https://www.hicart.com/products/ck-eternity-edp-100ml",
+"p": 69.99,
+"c": 89.99,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/Q1euudyNyB.png?v=1792651362&width=400",
+"type": "",
+"tags": [
+"Beauty",
+"Calvin Klein",
+"Perfumes & Fragrances",
+"Women"
+],
+"in": true
+},
+{
+"t": "CK ETERNITY MOMENT EDP 100ML",
+"u": "https://www.hicart.com/products/ck-eternity-moment-edp-100ml",
+"p": 49.99,
+"c": 69.99,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/l0eFdku343.png?v=1792651162&width=400",
+"type": "",
+"tags": [
+"Beauty",
+"Calvin Klein",
+"Perfumes & Fragrances",
+"Women"
+],
+"in": true
+},
+{
+"t": "HUGO BOSS GREEN MAN EDT 125ML",
+"u": "https://www.hicart.com/products/hugo-boss-green-man-edt-125ml",
+"p": 54.99,
+"c": 69.99,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/VzxdXxOgrD.png?v=1792651163&width=400",
+"type": "",
+"tags": [
+"Beauty",
+"Hugo Boss",
+"Men",
+"Perfumes & Fragrances"
+],
+"in": true
+},
+{
+"t": "BOSS BOTTLED UNLIMITED EDT 100ML",
+"u": "https://www.hicart.com/products/boss-bottled-unlimited-edt-100ml",
+"p": 59.99,
+"c": 79.99,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/wgpwOGWWqb.png?v=1792651163&width=400",
+"type": "",
+"tags": [
+"Beauty",
+"Boss",
+"Men",
+"Perfumes & Fragrances"
+],
+"in": true
+},
+{
+"t": "HUGO BOSS FEMME EDP 75ML",
+"u": "https://www.hicart.com/products/hugo-boss-femme-edp-75ml",
+"p": 75.0,
+"c": 89.99,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/hdiLrj5epV.png?v=1792651163&width=400",
+"type": "",
+"tags": [
+"Beauty",
+"Hugo Boss",
+"Perfumes & Fragrances",
+"Women"
+],
+"in": true
+},
+{
+"t": "CK IN2U MEN EDT 100ML",
+"u": "https://www.hicart.com/products/ck-in2u-men-edt-100ml",
+"p": 49.99,
+"c": 64.99,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/bqfUYYGua3.png?v=1792651162&width=400",
+"type": "",
+"tags": [
+"Beauty",
+"Calvin Klein",
+"Men",
+"Perfumes & Fragrances"
+],
+"in": true
+},
+{
+"t": "BOSS THE SCENT EDT",
+"u": "https://www.hicart.com/products/boss-the-scent-edt",
+"p": 99.99,
+"c": 111.99,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/btJvfaaH22.png?v=1792650881&width=400",
+"type": "",
+"tags": [
+"Beauty",
+"Boss",
+"Men",
+"Perfumes & Fragrances"
+],
+"in": true
+},
+{
+"t": "Decorative Wood Metal Lantern Large Size",
+"u": "https://www.hicart.com/products/decorative-wood-metal-lantern-large-size",
+"p": 172.2,
+"c": 246.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/RHBODUCrY0.jpg?v=1792584624&width=400",
+"type": "",
+"tags": [
+"Christmas Decorations",
+"Home & Kitchen",
+"Home Deco",
+"Seasonal Deco"
+],
+"in": true
+},
+{
+"t": "Decorative Shabby Wooden Metal Lantern Large Size",
+"u": "https://www.hicart.com/products/decorative-shabby-wooden-metal-lantern-large-size",
+"p": 94.2,
+"c": 157.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/x3o4i0Naus.jpg?v=1792584624&width=400",
+"type": "",
+"tags": [
+"Christmas Decorations",
+"Home & Kitchen",
+"Home Deco",
+"Seasonal Deco"
+],
+"in": true
+},
+{
+"t": "Serving Plate PP Chip and Dip, Available in Many Colors",
+"u": "https://www.hicart.com/products/serving-plate-pp-chip-and-dip-available-in-many-colors",
+"p": 2.8,
+"c": 4.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/xcROwunhTJ.jpg?v=1792584624&width=400",
+"type": "",
+"tags": [],
+"in": true
+},
+{
+"t": "Decorative Standing Sculpture Round Purple Flowers",
+"u": "https://www.hicart.com/products/decorative-standing-sculpture-round-purple-flowers",
+"p": 90.0,
+"c": 150.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/bmad0i2k9h.jpg?v=1792584624&width=400",
+"type": "",
+"tags": [],
+"in": true
+},
+{
+"t": "Large Vintage Retro Design Cardboard Storage Box with Lids & Handles",
+"u": "https://www.hicart.com/products/large-vintage-retro-design-cardboard-storage-box-with-lids-handles",
+"p": 5.6,
+"c": 8.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/lGrLEJLaka.jpg?v=1792584624&width=400",
+"type": "",
+"tags": [],
+"in": true
+},
+{
+"t": "Bistro Chair Metal PP Rattan Dark Grey",
+"u": "https://www.hicart.com/products/bistro-chair-metal-pp-rattan-dark-grey",
+"p": 42.7,
+"c": 61.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/iISF7oRHrQ.jpg?v=1792584624&width=400",
+"type": "",
+"tags": [],
+"in": true
+},
+{
+"t": "Itemz, Decorative Croco Round underplate Red- D33cm",
+"u": "https://www.hicart.com/products/itemz-decorative-croco-round-underplate-red-d33cm",
+"p": 4.2,
+"c": 6.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/Gq3m8ip9xE.jpg?v=1792584624&width=400",
+"type": "",
+"tags": [],
+"in": true
+},
+{
+"t": "Laundry basket Rattan design 59x37x28 cm",
+"u": "https://www.hicart.com/products/laundry-basket-rattan-design-59x37x28-cm",
+"p": 10.5,
+"c": 15.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/KpyzFFPcZB.jpg?v=1792584624&width=400",
+"type": "",
+"tags": [],
+"in": true
+},
+{
+"t": "Set 6pcs Chocolate Fondue, avaialable in different colors",
+"u": "https://www.hicart.com/products/set-6pcs-chocolate-fondue-avaialable-in-different-colors",
+"p": 11.9,
+"c": 17.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/rNcUIWnCn7.jpg?v=1792584624&width=400",
+"type": "",
+"tags": [],
+"in": true
+},
+{
+"t": "Cappuccino Cup & Saucer, Available in 4 colors",
+"u": "https://www.hicart.com/products/cappuccino-cup-saucer-available-in-4-colors",
+"p": 7.0,
+"c": 10.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/34E1YzD0p6.jpg?v=1792584623&width=400",
+"type": "",
+"tags": [],
+"in": true
+},
+{
+"t": "Set of 2 Bows With Glitter, Avaialble in 3 colors",
+"u": "https://www.hicart.com/products/set-of-2-bows-with-glitter-avaialble-in-3-colors",
+"p": 2.5,
+"c": 5.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/qV3kkxtwCZ.jpg?v=1792584606&width=400",
+"type": "",
+"tags": [
+"Christmas Decorations",
+"Home & Kitchen",
+"Home Deco",
+"Seasonal Deco"
+],
+"in": true
+},
+{
+"t": "Karaca Mastermaid BioDiamond Cookware Set Grape Purple - 9 Pieces, 153.03.08.2882",
+"u": "https://www.hicart.com/products/karaca-mastermaid-biodiamond-cookware-set-grape-purple-9-pieces-153-03-08-2882",
+"p": 184.0,
+"c": 262.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/153.03.08.2882-1.png?v=1792058492&width=400",
+"type": "Cookware Sets",
+"tags": [
+"Cookware",
+"Cookware Collection",
+"Cookware Sets"
+],
+"in": false
+},
+{
+"t": "Karaca BioDiamond Cast Iron Square Cookware Set – 7 Pieces, 153.03.08.1853",
+"u": "https://www.hicart.com/products/karaca-biodiamond-cast-iron-square-cookware-set-7-pieces-153-03-08-1853",
+"p": 157.0,
+"c": 185.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/153.03.08.1853-4.png?v=1792058507&width=400",
+"type": "Cookware Sets",
+"tags": [
+"Cookware",
+"Cookware Collection",
+"Cookware Sets"
+],
+"in": false
+},
+{
+"t": "Karaca BioDiamond Pot 24 cm, 153.03.07.7044",
+"u": "https://www.hicart.com/products/karaca-biodiamond-pot-24-cm-153-03-07-7044",
+"p": 40.0,
+"c": 77.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/153.03.07.7044-1-1.png?v=1792058565&width=400",
+"type": "Pots & Pans",
+"tags": [
+"Cookware",
+"Cookware Collection",
+"Pots & Pans"
+],
+"in": false
+},
+{
+"t": "Karaca Kitchen Lover Biogranit Grey Pizza Pan 32 cm, 153.03.08.0377",
+"u": "https://www.hicart.com/products/karaca-kitchen-lover-biogranit-grey-pizza-pan-32-cm-153-03-08-0377",
+"p": 12.0,
+"c": 16.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/153.03.08.0377.png?v=1792058599&width=400",
+"type": "Pots & Pans",
+"tags": [
+"Cookware",
+"Cookware Collection",
+"Pots & Pans"
+],
+"in": false
+},
+{
+"t": "Karaca BioDiamond Antibacterial Handle Induction Base Frying Pan 30 cm, 153.03.08.0418",
+"u": "https://www.hicart.com/products/karaca-biodiamond-antibacterial-handle-induction-base-frying-pan-30-cm-153-03-08-0418",
+"p": 44.0,
+"c": 78.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/418-2.png?v=1792058604&width=400",
+"type": "Pots & Pans",
+"tags": [
+"Cookware",
+"Cookware Collection",
+"Pots & Pans"
+],
+"in": false
+},
+{
+"t": "Karaca Cooklife Jar - Stoneware Forest Fog - 800ML, 153.03.06.2314",
+"u": "https://www.hicart.com/products/karaca-cooklife-jar-stoneware-forest-fog-800ml-153-03-06-2314",
+"p": 11.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/153_03_06_2314_jpg.jpg?v=1792059054&width=400",
+"type": "Food Storage",
+"tags": [
+"Food Storage",
+"Kitchen & Dining",
+"Kitchen Tools & Storage",
+"Kitchenware",
+"Storage & Organizers"
+],
+"in": false
+},
+{
+"t": "Karaca Inox 1.5 L Glass Bowl Smoothie Blender, 153.09.01.3425",
+"u": "https://www.hicart.com/products/karaca-inox-1-5-l-glass-bowl-smoothie-blender-153-09-01-3425",
+"p": 59.0,
+"c": 74.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/153.09.01.3425-4.png?v=1792059119&width=400",
+"type": "Blenders & Food Processors",
+"tags": [
+"Blenders & Food Processors",
+"Small Kitchen Appliances"
+],
+"in": false
+},
+{
+"t": "Karaca Home Baby Sunshine 100% Cotton Baby Duvet Cover Set, 200.22.11.0215",
+"u": "https://www.hicart.com/products/karaca-home-baby-sunshine-100-cotton-baby-duvet-cover-set-200-22-11-0215",
+"p": 33.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/8680214338667-142.webp?v=1792059192&width=400",
+"type": "Baby Textiles",
+"tags": [
+"& Pillows",
+"Baby Collection",
+"Baby Textiles",
+"Bed & Bath",
+"Bedroom",
+"Bedsheets",
+"Duvet"
+],
+"in": false
+},
+{
+"t": "Karaca Home Waterproof Cotton Mattress Protector & Baby Changing Mat Set, 200.15.01.0310",
+"u": "https://www.hicart.com/products/karaca-home-waterproof-cotton-mattress-protector-baby-changing-mat-set-200-15-01-0310",
+"p": 12.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/200_15_01_0310_jpg.jpg?v=1792059221&width=400",
+"type": "Baby Textiles",
+"tags": [
+"& Pillows",
+"Baby Collection",
+"Baby Textiles",
+"Bed & Bath",
+"Bedroom",
+"Bedsheets",
+"Duvet"
+],
+"in": false
+},
+{
+"t": "Karaca Eternal Beige Mug 300ML, 153.03.06.2256",
+"u": "https://www.hicart.com/products/karaca-eternal-beige-mug-300ml-153-03-06-2256",
+"p": 9.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/153_03_06_2256_jpg.jpg?v=1792059629&width=400",
+"type": "Cups & Glasses",
+"tags": [
+"Cups & Glasses",
+"Drinkware",
+"Kitchenware"
+],
+"in": false
+},
+{
+"t": "Karaca Porcelain 330ML Mug With Letter J, 153.03.06.1617",
+"u": "https://www.hicart.com/products/karaca-porcelain-330ml-mug-with-letter-j-153-03-06-1617",
+"p": 10.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/153_03_06_1617_jpg.jpg?v=1792059649&width=400",
+"type": "Cups & Glasses",
+"tags": [
+"Cups & Glasses",
+"Drinkware",
+"Kitchenware"
+],
+"in": false
+},
+{
+"t": "Karaca Earth Collection New Galactic 2-Piece Reactive Glaze Espresso Turkish Coffee Cup Set 100 ml, 153.03.05.0172",
+"u": "https://www.hicart.com/products/karaca-earth-collection-new-galactic-2-piece-reactive-glaze-espresso-turkish-coffee-cup-set-100-ml-153-03-05-0172",
+"p": 19.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/153.03.05.0172-1.png?v=1792059699&width=400",
+"type": "Coffee Service",
+"tags": [
+"Coffee Service",
+"Drinkware",
+"Kitchenware"
+],
+"in": false
+},
+{
+"t": "Karaca Autumn 6-Piece Coffee Cup Set – 85 ml, 153.03.07.9493",
+"u": "https://www.hicart.com/products/karaca-autumn-6-piece-coffee-cup-set-85-ml-153-03-07-9493",
+"p": 22.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/9493.png?v=1792059710&width=400",
+"type": "Coffee Service",
+"tags": [
+"Coffee Service",
+"Drinkware",
+"Kitchenware"
+],
+"in": false
+},
+{
+"t": "Karaca Dora Midi Borosilicate Glass Teapot, 1.8L Drinker + 0.45L Teapot + Teapot LID, 153.03.08.0603",
+"u": "https://www.hicart.com/products/karaca-dora-midi-borosilicate-glass-teapot-1-8l-drinker-0-45l-teapot-teapot-lid-153-03-08-0603",
+"p": 73.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/153_03_08_0603_jpg.jpg?v=1792059804&width=400",
+"type": "Tea Service",
+"tags": [
+"Drinkware",
+"Kitchenware",
+"Tea Service"
+],
+"in": false
+},
+{
+"t": "CK CONTRADICTION EDP 100ML",
+"u": "https://www.hicart.com/products/ck-contradiction-edp-100ml",
+"p": 75.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/2hfthecSaS.png?v=1792582229&width=400",
+"type": "",
+"tags": [
+"Beauty",
+"Calvin Klein",
+"Perfumes & Fragrances",
+"Women"
+],
+"in": true
+},
+{
+"t": "FERRARI SCUDERIA RED EDT 125ML",
+"u": "https://www.hicart.com/products/ferrari-scuderia-red-edt-125ml",
+"p": 40.99,
+"c": 51.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/2APcOghnoN.png?v=1792582228&width=400",
+"type": "",
+"tags": [
+"Beauty",
+"Ferrari",
+"Men",
+"Perfumes & Fragrances"
+],
+"in": true
+},
+{
+"t": "HUGO WOMAN EXTREME EDP 75ML",
+"u": "https://www.hicart.com/products/hugo-woman-extreme-edp-75ml",
+"p": 95.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/AFo8V0lXvZ.png?v=1792582228&width=400",
+"type": "",
+"tags": [
+"Beauty",
+"Hugo Boss",
+"Perfumes & Fragrances",
+"Women"
+],
+"in": true
+},
+{
+"t": "CK ESCAPE 100ML EDP",
+"u": "https://www.hicart.com/products/ck-escape-100ml-edp",
+"p": 90.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/jiuyMZHZUI.png?v=1792582230&width=400",
+"type": "",
+"tags": [
+"Beauty",
+"Calvin Klein",
+"Perfumes & Fragrances",
+"Women"
+],
+"in": true
+},
+{
+"t": "MICHAEL KORS SEXY AMBER 100ML EDP",
+"u": "https://www.hicart.com/products/michael-kors-sexy-amber-100ml-edp",
+"p": 90.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/2JNsnFseOU.png?v=1792582227&width=400",
+"type": "",
+"tags": [
+"Beauty",
+"Perfumes & Fragrances",
+"Women"
+],
+"in": true
+},
+{
+"t": "ARMANI STRONGER WITH YOU INTENSELY 100ML",
+"u": "https://www.hicart.com/products/armani-stronger-with-you-intensely-100ml",
+"p": 116.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/RmfgCrCVWQ.png?v=1792582227&width=400",
+"type": "",
+"tags": [
+"Beauty",
+"Giorgio Armani",
+"Men",
+"Perfumes & Fragrances"
+],
+"in": true
+},
+{
+"t": "VERSACE EROS PARFUM 100ML",
+"u": "https://www.hicart.com/products/versace-eros-parfum-100ml",
+"p": 120.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/xkuQZFNt73.png?v=1792582227&width=400",
+"type": "",
+"tags": [
+"Beauty",
+"Fragrance Set",
+"Hair Care",
+"La Perla Tech",
+"Perfumes & Fragrances"
+],
+"in": true
+},
+{
+"t": "ESCADA SHOW ME LOVE",
+"u": "https://www.hicart.com/products/escada-show-me-love",
+"p": 60.0,
+"c": 80.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/bEqDYUQSx2.png?v=1792582227&width=400",
+"type": "",
+"tags": [
+"Beauty",
+"Escada",
+"Perfumes & Fragrances",
+"Women"
+],
+"in": true
+},
+{
+"t": "Escada Especially Eau de Parfum",
+"u": "https://www.hicart.com/products/escada-especially-eau-de-parfum",
+"p": 75.0,
+"c": 90.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/KYniZ7U5ff.png?v=1792582227&width=400",
+"type": "",
+"tags": [
+"Beauty",
+"Escada",
+"Perfumes & Fragrances",
+"Women"
+],
+"in": true
+},
+{
+"t": "ESCADA MAGNETISM EDP",
+"u": "https://www.hicart.com/products/escada-magnetism-edp",
+"p": 80.0,
+"c": 90.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/GAwuP1kLsL.png?v=1792582227&width=400",
+"type": "",
+"tags": [
+"Beauty",
+"Escada",
+"Perfumes & Fragrances",
+"Women"
+],
+"in": true
+},
+{
+"t": "CH 212 SEXY EDP",
+"u": "https://www.hicart.com/products/ch-212-sexy-edp",
+"p": 99.99,
+"c": 140.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/zivKv28VAl.png?v=1792582227&width=400",
+"type": "",
+"tags": [
+"Beauty",
+"Carolina Herrera",
+"Perfumes & Fragrances",
+"Women"
+],
+"in": true
+},
+{
+"t": "YSL MYSELF EDP",
+"u": "https://www.hicart.com/products/ysl-myself-edp",
+"p": 139.99,
+"c": 160.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/zKQjCuZPGf.png?v=1792582226&width=400",
+"type": "",
+"tags": [
+"Beauty",
+"Men",
+"Perfumes & Fragrances",
+"Yves Saint Laurent"
+],
+"in": true
+},
+{
+"t": "EMPORIO ARMANI STRONGER WITH YOU ABSOLUTELY",
+"u": "https://www.hicart.com/products/emporio-armani-stronger-with-you-absolutely",
+"p": 116.0,
+"c": 170.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/DxSZL6blIe.png?v=1792582226&width=400",
+"type": "",
+"tags": [
+"Beauty",
+"Men",
+"Perfumes & Fragrances"
+],
+"in": true
+},
+{
+"t": "JOOP HOMME EDT",
+"u": "https://www.hicart.com/products/joop-homme-edt",
+"p": 50.0,
+"c": 65.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/gaoNqupypP.png?v=1792582226&width=400",
+"type": "",
+"tags": [
+"Beauty",
+"Joop",
+"Men",
+"Perfumes & Fragrances"
+],
+"in": true
+},
+{
+"t": "Karaca Mastermaid BioDiamond 9-Piece Cookware Set, 153.03.08.2883",
+"u": "https://www.hicart.com/products/karaca-mastermaid-biodiamond-9-piece-cookware-set-153-03-08-2883",
+"p": 120.0,
+"c": 209.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/153.03.08.2883.png?v=1792062420&width=400",
+"type": "Cookware Sets",
+"tags": [
+"Cookware",
+"Cookware Collection",
+"Cookware Sets"
+],
+"in": false
+},
+{
+"t": "Karaca Valora 8-Piece Stainless Steel Cookware Set, 153.09.01.7079",
+"u": "https://www.hicart.com/products/karaca-valora-8-piece-stainless-steel-cookware-set-153-09-01-7079",
+"p": 108.0,
+"c": 189.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/153.09.01.7079-7.png?v=1792062426&width=400",
+"type": "Cookware Sets",
+"tags": [
+"Cookware",
+"Cookware Collection",
+"Cookware Sets"
+],
+"in": false
+},
+{
+"t": "Karaca Emsan Fiorino Induction Base Stainless Steel 3-Piece Mini Milk & Sauce Pot Set, 153.09.01.8578",
+"u": "https://www.hicart.com/products/karaca-emsan-fiorino-induction-base-stainless-steel-3-piece-mini-milk-sauce-pot-set-153-09-01-8578",
+"p": 38.0,
+"c": 67.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/153.09.01.8578.png?v=1792062742&width=400",
+"type": "Cookware Sets",
+"tags": [
+"Cookware",
+"Cookware Collection",
+"Cookware Sets"
+],
+"in": false
+},
+{
+"t": "Karaca Gold Elegance 22 cm Stainless Steel Pot, 8683650326007",
+"u": "https://www.hicart.com/products/karaca-gold-elegance-22-cm-stainless-steel-pot-8683650326007",
+"p": 59.0,
+"c": 103.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/8683650326007.png?v=1792062881&width=400",
+"type": "Pots & Pans",
+"tags": [
+"Cookware",
+"Cookware Collection",
+"Pots & Pans"
+],
+"in": false
+},
+{
+"t": "Karaca Gold Elegance 26 cm Stainless Steel Pot, 8683650326021",
+"u": "https://www.hicart.com/products/karaca-gold-elegance-26-cm-stainless-steel-pot-8683650326021",
+"p": 72.0,
+"c": 125.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/ChatGPT-Image-Aug-4-2026-12_41_33-AM.png?v=1792062884&width=400",
+"type": "Pots & Pans",
+"tags": [
+"Cookware",
+"Cookware Collection",
+"Pots & Pans"
+],
+"in": false
+},
+{
+"t": "Karaca Gold Elegance 24 cm Stainless Steel Frying Pan, 8683650325932",
+"u": "https://www.hicart.com/products/karaca-gold-elegance-24-cm-stainless-steel-frying-pan-8683650325932",
+"p": 46.0,
+"c": 81.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/8683650325932.png?v=1792062908&width=400",
+"type": "Pots & Pans",
+"tags": [
+"Cookware",
+"Cookware Collection",
+"Pots & Pans"
+],
+"in": false
+},
+{
+"t": "Karaca Urla 8-Piece Stainless Steel Cookware Set, 153.09.01.3571",
+"u": "https://www.hicart.com/products/karaca-urla-8-piece-stainless-steel-cookware-set-153-09-01-3571",
+"p": 89.0,
+"c": 150.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/153.09.01.3571-1.png?v=1792063025&width=400",
+"type": "Cookware Sets",
+"tags": [
+"Cookware",
+"Cookware Collection",
+"Cookware Sets"
+],
+"in": false
+},
+{
+"t": "Karaca Home Coretta Gold Photo Frame 19x24 cm, 153.09.01.6449",
+"u": "https://www.hicart.com/products/karaca-home-coretta-gold-photo-frame-19x24-cm-153-09-01-6449",
+"p": 26.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/153_09_01_6449_jpg.jpg?v=1792063107&width=400",
+"type": "Frames",
+"tags": [
+"Decor",
+"Frames",
+"Home Deco",
+"Karaca Home New Arrivals"
+],
+"in": false
+},
+{
+"t": "Karaca Home Mariner Decorative Vase 12.5 cm, 8683650375043",
+"u": "https://www.hicart.com/products/karaca-home-mariner-decorative-vase-12-5-cm-8683650375043",
+"p": 11.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/5043-1.png?v=1792063567&width=400",
+"type": "Vases",
+"tags": [
+"Decor",
+"Home Deco",
+"Karaca Home New Arrivals",
+"Vases"
+],
+"in": false
+},
+{
+"t": "Karaca Mastermaid Power Multifunctional 10 in 1 Food Processor 2000W, Galaxy Grey, 153.03.06.6570",
+"u": "https://www.hicart.com/products/karaca-mastermaid-power-multifunctional-10-in-1-food-processor-2000w-galaxy-grey-153-03-06-6570",
+"p": 99.0,
+"c": 160.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/karaca-mastermaid-power-multifunctional-10-in-1-mutfak-robotu-2000w-galaxy-grey-000001000015979004.jpg?v=1792063823&width=400",
+"type": "Blenders & Food Processors",
+"tags": [
+"Blenders & Food Processors",
+"Small Kitchen Appliances"
+],
+"in": true
+},
+{
+"t": "Karaca Aria 24-Piece Reactive Glaze Dinner Set for 6 People, Beige, 800.01.01.0814",
+"u": "https://www.hicart.com/products/karaca-aria-24-piece-reactive-glaze-dinner-set-for-6-people-beige-800-01-01-0814",
+"p": 195.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/800.01.01.0814.png?v=1792063836&width=400",
+"type": "Dinnerware Sets",
+"tags": [
+"Dinnerware",
+"Dinnerware & Serveware",
+"Dinnerware Sets",
+"Karaca New Arrivals",
+"Kitchen & Dining",
+"Kitchenware",
+"NEW ARRIVALS"
+],
+"in": true
+},
+{
+"t": "Karaca Fiorino Compact 6-Piece Stainless Steel Cookware Set, 153.09.01.8580",
+"u": "https://www.hicart.com/products/karaca-fiorino-compact-6-piece-stainless-steel-cookware-set-153-09-01-8580",
+"p": 68.0,
+"c": 106.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/153.09.01.8580-2.webp?v=1792063973&width=400",
+"type": "Cookware Sets",
+"tags": [
+"Cookware",
+"Cookware Collection",
+"Cookware Sets"
+],
+"in": false
+},
+{
+"t": "Karaca Bonn 24-Piece Reactive Glaze Dinner Set for 6 People, 153.09.01.1478",
+"u": "https://www.hicart.com/products/karaca-bonn-24-piece-reactive-glaze-dinner-set-for-6-people-153-09-01-1478",
+"p": 140.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/153.09.01.1478-8.png?v=1792063970&width=400",
+"type": "Dinnerware Sets",
+"tags": [
+"Dinnerware",
+"Dinnerware & Serveware",
+"Dinnerware Sets",
+"Karaca New Arrivals",
+"Kitchen & Dining",
+"Kitchenware",
+"NEW ARRIVALS"
+],
+"in": true
+},
+{
+"t": "HP, Sleeve Omen Transceptor 17.3-Inch",
+"u": "https://www.hicart.com/products/hp-sleeve-omen-transceptor-173-inch-w781-hp-omen17",
+"p": 22.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/h_p-omen17-f1c521.jpg?v=1785412103&width=400",
+"type": "simple",
+"tags": [
+"Bags & Cases",
+"Computers",
+"Electronics",
+"HP"
+],
+"in": true
+},
+{
+"t": "Shiba Twin Tub Washer 7KG - 270W, VH722ULP",
+"u": "https://www.hicart.com/products/shiba-twin-tub-washer-7kg-270w-vh722ulp",
+"p": 170.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/K8TBbwax4n.jpg?v=1792569250&width=400",
+"type": "Living Room,Furniture",
+"tags": [
+"Furniture"
+],
+"in": true
+},
+{
+"t": "Shiba Twin Tub Washer 12KG - 290W, VH1212ULP",
+"u": "https://www.hicart.com/products/shiba-twin-tub-washer-12kg-290w-vh1212ulp",
+"p": 215.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/47NVkiwImJ.jpg?v=1792569250&width=400",
+"type": "Living Room,Furniture",
+"tags": [
+"Furniture"
+],
+"in": true
+},
+{
+"t": "Dyson Airwrap Multi-Styler And Dryer Straight+Wavy Pink, DYN-HS08P",
+"u": "https://www.hicart.com/products/dyson-airwrap-multi-styler-and-dryer-straight-wavy-pink-dyn-hs08p",
+"p": 626.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/KB6sv5XfAj.jpg?v=1792563724&width=400",
+"type": "Hair Styling & Treatments,Hair Care",
+"tags": [
+"Hair Styling & Treatments"
+],
+"in": true
+},
+{
+"t": "Dyson Airwrap Multi-Styler And Dryer T3/T4 Curly To Coily, Red Velvet, DYN-HS08RED",
+"u": "https://www.hicart.com/products/dyson-airwrap-multi-styler-and-dryer-t3-t4-curly-to-coily-red-velvet-dyn-hs08red",
+"p": 626.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/TS3ExsbJoS.jpg?v=1792563724&width=400",
+"type": "Hair Styling & Treatments,Hair Care",
+"tags": [
+"Hair Styling & Treatments"
+],
+"in": true
+},
+{
+"t": "Philips Hair Removal Device, Portable Compact Design, Washable Head, Wired, Smooth up to 4 Weeks, Colour Blue, BRE228/05",
+"u": "https://www.hicart.com/products/philips-hair-removal-device-portable-compact-design-washable-head-wired-smooth-up-to-4-weeks-colour-blue-bre228-05",
+"p": 37.0,
+"c": 47.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/Cym21lHEvO.jpg?v=1792493979&width=400",
+"type": "",
+"tags": [
+"Category_Bath & Body",
+"Category_Beauty",
+"Category_Body & Hair Care",
+"Category_Hair Removal",
+"Women"
+],
+"in": true
+},
+{
+"t": "Marzotti Microwave Oven 20L 700W MZMW20A",
+"u": "https://www.hicart.com/products/marzotti-microwave-oven-20l-700w-mzmw20a",
+"p": 79.0,
+"c": 89.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/8Z6Pr41uGH.jpg?v=1792493979&width=400",
+"type": "",
+"tags": [
+"Category_Electronics",
+"Category_Microwaves",
+"Category_Small Appliances",
+"Microwaves"
+],
+"in": true
+},
+{
+"t": "Marzotti Microwave Oven 25L 850W WITH GRILL FUNCTION MZMW25A",
+"u": "https://www.hicart.com/products/marzotti-microwave-oven-25l-850w-with-grill-function-mzmw25a",
+"p": 119.0,
+"c": 129.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/86lKs2TGXz.jpg?v=1792493979&width=400",
+"type": "",
+"tags": [
+"Category_Electronics",
+"Category_Microwaves",
+"Category_Small Appliances",
+"Microwaves"
+],
+"in": true
+},
+{
+"t": "Philips Lumea 8000 Series IPL Hair Removal Device - Alternative to Laser Hair Removal, SenseIQ Technology and Lumea App, 2 Attachments for Body & Face, for Women & Men, BRI932/03",
+"u": "https://www.hicart.com/products/philips-lumea-8000-series-ipl-hair-removal-device-alternative-to-laser-hair-removal-senseiq-technology-and-lumea-app-2-attachments-for-body-face-for-women-men-bri932-03",
+"p": 449.0,
+"c": 460.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/upYGHiNff2.jpg?v=1792493979&width=400",
+"type": "",
+"tags": [
+"Category_Bath & Body",
+"Category_Beauty",
+"Category_Hair Removal",
+"Women"
+],
+"in": true
+},
+{
+"t": "Philips DVT1170 VoiceTracer, Audio Recorder, 8GB, Micro SD Card Slot, 360° Microphone for Excellent Sound",
+"u": "https://www.hicart.com/products/philips-dvt1170-voicetracer-audio-recorder-8gb-micro-sd-card-slot-360-microphone-for-excellent-sound",
+"p": 95.0,
+"c": 105.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/GyiEHgVxgz.jpg?v=1792493979&width=400",
+"type": "",
+"tags": [
+"Category_Audio & Video",
+"Category_Electronics"
+],
+"in": true
+},
+{
+"t": "MOULINEX Kettle |Uno 1.5 liter Electric Kettle | 2400 W | Plastic | BY150827",
+"u": "https://www.hicart.com/products/moulinex-kettle-uno-1-5-liter-electric-kettle-2400-w-plastic-by150827",
+"p": 33.0,
+"c": 48.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/GWpa1MAT1g.jpg?v=1792493980&width=400",
+"type": "",
+"tags": [
+"Category_Electric Kettles",
+"Category_Electronics",
+"Category_Small Appliances"
+],
+"in": true
+},
+{
+"t": "Aderma Bio Soin Nutritif 40 Ml",
+"u": "https://www.hicart.com/products/aderma-bio-soin-nutritif-40-ml",
+"p": 20.9,
+"c": 22.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/QyaZ6alM4f.jpg?v=1792488487&width=400",
+"type": "Skincare",
+"tags": [
+"Beauty",
+"Face",
+"Skin Care"
+],
+"in": true
+},
+{
+"t": "Aderma Biology Creme Legere Hydratante 40 Ml",
+"u": "https://www.hicart.com/products/aderma-biology-creme-legere-hydratante-40-ml",
+"p": 20.9,
+"c": 22.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/heufdMHv1z.jpg?v=1792488486&width=400",
+"type": "Skincare",
+"tags": [
+"Beauty",
+"Face",
+"Skin Care"
+],
+"in": true
+},
+{
+"t": "Acnomix Niacinamide Gel 30Ml",
+"u": "https://www.hicart.com/products/acnomix-niacinamide-gel-30ml",
+"p": 17.58,
+"c": 18.5,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/R3M1pn2uZl.jpg?v=1792488455&width=400",
+"type": "Skincare",
+"tags": [
+"Beauty",
+"Face",
+"Skin Care"
+],
+"in": true
+},
+{
+"t": "Aderma Biology Soin Dermatologique Anti-Rougeurs 40Ml",
+"u": "https://www.hicart.com/products/aderma-biology-soin-dermatologique-anti-rougeurs-40ml",
+"p": 21.85,
+"c": 23.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/D54DJ2lfD3.jpg?v=1792488457&width=400",
+"type": "Skincare",
+"tags": [
+"Beauty",
+"Face",
+"Skin Care"
+],
+"in": true
+},
+{
+"t": "Aderma Biology Hyalu 3In1 Serum",
+"u": "https://www.hicart.com/products/aderma-biology-hyalu-3in1-serum",
+"p": 24.7,
+"c": 26.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/DDyX7Z7VU6.jpg?v=1792488457&width=400",
+"type": "Skincare",
+"tags": [
+"Beauty",
+"Face",
+"Skin Care"
+],
+"in": true
+},
+{
+"t": "Aderma Biology Creme Riche Hydratante 40 Ml",
+"u": "https://www.hicart.com/products/aderma-biology-creme-riche-hydratante-40-ml",
+"p": 20.9,
+"c": 22.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/3hlUl3b4Dz.jpg?v=1792488458&width=400",
+"type": "Skincare",
+"tags": [
+"Beauty",
+"Face",
+"Skin Care"
+],
+"in": true
+},
+{
+"t": "Aderma Dermalibour+ CrãˆMe Reparatrice 50Ml",
+"u": "https://www.hicart.com/products/aderma-dermalibour-craˆme-reparatrice-50ml",
+"p": 8.55,
+"c": 9.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/ws7rGEruHf.jpg?v=1792488457&width=400",
+"type": "Skincare",
+"tags": [
+"Beauty",
+"Face",
+"Skin Care"
+],
+"in": true
+},
+{
+"t": "Aderma Cytelium Spray 100 Ml",
+"u": "https://www.hicart.com/products/aderma-cytelium-spray-100-ml",
+"p": 12.35,
+"c": 13.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/XxhSWEfYy2.jpg?v=1792488457&width=400",
+"type": "Skincare",
+"tags": [
+"Beauty",
+"Face",
+"Skin Care"
+],
+"in": true
+},
+{
+"t": "Aderma Biology Creme Soin Apaisant 40 Ml",
+"u": "https://www.hicart.com/products/aderma-biology-creme-soin-apaisant-40-ml",
+"p": 20.9,
+"c": 22.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/VNAJYw34Lm.jpg?v=1792488457&width=400",
+"type": "Skincare",
+"tags": [
+"Beauty",
+"Face",
+"Skin Care"
+],
+"in": true
+},
+{
+"t": "Aderma Exomega Cont Gel 2 In 1 500Ml",
+"u": "https://www.hicart.com/products/aderma-exomega-cont-gel-2-in-1-500ml",
+"p": 22.8,
+"c": 24.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/pAVmtPPFWG.jpg?v=1792488457&width=400",
+"type": "Skincare",
+"tags": [
+"Beauty",
+"Face",
+"Skin Care"
+],
+"in": true
+},
+{
+"t": "Aderma Dermalibour + Reparatrice Cream 100Ml",
+"u": "https://www.hicart.com/products/aderma-dermalibour-reparatrice-cream-100ml",
+"p": 19.0,
+"c": 20.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/peCFc6V4wP.jpg?v=1792488457&width=400",
+"type": "Skincare",
+"tags": [
+"Beauty",
+"Face",
+"Skin Care"
+],
+"in": true
+},
+{
+"t": "Aderma Exomega Control Gel Lavant Emollient 200Ml",
+"u": "https://www.hicart.com/products/aderma-exomega-control-gel-lavant-emollient-200ml",
+"p": 13.3,
+"c": 14.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/MrOBQnFY1D.jpg?v=1792488457&width=400",
+"type": "Skincare",
+"tags": [
+"Beauty",
+"Face",
+"Skin Care"
+],
+"in": true
+},
+{
+"t": "Aderma Exomega Ctl Cream 400Ml",
+"u": "https://www.hicart.com/products/aderma-exomega-ctl-cream-400ml",
+"p": 28.5,
+"c": 30.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/fgfV3kKsWN.jpg?v=1792488457&width=400",
+"type": "Skincare",
+"tags": [
+"Beauty",
+"Face",
+"Skin Care"
+],
+"in": true
+},
+{
+"t": "Aderma Epitheliale A.H Duo 40Ml",
+"u": "https://www.hicart.com/products/aderma-epitheliale-a-h-duo-40ml",
+"p": 12.35,
+"c": 13.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/ljMPhVtobm.jpg?v=1792488457&width=400",
+"type": "Skincare",
+"tags": [
+"Beauty",
+"Face",
+"Skin Care"
+],
+"in": true
+},
+{
+"t": "Aderma Exomega Baume Emollient Defi 200 Ml",
+"u": "https://www.hicart.com/products/aderma-exomega-baume-emollient-defi-200-ml",
+"p": 14.25,
+"c": 15.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/2n8CefMP63.jpg?v=1792488457&width=400",
+"type": "Skincare",
+"tags": [
+"Beauty",
+"Face",
+"Skin Care"
+],
+"in": true
+},
+{
+"t": "Aderma Exomega Huile 500Ml",
+"u": "https://www.hicart.com/products/aderma-exomega-huile-500ml",
+"p": 22.8,
+"c": 24.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/SnJ4tQ8tWJ.jpg?v=1792488457&width=400",
+"type": "Skincare",
+"tags": [
+"Bath & Body",
+"Beauty",
+"Body Care"
+],
+"in": true
+},
+{
+"t": "Aderma Dermalibour+ Gel Moussante 250Ml",
+"u": "https://www.hicart.com/products/aderma-dermalibour-gel-moussante-250ml",
+"p": 18.05,
+"c": 19.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/Ev2jyx4vKh.jpg?v=1792488457&width=400",
+"type": "Skincare",
+"tags": [
+"Beauty",
+"Face",
+"Skin Care"
+],
+"in": true
+},
+{
+"t": "Aderma Exomega Huile Nettoyante 200 Ml",
+"u": "https://www.hicart.com/products/aderma-exomega-huile-nettoyante-200-ml",
+"p": 11.4,
+"c": 12.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/K0vlLtT2jq.jpg?v=1792488457&width=400",
+"type": "Skincare",
+"tags": [
+"Beauty",
+"Face",
+"Skin Care"
+],
+"in": true
+},
+{
+"t": "Aderma Exomega Tl Baume 400Ml",
+"u": "https://www.hicart.com/products/aderma-exomega-tl-baume-400ml",
+"p": 28.5,
+"c": 30.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/Sp7GDpouv0.jpg?v=1792488457&width=400",
+"type": "Skincare",
+"tags": [
+"Beauty",
+"Face",
+"Skin Care"
+],
+"in": true
+},
+{
+"t": "Aderma Protect Fluide Invisible Spf50+ 40Ml",
+"u": "https://www.hicart.com/products/aderma-protect-fluide-invisible-spf50-40ml",
+"p": 19.0,
+"c": 20.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/19ouaEV45c.jpg?v=1792488456&width=400",
+"type": "Skincare",
+"tags": [
+"Beauty",
+"Face",
+"Skin Care"
+],
+"in": true
+},
+{
+"t": "Aderma Exomega Creme Emoliante Defi 200 Ml",
+"u": "https://www.hicart.com/products/aderma-exomega-creme-emoliante-defi-200-ml",
+"p": 19.0,
+"c": 20.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/2QoGVA6RKa.jpg?v=1792488456&width=400",
+"type": "Skincare",
+"tags": [
+"Beauty",
+"Face",
+"Skin Care"
+],
+"in": true
+},
+{
+"t": "Aderma Gel Douche Surgras 200Ml",
+"u": "https://www.hicart.com/products/aderma-gel-douche-surgras-200ml",
+"p": 9.5,
+"c": 10.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/WcjSXXuA12.jpg?v=1792488456&width=400",
+"type": "Skincare",
+"tags": [
+"Bath & Body",
+"Bath & Shower",
+"Beauty"
+],
+"in": true
+},
+{
+"t": "Aderma Protect Ad Creme Sans Parfum Spf50+ 150Ml",
+"u": "https://www.hicart.com/products/aderma-protect-ad-creme-sans-parfum-spf50-150ml",
+"p": 24.7,
+"c": 26.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/VjV4cLGab2.jpg?v=1792488456&width=400",
+"type": "Skincare",
+"tags": [
+"Beauty",
+"Face",
+"Skin Care"
+],
+"in": true
+},
+{
+"t": "Aderma Phys-Ac Gel Moussant 200 Ml",
+"u": "https://www.hicart.com/products/aderma-phys-ac-gel-moussant-200-ml",
+"p": 18.05,
+"c": 19.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/xnBTB13zL5.jpg?v=1792488457&width=400",
+"type": "Skincare",
+"tags": [
+"Beauty",
+"Face",
+"Skin Care"
+],
+"in": true
+},
+{
+"t": "Aderma Phys-Ac Hydra Creme Hydratante Compensatrice 40Ml",
+"u": "https://www.hicart.com/products/aderma-phys-ac-hydra-creme-hydratante-compensatrice-40ml",
+"p": 19.95,
+"c": 21.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/5SkgTeuubs.jpg?v=1792488456&width=400",
+"type": "Skincare",
+"tags": [
+"Beauty",
+"Face",
+"Skin Care"
+],
+"in": true
+},
+{
+"t": "Aderma Pain Surgras 100G",
+"u": "https://www.hicart.com/products/aderma-pain-surgras-100g",
+"p": 11.4,
+"c": 12.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/ftS7Ic8jst.jpg?v=1792488456&width=400",
+"type": "Skincare",
+"tags": [
+"Beauty",
+"Face",
+"Skin Care"
+],
+"in": true
+},
+{
+"t": "Acnomix Nail Repair Polish Tea Tree Oil 15Ml",
+"u": "https://www.hicart.com/products/acnomix-nail-repair-polish-tea-tree-oil-15ml",
+"p": 12.83,
+"c": 13.5,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/VqTKT4GidZ.jpg?v=1792488455&width=400",
+"type": "Skincare",
+"tags": [
+"Beauty",
+"Makeup",
+"Nails"
+],
+"in": true
+},
+{
+"t": "Acnomix Dry Hand 100Ml",
+"u": "https://www.hicart.com/products/acnomix-dry-hand-100ml",
+"p": 8.55,
+"c": 9.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/oRN8SV5PBJ.jpg?v=1792488455&width=400",
+"type": "Skincare",
+"tags": [
+"Bath & Body",
+"Beauty",
+"Hand & Foot Care"
+],
+"in": true
+},
+{
+"t": "Acnomix Dry Foot 100Ml",
+"u": "https://www.hicart.com/products/acnomix-dry-foot-100ml",
+"p": 16.63,
+"c": 17.5,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/npatr92leL.jpg?v=1792488455&width=400",
+"type": "Skincare",
+"tags": [
+"Bath & Body",
+"Beauty",
+"Hand & Foot Care"
+],
+"in": true
+},
+{
+"t": "Acnomix Antioxydant Glow Serum 30 Ml",
+"u": "https://www.hicart.com/products/acnomix-antioxydant-glow-serum-30-ml",
+"p": 23.75,
+"c": 25.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/uAsojR4qtS.jpg?v=1792488455&width=400",
+"type": "Skincare",
+"tags": [
+"Beauty",
+"Face",
+"Skin Care"
+],
+"in": true
+},
+{
+"t": "Acnomix Eye Roll On 15Ml",
+"u": "https://www.hicart.com/products/acnomix-eye-roll-on-15ml",
+"p": 17.1,
+"c": 18.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/CWk4JCn4e3.jpg?v=1792488455&width=400",
+"type": "Skincare",
+"tags": [
+"Beauty",
+"Eyes",
+"Skin Care"
+],
+"in": true
+},
+{
+"t": "Acnomix Peptide Serum +Q10 Serum 30Ml",
+"u": "https://www.hicart.com/products/acnomix-peptide-serum-q10-serum-30ml",
+"p": 47.5,
+"c": 50.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/yqp3dgKNil.jpg?v=1792488455&width=400",
+"type": "Skincare",
+"tags": [
+"Beauty",
+"Face",
+"Skin Care"
+],
+"in": true
+},
+{
+"t": "Acnomix Foam Wash Acne Prone",
+"u": "https://www.hicart.com/products/acnomix-foam-wash-acne-prone",
+"p": 12.83,
+"c": 13.5,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/reqzgQMAmx.jpg?v=1792488454&width=400",
+"type": "Skincare",
+"tags": [
+"Beauty",
+"Face",
+"Skin Care"
+],
+"in": true
+},
+{
+"t": "Acnomix Rosemary Oil Serum 30Ml",
+"u": "https://www.hicart.com/products/acnomix-rosemary-oil-serum-30ml",
+"p": 17.1,
+"c": 18.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/zTnNysd5pL.jpg?v=1792488453&width=400",
+"type": "Skincare",
+"tags": [
+"Beauty",
+"Hair Care",
+"Hair Styling & Treatments"
+],
+"in": true
+},
+{
+"t": "Acnomix Triple Effect Anti-Aging Cream 54Gm",
+"u": "https://www.hicart.com/products/acnomix-triple-effect-anti-aging-cream-54gm",
+"p": 25.65,
+"c": 27.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/61FYsqHZEy.jpg?v=1792488452&width=400",
+"type": "Skincare",
+"tags": [
+"Beauty",
+"Face",
+"Skin Care"
+],
+"in": true
+},
+{
+"t": "Acnomix Whitening Cream For Sensitive Area 30Ml",
+"u": "https://www.hicart.com/products/acnomix-whitening-cream-for-sensitive-area-30ml",
+"p": 19.0,
+"c": 20.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/fNPRVnqimT.jpg?v=1792488452&width=400",
+"type": "Skincare",
+"tags": [
+"Bath & Body",
+"Beauty",
+"Body Care"
+],
+"in": true
+},
+{
+"t": "Acnomix Face Cleansing Gel – Dry To Normal Skin",
+"u": "https://www.hicart.com/products/acnomix-face-cleansing-gel-dry-to-normal-skin",
+"p": 11.4,
+"c": 12.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/abMdHBWUTk.jpg?v=1792488451&width=400",
+"type": "Skincare",
+"tags": [
+"Beauty",
+"Face",
+"Skin Care"
+],
+"in": true
+},
+{
+"t": "Acnomix Acne Cream Salicylic Acid",
+"u": "https://www.hicart.com/products/acnomix-acne-cream-salicylic-acid",
+"p": 12.83,
+"c": 13.5,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/oaftaQ0W8d.jpg?v=1792488452&width=400",
+"type": "Skincare",
+"tags": [
+"Beauty",
+"Face",
+"Skin Care"
+],
+"in": true
+},
+{
+"t": "Aderma Protect X-Trem Invisible Stick Spf50+ 8G",
+"u": "https://www.hicart.com/products/aderma-protect-x-trem-invisible-stick-spf50-8g",
+"p": 21.85,
+"c": 23.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/OQO7H6o7Rx.jpg?v=1792488451&width=400",
+"type": "Skincare",
+"tags": [
+"Beauty",
+"Skin Care",
+"Solar"
+],
+"in": true
+},
+{
+"t": "Acm Azeane Cream 15% Azelaic Acid 30Ml",
+"u": "https://www.hicart.com/products/acm-azeane-cream-15-azelaic-acid-30ml",
+"p": 30.4,
+"c": 32.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/vO4uzhT0Bp.jpg?v=1792488451&width=400",
+"type": "Skincare",
+"tags": [
+"Beauty",
+"Face",
+"Skin Care"
+],
+"in": true
+},
+{
+"t": "Acnomix Acne Control Body Spray 125Ml",
+"u": "https://www.hicart.com/products/acnomix-acne-control-body-spray-125ml",
+"p": 17.1,
+"c": 18.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/qJylt74GZR.jpg?v=1792488451&width=400",
+"type": "Skincare",
+"tags": [
+"Baby & Toddler",
+"Baby & Toys",
+"Bath & Skin Care"
+],
+"in": true
+},
+{
+"t": "Lofra Gas Hob 90cm 6 Gas Burners, 1 Triple Crown, Gas Stop Safety Device, Timer, Ignition [Stainless Steel], LOF-HLS9S0",
+"u": "https://www.hicart.com/products/lofra-gas-hob-90cm-6-gas-burners-1-triple-crown-gas-stop-safety-device-timer-ignition-stainless-steel-lof-hls9s0",
+"p": 1120.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/JMhDZ8Oqng.jpg?v=1792415757&width=400",
+"type": "Cookers,Large Appliances",
+"tags": [
+"Cookers"
+],
+"in": true
+},
+{
+"t": "Bebejou, Bath Sense Edition BBJ Breeze Green, Bath stand Sense BBJ Breeze Green, Slang met koppeling Sense BBJ, Digital Unit Sense Edition",
+"u": "https://www.hicart.com/products/bebejou-bath-sense-edition-bbj-breeze-green-bath-stand-sense-bbj-breeze-green-slang-met-koppeling-sense-bbj-digital-unit-sense-edition",
+"p": 180.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0794/3664/4572/files/KBjrVKW3os.jpg?v=1792483016&width=400",
+"type": "Baby & Toys",
+"tags": [
+"Baby & Toddler",
+"Baby & Toys",
+"Bath & Skin Care",
+"Bebejou",
+"Bundles"
 ],
 "in": true
 }

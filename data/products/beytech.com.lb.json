@@ -1665,7 +1665,6 @@
 "img": "https://beytech.com.lb/wp-content/uploads/2026/10/MOA2-3201VGRIM-30CM-FT2-INX-247x247.jpg",
 "type": "Hobs, Home Appliances, Large Appliances",
 "tags": [
-"Built-in gas hob",
 "Built-in hob",
 "Hobs",
 "simfer"
@@ -1681,8 +1680,8 @@
 "img": "https://beytech.com.lb/wp-content/uploads/2026/10/MFA3-9102CGRSP-BI90-BG-247x247.jpg",
 "type": "Home Appliances, Large Appliances, Our Brands",
 "tags": [
-"Built-in",
-"Built-In oven",
+"built in oven",
+"Ovens",
 "simfer"
 ],
 "in": true
@@ -1696,8 +1695,8 @@
 "img": "https://beytech.com.lb/wp-content/uploads/2026/10/MFA1-6102AGRIM-BI60-IX-247x247.jpg",
 "type": "Home Appliances, Large Appliances, Our Brands",
 "tags": [
-"Built-in",
-"Built-In oven",
+"built in oven",
+"Ovens",
 "simfer"
 ],
 "in": true
@@ -1711,8 +1710,8 @@
 "img": "https://beytech.com.lb/wp-content/uploads/2026/10/MFA1-6102CGRSP-BI60-BG-247x247.jpg",
 "type": "Home Appliances, Large Appliances, Our Brands",
 "tags": [
-"Built-in",
-"Built-In oven",
+"built in oven",
+"Ovens",
 "simfer"
 ],
 "in": true
@@ -29282,8 +29281,10 @@
 "img": "https://beytech.com.lb/wp-content/uploads/2026/09/Bundle-247x247.jpg",
 "type": "Autumn Offers 🍂, Fresh, Hobs",
 "tags": [
+"built in oven",
+"Built-in hob",
 "Fresh",
-"Gas",
+"Hobs",
 "Oven"
 ],
 "in": true
@@ -35057,11 +35058,11 @@
 {
 "t": "Moulinex AR110830 Black Coffee Grinder – 180W, 50g Capacity",
 "u": "https://beytech.com.lb/product/moulinex-ar110830-black-coffee-grinder-180w-50g-capacity/",
-"p": 42.0,
-"c": null,
+"p": 34.0,
+"c": 42.0,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/01/AR110830-247x247.jpg",
-"type": "Breakfast, Coffee Makers, Home Appliances",
+"type": "Autumn Offers 🍂, Breakfast, Coffee Makers",
 "tags": [
 "Coffee Grinder",
 "Coffee Machine",
@@ -35114,11 +35115,11 @@
 {
 "t": "Moulinex FP827E27 Food Processor – 1000W, Double Force, Digital",
 "u": "https://beytech.com.lb/product/moulinex-fp827e27-food-processor-1000w-double-force-digital/",
-"p": 249.0,
-"c": null,
+"p": 212.0,
+"c": 249.0,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/01/FP827E27-247x247.jpg",
-"type": "Food Preparation, Food Processors, Home Appliances",
+"type": "Autumn Offers 🍂, Food Preparation, Food Processors",
 "tags": [
 "Food processors",
 "Kitchen Machine",
@@ -35879,8 +35880,9 @@
 "img": "https://beytech.com.lb/wp-content/uploads/2025/12/AO-455H-X-247x247.jpg",
 "type": "Ariston, Home Appliances, Large Appliances",
 "tags": [
-"Electric",
-"Oven"
+"Ariston",
+"built in oven",
+"Ovens"
 ],
 "in": true
 },
@@ -35893,8 +35895,9 @@
 "img": "https://beytech.com.lb/wp-content/uploads/2025/12/AO-435H-B-1-247x247.jpg",
 "type": "Ariston, Home Appliances, Large Appliances",
 "tags": [
-"Electric",
-"Oven"
+"Ariston",
+"built in oven",
+"Ovens"
 ],
 "in": true
 },
@@ -35907,8 +35910,9 @@
 "img": "https://beytech.com.lb/wp-content/uploads/2025/12/FA3-540-H-IX-A-1-247x247.jpg",
 "type": "Ariston, Home Appliances, Large Appliances",
 "tags": [
-"Electric",
-"Oven"
+"Ariston",
+"built in oven",
+"Ovens"
 ],
 "in": true
 },
@@ -35921,8 +35925,9 @@
 "img": "https://beytech.com.lb/wp-content/uploads/2025/12/AO-235H-X-A-1-247x247.jpg",
 "type": "Ariston, Home Appliances, Large Appliances",
 "tags": [
-"Electric",
-"Oven"
+"Ariston",
+"built in oven",
+"Ovens"
 ],
 "in": true
 },
@@ -35935,8 +35940,9 @@
 "img": "https://beytech.com.lb/wp-content/uploads/2025/12/FA3-530-BL-247x247.jpg",
 "type": "Ariston, Home Appliances, Large Appliances",
 "tags": [
-"Electric",
-"Oven"
+"Ariston",
+"built in oven",
+"Ovens"
 ],
 "in": true
 },
@@ -39137,7 +39143,7 @@
 "Kitchen",
 "Korkmaz"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Korkmaz A3919 Palma 7 pcs Cookware Set",
@@ -39256,7 +39262,7 @@
 "Korkmaz",
 "Tray"
 ],
-"in": true
+"in": false
 },
 {
 "t": "kenwood STP75  000WB Steam Iron 2600W with Ceramic Soleplate",
@@ -44244,7 +44250,7 @@
 "in": true
 },
 {
-"t": "Skyworth 43Q5600H  TV 43” QLED, 2K GOOGLE TV, CHROMECAST BUILT-IN",
+"t": "Skyworth 43Q5600H 43” QLED 2K Google TV with Built-In Chromecast",
 "u": "https://beytech.com.lb/product/skyworth-43q5600h-tv-43-qled-2k-google-tv-chromecast-built-in/",
 "p": 269.0,
 "c": null,
