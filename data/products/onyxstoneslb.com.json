@@ -1,5 +1,20 @@
 [
 {
+"t": "Necklace Moon Collection Silver",
+"u": "https://www.onyxstoneslb.com/products/necklace-moon-collection-silver",
+"p": 30.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0094/1925/9959/files/f88a0d96-02e1-4d84-9ff3-57676c8b1317.jpg?v=1793364648&width=400",
+"type": "Necklaces Woman",
+"tags": [
+"Necklaces",
+"new arraivals",
+"New2026"
+],
+"in": true
+},
+{
 "t": "Necklace Drop Natural Stone",
 "u": "https://www.onyxstoneslb.com/products/necklace-drop-natural-stone",
 "p": 30.0,
@@ -81,7 +96,7 @@
 "in": true
 },
 {
-"t": "Aura Necklace",
+"t": "Necklace Aura",
 "u": "https://www.onyxstoneslb.com/products/aura-necklace",
 "p": 30.0,
 "c": null,
@@ -179,7 +194,7 @@
 "in": true
 },
 {
-"t": "The Sun Collection",
+"t": "Necklace The Sun Collection",
 "u": "https://www.onyxstoneslb.com/products/the-sun-collection",
 "p": 30.0,
 "c": null,
@@ -194,8 +209,8 @@
 "in": true
 },
 {
-"t": "The Love Collection",
-"u": "https://www.onyxstoneslb.com/products/love-collection",
+"t": "Necklace The Love Collection",
+"u": "https://www.onyxstoneslb.com/products/necklace-the-love-collection",
 "p": 30.0,
 "c": null,
 "cur": "USD",
@@ -209,7 +224,7 @@
 "in": true
 },
 {
-"t": "The Moon Collection",
+"t": "Necklace The Moon Collection Gold",
 "u": "https://www.onyxstoneslb.com/products/the-moon-collection",
 "p": 30.0,
 "c": null,
@@ -492,17 +507,6 @@
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0094/1925/9959/files/WhatsAppImage2026-06-18at3.11.35PM.jpg?v=1781869428&width=400",
 "type": "Earing",
-"tags": [],
-"in": true
-},
-{
-"t": "Bracelet Elastic Unisex Lava/Onyx and your Choice of Stones 8mm",
-"u": "https://www.onyxstoneslb.com/products/bracelet-elastic-unisex-lava-onyx-and-your-choise-of-stones",
-"p": 10.0,
-"c": 15.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0094/1925/9959/products/WhatsAppImage2021-09-10at12.55.25PM.jpg?v=1631268271&width=400",
-"type": "Bracelet Beads Man",
 "tags": [],
 "in": true
 },
@@ -990,8 +994,8 @@
 "in": true
 },
 {
-"t": "Rings Stainless Steel Hindu Green Jade",
-"u": "https://www.onyxstoneslb.com/products/rings-stainless-steel-hindu-green-jade",
+"t": "Rings Hindu Green Jade",
+"u": "https://www.onyxstoneslb.com/products/rings-hindu-green-jade",
 "p": 15.0,
 "c": null,
 "cur": "USD",
@@ -1452,7 +1456,7 @@
 },
 {
 "t": "Necklace Astrology Collection",
-"u": "https://www.onyxstoneslb.com/products/necklace-astrology-collection-gold",
+"u": "https://www.onyxstoneslb.com/products/necklace-astrology-collection",
 "p": 21.0,
 "c": 30.0,
 "cur": "USD",
@@ -2047,7 +2051,7 @@
 },
 {
 "t": "Necklace Raw Natural Stones",
-"u": "https://www.onyxstoneslb.com/products/necklace-classic-raw-natural-stones",
+"u": "https://www.onyxstoneslb.com/products/necklace-raw-natural-stones",
 "p": 30.0,
 "c": null,
 "cur": "USD",
