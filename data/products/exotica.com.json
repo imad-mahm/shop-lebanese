@@ -50,7 +50,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/petalkiss.jpg?v=1735637858&width=400",
 "type": "Flowers",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Custom Order",
@@ -173,7 +173,7 @@
 "Love & Romance",
 "Red"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Pink Harmony",
@@ -247,7 +247,7 @@
 "Pink October",
 "Roses"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Colorful Moments",
@@ -658,7 +658,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/FRA08095_d137cc4f-31b5-436a-b942-81a52ecaa393.jpg?v=1789811092&width=400",
 "type": "Add-Ons",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Silky Dracaena",
@@ -879,7 +879,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/ColoursofFall_2.png?v=1789626006&width=400",
 "type": "Flowers",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Fallen Leaves",
@@ -1352,7 +1352,7 @@
 "Pink October",
 "Roses"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Matcha Buttercream",
@@ -1706,7 +1706,7 @@
 "Pink",
 "preorder"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Love in Full Bloom",
@@ -1861,7 +1861,7 @@
 "Gift Bundles",
 "Mixed Flowers"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Rifai Dried and Stuffed Fruits",
@@ -2517,7 +2517,7 @@
 "Indoor Plants",
 "Plants"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Blossoms of Spring",
@@ -2878,7 +2878,7 @@
 "Indoor Plants",
 "Plants"
 ],
-"in": true
+"in": false
 },
 {
 "t": "You Shine",
@@ -3307,7 +3307,7 @@
 {
 "t": "Hallab Baklava Tin Box - 630 g",
 "u": "https://exotica.com/products/hallab-baklava-tin-box-630-g",
-"p": 18.0,
+"p": 24.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/HallabBaklava_be3dd2b6-e2d1-4656-9bd6-7bf860fbed3f.jpg?v=1766144197&width=400",
@@ -3409,7 +3409,7 @@
 "Get Well Soon",
 "Housewarming"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Grand Christmas Star",
@@ -3869,7 +3869,7 @@
 "Plants",
 "Small"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Bonsai Ligustrum",
@@ -3945,7 +3945,7 @@
 "Pink",
 "Pink October"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Inner Peace",
@@ -4219,7 +4219,7 @@
 "Fuschia",
 "Graduation"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Pink Bliss",
@@ -4687,7 +4687,7 @@
 "New Born",
 "Teddy Bears"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Add Large Vase",
@@ -4792,7 +4792,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Blush-Crush.jpg?v=1749537215&width=400",
 "type": "Flowers",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Sablés Gourmets Small Box",
@@ -4843,7 +4843,7 @@
 "Fuschia",
 "Graduation"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Bonsai Essence",
@@ -4984,7 +4984,7 @@
 "Get Well Soon",
 "Love & Romance"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Artistic Touch",
@@ -5063,7 +5063,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/0002_pesco_cc8165f6-d444-4e61-9336-10b2dd4556b6.jpg?v=1746426355&width=400",
 "type": "",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Artificial Lemon Tree",
@@ -5194,7 +5194,7 @@
 "Graduation",
 "Handheld Bouquets"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Rainbow Feels",
@@ -5323,7 +5323,7 @@
 "tags": [
 "Wine & Spirits"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Add Vase",
@@ -5412,7 +5412,7 @@
 "For Teta",
 "Get Well Soon"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Ficus Nitida",
@@ -5953,7 +5953,7 @@
 "Love & Romance",
 "Red"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Classic Symbol of Love",
