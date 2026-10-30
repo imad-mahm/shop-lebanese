@@ -1044,7 +1044,7 @@
 "img": "https://curlygirlaccessories.com/wp-content/uploads/2026/09/revueleshampooandcurlbounce-300x300.webp",
 "type": "Shampoo",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "As I Am Color Hot Red 85g",
@@ -2065,7 +2065,7 @@
 "img": "https://curlygirlaccessories.com/wp-content/uploads/2026/06/14260233003-1-300x300.jpg",
 "type": "Brushes &amp; Combs",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "WETBRUSH PADDLE DETANGLER PURPLE",
@@ -2076,7 +2076,7 @@
 "img": "https://curlygirlaccessories.com/wp-content/uploads/2026/06/Purple-1-1-300x300.jpg",
 "type": "Leave-In",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "WETBRUSH PADDLE DETANGLER PINK",
@@ -2087,7 +2087,7 @@
 "img": "https://curlygirlaccessories.com/wp-content/uploads/2026/06/images-2-300x300.jpeg",
 "type": "Leave-In",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "WETBRUSH PADDLE DETANGLER BLACK",
@@ -2109,7 +2109,7 @@
 "img": "https://curlygirlaccessories.com/wp-content/uploads/2026/06/images-300x300.jpeg",
 "type": "Brushes &amp; Combs",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Denman Classic Styling Brush 7 Rows D3",
@@ -2164,7 +2164,7 @@
 "img": "https://curlygirlaccessories.com/wp-content/uploads/2026/06/wet-brush-purple-2-332895-300x300.webp",
 "type": "Brushes &amp; Combs",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Wet Brush Original Detangler – Frost Pink",
@@ -2230,7 +2230,7 @@
 "img": "https://curlygirlaccessories.com/wp-content/uploads/2026/06/18161C-300x300.jpg",
 "type": "Brushes &amp; Combs",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Wet Brush Original Detangler | Sky | BWR830SKYD",
@@ -2252,7 +2252,7 @@
 "img": "https://curlygirlaccessories.com/wp-content/uploads/2026/06/wet-brush-original-detangler-black-1589360392-300x300.jpg",
 "type": "Brushes &amp; Combs",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Tote Bag",
@@ -8881,23 +8881,6 @@
 "in": false
 },
 {
-"t": "Easy wet brush",
-"u": "https://curlygirlaccessories.com/product/easy-wet-brush/",
-"p": 9.0,
-"c": null,
-"cur": "USD",
-"img": "https://curlygirlaccessories.com/wp-content/uploads/2025/06/3066538608-300x300.jpg",
-"type": "Brushes &amp; Combs",
-"tags": [
-"All Products",
-"Brushes",
-"Curly Girl Accessories SHOP",
-"Curly Kids",
-"Curly Tools"
-],
-"in": true
-},
-{
 "t": "Bounce Curl Curly Trial & Travel Kit",
 "u": "https://curlygirlaccessories.com/product/bounce-curl-curly-trial-travel-kit/",
 "p": 87.4,
@@ -9736,7 +9719,7 @@
 "Clarifying Shampoo",
 "Heat Damaged &amp; Colored Hair High Porosity Curly Hair"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Cantu Avocado Hydrating Conditioner",
@@ -11107,6 +11090,23 @@
 "Curly Kids"
 ],
 "in": false
+},
+{
+"t": "High Copy Tangle Teazer brush",
+"u": "https://curlygirlaccessories.com/product/easy-wet-brush/",
+"p": 9.0,
+"c": null,
+"cur": "USD",
+"img": "https://curlygirlaccessories.com/wp-content/uploads/2025/06/3066538608-300x300.jpg",
+"type": "Brushes &amp; Combs",
+"tags": [
+"All Products",
+"Brushes",
+"Curly Girl Accessories SHOP",
+"Curly Kids",
+"Curly Tools"
+],
+"in": true
 },
 {
 "t": "Brylcreem Strong Hair Gel 150ml",

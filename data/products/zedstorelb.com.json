@@ -1,5 +1,94 @@
 [
 {
+"t": "Lancôme Be Your Idôle Travel Exclusive Set",
+"u": "https://zedstorelb.com/products/lancome-be-your-idole-travel-exclusive-set-1",
+"p": 63.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/3660732684205_5005610_Lanc_me_Be_Your_Idole_Set____5005610_TM767300_1_vglyu4.png?v=1793297288&width=400",
+"type": "Perfume Gift Set",
+"tags": [
+"Fragrance",
+"Gift Set",
+"Lancôme",
+"New Arrivals",
+"Perfume"
+],
+"in": true
+},
+{
+"t": "Lancôme La Collection de Parfums Travel Exclusive Miniature Set, 5 Pcs",
+"u": "https://zedstorelb.com/products/lancome-la-collection-de-parfums-travel-exclusive-miniature-set-5-pcs",
+"p": 77.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/lancome-la-collection-de-parfums-travel-exclusive-coffret-5-miniatures.png?v=1793297218&width=400",
+"type": "Perfume Gift Set",
+"tags": [
+"Fragrance",
+"Gift Set",
+"Lancôme",
+"New Arrivals",
+"Perfume"
+],
+"in": true
+},
+{
+"t": "Dali 76 Raspberry Nail Polish",
+"u": "https://zedstorelb.com/products/dali-76-raspberry-nail-polish",
+"p": 0.0,
+"c": 2.5,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/5280060140761_1400x_5e7715d5-09c0-4397-9527-2e0eb16c2c8e.webp?v=1793296570&width=400",
+"type": "Nail Polish",
+"tags": [],
+"in": true
+},
+{
+"t": "Dali 80 Nightfall Nail Polish",
+"u": "https://zedstorelb.com/products/dali-80-nightfall-nail-polish",
+"p": 2.5,
+"c": 2.5,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/5280060140808_1400x_e8a28472-8c95-4dc3-9dbb-8dbab5b784ba.webp?v=1793295911&width=400",
+"type": "naiil polish",
+"tags": [],
+"in": true
+},
+{
+"t": "Dali 81 Dark Fig Nail Polish",
+"u": "https://zedstorelb.com/products/dali-81-dark-fig-nail-polish",
+"p": 2.5,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/5280060140815_1400x_6b83258c-762d-42d5-a49d-419ca01fd937.webp?v=1793294867&width=400",
+"type": "naiil polish",
+"tags": [],
+"in": true
+},
+{
+"t": "Dali 78 Aubergine Nail Polish",
+"u": "https://zedstorelb.com/products/dali-78-aubergine-nail-polish",
+"p": 2.5,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/5280060140785_1400x_d69c51cc-2902-4c1c-bd3c-919e8c0d2907.webp?v=1793294162&width=400",
+"type": "Nail Polish",
+"tags": [],
+"in": true
+},
+{
+"t": "Dali 79 Dusty Pink Nail Polish",
+"u": "https://zedstorelb.com/products/dali-79-dusty-pink-nail-polish",
+"p": 2.5,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/5280060140792_1400x_610f20e8-9373-481f-a8bc-ca6a0b16a1c4.webp?v=1793293992&width=400",
+"type": "Nail Polish",
+"tags": [],
+"in": true
+},
+{
 "t": "L'Oreal Professionnel Serie Expert Absolut Repair 10-in-1 Oil",
 "u": "https://zedstorelb.com/products/loreal-professionnel-serie-expert-absolut-repair-10-in-1-oil",
 "p": 42.0,
@@ -4073,7 +4162,7 @@
 "tags": [
 "sephoracollection"
 ],
-"in": false
+"in": true
 },
 {
 "t": "NYX Professional Makeup Wonder Stick - WSB05 Bright Amber + Fuchsia",
@@ -4160,7 +4249,7 @@
 "tags": [
 "sephoracollection"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Lancome Be Your Idole Travel Exclusive Set",
@@ -4610,7 +4699,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/01_e3b03084-0a5c-47db-bb1a-fcf1bd3ee8fd.webp?v=1787004908&width=400",
 "type": "Eye Care",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Dr. Melaxin Eyephalt EP Retinol Eyebag Cream",
@@ -7831,7 +7920,7 @@
 "freegift",
 "giftcollection"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Free Gift L'Oreal Apron Pink",
@@ -10583,7 +10672,7 @@
 "tags": [
 "sephoracollection"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Too Faced Dream A Little Dream Makeup Gift Set: Cloud Crush Blush & Kissing Jelly Lip Oil",
@@ -24165,7 +24254,7 @@
 "koreancollection",
 "sephoracollection"
 ],
-"in": true
+"in": false
 },
 {
 "t": "The Secret Key Snow White Milky Lotion",
@@ -27138,7 +27227,7 @@
 {
 "t": "Rare Beauty Soft Pinch Luminous Powder Blush",
 "u": "https://zedstorelb.com/products/rare-beauty-soft-pinch-luminous-powder-blush",
-"p": 45.0,
+"p": 35.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/61qqTaBDVbL._SL1500.jpg?v=1744462038&width=400",
@@ -27146,7 +27235,7 @@
 "tags": [
 "sephoracollection"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Charlotte Tilbury The Power of Scent to Unlock Emotions eau de parfum gift set 6 x 1.5ml",
@@ -38228,108 +38317,5 @@
 "Bourjois Twist Up The Volume Mascara 03-Ultra Blue"
 ],
 "in": true
-},
-{
-"t": "Avene Vitamin Activ Cg Radiance intensive cream 50ml",
-"u": "https://zedstorelb.com/products/avene-vitamin-activ-cg-radiance-intensive-cream-50ml",
-"p": 43.2,
-"c": 48.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/u5wa3z31qn5se4weesmc8cm4cm7t7bgprrdawjo.webp?v=1726053979&width=400",
-"type": "Face cream",
-"tags": [
-"Avene Vitamin Activ Cg Radiance intensive cream 50ml",
-"dryskincollection"
-],
-"in": true
-},
-{
-"t": "Bath And Body Works Fine Fragrance Mist 236ml - Sweet Heart Cherry",
-"u": "https://zedstorelb.com/products/bath-and-body-works-fine-fragrance-mist-236ml-sweet-heart-cherry",
-"p": 15.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/Studio-Project-2024-09-10T133320.780.jpg?v=1725964434&width=400",
-"type": "body Splash",
-"tags": [
-"Bath And Body Works Fine Fragrance Mist 236ml",
-"sephoracollection",
-"splashlotion"
-],
-"in": false
-},
-{
-"t": "Bath And Body Works Fine Fragrance Mist 236ml - Strawberry Pound Cake",
-"u": "https://zedstorelb.com/products/bath-and-body-works-fine-fragrance-mist-236ml-strawberry-pound-cake",
-"p": 15.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/026590643.jpg?v=1736785044&width=400",
-"type": "body Splash",
-"tags": [
-"Bath And Body Works Fine Fragrance Mist 236ml",
-"sephoracollection",
-"splashlotion"
-],
-"in": false
-},
-{
-"t": "Bath And Body Works Fine Fragrance Mist 236ml - Thailand Sweet Kiwi & Starfruit",
-"u": "https://zedstorelb.com/products/bath-and-body-works-fine-fragrance-mist-236ml-thailand-sweet-kiwi-starfruit",
-"p": 15.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/Studio-Project-2024-09-10T132211.811.jpg?v=1725963762&width=400",
-"type": "body Splash",
-"tags": [
-"Bath And Body Works Fine Fragrance Mist 236ml",
-"sephoracollection",
-"splashlotion"
-],
-"in": false
-},
-{
-"t": "Bath And Body Works Fine Fragrance Mist 236ml - Hello Beautiful",
-"u": "https://zedstorelb.com/products/bath-and-body-works-fine-fragrance-mist-236ml-hello-beautiful",
-"p": 15.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/Studio-Project-2024-09-10T125808.621.jpg?v=1725962357&width=400",
-"type": "body Splash",
-"tags": [
-"Bath And Body Works Fine Fragrance Mist 236ml",
-"sephoracollection",
-"splashlotion"
-],
-"in": false
-},
-{
-"t": "Bath And Body Works Fine Fragrance Mist 236ml - Costa Rica Pink Pineaplle Sunrise",
-"u": "https://zedstorelb.com/products/bath-and-body-works-fine-fragrance-mist-236ml-costa-rica-pink-pineaplle-sunrise",
-"p": 15.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/Studio-Project-2024-09-10T125317.948.jpg?v=1725962017&width=400",
-"type": "body Splash",
-"tags": [
-"Bath And Body Works Fine Fragrance Mist 236ml",
-"sephoracollection",
-"splashlotion"
-],
-"in": false
-},
-{
-"t": "Lancome Trésor Gift Set",
-"u": "https://zedstorelb.com/products/lancome-tresor-gift-set",
-"p": 40.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/130082-0-0-0.jpg?v=1725833554&width=400",
-"type": "gift set",
-"tags": [
-"Lancome Trésor Gift Set",
-"sephoracollection"
-],
-"in": false
 }
 ]
