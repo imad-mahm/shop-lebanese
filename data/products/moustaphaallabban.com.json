@@ -26304,17 +26304,6 @@
 "in": true
 },
 {
-"t": "Shiseido Synchro Skin Gelstick Concealer",
-"u": "https://moustaphaallabban.com/products/shiseido-synchro-skin-gelstick-concealer",
-"p": 34.2,
-"c": 38.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/products/730852157132.jpg?v=1612462092&width=400",
-"type": "Shiseido Makeup",
-"tags": [],
-"in": true
-},
-{
 "t": "Shiseido Synchro Skin Glow Fdt",
 "u": "https://moustaphaallabban.com/products/shiseido-smk-synchro-skin-glow-fdt",
 "p": 40.54,
@@ -42834,6 +42823,22 @@
 "c": 160.95,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/products/3473311421005.jpg?v=1680874732&width=400",
+"type": "Sisley Skincare",
+"tags": [
+"Skin Care",
+"SKINCARE",
+"Skincare Sale",
+"view all Luxury skincare"
+],
+"in": true
+},
+{
+"t": "Sisley Black Rose Skin Infusion Cream",
+"u": "https://moustaphaallabban.com/products/sisley-black-rose-skin-infusion-cream",
+"p": 225.47,
+"c": 250.53,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/products/3473311320506.jpg?v=1680874591&width=400",
 "type": "Sisley Skincare",
 "tags": [
 "Skin Care",

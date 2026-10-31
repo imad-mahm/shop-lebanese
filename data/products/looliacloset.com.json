@@ -13,7 +13,8 @@
 "CPD_Bundle",
 "Factorybundle",
 "L'Oréal Paris",
-"OAP_MU_BF"
+"OAP_MU_BF",
+"Valued Bundles"
 ],
 "in": true
 },
@@ -31,7 +32,8 @@
 "CPD_Bundle",
 "Factorybundle",
 "L'Oréal Paris",
-"OAP_MU_BF"
+"OAP_MU_BF",
+"Valued Bundles"
 ],
 "in": true
 },
@@ -49,7 +51,8 @@
 "CPD_Bundle",
 "Factorybundle",
 "L'Oréal Paris",
-"OAP_MU_BF"
+"OAP_MU_BF",
+"Valued Bundles"
 ],
 "in": true
 },
@@ -67,7 +70,8 @@
 "CPD_Bundle",
 "Factorybundle",
 "L'Oréal Paris",
-"OAP_MU_BF"
+"OAP_MU_BF",
+"Valued Bundles"
 ],
 "in": true
 },
@@ -85,7 +89,8 @@
 "CPD_Bundle",
 "Factorybundle",
 "L'Oréal Paris",
-"OAP_MU_BF"
+"OAP_MU_BF",
+"Valued Bundles"
 ],
 "in": true
 },
@@ -103,7 +108,8 @@
 "CPD_Bundle",
 "Factorybundle",
 "L'Oréal Paris",
-"OAP_MU_BF"
+"OAP_MU_BF",
+"Valued Bundles"
 ],
 "in": true
 },
@@ -121,7 +127,8 @@
 "CPD_Bundle",
 "Factorybundle",
 "L'Oréal Paris",
-"OAP_MU_BF"
+"OAP_MU_BF",
+"Valued Bundles"
 ],
 "in": true
 },
@@ -138,7 +145,8 @@
 "CPD_BlackNov26",
 "Factorybundle",
 "NYX Professional Makeup",
-"Nyx_BF_Bundle"
+"Nyx_BF_Bundle",
+"Valued Bundles"
 ],
 "in": false
 },
@@ -155,7 +163,8 @@
 "CPD_BlackNov26",
 "Factorybundle",
 "NYX Professional Makeup",
-"Nyx_BF_Bundle"
+"Nyx_BF_Bundle",
+"Valued Bundles"
 ],
 "in": true
 },
@@ -172,7 +181,8 @@
 "CPD_BlackNov26",
 "Factorybundle",
 "NYX Professional Makeup",
-"Nyx_BF_Bundle"
+"Nyx_BF_Bundle",
+"Valued Bundles"
 ],
 "in": false
 },
@@ -189,7 +199,8 @@
 "CPD_BlackNov26",
 "Factorybundle",
 "NYX Professional Makeup",
-"Nyx_BF_Bundle"
+"Nyx_BF_Bundle",
+"Valued Bundles"
 ],
 "in": false
 },
@@ -206,7 +217,8 @@
 "CPD_BlackNov26",
 "Factorybundle",
 "NYX Professional Makeup",
-"Nyx_BF_Bundle"
+"Nyx_BF_Bundle",
+"Valued Bundles"
 ],
 "in": false
 },
@@ -223,7 +235,8 @@
 "CPD_BlackNov26",
 "Factorybundle",
 "NYX Professional Makeup",
-"Nyx_BF_Bundle"
+"Nyx_BF_Bundle",
+"Valued Bundles"
 ],
 "in": false
 },
@@ -240,7 +253,8 @@
 "CPD_BlackNov26",
 "Factorybundle",
 "NYX Professional Makeup",
-"Nyx_BF_Bundle"
+"Nyx_BF_Bundle",
+"Valued Bundles"
 ],
 "in": true
 },
@@ -257,7 +271,8 @@
 "CPD_BlackNov26",
 "Factorybundle",
 "NYX Professional Makeup",
-"Nyx_BF_Bundle"
+"Nyx_BF_Bundle",
+"Valued Bundles"
 ],
 "in": true
 },
@@ -274,7 +289,8 @@
 "CPD_BlackNov26",
 "Factorybundle",
 "NYX Professional Makeup",
-"Nyx_BF_Bundle"
+"Nyx_BF_Bundle",
+"Valued Bundles"
 ],
 "in": false
 },
@@ -292,9 +308,10 @@
 "CPD_Bundle",
 "Factorybundle",
 "Maybelline New York",
-"MNY_BF_Bundle"
+"MNY_BF_Bundle",
+"Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Colossal Bubble Mascara + Foundation + Lipstick + FREE Vanity Bag At 30% OFF",
@@ -310,7 +327,8 @@
 "CPD_Bundle",
 "Factorybundle",
 "Maybelline New York",
-"MNY_BF_Bundle"
+"MNY_BF_Bundle",
+"Valued Bundles"
 ],
 "in": true
 },
@@ -328,7 +346,8 @@
 "CPD_Bundle",
 "Factorybundle",
 "Maybelline New York",
-"MNY_BF_Bundle"
+"MNY_BF_Bundle",
+"Valued Bundles"
 ],
 "in": true
 },
@@ -346,7 +365,8 @@
 "CPD_Bundle",
 "Factorybundle",
 "Maybelline New York",
-"MNY_BF_Bundle"
+"MNY_BF_Bundle",
+"Valued Bundles"
 ],
 "in": true
 },
@@ -364,7 +384,8 @@
 "CPD_Bundle",
 "Factorybundle",
 "Maybelline New York",
-"MNY_BF_Bundle"
+"MNY_BF_Bundle",
+"Valued Bundles"
 ],
 "in": true
 },
@@ -382,7 +403,8 @@
 "CPD_Bundle",
 "Factorybundle",
 "Maybelline New York",
-"MNY_BF_Bundle"
+"MNY_BF_Bundle",
+"Valued Bundles"
 ],
 "in": true
 },
@@ -399,9 +421,10 @@
 "CPD_BlackNov26",
 "Factorybundle",
 "Mixa",
-"Mixa_BF_Bundle"
+"Mixa_BF_Bundle",
+"Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Any Body Lotion 400ml + Cream Jar + FREE Pouch At 20% OFF",
@@ -416,7 +439,8 @@
 "CPD_BlackNov26",
 "Factorybundle",
 "Mixa",
-"Mixa_BF_Bundle"
+"Mixa_BF_Bundle",
+"Valued Bundles"
 ],
 "in": true
 },
@@ -433,7 +457,8 @@
 "CPD_BlackNov26",
 "Factorybundle",
 "Mixa",
-"Mixa_BF_Bundle"
+"Mixa_BF_Bundle",
+"Valued Bundles"
 ],
 "in": true
 },
@@ -885,7 +910,7 @@
 "Factorybundle",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Cleanance Cleansing Gel 400ml + Cleanance Comedomed  + FREE Night Cream + FREE Cleansing Gel At 35% OFF",
@@ -1994,7 +2019,7 @@
 "Fragrance Set",
 "lld-new-feb13"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Rénergie Triple Serum Set",
@@ -2438,7 +2463,7 @@
 "Eye Masks",
 "FEATURED_PRODUCTS"
 ],
-"in": true
+"in": false
 },
 {
 "t": "PDRN Pink One Day Serum",
@@ -3010,7 +3035,7 @@
 "Maybelline New York",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Brave Together – Lifter Gloss + Lifter Stix + Lifter Liner At 20% OFF",
@@ -3136,7 +3161,7 @@
 "L'Oréal Professionnel",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Liss Unlimited Shampoo + Liss Unlimited Mask At 15% OFF",
@@ -4264,7 +4289,7 @@
 "Maybelline New York",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Lifter Serum Concealer + Lifter Gloss Lip Gloss + Lifter Liner Lip Liner + FREE Brush At 20% OFF",
@@ -4282,7 +4307,7 @@
 "Maybelline New York",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "2x Lifter Serum Concealer + FREE Brush At 20% OFF",
@@ -4300,7 +4325,7 @@
 "Maybelline New York",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Eco Tools Brush Retractable Face",
@@ -4786,7 +4811,7 @@
 "le_defile26",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Elvive Glycolic Gloss Shampoo + Conditioner + Leave-in + FREE Le Defile Pouch At 15% OFF",
@@ -5462,7 +5487,7 @@
 "Rice_Water",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Gift From Mustela : Hydra Bebe Body Lotion 50ml",
@@ -15524,7 +15549,7 @@
 "hide_product_status",
 "SEARCHANISE_IGNORE"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Dercos Energy + Stimulating and Anti Hair Loss Shampoo with Aminexil",
@@ -15916,7 +15941,7 @@
 "Discount_26",
 "FEATURED_PRODUCTS"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Sugar Body Scrub Skin Food Exfoliating Care",
@@ -20424,7 +20449,7 @@
 "CPD_ex_april26",
 "CPD_EXC_17March"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Superman Beautifying Face Powder",
@@ -21871,7 +21896,7 @@
 "serum",
 "Skin Care"
 ],
-"in": true
+"in": false
 },
 {
 "t": "NAD+ Peptide Boosting Serum",
@@ -23319,7 +23344,7 @@
 "Mother's_Day26",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Vitamin Activ Cg Radiance Intensive Cream",
@@ -24034,7 +24059,7 @@
 "glow-night",
 "kbeauty-jan-26"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Heartleaf Quercetinol Pore Deep Cleansing Foam",
@@ -25645,7 +25670,7 @@
 "CPD_FS26",
 "Discount_26"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Care Bears Hair Brush",
@@ -33145,7 +33170,7 @@
 "Black Friday | Up To 40%",
 "Black Friday | Up To 50%"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Dexyane Anti-Scratching Emollient Cream",
@@ -38335,7 +38360,7 @@
 "COSRX_SOMEBYMI",
 "discount-20-and-under"
 ],
-"in": true
+"in": false
 },
 {
 "t": "BHA Blackhead Power Liquid",
@@ -47977,7 +48002,7 @@
 "CeraVe",
 "check-sets"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Moisturizing Lotion for Normal to Dry Skin",
@@ -49397,7 +49422,7 @@
 "cleansing gel",
 "Day4_Ramadan"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Anthelios Xl Dry Touch Gel-Cream Spf50+ Non-Perfumed Facial Sunscreen",
