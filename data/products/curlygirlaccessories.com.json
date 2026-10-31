@@ -1,18 +1,5 @@
 [
 {
-"t": "Bounce Curl Detangle Define EdgeLift Brush",
-"u": "https://curlygirlaccessories.com/product/bounce-curl-detangle-define-edgelift-brush/",
-"p": 29.0,
-"c": null,
-"cur": "USD",
-"img": "https://curlygirlaccessories.com/wp-content/uploads/2026/10/bounce-curl-detangle-define-edgelift-brush-coral-300x300.jpg",
-"type": "Brushes &amp; Combs",
-"tags": [
-"Bounce Curl"
-],
-"in": true
-},
-{
 "t": "Cantu Acai Berry Curling Cream – Revitalizing Hair Cream",
 "u": "https://curlygirlaccessories.com/product/cantu-acai-berry-curling-cream-revitalizing-hair-cream/",
 "p": 19.0,
@@ -24,7 +11,7 @@
 "in": true
 },
 {
-"t": "Canto Acai Berry Leave in Conditioner Rejuvenation and Treatment of Damaged Hair 340g",
+"t": "Cantu Acai Berry Leave in Conditioner Rejuvenation and Treatment of Damaged Hair 340g",
 "u": "https://curlygirlaccessories.com/product/canto-acai-berry-leaf-conditioner-in-rejuvenation-and-treatment-of-damaged-hair-340g/",
 "p": 19.0,
 "c": null,
@@ -1352,7 +1339,7 @@
 "img": "https://curlygirlaccessories.com/wp-content/uploads/2026/08/edited-photo-10-300x300.webp",
 "type": "Gift Hampers",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Gift Hamper – All Hair Types",
@@ -2626,7 +2613,7 @@
 "img": "https://curlygirlaccessories.com/wp-content/uploads/2026/04/dupe-m34834552234104272550791438001708693165-300x300.png",
 "type": "Masks &amp; Treatments",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Griffus Leave-in Conditioner (3ABC) for Curly Hair Love Curls 1 kg",
@@ -7159,7 +7146,7 @@
 "tags": [
 "Bounce Curl"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Schwarzkopf taft Wet Look Effect 3  150 mL",
@@ -8248,7 +8235,7 @@
 "tags": [
 "Kit"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Skala Avocado treatment cream 1Kg",
@@ -14222,7 +14209,7 @@
 "Bounce Curl",
 "Bundles"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Yves Rocher Sulfate-Free Anti-Hair Loss Fortifying Shampoo 300 ML",
