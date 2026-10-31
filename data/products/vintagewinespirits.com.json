@@ -1,5 +1,27 @@
 [
 {
+"t": "Jose Cuervo Especial Silver \"Day of the Dead\" limited edition",
+"u": "https://vintagewinespirits.com/products/jose-cuervo-especial-silver-day-of-the-dead-limited-edition",
+"p": 11.5,
+"c": 15.5,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0738/8597/4801/files/JoseCuervoDiadelosMuertosBottle.png?v=1793346237&width=400",
+"type": "Tequila",
+"tags": [],
+"in": true
+},
+{
+"t": "Jose Cuervo Especial Reposado \"Day of the Dead\" limited edition",
+"u": "https://vintagewinespirits.com/products/jose-cuervo-especial-reposado-day-of-the-dead-limited-edition",
+"p": 12.5,
+"c": 16.5,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0738/8597/4801/files/JoseCuervoDiadelosMuertosReposado.png?v=1793346304&width=400",
+"type": "Tequila",
+"tags": [],
+"in": true
+},
+{
 "t": "Mondot Saint-Emilion 2019",
 "u": "https://vintagewinespirits.com/products/mondot-saint-emilion-2019",
 "p": 96.0,
@@ -6416,8 +6438,10 @@
 "img": "https://cdn.shopify.com/s/files/1/0738/8597/4801/products/Arak-Al-Karram-75CL.jpg?v=1680180114&width=400",
 "type": "Arak",
 "tags": [
+"grilledmeat",
 "lebanese",
 "Lebanon",
+"Mezze",
 "new",
 "year2021"
 ],
@@ -7791,6 +7815,8 @@
 "tags": [
 "Bourbon",
 "Bourbons & Tennesse",
+"dessert26",
+"grilledmeat",
 "NI",
 "Valentine",
 "whisky"
@@ -11544,7 +11570,7 @@
 {
 "t": "Jose Cuervo Especial Reposado",
 "u": "https://vintagewinespirits.com/products/jose-cuervo-gold-tequila-70cl",
-"p": 18.5,
+"p": 16.5,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0738/8597/4801/products/Jose-Cuervo.jpg?v=1680180037&width=400",

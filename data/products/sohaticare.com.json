@@ -1,5 +1,302 @@
 [
 {
+"t": "Sôp Shower Gel Nerôli 500ml",
+"u": "https://sohaticare.com/products/sop-shower-gel-neroli-500ml",
+"p": 14.99,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/ShowerGelNeroli1200x1200.png?v=1792579048&width=400",
+"type": "Shower Gel",
+"tags": [],
+"in": true
+},
+{
+"t": "Sôp Shampoo Nerôli 500ml",
+"u": "https://sohaticare.com/products/sop-shampoo-neroli-500ml",
+"p": 17.21,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/ShampooNeroli500mL_7782129d-5d98-4cdc-a631-89a3d7efe4ac.png?v=1792579819&width=400",
+"type": "Shampoo",
+"tags": [],
+"in": true
+},
+{
+"t": "Sôp Liquid Soap Neroli 500ml",
+"u": "https://sohaticare.com/products/sop-liquid-soap-neroli-500ml",
+"p": 9.99,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/NeroliLS_159c341d-3f79-4490-b2d6-8175d62a8559.png?v=1792579874&width=400",
+"type": "Liquid Soap",
+"tags": [],
+"in": true
+},
+{
+"t": "Sôp Conditioner Nerôli 500ml",
+"u": "https://sohaticare.com/products/sop-conditioner-neroli-500ml",
+"p": 19.98,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/ConditionerNeroli500mL.png?v=1792579187&width=400",
+"type": "Conditioner",
+"tags": [],
+"in": true
+},
+{
+"t": "Sôp Conditioner Original 500ml",
+"u": "https://sohaticare.com/products/sop-conditioner-original-500ml",
+"p": 19.98,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/ConditionerOriginal500mL_eacfecdd-9c19-482f-be35-f9dd1ab8ad03.png?v=1792579848&width=400",
+"type": "Conditioner",
+"tags": [],
+"in": true
+},
+{
+"t": "Sôp Shower Gel Zes'tea 500ml",
+"u": "https://sohaticare.com/products/sop-shower-gel-zestea-500ml",
+"p": 14.99,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/ShowerGelZestea500mL.png?v=1792579113&width=400",
+"type": "Shower Gel",
+"tags": [],
+"in": true
+},
+{
+"t": "Face Radiance",
+"u": "https://sohaticare.com/products/face-radiance",
+"p": 46.62,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/FaceRadiance.png?v=1792579339&width=400",
+"type": "Gift Set",
+"tags": [],
+"in": true
+},
+{
+"t": "Rose Reverie",
+"u": "https://sohaticare.com/products/rose-reverie",
+"p": 70.48,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/RoseReverie1200x1200_a98378e3-3320-4a00-a771-1f58b8d3a270.png?v=1792579899&width=400",
+"type": "Gift Set",
+"tags": [],
+"in": true
+},
+{
+"t": "Lavender Bliss",
+"u": "https://sohaticare.com/products/lavender-bliss",
+"p": 70.48,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/LavenderBliss1200x1200.png?v=1792579291&width=400",
+"type": "Gift Set",
+"tags": [],
+"in": true
+},
+{
+"t": "Room Spray 250ml - Oud Zekreet",
+"u": "https://sohaticare.com/products/room-spray-250ml-oud-zekreet",
+"p": 14.99,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/RoomSpray-OudZekreet_1200x1200_c3765af1-7520-4838-9052-855439190dcf.png?v=1792579265&width=400",
+"type": "Room Spray",
+"tags": [],
+"in": true
+},
+{
+"t": "Rosemary Essential Oil 10ml",
+"u": "https://sohaticare.com/products/rosemary-essential-oil-10ml",
+"p": 13.32,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/RosemaryEO10mL_43940853-cfa0-4374-b07f-ea79bb1a6aac.png?v=1792582643&width=400",
+"type": "Essential Oil",
+"tags": [],
+"in": true
+},
+{
+"t": "Lavender Essential Oil 10ml",
+"u": "https://sohaticare.com/products/lavender-essential-oil-10ml",
+"p": 11.1,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/LavenderEO10mL.png?v=1792579511&width=400",
+"type": "Essential Oil",
+"tags": [],
+"in": true
+},
+{
+"t": "Kids Bundle",
+"u": "https://sohaticare.com/products/kids-bundle",
+"p": 55.5,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/KidsBundle_472c1a0c-8532-47bf-b2bb-bf4630070c64.png?v=1792579957&width=400",
+"type": "Gift Set",
+"tags": [],
+"in": true
+},
+{
+"t": "Beard Care Kit",
+"u": "https://sohaticare.com/products/beard-care-kit",
+"p": 51.62,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/BeardKit_468bcb95-898e-4fa9-a211-bdb6acaf4ecf.png?v=1792579924&width=400",
+"type": "Gift Set",
+"tags": [],
+"in": true
+},
+{
+"t": "Frankincense Essential Oil 10ml",
+"u": "https://sohaticare.com/products/frankincense-essential-oil-10ml",
+"p": 16.65,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/FrankincenseEO10mL.png?v=1792579663&width=400",
+"type": "Essential Oil",
+"tags": [],
+"in": true
+},
+{
+"t": "Cinnamon Essential Oil 10ml",
+"u": "https://sohaticare.com/products/cinnamon-essential-oil-10ml",
+"p": 16.65,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/CinnamonEO10mL.png?v=1792579620&width=400",
+"type": "Essential Oil",
+"tags": [],
+"in": true
+},
+{
+"t": "Rose Essential Oil 10ml",
+"u": "https://sohaticare.com/products/rose-essential-oil-10ml",
+"p": 24.42,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/RoseEO10mL_30a84e83-6c7c-437c-9ace-0492a02e098e.png?v=1792582712&width=400",
+"type": "Essential Oil",
+"tags": [],
+"in": true
+},
+{
+"t": "Bergamot Essential Oil 10ml",
+"u": "https://sohaticare.com/products/bergamot-essential-oil-10ml",
+"p": 11.66,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/BergamotEO10mL.png?v=1792579573&width=400",
+"type": "Essential Oil",
+"tags": [],
+"in": true
+},
+{
+"t": "Geranium Essential Oil 10ml",
+"u": "https://sohaticare.com/products/geranium-essential-oil-10ml",
+"p": 16.65,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/GeraniumEO10mL.png?v=1792579728&width=400",
+"type": "Essential Oil",
+"tags": [],
+"in": true
+},
+{
+"t": "Lemongrass Essential Oil 10ml",
+"u": "https://sohaticare.com/products/lemongrass-essential-oil-10ml",
+"p": 16.65,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/LemongrassEO10mL.png?v=1792579790&width=400",
+"type": "Essential Oil",
+"tags": [],
+"in": true
+},
+{
+"t": "Eucalyptus Essential Oil 10ml",
+"u": "https://sohaticare.com/products/eucalyptus-essential-oil-10ml",
+"p": 12.21,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/EucalyptusEO10mL.png?v=1792579756&width=400",
+"type": "Essential Oil",
+"tags": [],
+"in": true
+},
+{
+"t": "Tea Tree Essential Oil 10ml",
+"u": "https://sohaticare.com/products/tea-tree-essential-oil-10ml",
+"p": 16.65,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/TeaTreeEO10mL.png?v=1792579693&width=400",
+"type": "Essential Oil",
+"tags": [],
+"in": true
+},
+{
+"t": "Soskin Meladerm Brightening Cream 50ml",
+"u": "https://sohaticare.com/products/soskin-meladerm-brightening-cream-50ml",
+"p": 55.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/Meladerm_Brightening_Cream_50ml.png?v=1793308916&width=400",
+"type": "Face Cream",
+"tags": [],
+"in": true
+},
+{
+"t": "Soskin Meladerm Dark Spot Brightening Serum 30ml",
+"u": "https://sohaticare.com/products/soskin-meladerm-dark-spot-brightening-serum-30ml",
+"p": 49.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/Meladerm_Dark_Spot_Brightening_Serum_30ml_jpg.jpg?v=1793308916&width=400",
+"type": "Face Serum",
+"tags": [],
+"in": true
+},
+{
+"t": "Soskin Meladerm Brightening Cleansing Foam 100ml",
+"u": "https://sohaticare.com/products/soskin-meladerm-brightening-cleansing-foam-100ml",
+"p": 24.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/Meladerm_Brightening_Cleansing_Foam_..png?v=1793308918&width=400",
+"type": "Face Cleanser",
+"tags": [],
+"in": true
+},
+{
+"t": "Soskin Firmactiv Anti-Ageing Cream 50ml",
+"u": "https://sohaticare.com/products/soskin-firmactiv-anti-ageing-cream-50ml",
+"p": 49.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/Firmactiv_Anti_Ageing_Cream_50ml.png?v=1793308917&width=400",
+"type": "Face Cream",
+"tags": [],
+"in": true
+},
+{
+"t": "Soskin Firmactiv Brightness Energy Serum C20 30ml",
+"u": "https://sohaticare.com/products/soskin-firmactiv-brightness-energy-serum-c20-30ml",
+"p": 49.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/Firmactiv_Brightness_Energy_Serum_30ml.png?v=1793308917&width=400",
+"type": "Face Serum",
+"tags": [],
+"in": true
+},
+{
 "t": "The Exclusive Sohati Care Mystery Box - Yours Now !",
 "u": "https://sohaticare.com/products/yay-10-cashback-is-yours-keep-an-eye-on-your-bag-for-your-exclusive-code-to-use-on-your-next-order-copy",
 "p": 0.0,
@@ -67,6 +364,7 @@
 "tags": [
 "Bundle",
 "Coffret",
+"eucerin-bundles",
 "eucerin-xmas-oct26"
 ],
 "in": true
@@ -82,6 +380,7 @@
 "tags": [
 "Bundle",
 "Coffret",
+"eucerin-bundles",
 "eucerin-xmas-oct26"
 ],
 "in": true
@@ -97,6 +396,7 @@
 "tags": [
 "CHR25SETS",
 "Coffret",
+"eucerin-bundles",
 "eucerin-xmas-oct26"
 ],
 "in": true
@@ -319,7 +619,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/Eyecontour_Brightening_box_tube_4d0aa802-220f-488f-83fc-522872fad6ec.png?v=1778755030&width=400",
 "type": "Eye Contour",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Eye Contour anti wrinkle 15 ml",
@@ -576,6 +876,7 @@
 "_appmaker_disable_purchase",
 "appmaker.hide_product_status",
 "GWP",
+"gwp-collection",
 "hide_product_status",
 "SEARCHANISE_IGNORE",
 "wizzy-ignore"
@@ -594,6 +895,7 @@
 "_appmaker_disable_purchase",
 "appmaker.hide_product_status",
 "GWP",
+"gwp-collection",
 "hide_product_status",
 "SEARCHANISE_IGNORE",
 "wizzy-ignore"
@@ -1007,6 +1309,7 @@
 "BOGO-Collection",
 "Bundle",
 "COMPENSATION_OCT26",
+"eucerin-bundles",
 "eucerin_pinkoct_26",
 "Giftset",
 "TOPOFFER"
@@ -1025,6 +1328,7 @@
 "BOGO-Collection",
 "Bundle",
 "COMPENSATION_OCT26",
+"eucerin-bundles",
 "eucerin_pinkoct_26",
 "Giftset",
 "TOPOFFER"
@@ -1043,6 +1347,7 @@
 "BOGO-Collection",
 "Bundle",
 "COMPENSATION_OCT26",
+"eucerin-bundles",
 "eucerin_pinkoct_26",
 "Giftset",
 "TOPOFFER"
@@ -1228,7 +1533,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/TXA-Booster-Shot-30-ml-ARENCIA.jpg?v=1791360838&width=400",
 "type": "Face Serum",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Arencia Retinal Booster Shot 30ml",
@@ -1239,7 +1544,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/Retinal-Booster-Shot-30ml-ARENCIA.jpg?v=1791360833&width=400",
 "type": "Face Serum",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Arencia PDRN Booster Shot 30ml",
@@ -1261,7 +1566,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/NAD-Booster-Shot-30-ml-ARENCIA.jpg?v=1791360823&width=400",
 "type": "Face Serum",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Arencia Eraser Shot Glycolic Acid Booster 30ml",
@@ -2232,7 +2537,7 @@
 "Pharma_week_26",
 "SKIN_BUNDLE"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Buy Avène Sunscreen Tinted Fluid SPF 50+ 50ml & get a FREE Towel + SPF Ultra Fluid Sachet",
@@ -2326,6 +2631,7 @@
 "backtoschool-exclusive",
 "Bundle",
 "COMPENSATION_SEPT26",
+"eucerin-bundles",
 "Eucerin_aug26",
 "Giftset",
 "TOPOFFER",
@@ -2547,8 +2853,8 @@
 {
 "t": "Ifran Butter'd Up Mango Applicator & Refill Pouch",
 "u": "https://sohaticare.com/products/butterd-up-mango-applicator",
-"p": 28.8,
-"c": 32.0,
+"p": 32.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/IMG_8059.webp?v=1789641207&width=400",
 "type": "Tanning Applicator",
@@ -4339,6 +4645,7 @@
 "tags": [
 "_appmaker_disable_purchase",
 "appmaker.hide_product_status",
+"gwp-collection",
 "hide_product_status",
 "SEARCHANISE_IGNORE",
 "wizzy-ignore"
@@ -4729,8 +5036,8 @@
 "Bundles",
 "COMPENSATION_AUG26",
 "COMPENSATION_FEB26",
-"Eucerin_aug26",
-"Giftset"
+"eucerin-bundles",
+"Eucerin_aug26"
 ],
 "in": true
 },
@@ -5098,7 +5405,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/K-Beauty-medicube-triple-collagen-cream-50-ml-mit-EAN-880256118977.webp?v=1785307992&width=400",
 "type": "Cream",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "feminic gwp",
@@ -5343,7 +5650,7 @@
 "tags": [
 "lumi collection"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Samao Prime Melt Hydrating Smoothing Primer",
@@ -6012,7 +6319,7 @@
 "ALLSUMSPLASH_05.16",
 "backtoschool-exclusive"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Garnier Micellar Vitamin C Brightening Micellar Water 400 ml + 100 ml + Pink Headband",
@@ -8962,6 +9269,7 @@
 "tags": [
 "backtoschool-exclusive",
 "BOGO-Collection",
+"eucerin-bundles",
 "TOPOFFER",
 "TOPOFFERS"
 ],
@@ -9899,6 +10207,7 @@
 "_appmaker_disable_purchase",
 "appmaker.hide_product_status",
 "GWP",
+"gwp-collection",
 "Hidden recommendation",
 "Recommendations disabled",
 "SEARCHANISE_IGNORE",
@@ -12463,7 +12772,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/WhatsAppImage2026-04-23at9.27.29AM_1.jpg?v=1776936098&width=400",
 "type": "Brushes",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "T011 Double Ended Powder & Contour Brush",
@@ -12551,7 +12860,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/lollisbrushes-13.jpg?v=1776856680&width=400",
 "type": "Brushes",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "T003 Flat Foundation BrushT003 Flat Foundation Brush",
@@ -13053,6 +13362,7 @@
 "BOGO-Collection",
 "Bundle",
 "COMPENSATION_APR26",
+"eucerin-bundles",
 "Eucerin_MAY26",
 "Giftset",
 "TOPOFFER"
@@ -14507,7 +14817,7 @@
 "tags": [
 "facefacts_25%_apr26"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Balance Niacinamide Cleanser 200 ml",
@@ -14520,7 +14830,7 @@
 "tags": [
 "facefacts_25%_apr26"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Balance  BHA Toner 30 ml",
@@ -14704,12 +15014,12 @@
 "tags": [
 "_appmaker_disable_purchase",
 "appmaker.hide_product_status",
+"gwp-collection",
 "Hidden recommendation",
 "hide_product_status",
 "NO-DISCOUNT",
 "Recommendations disabled",
-"SEARCHANISE_IGNORE",
-"wizzy-ignore"
+"SEARCHANISE_IGNORE"
 ],
 "in": true
 },
@@ -16879,8 +17189,8 @@
 {
 "t": "Soskin Gentle BI- Phase Make-up Remover Eye And Lip",
 "u": "https://sohaticare.com/products/soskin-gentle-make-up-remover-eye-and-lip",
-"p": 16.2,
-"c": 18.0,
+"p": 18.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/soskin-biphase-make-up-remover-100ml-992288.webp?v=1756897609&width=400",
 "type": "Make up remover",
@@ -17027,8 +17337,8 @@
 {
 "t": "SOSKIN GLYCO-C SOIN CORRECTION RIDES-ECLAT 30ml",
 "u": "https://sohaticare.com/products/soskin-glyco-c-soin-correction-rides-eclat-30ml",
-"p": 25.8,
-"c": 43.0,
+"p": 43.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/packshot_31269cb2-867f-4ea4-87e1-847b37454255.png?v=1756392568&width=400",
 "type": "",
@@ -20483,7 +20793,7 @@
 "tags": [
 "korean_game"
 ],
-"in": false
+"in": true
 },
 {
 "t": "AGE-R Booster Pro Mini - Pink",
@@ -20507,7 +20817,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/8800289470165.webp?v=1769414711&width=400",
 "type": "",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "PDRN Pink Collagen Gel Mask (1EA)",
@@ -20552,7 +20862,7 @@
 "os_june26",
 "os_june26_2"
 ],
-"in": false
+"in": true
 },
 {
 "t": "PDRN Hydrating Gel Cleanser 200 ML",
@@ -20565,7 +20875,7 @@
 "tags": [
 "korean_game"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Collagen Glow Booster Serum 15 ML",
@@ -20591,7 +20901,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/medicube-triple-collagen-serum-55-ml.webp?v=1769415074&width=400",
 "type": "",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Triple Collagen Toner 140 ML",
@@ -20604,7 +20914,7 @@
 "tags": [
 "korean_game"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Hypochlorous Acid Daily Facial Spray 125 ML",
@@ -20626,7 +20936,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/8809517411741-1.jpg?v=1769415170&width=400",
 "type": "",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Red Acne Succinic Acid Peel",
@@ -28456,8 +28766,8 @@
 {
 "t": "Sundrop-Vitamin D infused Serum",
 "u": "https://sohaticare.com/products/sundrop-vitamin-d-infused-serum",
-"p": 21.6,
-"c": 24.0,
+"p": 24.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/HT2A3997edit2_1.webp?v=1763734838&width=400",
 "type": "SERUM",
@@ -32056,8 +32366,8 @@
 {
 "t": "SOSKIN Stick Bonne Mine SPF30",
 "u": "https://sohaticare.com/products/soskin-stick-bonne-mine-spf30",
-"p": 27.0,
-"c": 30.0,
+"p": 30.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/BonneMinepost5.jpg?v=1761214226&width=400",
 "type": "",
@@ -32418,8 +32728,8 @@
 {
 "t": "SOSKIN N-BOTOX SERUM CORRECTEUR RIDES 30ml",
 "u": "https://sohaticare.com/products/soskin-n-botox-serum-correcteur-rides-30ml",
-"p": 44.1,
-"c": 49.0,
+"p": 49.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/packshot_883d1f16-7bb7-49c1-94c5-591d2f9ba4e0.png?v=1756392882&width=400",
 "type": "",
@@ -33603,8 +33913,8 @@
 {
 "t": "Soskin Glow Vitality Concentrate Serum",
 "u": "https://sohaticare.com/products/soskin-glow-vitality-concentrate-serum",
-"p": 44.1,
-"c": 49.0,
+"p": 49.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/packshot_ec51686c-8885-4df9-8d57-a59acde019e3.png?v=1756110702&width=400",
 "type": "Serum",
@@ -33787,8 +34097,8 @@
 {
 "t": "SOSKIN SERUM HYALURONIQUE 30ml",
 "u": "https://sohaticare.com/products/soskin-serum-hyaluronique-30ml",
-"p": 44.1,
-"c": 49.0,
+"p": 49.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/packshot_ad1c5537-60f7-4002-addc-364c8c4724ab.png?v=1756393223&width=400",
 "type": "",
@@ -34022,8 +34332,8 @@
 {
 "t": "Repair & Revive Shampoo For Oily Hair",
 "u": "https://sohaticare.com/products/repair-revive-shampoo-for-oily-hair",
-"p": 20.7,
-"c": 23.0,
+"p": 23.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/oilyifran.webp?v=1758875541&width=400",
 "type": "Shampoo",
@@ -34037,8 +34347,8 @@
 {
 "t": "Repair & Revive Shampoo For Dry Hair",
 "u": "https://sohaticare.com/products/repair-revive-shampoo-for-dry-hair",
-"p": 20.7,
-"c": 23.0,
+"p": 23.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/ifrandry.webp?v=1758875332&width=400",
 "type": "Shampoo",
@@ -36263,7 +36573,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/2_53168442-934a-4f30-905b-043fd262b584.png?v=1757660522&width=400",
 "type": "",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "AZELAIC ACID SUSPENSION 10% 30ML/1FLOZ",
@@ -40283,8 +40593,8 @@
 {
 "t": "Butter'd Up Tanning Butter",
 "u": "https://sohaticare.com/products/butterd-up-tanning-butter",
-"p": 18.9,
-"c": 21.0,
+"p": 21.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/Ifran_-_Butter_d_Up_Tanning_Butter_1080x_29619d34-ff64-4f7c-89cf-46dd3a3e0a3f.png?v=1753083571&width=400",
 "type": "tanning butter",
@@ -40299,8 +40609,8 @@
 {
 "t": "Floral Muse Hair Mist",
 "u": "https://sohaticare.com/products/floral-muse-floral-mist",
-"p": 18.0,
-"c": 20.0,
+"p": 20.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/Ifran_-_Floral_Muse_Hair_Mist.png?v=1753083437&width=400",
 "type": "Hair Mist",
@@ -40314,8 +40624,8 @@
 {
 "t": "Peachy Kiss Hair  Mist",
 "u": "https://sohaticare.com/products/peachy-kiss-peach-mist",
-"p": 18.0,
-"c": 20.0,
+"p": 20.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/Ifran_-_Peachy_Kiss_Hair_Mist.png?v=1753083185&width=400",
 "type": "Hair Mist",
@@ -42981,8 +43291,8 @@
 {
 "t": "Sun Stick High Protection SPF50+",
 "u": "https://sohaticare.com/products/sun-stick-high-protection-spf50",
-"p": 20.7,
-"c": 23.0,
+"p": 23.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/soskin_d5d3595e-4ffd-4358-b1bb-b4422cb0366a.png?v=1749649000&width=400",
 "type": "Sun Protection",
@@ -43062,7 +43372,7 @@
 "tags": [
 "Tools"
 ],
-"in": true
+"in": false
 },
 {
 "t": "WOODEN HAIR BRUSH ROLL",
@@ -43759,362 +44069,5 @@
 "type": "",
 "tags": [],
 "in": false
-},
-{
-"t": "Rubycell Foundation Puff",
-"u": "https://sohaticare.com/products/rubycell-foundation-puff",
-"p": 2.43,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/32_56a5a8bd-9583-4a41-8285-6560389ff738.png?v=1748352228&width=400",
-"type": "",
-"tags": [],
-"in": false
-},
-{
-"t": "Pencil Sharpner",
-"u": "https://sohaticare.com/products/pencil-sharpner",
-"p": 2.43,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/33_f596c1d7-884e-4d5d-8d65-66039773b080.png?v=1748352122&width=400",
-"type": "",
-"tags": [],
-"in": false
-},
-{
-"t": "Cuticle Nipper Jaw 14",
-"u": "https://sohaticare.com/products/cuticle-nipper-jaw-14",
-"p": 19.43,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/22.png?v=1748352076&width=400",
-"type": "",
-"tags": [],
-"in": true
-},
-{
-"t": "Proffessional Blusher Brush",
-"u": "https://sohaticare.com/products/proffessional-blusher-brush",
-"p": 4.16,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/11_587b6f86-c73c-49d5-8352-15edc264b697.png?v=1748351865&width=400",
-"type": "",
-"tags": [],
-"in": false
-},
-{
-"t": "Massage Brush For Face",
-"u": "https://sohaticare.com/products/massage-brush-for-face",
-"p": 2.77,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/1_855f162a-94a5-4d61-9829-d641a486b242.png?v=1748351760&width=400",
-"type": "",
-"tags": [],
-"in": false
-},
-{
-"t": "Shower Cap",
-"u": "https://sohaticare.com/products/shower-cap",
-"p": 1.39,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/9_37052185-364e-4eb2-8135-52969d6ea426.png?v=1748351707&width=400",
-"type": "",
-"tags": [],
-"in": false
-},
-{
-"t": "Individual Cosmetic Brush (eyeliner under eye)",
-"u": "https://sohaticare.com/products/individual-cosmetic-brush-eyeliner-under-eye",
-"p": 5.55,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/8_15075bfe-b091-41a2-8572-d30529a3c50e.png?v=1748351648&width=400",
-"type": "",
-"tags": [],
-"in": false
-},
-{
-"t": "Ceramic Foot File",
-"u": "https://sohaticare.com/products/ceramic-foot-file",
-"p": 2.77,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/7_b06829fa-e83f-4b34-afed-6c5dfd90d97d.png?v=1748351555&width=400",
-"type": "",
-"tags": [
-"HAND&FOOT"
-],
-"in": false
-},
-{
-"t": "Fondation Sponge Round Shape 4 PCS",
-"u": "https://sohaticare.com/products/fondation-sponge-round-shape-4-pcs",
-"p": 1.67,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/6_dd3f693e-f40d-4c47-8e02-0c4273730708.png?v=1748351494&width=400",
-"type": "",
-"tags": [],
-"in": false
-},
-{
-"t": "Wood Foot File",
-"u": "https://sohaticare.com/products/wood-foot-file",
-"p": 3.47,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/5_995787ac-ce9b-4d9e-8104-d07a44c5cd09.png?v=1748351418&width=400",
-"type": "",
-"tags": [
-"HAND&FOOT"
-],
-"in": false
-},
-{
-"t": "Square Flexible Vent Green Hair Brush",
-"u": "https://sohaticare.com/products/square-flexible-vent-green-hair-brush",
-"p": 3.16,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/4_3335c490-e11f-4278-962c-925a02ac4a60.png?v=1748351317&width=400",
-"type": "Hair Brush",
-"tags": [],
-"in": false
-},
-{
-"t": "Straight Gray Nail File 100/180",
-"u": "https://sohaticare.com/products/straight-gray-nail-file-100-180",
-"p": 1.04,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/3_d427904d-1279-4146-9d48-1536ce7544be.png?v=1748351266&width=400",
-"type": "",
-"tags": [],
-"in": false
-},
-{
-"t": "White Block 2 Pcs",
-"u": "https://sohaticare.com/products/white-block-2-pcs",
-"p": 1.18,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/2_35468278-c4a5-4c9e-b6df-97c53e5a0743.png?v=1748351215&width=400",
-"type": "",
-"tags": [],
-"in": true
-},
-{
-"t": "Vent Curved Pink Square Bush",
-"u": "https://sohaticare.com/products/vent-curved-pink-square-bush",
-"p": 4.16,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/pretty2.png?v=1748351159&width=400",
-"type": "",
-"tags": [],
-"in": false
-},
-{
-"t": "Straight Black Nail File 100/180",
-"u": "https://sohaticare.com/products/straight-black-nail-file-100-180",
-"p": 1.04,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/pretty1.png?v=1748351102&width=400",
-"type": "",
-"tags": [],
-"in": false
-},
-{
-"t": "Collistar Futura Revit Eye&Lip Cream 15Ml",
-"u": "https://sohaticare.com/products/collistar-futura-revit-eye-lip-cream-15ml",
-"p": 62.9,
-"c": 74.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/eye_lip.webp?v=1749107509&width=400",
-"type": "Eye & Lip Care",
-"tags": [
-"collistar_30_nov25",
-"Collistar_stock",
-"lipcarecollec"
-],
-"in": true
-},
-{
-"t": "Collistar Futura Revit Repair Night Cream50Ml",
-"u": "https://sohaticare.com/products/collistar-futura-revit-repair-night-cream50ml",
-"p": 81.6,
-"c": 96.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/nightcream.webp?v=1749107391&width=400",
-"type": "Night Cream",
-"tags": [
-"collistar_30_nov25",
-"Collistar_stock",
-"DAYNIGHTCREAMS"
-],
-"in": true
-},
-{
-"t": "Collistar Futura Brightening Day Cream50Ml",
-"u": "https://sohaticare.com/products/collistar-futura-brightening-day-cream50ml",
-"p": 81.6,
-"c": 96.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/collistardaycream.webp?v=1749106460&width=400",
-"type": "Day Ceam",
-"tags": [
-"collistar_30_nov25",
-"Collistar_stock"
-],
-"in": true
-},
-{
-"t": "Collistar  Protective Oil Coloured Hair 100ml",
-"u": "https://sohaticare.com/products/collistar-protective-oil-coloured-hair-100ml",
-"p": 29.75,
-"c": 35.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/tan2.webp?v=1749109739&width=400",
-"type": "Hair Oil",
-"tags": [
-"collistar_30_nov25",
-"Collistar_stock",
-"collistar_sun"
-],
-"in": true
-},
-{
-"t": "Collistar Magic Drops Self Tanning Spray 150ml",
-"u": "https://sohaticare.com/products/collistar-magic-drops-selftanning-spray-150ml",
-"p": 51.0,
-"c": 60.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/tan.webp?v=1749109434&width=400",
-"type": "Tanning Spray",
-"tags": [
-"BODYSUNCARE",
-"collistar_30_nov25",
-"Collistar_stock",
-"collistar_sun",
-"sun_june26"
-],
-"in": true
-},
-{
-"t": "Collistar CryoActive Talasso Toning Scrub 700G",
-"u": "https://sohaticare.com/products/collistar-cryoactive-talasso-toning-scrub700g",
-"p": 58.65,
-"c": 69.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/collistar2.webp?v=1749108842&width=400",
-"type": "Scrub",
-"tags": [
-"collistar_30_nov25",
-"Collistar_stock",
-"Face Scrub"
-],
-"in": true
-},
-{
-"t": "Collistar CrioGel Anticell Beautifying 400ml",
-"u": "https://sohaticare.com/products/collistar-criogel-anticell-beautifying-400ml",
-"p": 69.7,
-"c": 82.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/collistar1.webp?v=1749108141&width=400",
-"type": "Body Care",
-"tags": [
-"collistar_30_nov25",
-"Collistar_stock"
-],
-"in": true
-},
-{
-"t": "Collistar  Magic Protective Drops SPF50 50ML",
-"u": "https://sohaticare.com/products/collistar-magic-protective-drops-spf50-50ml",
-"p": 53.55,
-"c": 63.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/drop.webp?v=1749112099&width=400",
-"type": "",
-"tags": [
-"collistar_30_nov25",
-"Collistar_stock"
-],
-"in": false
-},
-{
-"t": "Collistar Sun Body Cream Dark Spots SPF50+100Ml",
-"u": "https://sohaticare.com/products/collistar-sun-bodycream-darkspots-spf50-100ml",
-"p": 44.2,
-"c": 52.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/sun2.webp?v=1749111579&width=400",
-"type": "Sunscreen",
-"tags": [
-"allsunscreen_sohati",
-"BODYSUNCARE",
-"collistar_30_nov25",
-"Collistar_stock",
-"collistar_sun",
-"sun_june26"
-],
-"in": true
-},
-{
-"t": "Collistar Sun FaceFluid DarkSpots SPF50+ 50Ml",
-"u": "https://sohaticare.com/products/collistar-sun-facefluid-darkspots-spf50-50ml",
-"p": 46.75,
-"c": 55.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/sun1.webp?v=1749110375&width=400",
-"type": "Sunscreen",
-"tags": [
-"allsunscreen_sohati",
-"collistar_30_nov25",
-"Collistar_stock",
-"collistar_sun",
-"sun_june26"
-],
-"in": true
-},
-{
-"t": "Collistar Sun Stick Cream Dark Spots SPF50",
-"u": "https://sohaticare.com/products/collistar-sun-stick-cream-dark-spots-spf50",
-"p": 32.3,
-"c": 38.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/sun.webp?v=1749110027&width=400",
-"type": "sun stick",
-"tags": [
-"collistar_30_nov25",
-"Collistar_stock",
-"collistar_sun",
-"sun_june26"
-],
-"in": true
-},
-{
-"t": "Prime C-PRIME Liquid Syndet + Colorless Rejuvenating Sunscreen SPF50 40ml + Trio Active Eye Concealer SPF25",
-"u": "https://sohaticare.com/products/prime-c-prime-liquid-syndet-colorless-rejuvenating-sunscreen-spf50-40ml-trio-active-eye-concealer-spf25",
-"p": 27.0,
-"c": 35.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/PrimeBundlesPackshot2.jpg?v=1749108927&width=400",
-"type": "Bundle",
-"tags": [
-"Bundle",
-"Bundles",
-"COMPENSATION_JUNE25",
-"Giftset",
-"JUNE25.SUMMER.BUNDLES",
-"NOV25DISCOUNTS"
-],
-"in": true
 }
 ]
