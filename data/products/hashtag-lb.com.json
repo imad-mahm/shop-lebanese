@@ -13,7 +13,7 @@
 {
 "t": "G-vest",
 "u": "https://www.hashtag-lb.com/products/g-vest",
-"p": 0.0,
+"p": 49.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/0f4fb15a-05d7-4c87-94cb-486f2c8cea01.jpg?v=1793362366&width=400",
@@ -566,7 +566,7 @@
 "p": 19.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/6c353c86-89e4-4cfb-ab50-28c2b609f9fc.jpg?v=1793271239&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/e02804a0-dae5-4205-a7a1-0497ed8fb9ea.jpg?v=1792062820&width=400",
 "type": "TOP",
 "tags": [],
 "in": true
@@ -833,7 +833,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/537a19a5-da6b-446a-bce8-df890817485e.jpg?v=1790079747&width=400",
 "type": "Pants",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "G-chemise",
@@ -885,7 +885,7 @@
 "p": 19.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/789939b9-d731-4746-aee0-e28c150b6267.jpg?v=1790002532&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/1001466919.jpg?v=1793029701&width=400",
 "type": "top",
 "tags": [],
 "in": true
@@ -1395,17 +1395,6 @@
 "type": "jeans",
 "tags": [],
 "in": true
-},
-{
-"t": "polo top 17022",
-"u": "https://www.hashtag-lb.com/products/polo-top-17022",
-"p": 19.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/1b967e9f-7baf-49c7-ad78-048d36334f68.jpg?v=1788689359&width=400",
-"type": "top",
-"tags": [],
-"in": false
 },
 {
 "t": "off shoulder top 4987",
