@@ -1,5 +1,27 @@
 [
 {
+"t": "G- sweatpants 2638",
+"u": "https://www.hashtag-lb.com/products/g-sweatpants-2638",
+"p": 29.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/4c00d342-b828-44c1-aed9-66bcf23961fe.jpg?v=1793536740&width=400",
+"type": "Pants",
+"tags": [],
+"in": true
+},
+{
+"t": "G-legging 918",
+"u": "https://www.hashtag-lb.com/products/g-legging-919",
+"p": 10.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/1001446590.jpg?v=1791194866&width=400",
+"type": "legging",
+"tags": [],
+"in": true
+},
+{
 "t": "G-top 4623",
 "u": "https://www.hashtag-lb.com/products/g-top-4623",
 "p": 19.0,
@@ -266,7 +288,7 @@
 {
 "t": "G-Leather Jacket 96008",
 "u": "https://www.hashtag-lb.com/products/g-leather-jacket-96008",
-"p": 45.0,
+"p": 55.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/9730205b-d007-4b04-ac6b-8fdbfd0a1b10.jpg?v=1793270798&width=400",
@@ -660,17 +682,6 @@
 "in": true
 },
 {
-"t": "G-legging 918",
-"u": "https://www.hashtag-lb.com/products/g-legging-918",
-"p": 10.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/1001446590.jpg?v=1791194866&width=400",
-"type": "legging",
-"tags": [],
-"in": true
-},
-{
 "t": "G- straight jeans 26860",
 "u": "https://www.hashtag-lb.com/products/g-straight-jeans-26860",
 "p": 45.0,
@@ -690,7 +701,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/3fc659e2-d678-4e80-89c1-e814a499db1f.jpg?v=1790769747&width=400",
 "type": "TOP",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "G-wool top 261002",
