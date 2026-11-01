@@ -1,5 +1,65 @@
 [
 {
+"t": "The Skin Support Duo",
+"u": "https://myholdal.com/products/the-skin-support-duo-1",
+"p": 25.2,
+"c": 36.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/TheSkinSupportDuo.png?v=1793175431&width=400",
+"type": "SERUMS",
+"tags": [
+"apres",
+"BEAUTY",
+"bundle",
+"GROOMING",
+"men grooming best sellers",
+"MEN SKINCARE",
+"Ordinary Dryness",
+"Ordinary SEAL"
+],
+"in": true
+},
+{
+"t": "The Brighten & Hydrate Duo",
+"u": "https://myholdal.com/products/the-brighten-hydrate-duo",
+"p": 20.3,
+"c": 29.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/TheBrighten_HydrateDuo.png?v=1793177302&width=400",
+"type": "SERUMS",
+"tags": [
+"apres",
+"BEAUTY",
+"bundle",
+"GROOMING",
+"men grooming best sellers",
+"MEN SKINCARE",
+"Ordinary Dryness",
+"Ordinary PREP"
+],
+"in": true
+},
+{
+"t": "The Acne Duo",
+"u": "https://myholdal.com/products/the-acne-duo",
+"p": 14.0,
+"c": 20.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/TheAcneDuo.png?v=1793177600&width=400",
+"type": "SERUMS",
+"tags": [
+"BEAUTY",
+"bundle",
+"GROOMING",
+"men grooming best sellers",
+"MEN SKINCARE",
+"Ordinary Congestion",
+"Ordinary TREAT",
+"SKINCARE - SERUM & TREATMENT"
+],
+"in": true
+},
+{
 "t": "Anti-Blemish Solution Oil Control Cleansing Mask  100Ml",
 "u": "https://myholdal.com/products/buy-anti-blemish-solution-oil-control-cleansing-mask-100ml-lebanon",
 "p": 43.0,
@@ -382,7 +442,7 @@
 {
 "t": "Hackett Essential Eau De Parfum 50Ml",
 "u": "https://myholdal.com/products/buy-hackett-essential-eau-de-parfum-50ml-lebanon",
-"p": 54.0,
+"p": 37.8,
 "c": 54.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/products/parf50ml.png?v=1752224025&width=400",
@@ -859,7 +919,7 @@
 {
 "t": "Super After Sun Milk 75 ML",
 "u": "https://myholdal.com/products/after-sun-face-cream-50-ml-copy",
-"p": 12.0,
+"p": 8.4,
 "c": 12.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/AFTERSUN70ML.png?v=1753969130&width=400",
@@ -1264,7 +1324,7 @@
 {
 "t": "Fix & Care Spray",
 "u": "https://myholdal.com/products/buy-fix-care-spray-lebanon",
-"p": 38.0,
+"p": 26.6,
 "c": 38.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/050245A001_8011607402281_Fix_and_care_big_20022025123335.webp?v=1779260284&width=400",
@@ -1284,7 +1344,7 @@
 {
 "t": "Wonder Me Defender SPF 50",
 "u": "https://myholdal.com/products/buy-wonder-me-defender-spf-50-lebanon",
-"p": 33.0,
+"p": 23.1,
 "c": 33.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/Porcelain.png?v=1779260011&width=400",
@@ -1304,7 +1364,7 @@
 {
 "t": "My Daily Palette",
 "u": "https://myholdal.com/products/buy-my-daily-palette-lebanon",
-"p": 30.0,
+"p": 21.0,
 "c": 30.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/My_Daily_Palette_-_Golden_Aurora.jpg?v=1779259726&width=400",
@@ -1341,7 +1401,7 @@
 {
 "t": "Clinique Daily Essentials Set",
 "u": "https://myholdal.com/products/buy-clinique-daily-essentials-set-lebanon",
-"p": 141.0,
+"p": 98.7,
 "c": 141.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/1.webp?v=1780924901&width=400",
@@ -1360,7 +1420,7 @@
 {
 "t": "Clinique Sunkissed Essentials Set",
 "u": "https://myholdal.com/products/buy-clinique-sunkissed-essentials-set-lebanon",
-"p": 71.0,
+"p": 49.7,
 "c": 71.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/2_c30cdbf7-f098-4fe6-9b3a-8b446955995e.webp?v=1780924983&width=400",
@@ -1379,7 +1439,7 @@
 {
 "t": "Clinique Wrinkle-Fighting Routine Skincare Set",
 "u": "https://myholdal.com/products/buy-clinique-wrinkle-fighting-routine-skincare-set-lebanon",
-"p": 105.0,
+"p": 73.5,
 "c": 105.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/4_2ad4c2a4-89eb-4e3c-9aa7-4daab1f46e77.webp?v=1780925149&width=400",
@@ -1398,7 +1458,7 @@
 {
 "t": "Clinique Honey Trio Set",
 "u": "https://myholdal.com/products/buy-clinique-honey-trio-set-lebanon",
-"p": 61.0,
+"p": 42.7,
 "c": 61.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3.webp?v=1780925044&width=400",
@@ -1417,7 +1477,7 @@
 {
 "t": "Clinique Lift + Smooth Routine Skincare Set",
 "u": "https://myholdal.com/products/buy-clinique-lift-smooth-routine-skincare-set-lebanon",
-"p": 151.0,
+"p": 105.7,
 "c": 151.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/5_c62c2e3f-1292-4be5-b9c8-16cff5b333f8.webp?v=1780925221&width=400",
@@ -1436,7 +1496,7 @@
 {
 "t": "Head to Toe Hydrators Set",
 "u": "https://myholdal.com/products/buy-head-to-toe-hydrators-set-lebanon",
-"p": 100.0,
+"p": 70.0,
 "c": 100.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/7_66f37c47-d420-4fd1-bb06-8205a3cf386d.avif?v=1780925366&width=400",
@@ -1455,7 +1515,7 @@
 {
 "t": "Clinique Day and Night Moisture Set",
 "u": "https://myholdal.com/products/buy-clinique-day-and-night-moisture-set-lebanon",
-"p": 67.0,
+"p": 46.9,
 "c": 67.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/6_d3b68aac-d622-4832-88a8-88b7d8b332b2.webp?v=1780925288&width=400",
@@ -1474,7 +1534,7 @@
 {
 "t": "Makeup Bag MVP's Set",
 "u": "https://myholdal.com/products/buy-makeup-bag-mvps-set-lebanon",
-"p": 48.0,
+"p": 33.6,
 "c": 48.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/8_0a700d57-dee7-4af4-823f-22d8f0c68556.webp?v=1780925439&width=400",
@@ -1493,7 +1553,7 @@
 {
 "t": "Clinique Moisture Surge Hydration Mini Kit",
 "u": "https://myholdal.com/products/buy-clinique-moisture-surge-hydration-mini-kit-lebanon",
-"p": 51.0,
+"p": 35.7,
 "c": 51.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/10_e8db0b6b-cf98-4fb8-8739-6ff691e55000.webp?v=1780925583&width=400",
@@ -1512,7 +1572,7 @@
 {
 "t": "Aromatic Elixir Essentials Set",
 "u": "https://myholdal.com/products/buy-aromatic-elixir-essentials-set-lebanon",
-"p": 120.0,
+"p": 84.0,
 "c": 120.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/9_aa730c0a-b1a3-41e4-bab9-282a1870dc41.webp?v=1780925502&width=400",
@@ -1531,7 +1591,7 @@
 {
 "t": "Clinique Clear Skin Routine: Mini Anti-Blemish Solutions Kit",
 "u": "https://myholdal.com/products/buy-clinique-clear-skin-routine-mini-anti-blemish-solutions-kit-lebanon",
-"p": 52.0,
+"p": 36.4,
 "c": 52.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/12_30a54149-d8c6-41f4-9290-df29ca4240ff.webp?v=1780925708&width=400",
@@ -1550,7 +1610,7 @@
 {
 "t": "Clinique Night Routine Mini Kit",
 "u": "https://myholdal.com/products/buy-clinique-night-routine-mini-kit-lebanon",
-"p": 58.0,
+"p": 40.6,
 "c": 58.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/11_7f5b0007-5c1f-4818-ba10-2c740176eab0.avif?v=1780925652&width=400",
@@ -1569,7 +1629,7 @@
 {
 "t": "3 Step Skin Type 3 Set",
 "u": "https://myholdal.com/products/buy-3-step-skin-type-3-set-lebanon",
-"p": 35.0,
+"p": 24.5,
 "c": 35.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/13_a199249a-120a-4fa1-997e-b70f04dcbe86.webp?v=1780925772&width=400",
@@ -1588,7 +1648,7 @@
 {
 "t": "3 Step Skin Type 2 Set",
 "u": "https://myholdal.com/products/buy-3-step-skin-type-2-set-lebanon",
-"p": 35.0,
+"p": 24.5,
 "c": 35.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/14.webp?v=1780925846&width=400",
@@ -1643,7 +1703,7 @@
 {
 "t": "Glow & Tighten Set",
 "u": "https://myholdal.com/products/buy-glow-tighten-set-lebanon",
-"p": 141.0,
+"p": 98.7,
 "c": 141.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/GLOW_TIGHTEN_SET.png?v=1781684638&width=400",
@@ -1661,7 +1721,7 @@
 {
 "t": "Lift & Repair Set",
 "u": "https://myholdal.com/products/buy-lift-repair-set-lebanon",
-"p": 58.0,
+"p": 40.6,
 "c": 58.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/LIFT_REPAIR_SET.png?v=1781684760&width=400",
@@ -1679,7 +1739,7 @@
 {
 "t": "Pink Honey Duo Set",
 "u": "https://myholdal.com/products/buy-pink-honey-duo-set-lebanon",
-"p": 63.0,
+"p": 44.1,
 "c": 63.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/PINK_HONEY_DUO.png?v=1781684867&width=400",
@@ -1697,7 +1757,7 @@
 {
 "t": "Black Honey Duo Set",
 "u": "https://myholdal.com/products/buy-black-honey-duo-set-lebanon",
-"p": 63.0,
+"p": 44.1,
 "c": 63.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/BLACK_HONEY_DUO.png?v=1781684821&width=400",
@@ -1715,7 +1775,7 @@
 {
 "t": "Double the Honey Set",
 "u": "https://myholdal.com/products/buy-double-the-honey-set-lebanon",
-"p": 63.0,
+"p": 44.1,
 "c": 63.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/DOUBLE_THE_HONEY.png?v=1781684919&width=400",
@@ -2068,7 +2128,7 @@
 {
 "t": "WONDER ME SHINY BRONZER",
 "u": "https://myholdal.com/products/buy-wonder-me-shiny-bronzer-lebanon",
-"p": 30.0,
+"p": 21.0,
 "c": 30.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/Light_neutral.webp?v=1779260092&width=400",
@@ -2088,7 +2148,7 @@
 {
 "t": "La Roche-Posay Mela B3 Double Dose 40ml",
 "u": "https://myholdal.com/products/la-roche-posay-mela-b3-double-dose-40ml",
-"p": 50.92,
+"p": 33.1,
 "c": 50.92,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3337875944618_1_4a64802a-b64d-4224-a12f-420ad5eac2e7.jpg?v=1793184693&width=400",
@@ -2183,7 +2243,6 @@
 "tags": [
 "BEAUTY",
 "BRANDS WOMEN",
-"influencer code",
 "loreal professional WOMEN",
 "lrl 40 not discounted",
 "WOMEN BEAUTY BRANDS",
@@ -2202,7 +2261,6 @@
 "tags": [
 "BEAUTY",
 "BRANDS WOMEN",
-"influencer code",
 "loreal professional WOMEN",
 "lrl 40 not discounted",
 "WOMEN BEAUTY BRANDS",
@@ -2221,7 +2279,6 @@
 "tags": [
 "BEAUTY",
 "BRANDS WOMEN",
-"influencer code",
 "KERASTASE WOMEN",
 "lrl 40 not discounted",
 "WOMEN BEAUTY BRANDS",
@@ -2240,7 +2297,6 @@
 "tags": [
 "BEAUTY",
 "BRANDS WOMEN",
-"influencer code",
 "KERASTASE WOMEN",
 "lrl 40 not discounted",
 "WOMEN BEAUTY BRANDS",
@@ -2259,7 +2315,6 @@
 "tags": [
 "BEAUTY",
 "BRANDS WOMEN",
-"influencer code",
 "KERASTASE WOMEN",
 "lrl 40 not discounted",
 "WOMEN BEAUTY BRANDS",
@@ -2278,7 +2333,6 @@
 "tags": [
 "BEAUTY",
 "BRANDS WOMEN",
-"influencer code",
 "KERASTASE WOMEN",
 "lrl 40 not discounted",
 "WOMEN BEAUTY BRANDS",
@@ -2297,7 +2351,6 @@
 "tags": [
 "BEAUTY",
 "BRANDS WOMEN",
-"influencer code",
 "KERASTASE WOMEN",
 "lrl 40 not discounted",
 "WOMEN BEAUTY BRANDS",
@@ -2308,14 +2361,13 @@
 {
 "t": "Reveal Skin Optimizing Foundation",
 "u": "https://myholdal.com/products/women-reveal-skin-optimizing-foundation",
-"p": 77.78,
+"p": 54.45,
 "c": 77.78,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614273710848.webp?v=1793096341&width=400",
 "type": "FOUNDATIONS",
 "tags": [
 "BEAUTY",
-"influencer code",
 "MAPPING LLD 27",
 "PRADA WOMEN",
 "WOMEN MAKEUP"
@@ -2325,14 +2377,13 @@
 {
 "t": "Reset Rebalancing Setting Powder",
 "u": "https://myholdal.com/products/women-reset-rebalancing-setting-powder",
-"p": 104.78,
+"p": 73.35,
 "c": 104.78,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614274064896.webp?v=1793096284&width=400",
 "type": "POWDERS",
 "tags": [
 "BEAUTY",
-"influencer code",
 "MAPPING LLD 27",
 "PRADA WOMEN",
 "WOMEN MAKEUP"
@@ -2342,14 +2393,13 @@
 {
 "t": "Reflection Glossy Liquid Balm",
 "u": "https://myholdal.com/products/women-reflection-glossy-liquid-balm",
-"p": 54.79,
+"p": 38.35,
 "c": 54.79,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614274178135.webp?v=1793095806&width=400",
 "type": "LIPSTICKS",
 "tags": [
 "BEAUTY",
-"influencer code",
 "MAPPING LLD 27",
 "PRADA WOMEN",
 "WOMEN MAKEUP"
@@ -2359,14 +2409,13 @@
 {
 "t": "Refine Blurring Extending Primer",
 "u": "https://myholdal.com/products/women-refine-blurring-extending-primer",
-"p": 69.56,
+"p": 48.69,
 "c": 69.56,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614274169263.webp?v=1793095753&width=400",
 "type": "PRIMERS",
 "tags": [
 "BEAUTY",
-"influencer code",
 "MAPPING LLD 27",
 "PRADA WOMEN",
 "WOMEN MAKEUP"
@@ -2376,14 +2425,13 @@
 {
 "t": "Pradascope Lash Extending Mascara",
 "u": "https://myholdal.com/products/women-pradascope-lash-extending-mascara",
-"p": 51.94,
+"p": 36.36,
 "c": 51.94,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614274182002.webp?v=1793095671&width=400",
 "type": "MASCARAS",
 "tags": [
 "BEAUTY",
-"influencer code",
 "MAPPING LLD 27",
 "PRADA WOMEN",
 "WOMEN MAKEUP"
@@ -2393,14 +2441,13 @@
 {
 "t": "Pradalines Durable Gliding Eye Pencil",
 "u": "https://myholdal.com/products/women-pradalines-durable-gliding-eye-pencil",
-"p": 37.23,
+"p": 26.06,
 "c": 37.23,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614274173529.webp?v=1793095584&width=400",
 "type": "EYE LINERS",
 "tags": [
 "BEAUTY",
-"influencer code",
 "MAPPING LLD 27",
 "PRADA WOMEN",
 "WOMEN MAKEUP"
@@ -2410,14 +2457,13 @@
 {
 "t": "Prada Balm",
 "u": "https://myholdal.com/products/women-prada-balm",
-"p": 57.7,
+"p": 40.39,
 "c": 57.7,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614274171099.webp?v=1793095494&width=400",
 "type": "LIPSTICKS",
 "tags": [
 "BEAUTY",
-"influencer code",
 "MAPPING LLD 27",
 "PRADA WOMEN",
 "WOMEN MAKEUP"
@@ -2427,14 +2473,13 @@
 {
 "t": "Powder Sculpting Brush",
 "u": "https://myholdal.com/products/women-powder-sculpting-brush",
-"p": 98.92,
+"p": 69.24,
 "c": 98.92,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614273757584.jpg?v=1793095338&width=400",
 "type": "BRUSHES",
 "tags": [
 "BEAUTY",
-"influencer code",
 "MAPPING LLD 27",
 "PRADA WOMEN",
 "WOMEN MAKEUP"
@@ -2444,14 +2489,13 @@
 {
 "t": "Powder Diffuser Brush",
 "u": "https://myholdal.com/products/women-powder-diffuser-brush",
-"p": 98.92,
+"p": 69.24,
 "c": 98.92,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614273757614.jpg?v=1793095270&width=400",
 "type": "BRUSHES",
 "tags": [
 "BEAUTY",
-"influencer code",
 "MAPPING LLD 27",
 "PRADA WOMEN",
 "WOMEN MAKEUP"
@@ -2461,14 +2505,13 @@
 {
 "t": "Paradoxe Hand Cream",
 "u": "https://myholdal.com/products/women-paradoxe-hand-cream",
-"p": 72.85,
+"p": 51.0,
 "c": 72.85,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614274769104.webp?v=1793095229&width=400",
 "type": "SKIN CARE",
 "tags": [
 "BEAUTY",
-"influencer code",
 "MAPPING LLD 27",
 "PRADA WOMEN",
 "WOMEN SKINCARE"
@@ -2478,14 +2521,13 @@
 {
 "t": "Monochrome Soft Matte Lipstick",
 "u": "https://myholdal.com/products/women-monochrome-soft-matte-lipstick",
-"p": 57.7,
+"p": 40.39,
 "c": 57.7,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614274098051.webp?v=1793095011&width=400",
 "type": "LIPSTICKS",
 "tags": [
 "BEAUTY",
-"influencer code",
 "MAPPING LLD 27",
 "PRADA WOMEN",
 "WOMEN MAKEUP"
@@ -2495,14 +2537,13 @@
 {
 "t": "Monochrome Hyper Matte Lipstick",
 "u": "https://myholdal.com/products/women-monochrome-hyper-matte-lipstick",
-"p": 57.7,
+"p": 40.39,
 "c": 57.7,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614274097962.webp?v=1793094794&width=400",
 "type": "LIPSTICKS",
 "tags": [
 "BEAUTY",
-"influencer code",
 "MAPPING LLD 27",
 "PRADA WOMEN",
 "WOMEN MAKEUP"
@@ -2512,14 +2553,13 @@
 {
 "t": "Lip Filler Brush",
 "u": "https://myholdal.com/products/women-lip-filler-brush",
-"p": 74.18,
+"p": 51.93,
 "c": 74.18,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614273757300.jpg?v=1793094708&width=400",
 "type": "BRUSHES",
 "tags": [
 "BEAUTY",
-"influencer code",
 "MAPPING LLD 27",
 "PRADA WOMEN",
 "WOMEN MAKEUP"
@@ -2529,14 +2569,13 @@
 {
 "t": "Light Glowing Lip Oil Stick",
 "u": "https://myholdal.com/products/women-light-glowing-lip-oil-stick",
-"p": 57.54,
+"p": 40.28,
 "c": 57.54,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614274178333.webp?v=1793094607&width=400",
 "type": "LIPSTICKS",
 "tags": [
 "BEAUTY",
-"influencer code",
 "MAPPING LLD 27",
 "PRADA WOMEN",
 "WOMEN MAKEUP"
@@ -2546,14 +2585,13 @@
 {
 "t": "Light Glowing Highlighter Powder",
 "u": "https://myholdal.com/products/women-light-glowing-highlighter-powder",
-"p": 104.78,
+"p": 73.35,
 "c": 104.78,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614274354195.avif?v=1793094477&width=400",
 "type": "HIGHLIGHTERS",
 "tags": [
 "BEAUTY",
-"influencer code",
 "MAPPING LLD 27",
 "PRADA WOMEN",
 "WOMEN MAKEUP"
@@ -2563,14 +2601,13 @@
 {
 "t": "Hand Cream",
 "u": "https://myholdal.com/products/women-hand-cream",
-"p": 69.9,
+"p": 48.93,
 "c": 69.9,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614274407747.webp?v=1793094423&width=400",
 "type": "SKIN CARE",
 "tags": [
 "BEAUTY",
-"influencer code",
 "MAPPING LLD 27",
 "PRADA WOMEN",
 "WOMEN SKINCARE"
@@ -2580,14 +2617,13 @@
 {
 "t": "Foundation Optimizer Brush",
 "u": "https://myholdal.com/products/women-foundation-optimizer-brush",
-"p": 98.92,
+"p": 69.24,
 "c": 98.92,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614273757577.jpg?v=1793094383&width=400",
 "type": "BRUSHES",
 "tags": [
 "BEAUTY",
-"influencer code",
 "MAPPING LLD 27",
 "PRADA WOMEN",
 "WOMEN MAKEUP"
@@ -2597,14 +2633,13 @@
 {
 "t": "Eye Shaper Brush",
 "u": "https://myholdal.com/products/women-eye-shaper-brush",
-"p": 74.18,
+"p": 51.93,
 "c": 74.18,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614273757485.jpg?v=1793094348&width=400",
 "type": "BRUSHES",
 "tags": [
 "BEAUTY",
-"influencer code",
 "MAPPING LLD 27",
 "PRADA WOMEN",
 "WOMEN MAKEUP"
@@ -2614,14 +2649,13 @@
 {
 "t": "Eye Definer Brush",
 "u": "https://myholdal.com/products/women-eye-definer-brush",
-"p": 74.18,
+"p": 51.93,
 "c": 74.18,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614273757423.jpg?v=1793094317&width=400",
 "type": "BRUSHES",
 "tags": [
 "BEAUTY",
-"influencer code",
 "MAPPING LLD 27",
 "PRADA WOMEN",
 "WOMEN MAKEUP"
@@ -2631,14 +2665,13 @@
 {
 "t": "Eye Blender Brush",
 "u": "https://myholdal.com/products/women-eye-blender-brush",
-"p": 74.18,
+"p": 51.93,
 "c": 74.18,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614273757317.jpg?v=1793094271&width=400",
 "type": "BRUSHES",
 "tags": [
 "BEAUTY",
-"influencer code",
 "MAPPING LLD 27",
 "PRADA WOMEN",
 "WOMEN MAKEUP"
@@ -2648,14 +2681,13 @@
 {
 "t": "Dimensions Holo Nude Eyeshadow Palette",
 "u": "https://myholdal.com/products/women-dimensions-holo-nude-eyeshadow-palette",
-"p": 106.43,
+"p": 74.5,
 "c": 106.43,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614274173581.webp?v=1793094190&width=400",
 "type": "EYE SHADOW",
 "tags": [
 "BEAUTY",
-"influencer code",
 "MAPPING LLD 27",
 "PRADA WOMEN",
 "WOMEN MAKEUP"
@@ -2665,14 +2697,13 @@
 {
 "t": "Dimensions Eyeshadow Palette",
 "u": "https://myholdal.com/products/women-dimensions-eyeshadow-palette",
-"p": 106.43,
+"p": 74.5,
 "c": 106.43,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614273853057.webp?v=1793094072&width=400",
 "type": "EYE SHADOW",
 "tags": [
 "BEAUTY",
-"influencer code",
 "MAPPING LLD 27",
 "PRADA WOMEN",
 "WOMEN MAKEUP"
@@ -2682,14 +2713,13 @@
 {
 "t": "Concealer Buffer Brush",
 "u": "https://myholdal.com/products/women-concealer-buffer-brush",
-"p": 63.03,
+"p": 44.12,
 "c": 63.03,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614273757546.jpg?v=1793094027&width=400",
 "type": "BRUSHES",
 "tags": [
 "BEAUTY",
-"influencer code",
 "MAPPING LLD 27",
 "PRADA WOMEN",
 "WOMEN MAKEUP"
@@ -2699,14 +2729,13 @@
 {
 "t": "Brow/Line Drawer Brush",
 "u": "https://myholdal.com/products/women-brow-line-drawer-brush",
-"p": 74.18,
+"p": 51.93,
 "c": 74.18,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614273757539.jpg?v=1793093977&width=400",
 "type": "BRUSHES",
 "tags": [
 "BEAUTY",
-"influencer code",
 "MAPPING LLD 27",
 "PRADA WOMEN",
 "WOMEN MAKEUP"
@@ -2716,14 +2745,13 @@
 {
 "t": "Blurring + Micro-Correcting Concealer",
 "u": "https://myholdal.com/products/women-blurring-micro-correcting-concealer",
-"p": 50.92,
+"p": 35.64,
 "c": 50.92,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614274422320.webp?v=1793093857&width=400",
 "type": "CONCEALERS",
 "tags": [
 "BEAUTY",
-"influencer code",
 "MAPPING LLD 27",
 "PRADA WOMEN",
 "WOMEN SKINCARE"
@@ -2733,14 +2761,13 @@
 {
 "t": "Augmented Skin The Serum",
 "u": "https://myholdal.com/products/women-augmented-skin-the-serum",
-"p": 444.12,
+"p": 310.88,
 "c": 444.12,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614273768917.webp?v=1793093776&width=400",
 "type": "SKIN CARE",
 "tags": [
 "BEAUTY",
-"influencer code",
 "MAPPING LLD 27",
 "PRADA WOMEN",
 "WOMEN SKINCARE"
@@ -2750,14 +2777,13 @@
 {
 "t": "Augmented Skin Eye Cream",
 "u": "https://myholdal.com/products/women-augmented-skin-eye-cream",
-"p": 333.58,
+"p": 233.51,
 "c": 333.58,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614273979542.webp?v=1793093706&width=400",
 "type": "SKIN CARE",
 "tags": [
 "BEAUTY",
-"influencer code",
 "MAPPING LLD 27",
 "PRADA WOMEN",
 "WOMEN SKINCARE"
@@ -2767,14 +2793,13 @@
 {
 "t": "Augmented Skin Essence",
 "u": "https://myholdal.com/products/women-augmented-skin-essence",
-"p": 139.13,
+"p": 97.39,
 "c": 139.13,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614273768955.webp?v=1793093619&width=400",
 "type": "SKIN CARE",
 "tags": [
 "BEAUTY",
-"influencer code",
 "MAPPING LLD 27",
 "PRADA WOMEN",
 "WOMEN SKINCARE"
@@ -2784,14 +2809,13 @@
 {
 "t": "Augmented Skin Cream",
 "u": "https://myholdal.com/products/women-augmented-skin-cream",
-"p": 426.96,
+"p": 298.87,
 "c": 426.96,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614273768856.webp?v=1793093565&width=400",
 "type": "SKIN CARE",
 "tags": [
 "BEAUTY",
-"influencer code",
 "MAPPING LLD 27",
 "PRADA WOMEN",
 "WOMEN SKINCARE"
@@ -2801,14 +2825,13 @@
 {
 "t": "Augmented Skin Cleanser",
 "u": "https://myholdal.com/products/women-augmented-skin-cleanser",
-"p": 117.73,
+"p": 82.41,
 "c": 117.73,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614273768993.webp?v=1793093498&width=400",
 "type": "SKIN CARE",
 "tags": [
 "BEAUTY",
-"influencer code",
 "MAPPING LLD 27",
 "PRADA WOMEN",
 "WOMEN SKINCARE"
@@ -2818,7 +2841,7 @@
 {
 "t": "Vertigo Lift Mascara",
 "u": "https://myholdal.com/products/women-vertigo-lift-mascara",
-"p": 49.15,
+"p": 34.41,
 "c": 49.15,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614274171815.webp?v=1793093183&width=400",
@@ -2826,7 +2849,6 @@
 "tags": [
 "BEAUTY",
 "GIORGIO ARMANI WOMEN",
-"influencer code",
 "MAPPING ARMANI 27",
 "WOMEN MAKEUP"
 ],
@@ -2835,7 +2857,7 @@
 {
 "t": "Prisma Glass Lip Gloss",
 "u": "https://myholdal.com/products/women-prisma-glass-lip-gloss",
-"p": 47.76,
+"p": 33.43,
 "c": 47.76,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614274192193.webp?v=1793092973&width=400",
@@ -2843,7 +2865,6 @@
 "tags": [
 "BEAUTY",
 "GIORGIO ARMANI WOMEN",
-"influencer code",
 "MAPPING ARMANI 27",
 "WOMEN MAKEUP"
 ],
@@ -2852,7 +2873,7 @@
 {
 "t": "Prisma Glass Icy Plumper",
 "u": "https://myholdal.com/products/women-prisma-glass-icy-plumper",
-"p": 47.76,
+"p": 33.43,
 "c": 47.76,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614274321975.webp?v=1793092846&width=400",
@@ -2860,7 +2881,6 @@
 "tags": [
 "BEAUTY",
 "GIORGIO ARMANI WOMEN",
-"influencer code",
 "MAPPING ARMANI 27",
 "WOMEN MAKEUP"
 ],
@@ -2869,7 +2889,7 @@
 {
 "t": "Power Fabric Setting Powder",
 "u": "https://myholdal.com/products/women-power-fabric-setting-powder",
-"p": 93.85,
+"p": 65.7,
 "c": 93.85,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614273517805.jpg?v=1793092795&width=400",
@@ -2877,7 +2897,6 @@
 "tags": [
 "BEAUTY",
 "GIORGIO ARMANI WOMEN",
-"influencer code",
 "MAPPING ARMANI 27",
 "WOMEN MAKEUP"
 ],
@@ -2886,7 +2905,7 @@
 {
 "t": "Luminous Silk Hydrating & Brightening Concealer",
 "u": "https://myholdal.com/products/women-luminous-silk-hydrating-brightening-concealer",
-"p": 54.67,
+"p": 38.27,
 "c": 54.67,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614272951600.webp?v=1793092669&width=400",
@@ -2894,7 +2913,6 @@
 "tags": [
 "BEAUTY",
 "GIORGIO ARMANI WOMEN",
-"influencer code",
 "MAPPING ARMANI 27",
 "WOMEN MAKEUP"
 ],
@@ -2903,7 +2921,7 @@
 {
 "t": "Luminous Silk Glow Blush",
 "u": "https://myholdal.com/products/women-luminous-silk-glow-blush",
-"p": 56.37,
+"p": 39.46,
 "c": 56.37,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614273735667.jpg?v=1793092410&width=400",
@@ -2911,7 +2929,6 @@
 "tags": [
 "BEAUTY",
 "GIORGIO ARMANI WOMEN",
-"influencer code",
 "MAPPING ARMANI 27",
 "WOMEN MAKEUP"
 ],
@@ -2920,7 +2937,7 @@
 {
 "t": "Luminous Silk Cheek Tint Blush",
 "u": "https://myholdal.com/products/women-luminous-silk-cheek-tint-blush",
-"p": 59.03,
+"p": 41.32,
 "c": 59.03,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614274190847.webp?v=1793092082&width=400",
@@ -2928,7 +2945,6 @@
 "tags": [
 "BEAUTY",
 "GIORGIO ARMANI WOMEN",
-"influencer code",
 "MAPPING ARMANI 27",
 "WOMEN MAKEUP"
 ],
@@ -2937,7 +2953,7 @@
 {
 "t": "Lip Power",
 "u": "https://myholdal.com/products/women-lip-power",
-"p": 54.32,
+"p": 38.02,
 "c": 54.32,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614273725835.webp?v=1793092019&width=400",
@@ -2945,7 +2961,6 @@
 "tags": [
 "BEAUTY",
 "GIORGIO ARMANI WOMEN",
-"influencer code",
 "MAPPING ARMANI 27",
 "WOMEN MAKEUP"
 ],
@@ -2954,7 +2969,7 @@
 {
 "t": "Fluid Sheer Glow Enhancer",
 "u": "https://myholdal.com/products/women-fluid-sheer-glow-enhancer",
-"p": 50.67,
+"p": 35.47,
 "c": 50.67,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614272968141.webp?v=1793091859&width=400",
@@ -2962,7 +2977,6 @@
 "tags": [
 "BEAUTY",
 "GIORGIO ARMANI WOMEN",
-"influencer code",
 "MAPPING ARMANI 27",
 "WOMEN MAKEUP"
 ],
@@ -2971,7 +2985,7 @@
 {
 "t": "Eye Tint Long-Lasting Liquid Eye Shadow",
 "u": "https://myholdal.com/products/women-eye-tint-long-lasting-liquid-eye-shadow",
-"p": 43.73,
+"p": 30.61,
 "c": 43.73,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614273744898.webp?v=1793091530&width=400",
@@ -2979,7 +2993,6 @@
 "tags": [
 "BEAUTY",
 "GIORGIO ARMANI WOMEN",
-"influencer code",
 "MAPPING ARMANI 27",
 "WOMEN MAKEUP"
 ],
@@ -2988,7 +3001,7 @@
 {
 "t": "Eccentrico Mascara",
 "u": "https://myholdal.com/products/women-eccentrico-mascara",
-"p": 51.85,
+"p": 36.3,
 "c": 51.85,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614271327611.webp?v=1793091465&width=400",
@@ -2996,7 +3009,6 @@
 "tags": [
 "BEAUTY",
 "GIORGIO ARMANI WOMEN",
-"influencer code",
 "MAPPING ARMANI 27",
 "WOMEN MAKEUP"
 ],
@@ -3005,7 +3017,7 @@
 {
 "t": "Armani Privé Cuir Doré",
 "u": "https://myholdal.com/products/buy-armani-prive-cuir-dore-lebanon",
-"p": 382.05,
+"p": 267.44,
 "c": 382.05,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614274819014.jpg?v=1793027561&width=400",
@@ -3014,7 +3026,6 @@
 "BEAUTY",
 "GIORGIO ARMANI UNISEX",
 "GROOMING",
-"influencer code",
 "MAPPING TODAY 26",
 "MEN FRAGRANCES",
 "WOMEN FRAGRANCES"
@@ -3024,14 +3035,13 @@
 {
 "t": "Cils Booster XL",
 "u": "https://myholdal.com/products/buy-cils-booster-xl-lebanon",
-"p": 39.12,
+"p": 27.38,
 "c": 39.12,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614272161832_acfbdc37-035c-4343-a1fb-0caa5f925128.webp?v=1793027754&width=400",
 "type": "EYEBROWS",
 "tags": [
 "BEAUTY",
-"influencer code",
 "LANCOME WOMEN",
 "MAPPING TODAY 26",
 "WOMEN MAKEUP"
@@ -3041,14 +3051,13 @@
 {
 "t": "Rénergie Collagen + Lift-Xtend Cream",
 "u": "https://myholdal.com/products/buy-renergie-collagen-lift-xtend-cream-lebanon",
-"p": 115.46,
+"p": 80.82,
 "c": 115.46,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/4936968887734.webp?v=1793027682&width=400",
 "type": "CREAMS",
 "tags": [
 "BEAUTY",
-"influencer code",
 "LANCOME WOMEN",
 "MAPPING TODAY 26",
 "WOMEN SKINCARE"
@@ -3058,14 +3067,13 @@
 {
 "t": "Génifique Ultimate Recovery Serum Refill",
 "u": "https://myholdal.com/products/buy-genifique-ultimate-recovery-serum-refill-lebanon",
-"p": 106.92,
+"p": 74.84,
 "c": 106.92,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614274142341.webp?v=1793028621&width=400",
 "type": "SERUMS",
 "tags": [
 "BEAUTY",
-"influencer code",
 "LANCOME WOMEN",
 "MAPPING TODAY 26",
 "WOMEN SKINCARE"
@@ -3075,14 +3083,13 @@
 {
 "t": "Absolue L'Extrait The Elixir Cream - Refillable",
 "u": "https://myholdal.com/products/buy-absolue-lextrait-the-elixir-cream-refillable-lebanon",
-"p": 481.75,
+"p": 337.23,
 "c": 481.75,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614273983631.webp?v=1793027998&width=400",
 "type": "CREAMS",
 "tags": [
 "BEAUTY",
-"influencer code",
 "LANCOME WOMEN",
 "MAPPING TODAY 26",
 "WOMEN SKINCARE"
@@ -3092,14 +3099,13 @@
 {
 "t": "Ô Zenith Eau de Toilette",
 "u": "https://myholdal.com/products/buy-o-zenith-eau-de-toilette-lebanon",
-"p": 113.68,
+"p": 79.58,
 "c": 113.68,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614274380392.webp?v=1793028361&width=400",
 "type": "EAU DE TOILETTE",
 "tags": [
 "BEAUTY",
-"influencer code",
 "LANCOME WOMEN",
 "MAPPING TODAY 26",
 "WOMEN FRAGRANCES"
@@ -3109,14 +3115,13 @@
 {
 "t": "Absolue Rose 80 Micro-Diffusion In Emulsion",
 "u": "https://myholdal.com/products/buy-absolue-rose-80-micro-diffusion-in-emulsion-lebanon",
-"p": 251.32,
+"p": 175.92,
 "c": 251.32,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614274142624.webp?v=1793028074&width=400",
 "type": "EMULSION",
 "tags": [
 "BEAUTY",
-"influencer code",
 "LANCOME WOMEN",
 "MAPPING TODAY 26",
 "WOMEN SKINCARE"
@@ -3126,14 +3131,13 @@
 {
 "t": "Ôver The Top Eau de Toilette",
 "u": "https://myholdal.com/products/buy-over-the-top-eau-de-toilette-lebanon",
-"p": 113.68,
+"p": 79.58,
 "c": 113.68,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614274380408.webp?v=1793028482&width=400",
 "type": "EAU DE TOILETTE",
 "tags": [
 "BEAUTY",
-"influencer code",
 "LANCOME WOMEN",
 "MAPPING TODAY 26",
 "WOMEN FRAGRANCES"
@@ -3143,14 +3147,13 @@
 {
 "t": "Rénergie H.P.N. Uvmune SPF50 Cream Refill",
 "u": "https://myholdal.com/products/buy-renergie-h-p-n-uvmune-spf50-cream-refill-lebanon",
-"p": 90.63,
+"p": 63.44,
 "c": 90.63,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614274417876_0ec201ef-0c6b-4683-bedb-d15a781494f9.webp?v=1793028574&width=400",
 "type": "CREAMS",
 "tags": [
 "BEAUTY",
-"influencer code",
 "LANCOME WOMEN",
 "MAPPING TODAY 26",
 "WOMEN SKINCARE"
@@ -3160,14 +3163,13 @@
 {
 "t": "Ôff Now Eau de Toilette",
 "u": "https://myholdal.com/products/buy-off-now-eau-de-toilette-lebanon",
-"p": 113.68,
+"p": 79.58,
 "c": 113.68,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614274380415.webp?v=1793028508&width=400",
 "type": "EAU DE TOILETTE",
 "tags": [
 "BEAUTY",
-"influencer code",
 "LANCOME WOMEN",
 "MAPPING TODAY 26",
 "WOMEN FRAGRANCES"
@@ -3177,14 +3179,13 @@
 {
 "t": "Ô Oui Eau de Toilette",
 "u": "https://myholdal.com/products/buy-o-oui-eau-de-toilette-lebanon",
-"p": 113.68,
+"p": 79.58,
 "c": 113.68,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614274518382.webp?v=1793028681&width=400",
 "type": "EAU DE TOILETTE",
 "tags": [
 "BEAUTY",
-"influencer code",
 "LANCOME WOMEN",
 "MAPPING TODAY 26",
 "WOMEN FRAGRANCES"
@@ -3194,14 +3195,13 @@
 {
 "t": "Ô Cool Hair & Body Mist",
 "u": "https://myholdal.com/products/buy-o-cool-hair-body-mist-lebanon",
-"p": 35.22,
+"p": 24.65,
 "c": 35.22,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614274517859.webp?v=1793028653&width=400",
 "type": "BODY MISTS",
 "tags": [
 "BEAUTY",
-"influencer code",
 "LANCOME WOMEN",
 "MAPPING TODAY 26",
 "WOMEN FRAGRANCES"
@@ -3211,14 +3211,13 @@
 {
 "t": "Hydra Zen Gel Cream 72H Moisturizer",
 "u": "https://myholdal.com/products/buy-hydra-zen-gel-cream-72h-moisturizer-lebanon",
-"p": 45.47,
+"p": 31.83,
 "c": 45.47,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614274633276.webp?v=1793028751&width=400",
 "type": "CREAMS",
 "tags": [
 "BEAUTY",
-"influencer code",
 "LANCOME WOMEN",
 "MAPPING TODAY 26",
 "WOMEN SKINCARE"
@@ -3228,14 +3227,13 @@
 {
 "t": "Hydra Zen Cream",
 "u": "https://myholdal.com/products/buy-hydra-zen-cream-lebanon",
-"p": 45.47,
+"p": 31.83,
 "c": 45.47,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614274633269.webp?v=1793028721&width=400",
 "type": "CREAMS",
 "tags": [
 "BEAUTY",
-"influencer code",
 "LANCOME WOMEN",
 "MAPPING TODAY 26",
 "WOMEN SKINCARE"
@@ -3252,7 +3250,6 @@
 "type": "EAU DE PARFUM",
 "tags": [
 "BEAUTY",
-"influencer code",
 "MAPPING TODAY 26",
 "MIU MIU WOMEN",
 "WOMEN FRAGRANCES"
@@ -3262,14 +3259,13 @@
 {
 "t": "Vendetta Donna Eau de Parfum",
 "u": "https://myholdal.com/products/buy-vendetta-donna-eau-de-parfum-lebanon",
-"p": 152.51,
+"p": 106.76,
 "c": 152.51,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614274798302.webp?v=1793029031&width=400",
 "type": "EAU DE PARFUM",
 "tags": [
 "BEAUTY",
-"influencer code",
 "MAPPING TODAY 26",
 "VALENTINO WOMEN",
 "WOMEN FRAGRANCES"
@@ -3279,14 +3275,13 @@
 {
 "t": "Vendetta Uomo Eau de Parfum",
 "u": "https://myholdal.com/products/buy-vendetta-uomo-eau-de-parfum-lebanon",
-"p": 124.42,
+"p": 87.09,
 "c": 124.42,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614274798197.webp?v=1793028971&width=400",
 "type": "EAU DE PARFUM",
 "tags": [
 "GROOMING",
-"influencer code",
 "MAPPING TODAY 26",
 "MEN FRAGRANCES",
 "VALENTINO MEN"
@@ -3296,14 +3291,13 @@
 {
 "t": "Paradoxe Eau de Parfum",
 "u": "https://myholdal.com/products/buy-paradoxe-eau-de-parfum-lebanon-4",
-"p": 97.66,
+"p": 68.36,
 "c": 97.66,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614273760713.webp?v=1793028892&width=400",
 "type": "PARFUM",
 "tags": [
 "BEAUTY",
-"influencer code",
 "MAPPING TODAY 26",
 "PRADA WOMEN",
 "WOMEN FRAGRANCES"
@@ -3313,14 +3307,13 @@
 {
 "t": "Black Opium Eau de Parfum Pink Glaze",
 "u": "https://myholdal.com/products/buy-black-opium-eau-de-parfum-pink-glaze-lebanon",
-"p": 141.74,
+"p": 99.22,
 "c": 141.74,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614274788822.webp?v=1793029366&width=400",
 "type": "EAU DE PARFUM",
 "tags": [
 "BEAUTY",
-"influencer code",
 "MAPPING TODAY 26",
 "WOMEN FRAGRANCES",
 "YVES SAINT LAURENT WOMEN"
@@ -3330,14 +3323,13 @@
 {
 "t": "Paradoxe Virtual Flower Eau de Parfum",
 "u": "https://myholdal.com/products/buy-paradoxe-virtual-flower-eau-de-parfum-lebanon-4",
-"p": 97.66,
+"p": 68.36,
 "c": 97.66,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614274000610.webp?v=1793028917&width=400",
 "type": "EAU DE PARFUM",
 "tags": [
 "BEAUTY",
-"influencer code",
 "MAPPING TODAY 26",
 "PRADA WOMEN",
 "WOMEN FRAGRANCES"
@@ -3347,14 +3339,13 @@
 {
 "t": "Make Me Blush Cream Blush",
 "u": "https://myholdal.com/products/buy-make-me-blush-cream-blush-lebanon",
-"p": 69.13,
+"p": 48.39,
 "c": 69.13,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614274932539.webp?v=1793029445&width=400",
 "type": "BLUSHES",
 "tags": [
 "BEAUTY",
-"influencer code",
 "MAPPING TODAY 26",
 "WOMEN MAKEUP",
 "YVES SAINT LAURENT WOMEN"
@@ -3364,7 +3355,7 @@
 {
 "t": "Vichy Liftactiv Collagen Specialist 16 Eye Serum 15ml",
 "u": "https://myholdal.com/products/vichy-liftactiv-collagen-16-eye-serum-15ml-lebanon",
-"p": 37.98,
+"p": 24.69,
 "c": 37.98,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3337875943932_1.jpg?v=1792395349&width=400",
@@ -3373,7 +3364,6 @@
 "BEAUTY",
 "BRANDS UNISEX",
 "GROOMING",
-"influencer code",
 "MEN DERMA SHOP ALL",
 "MEN SKINCARE",
 "VICHY UNISEX",
@@ -4546,7 +4536,7 @@
 "WATCHES Women",
 "WOMEN WATCHES"
 ],
-"in": true
+"in": false
 },
 {
 "t": "DKNY Women Signature Shape Watch DK1L172M0035",
@@ -6224,7 +6214,7 @@
 "WATCHES Women",
 "WOMEN WATCHES"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Casio Women 3H Watch LTP-V007L-1BUDF",
@@ -9058,7 +9048,7 @@
 {
 "t": "CeraVe Moisturising Cream for Dry to Very Dry Skin 3 Essential Ceramides 340g",
 "u": "https://myholdal.com/products/buy-cerave-moisturising-cream-for-dry-to-very-dry-skin-3-essential-ceramides-340g-lebanon",
-"p": 21.31,
+"p": 13.85,
 "c": 21.31,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/8901526652945-01.jpg?v=1785920251&width=400",
@@ -9068,17 +9058,17 @@
 "BRANDS UNISEX",
 "CERAVE UNISEX",
 "GROOMING",
-"influencer code",
 "MEN DERMA SHOP ALL",
 "MEN SKINCARE",
-"SKINCARE sunscreens"
+"SKINCARE sunscreens",
+"WOMEN SKINCARE"
 ],
 "in": true
 },
 {
 "t": "Happy Charms",
 "u": "https://myholdal.com/products/buy-happy-charms-lebanon",
-"p": 27.0,
+"p": 18.9,
 "c": 27.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/010295A001_8011607408863_happy_charm_big_01072025151159.png?v=1791530267&width=400",
@@ -9116,7 +9106,7 @@
 {
 "t": "Vichy 72 Hours Invisible Resist Deodorant for Women 50 ML",
 "u": "https://myholdal.com/products/buy-vichy-72-hours-invisible-resist-deodorant-for-women-50-ml-lebanon",
-"p": 15.29,
+"p": 9.94,
 "c": 15.29,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/1_612adf8b-c5b9-4a37-adbe-f4159ac977b9.png?v=1757398942&width=400",
@@ -9129,14 +9119,14 @@
 "DERMA WOMEN",
 "DERMA WOMEN BODY CARE",
 "DERMA WOMEN NEW DROPS",
-"influencer code"
+"live sale WOMEN"
 ],
 "in": true
 },
 {
 "t": "Vichy 72 Hours Invisible Resist Deodorant for Men 50 ML",
 "u": "https://myholdal.com/products/buy-vichy-72-hours-invisible-resist-deodorant-for-men-50-ml-lebanon",
-"p": 15.29,
+"p": 9.94,
 "c": 15.29,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/1_d55000a5-f227-41bc-be0d-bbc5a80e349b.png?v=1757398941&width=400",
@@ -9149,14 +9139,14 @@
 "DERMA MEN BODY CARE",
 "DERMA MEN NEW DROPS",
 "GROOMING",
-"influencer code"
+"MEN BODY & BATH"
 ],
 "in": true
 },
 {
 "t": "La Roche Posay Hydraphase HA Light Daily Face Moisturiser 40ml",
 "u": "https://myholdal.com/products/buy-la-roche-posay-hydraphase-ha-light-daily-face-moisturiser-40ml-lebanon",
-"p": 26.01,
+"p": 16.91,
 "c": 26.01,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3337875941150_1.jpg?v=1781252558&width=400",
@@ -9167,16 +9157,16 @@
 "Derma adha offers 26",
 "DERMA UNISEX CLEANSING",
 "GROOMING",
-"influencer code",
 "LA ROCHE POSAY UNISEX",
-"MEN SKINCARE"
+"MEN SKINCARE",
+"SKINCARE - CLEANSERS & TONERS"
 ],
 "in": true
 },
 {
 "t": "La Roche Posay Hydraphase HA Rich Hyaluronic Acid Moisturizer 40ML",
 "u": "https://myholdal.com/products/buy-la-roche-posay-hydraphase-ha-rich-hyaluronic-acid-moisturizer-40ml-lebanon",
-"p": 27.97,
+"p": 18.18,
 "c": 27.97,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3337875941143_1.jpg?v=1786353116&width=400",
@@ -9184,7 +9174,6 @@
 "tags": [
 "BEAUTY",
 "GROOMING",
-"influencer code",
 "LA ROCHE POSAY MEN",
 "LA ROCHE POSAY WOMEN",
 "MEN SKINCARE",
@@ -9215,7 +9204,7 @@
 {
 "t": "THE PLUMPING? LIP GLOSS 10 ml",
 "u": "https://myholdal.com/products/buy-the-plumping-lip-gloss-10-ml-lebanon",
-"p": 25.53,
+"p": 19.15,
 "c": 25.53,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/Screenshot2026-10-05160808.png?v=1791205705&width=400",
@@ -9231,7 +9220,7 @@
 {
 "t": "THE REVITALIZING? EXPRESS MASK 75 ml",
 "u": "https://myholdal.com/products/buy-the-revitalizing-express-mask-75-ml-lebanon",
-"p": 39.96,
+"p": 29.97,
 "c": 39.96,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/Screenshot2026-10-05160905.png?v=1791205775&width=400",
@@ -9247,7 +9236,7 @@
 {
 "t": "THE FRESH? RADIANCE GEL-CREAM? 50 ml",
 "u": "https://myholdal.com/products/buy-the-fresh-radiance-gel-cream-50-ml-lebanon",
-"p": 51.06,
+"p": 38.3,
 "c": 51.06,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/Screenshot2026-10-05160613_081ae5d5-2f40-4f2e-a4af-e2757cce0b5f.png?v=1791205604&width=400",
@@ -9263,7 +9252,7 @@
 {
 "t": "THE RADIANCE PLUMPING CREAM 50 ml",
 "u": "https://myholdal.com/products/buy-the-radiance-plumping-cream-50-ml-lebanon",
-"p": 51.06,
+"p": 38.3,
 "c": 51.06,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/Screenshot2026-10-05160511.png?v=1791205529&width=400",
@@ -9279,7 +9268,7 @@
 {
 "t": "THE RADIANCE BOOSTER SERUM? 30 ml",
 "u": "https://myholdal.com/products/buy-the-radiance-booster-serum-30-ml-lebanon",
-"p": 54.39,
+"p": 40.79,
 "c": 54.39,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/Screenshot2026-10-05160717.png?v=1791205651&width=400",
@@ -9295,7 +9284,7 @@
 {
 "t": "Ultra Serum Length-Boosting Serum",
 "u": "https://myholdal.com/products/buy-ultra-serum-length-boosting-serum-lebanon",
-"p": 55.5,
+"p": 41.63,
 "c": 55.5,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/PHYTOPARIS-PHYTOPHANEREULTRASERUM-BOTTLEOPEN.png?v=1791205827&width=400",
@@ -12812,7 +12801,7 @@
 "LACOSTE FW21",
 "LACOSTE SHOES"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Regular Fit Striped Oxford Shirt - CH5623",
@@ -18742,7 +18731,7 @@
 {
 "t": "CeraVe SA Smoothing Cleanser with Salicylic Acid for Dry, Rough & Bumpy Skin 236ml",
 "u": "https://myholdal.com/products/buy-cerave-sa-smoothing-cleanser-with-salicylic-acid-for-dry-rough-bumpy-skin-236ml-lebanon",
-"p": 13.72,
+"p": 8.92,
 "c": 13.72,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3337875795456-01.jpg?v=1785920193&width=400",
@@ -18752,10 +18741,10 @@
 "BRANDS UNISEX",
 "CERAVE UNISEX",
 "GROOMING",
-"influencer code",
 "MEN DERMA SHOP ALL",
 "MEN SKINCARE",
-"SKINCARE sunscreens"
+"SKINCARE sunscreens",
+"WOMEN SKINCARE"
 ],
 "in": true
 },
@@ -22639,7 +22628,7 @@
 "WOMEN",
 "WOMEN BAGS"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Large ivory Tartan shopper bag",
@@ -27500,7 +27489,7 @@
 {
 "t": "Cerave Moisturizing Lotion for Normal to Dry Skin with Hyaluronic Acid 236 ML",
 "u": "https://myholdal.com/products/buy-cerave-moisturizing-lotion-for-normal-to-dry-skin-with-hyaluronic-acid-236-ml-lebanon",
-"p": 17.22,
+"p": 11.19,
 "c": 17.22,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/8901526652907-01_f0dfe7e7-ab76-4ccc-8c88-7338bad3b8bb.jpg?v=1782365236&width=400",
@@ -27510,7 +27499,6 @@
 "BRANDS UNISEX",
 "CERAVE UNISEX",
 "GROOMING",
-"influencer code",
 "MEN DERMA SHOP ALL",
 "MEN SKINCARE",
 "WOMEN SKINCARE"
@@ -27520,7 +27508,7 @@
 {
 "t": "La Roche Posay Hyalu B5 Suractivated Anti-wrinkle Replumping Serum 30 ML",
 "u": "https://myholdal.com/products/buy-la-roche-posay-hyalu-b5-suractivated-anti-wrinkle-replumping-serum-lebanon",
-"p": 46.91,
+"p": 30.49,
 "c": 46.91,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3337875920582_1.jpg?v=1781502112&width=400",
@@ -27560,7 +27548,7 @@
 {
 "t": "Teint Idole Ultra Wear All Over Concealer 410 Bisque W 050",
 "u": "https://myholdal.com/products/buy-teint-idole-ultra-wear-all-over-concealer-410-bisque-w-050-lebanon",
-"p": 49.21,
+"p": 34.45,
 "c": 49.21,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/products/teintidole.png?v=1757421258&width=400",
@@ -27568,19 +27556,19 @@
 "tags": [
 "BEAUTY",
 "BRANDS WOMEN",
-"influencer code",
 "lancome june makeup",
 "LANCOME MAKEUP",
 "LANCOME SD 30",
 "LANCOME WOMEN",
-"loreal adha 26 20"
+"loreal adha 26 20",
+"lrl 40 not discounted"
 ],
 "in": false
 },
 {
 "t": "Le Vestiaire Des Parfums Lavalliére",
 "u": "https://myholdal.com/products/buy-le-vestiaire-des-parfums-lavalliere-lebanon",
-"p": 334.67,
+"p": 234.27,
 "c": 334.67,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/900900_7_a5c77442-ddd3-4eeb-b2a8-2a6cfec76add.png?v=1757420951&width=400",
@@ -27592,15 +27580,15 @@
 "FRAGRANCES - FOR HER",
 "FRAGRANCES - FOR HIM",
 "GROOMING",
-"influencer code",
-"june YSL Women Fragrance"
+"june YSL Women Fragrance",
+"LLD ALREADY DISCOUNTED"
 ],
 "in": true
 },
 {
 "t": "MULTIPLAY",
 "u": "https://myholdal.com/products/buy-multiplay-lebanon",
-"p": 15.0,
+"p": 10.5,
 "c": 15.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/240664A001-8011607412587_MULTIPLAY_big_15122025150149.png?v=1785399635&width=400",
@@ -27620,8 +27608,8 @@
 {
 "t": "Cerave Retinol Serum",
 "u": "https://myholdal.com/products/cerave-bundle-2-1",
-"p": 46.95,
-"c": 46.95,
+"p": 30.52,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/temp_zj0RLkM.jpg?v=1788439858&width=400",
 "type": "FACE CREAM",
@@ -27640,8 +27628,8 @@
 {
 "t": "Blemish Control Patches",
 "u": "https://myholdal.com/products/cerave-bundle-2",
-"p": 32.2,
-"c": 32.2,
+"p": 20.93,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/temp_8QocCrt.jpg?v=1788439808&width=400",
 "type": "FACE CLEANSER",
@@ -27660,8 +27648,8 @@
 {
 "t": "La Roche Posay Buy Effaclar Duo+M 40ml & Effaclar Duo+M Patch - Get Anthelios Invisible Fluid",
 "u": "https://myholdal.com/products/cerave-bundle-1",
-"p": 40.76,
-"c": 40.76,
+"p": 26.49,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/temp_gXJuORN.jpg?v=1788439758&width=400",
 "type": "SKIN CARE",
@@ -27680,8 +27668,8 @@
 {
 "t": "La Roche Posay Buy 2 from the Effaclar Gel 200ml - Get Anthelios Invisible Fluid",
 "u": "https://myholdal.com/products/lrp-bundle-1",
-"p": 30.58,
-"c": 30.58,
+"p": 19.88,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/temp_0M7uJSU.jpg?v=1788439636&width=400",
 "type": "FACE CLEANSER",
@@ -27700,7 +27688,7 @@
 {
 "t": "Crème de Corps with Cocoa Butter",
 "u": "https://myholdal.com/products/creme-de-corps-refillable-body-lotion-with-cocoa-butter-copy",
-"p": 70.0,
+"p": 49.0,
 "c": 70.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/500ml_cdc.webp?v=1788429055&width=400",
@@ -27708,7 +27696,6 @@
 "tags": [
 "BEAUTY",
 "GROOMING",
-"influencer code",
 "KIEHL'S UNISEX",
 "KIEHLS",
 "KIEHLS WOMEN",
@@ -27720,14 +27707,13 @@
 {
 "t": "Absolue The Eye Cream",
 "u": "https://myholdal.com/products/buy-absolue-the-eye-cream-lebanon",
-"p": 154.32,
+"p": 108.02,
 "c": 154.32,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/lac-dmi-absolue_eye_cream-20ml-main-v2.jpg?v=1788425508&width=400",
 "type": "EYE CREAM",
 "tags": [
 "BEAUTY",
-"influencer code",
 "LANCOME WOMEN",
 "WOMEN SKINCARE"
 ],
@@ -27736,14 +27722,13 @@
 {
 "t": "Absolue Rich Cream",
 "u": "https://myholdal.com/products/buy-absolue-rich-cream-lebanon",
-"p": 313.26,
+"p": 219.28,
 "c": 313.26,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614272049161_absolue-rich-cream-refillable_60ml_main.webp?v=1788425282&width=400",
 "type": "FACE CREAM",
 "tags": [
 "BEAUTY",
-"influencer code",
 "LANCOME WOMEN",
 "WOMEN SKINCARE"
 ],
@@ -27752,7 +27737,7 @@
 {
 "t": "ARMANI/PRIVÉ Vert Malachite Set",
 "u": "https://myholdal.com/products/buy-armani-prive-vert-malachite-set-lebanon",
-"p": 374.56,
+"p": 262.19,
 "c": 374.56,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/219384211_IN.jpg?v=1788425203&width=400",
@@ -27762,10 +27747,10 @@
 "GIORGIO ARMANI MEN",
 "GIORGIO ARMANI WOMEN",
 "GROOMING",
-"influencer code",
 "MEN FRAGRANCES",
 "MEN GIFTING",
-"WOMEN FRAGRANCES"
+"WOMEN FRAGRANCES",
+"WOMEN GIFTING"
 ],
 "in": false
 },
@@ -27798,7 +27783,7 @@
 {
 "t": "ARMANI/PRIVÉ Vétiver D'Hiver",
 "u": "https://myholdal.com/products/buy-armani-prive-vetiver-dhiver-lebanon",
-"p": 299.73,
+"p": 209.81,
 "c": 299.73,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614272798694.jpg?v=1788422742&width=400",
@@ -27808,7 +27793,6 @@
 "GIORGIO ARMANI MEN",
 "GIORGIO ARMANI WOMEN",
 "GROOMING",
-"influencer code",
 "MEN FRAGRANCES",
 "WOMEN FRAGRANCES"
 ],
@@ -28252,7 +28236,7 @@
 "KIPLING BTS24",
 "kipling bts26"
 ],
-"in": true
+"in": false
 },
 {
 "t": "PREPPY-12074",
@@ -28397,7 +28381,7 @@
 {
 "t": "La Roche Posay Anthelios UVAIR Daily SPF50+ Medium Complexion 50ml",
 "u": "https://myholdal.com/products/buy-la-roche-posay-anthelios-uvair-daily-spf50-medium-complexion-50ml-lebanon",
-"p": 44.98,
+"p": 29.24,
 "c": 44.98,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3337875932264_1.jpg?v=1786349284&width=400",
@@ -28405,7 +28389,6 @@
 "tags": [
 "BEAUTY",
 "GROOMING",
-"influencer code",
 "LA ROCHE POSAY MEN",
 "LA ROCHE POSAY WOMEN",
 "MEN SKINCARE",
@@ -28416,7 +28399,7 @@
 {
 "t": "Vichy Liftactiv Collagen 16 Collagel 50 ML",
 "u": "https://myholdal.com/products/vichy-liftactiv-hydrating-and-boosting-collagen-16-collagel-with-co-bonding-technology-for-men-and-women-50ml-lebanon",
-"p": 39.84,
+"p": 25.9,
 "c": 39.84,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3337875945851_1.jpg?v=1787832682&width=400",
@@ -28425,7 +28408,6 @@
 "BEAUTY",
 "BRANDS UNISEX",
 "GROOMING",
-"influencer code",
 "MEN DERMA SHOP ALL",
 "MEN SKINCARE",
 "VICHY UNISEX",
@@ -28436,7 +28418,7 @@
 {
 "t": "La Roche-Posay LIPIKAR Balm AP+Max Triple-Action Balm with Neurobioma for Ultra-Dry to Atopic Eczema-Prone Skin 75ML",
 "u": "https://myholdal.com/products/buy-la-roche-posay-lipikar-balm-ap-max-triple-action-balm-with-neurobioma-for-ultra-dry-to-atopic-eczema-prone-skin-75ml-lebanon",
-"p": 17.68,
+"p": 11.49,
 "c": 17.68,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3337875930116_1.jpg?v=1786350711&width=400",
@@ -28444,7 +28426,6 @@
 "tags": [
 "BEAUTY",
 "GROOMING",
-"influencer code",
 "LA ROCHE POSAY MEN",
 "LA ROCHE POSAY WOMEN",
 "MEN SKINCARE",
@@ -28551,14 +28532,13 @@
 {
 "t": "Lip Idôle Lip Shaper",
 "u": "https://myholdal.com/products/buy-lip-idole-lip-shaper-lebanon",
-"p": 32.21,
+"p": 22.55,
 "c": 32.21,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614274195477_lip-idole-lip-shaper_26-dont-be-chai_main.webp?v=1787575586&width=400",
 "type": "LIP LINERS",
 "tags": [
 "BEAUTY",
-"influencer code",
 "LANCOME WOMEN",
 "WOMEN MAKEUP"
 ],
@@ -28567,14 +28547,13 @@
 {
 "t": "Paradigme Le Parfum",
 "u": "https://myholdal.com/products/buy-paradigme-le-parfum-lebanon",
-"p": 140.97,
+"p": 98.68,
 "c": 140.97,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614274485028.webp?v=1787303752&width=400",
 "type": "FRAGRANCES",
 "tags": [
 "GROOMING",
-"influencer code",
 "LID & LLD NEW ITEMS",
 "MEN FRAGRANCES",
 "PRADA MEN"
@@ -28584,14 +28563,13 @@
 {
 "t": "I Will Eau De Parfum",
 "u": "https://myholdal.com/products/buy-i-will-eau-de-parfum-lebanon",
-"p": 175.38,
+"p": 122.77,
 "c": 175.38,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614274492163.webp?v=1787303447&width=400",
 "type": "EAU DE PARFUM",
 "tags": [
 "GIORGIO ARMANI MEN",
-"influencer code",
 "LID & LLD NEW ITEMS",
 "MEN FRAGRANCES"
 ],
@@ -28600,14 +28578,13 @@
 {
 "t": "Libre Santal Couture Eau De Parfum",
 "u": "https://myholdal.com/products/buy-libre-santal-couture-eau-de-parfum-lebanon",
-"p": 154.29,
+"p": 108.0,
 "c": 154.29,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614274735994.jpg?v=1787303411&width=400",
 "type": "EAU DE PARFUM",
 "tags": [
 "BEAUTY",
-"influencer code",
 "LID & LLD NEW ITEMS",
 "WOMEN FRAGRANCES",
 "yves saint laurent women"
@@ -28617,13 +28594,12 @@
 {
 "t": "MYSLF Eau de Toilette Intense",
 "u": "https://myholdal.com/products/buy-myslf-eau-de-toilette-intense-lebanon",
-"p": 111.32,
+"p": 77.92,
 "c": 111.32,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614274479058.webp?v=1787303356&width=400",
 "type": "EAU DE TOILETTE",
 "tags": [
-"influencer code",
 "LID & LLD NEW ITEMS",
 "MEN FRAGRANCES",
 "yves saint laurent men"
@@ -28633,14 +28609,13 @@
 {
 "t": "Rénergie Routine Set",
 "u": "https://myholdal.com/products/buy-renergie-routine-set-lebanon",
-"p": 158.73,
+"p": 111.11,
 "c": 158.73,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614274772043.jpg?v=1787303302&width=400",
 "type": "SETS",
 "tags": [
 "BEAUTY",
-"influencer code",
 "LANCOME WOMEN",
 "LID & LLD NEW ITEMS",
 "WOMEN FRAGRANCES"
@@ -28650,7 +28625,7 @@
 {
 "t": "Cerave Moisturizing Lotion for Normal to Dry Skin with Hyaluronic Acid 473 ML",
 "u": "https://myholdal.com/products/buy-cerave-moisturizing-lotion-for-normal-to-dry-skin-with-hyaluronic-acid-473-ml-lebanon",
-"p": 26.94,
+"p": 17.51,
 "c": 26.94,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/8901526652907-01.jpg?v=1782365142&width=400",
@@ -28660,7 +28635,6 @@
 "BRANDS UNISEX",
 "CERAVE UNISEX",
 "GROOMING",
-"influencer code",
 "MEN DERMA SHOP ALL",
 "MEN SKINCARE",
 "WOMEN SKINCARE"
@@ -29116,7 +29090,7 @@
 {
 "t": "Vichy Dercos Energy + Stimulating and Anti Hair Loss Shampoo with Aminexil 200ml",
 "u": "https://myholdal.com/products/buy-vichy-dercos-energy-stimulating-and-anti-hair-loss-shampoo-with-aminexil-200ml-lebanon",
-"p": 18.36,
+"p": 11.93,
 "c": 18.36,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/5_fcc2cfc0-e711-4bd5-811f-1f0ada922bd7.png?v=1757398932&width=400",
@@ -29204,7 +29178,6 @@
 "tags": [
 "BEAUTY",
 "GROOMING",
-"influencer code",
 "MEN DERMA SHOP ALL",
 "MEN SKINCARE",
 "SKINCEAUTICAL WOMEN",
@@ -29325,7 +29298,7 @@
 {
 "t": "La Roche Posay LIPIKAR Balm AP+Max Triple-action balm with Neurobioma for ultra-dry to atopic eczema-prone skin 400ml",
 "u": "https://myholdal.com/products/buy-la-roche-posay-lipikar-balm-ap-max-triple-action-balm-with-neurobioma-for-ultra-dry-to-atopic-eczema-prone-skin-400ml-lebanon",
-"p": 33.69,
+"p": 21.9,
 "c": 33.69,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3337875930239_1.jpg?v=1786348509&width=400",
@@ -29333,7 +29306,6 @@
 "tags": [
 "BEAUTY",
 "GROOMING",
-"influencer code",
 "LA ROCHE POSAY MEN",
 "LA ROCHE POSAY WOMEN",
 "MEN SKINCARE",
@@ -29408,7 +29380,7 @@
 {
 "t": "Effaclar Refillable Purifying Foaming Gel 400 ML",
 "u": "https://myholdal.com/products/buy-effaclar-refillable-purifying-foaming-gel-400-ml-lebanon",
-"p": 18.05,
+"p": 11.73,
 "c": 18.05,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3337875943963_1.jpg?v=1786081025&width=400",
@@ -31269,7 +31241,7 @@
 {
 "t": "CeraVe PM Facial Moisturizing Lotion Night Cream with Hyaluronic Acid 52ml",
 "u": "https://myholdal.com/products/buy-cerave-pm-facial-moisturizing-lotion-night-cream-with-hyaluronic-acid-52ml-lebanon-3",
-"p": 18.81,
+"p": 12.23,
 "c": 18.81,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3337875597449_1_f2d18df7-4ca2-479e-bc45-d0c9e618b1fa.jpg?v=1785920136&width=400",
@@ -31279,10 +31251,10 @@
 "BRANDS UNISEX",
 "CERAVE UNISEX",
 "GROOMING",
-"influencer code",
 "MEN DERMA SHOP ALL",
 "MEN SKINCARE",
-"SKINCARE sunscreens"
+"SKINCARE sunscreens",
+"WOMEN SKINCARE"
 ],
 "in": true
 },
@@ -32469,7 +32441,7 @@
 {
 "t": "Vichy Dercos Anti Dandruff Shampoo For Normal to Oily Hair 390ml",
 "u": "https://myholdal.com/products/buy-dercos-anti-dandruff-shampoo-for-normal-to-oily-hair-390ml-lebanon",
-"p": 31.62,
+"p": 20.55,
 "c": 31.62,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/oiy.png?v=1776929868&width=400",
@@ -32480,9 +32452,9 @@
 "Derma adha offers 26",
 "DERMA UNISEX HAIRCARE",
 "GROOMING",
-"influencer code",
 "MEN DERMA SHOP ALL",
-"MEN HAIRCARE"
+"MEN HAIRCARE",
+"VICHY MEN"
 ],
 "in": true
 },
@@ -32549,7 +32521,7 @@
 {
 "t": "CANDY CLUB - SWEET CHARM - Liquid lip balm + make-up case charm",
 "u": "https://myholdal.com/products/buy-candy-club-sweet-charm-liquid-lip-balm-make-up-case-charm-lebanon",
-"p": 28.0,
+"p": 19.6,
 "c": 28.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/070083A001_8011607410088_charm_fiocco_CMYK_big_20102025152209.png?v=1785418694&width=400",
@@ -32569,7 +32541,7 @@
 {
 "t": "CANDY CLUB - WATER MALLOW - Liquid lip balm",
 "u": "https://myholdal.com/products/buy-candy-club-water-mallow-liquid-lip-balm-lebanon",
-"p": 27.0,
+"p": 18.9,
 "c": 27.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/020156A001_8011607409860_CandyClub_big_20012026143721.png?v=1785417930&width=400",
@@ -32589,7 +32561,7 @@
 {
 "t": "CANDY CLUB - YUMMY YUMMY - Hair Perfume",
 "u": "https://myholdal.com/products/buy-candy-club-yummy-yummy-hair-perfume-lebanon",
-"p": 27.0,
+"p": 18.9,
 "c": 27.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/0F4A01A001_8011607409945_YProfumo_yummy_big_20102025150855_1.png?v=1785417636&width=400",
@@ -32609,7 +32581,7 @@
 {
 "t": "CANDY CLUB - SWEET JELLY - Foaming gel cleanser",
 "u": "https://myholdal.com/products/buy-candy-club-sweet-jelly-foaming-gel-cleanser-lebanon",
-"p": 27.0,
+"p": 18.9,
 "c": 27.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/0T4A01A001_8011607410040_sweet_jelly_big_20102025150945.png?v=1785417540&width=400",
@@ -32629,7 +32601,7 @@
 {
 "t": "CANDY CLUB - CLOUDY CANDY - Creamy powder blush",
 "u": "https://myholdal.com/products/buy-candy-club-cloudy-candy-creamy-powder-blush-lebanon",
-"p": 31.0,
+"p": 21.7,
 "c": 31.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/050255A001_8011607409969_cloudy_candy_big_20102025151250.png?v=1785415579&width=400",
@@ -32649,7 +32621,7 @@
 {
 "t": "ULTRA-LIGHT SUN FACE SERUM",
 "u": "https://myholdal.com/products/buy-ultralight-facial-sun-serum-lebanon",
-"p": 36.0,
+"p": 25.2,
 "c": 36.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/0TA116A001_8011607413072_Ultra_light_siero_viso_big_12122025085558.png?v=1785160550&width=400",
@@ -32669,7 +32641,7 @@
 {
 "t": "DAILY DEFENDER - MATTIFYING PROTECTIVE FLUID",
 "u": "https://myholdal.com/products/buy-daily-defender-mattifying-protective-fluid-lebanon",
-"p": 35.0,
+"p": 24.5,
 "c": 35.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/0T3111A001_8011607413669_DailyDefender_chiuso_big_28012026102633.png?v=1785160779&width=400",
@@ -32689,7 +32661,7 @@
 {
 "t": "INVISIBLE SUNSCREEN SPRAY SPF30",
 "u": "https://myholdal.com/products/buy-invisible-sunscreen-spray-spf30-lebanon",
-"p": 43.0,
+"p": 30.1,
 "c": 43.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/2TA087B001_8011607361205_sprayinvisibile_30_big_19122022124339.png?v=1785161020&width=400",
@@ -32709,7 +32681,7 @@
 {
 "t": "SHINE BRIGHT SHIMMERING BODY SCRUB",
 "u": "https://myholdal.com/products/buy-shine-bright-glittering-body-scrub-lebanon",
-"p": 39.0,
+"p": 27.3,
 "c": 39.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/0T4B02A001_8011607412129_SHINE-BRIGHT_BODY_SCRUB_big_27012026090007.png?v=1785161363&width=400",
@@ -32729,7 +32701,7 @@
 {
 "t": "SHINE BRIGHT LIP OIL BALM",
 "u": "https://myholdal.com/products/buy-shine-bright-lip-oil-balm-lebanon",
-"p": 31.0,
+"p": 21.7,
 "c": 31.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/020157A001_8011607411955_Shine-Bright-2026_Lip-Oil-Balm_big_27012026164701.png?v=1785161617&width=400",
@@ -32749,7 +32721,7 @@
 {
 "t": "SHINE BRIGHT LIP GLOSS",
 "u": "https://myholdal.com/products/buy-shine-bright-lip-gloss-lebanon",
-"p": 31.0,
+"p": 21.7,
 "c": 31.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/020158A001_8011607411979_SHINE-BRIGHT_LIP_GLOSS_big_27012026090417.png?v=1785161764&width=400",
@@ -32769,7 +32741,7 @@
 {
 "t": "SHINE BRIGHT COMPACT FACE HIGHTLIGHTER",
 "u": "https://myholdal.com/products/buy-shine-bright-compact-face-hightlighter-lebanon",
-"p": 39.0,
+"p": 27.3,
 "c": 39.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/050257A001_8011607412051_SHINE-BRIGHT_COMPACT_FACE_HIGHLIGHTER_big_27012026090725.png?v=1785162325&width=400",
@@ -32789,7 +32761,7 @@
 {
 "t": "SHINE BRIGHT FLUID ALL OVER HIGHLIGHTER",
 "u": "https://myholdal.com/products/buy-shine-bright-fluid-all-over-highlighter-lebanon",
-"p": 39.0,
+"p": 27.3,
 "c": 39.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/061139A001_8011607412075_SHINE-BRIGHT_FLUID_ALL_OVER_HIGHLIGHTER_big_27012026162727.png?v=1785162427&width=400",
@@ -32809,7 +32781,7 @@
 {
 "t": "SHINE BRIGHT ROLL-ON PERFUME",
 "u": "https://myholdal.com/products/buy-shine-bright-roll-on-perfume-lebanon",
-"p": 31.0,
+"p": 21.7,
 "c": 31.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/0F4B01A001_8011607412143_SHINE-BRIGHT_ROLL-ON_PARFUME_big_27012026085811.png?v=1785162583&width=400",
@@ -32829,7 +32801,7 @@
 {
 "t": "SHINE BRIGHT BODY GEL",
 "u": "https://myholdal.com/products/buy-shine-bright-body-gel-lebanon",
-"p": 39.0,
+"p": 27.3,
 "c": 39.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/0T4B01A001_8011607412105_SHINE-BRIGHT_BODY_GEL_big_27012026085920.png?v=1785162776&width=400",
@@ -32849,7 +32821,7 @@
 {
 "t": "SHOCK PLUMP - BLING BLING",
 "u": "https://myholdal.com/products/buy-shock-plump-bling-bling-lebanon",
-"p": 25.0,
+"p": 17.5,
 "c": 25.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/020164A011_8011607416226_SHOCK_PLUMP-BLING_BLING_big_09012026095017_1.png?v=1785221780&width=400",
@@ -32869,7 +32841,7 @@
 {
 "t": "WONDER ME MATTE FOUNDATION",
 "u": "https://myholdal.com/products/buy-wonder-me-matte-foundation-lebanon",
-"p": 29.0,
+"p": 20.3,
 "c": 29.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/050259A010_8011607415113_MATT_FOUNDATION_big_16122025125832.png?v=1785228380&width=400",
@@ -32889,7 +32861,7 @@
 {
 "t": "PLEASURE LIP OIL STYLO",
 "u": "https://myholdal.com/products/buy-pleasure-lip-oil-stylo-lebanon",
-"p": 23.0,
+"p": 16.1,
 "c": 23.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/020160A001_8011607414604_LIP_MELONE_big_26032026092002.png?v=1785229332&width=400",
@@ -32909,7 +32881,7 @@
 {
 "t": "MY CRUSH LIP & CHEEK",
 "u": "https://myholdal.com/products/buy-my-crush-lip-cheek-lebanon",
-"p": 24.0,
+"p": 16.8,
 "c": 24.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/050260A001__8011607415267_M_cruch_lip_c_big_25032026122415.png?v=1785230192&width=400",
@@ -32929,7 +32901,7 @@
 {
 "t": "MAKE MY DAY - POCKET",
 "u": "https://myholdal.com/products/buy-make-my-day-pocket-lebanon",
-"p": 41.0,
+"p": 28.7,
 "c": 41.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/010296A002_8011607410484_SMALL_-_LIGHT_PINK_APERTA_23072025110220.png?v=1785231050&width=400",
@@ -32948,7 +32920,7 @@
 {
 "t": "MAKE MY DAY - PLUS",
 "u": "https://myholdal.com/products/buy-make-my-day-plus-lebanon",
-"p": 59.0,
+"p": 41.3,
 "c": 59.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/010297A001_8011607410507_MEDIUM_-_SOFT_VIOLET_APERTA_big_21072025101210.png?v=1785231304&width=400",
@@ -32968,7 +32940,7 @@
 {
 "t": "SHINE BRIGHT EYESHADOW",
 "u": "https://myholdal.com/products/buy-shine-bright-eyeshadow-lebanon",
-"p": 27.0,
+"p": 18.9,
 "c": 27.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/040663A001_8011607411993_SHINE-BRIGHT_EYESHADOW_big_27012026090500.png?v=1785163116&width=400",
@@ -34931,7 +34903,7 @@
 {
 "t": "HAPPY BOX - Shower Gel",
 "u": "https://myholdal.com/products/buy-happy-box-shower-gel-lebanon",
-"p": 20.0,
+"p": 14.0,
 "c": 20.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/0B3R14A001_8011607405497_Cherry_Bomb_accoppiata_big_03072025125721.webp?v=1785154704&width=400",
@@ -34951,7 +34923,7 @@
 {
 "t": "HAPPY BOX - Shimmering Body Fluid",
 "u": "https://myholdal.com/products/buy-happy-box-shimmering-body-fluid-lebanon",
-"p": 23.0,
+"p": 16.1,
 "c": 23.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/0B3R15A001_8011607405534_Cherry_Bomb_accoppiata_big_03072025130013.webp?v=1785154567&width=400",
@@ -34971,7 +34943,7 @@
 {
 "t": "HAPPY BOX - Scented Water",
 "u": "https://myholdal.com/products/buy-happy-box-scented-water-lebanon",
-"p": 19.0,
+"p": 13.3,
 "c": 19.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/0B3R13A001_8011607405381_sugar_love_accoppiata_big_03072025125513.webp?v=1785153381&width=400",
@@ -34991,7 +34963,7 @@
 {
 "t": "HAPPY BOX - Shower Gel & Body Milk",
 "u": "https://myholdal.com/products/buy-happy-box-shower-gel-body-milk-lebanon",
-"p": 35.0,
+"p": 24.5,
 "c": 35.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/0B3R16A001_8011607405572_SUGAR_LOVE_accoppiata_big_03072025130239.webp?v=1785154352&width=400",
@@ -35011,7 +34983,7 @@
 {
 "t": "Hawaiian Spa Kit 1",
 "u": "https://myholdal.com/products/buy-hawaiian-spa-kit-1-lebanon",
-"p": 42.0,
+"p": 29.4,
 "c": 42.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/HawaiianSpaKit1.webp?v=1779259547&width=400",
@@ -35031,7 +35003,7 @@
 {
 "t": "Persian Spa Kit 1",
 "u": "https://myholdal.com/products/buy-persian-spa-kit-1-lebanon",
-"p": 42.0,
+"p": 29.4,
 "c": 42.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/PersianSpaKit1.png?v=1779259519&width=400",
@@ -35051,7 +35023,7 @@
 {
 "t": "Balinian Spa Kit 1",
 "u": "https://myholdal.com/products/buy-balinian-spa-kit-1-lebanon",
-"p": 42.0,
+"p": 29.4,
 "c": 42.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/BalinianSpaKit1.webp?v=1779259464&width=400",
@@ -35071,7 +35043,7 @@
 {
 "t": "Nordic Spa Kit 1",
 "u": "https://myholdal.com/products/buy-nordic-spa-kit-1-lebanon",
-"p": 42.0,
+"p": 29.4,
 "c": 42.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/NordicSpaKit1.png?v=1779259412&width=400",
@@ -35091,7 +35063,7 @@
 {
 "t": "Oceanian Spa Kit 1",
 "u": "https://myholdal.com/products/buy-oceanian-spa-kit-1-lebanon",
-"p": 42.0,
+"p": 29.4,
 "c": 42.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/OceanianSpaKit1.webp?v=1779259369&width=400",
@@ -35111,7 +35083,7 @@
 {
 "t": "Asian Spa Kit 1",
 "u": "https://myholdal.com/products/buy-asian-spa-kit-1-lebanon",
-"p": 42.0,
+"p": 29.4,
 "c": 42.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/AsianSpaKit1.webp?v=1779259275&width=400",
@@ -35131,7 +35103,7 @@
 {
 "t": "Hawaiian Spa Kit 2",
 "u": "https://myholdal.com/products/buy-hawaiian-spa-kit-2-lebanon",
-"p": 42.0,
+"p": 29.4,
 "c": 42.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/HawaiianSpaKit2.png?v=1779198720&width=400",
@@ -35151,7 +35123,7 @@
 {
 "t": "Persian Spa Kit 2",
 "u": "https://myholdal.com/products/buy-persian-spa-kit-2-lebanon",
-"p": 42.0,
+"p": 29.4,
 "c": 42.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/PersianSpaKit2.png?v=1779198340&width=400",
@@ -35171,7 +35143,7 @@
 {
 "t": "Balinian Spa Kit 2",
 "u": "https://myholdal.com/products/buy-balinian-spa-kit-2-lebanon",
-"p": 42.0,
+"p": 29.4,
 "c": 42.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/BalinianSpaKit2.webp?v=1779198247&width=400",
@@ -35191,7 +35163,7 @@
 {
 "t": "Nordic Spa Kit 2",
 "u": "https://myholdal.com/products/buy-nordic-spa-kit-2-lebanon",
-"p": 42.0,
+"p": 29.4,
 "c": 42.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/NordicSpaKit2.webp?v=1779198198&width=400",
@@ -35211,7 +35183,7 @@
 {
 "t": "Oceanian Spa Kit 2",
 "u": "https://myholdal.com/products/buy-oceanian-spa-kit-2-lebanon",
-"p": 42.0,
+"p": 29.4,
 "c": 42.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/OceanianSpaKit2.webp?v=1779198152&width=400",
@@ -35231,7 +35203,7 @@
 {
 "t": "Asian Spa Kit 2",
 "u": "https://myholdal.com/products/buy-asian-spa-kit-2-lebanon",
-"p": 42.0,
+"p": 29.4,
 "c": 42.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/AsianSpaKit2.webp?v=1779198058&width=400",
@@ -35251,7 +35223,7 @@
 {
 "t": "Balinian Spa Kit 4",
 "u": "https://myholdal.com/products/buy-balinian-spa-kit-4-lebanon",
-"p": 23.0,
+"p": 16.1,
 "c": 23.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/BalinianSpaKit4.jpg?v=1779197960&width=400",
@@ -35271,7 +35243,7 @@
 {
 "t": "Persian Spa Kit 4",
 "u": "https://myholdal.com/products/buy-persian-spa-kit-4-lebanon",
-"p": 23.0,
+"p": 16.1,
 "c": 23.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/PersianSpaKit4.webp?v=1779197828&width=400",
@@ -35291,7 +35263,7 @@
 {
 "t": "Hawaiian Spa Kit 4",
 "u": "https://myholdal.com/products/buy-hawaiian-spa-kit-4-lebanon",
-"p": 23.0,
+"p": 16.1,
 "c": 23.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/HawaiianSpakit4.webp?v=1779197788&width=400",
@@ -35311,7 +35283,7 @@
 {
 "t": "Nordic Spa Kit 4",
 "u": "https://myholdal.com/products/buy-nordic-spa-kit-4-lebanon",
-"p": 23.0,
+"p": 16.1,
 "c": 23.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/0T3A31E001_8011607406807_NORDIC-SPA_Acqua-profumata-150ml_acc_big_25062025162509.webp?v=1779197669&width=400",
@@ -35331,7 +35303,7 @@
 {
 "t": "Oceanian Spa Kit 4",
 "u": "https://myholdal.com/products/buy-oceanian-spa-kit-4-lebanon",
-"p": 23.0,
+"p": 16.1,
 "c": 23.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/OceanianSpaKit4.png?v=1779197887&width=400",
@@ -35351,7 +35323,7 @@
 {
 "t": "Asian Spa Kit 4",
 "u": "https://myholdal.com/products/buy-asian-spa-kit-4-lebanon",
-"p": 23.0,
+"p": 16.1,
 "c": 23.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/0T3A67E001_8011607406821_ASIAN-SPA_Acqua-profumata-150ml_acc_big_25062025163222.webp?v=1779197588&width=400",
@@ -35631,7 +35603,7 @@
 {
 "t": "La Roche Posay Effaclar Duo+M 3H Spot Patches for Acne Prone Skin",
 "u": "https://myholdal.com/products/buy-la-roche-posay-effaclar-duo-m-3h-spot-patches-for-acne-prone-skin-lebanon",
-"p": 15.29,
+"p": 9.94,
 "c": 15.29,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/6_fb2ed2fc-ad06-4410-add6-74b0142380de.jpg?v=1764851784&width=400",
@@ -35642,16 +35614,16 @@
 "Derma adha offers 26",
 "DERMA UNISEX CLEANSING",
 "GROOMING",
-"influencer code",
 "LA ROCHE POSAY UNISEX",
-"MEN SKINCARE"
+"MEN SKINCARE",
+"SKINCARE - CLEANSERS & TONERS"
 ],
 "in": true
 },
 {
 "t": "Absolue L'Extrait Elixir Lifting & Firming Face Serum",
 "u": "https://myholdal.com/products/buy-absolue-lextrait-serum-lebanon",
-"p": 596.2,
+"p": 417.34,
 "c": 596.2,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614274318050AbsoluL_ExtraitElixirSerum1_1024x1024_81b690a9-ad62-486a-9c1f-506049cf0c91.webp?v=1784882561&width=400",
@@ -35659,7 +35631,6 @@
 "tags": [
 "BEAUTY",
 "BRANDS WOMEN",
-"influencer code",
 "LANCOME WOMEN",
 "LID & LLD NEW ITEMS",
 "MAPPING TALA 21",
@@ -35670,7 +35641,7 @@
 {
 "t": "Absolue Rose 80 Essence-In-Lotion",
 "u": "https://myholdal.com/products/buy-absolue-rose-80-lotion-lebanon",
-"p": 126.34,
+"p": 88.44,
 "c": 126.34,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/00146-LAC-absolue-rose-80-essence-in-lotion-main.jpg?v=1784881987&width=400",
@@ -35678,7 +35649,6 @@
 "tags": [
 "BEAUTY",
 "BRANDS WOMEN",
-"influencer code",
 "LANCOME WOMEN",
 "LID & LLD NEW ITEMS",
 "MAPPING TALA 21",
@@ -35689,7 +35659,7 @@
 {
 "t": "Absolue Rose 80 Cleansing Balm-To-Foam",
 "u": "https://myholdal.com/products/buy-balm-to-foam-cleanser-lebanon",
-"p": 113.63,
+"p": 79.54,
 "c": 113.63,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/4936968820489_absolue-rose-80-cleansing-balm-to-foam_150ml_main.jpg?v=1784881734&width=400",
@@ -35697,7 +35667,6 @@
 "tags": [
 "BEAUTY",
 "BRANDS WOMEN",
-"influencer code",
 "LANCOME WOMEN",
 "LID & LLD NEW ITEMS",
 "MAPPING TALA 21",
@@ -35708,7 +35677,7 @@
 {
 "t": "Lovenude Kiss Shaper",
 "u": "https://myholdal.com/products/buy-lip-liner-lebanon",
-"p": 35.06,
+"p": 24.54,
 "c": 35.06,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614274736274_ysl-lovenude-kiss-shaper_tan-line_shade-102_main.jpg?v=1784881347&width=400",
@@ -35716,7 +35685,6 @@
 "tags": [
 "BEAUTY",
 "BRANDS WOMEN",
-"influencer code",
 "LID & LLD NEW ITEMS",
 "MAPPING TALA 21",
 "WOMEN MAKEUP",
@@ -35727,7 +35695,7 @@
 {
 "t": "Lovenude Balm Lip Blusher",
 "u": "https://myholdal.com/products/buy-lovenude-balm-lebanon",
-"p": 58.72,
+"p": 41.1,
 "c": 58.72,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614274598865_ysl_lovenude_lip_01_alt1.jpg?v=1784880686&width=400",
@@ -35735,7 +35703,6 @@
 "tags": [
 "BEAUTY",
 "BRANDS WOMEN",
-"influencer code",
 "LID & LLD NEW ITEMS",
 "MAPPING TALA 21",
 "WOMEN MAKEUP",
@@ -35762,13 +35729,12 @@
 {
 "t": "Prada Paragdime Eau De Parfum Set",
 "u": "https://myholdal.com/products/buy-prada-paragdime-eau-de-parfum-set-lebanon",
-"p": 200.8,
+"p": 140.56,
 "c": 200.8,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/PradaParadigme100MlEauDeParfumSet_TravelSpray10Ml_PACKSHOT.webp?v=1784880441&width=400",
 "type": "SETS",
 "tags": [
-"influencer code",
 "LID & LLD NEW ITEMS",
 "MAPPING TALA 21"
 ],
@@ -35777,14 +35743,13 @@
 {
 "t": "Prada Paradoxe Intense Set",
 "u": "https://myholdal.com/products/buy-prada-paradoxe-intense-set-lebanon",
-"p": 210.77,
+"p": 147.54,
 "c": 210.77,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/PradaParadoxeIntenseSet_90Ml_TravelSpray10Ml_PACKSHOT.webp?v=1784880384&width=400",
 "type": "SETS",
 "tags": [
 "BEAUTY",
-"influencer code",
 "LID & LLD NEW ITEMS",
 "MAPPING TALA 21",
 "PRADA WOMEN",
@@ -35811,13 +35776,12 @@
 {
 "t": "MYSLF Eau De Parfum Set",
 "u": "https://myholdal.com/products/buy-myslf-eau-de-parfum-set-lebanon-5",
-"p": 137.71,
+"p": 96.4,
 "c": 137.71,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/YvesSaintLaurentMYSLFEauDeParfum60Ml_GELDOUCHE50MLPACKSHOT.webp?v=1784880272&width=400",
 "type": "SETS",
 "tags": [
-"influencer code",
 "LID & LLD NEW ITEMS",
 "MAPPING TALA 21",
 "MEN FRAGRANCES",
@@ -35828,13 +35792,12 @@
 {
 "t": "Y Eau De Parfum Set",
 "u": "https://myholdal.com/products/buy-y-eau-de-parfum-set-lebanon",
-"p": 162.79,
+"p": 113.95,
 "c": 162.79,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/YvesSaintLaurentY100MlEauDeParfum_1OML.webp?v=1784880148&width=400",
 "type": "SETS",
 "tags": [
-"influencer code",
 "LID & LLD NEW ITEMS",
 "MAPPING TALA 21",
 "MEN FRAGRANCES",
@@ -35845,14 +35808,13 @@
 {
 "t": "Libre Eau De Parfum Set",
 "u": "https://myholdal.com/products/buy-libre-eau-de-parfum-set-lebanon-3",
-"p": 209.22,
+"p": 146.45,
 "c": 209.22,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/YvesSaintLaurentYSLFRALBRESETPACKSHOT.webp?v=1784880071&width=400",
 "type": "SETS",
 "tags": [
 "BEAUTY",
-"influencer code",
 "LID & LLD NEW ITEMS",
 "MAPPING TALA 21",
 "WOMEN FRAGRANCES",
@@ -35863,14 +35825,13 @@
 {
 "t": "Libre Eau De Parfum Set",
 "u": "https://myholdal.com/products/buy-libre-eau-de-parfum-set-lebanon-1",
-"p": 198.81,
+"p": 139.17,
 "c": 198.81,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/YvesSaintLaurentLibreEauDeParfumGiftSetwithBodyLotionPACKSHIOT.jpg?v=1784879922&width=400",
 "type": "SETS",
 "tags": [
 "BEAUTY",
-"influencer code",
 "LID & LLD NEW ITEMS",
 "MAPPING TALA 21",
 "WOMEN FRAGRANCES",
@@ -35881,13 +35842,12 @@
 {
 "t": "MYSLF Eau De Parfum Set",
 "u": "https://myholdal.com/products/buy-myslf-eau-de-parfum-set-lebanon",
-"p": 162.79,
+"p": 113.95,
 "c": 162.79,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/YvesSaintLaurentMYSLF100MlEauDeParfumSet_EdP10PACKSHOT.webp?v=1784798593&width=400",
 "type": "SETS",
 "tags": [
-"influencer code",
 "LID & LLD NEW ITEMS",
 "MAPPING TALA 21",
 "MEN FRAGRANCES",
@@ -35898,14 +35858,13 @@
 {
 "t": "Idôle Eau de Parfum Set",
 "u": "https://myholdal.com/products/buy-idole-eau-de-parfum-set-lebanon",
-"p": 187.63,
+"p": 131.34,
 "c": 187.63,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/LancomeIdoleMother_sDayPerfume_MascaraGiftSetPACKSHOT.jpg?v=1784798152&width=400",
 "type": "SETS",
 "tags": [
 "BEAUTY",
-"influencer code",
 "LANCOME WOMEN",
 "LID & LLD NEW ITEMS",
 "MAPPING TALA 21",
@@ -35916,14 +35875,13 @@
 {
 "t": "La Vie Est Belle  Eau De Parfum Set",
 "u": "https://myholdal.com/products/buy-la-vie-est-belle-eau-de-parfum-set-lebanon-4",
-"p": 128.54,
+"p": 89.98,
 "c": 128.54,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614274787603-1_c_live_1.webp?v=1784798047&width=400",
 "type": "SETS",
 "tags": [
 "BEAUTY",
-"influencer code",
 "LANCOME WOMEN",
 "LID & LLD NEW ITEMS",
 "MAPPING TALA 21",
@@ -35934,14 +35892,13 @@
 {
 "t": "La Vie Est Belle Eau De Parfum Set",
 "u": "https://myholdal.com/products/buy-la-vie-est-belle-eau-de-parfum-set-lebanon-5",
-"p": 177.94,
+"p": 124.56,
 "c": 177.94,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/LaVieEstBelleEauDeParfumSetBL.jpg?v=1784797894&width=400",
 "type": "SETS",
 "tags": [
 "BEAUTY",
-"influencer code",
 "LANCOME WOMEN",
 "LID & LLD NEW ITEMS",
 "MAPPING TALA 21",
@@ -35952,7 +35909,7 @@
 {
 "t": "Si Eau De Parfum Set",
 "u": "https://myholdal.com/products/buy-si-eau-de-parfum-set-lebanon",
-"p": 192.0,
+"p": 134.71,
 "c": 192.44,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/SIEauDeParfumSet.webp?v=1784797810&width=400",
@@ -35960,7 +35917,6 @@
 "tags": [
 "BEAUTY",
 "GIORGIO ARMANI WOMEN",
-"influencer code",
 "LID & LLD NEW ITEMS",
 "MAPPING TALA 21",
 "WOMEN FRAGRANCES"
@@ -35970,7 +35926,7 @@
 {
 "t": "My Way Eau De Parfum Set",
 "u": "https://myholdal.com/products/buy-my-way-eau-de-parfum-set-lebanon",
-"p": 188.0,
+"p": 131.73,
 "c": 188.19,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/MYWAYEauDeParfumSetpaxkshot.jpg?v=1784797756&width=400",
@@ -35978,7 +35934,6 @@
 "tags": [
 "BEAUTY",
 "GIORGIO ARMANI WOMEN",
-"influencer code",
 "LID & LLD NEW ITEMS",
 "MAPPING TALA 21",
 "WOMEN FRAGRANCES"
@@ -35988,14 +35943,13 @@
 {
 "t": "Stronger With You Intensely Set",
 "u": "https://myholdal.com/products/buy-stronger-with-you-intensly-set-lebanon",
-"p": 148.45,
+"p": 103.92,
 "c": 148.45,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/StrongerWithYouIntenslySetPackshot.webp?v=1784797680&width=400",
 "type": "SETS",
 "tags": [
 "GIORGIO ARMANI MEN",
-"influencer code",
 "LID & LLD NEW ITEMS",
 "MAPPING TALA 21",
 "MEN FRAGRANCES"
@@ -36005,14 +35959,13 @@
 {
 "t": "Stronger With You Eau De Toilette Set",
 "u": "https://myholdal.com/products/buy-stronger-with-you-eau-de-toilette-set-lebanon",
-"p": 134.82,
+"p": 94.37,
 "c": 134.82,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/ArmaniEmporioStrongerwithYouGiftSetforMenpackshot.webp?v=1784797549&width=400",
 "type": "SETS",
 "tags": [
 "GIORGIO ARMANI MEN",
-"influencer code",
 "LID & LLD NEW ITEMS",
 "MAPPING TALA 21",
 "MEN FRAGRANCES"
@@ -36022,7 +35975,7 @@
 {
 "t": "Si Passione Red Bloom Eau De Parfum",
 "u": "https://myholdal.com/products/buy-si-passione-red-bloom-eau-de-parfum-lebanon",
-"p": 204.24,
+"p": 142.97,
 "c": 204.24,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/SI_Passione_Red_Bloom_Eau_De_Parfum_100ml_packshot.webp?v=1784797456&width=400",
@@ -36031,7 +35984,6 @@
 "BEAUTY",
 "BRANDS WOMEN",
 "GIORGIO ARMANI WOMEN",
-"influencer code",
 "LID & LLD NEW ITEMS",
 "MAPPING TALA 21",
 "WOMEN FRAGRANCES"
@@ -36041,7 +35993,7 @@
 {
 "t": "Si Eau De Parfum Nude Bloom",
 "u": "https://myholdal.com/products/buy-si-eau-de-parfum-nude-bloom-lebanon",
-"p": 204.24,
+"p": 142.97,
 "c": 204.24,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/SI_Eau_De_Parfum_Nude_Bloom_100ml_packshot.jpg?v=1784797311&width=400",
@@ -36050,7 +36002,6 @@
 "BEAUTY",
 "BRANDS WOMEN",
 "GIORGIO ARMANI WOMEN",
-"influencer code",
 "LID & LLD NEW ITEMS",
 "MAPPING TALA 21",
 "WOMEN FRAGRANCES"
@@ -36407,7 +36358,7 @@
 {
 "t": "CeraVe SA Smoothing Cream 340g",
 "u": "https://myholdal.com/products/buy-cerave-sa-smoothing-cream-340g-lebanon",
-"p": 27.17,
+"p": 17.66,
 "c": 27.17,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/337875782357-01.jpg?v=1783320608&width=400",
@@ -36417,7 +36368,6 @@
 "BRANDS UNISEX",
 "CERAVE UNISEX",
 "GROOMING",
-"influencer code",
 "MEN DERMA SHOP ALL",
 "MEN SKINCARE",
 "WOMEN SKINCARE"
@@ -36427,7 +36377,7 @@
 {
 "t": "CeraVe Intensive Moisturising Lotion for Very Dry Skin 236ml",
 "u": "https://myholdal.com/products/buy-cerave-intensive-moisturising-lotion-for-very-dry-skin-236ml-lebanon",
-"p": 21.94,
+"p": 14.26,
 "c": 21.94,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3337875904285-01.jpg?v=1783320715&width=400",
@@ -36437,7 +36387,6 @@
 "BRANDS UNISEX",
 "CERAVE UNISEX",
 "GROOMING",
-"influencer code",
 "MEN DERMA SHOP ALL",
 "MEN SKINCARE",
 "WOMEN SKINCARE"
@@ -36447,7 +36396,7 @@
 {
 "t": "CeraVe Invisible Dry Touch Fluid Sunscreen SPF 50+\n50 ml",
 "u": "https://myholdal.com/products/buy-cerave-invisible-dry-touch-fluid-sunscreen-spf-50-50-ml-lebanon",
-"p": 22.11,
+"p": 14.37,
 "c": 22.11,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3337875945622-01.jpg?v=1783320823&width=400",
@@ -36457,17 +36406,17 @@
 "BRANDS UNISEX",
 "CERAVE UNISEX",
 "GROOMING",
-"influencer code",
 "MEN DERMA SHOP ALL",
 "MEN SKINCARE",
-"SKINCARE sunscreens"
+"SKINCARE sunscreens",
+"WOMEN SKINCARE"
 ],
 "in": true
 },
 {
 "t": "CeraVe Invisible Hydrating Fluid Sunscreen SPF50 50ml",
 "u": "https://myholdal.com/products/buy-cerave-invisible-hydrating-fluid-sunscreen-spf50-50ml-lebanon",
-"p": 22.11,
+"p": 14.37,
 "c": 22.11,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3337875945660-01.jpg?v=1783320888&width=400",
@@ -36477,17 +36426,17 @@
 "BRANDS UNISEX",
 "CERAVE UNISEX",
 "GROOMING",
-"influencer code",
 "MEN DERMA SHOP ALL",
 "MEN SKINCARE",
-"SKINCARE sunscreens"
+"SKINCARE sunscreens",
+"WOMEN SKINCARE"
 ],
 "in": true
 },
 {
 "t": "Dyson Airwrap i.d.™ multi-styler Straight+Wavy (Ceramic apricot / Topaz)",
 "u": "https://myholdal.com/products/dyson-airwrap-i-d-multi-styler-straight-wavy-ceramic-apricot-topaz-lebanon",
-"p": 626.0,
+"p": 436.0,
 "c": 626.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3P_308_T1T2_Gallery_Large_Copy_No_Copy_Card_1.jpg?v=1784526536&width=400",
@@ -36513,10 +36462,10 @@
 "BEAUTY",
 "BRANDS WOMEN",
 "HAIRCARE - SHAMPOO",
-"influencer code",
 "L'OREAL PROFESSIONNEL UNISEX",
 "L'OREAL PROFESSIONNEL WOMEN",
-"lrl 40 not discounted"
+"lrl 40 not discounted",
+"LRLDIS40"
 ],
 "in": false
 },
@@ -36531,7 +36480,6 @@
 "tags": [
 "BEAUTY",
 "BRANDS WOMEN",
-"influencer code",
 "L'OREAL PROFESSIONNEL UNISEX",
 "L'OREAL PROFESSIONNEL WOMEN",
 "lrl 40 not discounted",
@@ -36550,8 +36498,6 @@
 "type": "LEAVE IN",
 "tags": [
 "BEAUTY",
-"BRANDS WOMENinfluencer code",
-"influencer code",
 "L'OREAL PROFESSIONNEL UNISEX",
 "L'OREAL PROFESSIONNEL WOMEN",
 "lrl 40 not discounted",
@@ -39196,7 +39142,7 @@
 "LONGCHAMP WOMEN",
 "LONGCHAMP WOMEN ACCESSORIES"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Le Pliage Xtra XS Bucket bag-10317987",
@@ -43674,7 +43620,7 @@
 "WOMEN",
 "WOMEN RINGS"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Medium red nylon Pocket bag",
@@ -44716,7 +44662,7 @@
 {
 "t": "Ceta Sun Promo Sunscreen",
 "u": "https://myholdal.com/products/ceta-sun-promo-sunscreen-lebanon",
-"p": 21.97,
+"p": 15.38,
 "c": 21.97,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/LiposomalLotion.png?v=1784099174&width=400",
@@ -44902,13 +44848,12 @@
 "type": "LEAVE IN",
 "tags": [
 "BEAUTY",
-"BRANDS WOMENinfluencer code",
-"influencer code",
 "KERASTASE WOMEN",
 "lrl 40 not discounted",
 "LRLDIS40",
 "PPD JULY ACTIVATION",
-"WOMEN BEAUTY BRANDS"
+"WOMEN BEAUTY BRANDS",
+"WOMEN HAIRCARE"
 ],
 "in": false
 },
@@ -44922,13 +44867,12 @@
 "type": "LEAVE IN",
 "tags": [
 "BEAUTY",
-"BRANDS WOMENinfluencer code",
-"influencer code",
 "KERASTASE WOMEN",
 "lrl 40 not discounted",
 "LRLDIS40",
 "PPD JULY ACTIVATION",
-"WOMEN BEAUTY BRANDS"
+"WOMEN BEAUTY BRANDS",
+"WOMEN HAIRCARE"
 ],
 "in": false
 },
@@ -44968,7 +44912,7 @@
 {
 "t": "Exclusive Set",
 "u": "https://myholdal.com/products/kiehls-exclusive-set",
-"p": 187.0,
+"p": 130.96,
 "c": 187.08,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/AAExclusiveSet.png?v=1782990242&width=400",
@@ -44978,10 +44922,10 @@
 "BEAUTY - WOMEN GIFTS & SETS",
 "BRANDS UNISEX",
 "GROOMING",
-"influencer code",
 "KIEHL'S UNISEX",
 "kiehls july discount 26",
-"MEN SKINCARE"
+"MEN SKINCARE",
+"SKINCARE - SERUM & TREATMENT"
 ],
 "in": true
 },
@@ -45072,7 +45016,7 @@
 {
 "t": "Gentle Shampoo 500 ML",
 "u": "https://myholdal.com/products/gentle-shampoo-500-ml",
-"p": 18.87,
+"p": 14.15,
 "c": 18.87,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/61pMscnn3fL._AC_UF1000_1000_QL80_e3fcacc0-8359-42a0-a07f-6235864a65e7.jpg?v=1755847494&width=400",
@@ -45092,7 +45036,7 @@
 {
 "t": "Stela Face Cream",
 "u": "https://myholdal.com/products/buy-pa-stela-face-cream-lebanon",
-"p": 11.66,
+"p": 8.75,
 "c": 11.66,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/Stelatopiafaceemolient_c5454624-34e6-413c-97ff-ee6d703421a9.png?v=1755847424&width=400",
@@ -45112,7 +45056,7 @@
 {
 "t": "New Mustela Box  With Belt Bag Terracota",
 "u": "https://myholdal.com/products/buy-new-mustela-box-with-belt-bag-terracota-lebanon",
-"p": 57.0,
+"p": 42.75,
 "c": 57.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/box2.jpg?v=1759755753&width=400",
@@ -45577,7 +45521,7 @@
 "Kipling SS26 Second drop",
 "Kipling Women"
 ],
-"in": false
+"in": true
 },
 {
 "t": "MONEY LOVE-I3738",
@@ -46370,7 +46314,7 @@
 {
 "t": "CeraVe Hydrating Cleanser for Normal to Dry Skin with Hyaluronic Acid 236ML",
 "u": "https://myholdal.com/products/buy-cerave-hydrating-cleanser-for-normal-to-dry-skin-with-hyaluronic-acid-236ml-lebanon-4",
-"p": 9.89,
+"p": 6.43,
 "c": 9.89,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/8901526652747-01.jpg?v=1782222939&width=400",
@@ -46380,7 +46324,6 @@
 "BRANDS UNISEX",
 "CERAVE UNISEX",
 "GROOMING",
-"influencer code",
 "MEN DERMA SHOP ALL",
 "MEN SKINCARE",
 "WOMEN SKINCARE"
@@ -46449,7 +46392,7 @@
 {
 "t": "#GRWSTICK - Detox",
 "u": "https://myholdal.com/products/buy-grwstick-detox-lebanon",
-"p": 24.0,
+"p": 16.8,
 "c": 24.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/0T3T02A001_8011607405183_STICK_DETOX_big_29072025162515.png?v=1782131636&width=400",
@@ -46469,7 +46412,7 @@
 {
 "t": "#GRWSTICK - Pure",
 "u": "https://myholdal.com/products/buy-grwstick-pure-lebanon",
-"p": 24.0,
+"p": 16.8,
 "c": 24.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/0T3T01A001_8011607405169_STICK_PURE_big_29072025162433.webp?v=1782131365&width=400",
@@ -46489,7 +46432,7 @@
 {
 "t": "#GRWSTICK - Clean",
 "u": "https://myholdal.com/products/buy-grwstick-clean-lebanon",
-"p": 24.0,
+"p": 16.8,
 "c": 24.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/0T3T03A001_8011607405206_STICK_CLEAN_big_29072025162551.png?v=1782131863&width=400",
@@ -46509,7 +46452,7 @@
 {
 "t": "#GRWSTICK - Lip & Cheek",
 "u": "https://myholdal.com/products/buy-grwstick-lip-cheek-lebanon",
-"p": 27.0,
+"p": 18.9,
 "c": 27.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/050251A001_8011607404858_STICK_LIP-CHEEK_big_29072025163041_7e597e6e-ce33-4c5c-b0a8-dc9cef68bab9.png?v=1782136315&width=400",
@@ -46529,7 +46472,7 @@
 {
 "t": "CeraVe Hydrating Cleanser for Normal to Dry Skin with Hyaluronic Acid 473ML",
 "u": "https://myholdal.com/products/buy-cerave-hydrating-cleanser-for-normal-to-dry-skin-with-hyaluronic-acid-473ml-lebanon-1",
-"p": 14.42,
+"p": 9.37,
 "c": 14.42,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/8901526652709-01.jpg?v=1778231114&width=400",
@@ -46540,9 +46483,9 @@
 "CERAVE UNISEX",
 "Derma adha offers 26",
 "GROOMING",
-"influencer code",
 "MEN DERMA SHOP ALL",
-"MEN SKINCARE"
+"MEN SKINCARE",
+"WOMEN SKINCARE"
 ],
 "in": true
 },
@@ -46586,7 +46529,7 @@
 {
 "t": "Génifique Day to Night Set",
 "u": "https://myholdal.com/products/buy-genifique-day-to-night-set-lebanon",
-"p": 133.64,
+"p": 93.55,
 "c": 133.64,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614274772029GenifiqueEyeRoutineSet_59177efb-c520-4cff-9564-c1a6125d3ba9.jpg?v=1781682382&width=400",
@@ -46594,7 +46537,6 @@
 "tags": [
 "BEAUTY",
 "BRANDS WOMEN",
-"influencer code",
 "LANCOME WOMEN",
 "LID & LLD NEW ITEMS",
 "WOMEN SKINCARE"
@@ -46604,15 +46546,14 @@
 {
 "t": "Génifique Eye Routine Set",
 "u": "https://myholdal.com/products/buy-genifique-eye-routine-set-lebanon",
-"p": 75.0,
-"c": 74.93,
+"p": 52.5,
+"c": 75.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614274772029GenifiqueEyeRoutineSet.jpg?v=1781682303&width=400",
 "type": "SETS",
 "tags": [
 "BEAUTY",
 "BRANDS WOMEN",
-"influencer code",
 "LANCOME WOMEN",
 "LID & LLD NEW ITEMS",
 "WOMEN SKINCARE"
@@ -46622,7 +46563,7 @@
 {
 "t": "Rénergie HPN 300-Peptide Cream Routine Set",
 "u": "https://myholdal.com/products/buy-renergie-hpn-300-peptide-cream-routine-set-lebanon",
-"p": 121.51,
+"p": 85.06,
 "c": 121.51,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614274772036RenergieHPN300-PeptideCreamRoutineSet.jpg?v=1781682248&width=400",
@@ -46630,7 +46571,6 @@
 "tags": [
 "BEAUTY",
 "BRANDS WOMEN",
-"influencer code",
 "LANCOME WOMEN",
 "LID & LLD NEW ITEMS",
 "WOMEN SKINCARE"
@@ -46640,7 +46580,7 @@
 {
 "t": "Rénergie Starter Set",
 "u": "https://myholdal.com/products/buy-renergie-starter-set-lebanon",
-"p": 37.51,
+"p": 26.26,
 "c": 37.51,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614274771978RenergieStarterSet.jpg?v=1781682208&width=400",
@@ -46648,7 +46588,6 @@
 "tags": [
 "BEAUTY",
 "BRANDS WOMEN",
-"influencer code",
 "LANCOME WOMEN",
 "LID & LLD NEW ITEMS",
 "WOMEN SKINCARE"
@@ -46658,7 +46597,7 @@
 {
 "t": "Hydra Zen Day Routine Set",
 "u": "https://myholdal.com/products/buy-hydra-zen-day-routine-set-lebanon",
-"p": 73.9,
+"p": 51.73,
 "c": 73.9,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614274771985HydraZenDayRoutineSet.png?v=1781682178&width=400",
@@ -46666,7 +46605,6 @@
 "tags": [
 "BEAUTY",
 "BRANDS WOMEN",
-"influencer code",
 "LANCOME WOMEN",
 "LID & LLD NEW ITEMS",
 "WOMEN SKINCARE"
@@ -46676,7 +46614,7 @@
 {
 "t": "Hydra Zen Starter Set",
 "u": "https://myholdal.com/products/buy-hydra-zen-starter-set-lebanon",
-"p": 45.47,
+"p": 31.83,
 "c": 45.47,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614274771305HydraZenStarterSet.jpg?v=1781682123&width=400",
@@ -46684,7 +46622,6 @@
 "tags": [
 "BEAUTY",
 "BRANDS WOMEN",
-"influencer code",
 "LANCOME WOMEN",
 "LID & LLD NEW ITEMS",
 "WOMEN SKINCARE"
@@ -46694,7 +46631,7 @@
 {
 "t": "Génifique Starter Set",
 "u": "https://myholdal.com/products/buy-genifique-starter-set-lebanon",
-"p": 53.0,
+"p": 37.28,
 "c": 53.25,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614274771350GenifiqueStarterSet.jpg?v=1781682023&width=400",
@@ -46702,7 +46639,6 @@
 "tags": [
 "BEAUTY",
 "BRANDS WOMEN",
-"influencer code",
 "LANCOME WOMEN",
 "LID & LLD NEW ITEMS",
 "WOMEN SKINCARE"
@@ -46712,7 +46648,7 @@
 {
 "t": "Lash Idôle Curl Goddess",
 "u": "https://myholdal.com/products/buy-lash-idole-curl-goddess-lebanon",
-"p": 42.71,
+"p": 29.9,
 "c": 42.71,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/Lash_Idole_Curl_Goddess_Packshot.jpg?v=1781681333&width=400",
@@ -46720,7 +46656,6 @@
 "tags": [
 "BEAUTY",
 "BRANDS WOMEN",
-"influencer code",
 "LANCOME WOMEN",
 "LID & LLD NEW ITEMS",
 "WOMEN MAKEUP"
@@ -46730,14 +46665,13 @@
 {
 "t": "Born in Roma Uomo Purple Melancholia - Eau de Toilette",
 "u": "https://myholdal.com/products/buy-born-in-roma-uomo-purple-melancholia-eau-de-toilette-lebanon",
-"p": 144.18,
+"p": 100.93,
 "c": 144.18,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/BIR_Uomo_Purple_100mL.jpg?v=1781681231&width=400",
 "type": "EAU DE TOILETTE",
 "tags": [
 "GROOMING",
-"influencer code",
 "LID & LLD NEW ITEMS",
 "MEN FRAGRANCES"
 ],
@@ -46746,7 +46680,7 @@
 {
 "t": "Born in Roma Donna Purple Melancholia - Eau de Parfum",
 "u": "https://myholdal.com/products/buy-born-in-roma-donna-purple-melancholia-eau-de-parfum-lebanon",
-"p": 196.65,
+"p": 137.66,
 "c": 196.65,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/BIR_Donna_Purple_100mL.jpg?v=1781681074&width=400",
@@ -46754,7 +46688,6 @@
 "tags": [
 "BEAUTY",
 "BRANDS WOMEN",
-"influencer code",
 "LID & LLD NEW ITEMS",
 "VALENTINO WOMEN",
 "WOMEN FRAGRANCES"
@@ -46764,14 +46697,13 @@
 {
 "t": "Stronger With You Powerfully - Eau de Parfum",
 "u": "https://myholdal.com/products/buy-stronger-with-you-powerfully-eau-de-parfum-lebanon",
-"p": 109.32,
+"p": 76.52,
 "c": 109.32,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/SWY_Powerfully_50mL.webp?v=1781681000&width=400",
 "type": "EAU DE PARFUM",
 "tags": [
 "GROOMING",
-"influencer code",
 "LID & LLD NEW ITEMS",
 "MEN FRAGRANCES"
 ],
@@ -46780,7 +46712,7 @@
 {
 "t": "Power of You Eau de Parfum",
 "u": "https://myholdal.com/products/buy-power-of-you-eau-de-parfum-lebanon",
-"p": 113.3,
+"p": 79.31,
 "c": 113.3,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/Power_of_You_50mL.jpg?v=1781680828&width=400",
@@ -46789,7 +46721,6 @@
 "BEAUTY",
 "BRANDS WOMEN",
 "GIORGIO ARMANI WOMEN",
-"influencer code",
 "LID & LLD NEW ITEMS",
 "WOMEN FRAGRANCES"
 ],
@@ -46798,7 +46729,7 @@
 {
 "t": "Libre Berry Crush Eau de Parfum Intense",
 "u": "https://myholdal.com/products/buy-libre-berry-crush-eau-de-parfum-intense-lebanon",
-"p": 150.48,
+"p": 105.34,
 "c": 150.48,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/Libre_Berry_Crush_50mL.jpg?v=1781680721&width=400",
@@ -46806,7 +46737,6 @@
 "tags": [
 "BEAUTY",
 "BRANDS WOMEN",
-"influencer code",
 "LID & LLD NEW ITEMS",
 "sc sara",
 "WOMEN FRAGRANCES",
@@ -46817,7 +46747,7 @@
 {
 "t": "Lash Latex Mascara",
 "u": "https://myholdal.com/products/buy-lash-latex-mascara-lebanon",
-"p": 50.7,
+"p": 35.49,
 "c": 50.7,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/LashLatexMascara_0bbe064c-f5e8-4331-a7e3-a59f79f8b5af.jpg?v=1781680547&width=400",
@@ -46825,7 +46755,6 @@
 "tags": [
 "BEAUTY",
 "BRANDS WOMEN",
-"influencer code",
 "LID & LLD NEW ITEMS",
 "WOMEN MAKEUP",
 "YVES SAINT LAURENT WOMEN"
@@ -46856,7 +46785,6 @@
 "tags": [
 "BEAUTY",
 "BRANDS WOMEN",
-"influencer code",
 "KERASTASE WOMEN",
 "lrl 40 not discounted",
 "LRLDIS40",
@@ -46876,7 +46804,6 @@
 "tags": [
 "BEAUTY",
 "BRANDS WOMEN",
-"influencer code",
 "KERASTASE WOMEN",
 "lrl 40 not discounted",
 "LRLDIS40",
@@ -46896,7 +46823,6 @@
 "tags": [
 "BEAUTY",
 "BRANDS WOMEN",
-"influencer code",
 "KERASTASE WOMEN",
 "lrl 40 not discounted",
 "LRLDIS40",
@@ -46917,11 +46843,11 @@
 "BEAUTY",
 "BRANDS WOMEN",
 "HAIRCARE - SHAMPOO",
-"influencer code",
 "KERASTASE WOMEN",
 "lrl 40 not discounted",
 "LRLDIS40",
-"WOMEN BEAUTY BRANDS"
+"WOMEN BEAUTY BRANDS",
+"WOMEN HAIRCARE"
 ],
 "in": true
 },
@@ -47261,7 +47187,7 @@
 {
 "t": "Airwrap i.d.™ multi-styler and dryer – Straight & Wavy (Red velvet/Gold)",
 "u": "https://myholdal.com/products/buy-airwrap-i-d-multi-styler-and-dryer-t1-t2-red-velvet-gold-lebanon",
-"p": 626.0,
+"p": 435.0,
 "c": 626.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3P_308F_T1T2_RDVELGLD_galleryiamge_small_01.png?v=1780991009&width=400",
@@ -47295,7 +47221,7 @@
 {
 "t": "Supersonic r™ hair dryer – Curly+Coily (Red Velvet/Gold)",
 "u": "https://myholdal.com/products/buy-supersonic-r-hair-dryer-curly-coily-red-velvet-gold-lebanon",
-"p": 599.0,
+"p": 390.0,
 "c": 599.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3P_LNY_2026_505D_T3T4_Gallery_Large_No_Copy_Card_1.jpg?v=1780988319&width=400",
@@ -47333,7 +47259,7 @@
 {
 "t": "Sc Diap Rash Crm 123 (1Tux100Ml)",
 "u": "https://myholdal.com/products/biu-sc-diap-rash-crm-123-1tux100ml-lebanon",
-"p": 9.99,
+"p": 7.49,
 "c": 9.99,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/DIAPERCHANGE_123vitaminbarriercream_Tube_100mL_EXPORT_FRONT_1000x750px_97f7dee8-aa46-42b4-acc4-d72effddb040.png?v=1755847420&width=400",
@@ -47440,7 +47366,7 @@
 {
 "t": "Dyson Airwrap i.d.™ multi-styler and dryer - Curly+Coily (Red Velvet/Gold)",
 "u": "https://myholdal.com/products/buy-airwrap-i-d-multi-styler-and-dryer-t3-t4-red-velvet-gold-lebanon",
-"p": 626.0,
+"p": 436.0,
 "c": 626.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3P_LNY_2026_308F_T3T4_Gallery_Large_Copy_Card_1.jpg?v=1780388817&width=400",
@@ -48097,7 +48023,7 @@
 {
 "t": "HACKETT BESPOKE GIFT SET EDP 50ML",
 "u": "https://myholdal.com/products/buy-hackett-bespoke-gift-set-edp-50ml-lebanon",
-"p": 50.0,
+"p": 35.0,
 "c": 50.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/h22.jpg?v=1752224019&width=400",
@@ -52610,7 +52536,7 @@
 {
 "t": "Supersonic Nural™ hair dryer - Curly+Coily (Amber silk) - Gifting Edition",
 "u": "https://myholdal.com/products/buy-supersonic-nural-hair-dryer-curly-coily-amber-silk-gifting-edition-lebanon",
-"p": 520.0,
+"p": 339.0,
 "c": 520.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3P_605G_WEST_Gallery_Small_Copy_Market_Alt_Card_1.jpg?v=1776839835&width=400",
@@ -52627,7 +52553,7 @@
 {
 "t": "Airwrap i.d.™ multi-styler and dryer - Curly+Coily (Amber silk) - Gifting Edition",
 "u": "https://myholdal.com/products/buy-airwrap-i-d-multi-styler-and-dryer-curly-coily-amber-silk-gifting-edition-lebanon",
-"p": 626.0,
+"p": 436.0,
 "c": 626.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3P_308F_T3T4_Gallery_Large_Copy_Card_1.jpg?v=1775548160&width=400",
@@ -52644,7 +52570,7 @@
 {
 "t": "Airwrap i.d.™ multi-styler and dryer - Straight+Wavy (Amber silk) - Gifting Edition",
 "u": "https://myholdal.com/products/buy-airwrap-i-d-multi-styler-and-dryer-straight-wavy-amber-silk-gifting-edition-lebanon",
-"p": 626.0,
+"p": 436.0,
 "c": 626.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3P_308F_T1T2_Gallery_Large_Copy_Card_market_Alt_1_54363b32-49fb-4e75-a484-3d8a6fee3011.jpg?v=1776680998&width=400",
@@ -52676,7 +52602,7 @@
 {
 "t": "Coffret Whitening roll on Men - Heat 1+1",
 "u": "https://myholdal.com/products/coffret-whitening-roll-on-men-heat-1-1",
-"p": 9.16,
+"p": 6.41,
 "c": 9.16,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/image_83.png?v=1778758040&width=400",
@@ -52714,7 +52640,7 @@
 {
 "t": "SUN STICK SPF50+ 10G",
 "u": "https://myholdal.com/products/buy-sun-stick-spf50-10g-lebanon",
-"p": 46.62,
+"p": 34.97,
 "c": 46.62,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3701436917548_1.jpg?v=1778676442&width=400",
@@ -52731,7 +52657,7 @@
 {
 "t": "PROTOCOL ANTI-WRINKLE CREAM 30ML",
 "u": "https://myholdal.com/products/buy-protocol-anti-wrinkle-cream-30ml-lebanon",
-"p": 72.15,
+"p": 54.11,
 "c": 72.15,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3701436933296_1.jpg?v=1778676526&width=400",
@@ -52748,7 +52674,7 @@
 {
 "t": "PROTOCOL ANTI-WRINKLE FILLER 15ML",
 "u": "https://myholdal.com/products/buy-protocol-anti-wrinkle-filler-15ml-lebanon",
-"p": 44.4,
+"p": 33.3,
 "c": 44.4,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3701436933296.jpg?v=1778676487&width=400",
@@ -52765,7 +52691,7 @@
 {
 "t": "PROTOCOL RADIANCE VITAMIN C 30ML",
 "u": "https://myholdal.com/products/buy-protocol-radiance-vitamin-c-30ml-lebanon",
-"p": 88.8,
+"p": 66.6,
 "c": 88.8,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3701436926311_1.png?v=1778676402&width=400",
@@ -52782,7 +52708,7 @@
 {
 "t": "PROTOCOL RADIANCE PEELING 75ML",
 "u": "https://myholdal.com/products/buy-protocol-radiance-peeling-75ml-lebanon",
-"p": 42.18,
+"p": 31.64,
 "c": 42.18,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3701436926304.png?v=1778676004&width=400",
@@ -52799,7 +52725,7 @@
 {
 "t": "PREMIUM MASK 50ML",
 "u": "https://myholdal.com/products/buy-premium-mask-50ml-lebanon",
-"p": 88.8,
+"p": 66.6,
 "c": 88.8,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3701436932909_1.jpg?v=1778675883&width=400",
@@ -52816,7 +52742,7 @@
 {
 "t": "PREMIUM ABSOLUTE SERUM 30ML",
 "u": "https://myholdal.com/products/buy-premium-absolute-serum-30ml-lebanon",
-"p": 122.1,
+"p": 91.58,
 "c": 122.1,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3701436936433_1.jpg?v=1778675810&width=400",
@@ -52833,7 +52759,7 @@
 {
 "t": "CeraVe Blemish Barrier Patches With 3 Essential Ceramides and Niacinamide 22pcs",
 "u": "https://myholdal.com/products/buy-cerave-blemish-barrier-patches-with-3-essential-ceramides-and-niacinamide-22pcs-lebanon",
-"p": 10.26,
+"p": 6.67,
 "c": 10.26,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3337875927871_01.jpg?v=1778230934&width=400",
@@ -52844,16 +52770,16 @@
 "CERAVE UNISEX",
 "Derma adha offers 26",
 "GROOMING",
-"influencer code",
 "MEN DERMA SHOP ALL",
-"MEN SKINCARE"
+"MEN SKINCARE",
+"WOMEN SKINCARE"
 ],
 "in": true
 },
 {
 "t": "Vichy Dercos Aminexil Clinical REGEN Booster 90ML",
 "u": "https://myholdal.com/products/buy-vichy-dercos-aminexil-clinical-regen-booster-90ml-lebanon",
-"p": 73.38,
+"p": 47.7,
 "c": 73.38,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3337875932080_1.png?v=1778230863&width=400",
@@ -52863,17 +52789,17 @@
 "BRANDS UNISEX",
 "Derma adha offers 26",
 "GROOMING",
-"influencer code",
 "MEN DERMA SHOP ALL",
 "MEN HAIRCARE",
-"VICHY UNISEX"
+"VICHY UNISEX",
+"WOMEN HAIRCARE"
 ],
 "in": true
 },
 {
 "t": "Luna Rossa Carbon Eau De Parfum",
 "u": "https://myholdal.com/products/buy-luna-rossa-carbon-eau-de-parfum-lebanon",
-"p": 120.27,
+"p": 84.19,
 "c": 120.27,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/217065-2.jpg?v=1778659457&width=400",
@@ -52881,7 +52807,6 @@
 "tags": [
 "GIORGIO ARMANI MEN",
 "GROOMING",
-"influencer code",
 "Men brands",
 "MEN FRAGRANCES"
 ],
@@ -52890,7 +52815,7 @@
 {
 "t": "My Way Sunny Vanilla Eau De Parfum",
 "u": "https://myholdal.com/products/buy-my-way-sunny-vanilla-eau-de-parfum-lebanon",
-"p": 199.87,
+"p": 139.91,
 "c": 199.87,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/2932881_24197358_21893168.jpg?v=1778658597&width=400",
@@ -52899,7 +52824,6 @@
 "BEAUTY",
 "ga offers WOMEN",
 "GIORGIO ARMANI WOMEN",
-"influencer code",
 "june armani women",
 "sc sara",
 "WOMEN FRAGRANCES"
@@ -52909,7 +52833,7 @@
 {
 "t": "Dyson V12s Detect Slim Submarine™",
 "u": "https://myholdal.com/products/buy-v12-submarine-lebanon",
-"p": 720.0,
+"p": 505.0,
 "c": 720.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/V12_submarine_1.jpg?v=1778652218&width=400",
@@ -52926,14 +52850,13 @@
 {
 "t": "Idôle Peach’N Roses Eau De Parfum Fruitée",
 "u": "https://myholdal.com/products/buy-idole-peach-n-roses-eau-de-parfum-fruitee-lebanon",
-"p": 137.89,
+"p": 96.52,
 "c": 137.89,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/AC3614274510133-1.jpg?v=1778658430&width=400",
 "type": "EAU DE PARFUM",
 "tags": [
 "BEAUTY",
-"influencer code",
 "lancome june fragrances",
 "LANCOME WOMEN",
 "WOMEN FRAGRANCES"
@@ -52943,7 +52866,7 @@
 {
 "t": "La Roche Posay Anthelios UV AIR Daily SPF50+",
 "u": "https://myholdal.com/products/la-roche-posay-anthelios-uvair-daily-spf50-lebanon",
-"p": 26.97,
+"p": 17.53,
 "c": 26.97,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3337875932349_1.jpg?v=1778222650&width=400",
@@ -52954,9 +52877,9 @@
 "Derma adha offers 26",
 "DERMA UNISEX CLEANSING",
 "GROOMING",
-"influencer code",
 "LA ROCHE POSAY UNISEX",
-"MEN SKINCARE"
+"MEN SKINCARE",
+"SKINCARE - CLEANSERS & TONERS"
 ],
 "in": true
 },
@@ -53021,7 +52944,7 @@
 {
 "t": "Y Le Parfum",
 "u": "https://myholdal.com/products/buy-y-le-parfum-edp-60ml-lebanon",
-"p": 136.44,
+"p": 95.51,
 "c": 136.44,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/900900_23_879e9a2a-173c-4a9a-9226-97eebb95154a.png?v=1757421261&width=400",
@@ -53031,10 +52954,10 @@
 "fathers day 25",
 "FRAGRANCES - FOR HIM",
 "GROOMING",
-"influencer code",
 "june YSL Men Fragrance",
 "live sale MEN",
-"MEN - BEAUTY"
+"MEN - BEAUTY",
+"MEN FRAGRANCES"
 ],
 "in": true
 },
@@ -53067,14 +52990,13 @@
 {
 "t": "Luna Rossa Black Set",
 "u": "https://myholdal.com/products/buy-luna-rossa-black-set-lebanon",
-"p": 157.84,
+"p": 110.49,
 "c": 157.84,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/Gemini_Generated_Image_jwbyh5jwbyh5jwby.png?v=1778076691&width=400",
 "type": "EAU DE PARFUM",
 "tags": [
 "GROOMING",
-"influencer code",
 "loreal adha 26 20",
 "MEN FRAGRANCES",
 "PRADA MEN"
@@ -53084,14 +53006,13 @@
 {
 "t": "Paradigme Eau De Parfum Set",
 "u": "https://myholdal.com/products/buy-paradigme-eau-de-parfum-set-lebanon",
-"p": 167.22,
+"p": 117.05,
 "c": 167.22,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/Gemini_Generated_Image_475k32475k32475k.png?v=1778076523&width=400",
 "type": "EAU DE PARFUM",
 "tags": [
 "GROOMING",
-"influencer code",
 "MEN FRAGRANCES",
 "PRADA MEN"
 ],
@@ -53100,14 +53021,13 @@
 {
 "t": "Rénergie H.P.N. 300 Peptide Cream Set",
 "u": "https://myholdal.com/products/buy-renergie-h-p-n-300-peptide-cream-set-lebanon-3",
-"p": 121.49,
+"p": 85.04,
 "c": 121.49,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/lan_dmi_holiday_2025_3614274653410_skincare_set_packshots_1x1_d3879bd6-d23b-44ad-985a-b446b1cd9d3e.jpg?v=1776666539&width=400",
 "type": "SKIN CARE KITS",
 "tags": [
 "BEAUTY",
-"influencer code",
 "lancome june skincare",
 "LANCOME WOMEN",
 "WOMEN SKINCARE"
@@ -53117,7 +53037,7 @@
 {
 "t": "Armani Privé Orange Meditérranée",
 "u": "https://myholdal.com/products/buy-armani-prive-orange-mediterranee-lebanon",
-"p": 299.73,
+"p": 209.81,
 "c": 299.73,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614274643855.jpg?v=1778075630&width=400",
@@ -53129,8 +53049,8 @@
 "GIORGIO ARMANI MEN",
 "GIORGIO ARMANI WOMEN",
 "GROOMING",
-"influencer code",
-"MEN FRAGRANCES"
+"MEN FRAGRANCES",
+"sc sara"
 ],
 "in": false
 },
@@ -53189,7 +53109,7 @@
 {
 "t": "PHYTO PLAGE OIL 100ML\nTHE ICONIC PROTECTIVE OIL",
 "u": "https://myholdal.com/products/buy-phyto-plage-oil-100ml-the-iconic-protective-oil-lebanon",
-"p": 24.42,
+"p": 18.32,
 "c": 24.42,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/JoinUsThursdaySeptember25_4.png?v=1778047240&width=400",
@@ -53209,7 +53129,7 @@
 {
 "t": "PHYTO PLAGE SHAMPOO 250ML",
 "u": "https://myholdal.com/products/buy-phyto-plage-shampoo-250ml-lebanon",
-"p": 19.42,
+"p": 14.57,
 "c": 19.42,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/JoinUsThursdaySeptember25_3.png?v=1778047112&width=400",
@@ -53229,7 +53149,7 @@
 {
 "t": "Phyto 7 ELIXIR OIL 100ML",
 "u": "https://myholdal.com/products/buy-phyto-7-elixir-oil-100ml-lebanon",
-"p": 38.85,
+"p": 29.14,
 "c": 38.85,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/JoinUsThursdaySeptember25_7.png?v=1778047718&width=400",
@@ -53249,7 +53169,7 @@
 {
 "t": "PHYTO 7 ELIXIR CREAM 50ML",
 "u": "https://myholdal.com/products/buy-phyto-7-elixir-cream-50ml-lebanon",
-"p": 24.42,
+"p": 18.32,
 "c": 24.42,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/JoinUsThursdaySeptember25_5.png?v=1778047529&width=400",
@@ -53922,7 +53842,7 @@
 {
 "t": "Dyson V11™ Fluffy Cordless Vacuum",
 "u": "https://myholdal.com/products/buy-v1-fluffy-lebanon",
-"p": 600.0,
+"p": 418.0,
 "c": 600.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/V11Extra.jpg?v=1777531606&width=400",
@@ -54815,7 +54735,7 @@
 {
 "t": "Alien Eau de Parfum Gift Set",
 "u": "https://myholdal.com/products/buy-alien-eau-de-parfum-gift-set-lebanon",
-"p": 166.29,
+"p": 108.09,
 "c": 166.29,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/dd891f0f88c6e0f28d32d22de1d312ba.jpg?v=1777377406&width=400",
@@ -54823,7 +54743,6 @@
 "tags": [
 "BEAUTY",
 "BRANDS WOMEN",
-"influencer code",
 "mapping 28",
 "MUGLER WOMEN",
 "WOMEN FRAGRANCES"
@@ -54833,7 +54752,7 @@
 {
 "t": "Forever Wanted Elixir Gift Set",
 "u": "https://myholdal.com/products/buy-forever-wanted-elixir-gift-set-lebanon",
-"p": 154.75,
+"p": 100.59,
 "c": 154.75,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614274769890_c7fd.jpg?v=1777377354&width=400",
@@ -54842,7 +54761,6 @@
 "AZZARO MEN",
 "BRANDS MEN",
 "GROOMING",
-"influencer code",
 "mapping 28",
 "MEN FRAGRANCES"
 ],
@@ -54851,7 +54769,7 @@
 {
 "t": "Angel Blush Eau de Parfum Musquée",
 "u": "https://myholdal.com/products/buy-angel-blush-eau-de-parfum-lebanon",
-"p": 223.02,
+"p": 144.96,
 "c": 223.02,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614274704891_1.jpg?v=1777377258&width=400",
@@ -54859,7 +54777,6 @@
 "tags": [
 "BEAUTY",
 "BRANDS WOMEN",
-"influencer code",
 "mapping 28",
 "MUGLER WOMEN",
 "WOMEN FRAGRANCES"
@@ -54869,7 +54786,7 @@
 {
 "t": "Alien Pulp Eau de Parfum Fruitée",
 "u": "https://myholdal.com/products/buy-alien-pulp-eau-de-parfum-fruitee-lebanon",
-"p": 178.13,
+"p": 115.78,
 "c": 178.13,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614274503203_2.webp?v=1777377107&width=400",
@@ -54877,7 +54794,6 @@
 "tags": [
 "BEAUTY",
 "BRANDS WOMEN",
-"influencer code",
 "mapping 28",
 "MUGLER WOMEN",
 "WOMEN FRAGRANCES"
@@ -54887,7 +54803,7 @@
 {
 "t": "Azzaro Forever Wanted Absolu Parfum",
 "u": "https://myholdal.com/products/buy-azzaro-forever-wanted-absolu-parfum-lebanon",
-"p": 155.91,
+"p": 101.34,
 "c": 155.91,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/azzaroforeverwantedabsoluedp100ml.jpg?v=1777377042&width=400",
@@ -54896,7 +54812,6 @@
 "AZZARO MEN",
 "BRANDS MEN",
 "GROOMING",
-"influencer code",
 "mapping 28",
 "MEN FRAGRANCES"
 ],
@@ -54905,7 +54820,7 @@
 {
 "t": "Ella Ella Flora Azura Bleu",
 "u": "https://myholdal.com/products/buy-ella-ella-flora-azura-bleu-lebanon",
-"p": 122.75,
+"p": 79.79,
 "c": 122.75,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/214922-2.jpg?v=1777376945&width=400",
@@ -54914,7 +54829,6 @@
 "BEAUTY",
 "BRANDS WOMEN",
 "CACHAREL WOMEN",
-"influencer code",
 "mapping 28",
 "WOMEN FRAGRANCES"
 ],
@@ -54923,7 +54837,7 @@
 {
 "t": "Chrome United Eau De Toilette",
 "u": "https://myholdal.com/products/buy-chrome-united-eau-de-toilette-lebanon-1",
-"p": 69.57,
+"p": 45.22,
 "c": 69.57,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/670817-2_1.webp?v=1777376893&width=400",
@@ -54932,7 +54846,6 @@
 "AZZARO MEN",
 "BRANDS MEN",
 "GROOMING",
-"influencer code",
 "mapping 28",
 "MEN FRAGRANCES"
 ],
@@ -54941,7 +54854,7 @@
 {
 "t": "Code Elixir",
 "u": "https://myholdal.com/products/buy-code-elixir-lebanon",
-"p": 155.86,
+"p": 109.1,
 "c": 155.86,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614274139167_2.jpg?v=1777376835&width=400",
@@ -54951,7 +54864,6 @@
 "ga offers MEN",
 "GIORGIO ARMANI MEN",
 "GROOMING",
-"influencer code",
 "june armani men",
 "MEN FRAGRANCES"
 ],
@@ -54960,7 +54872,7 @@
 {
 "t": "CICA REPAIR+  MASK - AFTER SUN",
 "u": "https://myholdal.com/products/cica-repair-mask-after-sun",
-"p": 9.99,
+"p": 7.49,
 "c": 9.99,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/21413884CicaRepairAfterSun.jpg?v=1777014113&width=400",
@@ -54977,7 +54889,7 @@
 {
 "t": "Vichy Dercos Energy + Stimulating and Anti Hair Loss Shampoo with Aminexil 400ml",
 "u": "https://myholdal.com/products/buy-vichy-dercos-energy-stimulating-and-anti-hair-loss-shampoo-with-aminexil-400ml-lebanon",
-"p": 31.62,
+"p": 20.55,
 "c": 31.62,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/1_c3e23eb0-98d8-4a2c-ba31-e3092da7145e.png?v=1776930065&width=400",
@@ -54988,9 +54900,9 @@
 "Derma adha offers 26",
 "DERMA UNISEX HAIRCARE",
 "GROOMING",
-"influencer code",
 "MEN DERMA SHOP ALL",
-"MEN HAIRCARE"
+"MEN HAIRCARE",
+"VICHY MEN"
 ],
 "in": false
 },
@@ -55027,7 +54939,7 @@
 {
 "t": "Vichy Dercos Anti Dandruff Shampoo For Dry Hair 390ml",
 "u": "https://myholdal.com/products/buy-dercos-anti-dandruff-shampoo-for-dry-hair-390ml-lebanon",
-"p": 31.62,
+"p": 20.55,
 "c": 31.62,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/dry.png?v=1776929686&width=400",
@@ -55038,9 +54950,9 @@
 "Derma adha offers 26",
 "DERMA UNISEX HAIRCARE",
 "GROOMING",
-"influencer code",
 "MEN DERMA SHOP ALL",
-"MEN HAIRCARE"
+"MEN HAIRCARE",
+"VICHY MEN"
 ],
 "in": true
 },
@@ -55057,7 +54969,6 @@
 "BRANDS UNISEX",
 "DERMA UNISEX SKINCARE",
 "GROOMING",
-"influencer code",
 "MEN DERMA SHOP ALL",
 "MEN SKINCARE",
 "WOMEN SKINCARE"
@@ -55751,7 +55662,7 @@
 {
 "t": "Vichy Liftactiv Supreme HA Filler Hyaluronic Acid Serum To Reduce Wrinkles, Plump, & Smooth 30ml",
 "u": "https://myholdal.com/products/buy-vichy-liftactiv-supreme-ha-filler-hyaluronic-acid-serum-to-reduce-wrinkles-plump-smooth-30ml-lebanon",
-"p": 53.02,
+"p": 34.46,
 "c": 53.02,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/1_fd9ef90b-ec6d-453a-8c7e-c71bac08718a.png?v=1757398927&width=400",
@@ -55764,14 +55675,14 @@
 "DERMA UNISEX FACE CARE",
 "GROOMING",
 "HYALURONIC ACID",
-"influencer code"
+"live sale UNISEX"
 ],
 "in": true
 },
 {
 "t": "MY CRUSH",
 "u": "https://myholdal.com/products/buy-my-crush-lebanon",
-"p": 32.0,
+"p": 22.4,
 "c": 32.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/010_0a2ebeb7-96c6-4eea-9660-cc0fff733948.png?v=1776858584&width=400",
@@ -55825,14 +55736,13 @@
 {
 "t": "Libre Eau De Parfum and Rouge Pur Couture Trio Set",
 "u": "https://myholdal.com/products/buy-libre-eau-de-parfum-and-rouge-pur-couture-trio-set-lebanon",
-"p": 206.47,
+"p": 144.53,
 "c": 206.47,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/free-edp-90-ml-edp-mini-10-ml-mini-rpc.jpg?v=1776679426&width=400",
 "type": "SETS",
 "tags": [
 "BEAUTY",
-"influencer code",
 "june YSL Women Fragrance",
 "WOMEN FRAGRANCES",
 "YVES SAINT LAURENT WOMEN"
@@ -55842,14 +55752,13 @@
 {
 "t": "Libre Eau De Parfum and Lash Clash Duo Set",
 "u": "https://myholdal.com/products/buy-libre-eau-de-parfum-and-lash-clash-duo-set-lebanon",
-"p": 187.88,
+"p": 131.52,
 "c": 187.88,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/Gemini_Generated_Image_qp0708qp0708qp07.png?v=1776679211&width=400",
 "type": "SETS",
 "tags": [
 "BEAUTY",
-"influencer code",
 "june YSL Women Fragrance",
 "loreal adha 26 20",
 "WOMEN FRAGRANCES",
@@ -55860,14 +55769,13 @@
 {
 "t": "Libre Eau De Parfum Intense Set",
 "u": "https://myholdal.com/products/buy-libre-eau-de-parfum-intense-set-lebanon",
-"p": 201.48,
+"p": 141.04,
 "c": 201.48,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/6294016993638.webp?v=1776678778&width=400",
 "type": "SETS",
 "tags": [
 "BEAUTY",
-"influencer code",
 "june YSL Women Fragrance",
 "WOMEN FRAGRANCES",
 "YVES SAINT LAURENT WOMEN"
@@ -55877,14 +55785,13 @@
 {
 "t": "Lash Clash Couture Set",
 "u": "https://myholdal.com/products/buy-lash-clash-couture-set-lebanon",
-"p": 59.32,
+"p": 41.52,
 "c": 59.32,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/Gemini_Generated_Image_a49d7wa49d7wa49d.png?v=1776694941&width=400",
 "type": "SETS",
 "tags": [
 "BEAUTY",
-"influencer code",
 "june YSL Makeup",
 "WOMEN MAKEUP",
 "YVES SAINT LAURENT WOMEN"
@@ -55967,14 +55874,13 @@
 {
 "t": "Loveshine Candy Glaze Duo Set",
 "u": "https://myholdal.com/products/buy-loveshine-candy-glaze-duo-set-lebanon",
-"p": 81.46,
+"p": 57.02,
 "c": 81.46,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/6294016993508.jpg?v=1776669270&width=400",
 "type": "SETS",
 "tags": [
 "BEAUTY",
-"influencer code",
 "june YSL Makeup",
 "WOMEN MAKEUP",
 "YVES SAINT LAURENT WOMEN"
@@ -55984,7 +55890,7 @@
 {
 "t": "Le Vestiaire Des Parfums Muse",
 "u": "https://myholdal.com/products/buy-le-vestiaire-des-parfums-muse-lebanon",
-"p": 410.67,
+"p": 287.47,
 "c": 410.67,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614274184921_MUSE_EAU_DE_PARFUM_alt2.jpg?v=1776669033&width=400",
@@ -55992,7 +55898,6 @@
 "tags": [
 "BEAUTY",
 "GROOMING",
-"influencer code",
 "loreal adha 26 20",
 "MEN FRAGRANCES",
 "sc sara",
@@ -56004,14 +55909,13 @@
 {
 "t": "All Hours Setting Powder",
 "u": "https://myholdal.com/products/buy-all-hours-setting-powder-lebanon",
-"p": 73.65,
+"p": 51.56,
 "c": 73.65,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614272622661_All_Hours_Setting_Powder_B60-Amber_9a7c70a1-fb84-4931-915d-74350492ef76.jpg?v=1776668839&width=400",
 "type": "POWDERS",
 "tags": [
 "BEAUTY",
-"influencer code",
 "june YSL Makeup",
 "WOMEN MAKEUP",
 "YVES SAINT LAURENT WOMEN"
@@ -56021,14 +55925,13 @@
 {
 "t": "Rouge Pur Couture Sheer Matte",
 "u": "https://myholdal.com/products/buy-rouge-pur-couture-sheer-matte-lebanon-3",
-"p": 49.93,
+"p": 34.95,
 "c": 49.93,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614272609488_103_orange_provocant.jpg?v=1776668609&width=400",
 "type": "LIPSTICKS",
 "tags": [
 "BEAUTY",
-"influencer code",
 "june YSL Makeup",
 "LID LLD LIPSTICK DAY",
 "WOMEN MAKEUP",
@@ -56039,14 +55942,13 @@
 {
 "t": "Spicebomb Extreme Set",
 "u": "https://myholdal.com/products/buy-spicebomb-extreme-set-lebanon",
-"p": 197.26,
+"p": 128.22,
 "c": 197.26,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/viktor-rolf-mens-spicebomb-extreme-gift-set-fragrances-3614274653007.jpg?v=1776668209&width=400",
 "type": "SETS",
 "tags": [
 "GROOMING",
-"influencer code",
 "MEN FRAGRANCES",
 "VIKTOR & ROLF MEN"
 ],
@@ -56055,14 +55957,13 @@
 {
 "t": "Born In Roma Uomo Set",
 "u": "https://myholdal.com/products/buy-born-in-roma-uomo-eau-de-parfum-set-lebanon",
-"p": 132.45,
+"p": 92.72,
 "c": 132.45,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/51XaG0qcTtL._SL1000.jpg?v=1776668132&width=400",
 "type": "SETS",
 "tags": [
 "GROOMING",
-"influencer code",
 "MEN FRAGRANCES",
 "valentino june men",
 "VALENTINO MEN"
@@ -56072,7 +55973,7 @@
 {
 "t": "The Age Defense System",
 "u": "https://myholdal.com/products/buy-the-age-defense-system-lebanon",
-"p": 86.0,
+"p": 60.2,
 "c": 86.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/cl_sku_VDL401_CA_1200x1500_1.avif?v=1775046488&width=400",
@@ -56091,7 +55992,7 @@
 {
 "t": "The Hydration System",
 "u": "https://myholdal.com/products/buy-the-hydration-system-lebanon",
-"p": 78.0,
+"p": 54.6,
 "c": 78.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/cl_sku_VDL501_1200x1500_0.avif?v=1775046576&width=400",
@@ -56109,7 +56010,7 @@
 {
 "t": "The Intense Hydration System",
 "u": "https://myholdal.com/products/buy-the-intense-hydration-system-lebanon",
-"p": 62.0,
+"p": 43.4,
 "c": 62.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/cl_sku_VDL601_1200x1500_0.avif?v=1775046634&width=400",
@@ -56144,14 +56045,13 @@
 {
 "t": "Born In Roma Donna Intense Set",
 "u": "https://myholdal.com/products/buy-born-in-roma-donna-intense-set-lebanon",
-"p": 137.77,
+"p": 96.44,
 "c": 137.77,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/Valentino-Donna-Born-in-Roma-Intense-50ml-Xmas-2025-Gift-Set.jpg?v=1776666973&width=400",
 "type": "SETS",
 "tags": [
 "BEAUTY",
-"influencer code",
 "valentino june women",
 "VALENTINO WOMEN",
 "WOMEN FRAGRANCES"
@@ -56161,14 +56061,13 @@
 {
 "t": "Born In Roma Uomo Intense Set",
 "u": "https://myholdal.com/products/buy-born-in-roma-uomo-intense-set-lebanon",
-"p": 107.02,
+"p": 74.91,
 "c": 107.02,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/valentino-mens-uomo-born-in-roma-intense-gift-set-fragrances-3614274680102.jpg?v=1776666862&width=400",
 "type": "SETS",
 "tags": [
 "GROOMING",
-"influencer code",
 "MEN FRAGRANCES",
 "valentino june men",
 "VALENTINO MEN"
@@ -56178,14 +56077,13 @@
 {
 "t": "Rénergie H.C.F. Triple Serum Set",
 "u": "https://myholdal.com/products/buy-renergie-h-c-f-triple-serum-set-lebanon-4",
-"p": 158.27,
+"p": 110.79,
 "c": 158.27,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/Gemini_Generated_Image_8oh8kg8oh8kg8oh8.png?v=1776666755&width=400",
 "type": "SETS",
 "tags": [
 "BEAUTY",
-"influencer code",
 "lancome june skincare",
 "LANCOME WOMEN",
 "loreal adha 26 20",
@@ -56196,14 +56094,13 @@
 {
 "t": "Paradoxe Intense Eau De Parfum Set",
 "u": "https://myholdal.com/products/buy-paradoxe-intense-eau-de-parfum-set-lebanon-3",
-"p": 195.32,
+"p": 136.72,
 "c": 195.32,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/Untitled_design_81_3e3768f0-491d-41ec-b170-b65f698495c8.webp?v=1776436193&width=400",
 "type": "FRAGRANCES, GIFTS & SETS",
 "tags": [
 "BEAUTY",
-"influencer code",
 "PRADA WOMEN",
 "WOMEN FRAGRANCES"
 ],
@@ -56212,14 +56109,13 @@
 {
 "t": "Génifique Ultimate Serum Routine Set",
 "u": "https://myholdal.com/products/buy-genifique-ultimate-serum-routine-set-lebanon",
-"p": 136.0,
+"p": 95.42,
 "c": 136.31,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/genifique-ultimate-coffret-serum-reparateur.jpg?v=1776435846&width=400",
 "type": "SETS",
 "tags": [
 "BEAUTY",
-"influencer code",
 "lancome june skincare",
 "LANCOME WOMEN",
 "loreal adha 26 20",
@@ -56230,14 +56126,13 @@
 {
 "t": "La Vie est Belle Eau de Parfum Set",
 "u": "https://myholdal.com/products/buy-la-vie-est-belle-eau-de-parfum-set-lebanon",
-"p": 175.28,
+"p": 122.7,
 "c": 175.28,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/lancome-ladies-la-vie-est-belle-gift-set-fragrances-3614274654158.jpg?v=1776435746&width=400",
 "type": "SETS",
 "tags": [
 "BEAUTY",
-"influencer code",
 "lancome june fragrances",
 "LANCOME WOMEN",
 "WOMEN FRAGRANCES"
@@ -56247,14 +56142,13 @@
 {
 "t": "Hypnôse Drama Mascara + Le Crayon Khôl + Bi-Facil Eye Makeup",
 "u": "https://myholdal.com/products/buy-hypnose-drama-mascara-le-crayon-khol-bi-facil-eye-makeup-lebanon",
-"p": 42.4,
+"p": 29.68,
 "c": 42.4,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/01219-LAC-hypnose-drama-makeup-set-main.jpg?v=1776435667&width=400",
 "type": "SETS",
 "tags": [
 "BEAUTY",
-"influencer code",
 "lancome june makeup",
 "LANCOME WOMEN",
 "WOMEN SKINCARE"
@@ -56264,14 +56158,13 @@
 {
 "t": "Rénergie C.R.x. Triple Serum Retinol",
 "u": "https://myholdal.com/products/buy-renergie-c-r-x-triple-serum-retinol-lebanon",
-"p": 87.3,
+"p": 61.11,
 "c": 87.3,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614274368109_1300x1300_19ab4d23-8a0a-4853-bc37-98b8ec7f9746.webp?v=1776435396&width=400",
 "type": "SERUMS",
 "tags": [
 "BEAUTY",
-"influencer code",
 "lancome june skincare",
 "LANCOME WOMEN",
 "loreal adha 26 20",
@@ -56282,14 +56175,13 @@
 {
 "t": "Rénergie Triple Serum & Eye Cream Set",
 "u": "https://myholdal.com/products/buy-renergie-triple-serum-eye-cream-set-lebanon",
-"p": 165.19,
+"p": 115.63,
 "c": 165.19,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614274338942_1300x1300_60d61810-7b3b-4963-9baa-8eb7301b22a6.webp?v=1776435297&width=400",
 "type": "SETS",
 "tags": [
 "BEAUTY",
-"influencer code",
 "lancome june skincare",
 "LANCOME WOMEN",
 "WOMEN SKINCARE"
@@ -56299,14 +56191,13 @@
 {
 "t": "UV Expert Supra Screen Invisible UV Serum SPF 50+",
 "u": "https://myholdal.com/products/buy-uv-expert-supra-screen-invisible-uv-serum-spf-50-lebanon",
-"p": 57.29,
+"p": 40.1,
 "c": 57.29,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/LANCOME_UV_EXPERT_SUPRA_SCREEN_SPF_50_40ml_3614274162943.jpg?v=1776435203&width=400",
 "type": "SUNSCREEN",
 "tags": [
 "BEAUTY",
-"influencer code",
 "lancome june skincare",
 "LANCOME WOMEN",
 "WOMEN SKINCARE"
@@ -56316,14 +56207,13 @@
 {
 "t": "Tonique Confort Re-Hydrating Comforting Toner",
 "u": "https://myholdal.com/products/buy-tonique-confort-re-hydrating-comforting-toner-lebanon",
-"p": 68.35,
+"p": 47.85,
 "c": 68.35,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/328L54492.webp?v=1776435055&width=400",
 "type": "TONERS",
 "tags": [
 "BEAUTY",
-"influencer code",
 "lancome june skincare",
 "LANCOME WOMEN",
 "loreal adha 26 20",
@@ -56334,14 +56224,13 @@
 {
 "t": "Idôle Eau de Parfum Refill",
 "u": "https://myholdal.com/products/buy-idole-eau-de-parfum-refill-lebanon",
-"p": 146.26,
+"p": 102.38,
 "c": 146.26,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614274024975-1.webp?v=1776434887&width=400",
 "type": "EAU DE PARFUM",
 "tags": [
 "BEAUTY",
-"influencer code",
 "lancome june fragrances",
 "LANCOME WOMEN",
 "loreal adha 26 20",
@@ -56352,14 +56241,13 @@
 {
 "t": "Bi-Facil Clean & Care Nourishing and Soothing Eye Makeup Remover",
 "u": "https://myholdal.com/products/buy-bi-facil-clean-care-nourishing-and-soothing-eye-makeup-remover-lebanon",
-"p": 37.23,
+"p": 26.06,
 "c": 37.23,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614273660471_1300x1300_c26b3de7-c434-4c30-a760-9b441e44ae29.webp?v=1776434798&width=400",
 "type": "CLEANSERS",
 "tags": [
 "BEAUTY",
-"influencer code",
 "lancome june skincare",
 "LANCOME WOMEN",
 "loreal adha 26 20",
@@ -56370,14 +56258,13 @@
 {
 "t": "Clarifique Double Treatment Essence",
 "u": "https://myholdal.com/products/buy-clarifique-double-treatment-essence-lebanon",
-"p": 123.24,
+"p": 86.27,
 "c": 123.24,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614272520622_9ff781ab-0d4a-4874-81a1-75007223ea76.webp?v=1776434475&width=400",
 "type": "ESSENCES",
 "tags": [
 "BEAUTY",
-"influencer code",
 "lancome june skincare",
 "LANCOME WOMEN",
 "loreal adha 26 20",
@@ -56388,14 +56275,13 @@
 {
 "t": "Tonique Douceur Softening & Hydrating Cleansing Toner",
 "u": "https://myholdal.com/products/buy-tonique-douceur-softening-hydrating-cleansing-toner-lebanon",
-"p": 68.35,
+"p": 47.85,
 "c": 68.35,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/8785114_fpx.jpg?v=1776434170&width=400",
 "type": "CLEANSERS",
 "tags": [
 "BEAUTY",
-"influencer code",
 "lancome june skincare",
 "LANCOME WOMEN",
 "WOMEN SKINCARE"
@@ -56405,7 +56291,7 @@
 {
 "t": "Crème de Corps Refillable Body Lotion with Cocoa Butter",
 "u": "https://myholdal.com/products/buy-creme-de-corps-refillable-body-lotion-with-cocoa-butter-lebanon",
-"p": 93.4,
+"p": 65.38,
 "c": 93.4,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/kiehls-body-lotion-creme-de-corps-1L-3605972482976-front.jpg?v=1776434081&width=400",
@@ -56413,7 +56299,6 @@
 "tags": [
 "BEAUTY",
 "GROOMING",
-"influencer code",
 "KIEHL'S UNISEX",
 "KIEHLS",
 "KIEHLS WOMEN",
@@ -56425,14 +56310,13 @@
 {
 "t": "Facial Fuel Energizing Moisturizer",
 "u": "https://myholdal.com/products/buy-facial-fuel-energizing-moisturizer-lebanon",
-"p": 53.79,
+"p": 37.65,
 "c": 53.79,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/kiehls-men-face-moisturizer-facial-fuel-energizing-moisture-treatment-125ml-000-3700194719104-front.jpg?v=1776433837&width=400",
 "type": "FACE CREAM",
 "tags": [
 "GROOMING",
-"influencer code",
 "KIEHL'S MEN",
 "KIEHLS",
 "MEN SKINCARE"
@@ -56442,7 +56326,7 @@
 {
 "t": "Code Eau de Parfum 3-Piece Gift Set",
 "u": "https://myholdal.com/products/buy-code-eau-de-parfum-3-piece-gift-set-lebanon",
-"p": 117.69,
+"p": 82.38,
 "c": 117.69,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/Untitleddesign_84_13ff8b8b-1926-4fe6-ab05-9a201f8b2306.webp?v=1776433709&width=400",
@@ -56451,7 +56335,6 @@
 "ga offers MEN",
 "GIORGIO ARMANI MEN",
 "GROOMING",
-"influencer code",
 "june armani men"
 ],
 "in": false
@@ -56459,7 +56342,7 @@
 {
 "t": "Armani Code Parfum 3-Piece Set",
 "u": "https://myholdal.com/products/buy-armani-code-parfum-3-piece-set-lebanon",
-"p": 105.62,
+"p": 73.93,
 "c": 105.62,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/armani_code_parfum_75ml_gift-set_ww-00692-arm_3614273877435_altview4_778c895d-dee5-4dc6-868b-1ccecf62c943.webp?v=1776433500&width=400",
@@ -56468,7 +56351,6 @@
 "ga offers MEN",
 "GIORGIO ARMANI MEN",
 "GROOMING",
-"influencer code",
 "june armani men",
 "MEN FRAGRANCES"
 ],
@@ -56477,8 +56359,8 @@
 {
 "t": "Sì Passione Intense Eau de Parfum Gift Set",
 "u": "https://myholdal.com/products/buy-si-passione-intense-eau-de-parfum-gift-set-lebanon",
-"p": 145.0,
-"c": 144.68,
+"p": 101.5,
+"c": 145.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/Picture1_3e237d4a-eaa3-4987-9382-b504fb6525ef.png?v=1780996662&width=400",
 "type": "SETS",
@@ -56486,7 +56368,6 @@
 "BEAUTY",
 "ga offers WOMEN",
 "GIORGIO ARMANI WOMEN",
-"influencer code",
 "june armani women",
 "WOMEN FRAGRANCES"
 ],
@@ -56495,7 +56376,7 @@
 {
 "t": "Sì Passione Red Musk Eau de Parfum Gift Set",
 "u": "https://myholdal.com/products/buy-si-passione-red-musk-eau-de-parfum-gift-set-lebanon",
-"p": 133.71,
+"p": 93.6,
 "c": 133.71,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/10003723258_01.avif?v=1776432954&width=400",
@@ -56504,7 +56385,6 @@
 "BEAUTY",
 "ga offers WOMEN",
 "GIORGIO ARMANI WOMEN",
-"influencer code",
 "june armani women",
 "WOMEN FRAGRANCES"
 ],
@@ -56513,7 +56393,7 @@
 {
 "t": "Si Passione Eau de Parfum 100ml + 10ml + 50ml Body Lotion Set",
 "u": "https://myholdal.com/products/buy-si-passione-eau-de-parfum-100ml-10ml-50ml-body-lotion-set-lebanon",
-"p": 193.83,
+"p": 135.68,
 "c": 193.83,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/armani-women-s-perfume-armani-si-passione-eau-de-parfum-women-s-gift-set-spray-100ml-with-50ml-body-milk-and-10ml-edp-1210414652.webp?v=1776432806&width=400",
@@ -56522,7 +56402,6 @@
 "BEAUTY",
 "ga offers WOMEN",
 "GIORGIO ARMANI WOMEN",
-"influencer code",
 "june armani women",
 "WOMEN FRAGRANCES"
 ],
@@ -56531,7 +56410,7 @@
 {
 "t": "Acqua di Giò Pour Homme Eau de Toilette 3-Piece Gift Set",
 "u": "https://myholdal.com/products/buy-acqua-di-gio-pour-homme-eau-de-toilette-3-piece-gift-set-lebanon",
-"p": 139.07,
+"p": 97.35,
 "c": 139.07,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614274692648-1_1024x_e1ca314c-631d-4538-b001-fa44e4a5d4d0.webp?v=1778663699&width=400",
@@ -56540,7 +56419,6 @@
 "ga offers MEN",
 "GIORGIO ARMANI MEN",
 "GROOMING",
-"influencer code",
 "june armani men"
 ],
 "in": false
@@ -56548,7 +56426,7 @@
 {
 "t": "Stronger With You Eau de Toilette 50ml + 75ml Shower Gel Set",
 "u": "https://myholdal.com/products/buy-stronger-with-you-eau-de-toilette-50ml-75ml-shower-gel-set-lebanon",
-"p": 94.09,
+"p": 65.86,
 "c": 94.09,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/1759395607-00638700.jpg?v=1776432505&width=400",
@@ -56557,7 +56435,6 @@
 "ga offers MEN",
 "GIORGIO ARMANI MEN",
 "GROOMING",
-"influencer code",
 "june armani men",
 "MEN FRAGRANCES"
 ],
@@ -56566,8 +56443,8 @@
 {
 "t": "Sì Eau de Parfum 3-Piece Gift Set",
 "u": "https://myholdal.com/products/buy-si-eau-de-parfum-3-piece-gift-set-lebanon",
-"p": 194.0,
-"c": 193.83,
+"p": 135.8,
+"c": 194.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/ww-01006-arm-si-eau-de-parfum-100ml-holiday-gift-set-main.jpg?v=1776432175&width=400",
 "type": "SETS",
@@ -56575,7 +56452,6 @@
 "BEAUTY",
 "ga offers WOMEN",
 "GIORGIO ARMANI WOMEN",
-"influencer code",
 "june armani women",
 "WOMEN FRAGRANCES"
 ],
@@ -56584,7 +56460,7 @@
 {
 "t": "Armani Privé Oud Nacré Eau de Parfum",
 "u": "https://myholdal.com/products/buy-armani-prive-oud-nacre-eau-de-parfum-lebanon",
-"p": 399.43,
+"p": 279.6,
 "c": 399.43,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614274491395_main.webp?v=1776431598&width=400",
@@ -56594,7 +56470,6 @@
 "BEAUTY",
 "GIORGIO ARMANI UNISEX",
 "GROOMING",
-"influencer code",
 "MEN FRAGRANCES",
 "WOMEN FRAGRANCES"
 ],
@@ -56603,7 +56478,7 @@
 {
 "t": "Armani Privé Thé Yulong Eau de Toilette",
 "u": "https://myholdal.com/products/buy-armani-prive-the-yulong-eau-de-toilette-lebanon",
-"p": 299.73,
+"p": 209.81,
 "c": 299.73,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3614272650954.webp?v=1776431459&width=400",
@@ -56613,17 +56488,17 @@
 "BEAUTY",
 "GIORGIO ARMANI UNISEX",
 "GROOMING",
-"influencer code",
 "june armani women",
 "MEN FRAGRANCES",
-"sc sara"
+"sc sara",
+"WOMEN FRAGRANCES"
 ],
 "in": true
 },
 {
 "t": "Airwrap Lite Multi-Styler Origin Limited Edition Bright Nickel/Rich Copper",
 "u": "https://myholdal.com/products/buy-airwrap-lite-lebanon",
-"p": 500.0,
+"p": 327.0,
 "c": 500.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/Entry_Skus_308c_3P_gallery_large_copy_01.jpg?v=1777536690&width=400",
@@ -56999,7 +56874,7 @@
 {
 "t": "Detangling Cream Shampoo 200 ML",
 "u": "https://myholdal.com/products/biu-ca-detangling-cream-shampoo-1tux200ml-lebanon",
-"p": 16.65,
+"p": 12.49,
 "c": 16.65,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/DetanglingandnourishingcreamshampooPNGsansombre_52d43969-261b-4780-861a-5276a3756975.png?v=1755847421&width=400",
@@ -57044,9 +56919,9 @@
 "BRANDS WOMEN",
 "christmas gift ideas 24",
 "HAIRCARE - TREATMENT",
-"influencer code",
 "kerastase non discounted",
-"kerastase nov offer"
+"kerastase nov offer",
+"Kerastase WOMEN"
 ],
 "in": false
 },
@@ -57095,7 +56970,7 @@
 {
 "t": "Airwrap i.d.™ multi-styler and dryer - Curly+Coily (Ceramic pink and Rose gold)",
 "u": "https://myholdal.com/products/buy-airwrap-i-d-curly-coily-ceramic-pink-and-rose-gold-lebanon",
-"p": 625.0,
+"p": 436.0,
 "c": 625.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3P_308F_T3T4_CP_Gallery_WITHCOPY_Small_01.png?v=1776150912&width=400",
@@ -57112,7 +56987,7 @@
 {
 "t": "Supersonic r™ hair dryer – Straight+Wavy (Ceramic pink/Rose gold)",
 "u": "https://myholdal.com/products/buy-supersonic-r-ceramic-pink-t1-t2-lebanon",
-"p": 599.0,
+"p": 390.0,
 "c": 599.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/3P_505D_PPIDRODPL_T3-4_Galleryimage_Large_1.jpg?v=1776149212&width=400",
@@ -57515,65 +57390,6 @@
 "LGP MAPPING 29",
 "LGP MEN",
 "LONGCHAMP"
-],
-"in": false
-},
-{
-"t": "Épure Shoulder bag - 10346HYZ",
-"u": "https://myholdal.com/products/buy-epure-shoulder-bag-10346hyz-p55-lebanon",
-"p": 675.0,
-"c": 675.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/10346HYZP55_0.jpg?v=1773837356&width=400",
-"type": "SHOULDER BAGS",
-"tags": [
-"BAGS",
-"BREIFCASES",
-"LGP Del III SS26",
-"LGP MAPPING 29",
-"LGP MEN",
-"LONGCHAMP",
-"LONGCHAMP BAGS",
-"LONGCHAMP SS26"
-],
-"in": true
-},
-{
-"t": "Re - Play Shoulder bag - 10347HIQ",
-"u": "https://myholdal.com/products/buy-re-play-shoulder-bag-10347hiq-f92-lebanon",
-"p": 378.0,
-"c": 378.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/10347HIQF92_0.jpg?v=1773837292&width=400",
-"type": "SHOULDER BAGS",
-"tags": [
-"LGP Del III SS26",
-"LGP MAPPING 29",
-"LONGCHAMP",
-"LONGCHAMP ACCESSORIES",
-"LONGCHAMP SS26",
-"LONGCHAMP WOMEN",
-"longchamp women bags",
-"WOMEN ACCESSORIES"
-],
-"in": false
-},
-{
-"t": "Re - Play Shoulder bag - 10347HIQ",
-"u": "https://myholdal.com/products/buy-re-play-shoulder-bag-10347hiq-m31-lebanon",
-"p": 378.0,
-"c": 378.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/10347HIQM31_3.jpg?v=1773837187&width=400",
-"type": "SHOULDER BAGS",
-"tags": [
-"LGP Del III SS26",
-"LONGCHAMP",
-"LONGCHAMP ACCESSORIES",
-"LONGCHAMP SS26",
-"LONGCHAMP WOMEN",
-"WOMEN ACCESSORIES",
-"WOMEN BAGS"
 ],
 "in": false
 }
