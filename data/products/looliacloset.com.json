@@ -442,7 +442,7 @@
 "Mixa_BF_Bundle",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Any Body Lotion 250ml + Cream Jar + FREE Pouch At 20% OFF",
@@ -460,7 +460,7 @@
 "Mixa_BF_Bundle",
 "Valued Bundles"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Bye Bye Eye Bags",
@@ -1422,7 +1422,7 @@
 "La Roche-Posay",
 "SEARCHANISE_IGNORE"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Sky High Mascara Burgundy + Lifter Liner + Lifter Gloss At 20% OFF",
@@ -4449,7 +4449,7 @@
 "Loolia Closet",
 "SEARCHANISE_IGNORE"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Extensionist Mascara  + Tinted Serum + Plump Ambition Hyaluron Lip Oil + FREE Le Defile Pouch At 25% OFF",
@@ -7480,7 +7480,7 @@
 "rmv_dsc",
 "SUNSCREEN"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Intensive Moisturising Lotion for Very Dry Skin 236ml",
@@ -10463,8 +10463,8 @@
 {
 "t": "Cleansing Water With Avocado 500 mL",
 "u": "https://looliacloset.com/products/mustela-cleansing-water-avocado-500ml",
-"p": 15.54,
-"c": null,
+"p": 11.65,
+"c": 15.54,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Untitleddesign-2026-06-16T143507.742.png?v=1781611036&width=400",
 "type": "Cleanser",
@@ -12878,7 +12878,7 @@
 "CPD_EXC_17March",
 "CPD_EXMay26"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Blueberry Sorbet",
@@ -18032,7 +18032,7 @@
 "skincare must",
 "Viral_2026"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Mixa Skincare Bundle – Any 2 Creams in a Jar + Free Body Scrubber",
@@ -21025,8 +21025,8 @@
 {
 "t": "Soothing Moisturising Cream",
 "u": "https://looliacloset.com/products/soothing-moisturising-cream-40ml",
-"p": 8.88,
-"c": null,
+"p": 6.66,
+"c": 8.88,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Untitled_design_-_2026-01-22T160117.105.png?v=1769090491&width=400",
 "type": "Soothing Cream",
@@ -21043,8 +21043,8 @@
 {
 "t": "STELATOPIA® Cleansing Gel",
 "u": "https://looliacloset.com/products/stelatopia®-cleansing-gel-200ml",
-"p": 13.88,
-"c": null,
+"p": 10.41,
+"c": 13.88,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Untitled_design_-_2026-01-22T162011.426.png?v=1769091627&width=400",
 "type": "Shower Gel",
@@ -21061,8 +21061,8 @@
 {
 "t": "Soothing Moisturizing Lotion",
 "u": "https://looliacloset.com/products/soothing-moisturizing-lotion-200ml",
-"p": 13.88,
-"c": null,
+"p": 10.41,
+"c": 13.88,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Untitled_design_-_2026-01-22T163020.185.png?v=1769092235&width=400",
 "type": "Lotion",
@@ -21080,8 +21080,8 @@
 {
 "t": "Nourishing Cleansing Gel with Cold Cream and Beeswax",
 "u": "https://looliacloset.com/products/nourishing-cleansing-gel-with-cold-cream-300ml",
-"p": 10.55,
-"c": null,
+"p": 7.91,
+"c": 10.55,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Untitled_design_-_2026-01-22T165744.990.png?v=1769093876&width=400",
 "type": "Cleansing Gel",
@@ -21099,8 +21099,8 @@
 {
 "t": "Baby Intimate Cleansing Gel",
 "u": "https://looliacloset.com/products/intimate-hygiene-gel-200ml",
-"p": 14.99,
-"c": null,
+"p": 11.24,
+"c": 14.99,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Untitleddesign-2026-01-22T170408.890.png?v=1769094260&width=400",
 "type": "Cleansing Gel",
@@ -21118,8 +21118,8 @@
 {
 "t": "Cradle Cap Cream",
 "u": "https://looliacloset.com/products/cradle-cap-cream-40ml",
-"p": 11.1,
-"c": null,
+"p": 8.32,
+"c": 11.1,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Untitled_design_-_2026-01-22T171158.121.png?v=1769094728&width=400",
 "type": "Cradle Cap Cream",
@@ -21136,8 +21136,8 @@
 {
 "t": "Nourishing Lotion with Cold Cream and Beeswax",
 "u": "https://looliacloset.com/products/nourishing-lotion-with-cold-cream-200ml",
-"p": 13.88,
-"c": null,
+"p": 10.41,
+"c": 13.88,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Untitled_design_-_2026-01-22T172140.785.png?v=1769095312&width=400",
 "type": "Lotion",
@@ -21876,7 +21876,7 @@
 "serum",
 "Skin Glow Edit"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Bakuchiol Plumping Serum",
@@ -24244,8 +24244,8 @@
 {
 "t": "Musti Coffrets Terracota 2025",
 "u": "https://looliacloset.com/products/musti-coffrets-terracota-2025",
-"p": 16.1,
-"c": null,
+"p": 12.08,
+"c": 16.1,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Tarracota.png?v=1765289134&width=400",
 "type": "Fragrance Set",
@@ -24264,8 +24264,8 @@
 {
 "t": "Musti Coffret Pastel 2025",
 "u": "https://looliacloset.com/products/musti-coffret-pastel-2025",
-"p": 16.1,
-"c": null,
+"p": 12.08,
+"c": 16.1,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Pastel_1.png?v=1765289018&width=400",
 "type": "Fragrance Set",
@@ -29526,7 +29526,7 @@
 "Day1_Ramadan",
 "discount-20-and-under"
 ],
-"in": true
+"in": false
 },
 {
 "t": "The Vitamin C 13 Serum",
@@ -29551,8 +29551,8 @@
 {
 "t": "Newborn Essentials Pastel Gift Set",
 "u": "https://looliacloset.com/products/newborn-essentials-pastel-gift-set",
-"p": 57.17,
-"c": null,
+"p": 42.88,
+"c": 57.17,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Mustela__3_-removebg-preview.png?v=1760450841&width=400",
 "type": "Skin Care Set",
@@ -29571,8 +29571,8 @@
 {
 "t": "Newborn Essentials Terracota Gift Set",
 "u": "https://looliacloset.com/products/newborn-essentials-terracota-gift-set",
-"p": 57.17,
-"c": null,
+"p": 42.88,
+"c": 57.17,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Mustela__2_-removebg-preview.png?v=1760450823&width=400",
 "type": "Skin Care Set",
@@ -33550,7 +33550,7 @@
 "CPD_ALL",
 "CPD_ex_626"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Resixyl Men Roll-On Detranspirant",
@@ -36381,8 +36381,8 @@
 {
 "t": "High Protection Sun Spray SPF50",
 "u": "https://looliacloset.com/products/high-protection-sun-spray-spf50",
-"p": 42.18,
-"c": null,
+"p": 31.63,
+"c": 42.18,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Beesline_6_4c62af9a-02c9-4fda-8364-256dc25566cd.jpg?v=1754986150&width=400",
 "type": "Body Sunscreen",
@@ -40941,8 +40941,8 @@
 {
 "t": "Very High Protection Facial Sun Lotion SPF50+",
 "u": "https://looliacloset.com/products/mustela-very-high-protection-facial-sun-lotion-spf50",
-"p": 18.87,
-"c": null,
+"p": 14.15,
+"c": 18.87,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Mustela_1.jpg?v=1750686971&width=400",
 "type": "Sunscreen",
@@ -42635,8 +42635,8 @@
 {
 "t": "Stelatopia Emollient Cream for Face",
 "u": "https://looliacloset.com/products/stela-face-cream",
-"p": 11.66,
-"c": null,
+"p": 8.75,
+"c": 11.66,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Untitleddesign_1_71e940c3-b2a4-4ab8-821d-011b6bc2a285.png?v=1747655899&width=400",
 "type": "Face Cream",
@@ -42655,8 +42655,8 @@
 {
 "t": "Cicastela Repairing Cream",
 "u": "https://looliacloset.com/products/cicastela-repairing-cream",
-"p": 15.54,
-"c": null,
+"p": 11.65,
+"c": 15.54,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Mustela_-Cicastela_Repairing_Cream.jpg?v=1759235663&width=400",
 "type": "",
@@ -42675,8 +42675,8 @@
 {
 "t": "Certified Organic Micellar Water",
 "u": "https://looliacloset.com/products/certified-organic-micellar-water",
-"p": 17.21,
-"c": null,
+"p": 12.91,
+"c": 17.21,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/3504105037963.jpg?v=1747656386&width=400",
 "type": "Makeup Remover",
@@ -42695,8 +42695,8 @@
 {
 "t": "Nourishing Stick with Cold Cream",
 "u": "https://looliacloset.com/products/nourishing-stick-cold-cream",
-"p": 14.43,
-"c": null,
+"p": 10.82,
+"c": 14.43,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/3504105036157_1200x_2377e4d9-0dcc-4d28-ac82-e72927a61a71.jpg?v=1747312950&width=400",
 "type": "Cream",
@@ -42715,8 +42715,8 @@
 {
 "t": "Stelatopia Foam Shampoo",
 "u": "https://looliacloset.com/products/stelatopia-foam-shampoo",
-"p": 15.54,
-"c": null,
+"p": 11.65,
+"c": 15.54,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/3504105030544_1200x_20b172c3-6631-4489-9d1c-47b24848a1a2.jpg?v=1747314960&width=400",
 "type": "Baby Shampoo",
@@ -42735,8 +42735,8 @@
 {
 "t": "Detangling & Nourishing Cream Shampoo",
 "u": "https://looliacloset.com/products/detangling-cream-shampoo",
-"p": 16.65,
-"c": null,
+"p": 12.49,
+"c": 16.65,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/CustomShopifySize-106_1920x_3850df55-e6f1-475e-8a0c-c94c2c71fafa.jpg?v=1747317864&width=400",
 "type": "Baby Shampoo",
@@ -42810,7 +42810,7 @@
 "Essie",
 "for-her"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Ambre Solaire Sensitive Advanced SPF 50+ Ceramide Protect Sunscreen Spray For Adults",
@@ -50546,8 +50546,8 @@
 {
 "t": "Vitamin Barrier Cream",
 "u": "https://looliacloset.com/products/vitamin-barrier-cream-1-94oz-50ml-55g",
-"p": 5.83,
-"c": null,
+"p": 4.37,
+"c": 5.83,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2298/5927/files/Mustela_Vitamin_Barrier_Cream.jpg?v=1758546208&width=400",
 "type": "Cream",
