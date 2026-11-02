@@ -1,25 +1,5 @@
 [
 {
-"t": "The Skin Support Duo",
-"u": "https://myholdal.com/products/the-skin-support-duo-1",
-"p": 25.2,
-"c": 36.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/TheSkinSupportDuo.png?v=1793175431&width=400",
-"type": "SERUMS",
-"tags": [
-"apres",
-"BEAUTY",
-"bundle",
-"GROOMING",
-"men grooming best sellers",
-"MEN SKINCARE",
-"Ordinary Dryness",
-"Ordinary SEAL"
-],
-"in": true
-},
-{
 "t": "The Brighten & Hydrate Duo",
 "u": "https://myholdal.com/products/the-brighten-hydrate-duo",
 "p": 20.3,
@@ -36,6 +16,26 @@
 "MEN SKINCARE",
 "Ordinary Dryness",
 "Ordinary PREP"
+],
+"in": true
+},
+{
+"t": "The Skin Support Duo",
+"u": "https://myholdal.com/products/the-skin-support-duo-1",
+"p": 25.2,
+"c": 36.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/TheSkinSupportDuo.png?v=1793175431&width=400",
+"type": "SERUMS",
+"tags": [
+"apres",
+"BEAUTY",
+"bundle",
+"GROOMING",
+"men grooming best sellers",
+"MEN SKINCARE",
+"Ordinary Dryness",
+"Ordinary SEAL"
 ],
 "in": true
 },
@@ -974,7 +974,7 @@
 "JO MALONE LONDON WOMEN",
 "MAPPING JML 16"
 ],
-"in": true
+"in": false
 },
 {
 "t": "White Linen Eau de Parfum Spray",
@@ -2235,7 +2235,7 @@
 {
 "t": "All-In-1 Performer | Tecni.art | 190ML",
 "u": "https://myholdal.com/products/women-lp-tna-all-in-1-perform-190-ml-vg89",
-"p": 26.56,
+"p": 21.25,
 "c": 26.56,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/LPTNAAllin1Perform190mlVG89.png?v=1793104202&width=400",
@@ -2307,7 +2307,7 @@
 {
 "t": "Chronologiste Bain Régénérant 250ml",
 "u": "https://myholdal.com/products/women-k-chrono-bain-250ml-va21-row",
-"p": 40.37,
+"p": 32.3,
 "c": 40.37,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0268/6481/2112/files/KCHRONOBAIN250MLVA21ROW.png?v=1793098203&width=400",
@@ -6494,7 +6494,7 @@
 "WATCHES",
 "WATCHES Men"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Casio men 3H Watch MTP-B145D-2A2VDF",
@@ -9141,7 +9141,7 @@
 "GROOMING",
 "MEN BODY & BATH"
 ],
-"in": true
+"in": false
 },
 {
 "t": "La Roche Posay Hydraphase HA Light Daily Face Moisturiser 40ml",
@@ -21896,7 +21896,7 @@
 "WOMEN",
 "women accessories"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Gold mini hoop earrings with multicolor crystals",
@@ -36882,7 +36882,7 @@
 "lgp new all 26",
 "LGP SS23"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Le Pliage Filet Top Handle Bag  -  10121Hvh",
@@ -42086,7 +42086,7 @@
 "WOMEN",
 "WOMEN RINGS"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Mocha leather maxi bikini Paper bag",
@@ -45342,7 +45342,7 @@
 "Kipling SS26 Second drop",
 "Kipling Women"
 ],
-"in": true
+"in": false
 },
 {
 "t": "GABBIE S -I3759",
@@ -52972,7 +52972,7 @@
 "tags": [
 "hide-cart"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Pupa Milano Facial Cleansing kit",
