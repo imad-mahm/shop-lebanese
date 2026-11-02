@@ -1,5 +1,25 @@
 [
 {
+"t": "Matriskin Eye Perimeter 360 Serum",
+"u": "https://sohaticare.com/products/matriskin-eye-perimeter-360-serum",
+"p": 13.19,
+"c": 21.99,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/products/new_0ab0c499-e2b9-45cd-9005-20d19a04ea92copy.png?v=1637606758&width=400",
+"type": "Eye Cream",
+"tags": [
+"10-increase-ne",
+"10.10OCT25",
+"22.2.22",
+"4BDAY",
+"5BDAY",
+"5BDAY_15%",
+"ADHA21",
+"ADHA22"
+],
+"in": true
+},
+{
 "t": "Sôp Shower Gel Nerôli 500ml",
 "u": "https://sohaticare.com/products/sop-shower-gel-neroli-500ml",
 "p": 14.99,
@@ -1167,7 +1187,7 @@
 "Giftset",
 "TOPOFFER"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Buy Bio-Oil Skin Care Oil & get a FREE mini of your choice",
@@ -4758,7 +4778,7 @@
 "Giftset",
 "summer_bundles_skincare-aug26"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Buy one get one: Phyto Oil Control Shampoo 250ML",
@@ -8197,7 +8217,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/Therarebearpackshot.png?v=1781771929&width=400",
 "type": "Mystery Box",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "BUY Matriskin Power Defense Cream 50ML + Vitamin C Serum 5% GET Eye Perimeter 360 Serum FOR FREE",
@@ -25742,108 +25762,12 @@
 "in": true
 },
 {
-"t": "Wellosophy plump&balance Serum + Wellosophy plump&balance Face Cream + Wellosophy Smoth&hydrate Eye Balm + Wellosophy Exfoliate&Energise Mask",
-"u": "https://sohaticare.com/products/wellosophy-plump-balance-serum-wellosophy-plump-balance-face-cream-wellosophy-smoth-hydrate-eye-balm-wellosophy-exfoliate-energise-mask",
-"p": 114.9,
-"c": 148.6,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/SOH014.png?v=1767017593&width=400",
-"type": "Bundle",
-"tags": [
-"Bundle",
-"Bundles",
-"COMPENSATION_DEC25",
-"Giftset"
-],
-"in": true
-},
-{
-"t": "DUOLOGI Intense Repair Shampoo + DUOLOGI Rich Creme Conditioner + DUOLOGI Intense Repair Hair Mask + DUOLOGI Sealing Hair Serum",
-"u": "https://sohaticare.com/products/duologi-intense-repair-shampoo-duologi-rich-creme-conditioner-duologi-intense-repair-hair-mask-duologi-sealing-hair-serum",
-"p": 44.9,
-"c": 56.6,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/SOH013.png?v=1767017614&width=400",
-"type": "Bundle",
-"tags": [
-"Bundle",
-"Bundles",
-"COMPENSATION_DEC25",
-"Giftset"
-],
-"in": true
-},
-{
-"t": "Pure Skin Deep Cleanse Face Wash + Pure Skin Clarifying Toner + Pure Skin Mattifying Cooling Lotion + Pure Skin Pore Clearing Mask + Face Mask Spatula",
-"u": "https://sohaticare.com/products/pure-skin-deep-cleanse-face-wash-pure-skin-clarifying-toner-pure-skin-mattifying-cooling-lotion-pure-skin-pore-clearing-mask-face-mask-spatula",
-"p": 49.9,
-"c": 65.5,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/SOH012.png?v=1767017635&width=400",
-"type": "Bundle",
-"tags": [
-"Bundle",
-"Bundles",
-"COMPENSATION_DEC25",
-"Giftset"
-],
-"in": true
-},
-{
 "t": "Novage Set",
 "u": "https://sohaticare.com/products/novage-skinrelief-foam-cleanser-novage-wrinkle-smooth-eye-cream-15ml-novage-multi-active-anti-ageing-night-cream-50ml-novage-wrinkle-smooth-serum-30ml-novage-multi-active-anti-ageing-day-cream-50ml",
 "p": 144.9,
 "c": 191.5,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/SOH011.png?v=1767017651&width=400",
-"type": "Bundle",
-"tags": [
-"Bundle",
-"Bundles",
-"COMPENSATION_DEC25",
-"Giftset"
-],
-"in": true
-},
-{
-"t": "Love Nature Avocado Multipurpose oil + Love Nature Hair Oil Coconut 100ml + Hot Oil for Dry Hair With Organic Wheat & Coconut",
-"u": "https://sohaticare.com/products/love-nature-avocado-multipurpose-oil-love-nature-hair-oil-coconut-100ml-hot-oil-for-dry-hair-with-organic-wheat-coconut",
-"p": 24.9,
-"c": 32.7,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/SOH008.png?v=1767017756&width=400",
-"type": "Bundle",
-"tags": [
-"Bundle",
-"Bundles",
-"COMPENSATION_DEC25",
-"Giftset"
-],
-"in": true
-},
-{
-"t": "Make-up Brush Cleanser + The One Powder Brush + The One Stippling Brush + The One Blush Brush + The One Blending Brush + The One Dual Eyebrow Brush + The One Lip Brush",
-"u": "https://sohaticare.com/products/make-up-brush-cleanser-the-one-powder-brush-the-one-stippling-brush-the-one-blush-brush-the-one-blending-brush-the-one-dual-eyebrow-brush-the-one-lip-brush",
-"p": 34.9,
-"c": 59.3,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/SOH005_6654a506-2592-445a-a1ec-ffe1ef55ca0d.png?v=1767017811&width=400",
-"type": "Bundle",
-"tags": [
-"Bundle",
-"Bundles",
-"COMPENSATION_DEC25",
-"Giftset"
-],
-"in": true
-},
-{
-"t": "Glow Essentials Face Cream + Glow Essentials body lotion + Glow Essentials Face Wash",
-"u": "https://sohaticare.com/products/glow-essentials-face-cream-glow-essentials-body-lotion-glow-essentials-face-wash",
-"p": 34.9,
-"c": 44.7,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/SOH004.png?v=1767017887&width=400",
 "type": "Bundle",
 "tags": [
 "Bundle",
@@ -31950,7 +31874,7 @@
 "tags": [
 "CLEODENT_2025"
 ],
-"in": true
+"in": false
 },
 {
 "t": "CLEO-DENT EXTRA WHITENING CHARCOAL TOOTHPASTE",
@@ -44066,6 +43990,61 @@
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/23_3cdf95e7-47fd-4df5-a140-6871729d0119.png?v=1748352276&width=400",
+"type": "",
+"tags": [],
+"in": false
+},
+{
+"t": "Rubycell Foundation Puff",
+"u": "https://sohaticare.com/products/rubycell-foundation-puff",
+"p": 2.43,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/32_56a5a8bd-9583-4a41-8285-6560389ff738.png?v=1748352228&width=400",
+"type": "",
+"tags": [],
+"in": false
+},
+{
+"t": "Pencil Sharpner",
+"u": "https://sohaticare.com/products/pencil-sharpner",
+"p": 2.43,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/33_f596c1d7-884e-4d5d-8d65-66039773b080.png?v=1748352122&width=400",
+"type": "",
+"tags": [],
+"in": false
+},
+{
+"t": "Cuticle Nipper Jaw 14",
+"u": "https://sohaticare.com/products/cuticle-nipper-jaw-14",
+"p": 19.43,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/22.png?v=1748352076&width=400",
+"type": "",
+"tags": [],
+"in": true
+},
+{
+"t": "Proffessional Blusher Brush",
+"u": "https://sohaticare.com/products/proffessional-blusher-brush",
+"p": 4.16,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/11_587b6f86-c73c-49d5-8352-15edc264b697.png?v=1748351865&width=400",
+"type": "",
+"tags": [],
+"in": false
+},
+{
+"t": "Massage Brush For Face",
+"u": "https://sohaticare.com/products/massage-brush-for-face",
+"p": 2.77,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/1_855f162a-94a5-4d61-9829-d641a486b242.png?v=1748351760&width=400",
 "type": "",
 "tags": [],
 "in": false
