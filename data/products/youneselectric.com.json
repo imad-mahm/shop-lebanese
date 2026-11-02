@@ -1,5 +1,148 @@
 [
 {
+"t": "Kenwood, Cordless Kettle, 1.7L - Silver and Black",
+"u": "https://youneselectric.com/products/kenwood-cordless-kettle-1-7l-silver-and-black",
+"p": 44.0,
+"c": 59.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0663/6113/1235/files/270490-2.webp?v=1702324957&width=400",
+"type": "Small Appliances",
+"tags": [
+"kenwood"
+],
+"in": true
+},
+{
+"t": "Xiaomi Massage Gun Mini 2",
+"u": "https://youneselectric.com/products/xiaomi-massage-gun-mini-2",
+"p": 70.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0663/6113/1235/files/library-0A672B71-24D8-46CC-BE23-5D2017660A13-L0-001.png?v=1793634506&width=400",
+"type": "Health And Beauty",
+"tags": [
+"Xiaomi"
+],
+"in": true
+},
+{
+"t": "Xiaomi Massage Gun 2 – Deep Tissue Massage Gun",
+"u": "https://youneselectric.com/products/xiaomi-massage-gun-2-deep-tissue-massage-gun",
+"p": 125.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0663/6113/1235/files/IMG_4042.webp?v=1793634162&width=400",
+"type": "Health And Beauty",
+"tags": [
+"Xiaomi"
+],
+"in": true
+},
+{
+"t": "Braun, Hand Blender MQ5277BK",
+"u": "https://youneselectric.com/products/braun-hand-blender-mq5277bk",
+"p": 129.0,
+"c": 150.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0663/6113/1235/files/Hand_Blender_MQ5277BK_-BRAUN-HOUSEHOLD-Magnet_-Shop_cc08d798-2598-49a5-8da2-ae1df58e7df1.webp?v=1717173750&width=400",
+"type": "Small Appliances",
+"tags": [
+"Braun"
+],
+"in": true
+},
+{
+"t": "Braun, IdentityCollection Spin Juicer J300 Black",
+"u": "https://youneselectric.com/products/braun-identitycollection-spin-juicer-j300-black",
+"p": 129.0,
+"c": 145.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0663/6113/1235/files/139160.webp?v=1716658085&width=400",
+"type": "Small Appliances",
+"tags": [
+"Braun"
+],
+"in": true
+},
+{
+"t": "TCL, 98P8L Premium QD-Mini LED TV",
+"u": "https://youneselectric.com/products/tcl-98p8l-premium-qd-mini-led-tv",
+"p": 2199.0,
+"c": 2499.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0663/6113/1235/files/85-1.webp?v=1793620943&width=400",
+"type": "Electronics",
+"tags": [
+"TCL"
+],
+"in": true
+},
+{
+"t": "TCL, 85P8L Mini LED TV",
+"u": "https://youneselectric.com/products/tcl-85p8l-mini-led-tv",
+"p": 1399.0,
+"c": 1599.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0663/6113/1235/files/85-1.webp?v=1793620943&width=400",
+"type": "Electronics",
+"tags": [
+"TCL"
+],
+"in": true
+},
+{
+"t": "TCL, S45H 2.0ch Pro All-in-One Deep Bass Soundbar",
+"u": "https://youneselectric.com/products/tcl-tv-nxtvision-a300-pro-75-copy",
+"p": 99.0,
+"c": 119.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0663/6113/1235/files/11.webp?v=1773126438&width=400",
+"type": "Electronics",
+"tags": [
+"TCL"
+],
+"in": true
+},
+{
+"t": "Hisense, 85Q6Q | 85″ QLED 4K 60Hz VIDAA Smart TV",
+"u": "https://youneselectric.com/products/hisense-85q6q-85-qled-4k-60hz-vidaa-smart-tv",
+"p": 1290.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0663/6113/1235/files/85Q6Q-1.jpg?v=1793601244&width=400",
+"type": "Electronics",
+"tags": [
+"Hisense"
+],
+"in": true
+},
+{
+"t": "Hisense, 98Q6Q | 98″ QLED 4K 144Hz VIDAA Smart TV",
+"u": "https://youneselectric.com/products/hisense-98q6q-98-qled-4k-144hz-vidaa-smart-tv",
+"p": 2170.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0663/6113/1235/files/98Q6Q-1-600x600.jpg?v=1793601043&width=400",
+"type": "Electronics",
+"tags": [
+"Hisense"
+],
+"in": true
+},
+{
+"t": "Hisense, 85UR9S MiniLED Smart TV, 85\" 4K UHD Display",
+"u": "https://youneselectric.com/products/hisense-85ur9s-miniled-smart-tv-85-4k-uhd-display",
+"p": 3900.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0663/6113/1235/files/d45805cda4f477fe189ed4ff7f5fff57-hi.jpg?v=1793600868&width=400",
+"type": "Electronics",
+"tags": [
+"Hisense"
+],
+"in": true
+},
+{
 "t": "Hisense, Mini Led Qled Tv 65″ U7 Series",
 "u": "https://youneselectric.com/products/hisense-mini-led-qled-tv-65-u7-series",
 "p": 850.0,
@@ -5278,8 +5421,8 @@
 {
 "t": "TCL, 98\" UHD C6K Premium QD-MiniLED Google TV",
 "u": "https://youneselectric.com/products/tcl-98-uhd-c6k-premium-qd-miniled-google-tv",
-"p": 2699.0,
-"c": null,
+"p": 2499.0,
+"c": 2799.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0663/6113/1235/files/1_9c842b3b-c632-4399-94f0-311c688d2ba9.webp?v=1763914577&width=400",
 "type": "Electronics",
@@ -8109,8 +8252,8 @@
 {
 "t": "TCL, 65P6L 4K SMART TV",
 "u": "https://youneselectric.com/products/tcl-65p6l-4k-smart-tv",
-"p": 539.0,
-"c": null,
+"p": 529.0,
+"c": 599.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0663/6113/1235/files/1_6194ad93-1545-4a04-b181-316745abdf90.webp?v=1785402051&width=400",
 "type": "Electronics",
@@ -8122,8 +8265,8 @@
 {
 "t": "TCL, 55 inch UHD 4K Smart TV (2026) - 55P6L",
 "u": "https://youneselectric.com/products/tcl-55-inch-uhd-4k-smart-tv-2026-55p6l",
-"p": 449.0,
-"c": null,
+"p": 389.0,
+"c": 439.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0663/6113/1235/files/TCL-55P6L-Ultra-HD-Google-TV.webp?v=1785400772&width=400",
 "type": "Electronics",
@@ -8133,36 +8276,10 @@
 "in": true
 },
 {
-"t": "TCL, 50 inch QLED 4K Smart TV (2026) - 50P7L",
-"u": "https://youneselectric.com/products/tcl-50-inch-qled-4k-smart-tv-2026-50p7l",
-"p": 399.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0663/6113/1235/files/1_a82f1f58-8eed-4b26-b579-1940690f8211.webp?v=1785400415&width=400",
-"type": "Electronics",
-"tags": [
-"TCL"
-],
-"in": true
-},
-{
-"t": "TCL, 43 inch QLED 4K Smart TV (2026) - 43P7L",
-"u": "https://youneselectric.com/products/tcl-43-inch-qled-4k-smart-tv-2026-43p7l",
-"p": 329.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0663/6113/1235/files/1_24c8c0c0-aeb9-4bed-b0e5-fc63b00838a9.webp?v=1785400287&width=400",
-"type": "Electronics",
-"tags": [
-"TCL"
-],
-"in": true
-},
-{
 "t": "TCL, 85\" UHD C6K Premium QD-MiniLED Google TV",
 "u": "https://youneselectric.com/products/tcl-85-uhd-c6k-premium-qd-miniled-google-tv",
-"p": 1749.0,
-"c": null,
+"p": 1599.0,
+"c": 1799.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0663/6113/1235/files/1_9c842b3b-c632-4399-94f0-311c688d2ba9.webp?v=1763914577&width=400",
 "type": "Electronics",
@@ -8174,8 +8291,8 @@
 {
 "t": "TCL, 75\" UHD C6K Premium QD-MiniLED Google TV",
 "u": "https://youneselectric.com/products/tcl-75-uhd-c6k-premium-qd-miniled-google-tv",
-"p": 1249.0,
-"c": null,
+"p": 1099.0,
+"c": 1249.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0663/6113/1235/files/1_9c842b3b-c632-4399-94f0-311c688d2ba9.webp?v=1763914577&width=400",
 "type": "Electronics",
@@ -8185,23 +8302,10 @@
 "in": true
 },
 {
-"t": "TCL, 55P7L Premium QLED TV",
-"u": "https://youneselectric.com/products/tcl-55p7l-premium-qled-tv",
-"p": 499.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0663/6113/1235/files/1_039b188b-9796-468a-bfcf-c5aa7f690fe7.webp?v=1776506305&width=400",
-"type": "Electronics",
-"tags": [
-"TCL"
-],
-"in": true
-},
-{
 "t": "TCL, 32\" Qled Full Hd Smart Google Tv",
 "u": "https://youneselectric.com/products/tcl-32-qled-full-hd-smart-google-tv",
-"p": 189.0,
-"c": null,
+"p": 199.0,
+"c": 225.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0663/6113/1235/files/32-1-02.webp?v=1763906563&width=400",
 "type": "Electronics",
@@ -9267,19 +9371,6 @@
 "type": "Air Treatment",
 "tags": [
 "Gree"
-],
-"in": true
-},
-{
-"t": "TCL, 85P7L Premium QLED TV",
-"u": "https://youneselectric.com/products/tcl-85p7l-premium-qled-tv",
-"p": 1349.0,
-"c": 1399.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0663/6113/1235/files/1_421e66a5-0278-4730-8d13-2c505666029f.webp?v=1776507512&width=400",
-"type": "Electronics",
-"tags": [
-"TCL"
 ],
 "in": true
 },
@@ -14231,8 +14322,8 @@
 {
 "t": "TCL, 65\" UHD C6K Premium QD-MiniLED Google TV",
 "u": "https://youneselectric.com/products/tcl-65-uhd-c6k-premium-qd-miniled-google-tv",
-"p": 869.0,
-"c": 829.0,
+"p": 799.0,
+"c": 889.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0663/6113/1235/files/1_9c842b3b-c632-4399-94f0-311c688d2ba9.webp?v=1763914577&width=400",
 "type": "Electronics",
@@ -14244,8 +14335,8 @@
 {
 "t": "TCL, 55\" UHD C6K Premium QD-MiniLED Google TV",
 "u": "https://youneselectric.com/products/tcl-55-uhd-c6k-premium-qd-miniled-google-tv",
-"p": 669.0,
-"c": 659.0,
+"p": 599.0,
+"c": 669.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0663/6113/1235/files/1_9c842b3b-c632-4399-94f0-311c688d2ba9.webp?v=1763914577&width=400",
 "type": "Electronics",
@@ -14257,8 +14348,8 @@
 {
 "t": "TCL, 50\" Qled Fhd Smart Google Tv",
 "u": "https://youneselectric.com/products/tcl-50-qled-fhd-smart-google-tv",
-"p": 339.0,
-"c": 319.0,
+"p": 299.0,
+"c": 339.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0663/6113/1235/files/50S5K_1.webp?v=1763907377&width=400",
 "type": "Electronics",
@@ -20129,8 +20220,8 @@
 {
 "t": "TCL, 43\" Qled Fhd Smart Google Tv",
 "u": "https://youneselectric.com/products/tcl-43-qled-fhd-smart-google-tv",
-"p": 289.0,
-"c": 269.0,
+"p": 259.0,
+"c": 299.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0663/6113/1235/files/32-1-02_7626cb85-9d79-46bf-bf5e-3195e30b86b4.webp?v=1763906807&width=400",
 "type": "Electronics",
@@ -38689,97 +38780,6 @@
 "type": "Small Appliances",
 "tags": [
 "Russell Hobbs"
-],
-"in": true
-},
-{
-"t": "Russell Hobbs, Good-to-Go Multicooker – 8 Versatile Functions including Slow Cooker, Sous Vide, Rice and Food Steamer, Black, 750 Watt",
-"u": "https://youneselectric.com/products/russell-hobbs-good-to-go-multicooker-8-versatile-functions-including-slow-cooker-sous-vide-rice-and-food-steamer-black-750-watt",
-"p": 139.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0663/6113/1235/files/282701.jpg?v=1699388068&width=400",
-"type": "Small Appliances",
-"tags": [
-"Russell Hobbs"
-],
-"in": true
-},
-{
-"t": "Moulinex, Moulinette Chopper - 1000W",
-"u": "https://youneselectric.com/products/moulinex-moulinette-chopper-1000w",
-"p": 79.0,
-"c": 99.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0663/6113/1235/files/moulinex-moulinette-chopper-1000w.jpg?v=1702495520&width=400",
-"type": "Small Appliances",
-"tags": [
-"Moulinex"
-],
-"in": true
-},
-{
-"t": "Moulinex, Meat Mincer 2000W",
-"u": "https://youneselectric.com/products/moulinex-meat-mincer-2000w",
-"p": 115.0,
-"c": 127.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0663/6113/1235/files/61br2YQ6QDL._AC_SL1500.jpg?v=1702494901&width=400",
-"type": "Small Appliances",
-"tags": [
-"Moulinex"
-],
-"in": true
-},
-{
-"t": "Moulinex, Me106832 Meat Grinder",
-"u": "https://youneselectric.com/products/moulinex-me106832-meat-grinder",
-"p": 73.0,
-"c": 81.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0663/6113/1235/files/hachoir-a-viande-moulinex-me106832-1400-w_e84b6647-b036-4899-ac1b-4f932499cb96.jpg?v=1702494595&width=400",
-"type": "Small Appliances",
-"tags": [
-"Moulinex"
-],
-"in": true
-},
-{
-"t": "Moulinex, Kettle Glass",
-"u": "https://youneselectric.com/products/moulinex-kettle-glass",
-"p": 60.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0663/6113/1235/files/mou-by600130-d3a65a.jpg?v=1702494138&width=400",
-"type": "Small Appliances",
-"tags": [
-"Moulinex"
-],
-"in": true
-},
-{
-"t": "Moulinex, Kettle Stainless",
-"u": "https://youneselectric.com/products/moulinex-kettle-stainless",
-"p": 40.0,
-"c": 44.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0663/6113/1235/files/twicpics.moulinex_b05a50e1-ed82-4fd3-825c-ed9ed6b78c4e.webp?v=1702493965&width=400",
-"type": "Small Appliances",
-"tags": [
-"Moulinex"
-],
-"in": true
-},
-{
-"t": "Moulinex, Kettle Uno Black 1.5L",
-"u": "https://youneselectric.com/products/moulinex-kettle-uno-black-1-5l",
-"p": 28.0,
-"c": 30.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0663/6113/1235/files/by150827-9e1426.jpg?v=1702493728&width=400",
-"type": "Small Appliances",
-"tags": [
-"Moulinex"
 ],
 "in": true
 }

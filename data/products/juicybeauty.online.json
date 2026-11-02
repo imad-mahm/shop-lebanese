@@ -1,5 +1,27 @@
 [
 {
+"t": "Late night eyeliner",
+"u": "https://juicybeauty.online/shop/late-night-eyeliner/",
+"p": 12.0,
+"c": null,
+"cur": "USD",
+"img": "https://juicybeauty.online/wp-content/uploads/2026/11/CB991EEE-A709-4365-802B-4C6444640183-3-500x500.png?wsr",
+"type": "Eye Liners, Eyes",
+"tags": [],
+"in": true
+},
+{
+"t": "Pinkie Mascara",
+"u": "https://juicybeauty.online/shop/pinkie-mascara/",
+"p": 11.0,
+"c": null,
+"cur": "USD",
+"img": "https://juicybeauty.online/wp-content/uploads/2026/11/img_2434-500x500.jpeg?wsr",
+"type": "Eyes, Mascara",
+"tags": [],
+"in": true
+},
+{
 "t": "Fairy Bronzer & Highlighter Palette",
 "u": "https://juicybeauty.online/shop/fairy-bronzer-highlighter-palette/",
 "p": 11.0,
@@ -83,7 +105,7 @@
 "c": null,
 "cur": "USD",
 "img": "https://juicybeauty.online/wp-content/uploads/2026/06/img_7596-1-500x500.jpeg?wsr",
-"type": "Body Care, Eau de Parfum",
+"type": "Body Care, Eau de Parfum, Summer Favorites",
 "tags": [],
 "in": true
 },
@@ -198,7 +220,7 @@
 "in": true
 },
 {
-"t": "Butterfly Palette",
+"t": "Butterfly 3 in 1 Palette",
 "u": "https://juicybeauty.online/shop/butterfly-palette/",
 "p": 14.0,
 "c": null,
@@ -2727,34 +2749,12 @@
 "in": true
 },
 {
-"t": "Sponge 15",
-"u": "https://juicybeauty.online/shop/sponge-15/",
-"p": 3.0,
-"c": null,
-"cur": "USD",
-"img": "https://juicybeauty.online/wp-content/uploads/2019/10/1K7A8029_15-500x500.jpg?wsr",
-"type": "Sponges",
-"tags": [],
-"in": true
-},
-{
 "t": "Sponge 14",
 "u": "https://juicybeauty.online/shop/sponge-14/",
 "p": 3.0,
 "c": null,
 "cur": "USD",
 "img": "https://juicybeauty.online/wp-content/uploads/2019/10/1K7A8027_14-1-500x500.jpg?wsr",
-"type": "Sponges",
-"tags": [],
-"in": true
-},
-{
-"t": "Sponge 9",
-"u": "https://juicybeauty.online/shop/sponge-9/",
-"p": 3.0,
-"c": null,
-"cur": "USD",
-"img": "https://juicybeauty.online/wp-content/uploads/2019/10/1K7A8022_9-500x500.jpg?wsr",
 "type": "Sponges",
 "tags": [],
 "in": true
@@ -2808,34 +2808,12 @@
 "in": true
 },
 {
-"t": "Sponge 6",
-"u": "https://juicybeauty.online/shop/sponge-6/",
-"p": 3.0,
-"c": null,
-"cur": "USD",
-"img": "https://juicybeauty.online/wp-content/uploads/2019/10/1K7A8019_6-500x500.jpg?wsr",
-"type": "Accessories, Sponges",
-"tags": [],
-"in": true
-},
-{
 "t": "Sponge 2",
 "u": "https://juicybeauty.online/shop/sponge-2/",
 "p": 2.0,
 "c": null,
 "cur": "USD",
 "img": "https://juicybeauty.online/wp-content/uploads/2019/10/1K7A8015_2-500x500.jpg?wsr",
-"type": "Accessories, Sponges",
-"tags": [],
-"in": true
-},
-{
-"t": "Sponge 1",
-"u": "https://juicybeauty.online/shop/sponge-1/",
-"p": 2.0,
-"c": null,
-"cur": "USD",
-"img": "https://juicybeauty.online/wp-content/uploads/2019/10/1K7A8014_1-500x500.jpg?wsr",
 "type": "Accessories, Sponges",
 "tags": [],
 "in": true
@@ -2961,17 +2939,6 @@
 "type": "Accessories, Sponges",
 "tags": [],
 "in": true
-},
-{
-"t": "Silicone Sponge Makeup Blender 13",
-"u": "https://juicybeauty.online/shop/silicone-sponge-makeup-blender/",
-"p": 2.0,
-"c": null,
-"cur": "USD",
-"img": "https://juicybeauty.online/wp-content/uploads/2019/10/1K7A8026_13-500x500.jpg?wsr",
-"type": "Sponges",
-"tags": [],
-"in": false
 },
 {
 "t": "Fall In Love Base Illuminator 112",

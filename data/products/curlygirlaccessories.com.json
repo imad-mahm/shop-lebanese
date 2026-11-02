@@ -1,5 +1,27 @@
 [
 {
+"t": "SKALA hydration Nourishment & Protein Bundle",
+"u": "https://curlygirlaccessories.com/product/skala-hydration-nourishment-protein-bundle/",
+"p": 37.5,
+"c": 56.25,
+"cur": "USD",
+"img": "https://curlygirlaccessories.com/wp-content/uploads/2026/11/bc4aeac7-e2c9-4f58-8428-2f4370318b42-300x300.png",
+"type": "",
+"tags": [],
+"in": true
+},
+{
+"t": "PERFECT HAIR BUNDLE + FREE BEDDAZLE + FREE WET BRUSH",
+"u": "https://curlygirlaccessories.com/product/perfect-hair-bundle-free-beddazle-free-wet-brush/",
+"p": 69.5,
+"c": null,
+"cur": "USD",
+"img": "https://curlygirlaccessories.com/wp-content/uploads/2026/10/img_0585-300x300.png",
+"type": "",
+"tags": [],
+"in": true
+},
+{
 "t": "Bounce Curl Detangle Define EdgeLift Brush",
 "u": "https://curlygirlaccessories.com/product/bounce-curl-detangle-define-edgelift-brush/",
 "p": 36.0,
@@ -196,6 +218,17 @@
 "cur": "USD",
 "img": "https://curlygirlaccessories.com/wp-content/uploads/2026/10/skala-maracuja-pataua-shampoo-325ml-300x300.jpg",
 "type": "Shampoo",
+"tags": [],
+"in": false
+},
+{
+"t": "AC Collection Lightweight Soothing Moisturizer",
+"u": "https://curlygirlaccessories.com/product/ac-collection-lightweight-soothing-moisturizer-2/",
+"p": 0.0,
+"c": null,
+"cur": "USD",
+"img": "",
+"type": "",
 "tags": [],
 "in": false
 },
@@ -779,6 +812,17 @@
 "cur": "USD",
 "img": "https://curlygirlaccessories.com/wp-content/uploads/2026/09/set-perie-coafor-curbata-cu-3-piepteni-frizerie-roz-127609-300x300.webp",
 "type": "Brushes &amp; Combs, Bundles &amp; Sets",
+"tags": [],
+"in": true
+},
+{
+"t": "Flexi Detangling Brush",
+"u": "https://curlygirlaccessories.com/product/la-perla-tech-detangler-hair-brush-for-curly-hair-comb-for-women-color-may-vary-6414202114685/",
+"p": 4.0,
+"c": null,
+"cur": "USD",
+"img": "https://curlygirlaccessories.com/wp-content/uploads/2026/09/6414202114685.jpg",
+"type": "Brushes &amp; Combs",
 "tags": [],
 "in": true
 },
@@ -1906,7 +1950,7 @@
 },
 {
 "t": "Colorful Satin Scrunchies",
-"u": "https://curlygirlaccessories.com/product/curloo-silky-satin-scrunchies-set-of-3/",
+"u": "https://curlygirlaccessories.com/product/curloo-silky-satin-scrunchies/",
 "p": 5.0,
 "c": null,
 "cur": "USD",
@@ -9187,23 +9231,6 @@
 "in": false
 },
 {
-"t": "Medium Satin Sleep Cap",
-"u": "https://curlygirlaccessories.com/product/medium-satin-sleep-cap/",
-"p": 11.5,
-"c": null,
-"cur": "USD",
-"img": "https://curlygirlaccessories.com/wp-content/uploads/2025/06/3608140488-300x300.jpg",
-"type": "Bonnets, Caps &amp; Towels",
-"tags": [
-"11-11-offer",
-"All Products",
-"Fatima's Favorite Products",
-"Satin Products",
-"Vera Akiki's Favorites"
-],
-"in": false
-},
-{
 "t": "Metal Headband",
 "u": "https://curlygirlaccessories.com/product/metal-headband/",
 "p": 0.0,
@@ -9847,22 +9874,6 @@
 "All Products",
 "Cantu",
 "Curly Kids"
-],
-"in": false
-},
-{
-"t": "Satin Lined Hijab Bandanna",
-"u": "https://curlygirlaccessories.com/product/satin-lined-hijab-bandanna/",
-"p": 13.8,
-"c": null,
-"cur": "USD",
-"img": "https://curlygirlaccessories.com/wp-content/uploads/2025/06/2981434649-300x300.jpg",
-"type": "Bonnets, Caps &amp; Towels",
-"tags": [
-"11-11-offer",
-"All Products",
-"Fatima's Favorite Products",
-"Satin Products"
 ],
 "in": false
 },
@@ -13557,7 +13568,7 @@
 "All Products",
 "Cantu"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Eco Gel Argan Oil 227 g",
@@ -13856,37 +13867,6 @@
 "in": true
 },
 {
-"t": "Transparent Rectangular Claw Clips",
-"u": "https://curlygirlaccessories.com/product/transparent-rectangular-claw-clips/",
-"p": 4.6,
-"c": null,
-"cur": "USD",
-"img": "https://curlygirlaccessories.com/wp-content/uploads/2025/06/4183315285-300x300.webp",
-"type": "Clips &amp; Pins",
-"tags": [
-"Accessories",
-"All Products",
-"Clips",
-"Hair Accessories"
-],
-"in": false
-},
-{
-"t": "Transparent Wavy Claw Clip",
-"u": "https://curlygirlaccessories.com/product/transparent-wavy-claw-clip/",
-"p": 4.6,
-"c": null,
-"cur": "USD",
-"img": "https://curlygirlaccessories.com/wp-content/uploads/2025/06/4183301894-300x300.webp",
-"type": "Clips &amp; Pins",
-"tags": [
-"Accessories",
-"All Products",
-"Hair Accessories"
-],
-"in": false
-},
-{
 "t": "Medium Transparent Rectangular Claw Clip",
 "u": "https://curlygirlaccessories.com/product/medium-transparent-rectangular-claw-clip/",
 "p": 3.45,
@@ -13895,21 +13875,6 @@
 "img": "https://curlygirlaccessories.com/wp-content/uploads/2025/06/4183367138-300x300.jpg",
 "type": "Clips &amp; Pins",
 "tags": [
-"All Products",
-"Hair Accessories"
-],
-"in": false
-},
-{
-"t": "Transparent Large Hair Claw Clip",
-"u": "https://curlygirlaccessories.com/product/transparent-large-hair-claw-clip/",
-"p": 4.6,
-"c": null,
-"cur": "USD",
-"img": "https://curlygirlaccessories.com/wp-content/uploads/2025/06/4183409647-300x300.jpg",
-"type": "Clips &amp; Pins",
-"tags": [
-"Accessories",
 "All Products",
 "Hair Accessories"
 ],
@@ -14213,28 +14178,6 @@
 "in": false
 },
 {
-"t": "Umberto Giannini Curl Jelly Scrunching Jelly",
-"u": "https://curlygirlaccessories.com/product/umberto-giannini-curl-jelly-scrunching-jelly/",
-"p": 29.9,
-"c": null,
-"cur": "USD",
-"img": "https://curlygirlaccessories.com/wp-content/uploads/2025/06/4333957157-300x300.webp",
-"type": "Gels &amp; Custards",
-"tags": [],
-"in": false
-},
-{
-"t": "Umberto Giannini Curl Jelly Mini Travel Size",
-"u": "https://curlygirlaccessories.com/product/umberto-giannini-curl-jelly-mini-travel-size/",
-"p": 17.25,
-"c": null,
-"cur": "USD",
-"img": "https://curlygirlaccessories.com/wp-content/uploads/2025/06/4333998774-300x300.webp",
-"type": "Gels &amp; Custards",
-"tags": [],
-"in": false
-},
-{
 "t": "Not Your Mother’s Curl Talk REFRESHING FOAM",
 "u": "https://curlygirlaccessories.com/product/not-your-mothers-curl-talkrefreshing-foam/",
 "p": 21.85,
@@ -14301,20 +14244,6 @@
 "type": "Curl Creams",
 "tags": [
 "All Products"
-],
-"in": false
-},
-{
-"t": "Xsmart Curly Bundle",
-"u": "https://curlygirlaccessories.com/product/xsmart-curly-bundle/",
-"p": 19.55,
-"c": null,
-"cur": "USD",
-"img": "https://curlygirlaccessories.com/wp-content/uploads/2025/06/4400815961-300x300.png",
-"type": "Bundles &amp; Sets",
-"tags": [
-"All Products",
-"Bundles"
 ],
 "in": false
 },
@@ -14427,17 +14356,6 @@
 "All Products"
 ],
 "in": true
-},
-{
-"t": "Umberto Giannini Curl Whip",
-"u": "https://curlygirlaccessories.com/product/umberto-giannini-curl-whip/",
-"p": 23.0,
-"c": null,
-"cur": "USD",
-"img": "https://curlygirlaccessories.com/wp-content/uploads/2025/06/4599104153-300x300.jpg",
-"type": "Mousse &amp; Foams",
-"tags": [],
-"in": false
 },
 {
 "t": "Curl Smith In-Shower Style Fixer Full 237ml",
@@ -14580,21 +14498,6 @@
 "in": true
 },
 {
-"t": "Transparent Strong Hair Claw Clips",
-"u": "https://curlygirlaccessories.com/product/transparent-strong-hair-claw-clips/",
-"p": 4.14,
-"c": null,
-"cur": "USD",
-"img": "https://curlygirlaccessories.com/wp-content/uploads/2025/06/4900950161-300x300.png",
-"type": "Clips &amp; Pins",
-"tags": [
-"All Products",
-"Clips",
-"Hair Accessories"
-],
-"in": false
-},
-{
 "t": "Yves Rocher Thermo protective Smoothing Fluid",
 "u": "https://curlygirlaccessories.com/product/yves-rocher-thermo-protective-smoothing-fluid/",
 "p": 21.28,
@@ -14691,19 +14594,6 @@
 "tags": [
 "All Products",
 "Cantu"
-],
-"in": false
-},
-{
-"t": "Umberto Giannini Crème De Curl Control Cream",
-"u": "https://curlygirlaccessories.com/product/umberto-giannini-creme-de-curl-control-cream/",
-"p": 23.0,
-"c": null,
-"cur": "USD",
-"img": "https://curlygirlaccessories.com/wp-content/uploads/2025/06/4697823754-300x300.webp",
-"type": "Curl Creams",
-"tags": [
-"All Products"
 ],
 "in": false
 },
@@ -14824,98 +14714,6 @@
 "All Products",
 "Satin Products",
 "Silky and Satin"
-],
-"in": false
-},
-{
-"t": "Umberto Giannini Curl Jelly Wash Shampoo 250 ml",
-"u": "https://curlygirlaccessories.com/product/umberto-giannini-curl-jelly-wash-shampoo-250-ml/",
-"p": 29.9,
-"c": null,
-"cur": "USD",
-"img": "https://curlygirlaccessories.com/wp-content/uploads/2025/06/4722726228-300x300.webp",
-"type": "Shampoo",
-"tags": [
-"All Products"
-],
-"in": false
-},
-{
-"t": "Umberto Giannini Curl Jelly Care De-Frizz Conditioner 250 ml",
-"u": "https://curlygirlaccessories.com/product/umberto-giannini-curl-jelly-care-de-frizz-conditioner-250-ml/",
-"p": 29.9,
-"c": null,
-"cur": "USD",
-"img": "https://curlygirlaccessories.com/wp-content/uploads/2025/06/4722730149-300x300.webp",
-"type": "Conditioner",
-"tags": [
-"All Products"
-],
-"in": false
-},
-{
-"t": "Umberto Giannini Curl Jelly Shampoo & Conditioner Kit",
-"u": "https://curlygirlaccessories.com/product/umberto-giannini-curl-jelly-shampoo-conditioner-kit/",
-"p": 50.6,
-"c": null,
-"cur": "USD",
-"img": "https://curlygirlaccessories.com/wp-content/uploads/2025/06/4722754622-300x300.webp",
-"type": "Bundles &amp; Sets, Shampoo",
-"tags": [
-"All Products",
-"Bundles"
-],
-"in": false
-},
-{
-"t": "Umberto Giannini Grow Scrub Exfoliating Scalp Scrub 250 gm 8.8 oz",
-"u": "https://curlygirlaccessories.com/product/umberto-giannini-grow-scrub-exfoliating-scalp-scrub-250-gm-8-8-oz/",
-"p": 33.35,
-"c": null,
-"cur": "USD",
-"img": "https://curlygirlaccessories.com/wp-content/uploads/2025/06/4722851147-300x300.webp",
-"type": "Scalp Care",
-"tags": [
-"All Products"
-],
-"in": false
-},
-{
-"t": "Umberto Giannini More Than Moisture Twirling and Styling Defining Cream 200ml",
-"u": "https://curlygirlaccessories.com/product/umberto-giannini-more-than-moisture-twirling-and-styling-defining-cream-200ml/",
-"p": 34.5,
-"c": null,
-"cur": "USD",
-"img": "https://curlygirlaccessories.com/wp-content/uploads/2025/06/4751711761-300x300.webp",
-"type": "Curl Creams",
-"tags": [
-"All Products"
-],
-"in": false
-},
-{
-"t": "Umberto Giannini Curl Magic Repair Mask 210ml",
-"u": "https://curlygirlaccessories.com/product/umberto-giannini-curl-magic-repair-mask-210ml/",
-"p": 26.45,
-"c": null,
-"cur": "USD",
-"img": "https://curlygirlaccessories.com/wp-content/uploads/2025/06/4751721862-300x300.webp",
-"type": "Masks &amp; Treatments",
-"tags": [
-"All Products"
-],
-"in": false
-},
-{
-"t": "Umberto Giannini, Curl Jelly Mask, Anti-Frizz Treatment 300ml",
-"u": "https://curlygirlaccessories.com/product/umberto-giannini-curl-jelly-mask-anti-frizz-treatment-300ml/",
-"p": 34.5,
-"c": null,
-"cur": "USD",
-"img": "https://curlygirlaccessories.com/wp-content/uploads/2025/06/4751736773-300x300.webp",
-"type": "Masks &amp; Treatments",
-"tags": [
-"All Products"
 ],
 "in": false
 },
@@ -15974,6 +15772,21 @@
 "All Products",
 "Curly Tools",
 "Scalp Massager"
+],
+"in": true
+},
+{
+"t": "Powerpuff Girls Scrunchies Set of 3",
+"u": "https://curlygirlaccessories.com/product/powerpuff-girls-scrunchies-set-of-3/",
+"p": 5.18,
+"c": null,
+"cur": "USD",
+"img": "https://curlygirlaccessories.com/wp-content/uploads/2025/06/4982663580-300x300.jpg",
+"type": "Bundles &amp; Sets, Scrunchies &amp; Hair Ties",
+"tags": [
+"11-11-offer",
+"All Products",
+"Satin Products"
 ],
 "in": true
 },

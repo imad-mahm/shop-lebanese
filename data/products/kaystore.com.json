@@ -4560,7 +4560,7 @@
 "Electronic",
 "gadgets"
 ],
-"in": true
+"in": false
 },
 {
 "t": "FUJIFILM Instax Camera Mini 13",
@@ -4592,7 +4592,7 @@
 "Electronic",
 "gadgets"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Midea Automatic Coffee Machine",
@@ -6693,7 +6693,7 @@
 "uhd",
 "UltraHD"
 ],
-"in": true
+"in": false
 },
 {
 "t": "HitachiSmart 43 Inch HD Smart",
@@ -14490,7 +14490,7 @@
 {
 "t": "Varta Mini Charger +2AA (2100 mAh)",
 "u": "https://kaystore.com/product/varta-mini-charger-2aa-2100-mah/",
-"p": 23.0,
+"p": 25.0,
 "c": 30.0,
 "cur": "USD",
 "img": "https://kaystore.com/wp-content/uploads/2026/04/I136698-1-247x296.jpg",
@@ -14508,7 +14508,7 @@
 {
 "t": "Varta Charger +2AAA (800 mAh)",
 "u": "https://kaystore.com/product/varta-charger-2aaa-800-mah/",
-"p": 23.0,
+"p": 25.0,
 "c": 30.0,
 "cur": "USD",
 "img": "https://kaystore.com/wp-content/uploads/2026/04/I140960-247x296.jpg",
@@ -14580,7 +14580,7 @@
 {
 "t": "Varta 27GA",
 "u": "https://kaystore.com/product/varta-27ga/",
-"p": 3.0,
+"p": 2.5,
 "c": 5.0,
 "cur": "USD",
 "img": "https://kaystore.com/wp-content/uploads/2026/04/I136689-1-247x296.jpg",
@@ -14598,7 +14598,7 @@
 {
 "t": "Varta 23GA",
 "u": "https://kaystore.com/product/varta-23ga/",
-"p": 3.0,
+"p": 2.5,
 "c": 5.0,
 "cur": "USD",
 "img": "https://kaystore.com/wp-content/uploads/2026/04/I136688-1-247x296.jpg",
@@ -14616,7 +14616,7 @@
 {
 "t": "Varta V13GA",
 "u": "https://kaystore.com/product/varta-v13ga/",
-"p": 1.0,
+"p": 1.25,
 "c": 5.0,
 "cur": "USD",
 "img": "https://kaystore.com/wp-content/uploads/2026/04/I136687-1-247x296.jpg",
@@ -35406,7 +35406,7 @@
 "Refrigerator",
 "White"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Campomatic Fridge 25 CFT",
