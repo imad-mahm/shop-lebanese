@@ -1,5 +1,210 @@
 [
 {
+"t": "Wait... Is That a FItbit Calling? Add more Neutrogena to your cart and boost your chances of winning!",
+"u": "https://sohaticare.com/products/wait-is-that-a-fitbit-calling-add-more-neutrogena-to-your-cart-and-boost-your-chances-of-winning",
+"p": 0.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/google-fitbit-air-screenless-health-tracker.webp?v=1793717136&width=400",
+"type": "GWP",
+"tags": [
+"appmaker.hide_product_status",
+"hide_product_status",
+"SEARCHANISE_IGNORE",
+"wizzy-ignore"
+],
+"in": true
+},
+{
+"t": "Black Friday Pouches - La Roche Posay, Vichy , Cerave",
+"u": "https://sohaticare.com/products/black-friday-pouches-la-roche-posay-vichy-cerave",
+"p": 0.0,
+"c": null,
+"cur": "USD",
+"img": "",
+"type": "GWP",
+"tags": [
+"_appmaker_disable_purchase",
+"appmaker.hide_product_status",
+"gwp-collection",
+"hide_product_status",
+"SEARCHANISE_IGNORE",
+"wizzy-ignore"
+],
+"in": false
+},
+{
+"t": "Buy Avène Cleanance Cleansing Gel 400ml, Get 200ml Avène Cleanance Cleansing Gel",
+"u": "https://sohaticare.com/products/buy-avene-cleanance-cleansing-gel-400ml-get-200ml-avene-cleanance-cleansing-gel",
+"p": 15.6,
+"c": 24.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/1_637649fb-72f2-4612-a793-c809178ed55e.png?v=1793612968&width=400",
+"type": "Bundle",
+"tags": [
+"Bogo-collection",
+"bogo_pierrefabre",
+"Bundle",
+"COMPENSATION_NOV26",
+"Giftset",
+"PF-NOVEMBER-2026",
+"SKIN_BUNDLE",
+"testing-app10"
+],
+"in": true
+},
+{
+"t": "Anua PDRN Hyaluronic Acid 100 Moisturizing Cream 60ML",
+"u": "https://sohaticare.com/products/anua-pdrn-hyaluronic-acid-100-moisturizing-cream-60ml",
+"p": 28.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/WhatsAppImage2026-11-03at1.41.49PM.jpg?v=1793706278&width=400",
+"type": "Moisturizer Cream",
+"tags": [],
+"in": false
+},
+{
+"t": "Buy Ducray Creastim Reactiv Anti-Hair Loss Lotion, Get Ducray Anaphase Anti-Hair Loss Shampoo 100ml",
+"u": "https://sohaticare.com/products/buy-ducray-creastim-reactiv-anti-hair-loss-lotion-get-ducray-anaphase-anti-hair-loss-shampoo-100ml",
+"p": 40.0,
+"c": 61.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/1_4367ac6e-84fb-4b5d-aeae-044550ab80fc.png?v=1793613156&width=400",
+"type": "Bundle",
+"tags": [
+"Bogo-collection",
+"bogo_pierrefabre",
+"Bundle",
+"COMPENSATION_NOV26",
+"Giftset",
+"HAIR_BUNDLE",
+"PF-NOVEMBER-2026",
+"testing-app10"
+],
+"in": true
+},
+{
+"t": "Buy Avène DermAbsolu Defining Day Cream, Get Avène Micellar Lotion 100ml & Avène DermAbsolu Night Balm 10ml",
+"u": "https://sohaticare.com/products/buy-avene-dermabsolu-defining-day-cream-get-avene-micellar-lotion-100ml-avene-dermabsolu-night-balm-10ml",
+"p": 31.2,
+"c": 48.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/1_f3585f0b-c13f-455c-8b24-e8030292192c.png?v=1793613085&width=400",
+"type": "Bundle",
+"tags": [
+"Bogo-collection",
+"bogo_pierrefabre",
+"Bundle",
+"COMPENSATION_NOV26",
+"Giftset",
+"PF-NOVEMBER-2026",
+"SKIN_BUNDLE",
+"testing-app10"
+],
+"in": true
+},
+{
+"t": "Buy Avène Cleanance Cleansing Gel 400ml & Avène Cleanance Comedomed+ Anti-Blemish Treatment 30ml, Get Avène DermAbsolu Night Balm 10ml & Avène Cleanance Cleansing Gel 100ml",
+"u": "https://sohaticare.com/products/buy-avene-cleanance-cleansing-gel-400ml-avene-cleanance-comedomed-anti-blemish-treatment-30ml-get-avene-dermabsolu-night-balm-10ml-avene-cleanance-cleansing-gel-100ml",
+"p": 35.8,
+"c": 55.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/1_2211c227-ed7b-441b-91a7-6bbd97eb0bca.png?v=1793612864&width=400",
+"type": "Bundle",
+"tags": [
+"Bogo-collection",
+"bogo_pierrefabre",
+"Bundle",
+"COMPENSATION_NOV26",
+"Giftset",
+"PF-NOVEMBER-2026",
+"SKIN_BUNDLE",
+"testing-app10"
+],
+"in": true
+},
+{
+"t": "Buy Avène Hyaluron Activ B3 Triple Correction Eye Care & Avène Cleansing Foam 150ml, Get Avène Micellar Lotion 100ml & Avène DermAbsolu Night Balm 10ml",
+"u": "https://sohaticare.com/products/buy-avene-hyaluron-activ-b3-triple-correction-eye-care-avene-cleansing-foam-150ml-get-avene-micellar-lotion-100ml-avene-dermabsolu-night-balm-10ml",
+"p": 40.3,
+"c": 62.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/1_7f45336c-2813-438c-96ce-c9d80f5e7109.png?v=1793612648&width=400",
+"type": "Bundle",
+"tags": [
+"Bogo-collection",
+"bogo_pierrefabre",
+"Bundle",
+"COMPENSATION_NOV26",
+"Giftset",
+"PF-NOVEMBER-2026",
+"SKIN_BUNDLE",
+"testing-app10"
+],
+"in": true
+},
+{
+"t": "Buy Avène Hyaluron Activ B3 Cellular Regeneration Cream & Avène Hyaluron Activ B3 Concentrated Plumping Serum, Get Avène DermAbsolu Night Balm 10ml & Avène Micellar Lotion 100ml",
+"u": "https://sohaticare.com/products/buy-avene-hyaluron-activ-b3-cellular-regeneration-cream-avene-hyaluron-activ-b3-concentrated-plumping-serum-get-avene-dermabsolu-night-balm-10ml-avene-micellar-lotion-100ml",
+"p": 67.6,
+"c": 104.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/1_6_d6e46f47-cfb6-468f-9dcf-64a76b32fff2.png?v=1793612327&width=400",
+"type": "Bundle",
+"tags": [
+"Bogo-collection",
+"bogo_pierrefabre",
+"Bundle",
+"COMPENSATION_NOV26",
+"Giftset",
+"PF-NOVEMBER-2026",
+"SKIN_BUNDLE",
+"testing-app10"
+],
+"in": true
+},
+{
+"t": "Buy Avène Cicalfate Instant Repairing Protective Cream for Damaged Skin, Get Avène Hyaluron Activ B3 Serum 10ml & Avène Cicalfate+ Cream 5ml",
+"u": "https://sohaticare.com/products/buy-avene-cicalfate-instant-repairing-protective-cream-for-damaged-skin-get-avene-hyaluron-activ-b3-serum-10ml-avene-cicalfate-cream-5ml",
+"p": 15.6,
+"c": 24.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/1_5_c77a8606-89b7-425c-b3f5-4f7e46b00f3d.png?v=1793612227&width=400",
+"type": "Bundle",
+"tags": [
+"Bogo-collection",
+"bogo_pierrefabre",
+"Bundle",
+"COMPENSATION_NOV26",
+"Giftset",
+"PF-NOVEMBER-2026",
+"SKIN_BUNDLE",
+"testing-app10"
+],
+"in": true
+},
+{
+"t": "Buy Ducray Anaphase Anti-hair loss Anti-thinning shampoo 400ml & get a FREE 100ml Anaphase+ shampoo",
+"u": "https://sohaticare.com/products/buy-ducray-anaphase-anti-hair-loss-anti-thinning-shampoo-400ml-du-anaphase-shp-100ml",
+"p": 15.0,
+"c": 23.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/1_34.png?v=1787055786&width=400",
+"type": "Bundle",
+"tags": [
+"backtoschool-exclusive",
+"BOGO-Collection",
+"Bundle",
+"COMPENSATION_AUG26",
+"COMPENSATION_NOV26",
+"Factorybundle",
+"Giftset",
+"HAIR_BUNDLE"
+],
+"in": true
+},
+{
 "t": "Matriskin Eye Perimeter 360 Serum",
 "u": "https://sohaticare.com/products/matriskin-eye-perimeter-360-serum",
 "p": 13.19,
@@ -464,8 +669,8 @@
 {
 "t": "Phyto Ultra Serum Length-Boosting Serum 50 ml",
 "u": "https://sohaticare.com/products/phyto-ultra-serum-length-boosting-serum-50-ml",
-"p": 55.5,
-"c": null,
+"p": 41.62,
+"c": 55.5,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/PHYTOPARIS-PHYTOPHANEREULTRASERUM-BOTTLEOPEN.png?v=1793093611&width=400",
 "type": "Serum",
@@ -477,8 +682,8 @@
 {
 "t": "Lierac Glow Fresh The Revitalizing Express Mask 75ml",
 "u": "https://sohaticare.com/products/lierac-glow-fresh-the-revitalizing-express-mask-75ml",
-"p": 39.96,
-"c": null,
+"p": 29.97,
+"c": 39.96,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/GlowFreshPackshots4.jpg?v=1793096699&width=400",
 "type": "Face Mask",
@@ -490,8 +695,8 @@
 {
 "t": "Lierac Glow Fresh The Plumping Lip Gloss 10ml",
 "u": "https://sohaticare.com/products/lierac-glow-fresh-the-plumping-lip-gloss-10ml",
-"p": 25.53,
-"c": null,
+"p": 19.15,
+"c": 25.53,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/GlowFreshPackshots5.jpg?v=1793096666&width=400",
 "type": "Lip Gloss",
@@ -503,8 +708,8 @@
 {
 "t": "Lierac Glow Fresh The Radiance Booster Serum 30ml",
 "u": "https://sohaticare.com/products/lierac-glow-fresh-the-radiance-booster-serum-30ml",
-"p": 54.39,
-"c": null,
+"p": 40.79,
+"c": 54.39,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/GlowFreshPackshots1.jpg?v=1793096607&width=400",
 "type": "Face Serum",
@@ -516,8 +721,8 @@
 {
 "t": "Lierac Glow Fresh The Fresh Radiance Gel-Cream 50ml",
 "u": "https://sohaticare.com/products/lierac-glow-fresh-the-fresh-radiance-gel-cream-50ml",
-"p": 51.06,
-"c": null,
+"p": 38.3,
+"c": 51.06,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/GlowFreshPackshots2.jpg?v=1793096534&width=400",
 "type": "Face Cream",
@@ -529,8 +734,8 @@
 {
 "t": "Lierac Glow Fresh The Radiance Plumping Cream 50ml",
 "u": "https://sohaticare.com/products/lierac-glow-fresh-the-radiance-plumping-cream-50ml",
-"p": 51.06,
-"c": null,
+"p": 38.3,
+"c": 51.06,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/GlowFreshPackshots3.jpg?v=1793096465&width=400",
 "type": "Face Cream",
@@ -650,7 +855,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/Eyecontour_Antiwrinkle_box_tube.png?v=1778755127&width=400",
 "type": "Eye Contour",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Exosome Infusion serum 30 ml",
@@ -1187,7 +1392,7 @@
 "Giftset",
 "TOPOFFER"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Buy Bio-Oil Skin Care Oil & get a FREE mini of your choice",
@@ -1334,7 +1539,7 @@
 "Giftset",
 "TOPOFFER"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Buy Eucerin Urea Repair Plus 10% Urea Lotion 250ml + Hand Cream 5% 75ml & get a FREE Foot Cream 10% 100ml",
@@ -1586,7 +1791,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/NAD-Booster-Shot-30-ml-ARENCIA.jpg?v=1791360823&width=400",
 "type": "Face Serum",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Arencia Eraser Shot Glycolic Acid Booster 30ml",
@@ -1690,7 +1895,7 @@
 "22.2.22-DG",
 "5BDAY_15%"
 ],
-"in": true
+"in": false
 },
 {
 "t": "L’Oréal Paris Revitalift Filler [HA] Day Cream 50ml",
@@ -2427,7 +2632,7 @@
 "Giftset",
 "Pharma_week_26",
 "SKIN_BUNDLE",
-"TOPOFFER"
+"testing-app10"
 ],
 "in": false
 },
@@ -3197,8 +3402,8 @@
 {
 "t": "Dispenser ETP Leopard Collector 30 Patch",
 "u": "https://sohaticare.com/products/dispenser-etp-leopard-collector-30-patch",
-"p": 222.0,
-"c": null,
+"p": 166.5,
+"c": 222.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/SACHETLEOPARD_3_1.png?v=1788511641&width=400",
 "type": "Eye Patch",
@@ -3211,8 +3416,8 @@
 {
 "t": "Sachet ETP Leopard 1 Patch",
 "u": "https://sohaticare.com/products/sachet-etp-leopard-1-patch",
-"p": 7.77,
-"c": null,
+"p": 5.83,
+"c": 7.77,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/talika-eye-therapy-patch-limited-edition-leopard-1x2-eye-patches.png?v=1788511470&width=400",
 "type": "Eye Patch",
@@ -3529,6 +3734,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/3574661840505.jpg?v=1782718725&width=400",
 "type": "Day Cream",
 "tags": [
+"giveaway-collection",
 "NO-DISCOUNT"
 ],
 "in": true
@@ -3869,7 +4075,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/1_af725e3c-4b29-42b4-bd41-55889e980044.webp?v=1757937013&width=400",
 "type": "",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "SA Smoothing Cream 340g",
@@ -4086,7 +4292,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/thermal_brush_75175fa7-1a6b-4f18-8d74-3dd05c1a7fac.png?v=1787146968&width=400",
 "type": "Hair Styling Tool",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Trop™ 3 in 1 Eyebrow Filler",
@@ -4445,6 +4651,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/3574661840352_1.jpg?v=1782718401&width=400",
 "type": "Night Cream",
 "tags": [
+"giveaway-collection",
 "NO-DISCOUNT"
 ],
 "in": true
@@ -5540,8 +5747,8 @@
 {
 "t": "No Rinse Cleansing Water 500ML",
 "u": "https://sohaticare.com/products/no-rinse-cleansing-water-500ml",
-"p": 15.54,
-"c": null,
+"p": 11.65,
+"c": 15.54,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/Mustela-No-Rinse-Cleansing-Water-FamiliaList-37262305558764_1024x1024_1c8a29b6-b01f-4733-a070-a9e7d7207d92.webp?v=1784711161&width=400",
 "type": "cleanser",
@@ -5720,7 +5927,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/images_2_b5c10970-d190-4252-b18f-d43648e24ae8.jpg?v=1784544234&width=400",
 "type": "Deodorant",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Neutrogena Ultra Sheer Invisible Fluid Sunscreen SPF 50+ Face 50ml, for Face Oil Control, With Niacinamide, Lightweight Non-Greasy Hydrating for Normal to Oily Skin, Hypoallergenic Sunscreen",
@@ -5731,6 +5938,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/8a519551-c9cf-4588-9969-f4da7a747815-1000x1000-FIUkR3awV10MYjl8i7mWXWdGYbVWfwJCUWHIGuR0.webp?v=1784201826&width=400",
 "type": "Sunscreen",
 "tags": [
+"giveaway-collection",
 "NO-DISCOUNT",
 "spf-collection"
 ],
@@ -6249,8 +6457,8 @@
 {
 "t": "Anti dandruff shampoo 250ML",
 "u": "https://sohaticare.com/products/antidandruff-shamp-250ml",
-"p": 19.43,
-"c": null,
+"p": 14.57,
+"c": 19.43,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/antidandruff.png?v=1742295093&width=400",
 "type": "Shampoo",
@@ -7231,7 +7439,7 @@
 "korean_game",
 "openstock_april26"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Dark Spot Correcting Glow Cream",
@@ -12112,6 +12320,7 @@
 "type": "Sunscreen",
 "tags": [
 "allsunscreen_sohati",
+"giveaway-collection",
 "NO-DISCOUNT",
 "spf-collection",
 "sun_june26"
@@ -12128,6 +12337,7 @@
 "type": "Sunscreen",
 "tags": [
 "allsunscreen_sohati",
+"giveaway-collection",
 "NO-DISCOUNT",
 "spf-collection",
 "sun_june26"
@@ -12144,6 +12354,7 @@
 "type": "Sunscreen Cream",
 "tags": [
 "allsunscreen_sohati",
+"giveaway-collection",
 "NO-DISCOUNT",
 "spf-collection",
 "sun_june26"
@@ -12160,6 +12371,7 @@
 "type": "Sunscreen Fluid",
 "tags": [
 "allsunscreen_sohati",
+"giveaway-collection",
 "NO-DISCOUNT",
 "spf-collection",
 "sun_june26"
@@ -12176,6 +12388,7 @@
 "type": "Sunscreen Fluid",
 "tags": [
 "allsunscreen_sohati",
+"giveaway-collection",
 "NO-DISCOUNT",
 "spf-collection",
 "sun_june26"
@@ -13483,8 +13696,8 @@
 {
 "t": "Eye lashes growth serum 10ml",
 "u": "https://sohaticare.com/products/eye-lashes-growth-serum-10ml",
-"p": 7.65,
-"c": 9.0,
+"p": 10.2,
+"c": 12.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/61ACNzOnatL.jpg?v=1775731330&width=400",
 "type": "",
@@ -14717,8 +14930,8 @@
 {
 "t": "Lip Care - Shimmery Cherry",
 "u": "https://sohaticare.com/products/lip-care-shimmery-cherry",
-"p": 2.9,
-"c": null,
+"p": 2.03,
+"c": 2.9,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/products/lip-care---shimmery-cherrybeeslinesohati-care-14524005_abb0c988-ab84-424e-99d4-8f0c79df5f1f.png?v=1581596847&width=400",
 "type": "Lip Stick Balm",
@@ -16184,8 +16397,8 @@
 {
 "t": "Brighten Boost Kit",
 "u": "https://sohaticare.com/products/age-defense-kit-copy",
-"p": 165.0,
-"c": null,
+"p": 115.5,
+"c": 165.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/SesedermaKitsPackshots2_2.jpg?v=1773413270&width=400",
 "type": "Bundle",
@@ -16197,7 +16410,7 @@
 "exclusivedeals_may26",
 "Giftset",
 "mothersday26",
-"Sesderma_Mar26"
+"near-expiry-apr27"
 ],
 "in": true
 },
@@ -19030,8 +19243,8 @@
 {
 "t": "Talika Eye Therapy Patches Zebra",
 "u": "https://sohaticare.com/products/talika-eye-therapy-patches-zebra",
-"p": 7.77,
-"c": null,
+"p": 5.83,
+"c": 7.77,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/sachetfondblanc.jpg?v=1770108507&width=400",
 "type": "Eye Patch",
@@ -19295,7 +19508,7 @@
 "os_june26",
 "os_june26_2"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Revuele Aloe Daily Sun Fluid SPF50+ 40 ML",
@@ -23042,8 +23255,8 @@
 {
 "t": "Sunscreen Lotion SPF30 200ML",
 "u": "https://sohaticare.com/products/sunscreen-lotion-spf30",
-"p": 3.84,
-"c": null,
+"p": 2.69,
+"c": 3.84,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/products/sunscreen-lotion-spf30beeslinesohati-care-14524421.png?v=1581596838&width=400",
 "type": "Lotion",
@@ -23062,8 +23275,8 @@
 {
 "t": "Kids Sunscreen Lotion SPF50 200ML",
 "u": "https://sohaticare.com/products/kids-sunscreen-lotion-spf50",
-"p": 12.77,
-"c": null,
+"p": 8.94,
+"c": 12.77,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/products/kids-sunscreen-lotion-spf50beeslinesohati-care-14523987_0de59824-9c61-4184-8c08-396e8d2a40e0.png?v=1581596835&width=400",
 "type": "Sunscreen",
@@ -23344,10 +23557,10 @@
 "adha_26",
 "backtoschool-exclusive",
 "fattalBio",
+"giveaway-collection",
 "n_jan26",
 "near-expiry-feb27",
-"NeutrogenaRetinol",
-"NO-DISCOUNT"
+"NeutrogenaRetinol"
 ],
 "in": false
 },
@@ -23374,6 +23587,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/k1.jpg?v=1768486204&width=400",
 "type": "Eye Cream",
 "tags": [
+"giveaway-collection",
 "n_jan26",
 "NO-DISCOUNT"
 ],
@@ -23390,6 +23604,7 @@
 "tags": [
 "8Anniversary",
 "fattalBio",
+"giveaway-collection",
 "n_jan26",
 "NeutrogenaRetinol",
 "NO-DISCOUNT"
@@ -23399,8 +23614,8 @@
 {
 "t": "Lipocils Mascara XXL Volume Black 8.5ml L4 NEW",
 "u": "https://sohaticare.com/products/lipocils-mascara-xxl-volume-black-8-5ml-l4-new",
-"p": 35.52,
-"c": null,
+"p": 26.64,
+"c": 35.52,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/talikan.png?v=1768225661&width=400",
 "type": "Mascara",
@@ -23415,8 +23630,8 @@
 {
 "t": "PIGMENT CONTROL PATCH MIXED",
 "u": "https://sohaticare.com/products/pigment-control-patch-mixed",
-"p": 13.32,
-"c": null,
+"p": 9.99,
+"c": 13.32,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/talika1.jpg?v=1768226315&width=400",
 "type": "Patches",
@@ -23430,8 +23645,8 @@
 {
 "t": "Glowtion 100ML",
 "u": "https://sohaticare.com/products/glowtion-100ml",
-"p": 28.86,
-"c": null,
+"p": 21.64,
+"c": 28.86,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/product_in_scene_1f0bbeb8-ffbf-6c10-8da2-0e7096e35e93_0_0.webp?v=1768485160&width=400",
 "type": "lotion",
@@ -23491,6 +23706,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/d1_ed530578-cb3e-4443-920b-7ad0e39b4894.jpg?v=1768479138&width=400",
 "type": "Serum",
 "tags": [
+"giveaway-collection",
 "n_jan26",
 "NO-DISCOUNT"
 ],
@@ -23507,6 +23723,7 @@
 "tags": [
 "8Anniversary",
 "fattalBio",
+"giveaway-collection",
 "n_jan26",
 "NeutrogenaRetinol",
 "NO-DISCOUNT"
@@ -23522,6 +23739,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/Medium_NTG_EMEA_FR_3574661797663_Spot_Controlling_Wash_200ml_MOBILE.webp?v=1785226427&width=400",
 "type": "Facial Wash",
 "tags": [
+"giveaway-collection",
 "n_jan26",
 "NO-DISCOUNT"
 ],
@@ -23549,6 +23767,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/a1.jpg?v=1768475654&width=400",
 "type": "Spot Treatment",
 "tags": [
+"giveaway-collection",
 "n_jan26",
 "NO-DISCOUNT"
 ],
@@ -23563,6 +23782,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/p1_c4eda70f-ca48-4a4d-ba08-93f457b24b43.jpg?v=1768475382&width=400",
 "type": "Spot Treatment",
 "tags": [
+"giveaway-collection",
 "n_jan26",
 "NO-DISCOUNT"
 ],
@@ -23579,6 +23799,7 @@
 "tags": [
 "8Anniversary",
 "fattalBio",
+"giveaway-collection",
 "n_jan26",
 "NeutrogenaRetinol",
 "NO-DISCOUNT"
@@ -23596,6 +23817,7 @@
 "tags": [
 "8Anniversary",
 "fattalBio",
+"giveaway-collection",
 "n_jan26",
 "NeutrogenaRetinol",
 "NO-DISCOUNT"
@@ -24683,7 +24905,7 @@
 {
 "t": "NOVACLEAR URBAN SUNBLOCK KIDS SPF 50",
 "u": "https://sohaticare.com/products/novaclear-urban-sunblock-kids-spf-50",
-"p": 18.65,
+"p": 16.31,
 "c": 23.31,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/novaclear-urban-sunblock-very-high-protection-spf-50-kids.webp?v=1740569952&width=400",
@@ -24693,6 +24915,7 @@
 "adha_26",
 "backtoschool-exclusive",
 "CLEAR30",
+"near-expiry-mar27",
 "samenear_expiry26_6_10",
 "sun_june26"
 ],
@@ -25120,7 +25343,7 @@
 "FRENCHWEEK2025.MUSTELA",
 "Giftset"
 ],
-"in": true
+"in": false
 },
 {
 "t": "15% Off: 2x Gentle Shampoo 200ML",
@@ -25142,8 +25365,8 @@
 {
 "t": "Pimple Clear Patch",
 "u": "https://sohaticare.com/products/pimple-clear-patch",
-"p": 18.34,
-"c": null,
+"p": 12.84,
+"c": 18.34,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/CP1.jpg?v=1766748936&width=400",
 "type": "Pimple Patch",
@@ -25156,8 +25379,8 @@
 {
 "t": "Gentle exfoliating SA Lotion",
 "u": "https://sohaticare.com/products/gentle-exfoliating-sa-lotion",
-"p": 32.36,
-"c": null,
+"p": 22.65,
+"c": 32.36,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/CL1.jpg?v=1766748492&width=400",
 "type": "Lotion",
@@ -25170,8 +25393,8 @@
 {
 "t": "Gentle exfoliating SA cleanser",
 "u": "https://sohaticare.com/products/gentle-exfoliating-sa-cleanser",
-"p": 29.67,
-"c": null,
+"p": 20.77,
+"c": 29.67,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/Untitled_design_27.png?v=1769160898&width=400",
 "type": "Cleanser",
@@ -25213,7 +25436,7 @@
 "COMPENSATION_JAN26",
 "Giftset"
 ],
-"in": false
+"in": true
 },
 {
 "t": "15% Off: Hydra Bébé® Facial Cream 40ML + Hydra Bébé® Body lotion 300ML",
@@ -25246,7 +25469,7 @@
 "COMPENSATION_JAN26",
 "Giftset"
 ],
-"in": false
+"in": true
 },
 {
 "t": "30 % OFF Lumi matte + Sunkisser Blush + Sky High",
@@ -25347,8 +25570,8 @@
 {
 "t": "Lift Integral Day Cream Gel",
 "u": "https://sohaticare.com/products/lift-integral-day-cream-gel",
-"p": 72.15,
-"c": null,
+"p": 54.11,
+"c": 72.15,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/LIERAC_2024_LIFT_INTEGRAL_GEL-CREME_JOUR.png?v=1767795336&width=400",
 "type": "",
@@ -25364,8 +25587,8 @@
 {
 "t": "Hydragenist Plumping Mask",
 "u": "https://sohaticare.com/products/hydragenist-plumping-mask",
-"p": 38.85,
-"c": null,
+"p": 29.14,
+"c": 38.85,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/LC9009711AA-HYDRAGENIST-MASQUE-TUBE-75ml_1.jpg?v=1767795572&width=400",
 "type": "",
@@ -25381,8 +25604,8 @@
 {
 "t": "Cryoactive for Cellulite 150ML",
 "u": "https://sohaticare.com/products/cryoactive-for-cellulite",
-"p": 55.5,
-"c": null,
+"p": 41.62,
+"c": 55.5,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/Lierac_2023_Body-Sculpt_Concentre_Cryoactif.jpg?v=1767795511&width=400",
 "type": "",
@@ -27087,8 +27310,8 @@
 {
 "t": "Musti Coffrets Terracota 2025",
 "u": "https://sohaticare.com/products/musti-coffrets-terracota-2025",
-"p": 16.1,
-"c": null,
+"p": 12.08,
+"c": 16.1,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/Terracota.png?v=1765290670&width=400",
 "type": "Coffret",
@@ -29819,7 +30042,7 @@
 "os_june26",
 "os_june26_2"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Centella Matrixyl 10 Boosting Shot Ampoule 30ml",
@@ -29884,7 +30107,7 @@
 "korean_superdeal",
 "os_june26_2"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Centella Tea-Trica Relief Ampoule 100ml",
@@ -30024,7 +30247,7 @@
 "NOV25DISCOUNTS_KO",
 "openstock_april26"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Centella Ampoule 55ml",
@@ -30086,7 +30309,7 @@
 "os_june26",
 "os_june26_2"
 ],
-"in": true
+"in": false
 },
 {
 "t": "CENTELLA TONE BRIGHTENING CAPSULE AMP 100ML",
@@ -30102,7 +30325,7 @@
 "korean_superdeal",
 "openstock_april26"
 ],
-"in": true
+"in": false
 },
 {
 "t": "CENTELLA POREMIZING DEEP CLEANSING FOAM 125ML",
@@ -32103,12 +32326,15 @@
 {
 "t": "Gardenia Hands & Body Lotion",
 "u": "https://sohaticare.com/products/gardenia-hands-body-lotion",
-"p": 12.0,
-"c": null,
+"p": 8.4,
+"c": 12.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/Gardenia_Hands_and_Body_Lotion_front_side.jpg?v=1761221337&width=400",
 "type": "Hands & Body Lotion",
-"tags": [],
+"tags": [
+"near-expiry-apr27",
+"samenear_expiry26_6_10"
+],
 "in": true
 },
 {
@@ -32481,8 +32707,8 @@
 {
 "t": "DUO X2 Deo Whitening Roll-On - Arabian Oud",
 "u": "https://sohaticare.com/products/duo-x2-deo-whitening-roll-on-arabian-oud",
-"p": 9.16,
-"c": null,
+"p": 6.41,
+"c": 9.16,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/products/oud.jpg?v=1607373090&width=400",
 "type": "Deodorant",
@@ -34971,7 +35197,7 @@
 "os_june26",
 "os_june26_2"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Medicube Collagen Overnight Wrapping Mask",
@@ -36043,7 +36269,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/1_e137cb5b-0e50-4124-91bd-78fda1122066.webp?v=1757936928&width=400",
 "type": "",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "GLYCOLIC ACID 7% EXFOLIATING TONER 100ML/3.4FLOZ",
@@ -36054,7 +36280,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/42_0daddae9-609f-4647-92ae-2bc403863309.png?v=1757660562&width=400",
 "type": "",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "ALPHA ARBUTIN 2% + HA 60ML/2FLOZ",
@@ -36396,7 +36622,7 @@
 "tags": [
 "ORDINARYUPS"
 ],
-"in": false
+"in": true
 },
 {
 "t": "NIACINAMIDE 10% + ZINC 1% 30ML/1FLOZ",
@@ -36407,7 +36633,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/10_8517ac85-dfdc-4847-804f-17c63732e7b3.png?v=1757660530&width=400",
 "type": "",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "NATURAL MOISTURIZING FACTORS +HA 30ML/1FLOZ",
@@ -36442,7 +36668,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/7_0642c5ff-992f-4b5b-a12d-6d645121a6df.png?v=1757660526&width=400",
 "type": "",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "LACTIC ACID 10% + HA 30ML/1FLOZ",
@@ -36486,7 +36712,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/3_cbe2a9ed-e243-4e9c-a052-265d73b0e76a.png?v=1757660521&width=400",
 "type": "",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "MULTI-PEPTIDE SERUM FOR HAIR DENSITY 60ML/2FLOZ",
@@ -37586,8 +37812,8 @@
 {
 "t": "Phyto 7 Nourishing Day Cream 50ML",
 "u": "https://sohaticare.com/products/phyto-7-soins-50ml",
-"p": 18.87,
-"c": null,
+"p": 14.15,
+"c": 18.87,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/5d3876d0c1f5c_phyto_paris_phyto7_cheveux_secs_reflexion.webp?v=1756299987&width=400",
 "type": "Leave-in Cream",
@@ -37606,8 +37832,8 @@
 {
 "t": "PHYTO 7 Nourishing Day Cream 50ML",
 "u": "https://sohaticare.com/products/phyto-7-nourishing-day-cream-nutrition-50ml",
-"p": 24.42,
-"c": null,
+"p": 18.32,
+"c": 24.42,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/phyto_nourishing_haircream.png?v=1726666253&width=400",
 "type": "Hair Cream",
@@ -37646,8 +37872,8 @@
 {
 "t": "KERATINE Repairing Thermal Spray 150ML",
 "u": "https://sohaticare.com/products/phytokeratine-repairing-spray-200ml",
-"p": 24.42,
-"c": null,
+"p": 18.32,
+"c": 24.42,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/57_485e4b10-025c-4532-9157-6f76efc7cd79.jpg?v=1756299246&width=400",
 "type": "Hair Spray",
@@ -37666,8 +37892,8 @@
 {
 "t": "PhytoCyane 12 Ampoules",
 "u": "https://sohaticare.com/products/phytocyane-12-ampoules",
-"p": 56.36,
-"c": null,
+"p": 42.27,
+"c": 56.36,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/products/cyaneampoule.jpg?v=1756298456&width=400",
 "type": "Hair Serum",
@@ -37686,8 +37912,8 @@
 {
 "t": "Kératine Repairing Shampoo 250ML",
 "u": "https://sohaticare.com/products/phytokeratine-repairing-shampoo-200ml",
-"p": 19.43,
-"c": null,
+"p": 14.57,
+"c": 19.43,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/aebc4c63b96a43d98937b1bed470f75a-Original.png?v=1720172441&width=400",
 "type": "Shampoo",
@@ -39271,8 +39497,8 @@
 {
 "t": "Polleine concentrate 30ML",
 "u": "https://sohaticare.com/products/polleine-concentrate-30ml",
-"p": 43.29,
-"c": null,
+"p": 32.47,
+"c": 43.29,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/polleineshampoo.png?v=1742299956&width=400",
 "type": "CONCENTRATE",
@@ -39291,8 +39517,8 @@
 {
 "t": "Oil control shampoo 250ML",
 "u": "https://sohaticare.com/products/oil-control-shamp-250ml",
-"p": 19.43,
-"c": null,
+"p": 14.57,
+"c": 19.43,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/oilcontrolshampoo.png?v=1742300296&width=400",
 "type": "Shampoo",
@@ -39311,8 +39537,8 @@
 {
 "t": "High protection Sun spray SPF50",
 "u": "https://sohaticare.com/products/high-protection-sun-spray-spf50",
-"p": 42.18,
-"c": null,
+"p": 31.63,
+"c": 42.18,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/products/SUN_CARE_TIO2_FREE_high_protection_sun_spray_200ml_XL_FRONT_SHADOW_1000x750px_2_1.png?v=1689319456&width=400",
 "type": "",
@@ -40672,8 +40898,8 @@
 {
 "t": "PhytoPolléine Elixir 20ML",
 "u": "https://sohaticare.com/products/phytopolleine-25ml",
-"p": 24.18,
-"c": null,
+"p": 18.13,
+"c": 24.18,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/products/phytopolleine_a489e048-be99-44a6-82cb-1d861d103ec8.jpg?v=1625306443&width=400",
 "type": "Hair Oil Treatment",
@@ -41264,8 +41490,8 @@
 {
 "t": "Sunissime Milk SPF30 150 ml",
 "u": "https://sohaticare.com/products/sunissime-milk-spf30-150-ml",
-"p": 44.4,
-"c": null,
+"p": 33.3,
+"c": 44.4,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/Sunissime_Body_milk_SPF_40.jpg?v=1752151279&width=400",
 "type": "Sunscreen",
@@ -41284,8 +41510,8 @@
 {
 "t": "Sunissime Fluid SPF50+ 40 ml",
 "u": "https://sohaticare.com/products/sunissime-fluid-spf50-40-ml",
-"p": 35.52,
-"c": null,
+"p": 26.64,
+"c": 35.52,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/SunissimeSPF50_40ml.jpg?v=1752150929&width=400",
 "type": "Sunscreen",
@@ -41304,8 +41530,8 @@
 {
 "t": "Sunissime Fluid SPF30 40 ml",
 "u": "https://sohaticare.com/products/sunissime-fluid-spf30-40-ml",
-"p": 35.52,
-"c": null,
+"p": 26.64,
+"c": 35.52,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/SunissimeSPF3040ml.jpg?v=1752150905&width=400",
 "type": "Sunscreen",
@@ -41912,7 +42138,7 @@
 "Giftset",
 "NOV25DISCOUNTS"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Time Filler Intensive 5XP 30ml",
@@ -42512,8 +42738,8 @@
 {
 "t": "CICA REPAIR+  MASK  20 g",
 "u": "https://sohaticare.com/products/cica-repair-mask-20-g",
-"p": 9.99,
-"c": null,
+"p": 7.49,
+"c": 9.99,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/3d518c9aa4ba0fd9bd6f5e02336cf61d_jpg.webp?v=1750665218&width=400",
 "type": "Face Mask",
@@ -42532,8 +42758,8 @@
 {
 "t": "FREE SKIN PATCH x25 patches",
 "u": "https://sohaticare.com/products/free-skin-patch-x25-patches",
-"p": 11.0,
-"c": null,
+"p": 8.25,
+"c": 11.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/Talika-FreeSkinPatch-PatchesBoutons-x25Patches.jpg?v=1750664847&width=400",
 "type": "Face Mask",
@@ -42627,7 +42853,7 @@
 "Giftset",
 "NOV25DISCOUNTS"
 ],
-"in": true
+"in": false
 },
 {
 "t": "15% Off: 2x REPAIR Shampoo 250ML",
@@ -42877,8 +43103,8 @@
 {
 "t": "Mavala Double Brow",
 "u": "https://sohaticare.com/products/mavala-double-brow",
-"p": 27.75,
-"c": null,
+"p": 20.81,
+"c": 27.75,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/MAVALA_DOUBLE-BROW_bottle_open.png?v=1750146901&width=400",
 "type": "Brow Serum",
@@ -42897,8 +43123,8 @@
 {
 "t": "Talika Cica Repair After-Sun Mask",
 "u": "https://sohaticare.com/products/talika-cica-repair-after-sun-mask",
-"p": 9.99,
-"c": null,
+"p": 7.49,
+"c": 9.99,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/cicarepairaftersun.jpg?v=1750146484&width=400",
 "type": "Sheet Mask",
@@ -43890,163 +44116,6 @@
 "exclude_flash26",
 "exclude_flash_july25"
 ],
-"in": false
-},
-{
-"t": "L’Oréal Paris, Elvive, Glycolic Gloss Shampoo, Our First at-home glossing treatment, 3% [Gloss Complex] with Glycolic Acid",
-"u": "https://sohaticare.com/products/l-oreal-paris-elvive-glycolic-gloss-shampoo-our-first-at-home-glossing-treatment-3-gloss-complex-with-glycolic-acid",
-"p": 4.25,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/shampoo.jpg?v=1749127317&width=400",
-"type": "Shampo",
-"tags": [
-"CPD",
-"cpd-ledefile-openstock",
-"elvive_glyco_hair_25",
-"exclude_blacknov25_cpd",
-"exclude_cpd_flashsale",
-"exclude_dec25",
-"exclude_flash26",
-"exclude_flash_july25"
-],
-"in": false
-},
-{
-"t": "Bio filler lip esforliante – lip scrub",
-"u": "https://sohaticare.com/products/bio-filler-lip-esforliante-lip-scrub",
-"p": 20.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/Hypera-BioAge-EsfolianteLabial-Frasco-A3-300dpi-RGB.png?v=1701335914&width=400",
-"type": "Lip Scrub",
-"tags": [
-"20%SUMMERBOOST24",
-"20%SUMMERBOOST24_BULK",
-"ALLSUMSPLASH_05.16",
-"BioAge_PriceUpdate_16MAY24",
-"Bioage_priceupdate_7aug24",
-"Bioage_Priceupdate_8May24",
-"Chapped Lips",
-"EISEXFOL"
-],
-"in": false
-},
-{
-"t": "Garnier - Ultra Doux - Pure Avocado and Shea Butter - Hair Nourisher - For Very Dry, Frizzy Hair or Dry Scalp - 120ml",
-"u": "https://sohaticare.com/products/garnier-ultra-doux-pure-avocado-and-shea-butter-hair-nourisher-for-very-dry-frizzy-hair-or-dry-scalp-120ml",
-"p": 8.03,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/avocado.jpg?v=1748851708&width=400",
-"type": "Hair Serum",
-"tags": [
-"avocado_range",
-"CPD",
-"CPD_BLACK25_FLASH",
-"exclude_cpd_flashsale",
-"exclude_dec25",
-"exclude_flash_july25",
-"garnier_hair_11.11",
-"garnier_hair_colo_11.11"
-],
-"in": false
-},
-{
-"t": "Garnier - Ultra Doux - Rice Water - Hair Silk Smoothing Serum - For Smooth Hair and High Shine - 120ml",
-"u": "https://sohaticare.com/products/garnier-ultra-doux-rice-water-hair-silk-smoothing-serum-for-smooth-hair-and-high-shine-120ml",
-"p": 8.03,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/ricewaterserum.jpg?v=1748850533&width=400",
-"type": "Hair Serum",
-"tags": [
-"CPD",
-"CPD_BLACK25_FLASH",
-"exclude_cpd_flashsale",
-"exclude_dec25",
-"exclude_flash_july25",
-"exportOOS",
-"garnier_hair_11.11",
-"garnier_hair_colo_11.11"
-],
-"in": false
-},
-{
-"t": "CUTICLE NIPPER FULL JAW",
-"u": "https://sohaticare.com/products/cuticle-nipper-full-jaw",
-"p": 13.88,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/21_a07d3da3-28c4-46cf-956c-f6a9bda01083.png?v=1748352334&width=400",
-"type": "",
-"tags": [],
-"in": true
-},
-{
-"t": "Straight 3.5 inch Scissors",
-"u": "https://sohaticare.com/products/straight-3-5-inch-scissors",
-"p": 3.82,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/23_3cdf95e7-47fd-4df5-a140-6871729d0119.png?v=1748352276&width=400",
-"type": "",
-"tags": [],
-"in": false
-},
-{
-"t": "Rubycell Foundation Puff",
-"u": "https://sohaticare.com/products/rubycell-foundation-puff",
-"p": 2.43,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/32_56a5a8bd-9583-4a41-8285-6560389ff738.png?v=1748352228&width=400",
-"type": "",
-"tags": [],
-"in": false
-},
-{
-"t": "Pencil Sharpner",
-"u": "https://sohaticare.com/products/pencil-sharpner",
-"p": 2.43,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/33_f596c1d7-884e-4d5d-8d65-66039773b080.png?v=1748352122&width=400",
-"type": "",
-"tags": [],
-"in": false
-},
-{
-"t": "Cuticle Nipper Jaw 14",
-"u": "https://sohaticare.com/products/cuticle-nipper-jaw-14",
-"p": 19.43,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/22.png?v=1748352076&width=400",
-"type": "",
-"tags": [],
-"in": true
-},
-{
-"t": "Proffessional Blusher Brush",
-"u": "https://sohaticare.com/products/proffessional-blusher-brush",
-"p": 4.16,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/11_587b6f86-c73c-49d5-8352-15edc264b697.png?v=1748351865&width=400",
-"type": "",
-"tags": [],
-"in": false
-},
-{
-"t": "Massage Brush For Face",
-"u": "https://sohaticare.com/products/massage-brush-for-face",
-"p": 2.77,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/1_855f162a-94a5-4d61-9829-d641a486b242.png?v=1748351760&width=400",
-"type": "",
-"tags": [],
 "in": false
 }
 ]

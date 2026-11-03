@@ -5,18 +5,7 @@
 "p": 11.34,
 "c": 11.34,
 "cur": "USD",
-"img": "",
-"type": "WINE",
-"tags": [],
-"in": true
-},
-{
-"t": "CHATEAU HAUT FLORIN BORDEAUX 2021 RED 75 CL",
-"u": "https://themaltgallery.com/products/ch-haut-florin-bordeaux-2021-red-75-cl",
-"p": 0.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0551/7695/4062/products/CHATEAUHAUTFLORIN2020RED.jpg?v=1662551947&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0551/7695/4062/files/CHATEAUHAUTFLORIN2020RED_275ddd49-821a-4451-a535-01633a37812f.jpg?v=1793624575&width=400",
 "type": "WINE",
 "tags": [],
 "in": true
@@ -770,8 +759,8 @@
 {
 "t": "GUSTAVE LORENTZ GEWURZTRAMINER ALTENBERG DE BERGHEIM 2019",
 "u": "https://themaltgallery.com/products/gustave-lorentz-gewurztraminer-altenberg-de-bergheim-2019",
-"p": 46.59,
-"c": 62.12,
+"p": 73.65,
+"c": 73.65,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0551/7695/4062/files/GUS-0009_f48189fa-4e07-442a-a57d-84676bb6d60c.jpg?v=1787579991&width=400",
 "type": "WINE",
@@ -3667,8 +3656,8 @@
 {
 "t": "CHATEAU RAUZAN-GASSIES 2016 MARGAUX 75 CL",
 "u": "https://themaltgallery.com/products/chateau-rauzan-gassies-2016-margaux-75-cl",
-"p": 130.45,
-"c": 130.45,
+"p": 132.93,
+"c": 132.93,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0551/7695/4062/files/LUZ-0065_2a9894c7-df22-441b-8b3e-fa74650212f6.jpg?v=1747132427&width=400",
 "type": "WINE",
@@ -3840,8 +3829,8 @@
 {
 "t": "BARON DE LUZE 2023 RED",
 "u": "https://themaltgallery.com/products/baron-de-luze-2023-red",
-"p": 13.28,
-"c": 16.6,
+"p": 16.61,
+"c": 16.61,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0551/7695/4062/files/LUZ-0036_34ca93dc-e4fa-471b-af68-f119706e15b9.jpg?v=1747132400&width=400",
 "type": "WINE",
@@ -3953,6 +3942,19 @@
 "c": 241.98,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0551/7695/4062/files/MCH-0019.jpg?v=1745405079&width=400",
+"type": "TEQUILA & MEZCAL",
+"tags": [
+"Mezcal"
+],
+"in": true
+},
+{
+"t": "LOS SIETE MISTERIOS COYOTE",
+"u": "https://themaltgallery.com/products/los-siete-misterios-coyote",
+"p": 241.98,
+"c": 241.98,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0551/7695/4062/files/MCH-0018.jpg?v=1745405354&width=400",
 "type": "TEQUILA & MEZCAL",
 "tags": [
 "Mezcal"
