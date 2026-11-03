@@ -1,5 +1,19 @@
 [
 {
+"t": "Necklace Luna",
+"u": "https://www.onyxstoneslb.com/products/necklace-luna",
+"p": 30.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0094/1925/9959/files/c8444214-e247-40fc-a41d-9d82b0cbd238.png?v=1793632182&width=400",
+"type": "Necklaces",
+"tags": [
+"Necklaces",
+"New2026"
+],
+"in": true
+},
+{
 "t": "Necklace The Moon Collection Silver",
 "u": "https://www.onyxstoneslb.com/products/necklace-moon-collection-silver",
 "p": 30.0,
@@ -97,7 +111,7 @@
 },
 {
 "t": "Necklace Aura",
-"u": "https://www.onyxstoneslb.com/products/aura-necklace",
+"u": "https://www.onyxstoneslb.com/products/necklace-aura",
 "p": 30.0,
 "c": null,
 "cur": "USD",
@@ -110,8 +124,8 @@
 "in": true
 },
 {
-"t": "Fortune Necklace",
-"u": "https://www.onyxstoneslb.com/products/fortune-necklace",
+"t": "Necklace Fortune",
+"u": "https://www.onyxstoneslb.com/products/necklace-fortune",
 "p": 30.0,
 "c": null,
 "cur": "USD",
@@ -407,7 +421,7 @@
 "p": 30.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0094/1925/9959/files/FullSizeRender_735d7d3c-0e09-4316-9ec5-ed94753b0c47.jpg?v=1699862679&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0094/1925/9959/files/FullSizeRender_735d7d3c-0e09-4316-9ec5-ed94753b0c47.jpg?v=1793637751&width=400",
 "type": "Stones & Crystals",
 "tags": [],
 "in": true
@@ -771,7 +785,7 @@
 "tags": [
 "New2026"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Necklace Rosary with Chopped Stones",
@@ -1105,7 +1119,7 @@
 "p": 6.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0094/1925/9959/files/new-moon-beginnings-mookaite-tumbled-stone-polished-mookaite-crystal-cts-aa421-parent__33297.jpg?v=1770124771&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0094/1925/9959/files/new-moon-beginnings-mookaite-tumbled-stone-polished-mookaite-crystal-cts-aa421-parent__33297.jpg?v=1793637769&width=400",
 "type": "Stones & Crystals",
 "tags": [],
 "in": true
@@ -1840,7 +1854,7 @@
 "p": 6.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0094/1925/9959/files/2F25ED44-3519-4074-8FB9-BE1ACF05EB9E.png?v=1726256656&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0094/1925/9959/files/2F25ED44-3519-4074-8FB9-BE1ACF05EB9E.png?v=1793637770&width=400",
 "type": "Stones & Crystals",
 "tags": [],
 "in": false
@@ -1851,7 +1865,7 @@
 "p": 6.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0094/1925/9959/files/ImagendeWhatsApp2024-09-13alas19.59.42_87fefc49.jpg?v=1726246821&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0094/1925/9959/files/Screenshot_2026-11-03_165750.png?v=1793717946&width=400",
 "type": "Stones & Crystals",
 "tags": [],
 "in": false
@@ -1949,7 +1963,7 @@
 "p": 25.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0094/1925/9959/files/batch_1batch_1untitled_1of1_-70_1.jpg?v=1743618453&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0094/1925/9959/files/batch_1batch_1untitled_1of1_-70_1.jpg?v=1793637751&width=400",
 "type": "Bracelets Woman",
 "tags": [
 "Bracelet Raw"
@@ -2339,7 +2353,7 @@
 "p": 20.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0094/1925/9959/files/ED9DFCBF-26A9-404D-9F2E-45E11EDE3DE5.jpg?v=1775489578&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0094/1925/9959/files/ED9DFCBF-26A9-404D-9F2E-45E11EDE3DE5.jpg?v=1793637751&width=400",
 "type": "Stones & Crystals",
 "tags": [],
 "in": true
@@ -3195,7 +3209,7 @@
 "p": 10.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0094/1925/9959/products/s-l300.jpg?v=1633435393&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0094/1925/9959/files/71obcblzQdL.jpg?v=1793717024&width=400",
 "type": "Stones & Crystals",
 "tags": [],
 "in": false
@@ -3725,7 +3739,7 @@
 "p": 25.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0094/1925/9959/products/istockphoto-1147628749-612x612.jpg?v=1616786561&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0094/1925/9959/products/istockphoto-1147628749-612x612.jpg?v=1793637750&width=400",
 "type": "Gift Card",
 "tags": [
 "Discount",

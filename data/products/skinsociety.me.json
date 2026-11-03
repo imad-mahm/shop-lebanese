@@ -1,5 +1,891 @@
 [
 {
+"t": "Lactivial",
+"u": "https://skinsociety.me/products/lactivial",
+"p": 26.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/608786051126.jpg?v=1793706113&width=400",
+"type": "Parapharmacy",
+"tags": [
+"608786051126",
+"Brand_Medvial",
+"Category_Parapharmacy",
+"Fertility & Pregnancy",
+"Food Supplements",
+"Parapharmacy",
+"Product Type_Fertility & Pregnancy",
+"Sub Category_Food Supplements"
+],
+"in": true
+},
+{
+"t": "Eucerin Urea Repair 10% Intensive Moisturizing Lotion - Gift",
+"u": "https://skinsociety.me/products/eucerin-urea-repair-10-intensive-moisturizing-lotion-gift",
+"p": 0.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/EucerinUreaRepairlotioncarton.png?v=1793704837&width=400",
+"type": "POSM",
+"tags": [
+"Category_POSM",
+"No-Sync",
+"POSM",
+"SEARCH_IGNORE"
+],
+"in": true
+},
+{
+"t": "Eucerin Urea Repair Very Dry, 10% Urea Foot Cream - Gift",
+"u": "https://skinsociety.me/products/eucerin-urea-repair-very-dry-10-urea-foot-cream-gift",
+"p": 0.0,
+"c": null,
+"cur": "USD",
+"img": "",
+"type": "POSM",
+"tags": [
+"Category_POSM",
+"No-Sync",
+"OMG",
+"POSM",
+"SEARCH_IGNORE"
+],
+"in": true
+},
+{
+"t": "Eucerin Silver with Red Zipper Pouch - Gift",
+"u": "https://skinsociety.me/products/eucerin-silver-with-red-zipper-pouch-gift",
+"p": 0.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/Silverquiltedpouchwithredzipper.png?v=1793702742&width=400",
+"type": "POSM",
+"tags": [
+"Category_POSM",
+"No-Sync",
+"POSM",
+"SEARCH_IGNORE"
+],
+"in": true
+},
+{
+"t": "The Skin Support Duo",
+"u": "https://skinsociety.me/products/the-skin-support-duo",
+"p": 25.2,
+"c": 36.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/updatedphoto_b16ac501-96ee-47d6-9c8c-2669446be37e.png?v=1793701848&width=400",
+"type": "Dermocosmetics",
+"tags": [
+"Bundle",
+"Dermocosmetics",
+"No-Sync",
+"Product Type_Value Deals",
+"Sub Category_Value Deals",
+"SubCategory_Value Deals",
+"The Ordinary",
+"Value Deal"
+],
+"in": false
+},
+{
+"t": "The Brighten & Hydrate Duo",
+"u": "https://skinsociety.me/products/the-brighten-hydrate-duo",
+"p": 20.3,
+"c": 29.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/updatedphoto_62daccda-d92f-4876-9cc4-412aec053684.png?v=1793701020&width=400",
+"type": "Dermocosmetics",
+"tags": [
+"Bundle",
+"Dermocosmetics",
+"No-Sync",
+"Product Type_Value Deals",
+"Sub Category_Value Deals",
+"SubCategory_Value Deals",
+"The Ordinary",
+"Value Deal"
+],
+"in": false
+},
+{
+"t": "The Acne Duo",
+"u": "https://skinsociety.me/products/the-acne-duo",
+"p": 17.5,
+"c": 25.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/updatedphoto_0e290af5-9b04-4af2-bb0a-bdd97184759b.png?v=1793700308&width=400",
+"type": "Dermocosmetics",
+"tags": [
+"Bundle",
+"Category_ Skin Care",
+"Category_Skin Care",
+"No-Sync",
+"Product Type_Value Deals",
+"Sub Category_Value Deals",
+"SubCategory_Value Deals",
+"The Ordinary"
+],
+"in": true
+},
+{
+"t": "Buy Klorane Growth Accelerating Conditioner 200ml, Get Klorane Purple Hair Massager",
+"u": "https://skinsociety.me/products/buy-klorane-growth-accelerating-conditioner-200ml-get-klorane-purple-hair-massager",
+"p": 8.45,
+"c": 13.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/PurplescalpmassagerbesideKloraneconditioner.png?v=1793692479&width=400",
+"type": "Dermocosmetics",
+"tags": [
+"Brand_Klorane",
+"Bundle",
+"Category_Hair Expert",
+"Dermocosmetics",
+"Hair Expert",
+"No-Sync",
+"pfnov",
+"Product Type_Value Deals"
+],
+"in": true
+},
+{
+"t": "Buy Klorane Mango Conditioner 200ml, Get Klorane White Hair Massager",
+"u": "https://skinsociety.me/products/buy-klorane-mango-conditioner-200ml-get-klorane-white-hair-massager",
+"p": 8.45,
+"c": 13.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/Whitescalpmassagerwithmangoconditioner.png?v=1793628848&width=400",
+"type": "Dermocosmetics",
+"tags": [
+"Brand_Klorane",
+"Bundle",
+"Bundle & Save",
+"Category_Hair Expert",
+"Dermocosmetics",
+"Hair Care",
+"Hair Expert",
+"No-Sync"
+],
+"in": false
+},
+{
+"t": "Buy Klorane Quinine Conditioner 200ml, Get Klorane Yellw Mint Green Massager",
+"u": "https://skinsociety.me/products/buy-klorane-quinine-conditioner-200ml-get-klorane-yellw-mint-green-massager",
+"p": 8.45,
+"c": 13.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/TurquoisescalpmassagerwithKloranetube.png?v=1793628211&width=400",
+"type": "Dermocosmetics",
+"tags": [
+"Brand_Klorane",
+"Bundle",
+"Bundle & Save",
+"Category_Hair Expert",
+"Dermocosmetics",
+"Hair Expert",
+"No-Sync",
+"pfnov"
+],
+"in": false
+},
+{
+"t": "Buy Avène Cleanance Cleansing Gel 400ml & Avène Cleanance Comedomed+ Anti-Blemish Treatment 30ml, Get Avène DermAbsolu Night Balm 10ml & Avène Cleanance Cleansing Gel 100ml",
+"u": "https://skinsociety.me/products/buy-avene-cleanance-cleansing-gel-400ml-avene-cleanance-comedomed-anti-blemish-treatment-30ml-get-avene-dermabsolu-night-balm-10ml-avene-cleanance-cleansing-gel-100ml",
+"p": 35.75,
+"c": 55.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/1_2_65b37bc9-0b4b-4daa-949f-55419f9a1951.png?v=1793627571&width=400",
+"type": "Dermocosmetics",
+"tags": [
+"Bundle",
+"Bundle & Save",
+"No-Sync",
+"pfnov",
+"Product Type_Value Deals",
+"Sub Category_Value Deals",
+"SubCategory_Value Deals",
+"Value Deal"
+],
+"in": true
+},
+{
+"t": "Buy Avène Cleanance Cleansing Gel 400ml, Get 2x 200ml Avène Cleanance Cleansing Gel",
+"u": "https://skinsociety.me/products/buy-avene-cleanance-cleansing-gel-400ml-get-2x-200ml-avene-cleanance-cleansing-gel",
+"p": 15.6,
+"c": 24.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/1_2_a1f7d265-81e3-4ff9-88a4-04999688c847.png?v=1793626221&width=400",
+"type": "Dermocosmetics",
+"tags": [
+"Bundle",
+"Bundle & Save",
+"Category_ Skin Care",
+"Category_Skin Care",
+"Dermocosmetics",
+"No-Sync",
+"pfnov",
+"Product Type_Value Deals"
+],
+"in": true
+},
+{
+"t": "Buy Avène DermAbsolu ReDefining Day Cream, Get Avène Micellar Lotion 100ml & Avène DermAbsolu Night Balm 10ml",
+"u": "https://skinsociety.me/products/buy-avene-dermabsolu-redefining-day-cream-get-avene-micellar-lotion-100ml-avene-dermabsolu-night-balm-10ml",
+"p": 31.2,
+"c": 48.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/1_2_a12bae29-8649-4d2f-a75c-a296c42e70f5.png?v=1793625854&width=400",
+"type": "Dermocosmetics",
+"tags": [
+"Brand_Avène",
+"Bundle",
+"Bundle & Save",
+"Category_ Skin Care",
+"Category_Skin Care",
+"No-Sync",
+"pfnov",
+"Product Type_Value Deals"
+],
+"in": true
+},
+{
+"t": "Buy Ducray Creastim Reactiv Anti-Hair Loss Lotion, Get Ducray Anaphase Anti-Hair Loss Shampoo 100ml",
+"u": "https://skinsociety.me/products/buy-ducray-creastim-reactiv-anti-hair-loss-lotion-get-ducray-anaphase-anti-hair-loss-shampoo-100ml",
+"p": 39.65,
+"c": 61.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/1_2_0cb8275d-ea2b-4394-8193-01f474eafb8d.png?v=1793625277&width=400",
+"type": "Dermocosmetics",
+"tags": [
+"Brand_Ducray",
+"Bundle",
+"Bundle & Save",
+"No-Sync",
+"pfnov",
+"Product Type_Value Deals",
+"Sub Category_Value Deals",
+"SubCategory_Value Deals"
+],
+"in": true
+},
+{
+"t": "Buy Ducray Anaphase Anti-Hair Loss Anti-Thinning Shampoo 400ml, Get Ducray Anaphase Anti-Hair Loss Shampoo 100ml",
+"u": "https://skinsociety.me/products/buy-ducray-anaphase-anti-hair-loss-anti-thinning-shampoo-400ml-get-ducray-anaphase-anti-hair-loss-shampoo-100ml",
+"p": 15.6,
+"c": 24.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/1_2_6a2b7dcf-5312-46e8-a3a3-b0fdb4f4e4ab.png?v=1793624660&width=400",
+"type": "Dermocosmetics",
+"tags": [
+"Brand_Ducray",
+"Bundle",
+"Bundle & Save",
+"Dermocosmetics",
+"No-Sync",
+"pfnov",
+"Product Type_Value Deals",
+"Sub Category_Value Deals"
+],
+"in": true
+},
+{
+"t": "Buy René Furterer Absolue Kératine Sublime Renewal Leave-In Cream, Get René Furterer Pink Hair Massager",
+"u": "https://skinsociety.me/products/buy-rene-furterer-absolue-keratine-sublime-renewal-leave-in-cream-get-rene-furterer-pink-hair-massager",
+"p": 22.75,
+"c": 35.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/1_e42b5019-ad92-4b58-9334-d555f835b92a.png?v=1793623347&width=400",
+"type": "Dermocosmetics",
+"tags": [
+"Brand_René Furterer",
+"Bundle",
+"Bundle & Save",
+"Category_Hair Expert",
+"Hair Expert",
+"No-Sync",
+"pfnov",
+"Product Type_Value Deals"
+],
+"in": true
+},
+{
+"t": "Buy Avène Hyaluron Activ B3 Triple Correction Eye Care & Avène Cleansing Foam 150ml, Get Avène Micellar Lotion 100ml & Avène DermAbsolu Night Balm 10ml",
+"u": "https://skinsociety.me/products/buy-avene-hyaluron-activ-b3-triple-correction-eye-care-avene-cleansing-foam-150ml-get-avene-micellar-lotion-100ml-avene-dermabsolu-night-balm-10ml",
+"p": 40.95,
+"c": 63.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/1_2_a4683c12-9871-41cd-a18e-25c91c8f60da.png?v=1793620221&width=400",
+"type": "Dermocosmetics",
+"tags": [
+"Bundle",
+"Bundle & Save",
+"Category_ Skin Care",
+"Category_Skin Care",
+"No-Sync",
+"pfnov",
+"Product Type_Value Deals",
+"Skin Care"
+],
+"in": false
+},
+{
+"t": "Buy Avène Hyaluron Activ B3 Cellular Regeneration Cream & Avène Hyaluron Activ B3 Concentrated Plumping Serum, Get Avène DermAbsolu Night Balm 10ml & Avène Micellar Lotion 100ml",
+"u": "https://skinsociety.me/products/buy-avene-hyaluron-activ-b3-cellular-regeneration-cream-avene-hyaluron-activ-b3-concentrated-plumping-serum-get-avene-dermabsolu-night-balm-10ml-avene-micellar-lotion-100ml",
+"p": 67.6,
+"c": 104.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/1_2_e4959f37-5938-49a0-926b-9d0a0f67f71c.png?v=1793617790&width=400",
+"type": "Dermocosmetics",
+"tags": [
+"Bundle",
+"Bundle & Save",
+"Category_ Skin Care",
+"Category_Skin Care",
+"No-Sync",
+"pfnov",
+"Product Type_Value Deals",
+"Skin Care"
+],
+"in": true
+},
+{
+"t": "Klorane Thirst-Quenching Serum with Prickly Pear & Hyaluronic Acid 100ml Get Klorane Pink Hair Massager",
+"u": "https://skinsociety.me/products/klorane-thirst-quenching-serum-with-prickly-pear-hyaluronic-acid-100ml-get-klorane-pink-hair-massager",
+"p": 12.35,
+"c": 19.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/Hairbundle1e-cards.png?v=1793616495&width=400",
+"type": "Dermocosmetics",
+"tags": [
+"Bundle",
+"Bundle & Save",
+"Category_Hair Expert",
+"Hair Care",
+"Hair Expert",
+"No-Sync",
+"pfnov",
+"Product Type_Value Deals"
+],
+"in": false
+},
+{
+"t": "Avène Cicalfate Instant Repairing Protective Cream for Damaged Skin With Avène Hyaluron Activ B3 Serum 10ml & Avène Cicalfate+ Cream 5ml Gift",
+"u": "https://skinsociety.me/products/avene-cicalfate-instant-repairing-protective-cream-for-damaged-skin-with-avene-hyaluron-activ-b3-serum-10ml-avene-cicalfate-cream-5ml-gift",
+"p": 16.25,
+"c": 25.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/1_2_e695cd6b-98e4-4810-b115-07b93e75d894.png?v=1793614411&width=400",
+"type": "Dermocosmetics",
+"tags": [
+"Brand_Avène",
+"Bundle",
+"Bundle & Save",
+"Category_ Skin Care",
+"Category_Skin Care",
+"No-Sync",
+"pfnov",
+"Product Type_Value Deals"
+],
+"in": true
+},
+{
+"t": "Uneven Skin Tone - Even Pigment Perfector",
+"u": "https://skinsociety.me/products/sensitive-protect-sun-cream-spf50-pack-of-2-eucerin",
+"p": 117.77,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/updatedphoto_83e5407c-2900-4309-b6f1-2118b1efaea5.png?v=1793621913&width=400",
+"type": "Dermocosmetics",
+"tags": [
+"6085011013359",
+"6085011013359-32678370508893",
+"Brand_Eucerin",
+"Category_Skin Care",
+"Dermocosmetics",
+"Face",
+"Gift Ideas",
+"Gift Sets"
+],
+"in": true
+},
+{
+"t": "Wet Wipes Make-Up Remover - I Love My Skin For Eyes And Face With Thermal Water And Sea Minerals - Pack of 20",
+"u": "https://skinsociety.me/products/wet-wipes-make-up-remover-i-love-my-skin-for-eyes-and-face-with-thermal-water-and-sea-minerals-pack-of-20",
+"p": 2.5,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/revuele-wet-wipes-make-up-remover-i-love-my-skin-for-eyes-and-face-with-thermal-water-and-sea-minerals-pack-of-20-skin-society-shop-address-country.jpg?v=1686492806&width=400",
+"type": "Casual",
+"tags": [
+"2025 JAN Flash Sale",
+"2025 JAN Flash Sale Excluded",
+"3800225901253",
+"3800225901253-33005210632285",
+"Brand_Revuele",
+"Casual",
+"Casual Skin Care",
+"Category_Skin Care"
+],
+"in": true
+},
+{
+"t": "Ultra Doux Avocado Oil & Shea butter Conditioner",
+"u": "https://skinsociety.me/products/ultra-doux-avocado-oil-shea-butter-conditioner",
+"p": 3.19,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/AVOCADOCONDITIONER200ML.jpg?v=1728629492&width=400",
+"type": "Casual",
+"tags": [
+"2025 JAN Flash Sale",
+"3610340584398",
+"3610340584398-39276287852637",
+"avocado",
+"Brand_Garnier",
+"Casual",
+"Casual Hair Care",
+"Category_Hair Expert"
+],
+"in": false
+},
+{
+"t": "Avène Intensive Resculpting Night Cream - Gift",
+"u": "https://skinsociety.me/products/avene-intensive-resculpting-night-cream-gift",
+"p": 0.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/AveneDermAbsolunightcreamduo.png?v=1793617744&width=400",
+"type": "POSM",
+"tags": [
+"Category_POSM",
+"No-Sync",
+"POSM",
+"SEARCH_IGNORE"
+],
+"in": true
+},
+{
+"t": "Klorane Colored Head Massager - Gift",
+"u": "https://skinsociety.me/products/klorane-colored-head-massager-gift",
+"p": 0.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/Pink_Klorane_scalp_massage_brush.png?v=1793616028&width=400",
+"type": "Dermocosmetics",
+"tags": [
+"Category_POSM",
+"No-Sync",
+"POSM",
+"SEARCH_IGNORE"
+],
+"in": true
+},
+{
+"t": "Avene Cicalfate+ Reparing Prootective Cream - Gift",
+"u": "https://skinsociety.me/products/avene-cicalfate-reparing-prootective-cream-gift",
+"p": 0.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/AveneCicalfate_sampletubeandcarton.png?v=1793614246&width=400",
+"type": "POSM",
+"tags": [
+"Bundle",
+"Bundle & Save",
+"Category_POSM",
+"No-Sync",
+"POSM",
+"SEARCH_IGNORE"
+],
+"in": true
+},
+{
+"t": "Lash Sensational Sky High Mascara & Instant Age Rewind Eraser Dark circles treatment, Multi-Use Concealer & Micellar Water Oil-Infused Facial Cleanser and Waterproof Makeup Remover",
+"u": "https://skinsociety.me/products/lash-sensational-sky-high-mascara-instant-age-rewind-eraser-dark-circles-treatment-multi-use-concealer-micellar-water-oil-infused-facial-cleanser-and-waterproof-makeup-remover",
+"p": 22.7,
+"c": 30.26,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/ARTBOARDS12_2x-100_17641f7a-61d7-4afe-a0b3-f096a545ba0b.jpg?v=1793612207&width=400",
+"type": "Casual",
+"tags": [
+"beautyblack",
+"Bundle",
+"Casual",
+"Casual Make Up",
+"Casual Skin Care",
+"No-Sync",
+"Product Type_Value Deals",
+"Sub Category_Value Deals"
+],
+"in": true
+},
+{
+"t": "Garnier Color Naturals Towel Turbans - Gift",
+"u": "https://skinsociety.me/products/garnier-color-naturals-towel-turbans-gift",
+"p": 0.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/GRColorNaturalsTowelTurbansBF.jpg?v=1793611611&width=400",
+"type": "POSM",
+"tags": [
+"Category_POSM",
+"No-Sync",
+"POSM",
+"SEARCH_IGNORE"
+],
+"in": true
+},
+{
+"t": "Garnier Olia Duo",
+"u": "https://skinsociety.me/products/garnier-olia-duo",
+"p": 8.18,
+"c": 10.06,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/ARTBOARDS10_2x-100.jpg?v=1793611331&width=400",
+"type": "Casual",
+"tags": [
+"beautyblack",
+"BF25",
+"Brand_Garnier",
+"BTS26",
+"Bundle",
+"Category_Hair Expert",
+"earth26",
+"gar25"
+],
+"in": true
+},
+{
+"t": "Good To Go - Fast Dry & Shine Top Coat Duo",
+"u": "https://skinsociety.me/products/good-to-go-fast-dry-shine-top-coat-duo-1",
+"p": 13.63,
+"c": 17.04,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/WHITEBG5copy_2x-100.jpg?v=1793610938&width=400",
+"type": "Casual",
+"tags": [
+"Base & Top Coats",
+"beautyblack",
+"Brand_Essie",
+"Bundle",
+"Casual",
+"Nails",
+"No-Sync",
+"Product Type_Base & Top Coats"
+],
+"in": true
+},
+{
+"t": "Full Hydra Energetic Routine",
+"u": "https://skinsociety.me/products/full-hydra-energetic-routine-1",
+"p": 15.32,
+"c": 21.88,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/ARTBOARDS15_2x-100.jpg?v=1793610760&width=400",
+"type": "Casual",
+"tags": [
+"beautyblack",
+"Bundle",
+"holiday25",
+"Men's Corner",
+"No-Sync",
+"oapr26",
+"Product Type_Value Deals",
+"Sub Category_Value Deals"
+],
+"in": true
+},
+{
+"t": "Full Barber Club Routine",
+"u": "https://skinsociety.me/products/full-barber-club-routine",
+"p": 17.06,
+"c": 24.37,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/ARTBOARDS12_2x-100.jpg?v=1793610441&width=400",
+"type": "Casual",
+"tags": [
+"beautyblack",
+"BF25",
+"Brand_L'Oréal Paris",
+"Bundle",
+"Casual",
+"holiday25",
+"menbf25",
+"No-Sync"
+],
+"in": true
+},
+{
+"t": "The Full Barber Club Routine",
+"u": "https://skinsociety.me/products/the-full-barber-club-routine",
+"p": 16.97,
+"c": 24.24,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/ARTBOARDS11_2x-100.jpg?v=1793610137&width=400",
+"type": "Casual",
+"tags": [
+"beautyblack",
+"Brand_L'Oréal Paris",
+"Bundle",
+"Casual",
+"Casual Skin Care",
+"holiday25",
+"Men's Corner",
+"No-Sync"
+],
+"in": true
+},
+{
+"t": "Men Comb",
+"u": "https://skinsociety.me/products/men-combo",
+"p": 0.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/L_OrealParisMenExpertwoodencomb.png?v=1793610102&width=400",
+"type": "POSM",
+"tags": [
+"2025 JAN Flash Sale",
+"2050010286105",
+"Category_POSM",
+"CPD Summer Ownable Moment",
+"Hidden Recommendation",
+"holiday255",
+"holidaycpd",
+"No-Sync"
+],
+"in": true
+},
+{
+"t": "Super UV Invisible Air Mist Face & Body Sunscreen & Garnier Skin Active Fast Bright Vitamin C + Niacinamide 30x Brightening Booster Day Serum",
+"u": "https://skinsociety.me/products/super-uv-invisible-air-mist-face-body-sunscreen-garnier-skin-active-fast-bright-vitamin-c-niacinamide-30x-brightening-booster-day-serum",
+"p": 16.52,
+"c": 22.02,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/OTHERS35_2x-100_1.jpg?v=1793609609&width=400",
+"type": "Casual",
+"tags": [
+"beautyblack",
+"Brand_Garnier",
+"Bundle",
+"Casual Skin Care",
+"Category_ Skin Care",
+"Category_Skin Care",
+"No-Sync",
+"Product Type_Value Deals"
+],
+"in": true
+},
+{
+"t": "Skin Active Fast Bright Day Serum Duo",
+"u": "https://skinsociety.me/products/skin-active-fast-bright-day-serum-duo",
+"p": 17.47,
+"c": 21.84,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/OTHERS32_2x-100_1.jpg?v=1793609407&width=400",
+"type": "Casual",
+"tags": [
+"beautyblack",
+"Bundle",
+"Casual Skin Care",
+"Category_Skin Care",
+"Face Serums",
+"holiday25",
+"Ingredient_Vitamin C",
+"Item Type_Face Serums"
+],
+"in": true
+},
+{
+"t": "Skin Active Fast Clear Invisible Pimple Patch & Fast Clear Anti-Acne Daily Exfoliating Wash & Garnier Fast Serum & Garnier Fast Clear Micellar Water Offer",
+"u": "https://skinsociety.me/products/skin-active-fast-clear-invisible-pimple-patch-fast-clear-anti-acne-daily-exfoliating-wash-garnier-fast-serum-garnier-fast-clear-micellar-water-offer",
+"p": 24.18,
+"c": 34.53,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/OTHERS33_2x-100_1.jpg?v=1793608005&width=400",
+"type": "Casual",
+"tags": [
+"beautyblack",
+"Bundle",
+"Casual Skin Care",
+"Category_ Skin Care",
+"Category_Skin Care",
+"No-Sync",
+"Product Type_Value Deals",
+"Skin Care"
+],
+"in": true
+},
+{
+"t": "Garnier Micellar Water Pink for Sensitive Skin Trio",
+"u": "https://skinsociety.me/products/garnier-micellar-water-pink-for-sensitive-skin-trio",
+"p": 12.4,
+"c": 16.54,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/OTHERS31_2x-100_1.jpg?v=1793606851&width=400",
+"type": "Casual",
+"tags": [
+"beautyblack",
+"Bundle",
+"Casual Skin Care",
+"Category_ Skin Care",
+"Category_Skin Care",
+"No-Sync",
+"Product Type_Value Deals",
+"Skin Care"
+],
+"in": true
+},
+{
+"t": "Ultra Doux Avocado Routine",
+"u": "https://skinsociety.me/products/ultra-doux-avocado-routine",
+"p": 13.94,
+"c": 18.58,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/OTHERS39_2x-100_1.jpg?v=1793605243&width=400",
+"type": "Casual",
+"tags": [
+"beautyblack",
+"Brand_Garnier",
+"Bundle",
+"Casual",
+"Casual Hair Care",
+"Category_Hair Expert",
+"Conditioner",
+"Hair Care"
+],
+"in": false
+},
+{
+"t": "Garnier Vitamin C Fresh & Bright Cream & Vitamin C Micellar Water  & Fast Bright Serum Cleanser & Garnier Skin Active Fast Bright Vitamin C + Niacinamide 30x Brightening Booster Day Serum",
+"u": "https://skinsociety.me/products/garnier-vitamin-c-fresh-bright-cream-vitamin-c-micellar-water-fast-bright-serum-cleanser-garnier-skin-active-fast-bright-vitamin-c-niacinamide-30x-brightening-booster-day-serum",
+"p": 25.15,
+"c": 33.54,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/OTHERS29_2x-100_1.jpg?v=1793606088&width=400",
+"type": "Casual",
+"tags": [
+"beautyblack",
+"Bundle",
+"Casual Skin Care",
+"Category_ Skin Care",
+"Category_Skin Care",
+"No-Sync",
+"Product Type_Value Deals",
+"Skin Care"
+],
+"in": true
+},
+{
+"t": "Garnier Pouch Treat Your Skin Right - Gift",
+"u": "https://skinsociety.me/products/garnier-pouch-treat-your-skin-right-gift",
+"p": 0.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/GARSASkinRightWhitePouchesBF.jpg?v=1793604508&width=400",
+"type": "POSM",
+"tags": [
+"Category_POSM",
+"No-Sync",
+"SEARCH_IGNORE"
+],
+"in": true
+},
+{
+"t": "Ultra Doux Honey Treasures - Shampoo, Conditioner, Leave In & Serum for Damaged Hair",
+"u": "https://skinsociety.me/products/ultra-doux-honey-treasures-shampoo-conditioner-leave-in-serum-for-damaged-hair",
+"p": 14.6,
+"c": 19.47,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/OTHERS40_2x-100_1.jpg?v=1793605558&width=400",
+"type": "Casual",
+"tags": [
+"beautyblack",
+"Bundle",
+"Category_Hair Expert",
+"Hair Care",
+"Hair Expert",
+"No-Sync",
+"Product Type_Value Deals",
+"Sub Category_Value Deals"
+],
+"in": true
+},
+{
+"t": "Rice Water Full Routine",
+"u": "https://skinsociety.me/products/rice-water-full-routine",
+"p": 15.18,
+"c": 20.24,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/OTHERS38_2x-100_1.jpg?v=1793604858&width=400",
+"type": "Casual",
+"tags": [
+"beautyblack",
+"Brand_Garnier",
+"Bundle",
+"Category_Hair Expert",
+"Hair Expert",
+"No-Sync",
+"Product Type_Value Deals",
+"SU26"
+],
+"in": true
+},
+{
+"t": "Grape Moisture - Hydrating Regenerative Shampoo, Conditioner & Mask for Dehydrated Hair",
+"u": "https://skinsociety.me/products/grape-moisture-hydrating-regenerative-shampoo-conditioner-mask-for-dehydrated-hair",
+"p": 12.23,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/OTHERS37_2x-100_1.jpg?v=1793604232&width=400",
+"type": "Casual",
+"tags": [
+"beautyblack",
+"Bundle",
+"Casual",
+"Casual Hair Care",
+"Category_Hair Expert",
+"Hair Expert",
+"No-Sync",
+"Product Type_Value Deals"
+],
+"in": true
+},
+{
+"t": "Garnier Ultra Doux Floral String Bags - Gift",
+"u": "https://skinsociety.me/products/garnier-ultra-doux-floral-string-bags-gift",
+"p": 0.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/Floraldrawstringpouchonwhite.png?v=1793603693&width=400",
+"type": "POSM",
+"tags": [
+"Category_POSM",
+"No-Sync",
+"POSM",
+"SEARCH_IGNORE"
+],
+"in": true
+},
+{
+"t": "Body Coverage Perfector - Lasting Effect",
+"u": "https://skinsociety.me/products/body-coverage-perfector-lasting-effect",
+"p": 40.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/updated_photo_dba58f90-9a2f-4bab-bcac-97cf629597da.png?v=1793602397&width=400",
+"type": "Casual",
+"tags": [
+"Body Make Up",
+"Casual",
+"Casual Skin Care",
+"Category_ Skin Care",
+"Category_Skin Care",
+"Loyalty Program",
+"Make Up",
+"new arrivals"
+],
+"in": true
+},
+{
 "t": "Chamomile Heel Exfoliating Mask",
 "u": "https://skinsociety.me/products/chamomile-heel-exfoliating-mask",
 "p": 7.0,
@@ -540,12 +1426,12 @@
 "in": true
 },
 {
-"t": "The Spooky Pumpkin",
+"t": "L'Oréal Paris BF Headband – Gift",
 "u": "https://skinsociety.me/products/headband-2",
 "p": 0.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/TheSpookyPumpkin.jpg?v=1793284311&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/76e6ff7d-3c0c-4338-94ef-d87db593d4ef.png?v=1789117374&width=400",
 "type": "POSM",
 "tags": [
 "2025 JAN Flash Sale",
@@ -576,46 +1462,6 @@
 "Product Type_Value Deals",
 "Sub Category_Value Deals",
 "SubCategory_Value Deals"
-],
-"in": false
-},
-{
-"t": "Garnier Vitamin C Fresh & Bright Cream with Hyaluron Fresh & Plump Cream Offer",
-"u": "https://skinsociety.me/products/garnier-vitamin-c-fresh-bright-cream-offer",
-"p": 19.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/updatedphoto_646134fc-2cfa-4096-9213-dc2a00ea260b.png?v=1793281698&width=400",
-"type": "Casual",
-"tags": [
-"Bundle",
-"Casual",
-"Casual Skin Care",
-"Category_ Skin Care",
-"Category_Skin Care",
-"Day & Night Care",
-"Item Type_Day & Night Care",
-"Moisturizers"
-],
-"in": false
-},
-{
-"t": "Garnier Salicylic Fresh & Matte Cream with Vitamin C Fresh & Bright Cream Offer",
-"u": "https://skinsociety.me/products/garnier-salicylic-fresh-matte-cream-offer",
-"p": 19.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/updatedphoto_10e76920-1df9-4c91-a5bd-95b15c0c0e67.png?v=1793281175&width=400",
-"type": "Casual",
-"tags": [
-"Bundle",
-"Casual",
-"Casual Skin Care",
-"Category_ Skin Care",
-"Category_Skin Care",
-"No-Sync",
-"Product Type_Value Deals",
-"Skin Care"
 ],
 "in": false
 },
@@ -842,8 +1688,8 @@
 {
 "t": "Quickliner For Eyes Intense Eyeliner",
 "u": "https://skinsociety.me/products/quickliner-for-eyes-intense-eyeliner",
-"p": 40.0,
-"c": null,
+"p": 28.0,
+"c": 40.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/Screenshot2026-10-26092714.png?v=1792999664&width=400",
 "type": "Luxury",
@@ -852,18 +1698,18 @@
 "Category_Make Up",
 "Eyeliners",
 "Eyes",
-"Loyalty Program",
 "Luxury",
 "Luxury Make Up",
-"Make Up"
+"Make Up",
+"new arrivals"
 ],
 "in": true
 },
 {
 "t": "UV Solutions Brightening+Tinted SPF50 Sunscreen",
 "u": "https://skinsociety.me/products/uv-solutions-brightening-tinted-spf50-sunscreen",
-"p": 49.0,
-"c": null,
+"p": 34.3,
+"c": 49.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/updatedphoto_54da9ec9-76fa-43e9-9a8d-8c877301d9dc.png?v=1792998694&width=400",
 "type": "Luxury",
@@ -871,11 +1717,11 @@
 "Brand_Clinique",
 "Category_Skin Care",
 "Item Type_Sunscreens",
-"Loyalty Program",
 "Luxury",
 "Luxury Skin Care",
 "Mineral Sunscreen",
-"new arrivals"
+"new arrivals",
+"No-Sync"
 ],
 "in": true
 },
@@ -902,8 +1748,8 @@
 {
 "t": "Fresh Pressed Renewing Powder Cleanser with Pure Vitamin C",
 "u": "https://skinsociety.me/products/fresh-pressed-renewing-powder-cleanser-with-pure-vitamin-c",
-"p": 62.0,
-"c": null,
+"p": 43.4,
+"c": 62.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/020714838461.jpg?v=1693815164&width=400",
 "type": "Luxury",
@@ -982,8 +1828,8 @@
 {
 "t": "Quickliner for Brows",
 "u": "https://skinsociety.me/products/quickliner-for-brows",
-"p": 36.0,
-"c": null,
+"p": 25.2,
+"c": 36.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/clinique-quickliner-for-brows-skin-society-shop-address-country-1.jpg?v=1686500596&width=400",
 "type": "Luxury",
@@ -1042,8 +1888,8 @@
 {
 "t": "Superdefense™ SPF 25 Fatigue + 1st Signs Of Age Multi-Correcting Cream - Combination Oily to Oily Skin",
 "u": "https://skinsociety.me/products/superdefense-spf-25-fatigue-1st-signs-of-age-multi-correcting-cream-combination-oily-to-oily-skin",
-"p": 91.0,
-"c": null,
+"p": 63.7,
+"c": 91.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/clinique-superdefensetm-spf-25-fatigue-1st-signs-of-age-multi-correcting-cream-combination-oily-to-oily-skin-skin-society-shop-address-country.jpg?v=1686493183&width=400",
 "type": "Luxury",
@@ -1062,8 +1908,8 @@
 {
 "t": "Clarifying Lotion 1 - Twice a Day Exfoliator - Very Dry to Dry Skin",
 "u": "https://skinsociety.me/products/clarifying-lotion-1-twice-a-day-exfoliator-very-dry-to-dry-skin-clinique",
-"p": 64.0,
-"c": null,
+"p": 44.8,
+"c": 64.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/clinique-clarifying-lotion-1-twice-a-day-exfoliator-very-dry-to-dry-skin-skin-society-shop-address-country-1.jpg?v=1686486518&width=400",
 "type": "Luxury",
@@ -1177,7 +2023,7 @@
 "Loyalty Program",
 "Moisturizers"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Haze Mini Eyeshadow Palette",
@@ -1257,13 +2103,13 @@
 "Luxury",
 "Luxury Fragrances"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Latte Corpo Happy Box",
 "u": "https://skinsociety.me/products/latte-corpo-happy-box",
-"p": 21.0,
-"c": null,
+"p": 14.7,
+"c": 21.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/8011607393459-1.jpg?v=1739542534&width=400",
 "type": "Casual",
@@ -1282,8 +2128,8 @@
 {
 "t": "Latte Corpo Let'S Bloom",
 "u": "https://skinsociety.me/products/latte-corpo-lets-bloom",
-"p": 21.0,
-"c": null,
+"p": 14.7,
+"c": 21.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/8011607393824-1.jpg?v=1739542531&width=400",
 "type": "Casual",
@@ -1302,8 +2148,8 @@
 {
 "t": "Let's Bloom Body Milk",
 "u": "https://skinsociety.me/products/lets-bloom-body-milk",
-"p": 18.0,
-"c": null,
+"p": 12.6,
+"c": 18.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/8011607379439.jpg?v=1703679502&width=400",
 "type": "Casual",
@@ -1322,8 +2168,8 @@
 {
 "t": "Palette M State Of Mind",
 "u": "https://skinsociety.me/products/palette-m-state-of-mind",
-"p": 34.0,
-"c": null,
+"p": 23.8,
+"c": 34.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/8011607371433.jpg?v=1696918454&width=400",
 "type": "Casual",
@@ -1494,8 +2340,8 @@
 {
 "t": "Skin Affair Cushion Foundation",
 "u": "https://skinsociety.me/products/skin-affair-cushion-foundation",
-"p": 74.89,
-"c": 0.0,
+"p": 52.42,
+"c": 74.89,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/updated_photo_70430a5d-bea8-4862-8bb3-15a519ed134d.png?v=1792482373&width=400",
 "type": "Luxury",
@@ -1503,11 +2349,11 @@
 "Brand_Yves Saint Laurent",
 "Category_Make Up",
 "Foundation",
-"Loyalty Program",
 "Luxury",
 "Luxury Make Up",
 "Make Up",
-"new arrivals"
+"new arrivals",
+"No-Sync"
 ],
 "in": true
 },
@@ -1694,8 +2540,8 @@
 {
 "t": "Teint Idole Ultra Wear Foundation - 24H Wear & Comfort Retouch-Free SPF15",
 "u": "https://skinsociety.me/products/teint-idole-ultra-wear-foundation-24h-wear-comfort-retouch-free-spf15",
-"p": 62.85,
-"c": 0.0,
+"p": 44.0,
+"c": 62.85,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/lancome-teint-idole-ultra-wear-foundation-24h-wear-and-comfort-retouch-free-spf15-skin-society-shop-address-country-1.jpg?v=1686484203&width=400",
 "type": "Luxury",
@@ -1865,8 +2711,8 @@
 {
 "t": "Professional Brushes Eyeliner And Eyebrow Brush 001",
 "u": "https://skinsociety.me/products/professional-brushes-eyeliner-and-eyebrow-brush-001",
-"p": 38.85,
-"c": null,
+"p": 27.2,
+"c": 38.85,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/8011607189038.jpg?v=1739871670&width=400",
 "type": "Casual",
@@ -1885,8 +2731,8 @@
 {
 "t": "Skinny Liner",
 "u": "https://skinsociety.me/products/skinny-liner",
-"p": 20.0,
-"c": null,
+"p": 14.0,
+"c": 20.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/products/8011607372928.jpg?v=1688038458&width=400",
 "type": "Casual",
@@ -2143,12 +2989,12 @@
 "in": true
 },
 {
-"t": "The Witch's Spell",
+"t": "Pupa Milano Beauty Pouch – Gift",
 "u": "https://skinsociety.me/products/pupa-milano-beauty-pouch-gift",
 "p": 0.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/TheWitch_sSpell.jpg?v=1793284725&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3Z0222300_8011607414864_pochette_BEAUTY_17122025164012.png?v=1790675634&width=400",
 "type": "POSM",
 "tags": [
 "Category_POSM",
@@ -2313,27 +3159,7 @@
 "POSM",
 "SEARCH_IGNORE"
 ],
-"in": true
-},
-{
-"t": "Fast Bright Serum Cleanser & Skin Active Fast Bright Day Serum & Garnier Fast Bright Overnight Serum  & Vitamin C Fresh & Bright Cream Offer",
-"u": "https://skinsociety.me/products/fast-bright-serum-cleanser-skin-active-fast-bright-day-serum-garnier-fast-bright-overnight-serum-vitamin-c-fresh-bright-cream-offer",
-"p": 33.03,
-"c": 41.29,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/Artboard6copy_2x-100.jpg?v=1791978909&width=400",
-"type": "Casual",
-"tags": [
-"Bundle",
-"Casual",
-"Casual Skin Care",
-"No-Sync",
-"Product Type_Value Deals",
-"science26",
-"Sub Category_Value Deals",
-"SubCategory_Value Deals"
-],
-"in": true
+"in": false
 },
 {
 "t": "Fast Bright Gel Wash & Skin Active Day Serum & Skinactive Super UV Cooling Water Gel SPF50 Trio",
@@ -2531,8 +3357,8 @@
 {
 "t": "DermAbsolu Intensive Reshaping Night Cream",
 "u": "https://skinsociety.me/products/dermabsolu-intensive-reshaping-night-cream",
-"p": 30.25,
-"c": 46.0,
+"p": 46.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/updatedphoto_0800a888-0688-43a0-92a6-6d738f0b88a5.png?v=1791808255&width=400",
 "type": "Dermocosmetics",
@@ -2551,8 +3377,8 @@
 {
 "t": "Juicy Tubes Lip Gloss",
 "u": "https://skinsociety.me/products/juicy-tubes-lip-gloss",
-"p": 32.92,
-"c": 0.0,
+"p": 23.04,
+"c": 32.92,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3605972352163.jpg?v=1763718046&width=400",
 "type": "Luxury",
@@ -2561,18 +3387,18 @@
 "Category_Make Up",
 "Lip Gloss",
 "Lips",
-"Loyalty Program",
 "Luxury",
 "Luxury Make Up",
-"Make Up"
+"Make Up",
+"new arrivals"
 ],
 "in": true
 },
 {
 "t": "Genefique Ultimate Holiday Set",
 "u": "https://skinsociety.me/products/genefique-ultimate-holiday-set",
-"p": 136.31,
-"c": 0.0,
+"p": 95.42,
+"c": 136.31,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3614274654332.jpg?v=1765975019&width=400",
 "type": "Luxury",
@@ -2584,15 +3410,15 @@
 "Gift Sets",
 "Item Type_Day & Night Care",
 "Item Type_Face Serums",
-"Loyalty Program"
+"Luxury"
 ],
 "in": true
 },
 {
 "t": "Peach’N Roses – Eau De Parfum Fruitée",
 "u": "https://skinsociety.me/products/peach-n-roses-eau-de-parfum-fruitee",
-"p": 188.87,
-"c": 0.0,
+"p": 132.21,
+"c": 188.87,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/Lancome_-_Idole_Peach_N_Roses_50ml.webp?v=1778498741&width=400",
 "type": "Luxury",
@@ -2602,9 +3428,9 @@
 "Eau De Parfum",
 "For Her",
 "Fragrances",
-"Loyalty Program",
 "Luxury",
-"Luxury Fragrances"
+"Luxury Fragrances",
+"new arrivals"
 ],
 "in": true
 },
@@ -2831,8 +3657,8 @@
 {
 "t": "Make My Day Pocket",
 "u": "https://skinsociety.me/products/make-my-day-pocket",
-"p": 41.0,
-"c": null,
+"p": 28.7,
+"c": 41.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/updatedphoto_711c7b21-c125-4a50-b4c1-eb939b403f11.png?v=1791798020&width=400",
 "type": "Casual",
@@ -2843,16 +3669,16 @@
 "Category_Make Up",
 "Eyes",
 "Eyeshadow",
-"Loyalty Program",
-"Make Up"
+"Make Up",
+"new arrivals"
 ],
 "in": true
 },
 {
 "t": "Glitz' n Glam Scented nail polish",
 "u": "https://skinsociety.me/products/glitz-n-glam-scented-nail-polish",
-"p": 17.0,
-"c": null,
+"p": 11.9,
+"c": 17.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/updated_photo.png?v=1791797239&width=400",
 "type": "Casual",
@@ -2860,19 +3686,19 @@
 "Brand_Pupa Milano",
 "Casual",
 "Casual Make Up",
-"Loyalty Program",
 "Nail Polish",
 "Nails",
 "new arrivals",
-"No-Sync"
+"No-Sync",
+"OMG"
 ],
 "in": true
 },
 {
 "t": "High Precision Concealer",
 "u": "https://skinsociety.me/products/high-precision-concealer",
-"p": 28.0,
-"c": null,
+"p": 19.6,
+"c": 28.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/updatedphoto_977a33bb-e854-4b3c-be6d-2c08e5688d71.png?v=1791796622&width=400",
 "type": "Casual",
@@ -2883,16 +3709,16 @@
 "Category_Make Up",
 "Concealer",
 "Eyes",
-"Loyalty Program",
-"Make Up"
+"Make Up",
+"new arrivals"
 ],
 "in": true
 },
 {
 "t": "Glitz' n Glam PennyBlack Fluid Lipstick",
 "u": "https://skinsociety.me/products/glitz-n-glam-fluid-lipstick",
-"p": 26.0,
-"c": null,
+"p": 18.2,
+"c": 26.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/updatedphoto_635ae555-3fed-42b2-9511-2c6c78e2244d.png?v=1791796158&width=400",
 "type": "Casual",
@@ -2903,16 +3729,16 @@
 "Category_Make Up",
 "Lips",
 "Lipstick",
-"Loyalty Program",
-"Make Up"
+"Make Up",
+"new arrivals"
 ],
 "in": true
 },
 {
 "t": "Glitz' n Glam Penny Black Illumonators Hightighter",
 "u": "https://skinsociety.me/products/glitz-n-glam-illumonators-hightighter",
-"p": 33.0,
-"c": null,
+"p": 23.1,
+"c": 33.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/updatedphoto_77384189-7dfc-46ca-9a2a-12c35319bf73.png?v=1791795756&width=400",
 "type": "Casual",
@@ -2924,15 +3750,15 @@
 "Face",
 "highlighter",
 "Highlighter & Luminizer",
-"Loyalty Program"
+"Make Up"
 ],
 "in": true
 },
 {
 "t": "Glitz' n Glam PennyBlack Palette",
 "u": "https://skinsociety.me/products/glitz-n-glam-palette",
-"p": 36.0,
-"c": null,
+"p": 25.2,
+"c": 36.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/collection-noel-glitz-n-glam-6-colour-eyeshadow-palette-with-multiple-finishes.webp?v=1791795504&width=400",
 "type": "Casual",
@@ -2942,9 +3768,9 @@
 "Casual Make Up",
 "Category_Make Up",
 "Eyeshadow",
-"Loyalty Program",
 "Make Up",
-"new arrivals"
+"new arrivals",
+"No-Sync"
 ],
 "in": true
 },
@@ -3167,8 +3993,8 @@
 {
 "t": "Vamp! Mascara Lash Extender - Mini",
 "u": "https://skinsociety.me/products/vamp-mascara-lash-extender-mini",
-"p": 9.0,
-"c": null,
+"p": 6.3,
+"c": 9.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/7thHeavenHydrogelSoothingUnderEyeMask_4b335ff3-e6d9-46a0-b0cf-7666baa21cb4.png?v=1791551564&width=400",
 "type": "Casual",
@@ -3179,8 +4005,8 @@
 "Color_Black Mascara",
 "Eyes",
 "Item Type_Mascara",
-"Loyalty Program",
-"Make Up"
+"Make Up",
+"Mascara"
 ],
 "in": true
 },
@@ -3227,8 +4053,8 @@
 {
 "t": "Make My Day Plus",
 "u": "https://skinsociety.me/products/make-my-day-plus",
-"p": 59.0,
-"c": null,
+"p": 41.3,
+"c": 59.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/010297A003_8011607410521_MEDIUM_-_BRIGHT_ROSE_APERTA_big_23072025111520.webp?v=1791542642&width=400",
 "type": "Casual",
@@ -3238,17 +4064,17 @@
 "Casual Make Up",
 "Eyeshadow",
 "Gift Sets",
-"Loyalty Program",
 "new arrivals",
-"No-Sync"
+"No-Sync",
+"OMG"
 ],
 "in": true
 },
 {
 "t": "Candy Club Creamy Powder Blush",
 "u": "https://skinsociety.me/products/candy-club-creamy-powder-blush",
-"p": 31.0,
-"c": null,
+"p": 21.7,
+"c": 31.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/7thHeavenHydrogelSoothingUnderEyeMask_1_929da773-691f-4c83-80ba-2be088f7bca4.png?v=1791540381&width=400",
 "type": "Casual",
@@ -3259,16 +4085,16 @@
 "Casual Make Up",
 "Category_Make Up",
 "Face",
-"Loyalty Program",
-"Make Up"
+"Make Up",
+"new arrivals"
 ],
 "in": true
 },
 {
 "t": "Shock Plump Bling Bling",
 "u": "https://skinsociety.me/products/shock-plump-bling-bling",
-"p": 25.0,
-"c": null,
+"p": 17.5,
+"c": 25.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/updatedphoto_c14739ec-e34d-4ee6-85fb-e5ae4dd33cfb.png?v=1791788808&width=400",
 "type": "Casual",
@@ -3279,16 +4105,16 @@
 "Lip Gloss",
 "Lip Plumper",
 "Lips",
-"Loyalty Program",
-"new arrivals"
+"new arrivals",
+"No-Sync"
 ],
 "in": true
 },
 {
 "t": "Happy Charms Dream Pink",
 "u": "https://skinsociety.me/products/happy-charms-dream-pink",
-"p": 27.0,
-"c": null,
+"p": 18.9,
+"c": 27.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/ChatGPTImageOct9_2026_12_35_36PM.png?v=1791538603&width=400",
 "type": "Casual",
@@ -3299,8 +4125,8 @@
 "Casual Skin Care",
 "Lip Balm & Treatments",
 "Lip Care",
-"Loyalty Program",
-"new arrivals"
+"new arrivals",
+"No-Sync"
 ],
 "in": true
 },
@@ -3761,7 +4587,7 @@
 "Loyalty Program",
 "Moisturizers"
 ],
-"in": true
+"in": false
 },
 {
 "t": "PDRN Booster Shot Renewing And Boosting Serum",
@@ -4206,8 +5032,8 @@
 {
 "t": "Chrome United Eau De Toilette",
 "u": "https://skinsociety.me/products/chrome-united-eau-de-toilette",
-"p": 70.8,
-"c": 0.0,
+"p": 46.02,
+"c": 70.8,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/azzaro-chrome-united-eau-de-toilette-skin-society-shop-address-country-1.jpg?v=1686499106&width=400",
 "type": "Luxury",
@@ -4226,8 +5052,8 @@
 {
 "t": "Amor Amor - Eau de Toilette",
 "u": "https://skinsociety.me/products/amor-amor-eau-de-toilette",
-"p": 56.51,
-"c": 0.0,
+"p": 36.73,
+"c": 56.51,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/cacharel-amor-amor-eau-de-toilette-skin-society-shop-address-country-1.jpg?v=1686483748&width=400",
 "type": "Luxury",
@@ -4736,19 +5562,6 @@
 "in": true
 },
 {
-"t": "Anniversary Mystery Box",
-"u": "https://skinsociety.me/products/anniversary-mystery-box",
-"p": 7.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/mystery_box_jpg.jpg?v=1791382564&width=400",
-"type": "Casual",
-"tags": [
-"No-Sync"
-],
-"in": false
-},
-{
 "t": "Kérastase Genesis Anti Hair-Fall Fortifying Serum - Gift",
 "u": "https://skinsociety.me/products/kerastase-genesis-anti-hair-fall-fortifying-serum-gift",
 "p": 0.0,
@@ -4762,7 +5575,7 @@
 "POSM",
 "SEARCH_IGNORE"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Kérastase Genesis Bain Nutri-Fortifiant Anti Hair-Fall Fortifying Shampoo - Gift",
@@ -5351,7 +6164,7 @@
 "new arrivals",
 "No-Sync"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Klorane Intense Growth Accelerator Serum with Adenosine",
@@ -6349,26 +7162,6 @@
 "in": true
 },
 {
-"t": "Good To Go - Fast Dry & Shine Top Coat Duo",
-"u": "https://skinsociety.me/products/good-to-go-fast-dry-shine-top-coat-duo-1",
-"p": 12.78,
-"c": 17.04,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/Artboard9_3x-100.jpg?v=1790152372&width=400",
-"type": "Casual",
-"tags": [
-"Base & Top Coats",
-"Brand_Essie",
-"Bundle",
-"Casual",
-"Nails",
-"No-Sync",
-"Product Type_Base & Top Coats",
-"Product Type_Value Deals"
-],
-"in": true
-},
-{
 "t": "Back To Iceland Cleansing Foam",
 "u": "https://skinsociety.me/products/back-to-iceland-cleansing-foam",
 "p": 22.2,
@@ -6967,9 +7760,9 @@
 "Casual Skin Care",
 "Category_ Skin Care",
 "Category_Skin Care",
-"Loyalty Program",
-"new arrivals",
-"No-Sync"
+"Day & Night Care",
+"Item Type_Day & Night Care",
+"Loyalty Program"
 ],
 "in": true
 },
@@ -7374,26 +8167,6 @@
 "in": true
 },
 {
-"t": "Rice Water Infusion: Shampoo + Conditioner + Mask + Leave In Cream Offer",
-"u": "https://skinsociety.me/products/rice-water-infusion-shampoo-conditioner-mask-leave-in-cream-offer",
-"p": 13.09,
-"c": 16.36,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/Artboard1copy8_3x-100.jpg?v=1789629865&width=400",
-"type": "Casual",
-"tags": [
-"Brand_Garnier",
-"Bundle",
-"Casual",
-"Casual Hair Care",
-"No-Sync",
-"Product Type_Value Deals",
-"Sub Category_Value Deals",
-"SubCategory_Value Deals"
-],
-"in": true
-},
-{
 "t": "PCA Skin Hyaluronic Acid Microneedle Eye Patches",
 "u": "https://skinsociety.me/products/pca-skin-hyaluronic-acid-microneedle-eye-patches",
 "p": 116.55,
@@ -7513,8 +8286,8 @@
 {
 "t": "Men's Paradigme Le Parfum",
 "u": "https://skinsociety.me/products/mens-paradigme-le-parfum",
-"p": 195.81,
-"c": 0.0,
+"p": 137.07,
+"c": 195.81,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3614274485004.webp?v=1789395341&width=400",
 "type": "Luxury",
@@ -7524,17 +8297,17 @@
 "For Him",
 "Fragrances",
 "Le Parfum",
-"Loyalty Program",
 "Luxury",
-"Luxury Fragrances"
+"Luxury Fragrances",
+"new arrivals"
 ],
 "in": true
 },
 {
 "t": "Myslf Eau de Toilette Intense",
 "u": "https://skinsociety.me/products/myslf-eau-de-toilette-intense",
-"p": 111.32,
-"c": 0.0,
+"p": 77.92,
+"c": 111.32,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3614274479058.jpg?v=1789395121&width=400",
 "type": "Luxury",
@@ -7545,8 +8318,8 @@
 "For Him",
 "Fragrances",
 "Item Type_Eau de Toilette",
-"Loyalty Program",
-"Luxury"
+"Luxury",
+"Luxury Fragrances"
 ],
 "in": true
 },
@@ -7613,8 +8386,8 @@
 {
 "t": "Ladies Power Of You Eau de Parfum",
 "u": "https://skinsociety.me/products/ladies-power-of-you-eau-de-parfum",
-"p": 150.49,
-"c": 0.0,
+"p": 105.34,
+"c": 150.49,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3614274752106.jpg?v=1789390713&width=400",
 "type": "Luxury",
@@ -7624,9 +8397,9 @@
 "Eau De Parfum",
 "For Her",
 "Fragrances",
-"Loyalty Program",
 "Luxury",
-"Luxury Fragrances"
+"Luxury Fragrances",
+"new arrivals"
 ],
 "in": false
 },
@@ -8402,7 +9175,7 @@
 "Loyalty Program",
 "new arrivals"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Spider-Man Eau De Toilette",
@@ -9573,7 +10346,7 @@
 "Product Type_Protein Bars",
 "Protein Bars"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Cookie Protein Bar",
@@ -9784,12 +10557,12 @@
 "in": false
 },
 {
-"t": "Yves Saint Laurent Head Band - Gift",
+"t": "Yves Saint Laurent black Head Band - Gift",
 "u": "https://skinsociety.me/products/yves-saint-laurent-head-band-gift",
 "p": 0.0,
 "c": null,
 "cur": "USD",
-"img": "",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/Blackscallopedterryclothspaheadband.png?v=1793699774&width=400",
 "type": "POSM",
 "tags": [
 "Category_POSM",
@@ -10554,7 +11327,7 @@
 "Luxury",
 "Luxury Fragrances"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Coco Eau De Toilette",
@@ -11936,8 +12709,8 @@
 {
 "t": "Wonder Me Shiny Bronzer",
 "u": "https://skinsociety.me/products/wonder-me-shiny-bronzer",
-"p": 29.0,
-"c": null,
+"p": 20.3,
+"c": 29.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/8011607401284.jpg?v=1761026133&width=400",
 "type": "Casual",
@@ -12016,8 +12789,8 @@
 {
 "t": "Shine Bright Vamp! Liquid Eyeshadow",
 "u": "https://skinsociety.me/products/shine-bright-vamp-liquid-eyeshadow",
-"p": 23.0,
-"c": null,
+"p": 16.1,
+"c": 23.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/8011607387755.jpg?v=1723039387&width=400",
 "type": "Casual",
@@ -12076,8 +12849,8 @@
 {
 "t": "Wonder Me Glow",
 "u": "https://skinsociety.me/products/wonder-me-glow",
-"p": 29.0,
-"c": null,
+"p": 20.3,
+"c": 29.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/Pupa_3.png?v=1739514865&width=400",
 "type": "Casual",
@@ -12096,8 +12869,8 @@
 {
 "t": "Wonder Me Bronzer",
 "u": "https://skinsociety.me/products/wonder-me-bronzer",
-"p": 29.0,
-"c": null,
+"p": 20.3,
+"c": 29.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/8011607386758.jpg?v=1720075820&width=400",
 "type": "Casual",
@@ -12136,8 +12909,8 @@
 {
 "t": "Vamp! Liquid Eyeshadow",
 "u": "https://skinsociety.me/products/vamp-liquid-eyeshadow",
-"p": 22.0,
-"c": null,
+"p": 15.4,
+"c": 22.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/8011607383504.jpg?v=1712918086&width=400",
 "type": "Casual",
@@ -12296,8 +13069,8 @@
 {
 "t": "Made To Last Definition Lips",
 "u": "https://skinsociety.me/products/made-to-last-definition-lips",
-"p": 15.0,
-"c": null,
+"p": 10.5,
+"c": 15.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/products/8011607247301.jpg?v=1690967019&width=400",
 "type": "Casual",
@@ -12316,8 +13089,8 @@
 {
 "t": "Wonder Me Natural Sculpt",
 "u": "https://skinsociety.me/products/wonder-me-natural-sculpt",
-"p": 24.0,
-"c": null,
+"p": 16.8,
+"c": 24.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/8011607377459.jpg?v=1703667625&width=400",
 "type": "Casual",
@@ -12336,8 +13109,8 @@
 {
 "t": "Vamp! Extreme Mascara",
 "u": "https://skinsociety.me/products/vamp-extreme-mascara",
-"p": 17.49,
-"c": null,
+"p": 12.24,
+"c": 17.49,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/8011607265848.jpg?v=1696238487&width=400",
 "type": "Casual",
@@ -12356,8 +13129,8 @@
 {
 "t": "Vamp! 4 Eyeshadow Palette",
 "u": "https://skinsociety.me/products/vamp-4-eyeshadow-palette",
-"p": 24.0,
-"c": null,
+"p": 16.8,
+"c": 24.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/8011607376216.jpg?v=1698391253&width=400",
 "type": "Casual",
@@ -12376,8 +13149,8 @@
 {
 "t": "Vamp! Creamy Duo",
 "u": "https://skinsociety.me/products/vamp-creamy-duo",
-"p": 23.0,
-"c": null,
+"p": 16.1,
+"c": 23.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/8011607374182.jpg?v=1696856456&width=400",
 "type": "Casual",
@@ -12396,8 +13169,8 @@
 {
 "t": "I'm Sexy",
 "u": "https://skinsociety.me/products/im-sexy",
-"p": 20.0,
-"c": null,
+"p": 14.0,
+"c": 20.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/8011607341108.jpg?v=1696920075&width=400",
 "type": "Casual",
@@ -12416,8 +13189,8 @@
 {
 "t": "Made to Last Definition Eyes",
 "u": "https://skinsociety.me/products/made-to-last-definition-eyes",
-"p": 16.0,
-"c": null,
+"p": 11.2,
+"c": 16.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/products/8011607246694.jpg?v=1691058704&width=400",
 "type": "Casual",
@@ -12436,8 +13209,8 @@
 {
 "t": "Wonder Me Powder No Powder",
 "u": "https://skinsociety.me/products/wonder-me-powder-no-powder",
-"p": 25.0,
-"c": null,
+"p": 17.5,
+"c": 25.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/products/8011607361847.jpg?v=1690974560&width=400",
 "type": "Casual",
@@ -12456,8 +13229,8 @@
 {
 "t": "Multiplay Eye Pencil",
 "u": "https://skinsociety.me/products/multiplay-eye-pencil",
-"p": 15.0,
-"c": null,
+"p": 10.5,
+"c": 15.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/products/8011607214136.jpg?v=1690967465&width=400",
 "type": "Casual",
@@ -12516,8 +13289,8 @@
 {
 "t": "Cover Cream Concealer",
 "u": "https://skinsociety.me/products/cover-cream-concealer",
-"p": 17.0,
-"c": null,
+"p": 11.9,
+"c": 17.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/products/8011607205752.jpg?v=1688026420&width=400",
 "type": "Casual",
@@ -12536,8 +13309,8 @@
 {
 "t": "Vamp! Eyeshadow Matt",
 "u": "https://skinsociety.me/products/vamp-eyeshadow-matt",
-"p": 19.0,
-"c": null,
+"p": 13.3,
+"c": 19.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/products/8011607369164.jpg?v=1688038300&width=400",
 "type": "Casual",
@@ -12556,8 +13329,8 @@
 {
 "t": "Vamp! Eyeshadow",
 "u": "https://skinsociety.me/products/vamp-eyeshadow",
-"p": 19.0,
-"c": null,
+"p": 13.3,
+"c": 19.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/products/8011607368174.jpg?v=1688037538&width=400",
 "type": "Casual",
@@ -12576,8 +13349,8 @@
 {
 "t": "Petalips Lipstick",
 "u": "https://skinsociety.me/products/petalips-lipstick",
-"p": 16.0,
-"c": null,
+"p": 11.2,
+"c": 16.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/products/8011607347148.jpg?v=1688032332&width=400",
 "type": "Casual",
@@ -12596,8 +13369,8 @@
 {
 "t": "Wonder Me Fluid Foundation",
 "u": "https://skinsociety.me/products/wonder-me-fluid-foundation",
-"p": 28.0,
-"c": null,
+"p": 19.6,
+"c": 28.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/products/8011607347629.jpg?v=1688036720&width=400",
 "type": "Casual",
@@ -12616,8 +13389,8 @@
 {
 "t": "Made To Last Lip Duo",
 "u": "https://skinsociety.me/products/made-to-last-lip-duo",
-"p": 14.0,
-"c": null,
+"p": 9.8,
+"c": 14.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/products/8011607255634.jpg?v=1688028714&width=400",
 "type": "Casual",
@@ -13071,13 +13844,13 @@
 "Baby Cream & Lotion",
 "Baby Skin Care"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Easy Liner Eyes Eye Pencil",
 "u": "https://skinsociety.me/products/easy-liner-eyes-eye-pencil",
-"p": 8.41,
-"c": null,
+"p": 5.89,
+"c": 8.41,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/8011607240760.jpg?v=1699955460&width=400",
 "type": "Casual",
@@ -13096,8 +13869,8 @@
 {
 "t": "Extreme Matt Powder Foundation",
 "u": "https://skinsociety.me/products/extreme-matt-powder-foundation",
-"p": 26.0,
-"c": null,
+"p": 18.2,
+"c": 26.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/8011607208555.jpg?v=1699955272&width=400",
 "type": "Casual",
@@ -13116,8 +13889,8 @@
 {
 "t": "Vamp! Eyeshadow Wet & Dry",
 "u": "https://skinsociety.me/products/vamp-eyeshadow-wet-dry",
-"p": 19.0,
-"c": null,
+"p": 13.3,
+"c": 19.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/products/8011607368747.jpg?v=1688038080&width=400",
 "type": "Casual",
@@ -13136,8 +13909,8 @@
 {
 "t": "Vamp! Eyeshadow Fusion",
 "u": "https://skinsociety.me/products/vamp-eyeshadow-fusion",
-"p": 19.0,
-"c": null,
+"p": 13.3,
+"c": 19.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/products/8011607368556-1.jpg?v=1688037953&width=400",
 "type": "Casual",
@@ -13156,8 +13929,8 @@
 {
 "t": "True Lips",
 "u": "https://skinsociety.me/products/true-lips",
-"p": 19.0,
-"c": null,
+"p": 13.3,
+"c": 19.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/products/8011607274819.jpg?v=1690879635&width=400",
 "type": "Casual",
@@ -13176,8 +13949,8 @@
 {
 "t": "I'm Loveproof Matt Lipstick",
 "u": "https://skinsociety.me/products/im-loveproof-matt-lipstick",
-"p": 16.0,
-"c": null,
+"p": 11.2,
+"c": 16.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/products/8011607317004.jpg?v=1688031001&width=400",
 "type": "Casual",
@@ -13196,8 +13969,8 @@
 {
 "t": "Vamp! Definition Liner",
 "u": "https://skinsociety.me/products/vamp-definition-liner",
-"p": 20.0,
-"c": null,
+"p": 14.0,
+"c": 20.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/products/8011607205899.jpg?v=1688026744&width=400",
 "type": "Casual",
@@ -13216,8 +13989,8 @@
 {
 "t": "I'm Matt Lipstick",
 "u": "https://skinsociety.me/products/im-matt-lipstick",
-"p": 16.0,
-"c": null,
+"p": 11.2,
+"c": 16.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/products/8011607287925.jpg?v=1688029264&width=400",
 "type": "Casual",
@@ -13356,8 +14129,8 @@
 {
 "t": "Whitening Deodorant - Invisible Touch",
 "u": "https://skinsociety.me/products/whitening-roll-on-deodorant-invisible-touch",
-"p": 9.16,
-"c": null,
+"p": 6.41,
+"c": 9.16,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/beesline-whitening-deodorant-invisible-touch-skin-society-shop-address-country-1.jpg?v=1686493023&width=400",
 "type": "Casual",
@@ -13451,7 +14224,7 @@
 "Category_Hair Expert",
 "CLEANSE26"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Klorane Junior Body and Hair Shower Gel 200ml",
@@ -13736,8 +14509,8 @@
 {
 "t": "Vamp! Lip Pencil",
 "u": "https://skinsociety.me/products/vamp-lip-pencil",
-"p": 19.0,
-"c": null,
+"p": 13.3,
+"c": 19.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/products/8011607355419.jpg?v=1690880187&width=400",
 "type": "Casual",
@@ -15033,7 +15806,7 @@
 "Medicube",
 "new arrivals"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Deep Lifting Peptide Eye Cream",
@@ -16190,8 +16963,8 @@
 {
 "t": "Wonder Me Matte Foundation",
 "u": "https://skinsociety.me/products/wonder-me-matte-foundation",
-"p": 29.0,
-"c": null,
+"p": 20.3,
+"c": 29.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/113153-001_01__86351.webp?v=1787565354&width=400",
 "type": "Casual",
@@ -16203,15 +16976,15 @@
 "Face",
 "Foundation",
 "Foundation & Powder",
-"Loyalty Program"
+"Make Up"
 ],
 "in": true
 },
 {
 "t": "Chubby Stick Moisturizing Lip Color Balm",
 "u": "https://skinsociety.me/products/chubby-stick-moisturizing-lip-color-balm",
-"p": 35.0,
-"c": null,
+"p": 24.5,
+"c": 35.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/192333301043-CliniqueChubbyStickMoisturizingLipColorBalm-BoundlessBlush.webp?v=1787565082&width=400",
 "type": "Luxury",
@@ -16219,11 +16992,11 @@
 "Brand_Clinique",
 "Lips",
 "Lipstick",
-"Loyalty Program",
 "Luxury",
 "Luxury Make Up",
 "Make Up",
-"new arrivals"
+"new arrivals",
+"No-Sync"
 ],
 "in": true
 },
@@ -17248,8 +18021,8 @@
 {
 "t": "La Vie Est Belle Trio Coffret",
 "u": "https://skinsociety.me/products/la-vie-est-belle-trio-coffret",
-"p": 177.94,
-"c": 0.0,
+"p": 124.56,
+"c": 177.94,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/2_3b289655-a59c-4768-8e4e-146c175f8a3c.png?v=1786521649&width=400",
 "type": "Luxury",
@@ -17260,8 +18033,8 @@
 "For Her",
 "Fragrances",
 "Gift Sets",
-"Loyalty Program",
-"Luxury"
+"Luxury",
+"Luxury Fragrances"
 ],
 "in": false
 },
@@ -17401,7 +18174,7 @@
 "SAVE22",
 "SEARCH_IGNORE"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Valentino Uomo Born In Roma Purple Melancholia Eau De Toilette - Gift",
@@ -17519,18 +18292,18 @@
 {
 "t": "Extra-firming Energy Cream",
 "u": "https://skinsociety.me/products/extra-firming-energy-cream",
-"p": 142.97,
-"c": null,
+"p": 107.23,
+"c": 142.97,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3666057381881.webp?v=1786443268&width=400",
 "type": "Luxury",
 "tags": [
 "Anti-Aging",
+"Augustsale",
 "Brand_Clarins",
 "Category_Skin Care",
 "Day & Night Care",
 "Item Type_Day & Night Care",
-"Loyalty Program",
 "Luxury",
 "Luxury Skin Care"
 ],
@@ -17910,8 +18683,8 @@
 {
 "t": "Pupa Milano Multiplay Eye Pencil",
 "u": "https://skinsociety.me/products/pupa-milano-multiplay-eye-pencil",
-"p": 15.0,
-"c": null,
+"p": 10.5,
+"c": 15.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/721240664A001.jpg?v=1785417887&width=400",
 "type": "Casual",
@@ -17922,8 +18695,8 @@
 "Category_Make Up",
 "Eye Liner",
 "Eyes",
-"Loyalty Program",
-"Make Up"
+"Make Up",
+"new arrivals"
 ],
 "in": true
 },
@@ -18655,8 +19428,8 @@
 {
 "t": "Lovenude Kiss Shaper Lip Liner",
 "u": "https://skinsociety.me/products/lovenude-kiss-shaper-lip-liner",
-"p": 35.05,
-"c": 0.0,
+"p": 24.54,
+"c": 35.05,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/Yves_Saint_Laurent_LoveNude_Kiss_Shaper_Lip_Liner_1.2g_1_Undressed_Pink_1b4b4d4c-5b57-4b87-8269-05aa8de8d4cd.webp?v=1785755862&width=400",
 "type": "Luxury",
@@ -18666,9 +19439,9 @@
 "Lip Liner",
 "Lip Liners",
 "Lips",
-"Loyalty Program",
 "Luxury",
-"Luxury Make Up"
+"Luxury Make Up",
+"Make Up"
 ],
 "in": true
 },
@@ -18745,7 +19518,7 @@
 "Item Type_Day & Night Care",
 "Item Type_Face Serums"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Ducray Bamboo Brush - Gift",
@@ -18802,20 +19575,20 @@
 {
 "t": "Garnier Color Naturals Nourishing Permanent Hair Color Duo",
 "u": "https://skinsociety.me/products/garnier-color-naturals-nourishing-permanent-hair-color-duo",
-"p": 6.31,
+"p": 5.94,
 "c": 7.42,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/Artboard1copy_2x-100_b5f09a45-a20a-4983-af3f-27d76dc9bd4c.jpg?v=1792496527&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/ARTBOARDS11_2x-100_7c62d985-6ed3-4662-8803-fdd475c06960.jpg?v=1793611634&width=400",
 "type": "Casual",
 "tags": [
+"beautyblack",
 "Bundle",
 "Casual",
 "Casual Hair Care",
 "Category_Hair Expert",
 "fall",
 "Hair Expert",
-"No-Sync",
-"Product Type_Value Deals"
+"No-Sync"
 ],
 "in": true
 },
@@ -18922,21 +19695,6 @@
 "SAVE20",
 "SAVE22",
 "SEARCH_IGNORE"
-],
-"in": false
-},
-{
-"t": "Lancôme Women White Head Band - Gift",
-"u": "https://skinsociety.me/products/lancome-women-white-head-band-gift",
-"p": 0.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/328PM00001G.png?v=1785483985&width=400",
-"type": "POSM",
-"tags": [
-"OMG",
-"SAVE20",
-"SAVE22"
 ],
 "in": false
 },
@@ -19058,8 +19816,8 @@
 {
 "t": "Stronger with You Intensely 100ml & 15ml Coffret",
 "u": "https://skinsociety.me/products/stronger-with-you-intensely-100ml-15ml-coffret",
-"p": 148.45,
-"c": 0.0,
+"p": 103.92,
+"c": 148.45,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/GiorgioArmaniStrongerWithYouIntenselyEaudeParfum100ml_15mlSet.jpg?v=1785417504&width=400",
 "type": "Luxury",
@@ -19070,8 +19828,8 @@
 "For Him",
 "Fragrances",
 "Gift Sets",
-"Loyalty Program",
-"Luxury"
+"Luxury",
+"Luxury Fragrances"
 ],
 "in": false
 },
@@ -19749,8 +20507,8 @@
 {
 "t": "Lovenude Lip Blusher Balm",
 "u": "https://skinsociety.me/products/lovenude-lip-blusher-balm",
-"p": 58.72,
-"c": 0.0,
+"p": 41.1,
+"c": 58.72,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/2_f7e10fc7-10fd-4440-83b7-edc08db29031.png?v=1785242993&width=400",
 "type": "Luxury",
@@ -19759,18 +20517,18 @@
 "Lip Balm & Treatments",
 "Lip Care",
 "Lips",
-"Loyalty Program",
 "Luxury",
 "Luxury Make Up",
-"new arrivals"
+"new arrivals",
+"No-Sync"
 ],
 "in": true
 },
 {
 "t": "My Crush Lip & Cheek",
 "u": "https://skinsociety.me/products/my-crush-lip-cheek",
-"p": 24.0,
-"c": null,
+"p": 16.8,
+"c": 24.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/Pupa-My-Crush-Lip-Cheek-3-1g-001-That-s-Hot-extra-big-38317-848.png?v=1785236382&width=400",
 "type": "Casual",
@@ -19781,16 +20539,16 @@
 "Casual Make Up",
 "Category_Make Up",
 "Face",
-"Loyalty Program",
-"Make Up"
+"Make Up",
+"new arrivals"
 ],
 "in": true
 },
 {
 "t": "Shine Bright Glittering Body Scrub",
 "u": "https://skinsociety.me/products/shine-bright-glittering-body-scrub",
-"p": 39.0,
-"c": null,
+"p": 27.3,
+"c": 39.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/Pupa-Shine-Bright-Body-Scrub-Scintillante-Corpo-200ml-extra-big-37862-015.png?v=1785235984&width=400",
 "type": "Casual",
@@ -19800,17 +20558,17 @@
 "Casual",
 "Category_Bath & Body",
 "Item Type_Scrubs & Exfoliators",
-"Loyalty Program",
 "new arrivals",
-"No-Sync"
+"No-Sync",
+"OMG"
 ],
 "in": true
 },
 {
 "t": "Shine Bright Lip Gloss",
 "u": "https://skinsociety.me/products/shine-bright-lip-gloss",
-"p": 31.0,
-"c": null,
+"p": 21.7,
+"c": 31.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/8011607411979-PupaMilano-SHINEBRIGHTLIPGLOSS2026.webp?v=1785235638&width=400",
 "type": "Casual",
@@ -19821,16 +20579,16 @@
 "Category_Make Up",
 "Lip Gloss",
 "Lips",
-"Loyalty Program",
-"Make Up"
+"Make Up",
+"new arrivals"
 ],
 "in": true
 },
 {
 "t": "Shine Bright Compact Face Hightlighter",
 "u": "https://skinsociety.me/products/shine-bright-compact-face-hightlighter",
-"p": 39.0,
-"c": null,
+"p": 27.3,
+"c": 39.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/Pupa-Shine-Bright-Illuminante-Compatto-Viso-Scintillante-8-5g-extra-big-37867-081.png?v=1785235483&width=400",
 "type": "Casual",
@@ -19841,16 +20599,16 @@
 "Face",
 "highlighter",
 "Highlighter & Luminizer",
-"Loyalty Program",
-"new arrivals"
+"new arrivals",
+"No-Sync"
 ],
 "in": true
 },
 {
 "t": "Shine Bright Roll-On Perfume",
 "u": "https://skinsociety.me/products/shine-bright-roll-on-perfume",
-"p": 31.0,
-"c": null,
+"p": 21.7,
+"c": 31.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/0F4B01A001_8011607412143_SHINE-BRIGHT_ROLL-ON_PARFUME_big_27012026085811_24514fff-bcdd-4860-b1fc-4a19a448a6fe.png?v=1785234160&width=400",
 "type": "Casual",
@@ -19860,9 +20618,9 @@
 "Casual",
 "Casual Fragrances",
 "Category_Bath & Body",
-"Loyalty Program",
 "new arrivals",
-"No-Sync"
+"No-Sync",
+"OMG"
 ],
 "in": true
 },
@@ -19929,8 +20687,8 @@
 {
 "t": "Si Nude Bloom Eau de Parfum",
 "u": "https://skinsociety.me/products/si-nude-bloom-eau-de-parfum",
-"p": 149.15,
-"c": 0.0,
+"p": 104.41,
+"c": 149.15,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/shop-pf-05809-01-si-nude-bloom-edp---50ml--1.jpg?v=1785233341&width=400",
 "type": "Luxury",
@@ -19939,18 +20697,18 @@
 "Eau De Parfum",
 "For Her",
 "Fragrances",
-"Loyalty Program",
 "Luxury",
 "Luxury Fragrances",
-"new arrivals"
+"new arrivals",
+"No-Sync"
 ],
 "in": false
 },
 {
 "t": "Si Passione Red Bloom Eau De Parfum",
 "u": "https://skinsociety.me/products/si-passione-red-bloom-eau-de-parfum",
-"p": 204.24,
-"c": 0.0,
+"p": 142.97,
+"c": 204.24,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/18_7841959c-88b7-420a-8cec-b71333ba1987.webp?v=1785233117&width=400",
 "type": "Luxury",
@@ -19960,9 +20718,9 @@
 "Eau De Parfum",
 "For Her",
 "Fragrances",
-"Loyalty Program",
 "Luxury",
-"Luxury Fragrances"
+"Luxury Fragrances",
+"new arrivals"
 ],
 "in": true
 },
@@ -20128,8 +20886,8 @@
 {
 "t": "Chubby Stick Cheek Color Balm",
 "u": "https://skinsociety.me/products/chubby-stick-cheek-color-balm",
-"p": 42.0,
-"c": null,
+"p": 29.4,
+"c": 42.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/11213-caa1ef9a-1000-Clinique-Chubby-Stick-Cheek-Colour-Balm.jpg?v=1785229543&width=400",
 "type": "Luxury",
@@ -20137,19 +20895,19 @@
 "Blush",
 "Brand_Clinique",
 "Face",
-"Loyalty Program",
 "Luxury",
 "Luxury Make Up",
 "new arrivals",
-"No-Sync"
+"No-Sync",
+"OMG"
 ],
 "in": true
 },
 {
 "t": "Chubby Stick Sculpting Contour",
 "u": "https://skinsociety.me/products/chubby-stick-sculpting-contour",
-"p": 42.0,
-"c": null,
+"p": 29.4,
+"c": 42.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/192333301715-CliniqueChubbyStickSculptingContour-SoSunkissed.webp?v=1785228034&width=400",
 "type": "Luxury",
@@ -20158,10 +20916,10 @@
 "Category_Make Up",
 "Contour",
 "Face",
-"Loyalty Program",
 "Luxury",
 "Luxury Make Up",
-"Make Up"
+"Make Up",
+"new arrivals"
 ],
 "in": true
 },
@@ -20248,8 +21006,8 @@
 {
 "t": "The Intense Hydration Set",
 "u": "https://skinsociety.me/products/the-intense-hydration-set",
-"p": 62.0,
-"c": null,
+"p": 43.4,
+"c": 62.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3321d99bfb72ba325afb744004a7c4c3f1b926d151428b94bc448939bdbeeb24.jpg?v=1785227069&width=400",
 "type": "Luxury",
@@ -20260,8 +21018,8 @@
 "For Him",
 "Gift Sets",
 "Item Type_Day & Night Care",
-"Loyalty Program",
-"Luxury"
+"Luxury",
+"Luxury Skin Care"
 ],
 "in": true
 },
@@ -20976,8 +21734,8 @@
 {
 "t": "Chubby Stick Sculpting Highlighter",
 "u": "https://skinsociety.me/products/chubby-stick-sculpting-highlighter",
-"p": 42.0,
-"c": null,
+"p": 29.4,
+"c": 42.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/71oDpRfk_HL._SL1500.jpg?v=1784899276&width=400",
 "type": "Luxury",
@@ -20987,17 +21745,17 @@
 "Face",
 "highlighter",
 "Highlighter & Luminizer",
-"Loyalty Program",
 "Luxury",
-"Luxury Make Up"
+"Luxury Make Up",
+"Make Up"
 ],
 "in": true
 },
 {
 "t": "Si Eau de Parfum Trio Coffret",
 "u": "https://skinsociety.me/products/si-eau-de-parfum-trio-coffret",
-"p": 192.44,
-"c": 0.0,
+"p": 134.71,
+"c": 192.44,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/www-001013521205925-01.avif?v=1784893519&width=400",
 "type": "Luxury",
@@ -21007,9 +21765,9 @@
 "For Her",
 "Fragrances",
 "Gift Sets",
-"Loyalty Program",
 "Luxury",
-"Luxury Fragrances"
+"Luxury Fragrances",
+"new arrivals"
 ],
 "in": false
 },
@@ -21036,8 +21794,8 @@
 {
 "t": "Paradoxe Intense Eau De Parfum Spring 90ml + 10ml Coffret",
 "u": "https://skinsociety.me/products/paradoxe-intense-eau-de-parfum-spring-90ml-10ml-coffret",
-"p": 210.77,
-"c": 0.0,
+"p": 147.54,
+"c": 210.77,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/PradaParadoxeIntenseSet_90Ml_TravelSpray10Ml_PACKSHOT.webp?v=1784893102&width=400",
 "type": "Luxury",
@@ -21048,16 +21806,16 @@
 "For Her",
 "Fragrances",
 "Gift Sets",
-"Loyalty Program",
-"Luxury"
+"Luxury",
+"Luxury Fragrances"
 ],
 "in": false
 },
 {
 "t": "MYSLF Eau de Parfum 60ml & Shower Gel 50ml Coffret",
 "u": "https://skinsociety.me/products/myslf-eau-de-parfum-60ml-shower-gel-50ml-coffret",
-"p": 137.71,
-"c": 0.0,
+"p": 96.4,
+"c": 137.71,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3614274769692-1_c_live.webp?v=1784892646&width=400",
 "type": "Luxury",
@@ -21067,9 +21825,9 @@
 "For Him",
 "Fragrances",
 "Gift Sets",
-"Loyalty Program",
 "Luxury",
-"Luxury Fragrances"
+"Luxury Fragrances",
+"new arrivals"
 ],
 "in": false
 },
@@ -21096,8 +21854,8 @@
 {
 "t": "Y Eau de Parfum 100ml +10ml Coffret",
 "u": "https://skinsociety.me/products/y-eau-de-parfum-100ml-10ml-coffret",
-"p": 162.79,
-"c": 0.0,
+"p": 113.95,
+"c": 162.79,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3614274769685-1_c_live.webp?v=1784892419&width=400",
 "type": "Luxury",
@@ -21107,17 +21865,17 @@
 "For Him",
 "Fragrances",
 "Gift Sets",
-"Loyalty Program",
 "Luxury",
-"Luxury Fragrances"
+"Luxury Fragrances",
+"new arrivals"
 ],
 "in": false
 },
 {
 "t": "MYSLF Eau De Parfum Coffret",
 "u": "https://skinsociety.me/products/myslf-eau-de-parfum-100ml-gift-set",
-"p": 162.79,
-"c": 0.0,
+"p": 113.95,
+"c": 162.79,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3614274769616___L.jpg?v=1784891787&width=400",
 "type": "Luxury",
@@ -21128,16 +21886,16 @@
 "For Him",
 "Fragrances",
 "Gift Sets",
-"Loyalty Program",
-"Luxury"
+"Luxury",
+"Luxury Fragrances"
 ],
 "in": false
 },
 {
 "t": "Absolue Cleansing Balm To Foam",
 "u": "https://skinsociety.me/products/absolue-cleansing-balm-to-foam",
-"p": 113.63,
-"c": 0.0,
+"p": 79.54,
+"c": 113.63,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/4936968820489___L.jpg?v=1784888701&width=400",
 "type": "Luxury",
@@ -21148,16 +21906,16 @@
 "face wash",
 "Face Wash & Cleansers",
 "Item Type_Face Wash & Cleansers",
-"Loyalty Program",
-"Luxury"
+"Luxury",
+"Luxury Skin Care"
 ],
 "in": true
 },
 {
 "t": "Idole Eau de Parfum 100ml + 10ml & Mini Mascara Coffret",
 "u": "https://skinsociety.me/products/idole-eau-de-parfum-100ml-10ml-mini-mascara-coffret",
-"p": 187.63,
-"c": 0.0,
+"p": 131.34,
+"c": 187.63,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3614274787566-main.jpg?v=1784888427&width=400",
 "type": "Luxury",
@@ -21168,16 +21926,16 @@
 "For Her",
 "Fragrances",
 "Gift Sets",
-"Loyalty Program",
-"Luxury"
+"Luxury",
+"Luxury Fragrances"
 ],
 "in": false
 },
 {
 "t": "My Way Eau de Parfum 90ml + 10ml & Body Lotion Trio Coffret",
 "u": "https://skinsociety.me/products/my-way-eau-de-parfum-90ml-10ml-body-lotion-trio-coffret",
-"p": 188.19,
-"c": 0.0,
+"p": 131.73,
+"c": 188.19,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3614274821246_1.webp?v=1784888144&width=400",
 "type": "Luxury",
@@ -21187,17 +21945,17 @@
 "For Her",
 "Fragrances",
 "Gift Sets",
-"Loyalty Program",
 "Luxury",
-"Luxury Fragrances"
+"Luxury Fragrances",
+"new arrivals"
 ],
 "in": false
 },
 {
 "t": "Stronger with You Coffret 100ml & 15ml - Eau de Toilette",
 "u": "https://skinsociety.me/products/stronger-with-you-coffret-100ml-15ml-eau-de-toilette",
-"p": 134.82,
-"c": 0.0,
+"p": 94.37,
+"c": 134.82,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/coffret-stronger-with-you-armani-3614274821703-1.jpg?v=1784887497&width=400",
 "type": "Luxury",
@@ -21208,23 +21966,23 @@
 "For Him",
 "Fragrances",
 "Gift Sets",
-"Loyalty Program",
-"Luxury"
+"Luxury",
+"Luxury Fragrances"
 ],
 "in": false
 },
 {
 "t": "Bust Beauty Firm-Lift Gel",
 "u": "https://skinsociety.me/products/bust-beauty-firm-lift-gel",
-"p": 101.0,
-"c": null,
+"p": 75.75,
+"c": 101.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/298095_23899bae-b19c-4676-b646-653805731310.webp?v=1784887030&width=400",
 "type": "Luxury",
 "tags": [
+"Augustsale",
 "Brand_Clarins",
 "Category_Skin Care",
-"Loyalty Program",
 "Luxury",
 "Luxury Skin Care",
 "new arrivals",
@@ -21396,8 +22154,8 @@
 {
 "t": "My Crush Matte Lipstick Irresistible Softness",
 "u": "https://skinsociety.me/products/my-crush-matte-lipstick-irresistible-softness",
-"p": 32.0,
-"c": null,
+"p": 22.4,
+"c": 32.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/76b4a96b7fd03a527fb5cc3c7ec34e56c4ba9db42073b7d18623f6d0c2994cd8.png?v=1784796308&width=400",
 "type": "Casual",
@@ -21407,17 +22165,17 @@
 "Casual Make Up",
 "Lips",
 "Lipstick",
-"Loyalty Program",
 "Make Up",
-"new arrivals"
+"new arrivals",
+"No-Sync"
 ],
 "in": true
 },
 {
 "t": "Pleasure Lip Oil Stylo",
 "u": "https://skinsociety.me/products/pleasure-lip-oil-stylo",
-"p": 23.0,
-"c": null,
+"p": 16.1,
+"c": 23.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/721020160A001.jpg?v=1784795662&width=400",
 "type": "Casual",
@@ -21429,15 +22187,15 @@
 "Lip Balm & Treatments",
 "Lip Care",
 "Lips",
-"Loyalty Program"
+"new arrivals"
 ],
 "in": true
 },
 {
 "t": "Shine Bright Eyeshadow",
 "u": "https://skinsociety.me/products/shine-bright-eyeshadow",
-"p": 27.0,
-"c": null,
+"p": 18.9,
+"c": 27.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/pupa-shine-bright-eyeshadow-001-golden-hour.webp?v=1784795277&width=400",
 "type": "Casual",
@@ -21445,19 +22203,19 @@
 "Brand_Pupa Milano",
 "Casual",
 "Casual Make Up",
-"Loyalty Program",
 "new arrivals",
 "No-Sync",
 "OMG",
-"SAVE20"
+"SAVE20",
+"SAVE22"
 ],
 "in": true
 },
 {
 "t": "Shine Bright Lip Balm Oil",
 "u": "https://skinsociety.me/products/shine-bright-lip-balm-oil",
-"p": 31.0,
-"c": null,
+"p": 21.7,
+"c": 31.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/2_7436aac3-4f30-455d-916b-790b3b15d262.png?v=1784795100&width=400",
 "type": "Casual",
@@ -21469,15 +22227,15 @@
 "Lip Balm & Treatments",
 "Lip Care",
 "Lips",
-"Loyalty Program"
+"new arrivals"
 ],
 "in": true
 },
 {
 "t": "Clean - Cleansing Face Scrub Stick",
 "u": "https://skinsociety.me/products/clean-cleansing-face-scrub-stick",
-"p": 24.0,
-"c": null,
+"p": 16.8,
+"c": 24.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/2_09c74a8f-f911-4e5f-a09f-1beb23b7bf45.png?v=1784794808&width=400",
 "type": "Casual",
@@ -21488,16 +22246,16 @@
 "Category_Skin Care",
 "Cleansers",
 "Face",
-"Loyalty Program",
-"new arrivals"
+"new arrivals",
+"No-Sync"
 ],
 "in": true
 },
 {
 "t": "Shine Bright Fluid All Over Highlighter",
 "u": "https://skinsociety.me/products/shine-bright-fluid-all-over-highlighter",
-"p": 39.0,
-"c": null,
+"p": 27.3,
+"c": 39.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/2_2683b893-cee1-4722-9a47-f590af2b7e97.png?v=1784794185&width=400",
 "type": "Casual",
@@ -21508,16 +22266,16 @@
 "Face",
 "highlighter",
 "Highlighter & Luminizer",
-"Loyalty Program",
-"Make Up"
+"Make Up",
+"new arrivals"
 ],
 "in": true
 },
 {
 "t": "Pure - Purifying Face Mask Stick",
 "u": "https://skinsociety.me/products/pure-purifying-face-mask-stick",
-"p": 24.0,
-"c": null,
+"p": 16.8,
+"c": 24.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/pure.avif?v=1784793202&width=400",
 "type": "Casual",
@@ -21525,19 +22283,19 @@
 "Brand_Pupa Milano",
 "Casual",
 "Casual Skin Care",
-"Loyalty Program",
 "new arrivals",
 "No-Sync",
 "OMG",
-"SAVE20"
+"SAVE20",
+"SAVE22"
 ],
 "in": true
 },
 {
 "t": "Shine Bright Body Gel",
 "u": "https://skinsociety.me/products/shine-bright-body-gel",
-"p": 39.0,
-"c": null,
+"p": 27.3,
+"c": 39.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/7210T4B01A001.webp?v=1784792608&width=400",
 "type": "Casual",
@@ -21549,15 +22307,15 @@
 "Casual Skin Care",
 "Category_Bath & Body",
 "Category_Skin Care",
-"Loyalty Program"
+"new arrivals"
 ],
 "in": false
 },
 {
 "t": "Detox - Anti-Pollution Face Mask Stick",
 "u": "https://skinsociety.me/products/detox-anti-pollution-face-mask-stick",
-"p": 24.0,
-"c": null,
+"p": 16.8,
+"c": 24.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/249999-1200-auto.webp?v=1784792335&width=400",
 "type": "Casual",
@@ -21566,18 +22324,18 @@
 "Casual",
 "Casual Skin Care",
 "Category_Skin Care",
-"Loyalty Program",
 "new arrivals",
 "No-Sync",
-"OMG"
+"OMG",
+"SAVE20"
 ],
 "in": true
 },
 {
 "t": "High Impact Full Volume WaterProof Mascara",
 "u": "https://skinsociety.me/products/high-impact-full-volume-waterproof-mascara",
-"p": 49.0,
-"c": null,
+"p": 34.3,
+"c": 49.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/192333209028.jpg?v=1784791985&width=400",
 "type": "Luxury",
@@ -21586,10 +22344,10 @@
 "Color_Black Mascara",
 "Eyes",
 "Item Type_Mascara",
-"Loyalty Program",
 "Luxury",
 "Luxury Make Up",
-"Make Up"
+"Make Up",
+"Mascara"
 ],
 "in": true
 },
@@ -22316,8 +23074,8 @@
 {
 "t": "Palette L Life in Color",
 "u": "https://skinsociety.me/products/palette-l-life-in-color-1",
-"p": 53.0,
-"c": null,
+"p": 37.1,
+"c": 53.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/PupapaletteBraveEnough02.jpg?v=1732693565&width=400",
 "type": "Casual",
@@ -22336,8 +23094,8 @@
 {
 "t": "Pupart S",
 "u": "https://skinsociety.me/products/pupart-s",
-"p": 35.0,
-"c": null,
+"p": 24.5,
+"c": 35.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/Pupapalette1.1.jpg?v=1732612789&width=400",
 "type": "Casual",
@@ -22356,8 +23114,8 @@
 {
 "t": "Plump & Care Eyebrow Gel",
 "u": "https://skinsociety.me/products/plump-care-eyebrow-gel",
-"p": 21.0,
-"c": null,
+"p": 14.7,
+"c": 21.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/8011607382965.jpg?v=1720076157&width=400",
 "type": "Casual",
@@ -22376,8 +23134,8 @@
 {
 "t": "Dreamscape Vamp! Lip Pencil",
 "u": "https://skinsociety.me/products/dreamscape-vamp-lip-pencil",
-"p": 19.0,
-"c": null,
+"p": 13.3,
+"c": 19.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/8011607382217.jpg?v=1712321290&width=400",
 "type": "Casual",
@@ -22396,8 +23154,8 @@
 {
 "t": "Cheek Pop Blush",
 "u": "https://skinsociety.me/products/cheek-pop-blush",
-"p": 42.0,
-"c": null,
+"p": 29.4,
+"c": 42.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/192333101148.jpg?v=1711443260&width=400",
 "type": "Luxury",
@@ -22416,8 +23174,8 @@
 {
 "t": "Make Up Stories Compact Palette",
 "u": "https://skinsociety.me/products/make-up-stories-compact-palette",
-"p": 26.0,
-"c": null,
+"p": 18.2,
+"c": 26.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/8011607319350.jpg?v=1703747295&width=400",
 "type": "Casual",
@@ -22456,8 +23214,8 @@
 {
 "t": "High Definition Eyebrow Pencil",
 "u": "https://skinsociety.me/products/high-definition-eyebrow-pencil",
-"p": 16.0,
-"c": null,
+"p": 11.2,
+"c": 16.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/products/8011607271184.jpg?v=1691064212&width=400",
 "type": "Casual",
@@ -22476,8 +23234,8 @@
 {
 "t": "Full Eyebrow Pencil",
 "u": "https://skinsociety.me/products/full-eyebrow-pencil",
-"p": 18.0,
-"c": null,
+"p": 12.6,
+"c": 18.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/products/8011607358854.jpg?v=1690974397&width=400",
 "type": "Casual",
@@ -22496,8 +23254,8 @@
 {
 "t": "Made To Last Waterproof Eyeshadow",
 "u": "https://skinsociety.me/products/made-to-last-waterproof-eyeshadow",
-"p": 17.85,
-"c": null,
+"p": 12.5,
+"c": 17.85,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/products/8011607228737.jpg?v=1690878157&width=400",
 "type": "Casual",
@@ -22516,8 +23274,8 @@
 {
 "t": "Never Without All In One Face Palette",
 "u": "https://skinsociety.me/products/never-without-all-in-one-face-palette",
-"p": 29.0,
-"c": null,
+"p": 20.3,
+"c": 29.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/products/8011607336418.jpg?v=1688031607&width=400",
 "type": "Casual",
@@ -22536,8 +23294,8 @@
 {
 "t": "Extreme Blush Duo",
 "u": "https://skinsociety.me/products/extreme-blush-duo",
-"p": 20.0,
-"c": null,
+"p": 14.0,
+"c": 20.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/products/8011607332496.jpg?v=1688031290&width=400",
 "type": "Casual",
@@ -22596,8 +23354,8 @@
 {
 "t": "Moisture Surge Intense 72H Lipid-Replenishing Hydrator",
 "u": "https://skinsociety.me/products/moisture-surge-intense-72h-lipid-replenishing-hydrator",
-"p": 39.0,
-"c": null,
+"p": 27.3,
+"c": 39.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/clinique-moisture-surge-intense-72h-lipid-replenishing-hydrator-skin-society-shop-address-country-1.jpg?v=1686501050&width=400",
 "type": "Luxury",
@@ -22696,8 +23454,8 @@
 {
 "t": "Blended Face Powder",
 "u": "https://skinsociety.me/products/blended-face-powder",
-"p": 61.0,
-"c": null,
+"p": 42.7,
+"c": 61.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/clinique-blended-face-powder-skin-society-shop-address-country-1.jpg?v=1686498681&width=400",
 "type": "Luxury",
@@ -23116,8 +23874,8 @@
 {
 "t": "Even Better™ All-Over Concealer + Eraser",
 "u": "https://skinsociety.me/products/even-better-all-over-concealer-eraser",
-"p": 52.0,
-"c": null,
+"p": 36.4,
+"c": 52.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/clinique-even-bettertm-all-over-concealer-eraser-skin-society-shop-address-country-1.jpg?v=1686493131&width=400",
 "type": "Luxury",
@@ -23136,8 +23894,8 @@
 {
 "t": "Even Better Clinical Radical Dark Spot Corrector + Interrupter",
 "u": "https://skinsociety.me/products/even-better-clinical-radical-dark-spot-corrector-interrupter",
-"p": 103.0,
-"c": null,
+"p": 72.1,
+"c": 103.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/clinique-even-better-clinical-radical-dark-spot-corrector-interrupter-skin-society-shop-address-country-1.jpg?v=1686492481&width=400",
 "type": "Luxury",
@@ -23236,8 +23994,8 @@
 {
 "t": "Beyond Perfecting - Foundation + Concealer -Dry Combination to Combination Oily Skin",
 "u": "https://skinsociety.me/products/beyond-perfecting-foundation-concealer-dry-combination-to-combination-oily-skin",
-"p": 60.0,
-"c": null,
+"p": 42.0,
+"c": 60.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/clinique-beyond-perfecting-foundation-concealer-dry-combination-to-combination-oily-skin-skin-society-shop-address-country-1.jpg?v=1686486563&width=400",
 "type": "Luxury",
@@ -23356,8 +24114,8 @@
 {
 "t": "Wonder Me Blush",
 "u": "https://skinsociety.me/products/wonder-me-blush",
-"p": 21.0,
-"c": null,
+"p": 14.7,
+"c": 21.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/8011607377275.jpg?v=1696855860&width=400",
 "type": "Casual",
@@ -23376,8 +24134,8 @@
 {
 "t": "Wonder Cover Concealer",
 "u": "https://skinsociety.me/products/wonder-cover-concealer",
-"p": 20.0,
-"c": null,
+"p": 14.0,
+"c": 20.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/products/8011607336715.jpg?v=1688031760&width=400",
 "type": "Casual",
@@ -23396,8 +24154,8 @@
 {
 "t": "Vamp! Eye Pencil",
 "u": "https://skinsociety.me/products/vamp-eye-pencil",
-"p": 17.0,
-"c": null,
+"p": 11.9,
+"c": 17.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/products/8011607354801.jpg?v=1691133782&width=400",
 "type": "Casual",
@@ -23416,8 +24174,8 @@
 {
 "t": "Made to Last Foundation",
 "u": "https://skinsociety.me/products/made-to-last-foundation",
-"p": 25.0,
-"c": null,
+"p": 17.5,
+"c": 25.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/products/8011607222124.jpg?v=1688027047&width=400",
 "type": "Casual",
@@ -23627,8 +24385,8 @@
 {
 "t": "Hydrance SPF 30 Moisturizing Cream,40ml",
 "u": "https://skinsociety.me/products/hydrance-spf-30-moisturizing-cream-40ml",
-"p": 19.2,
-"c": 29.0,
+"p": 29.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/1_2_cfabe509-8316-4f69-b707-e397aa9b553c.png?v=1784197924&width=400",
 "type": "Dermocosmetics",
@@ -24139,18 +24897,18 @@
 {
 "t": "Multi-Intensive Day Cream SPF15",
 "u": "https://skinsociety.me/products/multi-intensive-day-cream-spf15",
-"p": 184.03,
-"c": null,
+"p": 138.02,
+"c": 184.03,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3666057265754___1___L.jpg?v=1784015917&width=400",
 "type": "Luxury",
 "tags": [
+"Augustsale",
 "Brand_Clarins",
 "Category_ Skin Care",
 "Category_Skin Care",
 "Day & Night Care",
 "Item Type_Day & Night Care",
-"Loyalty Program",
 "Luxury",
 "Luxury Skin Care"
 ],
@@ -25037,7 +25795,7 @@
 "SAVE20",
 "SAVE22"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Soleil de Jasmin Shower Gel Sensitive Skin 400ML",
@@ -25398,8 +26156,8 @@
 {
 "t": "Coffret Rénergie HPN 300 Peptide Cream",
 "u": "https://skinsociety.me/products/coffret-renergie-hpn-300-peptide-cream",
-"p": 121.51,
-"c": 0.0,
+"p": 85.06,
+"c": 121.51,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/52_6dbd11f0-9237-41fb-83e0-fe9477cd9ea4.png?v=1783505191&width=400",
 "type": "Luxury",
@@ -25407,11 +26165,11 @@
 "Brand_Lancôme",
 "Category_Skin Care",
 "Gift Sets",
-"Loyalty Program",
 "Luxury",
 "Luxury Skin Care",
 "new arrivals",
-"No-Sync"
+"No-Sync",
+"OMG"
 ],
 "in": false
 },
@@ -25434,8 +26192,8 @@
 {
 "t": "Men's Uomo Born In Roma Purple Melancholia Eau de Toilette",
 "u": "https://skinsociety.me/products/mens-uomo-born-in-roma-purple-melancholia-eau-de-toilette",
-"p": 144.18,
-"c": 0.0,
+"p": 100.93,
+"c": 144.18,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/54_b554e2de-f0e0-42f6-9dac-036f16757be3.png?v=1783498663&width=400",
 "type": "Luxury",
@@ -25446,16 +26204,16 @@
 "For Him",
 "Fragrances",
 "Item Type_Eau de Toilette",
-"Loyalty Program",
-"Luxury"
+"Luxury",
+"Luxury Fragrances"
 ],
 "in": true
 },
 {
 "t": "Men's Stronger With You Powerfully Eau de Parfum",
 "u": "https://skinsociety.me/products/mens-stronger-with-you-powerfully-eau-de-parfum",
-"p": 153.5,
-"c": 0.0,
+"p": 107.45,
+"c": 153.5,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/54_18e5e24e-7f6e-4b82-865f-b6c48ee58aac.png?v=1783496158&width=400",
 "type": "Luxury",
@@ -25463,11 +26221,11 @@
 "Brand_Giorgio Armani",
 "Eau De Parfum",
 "For Him",
-"Loyalty Program",
 "Luxury",
 "Luxury Fragrances",
 "new arrivals",
-"No-Sync"
+"No-Sync",
+"OMG"
 ],
 "in": true
 },
@@ -25531,8 +26289,8 @@
 {
 "t": "Lash Latex Sculpting & Lengthening Mascara",
 "u": "https://skinsociety.me/products/lash-latex-sculpting-lengthening-mascara",
-"p": 50.7,
-"c": 0.0,
+"p": 35.49,
+"c": 50.7,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3614274486599-lash-latex-mascara-main.jpg?v=1783418583&width=400",
 "type": "Luxury",
@@ -25542,17 +26300,17 @@
 "Color_Black Mascara",
 "Eyes",
 "Item Type_Mascara",
-"Loyalty Program",
 "Luxury",
-"Luxury Make Up"
+"Luxury Make Up",
+"Make Up"
 ],
 "in": true
 },
 {
 "t": "Born In Roma Purple Melancholia Eau De Parfum",
 "u": "https://skinsociety.me/products/born-in-roma-purple-melancholia-eau-de-parfum",
-"p": 196.65,
-"c": 0.0,
+"p": 137.66,
+"c": 196.65,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/54_0953c583-6874-493a-8871-355e021c4cc3.png?v=1783417756&width=400",
 "type": "Luxury",
@@ -25562,9 +26320,9 @@
 "Eau De Parfum",
 "For Her",
 "Fragrances",
-"Loyalty Program",
 "Luxury",
-"Luxury Fragrances"
+"Luxury Fragrances",
+"new arrivals"
 ],
 "in": false
 },
@@ -25703,8 +26461,8 @@
 {
 "t": "Lancôme Rénergie Starter Kit",
 "u": "https://skinsociety.me/products/renergie-starter-kit",
-"p": 37.51,
-"c": 0.0,
+"p": 26.26,
+"c": 37.51,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3614274150445-1.jpg?v=1724228061&width=400",
 "type": "Luxury",
@@ -25761,15 +26519,16 @@
 {
 "t": "Luna Rossa Carbon – Eau De Parfum",
 "u": "https://skinsociety.me/products/luna-rossa-carbon-eau-de-parfum",
-"p": 165.73,
-"c": 0.0,
+"p": 116.01,
+"c": 165.73,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/Prada_-_Luna_Rossa_Carbon_50ml.webp?v=1778499015&width=400",
 "type": "Luxury",
 "tags": [
 "OMG",
 "SAVE20",
-"SAVE22"
+"SAVE22",
+"Value Deals"
 ],
 "in": true
 },
@@ -25796,7 +26555,7 @@
 {
 "t": "Génifique Starter Kit",
 "u": "https://skinsociety.me/products/genifique-starter-kit",
-"p": 53.25,
+"p": 57.4,
 "c": 82.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/54.png?v=1783412146&width=400",
@@ -26160,8 +26919,8 @@
 {
 "t": "Lash Idôle Curl Goddess Mascara",
 "u": "https://skinsociety.me/products/lash-idole-curl-goddess-mascara",
-"p": 42.7,
-"c": 0.0,
+"p": 29.89,
+"c": 42.7,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/69848_BK01_1__40189.jpg?v=1782981314&width=400",
 "type": "Luxury",
@@ -26169,19 +26928,19 @@
 "Brand_Lancôme",
 "Category_Make Up",
 "Eyes",
-"Loyalty Program",
 "Luxury",
 "Luxury Make Up",
 "Make Up",
-"new arrivals"
+"new arrivals",
+"No-Sync"
 ],
 "in": false
 },
 {
 "t": "Ladies Libre Berry Crush Eau de Parfum Intense",
 "u": "https://skinsociety.me/products/ladies-libre-berry-crush-eau-de-parfum-intense",
-"p": 203.09,
-"c": 0.0,
+"p": 142.16,
+"c": 203.09,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/2_1bb5ac03-9543-4a6a-be62-132d443f5c20.png?v=1782980325&width=400",
 "type": "Luxury",
@@ -26191,16 +26950,16 @@
 "Eau De Parfum",
 "For Her",
 "Fragrances",
-"Loyalty Program",
 "Luxury",
-"Luxury Fragrances"
+"Luxury Fragrances",
+"new arrivals"
 ],
 "in": true
 },
 {
 "t": "Génifique Day-Night Routine",
 "u": "https://skinsociety.me/products/genifique-day-night-routine",
-"p": 133.64,
+"p": 156.1,
 "c": 223.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/2_aab7e095-c1b9-441b-ba08-c261bc2408c8.png?v=1782977513&width=400",
@@ -26210,10 +26969,10 @@
 "Category_ Skin Care",
 "Category_Skin Care",
 "Gift Sets",
-"Loyalty Program",
 "Luxury",
 "Luxury Skin Care",
-"new arrivals"
+"new arrivals",
+"No-Sync"
 ],
 "in": true
 },
@@ -26240,7 +26999,7 @@
 {
 "t": "Génifique Eye Routine Kit",
 "u": "https://skinsociety.me/products/genifique-eye-routine-kit",
-"p": 75.0,
+"p": 87.5,
 "c": 125.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/2_ef57a23f-895c-4966-8a00-ab6608d33b9c.png?v=1782972367&width=400",
@@ -26250,17 +27009,17 @@
 "Category_ Skin Care",
 "Category_Skin Care",
 "Gift Sets",
-"Loyalty Program",
 "Luxury",
 "Luxury Skin Care",
-"new arrivals"
+"new arrivals",
+"No-Sync"
 ],
 "in": false
 },
 {
 "t": "Hydra Zen Starter Kit",
 "u": "https://skinsociety.me/products/hydra-zen-starter-kit",
-"p": 45.47,
+"p": 49.0,
 "c": 70.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/51_974d2063-b070-4f4a-bbd3-85880babc7c8.png?v=1782971939&width=400",
@@ -26270,17 +27029,17 @@
 "Category_ Skin Care",
 "Category_Skin Care",
 "Gift Sets",
-"Loyalty Program",
 "Luxury",
 "Luxury Skin Care",
-"new arrivals"
+"new arrivals",
+"No-Sync"
 ],
 "in": true
 },
 {
 "t": "Hydra Zen Day Routine Set",
 "u": "https://skinsociety.me/products/hydra-zen-day-routine-set",
-"p": 74.0,
+"p": 83.3,
 "c": 119.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/51_3d6ac4cf-77c3-4a20-8fc5-250e68aa9043.png?v=1782910490&width=400",
@@ -26291,9 +27050,9 @@
 "eye creams & serums",
 "Gift Sets",
 "Item Type_Day & Night Care",
-"Loyalty Program",
 "Luxury",
-"Luxury Skin Care"
+"Luxury Skin Care",
+"Moisturizers"
 ],
 "in": true
 },
@@ -26365,8 +27124,8 @@
 {
 "t": "Long Lasting Quickliner Lip Liner",
 "u": "https://skinsociety.me/products/long-lasting-quickliner-lip-liner",
-"p": 40.0,
-"c": null,
+"p": 28.0,
+"c": 40.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/192333309247.avif?v=1782819036&width=400",
 "type": "Luxury",
@@ -26375,10 +27134,10 @@
 "Lip Liner",
 "Lip Liners",
 "Lips",
-"Loyalty Program",
 "Luxury",
 "Luxury Make Up",
-"new arrivals"
+"new arrivals",
+"No-Sync"
 ],
 "in": true
 },
@@ -26581,8 +27340,8 @@
 {
 "t": "The Age Defense System Set",
 "u": "https://skinsociety.me/products/the-age-defense-system-set",
-"p": 86.0,
-"c": null,
+"p": 60.2,
+"c": 86.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/192333291122.jpg?v=1782738730&width=400",
 "type": "Luxury",
@@ -26590,19 +27349,19 @@
 "Brand_Clinique",
 "For Him",
 "Gift Sets",
-"Loyalty Program",
 "new arrivals",
 "No-Sync",
 "OMG",
-"Product Type_For Him"
+"Product Type_For Him",
+"Product Type_Gift Sets"
 ],
 "in": true
 },
 {
 "t": "The Hydration System Set",
 "u": "https://skinsociety.me/products/the-hydration-system-set",
-"p": 78.0,
-"c": null,
+"p": 54.6,
+"c": 78.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3f1ec27a-fff5-4980-abf5-d49603629239_1.png?v=1782738594&width=400",
 "type": "Luxury",
@@ -26610,11 +27369,11 @@
 "Brand_Clinique",
 "For Men",
 "Gift Sets",
-"Loyalty Program",
 "Luxury",
 "Luxury Skin Care",
 "new arrivals",
-"No-Sync"
+"No-Sync",
+"OMG"
 ],
 "in": false
 },
@@ -26681,16 +27440,16 @@
 {
 "t": "Self Tan Milky Lotion",
 "u": "https://skinsociety.me/products/self-tan-milky-lotion",
-"p": 41.0,
-"c": null,
+"p": 30.75,
+"c": 41.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3666057397103___L.jpg?v=1782725496&width=400",
 "type": "Luxury",
 "tags": [
+"Augustsale",
 "Brand_Clarins",
 "Category_ Skin Care",
 "Category_Skin Care",
-"Loyalty Program",
 "Luxury",
 "Luxury Skin Care",
 "new arrivals",
@@ -26701,16 +27460,16 @@
 {
 "t": "Self Tan Express Self-Tanning Fresh Gel",
 "u": "https://skinsociety.me/products/self-tan-express-self-tanning-fresh-gel",
-"p": 41.0,
-"c": null,
+"p": 30.75,
+"c": 41.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3666057385544.jpg?v=1782725248&width=400",
 "type": "Luxury",
 "tags": [
+"Augustsale",
 "Brand_Clarins",
 "Category_ Skin Care",
 "Category_Skin Care",
-"Loyalty Program",
 "Luxury",
 "Luxury Skin Care",
 "new arrivals",
@@ -27013,7 +27772,7 @@
 "Parapharmacy",
 "Product Type_Digestive Problems"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Swanson Green Tea Extract 500 Mg",
@@ -27333,7 +28092,7 @@
 "Product Type_Slimming & Firming",
 "Slimming & Firming"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Magnesium Citrate Complex",
@@ -28026,7 +28785,7 @@
 "Parapharmacy",
 "Product Type_Skin Beauty"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Fresh Affair Dry Shampoo",
@@ -28288,8 +29047,8 @@
 {
 "t": "Hydration & Honey: Skincare + Makeup Set",
 "u": "https://skinsociety.me/products/hydration-honey-skincare-makeup-set",
-"p": 75.0,
-"c": null,
+"p": 52.5,
+"c": 75.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/30.png?v=1781509034&width=400",
 "type": "Luxury",
@@ -28298,18 +29057,18 @@
 "Category_Make Up",
 "Category_Skin Care",
 "Gift Sets",
-"Loyalty Program",
 "Luxury",
 "Luxury Make Up",
-"Luxury Skin Care"
+"Luxury Skin Care",
+"Make Up"
 ],
 "in": false
 },
 {
 "t": "Acqua Di Gio Proondo - Eau De Toilette",
 "u": "https://skinsociety.me/products/acqua-di-gio-proondo-eau-de-toilette",
-"p": 147.11,
-"c": 0.0,
+"p": 102.98,
+"c": 147.11,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3614274361322.jpg?v=1758869783&width=400",
 "type": "Luxury",
@@ -28320,8 +29079,8 @@
 "For Him",
 "Fragrances",
 "Item Type_Eau de Toilette",
-"Loyalty Program",
-"Luxury"
+"Luxury",
+"Luxury Fragrances"
 ],
 "in": true
 },
@@ -28497,8 +29256,8 @@
 {
 "t": "Emporio Armani Stronger With You Spices Eau De Parfum",
 "u": "https://skinsociety.me/products/emporio-armani-stronger-with-you-spices-eau-de-parfum",
-"p": 157.84,
-"c": 0.0,
+"p": 110.49,
+"c": 157.84,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3614274624380_2.webp?v=1781168020&width=400",
 "type": "Luxury",
@@ -28509,8 +29268,8 @@
 "father27",
 "For Him",
 "Fragrances",
-"Loyalty Program",
-"Luxury"
+"Luxury",
+"Luxury Fragrances"
 ],
 "in": true
 },
@@ -29442,7 +30201,7 @@
 "Masks & Patches",
 "No-Sync"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Microneedling Lip Patch",
@@ -30251,8 +31010,8 @@
 {
 "t": "Clinique High Impact Shadow Play- Mixed Greens",
 "u": "https://skinsociety.me/products/mixed-greens-high-impact-shadow-play-shadow-definer-day-night",
-"p": 44.0,
-"c": null,
+"p": 30.8,
+"c": 44.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/192333175781.jpg?v=1752151080&width=400",
 "type": "Luxury",
@@ -30261,10 +31020,10 @@
 "Category_Make Up",
 "Eyes",
 "Eyeshadow",
-"Loyalty Program",
 "Luxury",
 "Luxury Make Up",
-"Make Up"
+"Make Up",
+"new arrivals"
 ],
 "in": false
 },
@@ -30606,7 +31365,7 @@
 "Loyalty Program",
 "Parapharmacy"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Discomfort Dermo-Soothing Shampoo",
@@ -31633,12 +32392,12 @@
 "in": true
 },
 {
-"t": "The Sneaky Ghost",
+"t": "OAP Changing Color Pouch",
 "u": "https://skinsociety.me/products/oap-changing-color-pouch",
 "p": 0.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/TheSneakyGhost.jpg?v=1793284515&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/5285001435692.jpg?v=1741350134&width=400",
 "type": "POSM",
 "tags": [
 "Category_POSM",
@@ -31650,7 +32409,7 @@
 "OAPB2G1",
 "POSM"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Roseliane CC Cream SPF50+ for sensitive skin",
@@ -31713,12 +32472,12 @@
 "in": false
 },
 {
-"t": "The Enchanted Skeleton",
+"t": "L'oreal Paris Black Pack Of 2 Hair Clip – Gift",
 "u": "https://skinsociety.me/products/loreal-paris-black-pack-of-2-hair-clip-gift",
 "p": 0.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/TheEnchantedSkeleton.jpg?v=1793284438&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/1777897504389.png?v=1777897666&width=400",
 "type": "POSM",
 "tags": [
 "Category_POSM",
@@ -31824,7 +32583,7 @@
 "p": 30.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/Eucerin_Sunscreen_Hydro_Protect_Face_Ultra_Light_Fluid.webp?v=1777471221&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/updatedphoto_ced5cdf5-f79d-4677-b7f3-6f5fe001a3d4.png?v=1793621490&width=400",
 "type": "Dermocosmetics",
 "tags": [
 "Brand_Eucerin",
@@ -32631,26 +33390,6 @@
 "in": false
 },
 {
-"t": "Garnier Olia Duo",
-"u": "https://skinsociety.me/products/garnier-olia-duo",
-"p": 8.18,
-"c": 10.06,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/Artboard1copy_07d20519-8c1c-474c-a0a2-dfa0092836d0.jpg?v=1788870849&width=400",
-"type": "Casual",
-"tags": [
-"BF25",
-"Brand_Garnier",
-"BTS26",
-"Bundle",
-"Category_Hair Expert",
-"earth26",
-"gar25",
-"Hair Expert"
-],
-"in": true
-},
-{
 "t": "Filorga Global-Repair Advanced Eyes & Lips Contours Youth Cream - Gift",
 "u": "https://skinsociety.me/products/filorga-global-repair-advanced-eyes-lips-contours-youth-cream-gift",
 "p": 0.0,
@@ -32814,26 +33553,6 @@
 "SAVE20",
 "SAVE22",
 "SEARCH_IGNORE"
-],
-"in": true
-},
-{
-"t": "Grape Moisture Full Routine",
-"u": "https://skinsociety.me/products/grape-moisture-full-routine",
-"p": 16.15,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/sArtboard1-100_73857cc0-d011-410e-a621-6b09da812ddc.jpg?v=1776420436&width=400",
-"type": "Casual",
-"tags": [
-"Brand_Garnier",
-"Bundle",
-"No-Sync",
-"Product Type_Value Deals",
-"Sub Category_Value Deals",
-"SubCategory_Value Deals",
-"Value Deal",
-"Value Deals"
 ],
 "in": true
 },
@@ -34273,12 +34992,12 @@
 "in": false
 },
 {
-"t": "The Black Flame",
+"t": "NYX Professional Makeup Silver Pouch – Gift",
 "u": "https://skinsociety.me/products/nyx-professional-makeup-silver-pouch-gift",
 "p": 0.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/TheBlackFlame.jpg?v=1793284650&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/5283038000388-Metallicpouch-NYX-GWP.png?v=1774877101&width=400",
 "type": "POSM",
 "tags": [
 "Category_POSM",
@@ -34591,12 +35310,12 @@
 "in": true
 },
 {
-"t": "The Midnight Bat",
+"t": "NYX Professional Makeup Make-up Pouch – Gift",
 "u": "https://skinsociety.me/products/nyx-professional-makeup-make-up-pouch-gift",
 "p": 0.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/TheMidnightBat.jpg?v=1793284612&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/Purplepuffyhandbag-NYX.png?v=1774435517&width=400",
 "type": "POSM",
 "tags": [
 "Category_POSM",
@@ -34848,8 +35567,8 @@
 {
 "t": "YSL Loveshine Plumping Lip Oil Gloss",
 "u": "https://skinsociety.me/products/ysl-loveshine-plumping-lip-oil-gloss",
-"p": 52.99,
-"c": 0.0,
+"p": 37.09,
+"c": 52.99,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/ysl-loveshine-over-gloss-plumping-lip-gloss.webp?v=1774258778&width=400",
 "type": "Luxury",
@@ -34858,10 +35577,10 @@
 "Category_Make Up",
 "Lip Gloss",
 "Lips",
-"Loyalty Program",
 "Luxury",
 "Luxury Make Up",
-"Make Up"
+"Make Up",
+"new arrivals"
 ],
 "in": true
 },
@@ -36137,7 +36856,7 @@
 "Parapharmacy",
 "Product Type_Fatigue & Energy"
 ],
-"in": true
+"in": false
 },
 {
 "t": "GNC Vitamin B-12 1000Mcg",
@@ -37319,8 +38038,8 @@
 {
 "t": "Lancôme Lash Idôle Holiday Christmas Edition Set",
 "u": "https://skinsociety.me/products/lancome-lash-idole-holiday-christmas-edition-set",
-"p": 40.45,
-"c": 0.0,
+"p": 28.32,
+"c": 40.45,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3614274653571_03f397a0-8819-4082-9750-0d46c8351df1.jpg?v=1766048821&width=400",
 "type": "Luxury",
@@ -37339,8 +38058,8 @@
 {
 "t": "Ralph Lauren Romance Eau de Parfum Intense",
 "u": "https://skinsociety.me/products/ralph-lauren-romance-eau-de-parfum-intense",
-"p": 127.16,
-"c": 0.0,
+"p": 82.65,
+"c": 127.16,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3605972831170.jpg?v=1755675060&width=400",
 "type": "Luxury",
@@ -37350,9 +38069,9 @@
 "Eau De Parfum",
 "For Her",
 "Fragrances",
-"Loyalty Program",
 "Luxury Fragrances",
-"new arrivals"
+"new arrivals",
+"No-Sync"
 ],
 "in": false
 },
@@ -37379,8 +38098,8 @@
 {
 "t": "LoveShine Lipstick",
 "u": "https://skinsociety.me/products/loveshine-lipstick",
-"p": 57.51,
-"c": 0.0,
+"p": 40.26,
+"c": 57.51,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3614274132663.jpg?v=1742565178&width=400",
 "type": "Luxury",
@@ -37399,8 +38118,8 @@
 {
 "t": "LoveShine Candy Glow Balm",
 "u": "https://skinsociety.me/products/loveshine-candy-glow-balm",
-"p": 57.48,
-"c": 0.0,
+"p": 40.24,
+"c": 57.48,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3614274128277.jpg?v=1763472769&width=400",
 "type": "Luxury",
@@ -37411,8 +38130,8 @@
 "Category_Make Up",
 "Lip Balm & Treatments",
 "Lips",
-"Loyalty Program",
-"Luxury"
+"Luxury",
+"Luxury Make Up"
 ],
 "in": true
 },
@@ -39697,7 +40416,7 @@
 "Parapharmacy",
 "Product Type_Hair & Nails"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Grape Seed 380 Mg",
@@ -40152,8 +40871,8 @@
 {
 "t": "Ralph Lauren's Polo 67 Eau de Toilette",
 "u": "https://skinsociety.me/products/ralph-laurens-polo-67-eau-de-toilette",
-"p": 117.55,
-"c": 0.0,
+"p": 76.41,
+"c": 117.55,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3605972910240.jpg?v=1755674705&width=400",
 "type": "Luxury",
@@ -40163,9 +40882,9 @@
 "father27",
 "For Him",
 "Fragrances",
-"Loyalty Program",
 "Luxury",
-"Luxury Fragrances"
+"Luxury Fragrances",
+"new arrivals"
 ],
 "in": true
 },
@@ -40192,8 +40911,8 @@
 {
 "t": "Men's Uomo Born in Roma Extradose",
 "u": "https://skinsociety.me/products/mens-uomo-born-in-roma-extradose",
-"p": 161.4,
-"c": 0.0,
+"p": 112.98,
+"c": 161.4,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/born-in-roma-extradose-uomo-perfume-for-him-amber-fougere_7.webp?v=1771574525&width=400",
 "type": "Luxury",
@@ -40204,8 +40923,8 @@
 "father27",
 "For Him",
 "Fragrances",
-"Loyalty Program",
-"Luxury"
+"Luxury",
+"Luxury Fragrances"
 ],
 "in": true
 },
@@ -40428,20 +41147,20 @@
 {
 "t": "Lip Idole JuicyTreat",
 "u": "https://skinsociety.me/products/lip-idole-juicytreat",
-"p": 44.41,
-"c": 0.0,
+"p": 31.09,
+"c": 44.41,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3614274382600_9f1501a7-9479-4634-99f3-888b089983e5.jpg?v=1764055741&width=400",
 "type": "Luxury",
 "tags": [
 "Brand_Lancôme",
 "Category_Make Up",
-"Loyalty Program",
 "Luxury",
 "Luxury Make Up",
 "Make Up",
 "new arrivals",
-"No-Sync"
+"No-Sync",
+"OMG"
 ],
 "in": true
 },
@@ -40505,8 +41224,8 @@
 {
 "t": "Turnaround Overnight Revitalizing Moisturizer",
 "u": "https://skinsociety.me/products/turnaround-overnight-revitalizing-moisturizer",
-"p": 81.0,
-"c": null,
+"p": 56.7,
+"c": 81.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/61-ET4riMML._SL1500.jpg?v=1769158874&width=400",
 "type": "Luxury",
@@ -40518,7 +41237,7 @@
 "Item Type_Day & Night Care",
 "LIQUIDATION30",
 "LIQUIDATIONSALE26",
-"Loyalty Program"
+"Luxury"
 ],
 "in": true
 },
@@ -40860,7 +41579,7 @@
 "Product Type_Diabetic Friendly",
 "Sub Category_Nutrition"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Sweetener 3 In 1",
@@ -41700,7 +42419,7 @@
 "Parapharmacy",
 "Product Type_Body Building"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Iso Whey Zero Vanilla 1816 Gr",
@@ -41960,7 +42679,7 @@
 "Parapharmacy",
 "Product Type_Body Building"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Iso Whey Zero Chocolate 1816 Gr",
@@ -42221,8 +42940,8 @@
 {
 "t": "Make Me Blush Liquid Blush",
 "u": "https://skinsociety.me/products/make-me-blush-liquid-blush",
-"p": 54.17,
-"c": 0.0,
+"p": 37.92,
+"c": 54.17,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3614274220681.jpg?v=1765783061&width=400",
 "type": "Luxury",
@@ -42241,8 +42960,8 @@
 {
 "t": "Lancôme Skin Idôle Juicy Liquid Blush",
 "u": "https://skinsociety.me/products/lancome-skin-idole-juicy-liquid-blush",
-"p": 53.17,
-"c": 0.0,
+"p": 37.22,
+"c": 53.17,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3614274352542.jpg?v=1765956527&width=400",
 "type": "Luxury",
@@ -42253,8 +42972,8 @@
 "cheeks",
 "Lip Gloss",
 "Lips",
-"Loyalty Program",
-"Luxury"
+"Luxury",
+"Luxury Make Up"
 ],
 "in": true
 },
@@ -45511,7 +46230,7 @@
 "Product Type_Healthy Snacking",
 "Sub Category_Nutrition"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Kelual DS Duo Pack 200ml",
@@ -45596,8 +46315,8 @@
 {
 "t": "Even Tone Essentials Set",
 "u": "https://skinsociety.me/products/even-tone-essentials-set",
-"p": 97.51,
-"c": null,
+"p": 68.26,
+"c": 97.51,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/clinique-even-tone-essentials-set-skin-society-shop-address-country-1.jpg?v=1686495036&width=400",
 "type": "Luxury",
@@ -47748,7 +48467,7 @@
 "Product Type_Herbal Tea",
 "Sub Category_Nutrition"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Ultra-Air Night Time Soother 6-18M For Boys",
@@ -49248,7 +49967,7 @@
 "Product Type_Gluten Free",
 "Sub Category_Nutrition"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Drak Chocolate & Red Fruits Crispy Cereals",
@@ -50193,8 +50912,8 @@
 {
 "t": "Just Browsing Clear Sculpting Gel",
 "u": "https://skinsociety.me/products/just-browsing-clear-sculpting-gel",
-"p": 36.0,
-"c": null,
+"p": 25.2,
+"c": 36.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/192333271858.jpg?v=1766568860&width=400",
 "type": "Luxury",
@@ -50203,10 +50922,10 @@
 "brow pencil & Gel",
 "Category_Make Up",
 "Eyes",
-"Loyalty Program",
 "Luxury",
 "Luxury Make Up",
-"Make Up"
+"Make Up",
+"new arrivals"
 ],
 "in": true
 },
@@ -50253,8 +50972,8 @@
 {
 "t": "Make Me Blush Bold Blurring Blush",
 "u": "https://skinsociety.me/products/make-me-blush-bold-blurring-blush",
-"p": 72.88,
-"c": 0.0,
+"p": 51.02,
+"c": 72.88,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3614274254396.jpg?v=1766565388&width=400",
 "type": "Luxury",
@@ -50263,10 +50982,10 @@
 "Brand_Yves Saint Laurent",
 "Category_Make Up",
 "cheeks",
-"Loyalty Program",
 "Luxury",
 "Luxury Make Up",
-"Make Up"
+"Make Up",
+"new arrivals"
 ],
 "in": false
 },
@@ -50608,7 +51327,7 @@
 "Product Type_Toothbrushes",
 "Sub Category_Dental Care"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Little Smiles Maximum Cavity Kids Toothpaste 3 Years+",
@@ -51832,8 +52551,8 @@
 {
 "t": "Hypnose Drama Holiday Set",
 "u": "https://skinsociety.me/products/hypnose-drama-holiday-set",
-"p": 54.79,
-"c": 0.0,
+"p": 38.35,
+"c": 54.79,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3614274653380___L.jpg?v=1766047697&width=400",
 "type": "Luxury",
@@ -51845,7 +52564,7 @@
 "Eyes",
 "Item Type_Make Up Removers",
 "Item Type_Mascara",
-"Loyalty Program"
+"Luxury"
 ],
 "in": false
 },
@@ -51992,8 +52711,8 @@
 {
 "t": "Kit Vamp! Mascara & Mini Multiplay",
 "u": "https://skinsociety.me/products/kit-vamp-mascara-mini-multiplay",
-"p": 30.0,
-"c": null,
+"p": 21.0,
+"c": 30.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/8011607403554.jpg?v=1764672078&width=400",
 "type": "Casual",
@@ -52465,7 +53184,7 @@
 "SAVE20",
 "SAVE22"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Teething Ring 0M+ X2",
@@ -53270,7 +53989,7 @@
 {
 "t": "Lash Idôle Mascara & Cils Booster Duo Set",
 "u": "https://skinsociety.me/products/lash-idole-mascara-cils-booster-duo-set",
-"p": 54.79,
+"p": 58.8,
 "c": 84.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3614274653502.jpg?v=1765809140&width=400",
@@ -53282,8 +54001,8 @@
 "Eyes",
 "Gift Sets",
 "Item Type_Mascara",
-"Loyalty Program",
-"Luxury"
+"Luxury",
+"Luxury Make Up"
 ],
 "in": false
 },
@@ -54477,7 +55196,7 @@
 {
 "t": "Holiday Beauty Inside A Box",
 "u": "https://skinsociety.me/products/holiday-beaty-inside-a-box",
-"p": 180.0,
+"p": 90.0,
 "c": 303.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/8834731200123.jpg?v=1765355620&width=400",
@@ -54490,7 +55209,7 @@
 "Gift Sets",
 "Lips",
 "Lipstick",
-"Loyalty Program"
+"Luxury"
 ],
 "in": false
 },
@@ -54648,17 +55367,17 @@
 {
 "t": "Stronger With You Amber",
 "u": "https://skinsociety.me/products/stronger-with-you-amber",
-"p": 153.3,
-"c": 0.0,
+"p": 107.31,
+"c": 153.3,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3614274708400-1.jpg?v=1764929767&width=400",
 "type": "Luxury",
 "tags": [
 "Brand_Giorgio Armani",
-"Loyalty Program",
 "new arrivals",
 "No-Sync",
-"OMG"
+"OMG",
+"Value Deals"
 ],
 "in": true
 },
@@ -54680,7 +55399,7 @@
 "Skin Beauty",
 "Sub Category_Food Supplements"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Collagen With Probiotics Powder",
@@ -54745,8 +55464,8 @@
 {
 "t": "Beauty Box International Set",
 "u": "https://skinsociety.me/products/beauty-box-international-set",
-"p": 186.77,
-"c": 0.0,
+"p": 130.74,
+"c": 186.77,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3614274652574.jpg?v=1764446497&width=400",
 "type": "Luxury",
@@ -54755,10 +55474,10 @@
 "Category_Make Up",
 "Category_Skin Care",
 "Gift Sets",
-"Loyalty Program",
 "Luxury",
 "Luxury Make Up",
-"Luxury Skin Care"
+"Luxury Skin Care",
+"Make Up"
 ],
 "in": false
 },
@@ -54845,8 +55564,8 @@
 {
 "t": "Men's Forever Wanted Elixir",
 "u": "https://skinsociety.me/products/mens-forever-wanted-elixir",
-"p": 148.74,
-"c": null,
+"p": 96.68,
+"c": 148.74,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3614274258073-1.jpg?v=1764079426&width=400",
 "type": "Luxury",
@@ -54854,19 +55573,19 @@
 "Brand_Azzaro",
 "father27",
 "For Him",
-"Loyalty Program",
 "Luxury",
 "Luxury Fragrances",
 "new arrivals",
-"No-Sync"
+"No-Sync",
+"OMG"
 ],
 "in": true
 },
 {
 "t": "Men's Chrome Legend Eau de Toilette",
 "u": "https://skinsociety.me/products/mens-chrome-legend-eau-de-toilette",
-"p": 70.77,
-"c": 0.0,
+"p": 46.0,
+"c": 70.77,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3614273962391-1.jpg?v=1764079362&width=400",
 "type": "Luxury",
@@ -54876,9 +55595,9 @@
 "Eau De Toilette",
 "For Him",
 "Fragrances",
-"Loyalty Program",
 "Luxury",
-"Luxury Fragrances"
+"Luxury Fragrances",
+"new arrivals"
 ],
 "in": true
 },
@@ -54905,8 +55624,8 @@
 {
 "t": "SI Prafum",
 "u": "https://skinsociety.me/products/si-prafum",
-"p": 164.06,
-"c": 0.0,
+"p": 114.84,
+"c": 164.06,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3614274322293.jpg?v=1758869903&width=400",
 "type": "Luxury",
@@ -54915,10 +55634,10 @@
 "Category_Fragrances",
 "For Her",
 "Fragrances",
-"Loyalty Program",
 "Luxury",
 "Luxury Fragrances",
-"new arrivals"
+"new arrivals",
+"No-Sync"
 ],
 "in": true
 },
@@ -55440,7 +56159,7 @@
 "OMG",
 "Product Type_Feeding Sets & Utensils"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Soft Tip Spoon 4M+",
@@ -55480,7 +56199,7 @@
 "Product Type_Biscuits",
 "Sub Category_Baby Nutrition"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Basics Supreme Sleep",
@@ -56644,8 +57363,8 @@
 {
 "t": "Libre Eau de Parfum Holiday Set",
 "u": "https://skinsociety.me/products/libre-eau-de-parfum-holiday-set",
-"p": 187.86,
-"c": 0.0,
+"p": 131.5,
+"c": 187.86,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3614274638295.jpg?v=1764756105&width=400",
 "type": "Luxury",
@@ -56655,17 +57374,17 @@
 "Eau De Parfum",
 "For Her",
 "Item Type_Mascara",
-"Loyalty Program",
 "Luxury",
-"Luxury Fragrances"
+"Luxury Fragrances",
+"Mascara"
 ],
 "in": false
 },
 {
 "t": "Libre Holiday Gift Set",
 "u": "https://skinsociety.me/products/libre-holiday-gift-set",
-"p": 209.22,
-"c": 0.0,
+"p": 146.45,
+"c": 209.22,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3614274769722___4___L.jpg?v=1784892790&width=400",
 "type": "Luxury",
@@ -56684,8 +57403,8 @@
 {
 "t": "Born in Roma Uomo Extradose Holiday Gift Set",
 "u": "https://skinsociety.me/products/born-in-roma-uomo-extradose-holiday-gift-set",
-"p": 112.35,
-"c": 0.0,
+"p": 78.65,
+"c": 112.35,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3614274692792.jpg?v=1764755459&width=400",
 "type": "Luxury",
@@ -56696,16 +57415,16 @@
 "For Him",
 "Fragrances",
 "Gift Sets",
-"Loyalty Program",
-"Luxury"
+"Luxury",
+"Luxury Fragrances"
 ],
 "in": false
 },
 {
 "t": "Prada Paradoxe Intense Eau de Parfum Gift Set",
 "u": "https://skinsociety.me/products/prada-paradoxe-intense-eau-de-parfum-gift-set",
-"p": 152.49,
-"c": 0.0,
+"p": 106.74,
+"c": 152.49,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3614274642018.jpg?v=1764755349&width=400",
 "type": "Luxury",
@@ -56716,16 +57435,16 @@
 "For Her",
 "Fragrances",
 "Gift Sets",
-"Loyalty Program",
-"Luxury"
+"Luxury",
+"Luxury Fragrances"
 ],
 "in": false
 },
 {
 "t": "Born in Roma Donna Extradose Holiday Edition",
 "u": "https://skinsociety.me/products/born-in-roma-donna-extradose-holiday-edition",
-"p": 144.66,
-"c": 0.0,
+"p": 101.26,
+"c": 144.66,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3614274692808.jpg?v=1764755100&width=400",
 "type": "Luxury",
@@ -56736,16 +57455,16 @@
 "For Her",
 "Fragrances",
 "Gift Sets",
-"Loyalty Program",
-"Luxury"
+"Luxury",
+"Luxury Fragrances"
 ],
 "in": false
 },
 {
 "t": "La Vie Est Belle Vanille Nude Eau de Parfum",
 "u": "https://skinsociety.me/products/la-vie-est-belle-vanille-nude-eau-de-parfum",
-"p": 136.49,
-"c": 0.0,
+"p": 95.54,
+"c": 136.49,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3614274397246.jpg?v=1764446198&width=400",
 "type": "Luxury",
@@ -56754,17 +57473,17 @@
 "Eau De Parfum",
 "For Her",
 "Fragrances",
-"Loyalty Program",
 "Luxury",
 "Luxury Fragrances",
-"new arrivals"
+"new arrivals",
+"No-Sync"
 ],
 "in": false
 },
 {
 "t": "Idole Eau de Parfum Trio Set",
 "u": "https://skinsociety.me/products/idole-eau-de-parfum-trio-set",
-"p": 175.12,
+"p": 180.6,
 "c": 258.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3614274654394.jpg?v=1764752925&width=400",
@@ -56774,18 +57493,18 @@
 "Category_Fragrances",
 "Fragrances",
 "Gift Sets",
-"Loyalty Program",
 "Luxury",
 "Luxury Fragrances",
-"new arrivals"
+"new arrivals",
+"No-Sync"
 ],
 "in": false
 },
 {
 "t": "La Vie Est Belle Trio Set",
 "u": "https://skinsociety.me/products/la-vie-est-belle-trio-set",
-"p": 175.28,
-"c": 0.0,
+"p": 122.7,
+"c": 175.28,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3614274654158.jpg?v=1764752807&width=400",
 "type": "Luxury",
@@ -56797,15 +57516,15 @@
 "For Her",
 "Fragrances",
 "Gift Sets",
-"Loyalty Program"
+"Luxury"
 ],
 "in": false
 },
 {
 "t": "La Vie Est Belle Vanille Nude",
 "u": "https://skinsociety.me/products/la-vie-est-belle-vanille-nude-eau-de-parfum-set",
-"p": 188.97,
-"c": 0.0,
+"p": 132.28,
+"c": 188.97,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3614274397253-1.jpg?v=1764752761&width=400",
 "type": "Luxury",
@@ -56815,17 +57534,17 @@
 "Eau De Parfum",
 "For Her",
 "Fragrances",
-"Loyalty Program",
 "Luxury",
-"Luxury Fragrances"
+"Luxury Fragrances",
+"new arrivals"
 ],
 "in": false
 },
 {
 "t": "Kit Vamp! Lash Extender Set",
 "u": "https://skinsociety.me/products/kit-vamp-lash-extender-cott-bag-burg",
-"p": 32.0,
-"c": null,
+"p": 22.4,
+"c": 32.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/8011607403912.jpg?v=1764752638&width=400",
 "type": "Casual",
@@ -56844,8 +57563,8 @@
 {
 "t": "Kit Vamp! Lash Extender & Wonder Me Glow",
 "u": "https://skinsociety.me/products/kit-vamp-lash-ext-wonder-me-glow",
-"p": 49.0,
-"c": null,
+"p": 34.3,
+"c": 49.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/8011607403707.jpg?v=1764752459&width=400",
 "type": "Casual",
@@ -56857,15 +57576,15 @@
 "Color_Black Mascara",
 "For Her",
 "Item Type_Mascara",
-"Loyalty Program"
+"Make Up"
 ],
 "in": true
 },
 {
 "t": "Kit Vamp!Sexy Lashes & Skinny Liner",
 "u": "https://skinsociety.me/products/kit-vamp-sexy-lashes-skinny-liner",
-"p": 40.0,
-"c": null,
+"p": 28.0,
+"c": 40.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/8011607403646.jpg?v=1764752383&width=400",
 "type": "Casual",
@@ -56884,8 +57603,8 @@
 {
 "t": "Kit Vamp! Mascara & Miss Pupa Gloss",
 "u": "https://skinsociety.me/products/kit-vamp-mascara-miss-pupa-gloss",
-"p": 49.0,
-"c": null,
+"p": 34.3,
+"c": 49.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/8011607403714.jpg?v=1764752290&width=400",
 "type": "Casual",
@@ -56904,8 +57623,8 @@
 {
 "t": "Kit Vamp!Lash Extender+Eyepencil",
 "u": "https://skinsociety.me/products/kit-vamp-lash-extender-eyepencil",
-"p": 41.0,
-"c": null,
+"p": 28.7,
+"c": 41.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/8011607403622.jpg?v=1764752181&width=400",
 "type": "Casual",
@@ -56924,8 +57643,8 @@
 {
 "t": "Kit Vamp! Mascara + Vamp Eyepencil",
 "u": "https://skinsociety.me/products/kit-vamp-mascara-vamp-eyepencil",
-"p": 41.0,
-"c": null,
+"p": 28.7,
+"c": 41.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/8011607403608.jpg?v=1764675784&width=400",
 "type": "Casual",
@@ -56944,8 +57663,8 @@
 {
 "t": "Kit Vamp! Sexy Lashes & Minimultiplay",
 "u": "https://skinsociety.me/products/kit-vamp-sexy-lashes-minimultiplay",
-"p": 30.0,
-"c": null,
+"p": 21.0,
+"c": 30.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/8011607403578.jpg?v=1764672177&width=400",
 "type": "Casual",
@@ -56964,8 +57683,8 @@
 {
 "t": "Kit Vamp! Sexy Lash & Mirror & Tweezers",
 "u": "https://skinsociety.me/products/kit-vamp-sexy-lash-mirror-tweezers",
-"p": 32.0,
-"c": null,
+"p": 22.4,
+"c": 32.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/8011607403875.jpg?v=1764751919&width=400",
 "type": "Casual",
@@ -56984,8 +57703,8 @@
 {
 "t": "Kit Vamp! Sexy Lashes & Vamp Eyepencil",
 "u": "https://skinsociety.me/products/kit-vamp-sexy-lashes-vamp-eyepencil",
-"p": 41.0,
-"c": null,
+"p": 28.7,
+"c": 41.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/8011607403615.jpg?v=1764751840&width=400",
 "type": "Casual",
@@ -57004,8 +57723,8 @@
 {
 "t": "Kit Vamp!Lash Extender & Skinny Liner",
 "u": "https://skinsociety.me/products/kit-vamp-lash-extender-skinny-liner",
-"p": 40.0,
-"c": null,
+"p": 28.0,
+"c": 40.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/8011607403677.jpg?v=1764751601&width=400",
 "type": "Casual",
@@ -57024,8 +57743,8 @@
 {
 "t": "Kit Vamp! Mascara & Skinny Liner",
 "u": "https://skinsociety.me/products/kit-vamp-mascara-skinny-liner",
-"p": 40.0,
-"c": null,
+"p": 28.0,
+"c": 40.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/8011607403639.jpg?v=1764751516&width=400",
 "type": "Casual",
@@ -57044,8 +57763,8 @@
 {
 "t": "Kit Vamp! Lash Extender & Shock Plump",
 "u": "https://skinsociety.me/products/kit-vamp-lash-exter-shock-plump",
-"p": 43.0,
-"c": null,
+"p": 30.1,
+"c": 43.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/8011607403783.jpg?v=1764751395&width=400",
 "type": "Casual",
@@ -57064,8 +57783,8 @@
 {
 "t": "Kit Vamp! Forever & Minimultiplay",
 "u": "https://skinsociety.me/products/kit-vamp-forever-minimultiplay",
-"p": 30.0,
-"c": null,
+"p": 21.0,
+"c": 30.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/8011607403585.jpg?v=1764672332&width=400",
 "type": "Casual",
@@ -57084,8 +57803,8 @@
 {
 "t": "Kit Vamp! Sexy Lashes & Miss Pupa Gloss",
 "u": "https://skinsociety.me/products/kit-vamp-sexy-lashes-miss-pupa-glos",
-"p": 49.0,
-"c": null,
+"p": 34.3,
+"c": 49.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/8011607403721.jpg?v=1764751253&width=400",
 "type": "Casual",
@@ -57104,8 +57823,8 @@
 {
 "t": "Kit Vamp! Forever & Miss Pupa Gloss",
 "u": "https://skinsociety.me/products/kit-vamp-forver-miss-pupa-gloss",
-"p": 49.0,
-"c": null,
+"p": 34.3,
+"c": 49.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/8011607403738.jpg?v=1764751125&width=400",
 "type": "Casual",
@@ -57124,8 +57843,8 @@
 {
 "t": "Kit Vamp! Mascara & Wonder Me Glow",
 "u": "https://skinsociety.me/products/kit-vamp-mascara-wonder-me-glow",
-"p": 49.0,
-"c": null,
+"p": 34.3,
+"c": 49.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/8011607403684.jpg?v=1764750972&width=400",
 "type": "Casual",
@@ -57144,8 +57863,8 @@
 {
 "t": "Kit Vamp!All In One & Skinny Liner",
 "u": "https://skinsociety.me/products/kit-vamp-all-in-one-skinny-liner",
-"p": 40.0,
-"c": null,
+"p": 28.0,
+"c": 40.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/8011607403660.jpg?v=1764750880&width=400",
 "type": "Casual",
@@ -57164,8 +57883,8 @@
 {
 "t": "Kit Vamp! Lash Extender & Minimultplay",
 "u": "https://skinsociety.me/products/kit-vamp-lash-extender-minimultplay",
-"p": 30.0,
-"c": null,
+"p": 21.0,
+"c": 30.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/8011607403592.jpg?v=1764675551&width=400",
 "type": "Casual",
@@ -57184,8 +57903,8 @@
 {
 "t": "Kit Vamp! Lash Extender & Mousse Me Softly",
 "u": "https://skinsociety.me/products/kit-vamp-lash-exten-mousse-me-softl",
-"p": 44.0,
-"c": null,
+"p": 30.8,
+"c": 44.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/8011607403806.jpg?v=1764750627&width=400",
 "type": "Casual",
@@ -57204,8 +57923,8 @@
 {
 "t": "Kit Vamp! Lash Extender & Miss Pupa Gloss",
 "u": "https://skinsociety.me/products/kit-vamp-lash-ext-miss-pupa-gloss",
-"p": 49.0,
-"c": null,
+"p": 34.3,
+"c": 49.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/8011607403745.jpg?v=1764750466&width=400",
 "type": "Casual",
@@ -57224,8 +57943,8 @@
 {
 "t": "Kit Vamp! Sexy Lashes & Wonder Me Glow",
 "u": "https://skinsociety.me/products/kit-vamp-sexy-lashes-wonder-me-glow",
-"p": 49.0,
-"c": null,
+"p": 34.3,
+"c": 49.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/8011607403691.jpg?v=1764750351&width=400",
 "type": "Casual",
@@ -57244,8 +57963,8 @@
 {
 "t": "Kit Vamp!All In One & Mousse Me Soft",
 "u": "https://skinsociety.me/products/kit-vamp-all-in-one-mousse-me-soft",
-"p": 44.0,
-"c": null,
+"p": 30.8,
+"c": 44.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/8011607403790.jpg?v=1764750110&width=400",
 "type": "Casual",
@@ -57255,17 +57974,17 @@
 "Category_Make Up",
 "For Her",
 "Gift Sets",
-"Loyalty Program",
 "Make Up",
-"mother26"
+"mother26",
+"new arrivals"
 ],
 "in": true
 },
 {
 "t": "Kit Vamp! Sexy Lashes & Shock Plump",
 "u": "https://skinsociety.me/products/kit-vamp-sexy-lashes-shock-plump",
-"p": 43.0,
-"c": null,
+"p": 30.1,
+"c": 43.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/8011607403776.jpg?v=1764749843&width=400",
 "type": "Casual",
@@ -57304,8 +58023,8 @@
 {
 "t": "Kit Vamp! Lash Extender & Wand Eraser",
 "u": "https://skinsociety.me/products/kit-vamp-lash-exten-wand-eraser",
-"p": 32.0,
-"c": null,
+"p": 22.4,
+"c": 32.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/8011607403844.jpg?v=1764749629&width=400",
 "type": "Casual",
@@ -57324,8 +58043,8 @@
 {
 "t": "Men's Aqua Di Giò Profondo Eau de Parfum Holiday Set",
 "u": "https://skinsociety.me/products/mens-aqua-di-gio-profondo-eau-de-parfum-holiday-set",
-"p": 176.4,
-"c": 0.0,
+"p": 123.48,
+"c": 176.4,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3614274692495.jpg?v=1764749410&width=400",
 "type": "Luxury",
@@ -57336,16 +58055,16 @@
 "For Him",
 "Fragrances",
 "Gift Sets",
-"Loyalty Program",
-"Luxury"
+"Luxury",
+"Luxury Fragrances"
 ],
 "in": false
 },
 {
 "t": "Si Passione Intense Holiday GiftSet",
 "u": "https://skinsociety.me/products/si-passione-intense-holiday-giftset",
-"p": 144.68,
-"c": 0.0,
+"p": 101.28,
+"c": 144.68,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3614274692723.jpg?v=1764749335&width=400",
 "type": "Luxury",
@@ -57356,16 +58075,16 @@
 "For Her",
 "Fragrances",
 "Gift Sets",
-"Loyalty Program",
-"Luxury"
+"Luxury",
+"Luxury Fragrances"
 ],
 "in": true
 },
 {
 "t": "Armani Code Homme Eau de Parfum Set",
 "u": "https://skinsociety.me/products/armani-code-homme-eau-de-parfum-set",
-"p": 117.68,
-"c": 0.0,
+"p": 82.38,
+"c": 117.68,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3614274749779.jpg?v=1764749232&width=400",
 "type": "Luxury",
@@ -57376,16 +58095,16 @@
 "For Him",
 "Fragrances",
 "Gift Sets",
-"Loyalty Program",
-"Luxury"
+"Luxury",
+"Luxury Fragrances"
 ],
 "in": false
 },
 {
 "t": "Armani Code Parfum Holiday Set",
 "u": "https://skinsociety.me/products/armani-code-parfum-holiday-set",
-"p": 105.61,
-"c": 0.0,
+"p": 73.93,
+"c": 105.61,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3614274692525.jpg?v=1764749143&width=400",
 "type": "Luxury",
@@ -57396,16 +58115,16 @@
 "For Him",
 "Fragrances",
 "Gift Sets",
-"Loyalty Program",
-"Luxury"
+"Luxury",
+"Luxury Fragrances"
 ],
 "in": false
 },
 {
 "t": "Si Passione Red Musk Holiday-Set",
 "u": "https://skinsociety.me/products/si-passione-red-musk-holiday-set",
-"p": 133.69,
-"c": 0.0,
+"p": 93.58,
+"c": 133.69,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3614274692716.jpg?v=1764748919&width=400",
 "type": "Luxury",
@@ -57416,8 +58135,8 @@
 "For Her",
 "Fragrances",
 "Gift Sets",
-"Loyalty Program",
-"Luxury"
+"Luxury",
+"Luxury Fragrances"
 ],
 "in": false
 },
@@ -57604,8 +58323,8 @@
 {
 "t": "Y Eau De Parfum Gift Set",
 "u": "https://skinsociety.me/products/y-eau-de-parfum-gift-set",
-"p": 164.1,
-"c": 0.0,
+"p": 114.87,
+"c": 164.1,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3614274643459.jpg?v=1764747456&width=400",
 "type": "Luxury",
@@ -57624,8 +58343,8 @@
 {
 "t": "Sì Passione Eau De Parfum Gift Set",
 "u": "https://skinsociety.me/products/si-passione-eau-de-parfum-gift-set",
-"p": 193.81,
-"c": 0.0,
+"p": 135.67,
+"c": 193.81,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3614274692747.jpg?v=1764747410&width=400",
 "type": "Luxury",
@@ -57637,15 +58356,15 @@
 "Eau De Parfum",
 "For Her",
 "Gift Sets",
-"Loyalty Program"
+"Luxury"
 ],
 "in": false
 },
 {
 "t": "Stronger With You Intensely Eau De Parfum Gift Set",
 "u": "https://skinsociety.me/products/stronger-with-you-intensely-eau-de-parfum-gift-set",
-"p": 145.78,
-"c": 0.0,
+"p": 102.05,
+"c": 145.78,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3614274692563-1.jpg?v=1764747281&width=400",
 "type": "Luxury",
@@ -57664,8 +58383,8 @@
 {
 "t": "Stronger With You Eau De Toilette Gift Set",
 "u": "https://skinsociety.me/products/stronger-with-you-eau-de-toilette-gift-set",
-"p": 128.37,
-"c": 0.0,
+"p": 89.86,
+"c": 128.37,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/36142746925701-1.jpg?v=1764336277&width=400",
 "type": "Luxury",
@@ -57684,8 +58403,8 @@
 {
 "t": "Kit Vamp! All In One & Mini Multiplay",
 "u": "https://skinsociety.me/products/kit-vamp-all-in-one-mini-multiplay",
-"p": 30.0,
-"c": null,
+"p": 21.0,
+"c": 30.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/8011607403561.jpg?v=1764672152&width=400",
 "type": "Casual",
@@ -57704,8 +58423,8 @@
 {
 "t": "Stronger With You - Eau de Toilette Set",
 "u": "https://skinsociety.me/products/stronger-with-you-eau-de-toilette-set",
-"p": 94.08,
-"c": 0.0,
+"p": 65.86,
+"c": 94.08,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3614274692587-1.jpg?v=1764747128&width=400",
 "type": "Luxury",
@@ -57744,8 +58463,8 @@
 {
 "t": "Stronger With You Intensely Eau De Parfum Set",
 "u": "https://skinsociety.me/products/stronger-with-you-intensely-eau-de-parfum-set",
-"p": 105.61,
-"c": 0.0,
+"p": 73.93,
+"c": 105.61,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3614274692556-1.jpg?v=1764747069&width=400",
 "type": "Luxury",
@@ -57764,8 +58483,8 @@
 {
 "t": "Armani Code Pour Homme Eau de Toilette Gift Set",
 "u": "https://skinsociety.me/products/armani-code-pour-homme-gift-set-eau-de-toilette-75ml-travel-size-eau-de-toilette-15ml-body-shampoo-75ml-giorgio-armani",
-"p": 139.05,
-"c": 0.0,
+"p": 97.34,
+"c": 139.05,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3614274692648.jpg?v=1764746975&width=400",
 "type": "Luxury",
@@ -58140,738 +58859,5 @@
 "Tools & Accessories"
 ],
 "in": false
-},
-{
-"t": "Instant Ice Pack",
-"u": "https://skinsociety.me/products/instant-ice-pack",
-"p": 4.04,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/8058090008910.jpg?v=1764683678&width=400",
-"type": "Parapharmacy",
-"tags": [
-"8058090008910",
-"Brand_Pic Solution",
-"Category_Parapharmacy",
-"Family Health",
-"First Aid",
-"Parapharmacy",
-"Product Type_First Aid",
-"Sub Category_Family Health"
-],
-"in": false
-},
-{
-"t": "Flavours Condom",
-"u": "https://skinsociety.me/products/flavours-condom",
-"p": 5.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/5032331008061.jpg?v=1764682111&width=400",
-"type": "Parapharmacy",
-"tags": [
-"5032331008061",
-"Birth Control",
-"Brand_Pasante",
-"Category_Parapharmacy",
-"OMG",
-"Parapharmacy",
-"Product Type_Birth Control",
-"SAVE20"
-],
-"in": false
-},
-{
-"t": "Travel Refillable Tube",
-"u": "https://skinsociety.me/products/travel-refillable-tube",
-"p": 5.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/79625011081.jpg?v=1764679415&width=400",
-"type": "Parapharmacy",
-"tags": [
-"79625011081",
-"Accessories",
-"Brand_Mon Image",
-"Category_Parapharmacy",
-"Family Health",
-"OMG",
-"Parapharmacy",
-"Product Type_Accessories"
-],
-"in": true
-},
-{
-"t": "Farmactive Plaster Spray",
-"u": "https://skinsociety.me/products/farmactive-plaster-spray",
-"p": 6.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/8000246004697.jpg?v=1764683624&width=400",
-"type": "Parapharmacy",
-"tags": [
-"8000246004697",
-"Brand_Skin Society Para",
-"Category_Parapharmacy",
-"Family Health",
-"First Aid",
-"Parapharmacy",
-"Product Type_First Aid",
-"Sub Category_Family Health"
-],
-"in": false
-},
-{
-"t": "Wound Care Kit",
-"u": "https://skinsociety.me/products/wound-care-kit",
-"p": 15.54,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/884389101868.jpg?v=1764679591&width=400",
-"type": "Parapharmacy",
-"tags": [
-"884389101868",
-"Brand_Curad",
-"Category_Parapharmacy",
-"Family Health",
-"First Aid",
-"OMG",
-"Parapharmacy",
-"Product Type_First Aid"
-],
-"in": true
-},
-{
-"t": "Nebulizer Accessory N4",
-"u": "https://skinsociety.me/products/nebulizer-accessory-n4",
-"p": 8.89,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/4715139001458.jpg?v=1764681573&width=400",
-"type": "Parapharmacy",
-"tags": [
-"4715139001458",
-"Brand_Rossmax",
-"Category_Parapharmacy",
-"Health Devices & Accessories",
-"Health Monitors",
-"OMG",
-"Parapharmacy",
-"Product Type_Health Monitors"
-],
-"in": true
-},
-{
-"t": "Foam Wrap",
-"u": "https://skinsociety.me/products/foam-wrap",
-"p": 7.48,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/888277181963.jpg?v=1764679707&width=400",
-"type": "Parapharmacy",
-"tags": [
-"888277181963",
-"Brand_Curad",
-"Category_Parapharmacy",
-"Family Health",
-"First Aid",
-"OMG",
-"Parapharmacy",
-"Product Type_First Aid"
-],
-"in": false
-},
-{
-"t": "Full Wash Enteroclisma Enema",
-"u": "https://skinsociety.me/products/full-wash-enteroclisma-enema",
-"p": 9.91,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/8058090025306.jpg?v=1764682973&width=400",
-"type": "Parapharmacy",
-"tags": [
-"8058090025306",
-"Accessories",
-"Brand_Pic Solution",
-"Category_Parapharmacy",
-"Family Health",
-"Parapharmacy",
-"Product Type_Accessories",
-"Sub Category_Family Health"
-],
-"in": true
-},
-{
-"t": "Large Non-Stick Pads",
-"u": "https://skinsociety.me/products/large-non-stick-pads",
-"p": 5.65,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/80196320779.jpg?v=1764683307&width=400",
-"type": "Parapharmacy",
-"tags": [
-"80196320779",
-"Brand_Curad",
-"Category_Parapharmacy",
-"Family Health",
-"First Aid",
-"OMG",
-"Parapharmacy",
-"Product Type_First Aid"
-],
-"in": false
-},
-{
-"t": "Neon 4 Sided Seal Plastic Bandage",
-"u": "https://skinsociety.me/products/neon-4-sided-seal-plastic-bandage",
-"p": 4.5,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/80196761695.jpg?v=1764683364&width=400",
-"type": "Parapharmacy",
-"tags": [
-"80196761695",
-"Brand_Curad",
-"Category_Parapharmacy",
-"Family Health",
-"First Aid",
-"OMG",
-"Parapharmacy",
-"Product Type_First Aid"
-],
-"in": true
-},
-{
-"t": "Silicone Sandals Strips",
-"u": "https://skinsociety.me/products/silicone-sandals-strips",
-"p": 6.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/8000000003430.jpg?v=1764679946&width=400",
-"type": "Parapharmacy",
-"tags": [
-"8000000003430",
-"Brand_Deez",
-"Category_Parapharmacy",
-"Family Health",
-"Foot Health Care",
-"Parapharmacy",
-"Product Type_Foot Health Care",
-"Sub Category_Family Health"
-],
-"in": true
-},
-{
-"t": "Daily Medipak Pill Organizer",
-"u": "https://skinsociety.me/products/daily-medipak-pill-organizer",
-"p": 7.41,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/76855700488.jpg?v=1764679349&width=400",
-"type": "Parapharmacy",
-"tags": [
-"76855700488",
-"Accessories",
-"Brand_Apex",
-"Category_Parapharmacy",
-"Family Health",
-"Parapharmacy",
-"Product Type_Accessories",
-"Sub Category_Family Health"
-],
-"in": false
-},
-{
-"t": "Blood Pressure Monitor BM27",
-"u": "https://skinsociety.me/products/blood-pressure-monitor-bm27",
-"p": 40.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/4211125658182.jpg?v=1764679815&width=400",
-"type": "Parapharmacy",
-"tags": [
-"4211125658182",
-"Brand_Beurer Health",
-"Category_Parapharmacy",
-"Health Devices & Accessories",
-"Health Monitors",
-"OMG",
-"Parapharmacy",
-"Product Type_Health Monitors"
-],
-"in": false
-},
-{
-"t": "Advanced Scar Therapy Gel Strips",
-"u": "https://skinsociety.me/products/advanced-scar-therapy-gel-strips",
-"p": 59.78,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/884389124317.jpg?v=1764679650&width=400",
-"type": "Parapharmacy",
-"tags": [
-"884389124317",
-"Brand_Curad",
-"Category_Parapharmacy",
-"Family Health",
-"First Aid",
-"OMG",
-"Parapharmacy",
-"Product Type_First Aid"
-],
-"in": true
-},
-{
-"t": "Silicone Heel Sleeves",
-"u": "https://skinsociety.me/products/silicone-heel-sleeves",
-"p": 12.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/8000000003454.jpg?v=1764680043&width=400",
-"type": "Parapharmacy",
-"tags": [
-"8000000003454",
-"Brand_Deez",
-"Category_Parapharmacy",
-"Family Health",
-"Foot Health Care",
-"Parapharmacy",
-"Product Type_Foot Health Care",
-"Sub Category_Family Health"
-],
-"in": false
-},
-{
-"t": "Sheet NG-301",
-"u": "https://skinsociety.me/products/sheet-ng-301",
-"p": 52.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3184900000000.jpg?v=1764683567&width=400",
-"type": "Parapharmacy",
-"tags": [
-"3184900000000",
-"Brand_Newgel+",
-"Category_Parapharmacy",
-"Family Health",
-"First Aid",
-"Parapharmacy",
-"Product Type_First Aid",
-"Sub Category_Family Health"
-],
-"in": true
-},
-{
-"t": "Glow Condom",
-"u": "https://skinsociety.me/products/glow-condom",
-"p": 6.5,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/5060150684265.jpg?v=1764682597&width=400",
-"type": "Parapharmacy",
-"tags": [
-"5060150684265",
-"Birth Control",
-"Brand_Pasante",
-"Category_Parapharmacy",
-"OMG",
-"Parapharmacy",
-"Product Type_Birth Control",
-"SAVE20"
-],
-"in": true
-},
-{
-"t": "Climax Condom",
-"u": "https://skinsociety.me/products/climax-condom",
-"p": 4.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/5060359487698.jpg?v=1764682647&width=400",
-"type": "Parapharmacy",
-"tags": [
-"5060359487698",
-"Birth Control",
-"Brand_Pasante",
-"Category_Parapharmacy",
-"OMG",
-"Parapharmacy",
-"Product Type_Birth Control",
-"SAVE20"
-],
-"in": false
-},
-{
-"t": "Marie-Rose Anti-Lice Shampoo",
-"u": "https://skinsociety.me/products/marie-rose-anti-lice-shampoo",
-"p": 10.24,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3160920964718.jpg?v=1764683502&width=400",
-"type": "Parapharmacy",
-"tags": [
-"3160920964718",
-"Anti-Lice",
-"Brand_Skin Society Para",
-"Category_Parapharmacy",
-"Family Health",
-"Parapharmacy",
-"Product Type_Anti-Lice",
-"Sub Category_Family Health"
-],
-"in": true
-},
-{
-"t": "7 Day AM/PM Pill Box",
-"u": "https://skinsociety.me/products/7-day-am-pm-pill-box",
-"p": 16.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/5057881642237.jpg?v=1764682242&width=400",
-"type": "Parapharmacy",
-"tags": [
-"5057881642237",
-"Accessories",
-"Brand_Vita Plus",
-"Category_Parapharmacy",
-"Family Health",
-"OMG",
-"Parapharmacy",
-"Product Type_Accessories"
-],
-"in": true
-},
-{
-"t": "Pill Cutter",
-"u": "https://skinsociety.me/products/pill-cutter",
-"p": 4.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/5057881642213.jpg?v=1764682169&width=400",
-"type": "Parapharmacy",
-"tags": [
-"5057881642213",
-"Accessories",
-"Brand_Vita Plus",
-"Category_Parapharmacy",
-"Family Health",
-"OMG",
-"Parapharmacy",
-"Product Type_Accessories"
-],
-"in": false
-},
-{
-"t": "Pack With Cover",
-"u": "https://skinsociety.me/products/pack-with-cover",
-"p": 13.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/4250694701066_299916fa-e26b-49eb-8327-2c7c3efea2b5.jpg?v=1781696398&width=400",
-"type": "Parapharmacy",
-"tags": [
-"4250694701066",
-"Brand_Sissel",
-"Category_Parapharmacy",
-"Family Health",
-"First Aid",
-"Parapharmacy",
-"Product Type_First Aid",
-"Sub Category_Family Health"
-],
-"in": true
-},
-{
-"t": "Hot-Cold Pearl Relief Pack",
-"u": "https://skinsociety.me/products/hot-cold-pearl-relief-pack",
-"p": 18.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/4250694711904.jpg?v=1764680908&width=400",
-"type": "Parapharmacy",
-"tags": [
-"4250694711904",
-"Brand_Sissel",
-"Category_Parapharmacy",
-"Category_Tools & Accessories",
-"Family Health",
-"First Aid",
-"Heating Pads",
-"Parapharmacy"
-],
-"in": false
-},
-{
-"t": "Uno Roll Roller",
-"u": "https://skinsociety.me/products/uno-roll-roller",
-"p": 36.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/4250694715469.jpg?v=1764681027&width=400",
-"type": "Parapharmacy",
-"tags": [
-"4250694715469",
-"Accessories",
-"Brand_Sissel",
-"Category_Parapharmacy",
-"Family Health",
-"Parapharmacy",
-"Product Type_Accessories",
-"Sub Category_Family Health"
-],
-"in": true
-},
-{
-"t": "Mesh Nebulizer NC200",
-"u": "https://skinsociety.me/products/mesh-nebulizer-nc200",
-"p": 72.22,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/4715139600408.jpg?v=1764681925&width=400",
-"type": "Parapharmacy",
-"tags": [
-"4715139600408",
-"Brand_Rossmax",
-"Category_Parapharmacy",
-"Health Devices & Accessories",
-"Health Monitors",
-"OMG",
-"Parapharmacy",
-"Product Type_Health Monitors"
-],
-"in": false
-},
-{
-"t": "Head & Migraine Roller",
-"u": "https://skinsociety.me/products/head-migraine-roller",
-"p": 28.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/7640112121472.jpg?v=1764682699&width=400",
-"type": "Parapharmacy",
-"tags": [
-"7640112121472",
-"Accessories",
-"Brand_Sissel",
-"Category_Parapharmacy",
-"Family Health",
-"Parapharmacy",
-"Product Type_Accessories",
-"Sub Category_Family Health"
-],
-"in": false
-},
-{
-"t": "Silicone Pinky Toe Protector",
-"u": "https://skinsociety.me/products/silicone-pinky-toe-protector",
-"p": 8.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/8000000003447.jpg?v=1764679990&width=400",
-"type": "Parapharmacy",
-"tags": [
-"8000000003447",
-"Brand_Deez",
-"Category_Parapharmacy",
-"Family Health",
-"Foot Health Care",
-"Parapharmacy",
-"Product Type_Foot Health Care",
-"Sub Category_Family Health"
-],
-"in": true
-},
-{
-"t": "Heavy Duty Nebulizer NB500",
-"u": "https://skinsociety.me/products/heavy-duty-nebulizer-nb500",
-"p": 55.56,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/4715139000864.jpg?v=1764681498&width=400",
-"type": "Parapharmacy",
-"tags": [
-"4715139000864",
-"Brand_Rossmax",
-"Category_Parapharmacy",
-"Health Devices & Accessories",
-"Health Monitors",
-"OMG",
-"Parapharmacy",
-"Product Type_Health Monitors"
-],
-"in": false
-},
-{
-"t": "Opticlude Mini Junior",
-"u": "https://skinsociety.me/products/opticlude-mini-junior",
-"p": 9.53,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/5000485002006.jpg?v=1764682046&width=400",
-"type": "Parapharmacy",
-"tags": [
-"5000485002006",
-"Brand_Skin Society Para",
-"Category_Parapharmacy",
-"Family Health",
-"First Aid",
-"Parapharmacy",
-"Product Type_First Aid",
-"Sub Category_Family Health"
-],
-"in": true
-},
-{
-"t": "Nebulizer Accessory N1",
-"u": "https://skinsociety.me/products/nebulizer-accessory-n1",
-"p": 8.89,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/4715139000550.jpg?v=1764681402&width=400",
-"type": "Parapharmacy",
-"tags": [
-"4715139000550",
-"Brand_Rossmax",
-"Category_Parapharmacy",
-"Health Devices & Accessories",
-"Health Monitors",
-"OMG",
-"Parapharmacy",
-"Product Type_Health Monitors"
-],
-"in": true
-},
-{
-"t": "Emporio Armani Grey Man Pouch - Gift",
-"u": "https://skinsociety.me/products/emporio-armani-grey-man-pouch-gift",
-"p": 0.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/EAGREYMANPOUCHH12024.webp?v=1775636946&width=400",
-"type": "POSM",
-"tags": [
-"Category_POSM",
-"No-Sync",
-"OMG",
-"POSM",
-"SEARCH_IGNORE"
-],
-"in": false
-},
-{
-"t": "Kérastase Holiday Scented Candle - Gift",
-"u": "https://skinsociety.me/products/kerastase-holiday-scented-candle-gift",
-"p": 0.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/kerastase-candle.jpg?v=1764845573&width=400",
-"type": "POSM",
-"tags": [
-"Category_POSM",
-"No-Sync",
-"POSM",
-"SEARCH_IGNORE"
-],
-"in": true
-},
-{
-"t": "Gingembre Rouge & Candle Gift Set",
-"u": "https://skinsociety.me/products/gingembre-rouge-candle-gift-set",
-"p": 49.29,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3701436933050.jpg?v=1764589934&width=400",
-"type": "Dermocosmetics",
-"tags": [
-"Brand_Roger & Gallet",
-"Dermocosmetics",
-"Gift Sets",
-"Loyalty Program",
-"new arrivals",
-"No-Sync",
-"OMG",
-"Product Type_Gift Sets"
-],
-"in": false
-},
-{
-"t": "Fleur De Figuier & Candle Gift Set",
-"u": "https://skinsociety.me/products/fleur-de-figuier-candle-gift-set",
-"p": 49.29,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3701436933043.jpg?v=1764589876&width=400",
-"type": "Dermocosmetics",
-"tags": [
-"Brand_Roger & Gallet",
-"Dermocosmetics",
-"For Her",
-"Gift",
-"Gift Sets",
-"Loyalty Program",
-"mother26",
-"new arrivals"
-],
-"in": false
-},
-{
-"t": "Fleur De Figuier Discovery Pouch",
-"u": "https://skinsociety.me/products/fleur-de-figuier-discovery-pouch",
-"p": 36.96,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3701436931803.jpg?v=1764589782&width=400",
-"type": "Dermocosmetics",
-"tags": [
-"Bath & Shower",
-"Body Lotion & Oils",
-"Body Wash & Shower Gel",
-"Brand_Roger & Gallet",
-"Dermocosmetics",
-"Eau De Parfum",
-"Loyalty Program",
-"new arrivals"
-],
-"in": false
-},
-{
-"t": "Plump Ambition Hyaluron Lip Oil Duo",
-"u": "https://skinsociety.me/products/plump-ambition-hyaluron-lip-oil-duo",
-"p": 24.84,
-"c": 27.6,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/sArtboard2copy-100_b08ef15e-9052-4946-a8d4-6a43eb6c2b3d.jpg?v=1779106085&width=400",
-"type": "Casual",
-"tags": [
-"ambitionoap",
-"BF25",
-"Bundle",
-"cannes26",
-"Casual",
-"Casual Make Up",
-"Category_Make Up",
-"holiday25"
-],
-"in": false
-},
-{
-"t": "French Madeleine Moisturising Body And Hair Mist",
-"u": "https://skinsociety.me/products/french-madeleine-moisturising-body-and-hair-mist",
-"p": 22.0,
-"c": 0.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0295/0545/4173/files/3701429850166.jpg?v=1764575330&width=400",
-"type": "Casual",
-"tags": [
-"adopt OUTLETSALE",
-"Body Mist",
-"Brand_Adopt",
-"Casual",
-"Casual Fragrances",
-"Category_Fragrances",
-"Fragrances",
-"Hair Mist"
-],
-"in": true
 }
 ]
