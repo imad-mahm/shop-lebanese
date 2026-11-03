@@ -1,5 +1,137 @@
 [
 {
+"t": "G-legging 918",
+"u": "https://www.hashtag-lb.com/products/g-legging-918",
+"p": 15.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/30cffbdc-bfef-4e90-a3a3-b02bf307b219.jpg?v=1793625933&width=400",
+"type": "legging",
+"tags": [],
+"in": true
+},
+{
+"t": "G-legging 73051",
+"u": "https://www.hashtag-lb.com/products/g-legging-2",
+"p": 15.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/d445ac0a-0cf4-497a-bb9c-58fe213ba7a5.jpg?v=1793625715&width=400",
+"type": "legging",
+"tags": [],
+"in": true
+},
+{
+"t": "G- top 271",
+"u": "https://www.hashtag-lb.com/products/g-top-271",
+"p": 17.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/0c9788b3-5af6-4b08-a51a-de5c93b2aaf0.jpg?v=1793620481&width=400",
+"type": "TOP",
+"tags": [],
+"in": true
+},
+{
+"t": "G-top 5601",
+"u": "https://www.hashtag-lb.com/products/g-top-5601",
+"p": 19.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/7517e717-c303-473f-9056-44f4ca6ab5a7.jpg?v=1793620112&width=400",
+"type": "TOP",
+"tags": [],
+"in": true
+},
+{
+"t": "G-jacket 448",
+"u": "https://www.hashtag-lb.com/products/g-jacket-448",
+"p": 64.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/d50a2df8-6b53-4921-b640-d93de957da4c.jpg?v=1793618571&width=400",
+"type": "jacket",
+"tags": [],
+"in": true
+},
+{
+"t": "G-vest 930",
+"u": "https://www.hashtag-lb.com/products/g-vest-930",
+"p": 32.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/5c987fe9-d0be-45dd-8d23-22bf636e26cd.jpg?v=1793617850&width=400",
+"type": "Vest",
+"tags": [],
+"in": true
+},
+{
+"t": "G- top 1117E",
+"u": "https://www.hashtag-lb.com/products/g-top-1117e",
+"p": 17.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/4f4f82be-919d-4ef2-ba26-e765b201320b-Copy.jpg?v=1793617044&width=400",
+"type": "TOP",
+"tags": [],
+"in": true
+},
+{
+"t": "G- legging 6602",
+"u": "https://www.hashtag-lb.com/products/g-legging-6602",
+"p": 22.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/664138f5-4ebd-4d96-bdee-2736a22a3439.jpg?v=1793616538&width=400",
+"type": "legging",
+"tags": [],
+"in": true
+},
+{
+"t": "G-vest 615",
+"u": "https://www.hashtag-lb.com/products/g-vest-615",
+"p": 28.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/eb3578c0-ef85-422b-82a6-28133e3f3780.jpg?v=1793617382&width=400",
+"type": "Vest",
+"tags": [],
+"in": true
+},
+{
+"t": "G-chemise t77",
+"u": "https://www.hashtag-lb.com/products/g-chemise-t77",
+"p": 44.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/f83c567c-b709-42b8-a75f-590000b0366a.jpg?v=1793616010&width=400",
+"type": "shirt",
+"tags": [],
+"in": true
+},
+{
+"t": "G-jacket 27121",
+"u": "https://www.hashtag-lb.com/products/g-jacket-27121",
+"p": 45.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/9182e8ea-4045-4ac7-a909-cd15d66e6ec9.jpg?v=1793617435&width=400",
+"type": "jacket",
+"tags": [],
+"in": true
+},
+{
+"t": "G-Sweatpants 5522",
+"u": "https://www.hashtag-lb.com/products/g-sweatpants-5522",
+"p": 29.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/4236e208-e03c-451c-bb65-3e0b6c7b51fc.jpg?v=1793544445&width=400",
+"type": "pants",
+"tags": [],
+"in": true
+},
+{
 "t": "G- sweatpants 2638",
 "u": "https://www.hashtag-lb.com/products/g-sweatpants-2638",
 "p": 29.0,
@@ -7,17 +139,6 @@
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/4c00d342-b828-44c1-aed9-66bcf23961fe.jpg?v=1793536740&width=400",
 "type": "Pants",
-"tags": [],
-"in": true
-},
-{
-"t": "G-legging 918",
-"u": "https://www.hashtag-lb.com/products/g-legging-919",
-"p": 10.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/1001446590.jpg?v=1791194866&width=400",
-"type": "legging",
 "tags": [],
 "in": true
 },
@@ -176,12 +297,12 @@
 "in": true
 },
 {
-"t": "G-jacket",
+"t": "G-jacket 5539",
 "u": "https://www.hashtag-lb.com/products/g-jacket-1",
 "p": 55.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/d4dea830-42aa-4f5e-8636-4397c20c1f6b.jpg?v=1792849371&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/74a0ec6f-4661-4b46-8652-ee71cc412ae5.jpg?v=1793618350&width=400",
 "type": "jacket",
 "tags": [],
 "in": true
@@ -327,7 +448,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/38ad1828-57dd-4070-bc3b-ffa30409b8af.jpg?v=1792593941&width=400",
 "type": "jeans",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "G-coat 105",
@@ -335,7 +456,7 @@
 "p": 75.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/dc2e2135-6165-49dd-b634-2c113ac276aa.jpg?v=1792589992&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/80a6c865-8b38-43b9-aa1b-551e47e35b10.jpg?v=1793617483&width=400",
 "type": "jacket",
 "tags": [],
 "in": true
@@ -423,7 +544,7 @@
 "p": 49.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/3e927ae3-883c-48d4-ad58-560f5aacc217.jpg?v=1792582428&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/cb5c4a86-0145-40f2-920f-eadc2ea992c0.jpg?v=1793625527&width=400",
 "type": "jacket",
 "tags": [],
 "in": true
@@ -478,7 +599,7 @@
 "p": 29.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/8ed84cd2-9832-4378-a989-a58694eba113.jpg?v=1792419588&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/cd6ddafb-bd50-43aa-ac35-2e6cb3d94e47.jpg?v=1793625270&width=400",
 "type": "Vest",
 "tags": [],
 "in": true
@@ -544,7 +665,7 @@
 "p": 29.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/f5afe538-b68c-48ae-bbd9-77cb07a10cec.jpg?v=1792415533&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/b33e88ce-2647-444c-a6be-3c066d78f38d_1.jpg?v=1793625600&width=400",
 "type": "bag",
 "tags": [],
 "in": true

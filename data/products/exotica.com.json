@@ -50,7 +50,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/petalkiss.jpg?v=1735637858&width=400",
 "type": "Flowers",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Custom Order",
@@ -79,7 +79,7 @@
 "For Mom",
 "New Born",
 "Pink",
-"Pink October"
+"Roses"
 ],
 "in": true
 },
@@ -191,7 +191,7 @@
 "For Mom",
 "New Born",
 "Pink",
-"Pink October"
+"Roses"
 ],
 "in": true
 },
@@ -208,7 +208,6 @@
 "For Him",
 "Handheld Bouquets",
 "Pink",
-"Pink October",
 "Roses"
 ],
 "in": true
@@ -226,10 +225,9 @@
 "For Him",
 "Handheld Bouquets",
 "Pink",
-"Pink October",
 "Roses"
 ],
-"in": false
+"in": true
 },
 {
 "t": "3 Dozen Pinks",
@@ -244,7 +242,6 @@
 "For Him",
 "Handheld Bouquets",
 "Pink",
-"Pink October",
 "Roses"
 ],
 "in": true
@@ -763,7 +760,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Burnt_Orange.png?v=1789555103&width=400",
 "type": "Flowers",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Blush Garden",
@@ -826,8 +823,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/R_colte_d_Automne_-_Fall_Flower.jpg?v=1789546267&width=400",
 "type": "Flowers",
 "tags": [
-"Pink",
-"Pink October"
+"Pink"
 ],
 "in": true
 },
@@ -857,7 +853,7 @@
 "Mixed Flowers",
 "Orange"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Cookie & Bloom",
@@ -1091,7 +1087,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/SunlitSmiles.jpg?v=1791461742&width=400",
 "type": "Flowers",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Citrus Twist",
@@ -1282,7 +1278,7 @@
 "Roses",
 "WHITE"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Double Your Joy",
@@ -1297,7 +1293,6 @@
 "For Him",
 "Handheld Bouquets",
 "Pink",
-"Pink October",
 "Roses"
 ],
 "in": true
@@ -1334,7 +1329,7 @@
 "Roses",
 "Yellow"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Classic Symbol of Admiration",
@@ -1349,7 +1344,6 @@
 "For Him",
 "Handheld Bouquets",
 "Pink",
-"Pink October",
 "Roses"
 ],
 "in": true
@@ -1385,7 +1379,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Berry_Blush.jpg?v=1791443253&width=400",
 "type": "Flowers",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Lilac Hugs",
@@ -1574,7 +1568,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Strong_Roots_Strong_Dad_LIFESTYLE.jpg?v=1781685841&width=400",
 "type": "Plants",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Little Prince",
@@ -2073,7 +2067,7 @@
 "For Him",
 "For Kids"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Birthday Cake",
@@ -2778,7 +2772,7 @@
 "For Mom",
 "For Teta"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Catch My Heart",
@@ -2792,7 +2786,7 @@
 "Indoor Plants",
 "Plants"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Optistar Spears",
@@ -2818,7 +2812,7 @@
 "p": 244.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Elite_Love.jpg?v=1791356304&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Elite___Love.jpg?v=1793612854&width=400",
 "type": "Plants",
 "tags": [
 "Birthdays",
@@ -2894,7 +2888,7 @@
 "Plants",
 "Thank You"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Ruby Reds",
@@ -3249,7 +3243,6 @@
 "For Mom",
 "For Teta",
 "Pink",
-"Pink October",
 "Roses"
 ],
 "in": true
@@ -3389,7 +3382,7 @@
 "Indoor Plants",
 "Plants"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Optistar Asian",
@@ -3504,7 +3497,7 @@
 "Indoor Plants",
 "Plants"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Blushing Orchid",
@@ -3523,7 +3516,7 @@
 "Plants",
 "Thank You"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Tulips Blast",
@@ -3942,8 +3935,7 @@
 "Birthdays",
 "Flower Boxes",
 "New Born",
-"Pink",
-"Pink October"
+"Pink"
 ],
 "in": true
 },
@@ -3959,7 +3951,7 @@
 "Flower Boxes",
 "WHITE"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Coffea Arabica",
@@ -4219,7 +4211,7 @@
 "Fuschia",
 "Graduation"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Pink Bliss",
@@ -4314,7 +4306,6 @@
 "For Teta",
 "Handheld Bouquets",
 "Pink",
-"Pink October",
 "Roses"
 ],
 "in": true
@@ -4415,7 +4406,7 @@
 "For Mom",
 "Graduation"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Pink Celebration",
@@ -4557,7 +4548,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Pot_Tunis_Conical_Terracotta_Blue0.jpg?v=1791539861&width=400",
 "type": "Pots & Vases",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Bowl Bravo Round Plastic Grey",
@@ -5039,7 +5030,7 @@
 "For Mom",
 "New Born",
 "Pink",
-"Pink October"
+"Roses"
 ],
 "in": true
 },
@@ -5349,7 +5340,6 @@
 "Fuschia",
 "Large Vase",
 "Pink",
-"Pink October",
 "Roses"
 ],
 "in": true
@@ -5412,7 +5402,7 @@
 "For Teta",
 "Get Well Soon"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Ficus Nitida",
@@ -5806,7 +5796,7 @@
 "For Teta",
 "Indoor Plants"
 ],
-"in": false
+"in": true
 },
 {
 "t": "3 Dozen Reds",
