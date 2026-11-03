@@ -30,7 +30,7 @@
 "img": "https://aghasarkissian.com/wp-content/uploads/2026/10/DW60M5070FWFH-4-430x430.webp",
 "type": "Dishwashing, Freestanding Dishwashers, Home Appliances",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Midea Fridge Top Mount MDRT866FGE46AE Inox",
@@ -118,7 +118,7 @@
 "img": "https://aghasarkissian.com/wp-content/uploads/2023/11/Untitled-design-15-430x430.png",
 "type": "Home Appliances, Laundry, Washing Machines",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "AEG HOB 90 HKB95341NB 5G black glass",
@@ -514,7 +514,7 @@
 "img": "https://aghasarkissian.com/wp-content/uploads/2025/10/GR-RT835WE-PMFJ_49_S-1-430x430.webp",
 "type": "Fridges, Home Appliances, Refrigeration",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Carillo Wine Cooler CROW45SDZ Silver",
@@ -605,7 +605,7 @@
 "img": "https://aghasarkissian.com/wp-content/uploads/2026/01/Untitled-design-2026-01-13T103123.793-2-430x430.jpg",
 "type": "Electronics, Led TV, Televisions",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Samsung Led 65″ UA65U8000HUXTW UHD",
@@ -990,7 +990,7 @@
 "img": "https://aghasarkissian.com/wp-content/uploads/2025/10/Untitled-design-2025-11-05T102018.262-430x430.jpg",
 "type": "Home Appliances, Laundry, Washing Machines",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Lagermania Washer 9KG WLG0912FSAIT Anthracite",
@@ -1078,7 +1078,7 @@
 "img": "https://aghasarkissian.com/wp-content/uploads/2025/10/GR-RT835WE-PMFJ_01_WH-430x430.webp",
 "type": "Fridges, Home Appliances, Refrigeration",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Toshiba Fridge 29FT GR-RT835WE-PGFJ(XK) Black",
@@ -2071,7 +2071,7 @@
 "img": "https://aghasarkissian.com/wp-content/uploads/2024/04/ey905d40-main-image2.jpeg",
 "type": "Fryers, Home Appliances, Small Kitchen Appliances",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Samsung Washer Dryer WD11TA046BX/RQ 11/7 Inox",
@@ -2104,7 +2104,7 @@
 "img": "https://aghasarkissian.com/wp-content/uploads/2025/03/Untitled-design-14-430x430.png",
 "type": "Dryers, Home Appliances, Laundry",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Midea fridge 5ft MDRD133FGE01 white",
@@ -2115,7 +2115,7 @@
 "img": "https://aghasarkissian.com/wp-content/uploads/2025/03/MDRD133FGE01-1-430x430.jpg",
 "type": "Fridges, Home Appliances, Refrigeration",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Smeg Toaster Slate Grey TSF01GREU",
@@ -2125,17 +2125,6 @@
 "cur": "USD",
 "img": "https://aghasarkissian.com/wp-content/uploads/2025/03/Untitled-design-2025-10-29T120648.345-430x430.jpg",
 "type": "back to school, Breakfast Set, Home Appliances",
-"tags": [],
-"in": true
-},
-{
-"t": "Hoover Vacuum Br31pet011",
-"u": "https://aghasarkissian.com/product/hoover-vacuum-br31pet-700w-bagless/",
-"p": 105.0,
-"c": 125.0,
-"cur": "USD",
-"img": "https://aghasarkissian.com/wp-content/uploads/2025/03/Untitled-design-48-430x430.jpg",
-"type": "Canister, Floor Care, Home Appliances",
 "tags": [],
 "in": true
 },
@@ -2302,7 +2291,7 @@
 "img": "https://aghasarkissian.com/wp-content/uploads/2025/02/Untitled-design-14-430x430.png",
 "type": "Dryers, Home Appliances, Laundry",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Hisense dryer condenser 9KG DH3S902BW heat pump white",
@@ -2313,7 +2302,7 @@
 "img": "https://aghasarkissian.com/wp-content/uploads/2025/02/Untitled-design-15-430x430.png",
 "type": "Dryers, Home Appliances, Laundry",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Russell Hobbs Compact 26530-56 Steamer Black",
@@ -2536,17 +2525,6 @@
 "in": false
 },
 {
-"t": "midea microwave 20lt MM7P012MZ-BK black",
-"u": "https://aghasarkissian.com/product/midea-microwave-20l-mm7p012mz-bk-black/",
-"p": 65.0,
-"c": 72.0,
-"cur": "USD",
-"img": "https://aghasarkissian.com/wp-content/uploads/2025/01/Untitled-design-2025-10-29T120152.588-430x430.jpg",
-"type": "Home Appliances, Microwaves, Small Kitchen Appliances",
-"tags": [],
-"in": true
-},
-{
 "t": "midea microwave 20L MM7PO12MZ-WH white",
 "u": "https://aghasarkissian.com/product/midea-microwave-20l-mm7po12mz-wh-white/",
 "p": 50.0,
@@ -2555,7 +2533,7 @@
 "img": "https://aghasarkissian.com/wp-content/uploads/2025/01/Untitled-design-2025-11-05T105608.133-430x430.jpg",
 "type": "Home Appliances, Microwaves, Small Kitchen Appliances",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "MIDEA Dryer Condenser 11KG MD200H110WB/T-LB silver",
@@ -3072,7 +3050,7 @@
 "img": "https://aghasarkissian.com/wp-content/uploads/2024/06/RT62K7160SL-IMAGE-2-430x430.jpg",
 "type": "Fridges, Home Appliances, On Sale",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Kelon Fridge 5ft KRS-12DRW1 White",
@@ -3853,7 +3831,7 @@
 "img": "https://aghasarkissian.com/wp-content/uploads/2024/04/Untitled-design-94-430x430.jpg",
 "type": "Floor Care, Hand And Stick Vacuum, Vacuum Cleaners",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Haeger Banquet  Air Fryer AF-D80008A 8L",
@@ -4337,7 +4315,7 @@
 "img": "https://aghasarkissian.com/wp-content/uploads/2024/03/Untitled-design-2025-11-03T112834.956-430x430.jpg",
 "type": "Electric Ovens, Home Appliances, Small Kitchen Appliances",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "queen chef Electric Plate qcc2001",
@@ -4370,7 +4348,7 @@
 "img": "https://aghasarkissian.com/wp-content/uploads/2024/03/MDRT294FGF01-image-maiin-430x432.webp",
 "type": "Fridges, Home Appliances, Refrigeration",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Midea Fridge 2.5Ft  MDRD86FGE01 White",
@@ -4470,6 +4448,17 @@
 "type": "Home Appliances, Laundry, Steam Irons",
 "tags": [],
 "in": true
+},
+{
+"t": "Delonghi Dehumidifier 16L DEXD216RF",
+"u": "https://aghasarkissian.com/product/delonghi-dehumidifier-dexd216rf-16l-day/",
+"p": 419.0,
+"c": 433.0,
+"cur": "USD",
+"img": "https://aghasarkissian.com/wp-content/uploads/2024/02/Delonghi-Dehumidifier-16L-DEXD216RF-430x430.png",
+"type": "Air Comfort &amp; Quality, Dehumidifiers, Home Appliances",
+"tags": [],
+"in": false
 },
 {
 "t": "Whirlpool Microwave 30L Grill MWP 303 SB Silver",
@@ -4601,7 +4590,7 @@
 "img": "https://aghasarkissian.com/wp-content/uploads/2024/02/Untitled-design-25-430x430.jpg",
 "type": "Food Preparation, Hand Blenders and Mixers, Home Appliances",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Braun Hand Blender Omelette MQ3025 White/Grey",
@@ -4857,17 +4846,6 @@
 "in": true
 },
 {
-"t": "Braun Iron SI7160 3000W",
-"u": "https://aghasarkissian.com/product/braun-iron-textstyle-7-pro-si-7160-3000w-blue/",
-"p": 109.0,
-"c": 126.0,
-"cur": "USD",
-"img": "https://aghasarkissian.com/wp-content/uploads/2024/02/Untitled-design-16-1-430x430.png",
-"type": "Home Appliances, Laundry, Steam Irons",
-"tags": [],
-"in": true
-},
-{
 "t": "Fagor Iron Steam wireless FG305 2200w",
 "u": "https://aghasarkissian.com/product/fagor-iron-steam-wireless-fg305-2200watts/",
 "p": 49.0,
@@ -4979,7 +4957,7 @@
 "img": "https://aghasarkissian.com/wp-content/uploads/2024/02/Untitled-design-2025-11-03T092726.247-430x430.jpg",
 "type": "back to school, Breakfast Set, Coffee Maker",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Taurus Steam Iron Atlantida 3000",
@@ -5320,7 +5298,7 @@
 "img": "https://aghasarkissian.com/wp-content/uploads/2024/01/Untitled-design-23-430x430.png",
 "type": "Home Appliances, Laundry, Washing Machines",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Midea Dishwasher WQP125203W WHITE",
@@ -5397,7 +5375,7 @@
 "img": "https://aghasarkissian.com/wp-content/uploads/2024/01/Untitled-design-2025-11-03T093600.099-430x430.jpg",
 "type": "Breakfast Set, Home Appliances, Kettles",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "AEG Dishwasher Built-in FSK83827P",
@@ -5551,7 +5529,7 @@
 "img": "https://aghasarkissian.com/wp-content/uploads/2024/01/rt47cb664222-1.png",
 "type": "Fridges, Home Appliances, Refrigeration",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Samsung Fridge Top Mount RT47CG6002S9IQ Silver",
@@ -5661,7 +5639,7 @@
 "img": "https://aghasarkissian.com/wp-content/uploads/2023/11/VAC-430x430.png",
 "type": "Floor Care, Hand And Stick Vacuum, Home Appliances",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Samsung Washer 11kg WW11B1944DGBFH Black",
@@ -5683,7 +5661,7 @@
 "img": "https://aghasarkissian.com/wp-content/uploads/2023/11/Untitled-design-19-430x430.png",
 "type": "Home Appliances, Laundry, Washing Machines",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Samsung Washer 8kg WW80TA046AX1FH Silver",
@@ -5694,7 +5672,7 @@
 "img": "https://aghasarkissian.com/wp-content/uploads/2023/11/Untitled-design-430x430.png",
 "type": "Home Appliances, Laundry, Washing Machines",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Samsung Washer 8kg 1400 Rpm WW80TA046AE1FH White",
@@ -5705,7 +5683,7 @@
 "img": "https://aghasarkissian.com/wp-content/uploads/2023/11/webp-3-430x430.webp",
 "type": "Home Appliances, Laundry, Washing Machines",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Samsung Washer 11kg WW11B1A046AEFH White",
@@ -5716,7 +5694,7 @@
 "img": "https://aghasarkissian.com/wp-content/uploads/2023/11/Untitled-design-17-430x430.png",
 "type": "Home Appliances, Laundry, Mother's Day",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Delonghi Heater DHF-HFS 50B20 GR",
@@ -6189,7 +6167,7 @@
 "img": "https://aghasarkissian.com/wp-content/uploads/2022/06/Untitled-design-62-430x430.jpg",
 "type": "Food Preparation, Hand Blenders and Mixers, Home Appliances",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Queen Chef Fridge 5Ft BC100 White",
@@ -6407,7 +6385,7 @@
 "img": "https://aghasarkissian.com/wp-content/uploads/2022/01/Midea-Water-Cooler-YL1633S-Black-430x430.jpg",
 "type": "Home Appliances, Refrigeration, Water Dispensers",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "G3 Ferrari Wine Cooler DSWC08B01",
@@ -6854,17 +6832,6 @@
 "in": true
 },
 {
-"t": "Queen Chef Electric Oven 55L QCEO55 White",
-"u": "https://aghasarkissian.com/product/queenchef-electric-oven-55l-xp-45/",
-"p": 109.0,
-"c": 126.0,
-"cur": "USD",
-"img": "https://aghasarkissian.com/wp-content/uploads/2021/04/Untitled-design-2025-11-03T113234.906-430x430.jpg",
-"type": "Electric Ovens, Home Appliances, Small Kitchen Appliances",
-"tags": [],
-"in": true
-},
-{
 "t": "Delonghi Electric Oven 32L EO32752BK Black/Silver",
 "u": "https://aghasarkissian.com/product/delonghi-electric-oven-32l-eo32752bk/",
 "p": 189.0,
@@ -7203,7 +7170,7 @@
 "img": "https://aghasarkissian.com/wp-content/uploads/2021/04/Untitled-design-2025-09-02T121537.058-430x430.jpg",
 "type": "Cookers, Cooking, Home Appliances",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Supergas Hob 90cm ST95B 5G Black",

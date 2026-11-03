@@ -18504,20 +18504,6 @@
 "in": true
 },
 {
-"t": "Clarins My Cleansing Essentials for Combination to Oily Skin Skincare Set",
-"u": "https://moustaphaallabban.com/products/clarins-my-cleansing-essentials-for-combination-to-oily-skin-skincare-set",
-"p": 60.36,
-"c": 71.01,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/files/3666057327353_4dc19e83-7abf-474a-b2f5-18e41318d105.png?v=1750708177&width=400",
-"type": "Clarins Skincare",
-"tags": [
-"Clarins",
-"Clarins Skincare"
-],
-"in": true
-},
-{
 "t": "Clarins My Cleansing Essentials for Normal to Dry Skin Skincare Set",
 "u": "https://moustaphaallabban.com/products/clarins-my-cleansing-essentials-for-normal-to-dry-skin-skincare-set",
 "p": 60.36,
@@ -42894,5 +42880,18 @@
 "Skincare"
 ],
 "in": false
+},
+{
+"t": "Bassam Fattouh The Media Eyeshadow Palette",
+"u": "https://moustaphaallabban.com/products/bassam-fattouh-the-media-eyeshadow-palette",
+"p": 63.31,
+"c": 74.48,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0377/3258/1508/products/WhatsAppImage2022-12-15at3.45.14PM.jpg?v=1671196125&width=400",
+"type": "Bassam Fattouh Makeup",
+"tags": [
+"Eyeshadow"
+],
+"in": true
 }
 ]
