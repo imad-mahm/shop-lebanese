@@ -28,7 +28,7 @@
 "For Mom",
 "Graduation"
 ],
-"in": false
+"in": true
 },
 {
 "t": "My Sweet Pumpkin",
@@ -50,7 +50,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/petalkiss.jpg?v=1735637858&width=400",
 "type": "Flowers",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Custom Order",
@@ -282,28 +282,6 @@
 "Yellow"
 ],
 "in": true
-},
-{
-"t": "Hot & Spicy",
-"u": "https://exotica.com/products/spicy-plant",
-"p": 66.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Hot_Spicy_36ed7bed-4972-4577-b395-a5d39fa9f858.png?v=1791192283&width=400",
-"type": "Plants",
-"tags": [],
-"in": false
-},
-{
-"t": "Calluna Vulgaris",
-"u": "https://exotica.com/products/calluna-vulgaris",
-"p": 65.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Calluna_Vulgaris.jpg?v=1791209082&width=400",
-"type": "Plants",
-"tags": [],
-"in": false
 },
 {
 "t": "Yucca Lover",
@@ -760,7 +738,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Burnt_Orange.png?v=1789555103&width=400",
 "type": "Flowers",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Blush Garden",
@@ -932,7 +910,7 @@
 "For Him",
 "For Kids"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Floral Joy",
@@ -1087,7 +1065,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/SunlitSmiles.jpg?v=1791461742&width=400",
 "type": "Flowers",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Citrus Twist",
@@ -1098,7 +1076,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/1_0001_2.jpg?v=1757419383&width=400",
 "type": "Flowers",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "October Blush",
@@ -1171,17 +1149,6 @@
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Bougainvillea_Plant.jpg?v=1785915822&width=400",
-"type": "Plants",
-"tags": [],
-"in": true
-},
-{
-"t": "Purple Fountain Grass",
-"u": "https://exotica.com/products/purple-fountain-grass",
-"p": 56.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/FRA00936.jpg?v=1785911059&width=400",
 "type": "Plants",
 "tags": [],
 "in": true
@@ -1329,7 +1296,7 @@
 "Roses",
 "Yellow"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Classic Symbol of Admiration",
@@ -1379,7 +1346,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Berry_Blush.jpg?v=1791443253&width=400",
 "type": "Flowers",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Lilac Hugs",
@@ -1557,7 +1524,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Enduring_Presence_1.jpg?v=1781690457&width=400",
 "type": "Plants",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Timeless Olive",
@@ -1568,7 +1535,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Strong_Roots_Strong_Dad_LIFESTYLE.jpg?v=1781685841&width=400",
 "type": "Plants",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Little Prince",
@@ -1626,7 +1593,7 @@
 "Mixed Flowers",
 "New Born"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Little Princess",
@@ -2067,7 +2034,7 @@
 "For Him",
 "For Kids"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Birthday Cake",
@@ -2562,7 +2529,7 @@
 "Mixed Colors",
 "Mixed Flowers"
 ],
-"in": true
+"in": false
 },
 {
 "t": "S-Shape Elm Bonsai",
@@ -2772,7 +2739,7 @@
 "For Mom",
 "For Teta"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Catch My Heart",
@@ -2911,26 +2878,6 @@
 "in": true
 },
 {
-"t": "Ficus Fantasy",
-"u": "https://exotica.com/products/ficus-fantasy",
-"p": 246.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Ficus_Fantasy_1.jpg?v=1791285360&width=400",
-"type": "Plants",
-"tags": [
-"Birthdays",
-"Congratulations",
-"For Colleagues",
-"For Dad",
-"For Friends",
-"For Her",
-"For Him",
-"For Mom"
-],
-"in": true
-},
-{
 "t": "Dracaena Flow",
 "u": "https://exotica.com/products/dracaena-flow",
 "p": 379.0,
@@ -3048,7 +2995,7 @@
 "For Him",
 "For Kids"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Vibrant Rose Box",
@@ -4075,17 +4022,6 @@
 "in": false
 },
 {
-"t": "Urban Jungle",
-"u": "https://exotica.com/products/urban-jungle",
-"p": 78.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Urban_Jungle.jpg?v=1791289229&width=400",
-"type": "Plants",
-"tags": [],
-"in": false
-},
-{
 "t": "Green Thumb",
 "u": "https://exotica.com/products/green-thumb",
 "p": 40.0,
@@ -4814,7 +4750,7 @@
 "Graduation",
 "Handheld Bouquets"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Small Kisses",
@@ -5165,7 +5101,7 @@
 "For Kids",
 "For Mom"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Blushing Petals",

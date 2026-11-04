@@ -1,5 +1,16 @@
 [
 {
+"t": "Domaine E. Guigal White Côtes du Rhône France 2024",
+"u": "https://www.enoteca.com.lb/products/01cr-0224bn13",
+"p": 25.53,
+"c": 0.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0754/4851/6821/files/FrenchWine_Guigal_White.webp?v=1755530138&width=400",
+"type": "WINE - IMP",
+"tags": [],
+"in": true
+},
+{
 "t": "Château Ferran AOC Pessac-Léognan France 2022",
 "u": "https://www.enoteca.com.lb/products/chateau-ferran-aoc-pessac-leognan-france",
 "p": 49.95,
@@ -9233,17 +9244,6 @@
 "in": true
 },
 {
-"t": "Domaine E. Guigal White Côtes du Rhône France 2023",
-"u": "https://www.enoteca.com.lb/products/domaine_e-_guigal_cotes_du_rhone_france_2022",
-"p": 23.31,
-"c": 0.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0754/4851/6821/files/FrenchWine_Guigal_White.webp?v=1755530138&width=400",
-"type": "",
-"tags": [],
-"in": false
-},
-{
 "t": "Château Tovana Costières-de-Nîmes France 2017",
 "u": "https://www.enoteca.com.lb/products/chateau_tovana_costieres-de-nimes_france_2017",
 "p": 10.41,
@@ -9637,7 +9637,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0754/4851/6821/files/FrenchWine_MichelReddeLaMoneyrie.webp?v=1755591939&width=400",
 "type": "",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Le Petit Baal Domaine de Baal Bekaa Valley Lebanon 2019",

@@ -448,7 +448,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/38ad1828-57dd-4070-bc3b-ffa30409b8af.jpg?v=1792593941&width=400",
 "type": "jeans",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "G-coat 105",
@@ -1427,7 +1427,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/2a563b02-9519-46fd-83a3-7b607a88725e.jpg?v=1789047341&width=400",
 "type": "Set",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "G-Pants 9882",

@@ -1,0 +1,138 @@
+[
+{
+"t": "Energy+ Electrolyte Drink Mix",
+"u": "https://instanthydration.com/products/energy-electrolyte-drink-mix",
+"p": 55.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0576/8855/5616/files/sour-green-apple.jpg?v=1787705518&width=400",
+"type": "",
+"tags": [],
+"in": true
+},
+{
+"t": "Water Bottle",
+"u": "https://instanthydration.com/products/instant-hydration-water-bottle",
+"p": 34.99,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0576/8855/5616/files/INSTANT_NEWBOTTLE_01.jpg?v=1782394007&width=400",
+"type": "",
+"tags": [],
+"in": true
+},
+{
+"t": "ICEE Blue Raspberry & Cherry Electrolyte Drink Mix",
+"u": "https://instanthydration.com/products/icee-electrolyte-drink-mix",
+"p": 55.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0576/8855/5616/files/Hero_1.png?v=1774545985&width=400",
+"type": "",
+"tags": [
+"ppa"
+],
+"in": true
+},
+{
+"t": "Water Bottle - TikTok",
+"u": "https://instanthydration.com/products/water-bottle-tiktok",
+"p": 30.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0576/8855/5616/files/01water.png?v=1725566142&width=400",
+"type": "",
+"tags": [
+"YBlocklist"
+],
+"in": true
+},
+{
+"t": "Electrolyte Variety Pack - 30ct",
+"u": "https://instanthydration.com/products/variety-pack-30ct",
+"p": 55.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0576/8855/5616/files/1_5fc0923a-2254-4d37-ad60-e24569f626ac.png?v=1771300511&width=400",
+"type": "",
+"tags": [
+"ppa"
+],
+"in": true
+},
+{
+"t": "Digital Gift Card",
+"u": "https://instanthydration.com/products/digital-gift-card",
+"p": 25.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0576/8855/5616/files/be0bd318110f427c940a3023972dfc4a.png?v=1758743420&width=400",
+"type": "",
+"tags": [
+"instant_exclude"
+],
+"in": true
+},
+{
+"t": "3 Pack Sampler",
+"u": "https://instanthydration.com/products/3-pack-variety-pack",
+"p": 9.99,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0576/8855/5616/files/SAMPLE_PACK_WITH_4_STICK_PACKS.jpg?v=1765313625&width=400",
+"type": "",
+"tags": [
+"ac_exclude"
+],
+"in": true
+},
+{
+"t": "Electrolyte Variety Pack - 12ct",
+"u": "https://instanthydration.com/products/variety-pack",
+"p": 39.99,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0576/8855/5616/files/20250404_IH_Packaging_VarietyPack_3D-Renders_V1_1500x1500_1.jpg?v=1745257746&width=400",
+"type": "",
+"tags": [],
+"in": true
+},
+{
+"t": "Quarterly MVP Bundle",
+"u": "https://instanthydration.com/products/upgrade-to-quarterly-on-next-order-copy",
+"p": 165.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0576/8855/5616/files/2_713544ec-d6fd-4612-95fa-30bdf91667aa.png?v=1731428363&width=400",
+"type": "",
+"tags": [],
+"in": true
+},
+{
+"t": "Water Bottle",
+"u": "https://instanthydration.com/products/water-bottle-mvp",
+"p": 30.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0576/8855/5616/files/01water.png?v=1725566142&width=400",
+"type": "",
+"tags": [
+"YBlocklist"
+],
+"in": true
+},
+{
+"t": "Premium Electrolyte Drink Mix",
+"u": "https://instanthydration.com/products/premium-electrolyte-drink-mix",
+"p": 55.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0576/8855/5616/files/IH_BLK.png?v=1730251527&width=400",
+"type": "",
+"tags": [
+"ppa",
+"YGroup_Mix"
+],
+"in": true
+}
+]

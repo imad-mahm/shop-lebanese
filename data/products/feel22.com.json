@@ -1,15 +1,310 @@
 [
 {
-"t": "Feel22 Pharma Random Minis GIFT",
-"u": "https://feel22.com/products/feel22-pharma-random-minis-gift",
-"p": 0.0,
+"t": "Roo Brushes and Beauty Blender Bundle",
+"u": "https://feel22.com/products/roo-brushes-and-beauty-blender-bundle",
+"p": 29.0,
+"c": 32.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/martinepackshots8_1_85c073fe-f537-43ec-a7be-bfcb6d0db099.png?v=1793611010&width=400",
+"type": "Makeup Gifts and Sets",
+"tags": [
+"NOV26"
+],
+"in": true
+},
+{
+"t": "Roo Balm, Tint & Powder Puff Bundle",
+"u": "https://feel22.com/products/roo-balm-tint-powder-puff-bundle",
+"p": 30.0,
+"c": 32.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/martinepackshots8_531bd11a-5420-4b7c-b618-dc7714aa456d.png?v=1793610491&width=400",
+"type": "Makeup Gifts and Sets",
+"tags": [
+"NOV26"
+],
+"in": true
+},
+{
+"t": "Forreal Lip Serums Duo Bundle + Free Charm Chain At 15% Off",
+"u": "https://feel22.com/products/forreal-lip-serums-duo-bundle-free-charm-chain",
+"p": 12.75,
+"c": 15.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshots_temp_-_Lynn_3_c02e658a-a249-4c24-8336-e4211a14fffd.png?v=1777541049&width=400",
+"type": "Makeup Gifts and Sets",
+"tags": [
+"APR26",
+"JULY26",
+"MAY26",
+"NOV26",
+"OCT26",
+"SEPT26"
+],
+"in": true
+},
+{
+"t": "Forreal Hair & Body Mist Duo Bundle + Free Hair Clip",
+"u": "https://feel22.com/products/forreal-hair-amp-body-mist-duo-bundle-free-hair-clip",
+"p": 17.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshotstemp-Lynn_1_84b22147-307a-4f9c-8e3d-b54bda8170c7.png?v=1777281512&width=400",
-"type": "GWP",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshotstemp-Lynn_d5181c36-f970-4fc3-9043-13bb84b330df.png?v=1778836419&width=400",
+"type": "Hair Care Gifts and Sets",
 "tags": [
-"Hidden recommendation",
-"SEARCHANISE_IGNORE"
+"forrealmist",
+"MAY26",
+"NOV26",
+"OCT26",
+"SEPT26"
+],
+"in": true
+},
+{
+"t": "Forreal Spot Rescue Duo Bundle + Free Pouch",
+"u": "https://feel22.com/products/forreal-spot-rescue-duo-bundle-free-pouch",
+"p": 12.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshots_temp_-_Lynn_1_35764100-5def-43d8-b7cf-f434e3fae5bd.png?v=1790079698&width=400",
+"type": "Skincare Gifts and Sets",
+"tags": [
+"NOV26",
+"OCT26",
+"SEPT26"
+],
+"in": true
+},
+{
+"t": "L’Oréal Paris Telescopic x Panorama Bundle + Free Pouch At 25% Off",
+"u": "https://feel22.com/products/l-oreal-paris-telescopic-x-panorama-bundle-free-pouch-at-25-off",
+"p": 29.8,
+"c": 29.8,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshotstemp-Lynn_8_123e1300-8bb3-4a4c-9739-a1a1485a0ddc.png?v=1793179620&width=400",
+"type": "Makeup Gifts and Sets",
+"tags": [
+"CPDBF26",
+"OAPBF26",
+"OAPMUP1126"
+],
+"in": true
+},
+{
+"t": "L'Oréal Paris Infallible 24H Endurance Bundle + Free Pouch At 30% Off",
+"u": "https://feel22.com/products/loreal-paris-infallible-24h-endurance-bundle-free-pouch-at-20-off",
+"p": 28.98,
+"c": 41.4,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshotstemp-Lynn_3_efd5c0a6-e194-4ee6-bdde-1e0e659997e2.png?v=1793175491&width=400",
+"type": "Makeup Gifts and Sets",
+"tags": [
+"CPDBF26",
+"facecard726",
+"inf1026",
+"OAPBF26",
+"OAPMUP1126",
+"proof626"
+],
+"in": true
+},
+{
+"t": "L'Oréal Paris Infallible Tinted Serum x Infaillible Setting Spray Bundle + Pouch At 25% Off",
+"u": "https://feel22.com/products/loreal-paris-infallible-tinted-serum-x-infaillible-setting-spray-bundle-free-brush",
+"p": 20.63,
+"c": 27.5,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshots_temp_-_Lynn_c96e1656-da4e-469c-9ed9-161b3c7c26c6.png?v=1793117195&width=400",
+"type": "Makeup Gifts and Sets",
+"tags": [
+"allofcpd326",
+"ALLSETS226",
+"BTG926",
+"BUNDLESOAP",
+"CPD2025",
+"CPDALL426",
+"CPDBF26",
+"DEC25"
+],
+"in": true
+},
+{
+"t": "L’Oréal Paris, Hyaluron Expert, Replumping Routine Bundle + Free Pouch At 30% Off",
+"u": "https://feel22.com/products/l-oreal-paris-hyaluron-expert-replumping-routine-bundle-free-glasses-at-30-off",
+"p": 29.19,
+"c": 41.7,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshots_temp_-_Lynn_2_9ec5ee33-c625-4dee-82cf-2a11b0861e6a.png?v=1792665836&width=400",
+"type": "Skincare Gifts and Sets",
+"tags": [
+"99SCI926",
+"BTG926",
+"CPDBF26",
+"CPDBTS926",
+"NOV26",
+"OAPBF1026"
+],
+"in": false
+},
+{
+"t": "Lancôme Rénergie H.P.N. Uvmune SPF50 Cream Refill",
+"u": "https://feel22.com/products/lancome-renergie-h-p-n-uvmune-spf50-cream-refill",
+"p": 90.63,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/LancomeRenergieH.P.N.UvmuneSPF50CreamRefill.png?v=1793482750&width=400",
+"type": "Day and Night Cream",
+"tags": [
+"LUXEALL",
+"OCTSKU26"
+],
+"in": true
+},
+{
+"t": "Lancôme Ôver The Top Eau de Toilette",
+"u": "https://feel22.com/products/lancome-over-the-top-eau-de-toilette",
+"p": 113.68,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/LancomeOverTheTopEaudeToilette.png?v=1793482270&width=400",
+"type": "Perfume For Her",
+"tags": [
+"LUXEALL",
+"OCTSKU26"
+],
+"in": true
+},
+{
+"t": "Lancôme Ô Zenith Eau de Toilette",
+"u": "https://feel22.com/products/lancome-o-zenith-eau-de-toilette",
+"p": 113.68,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/LancomeOZenithEaudeToilette.png?v=1793481996&width=400",
+"type": "Perfume For Her",
+"tags": [
+"LUXEALL",
+"OCTSKU26"
+],
+"in": true
+},
+{
+"t": "Real Techniques 2-In-1 Miracle Powder Puff Duo",
+"u": "https://feel22.com/products/real-techniques-2-in-1-miracle-powder-puff-duo",
+"p": 5.96,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/RealTechniques2-In-1MiraclePowderPuffDuo.png?v=1759143123&width=400",
+"type": "Makeup Tools and Brushes",
+"tags": [
+"EVERYTHING",
+"RM426"
+],
+"in": false
+},
+{
+"t": "Lancôme Génifique Ultimate Recovery Serum Refill",
+"u": "https://feel22.com/products/lancome-genifique-ultimate-recovery-serum-refill",
+"p": 106.92,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/LancomeGenifiqueUltimateRecoverySerumRefill.png?v=1793481566&width=400",
+"type": "Serum and Treatment",
+"tags": [
+"LUXEALL",
+"OCTSKU26"
+],
+"in": true
+},
+{
+"t": "Lancôme Hypnôse Drama Mascara Travel Size",
+"u": "https://feel22.com/products/lancome-hypnose-drama-mascara-travel-size",
+"p": 24.01,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/LancomeHypnoseDramaMascaraTravelSize.png?v=1793481407&width=400",
+"type": "Mascara",
+"tags": [
+"LUXEALL",
+"OCTSKU26"
+],
+"in": true
+},
+{
+"t": "Lancôme Cils Booster XL",
+"u": "https://feel22.com/products/lancome-cils-booster-xl",
+"p": 39.12,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/LancomeCilsBoosterXL.png?v=1793480998&width=400",
+"type": "Mascara",
+"tags": [
+"LUXEALL",
+"OCTSKU26"
+],
+"in": true
+},
+{
+"t": "Bourjois Icy Sparkly Jelly Multi Purpose Glitter Stick highlighter",
+"u": "https://feel22.com/products/bourjois-icy-sparkly-jelly-multi-purpose-glitter-stick-highlighter",
+"p": 5.62,
+"c": 11.24,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/BourjoisIcySparklyJellyMultiPurposeGlitterStickhighlighter-01SnowLight.png?v=1773058208&width=400",
+"type": "Highlighter",
+"tags": [
+"BFSALE26",
+"CYBER26",
+"MARCHSKU26",
+"NOV26",
+"RM426",
+"stillsingle26"
+],
+"in": false
+},
+{
+"t": "Bourjois Stain In Love Lipstick",
+"u": "https://feel22.com/products/bourjois-stain-in-love-lipstick",
+"p": 12.28,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/BlackCherryBourjoisStainInLoveLipstick.png?v=1793621102&width=400",
+"type": "Lipstick",
+"tags": [
+"BFSALE26",
+"CYBER26",
+"NOV26",
+"OCTSKU26",
+"stillsingle26"
+],
+"in": false
+},
+{
+"t": "Samoa 90's Bombshell Glossy & Buttery Liquid Lip Balm",
+"u": "https://feel22.com/products/samoa-90s-bombshell-glossy-buttery-liquid-lip-balm",
+"p": 8.5,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Samoa90_sBombshellGlossy_ButteryLiquidLipBalmPetal.png?v=1792409616&width=400",
+"type": "Lip Care",
+"tags": [
+"OCTSKU26"
+],
+"in": true
+},
+{
+"t": "Dr Pawpaw Lip Balm Buy 1 Get 1 Bundle",
+"u": "https://feel22.com/products/dr-pawpaw-lip-balm-buy-1-get-1-bundle",
+"p": 8.23,
+"c": 16.46,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/DrPawpawLipBalmBuy1Get1Bundle.png?v=1762259761&width=400",
+"type": "Lip Care",
+"tags": [
+"EVERYTHING",
+"FREE1125",
+"JULY26",
+"NOV26"
 ],
 "in": true
 },
@@ -159,34 +454,6 @@
 "in": true
 },
 {
-"t": "La Roche-Posay, CeraVe, Vichy Special Random Pouch GIFT",
-"u": "https://feel22.com/products/la-roche-posay-cerave-vichy-special-pouch-gift",
-"p": 0.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshotstemp-Lynn_428b3e9e-4ef2-4c70-8d62-b650c9f5920d.png?v=1793286674&width=400",
-"type": "GWP",
-"tags": [
-"Hidden recommendation",
-"SEARCHANISE_IGNORE"
-],
-"in": true
-},
-{
-"t": "La Roche-Posay, CeraVe, Vichy Collection of Samples GIFT",
-"u": "https://feel22.com/products/la-roche-posay-cerave-vichy-special-pouch-collection-of-samples-gift",
-"p": 0.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshotstemp-Lynn_5_63270e77-8abd-4c64-8581-575810ac89a3.png?v=1793286062&width=400",
-"type": "GWP",
-"tags": [
-"Hidden recommendation",
-"SEARCHANISE_IGNORE"
-],
-"in": true
-},
-{
 "t": "Yves Saint Laurent Libre Berry Crush Eau de Parfum",
 "u": "https://feel22.com/products/yves-saint-laurent-libre-berry-crush-eau-de-parfum",
 "p": 141.74,
@@ -274,120 +541,6 @@
 "in": true
 },
 {
-"t": "Bio-oil Skincare Oil 60ml GIFT",
-"u": "https://feel22.com/products/bio-oil-skincare-oil-60ml-gift",
-"p": 0.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/60ml_1b43a375-91eb-4f73-ad50-7c739d16db10.png?v=1793616196&width=400",
-"type": "GWP",
-"tags": [
-"Hidden recommendation",
-"SEARCHANISE_IGNORE"
-],
-"in": false
-},
-{
-"t": "Anastasia Beverly Hills Lash Sculpt Mascara - Deluxe GIFT",
-"u": "https://feel22.com/products/anastasia-beverly-hills-lash-sculpt-mascara-deluxe-gift",
-"p": 0.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshots_84_b636239e-c638-4c69-af56-87ab7b4d611f.png?v=1734517093&width=400",
-"type": "GWP",
-"tags": [
-"Hidden recommendation",
-"nobundles",
-"SEARCHANISE_IGNORE"
-],
-"in": true
-},
-{
-"t": "Antati Yellow Skincare Pouch GIFT",
-"u": "https://feel22.com/products/antati-free-yellow-pouch",
-"p": 0.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshotstemp-Lynn_1_49757c58-ec5b-4769-9980-e57ada82882d.png?v=1793117714&width=400",
-"type": "GWP",
-"tags": [
-"Hidden recommendation",
-"SEARCHANISE_IGNORE"
-],
-"in": true
-},
-{
-"t": "Clinique Mascara, Face & Eye Cream Set GIFT",
-"u": "https://feel22.com/products/clinique-free-gift-set",
-"p": 0.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshotstemp-Lynn_13_8a1499b5-49c6-4efe-9451-2519aba7a079.png?v=1793269150&width=400",
-"type": "GWP",
-"tags": [
-"HBDLUXE25",
-"Hidden recommendation",
-"nobundles",
-"SEARCHANISE_IGNORE"
-],
-"in": true
-},
-{
-"t": "Maybelline Makeup Brush Duo Set GIFT",
-"u": "https://feel22.com/products/maybelline-free-makeup-brush-set",
-"p": 0.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshotstemp-Lynn_3_8707b643-572e-49ee-903f-638935ea62c4.png?v=1793115263&width=400",
-"type": "GWP",
-"tags": [
-"Hidden recommendation",
-"SEARCHANISE_IGNORE"
-],
-"in": true
-},
-{
-"t": "Garnier Ultra Doux Floral String Bags GIFT",
-"u": "https://feel22.com/products/garnier-ultra-doux-floral-string-bags-gift",
-"p": 0.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshotstemp-Lynn_20_766ddeab-7a13-4650-9366-bf3ceef97289.png?v=1793093513&width=400",
-"type": "GWP",
-"tags": [
-"Hidden recommendation",
-"SEARCHANISE_IGNORE"
-],
-"in": true
-},
-{
-"t": "L'Oréal Paris Coloration Turban Towel GIFT",
-"u": "https://feel22.com/products/loreal-paris-coloration-turban-towel-gift",
-"p": 0.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshotstemp-Lynn_9_93f1919a-28a7-4334-be87-2272c52ca77d.png?v=1793029486&width=400",
-"type": "GWP",
-"tags": [
-"Hidden recommendation",
-"SEARCHANISE_IGNORE"
-],
-"in": true
-},
-{
-"t": "L'Oréal Paris Round Shaped Brush Gift",
-"u": "https://feel22.com/products/loreal-paris-round-shaped-brush-gift",
-"p": 0.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshotstemp-Lynn_1_816c78af-a011-47b9-9b83-96128b09ee3c.png?v=1793449611&width=400",
-"type": "GWP",
-"tags": [
-"SEARCHANISE_IGNORE"
-],
-"in": true
-},
-{
 "t": "L'Oréal Paris Elvive Glycolic Gloss Extra Gloss Routine Bundle + Free Comb At 25% Off",
 "u": "https://feel22.com/products/loreal-paris-elvive-glycolic-gloss-extra-gloss-routine-bundle-free-comb-at-25-off",
 "p": 15.45,
@@ -401,289 +554,6 @@
 "OAPHAIR1126"
 ],
 "in": false
-},
-{
-"t": "Kerastase Summer Bag 2026-SEA Gift",
-"u": "https://feel22.com/products/kerastase-summer-bag-2026-sea-gift",
-"p": 0.0,
-"c": null,
-"cur": "USD",
-"img": "",
-"type": "GWP",
-"tags": [
-"SEARCHANISE_IGNORE"
-],
-"in": true
-},
-{
-"t": "Cetaphil Moisturising Cream 10g Samples",
-"u": "https://feel22.com/products/cetaphil-moisturising-cream-10g-samples",
-"p": 0.0,
-"c": null,
-"cur": "USD",
-"img": "",
-"type": "GWP",
-"tags": [],
-"in": true
-},
-{
-"t": "SkinCeuticals Hai Mod 4ML Gift",
-"u": "https://feel22.com/products/skinceuticals-hai-mod-4ml-gift",
-"p": 0.0,
-"c": null,
-"cur": "USD",
-"img": "",
-"type": "GWP",
-"tags": [
-"SEARCHANISE_IGNORE"
-],
-"in": true
-},
-{
-"t": "SkinCeuticals P-Tiox Serum 4ml GIFT",
-"u": "https://feel22.com/products/skinceuticals-ptiox-serum-4ml-gift",
-"p": 0.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/tiox.png?v=1784731288&width=400",
-"type": "GWP",
-"tags": [
-"Hidden recommendation",
-"SEARCHANISE_IGNORE"
-],
-"in": true
-},
-{
-"t": "SkinCeuticals Vitamin C E Ferulic Serum 4ml GIFT",
-"u": "https://feel22.com/products/skinceuticals-vitamin-c-ferulic-serum-4ml-gift",
-"p": 0.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/ferulic.png?v=1784731257&width=400",
-"type": "GWP",
-"tags": [
-"Hidden recommendation",
-"SEARCHANISE_IGNORE"
-],
-"in": true
-},
-{
-"t": "SVR Random Samples Gift",
-"u": "https://feel22.com/products/svr-random-sample-gift",
-"p": 0.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshotstemp-Lynn_1_a9d74d3d-7562-4852-9a7e-7248e6a7ad85.png?v=1793376439&width=400",
-"type": "GWP",
-"tags": [
-"SEARCHANISE_IGNORE"
-],
-"in": true
-},
-{
-"t": "Rene Furterer Purple Head Band GIFT",
-"u": "https://feel22.com/products/rene-furterer-purple-head-band-gift",
-"p": 0.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshotstemp-Lynn_9_ed27576b-de7b-46e7-bb11-2f607f8f6b14.png?v=1793267973&width=400",
-"type": "GWP",
-"tags": [
-"Hidden recommendation",
-"SEARCHANISE_IGNORE"
-],
-"in": true
-},
-{
-"t": "Klorane Pink Hair Massager GIFT",
-"u": "https://feel22.com/products/klorane-pink-hair-massager-gift",
-"p": 0.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshotstemp-Lynn_8_3cf48fe6-d69f-4ccf-a708-7e94983cf302.png?v=1793267856&width=400",
-"type": "GWP",
-"tags": [
-"Hidden recommendation",
-"SEARCHANISE_IGNORE"
-],
-"in": true
-},
-{
-"t": "Ralph Lauren Navy Blue Cap GIFT",
-"u": "https://feel22.com/products/ralph-lauren-navy-blue-cap-gift",
-"p": 0.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshotstemp-Lynn_1_d33ddc69-2081-4ca0-9a0b-b2f75e60bfce.png?v=1793272840&width=400",
-"type": "GWP",
-"tags": [
-"Hidden recommendation",
-"SEARCHANISE_IGNORE"
-],
-"in": true
-},
-{
-"t": "Valentino Black Laptop Case GIFT",
-"u": "https://feel22.com/products/valentino-black-laptop-case-gift",
-"p": 0.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshotstemp-Lynn_076ecfdf-b790-477e-a65b-0afeca5445bc.png?v=1793272257&width=400",
-"type": "GWP",
-"tags": [
-"Hidden recommendation",
-"SEARCHANISE_IGNORE"
-],
-"in": true
-},
-{
-"t": "Yves Saint-Laurent Mini Lash Latex Mascara GIFT",
-"u": "https://feel22.com/products/yves-saint-laurent-mini-lash-latex-mascara-gift",
-"p": 0.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshotstemp-Lynn_2_8d539485-ea84-45f3-941a-25310c7b2631.png?v=1793271791&width=400",
-"type": "GWP",
-"tags": [
-"Hidden recommendation",
-"SEARCHANISE_IGNORE"
-],
-"in": true
-},
-{
-"t": "Yves Saint-Laurent Mini Dessin du Regard Waterproof Eye Pencil GIFT",
-"u": "https://feel22.com/products/yves-saint-laurent-mini-dessin-du-regard-waterproof-eye-pencil-gift",
-"p": 0.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshotstemp-Lynn_1_16f0abdc-1c0e-4bfc-b414-08f5fb7ffd65.png?v=1793271645&width=400",
-"type": "GWP",
-"tags": [
-"Hidden recommendation",
-"SEARCHANISE_IGNORE"
-],
-"in": true
-},
-{
-"t": "Yves Saint-Laurent Black Head Band GIFT",
-"u": "https://feel22.com/products/yves-saint-laurent-head-band-gift",
-"p": 0.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshotstemp-Lynn_3_446e9e53-6c7a-44a8-aee8-7bfdbaea5c43.png?v=1793271894&width=400",
-"type": "GWP",
-"tags": [
-"Hidden recommendation",
-"SEARCHANISE_IGNORE"
-],
-"in": true
-},
-{
-"t": "Giorgio Armani Power Of You 1.2ml GIFT",
-"u": "https://feel22.com/products/giorgio-armani-power-of-you-1-2ml-gift",
-"p": 0.0,
-"c": null,
-"cur": "USD",
-"img": "",
-"type": "GWP",
-"tags": [
-"Hidden recommendation",
-"SEARCHANISE_IGNORE"
-],
-"in": true
-},
-{
-"t": "Giorgio Armani Cosmetic Pouch Gift",
-"u": "https://feel22.com/products/giorgio-armani-cosmetic-pouch-gift",
-"p": 0.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshotstemp-Lynn_2_19c98334-82e3-43d9-9754-79e1cb25cb9a.png?v=1782987556&width=400",
-"type": "GWP",
-"tags": [
-"Hidden recommendation",
-"lldperfumes",
-"SEARCHANISE_IGNORE"
-],
-"in": true
-},
-{
-"t": "Valentino Born In Roma Uomo Intense Eau De Parfum 1.2ml GIFT",
-"u": "https://feel22.com/products/valentino-born-in-roma-uomo-intense-eau-de-parfum-1-2ml-gift",
-"p": 0.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshotstemp-Lynn_6_1639dbba-fe18-4578-85b6-7e62976c7f17.png?v=1774873505&width=400",
-"type": "GWP",
-"tags": [
-"Hidden recommendation",
-"lldperfumes",
-"SEARCHANISE_IGNORE",
-"valentinowomen"
-],
-"in": true
-},
-{
-"t": "Thierry Mugler Vanity Box GIFT",
-"u": "https://feel22.com/products/thierry-mugler-vanity-box-gift",
-"p": 0.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshotstemp-Lynn_1_368132b6-a80a-4f50-a315-8f1b5dc6e4fa.png?v=1764927943&width=400",
-"type": "GWP",
-"tags": [
-"Hidden recommendation",
-"lldperfumes",
-"LUXEALL",
-"SEARCHANISE_IGNORE"
-],
-"in": true
-},
-{
-"t": "Viktor and Rolf Black Mouse Pad GIFT",
-"u": "https://feel22.com/products/viktor-and-rold-black-mouse-pad-gift",
-"p": 0.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshotstemp-Lynn_2_4d2385fa-53b8-46ae-a587-1238ed3a976d.png?v=1782123473&width=400",
-"type": "GWP",
-"tags": [
-"Hidden recommendation",
-"lldperfumes",
-"SEARCHANISE_IGNORE"
-],
-"in": true
-},
-{
-"t": "Lancôme Free Genifique Serum 5ml",
-"u": "https://feel22.com/products/lancome-free-genefique-serum-5ml",
-"p": 0.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/LaRoche-PosayEffaclarDuo_Cream_GelMoussantGift-2024-01-11T135905.739.png?v=1704974007&width=400",
-"type": "GWP",
-"tags": [
-"giftid-8559067267210",
-"Hidden recommendation",
-"LUXEALL",
-"nobundles",
-"SEARCHANISE_IGNORE"
-],
-"in": true
-},
-{
-"t": "Azzaro Black Stripped Towel GIFT",
-"u": "https://feel22.com/products/azzaro-black-stripped-towel-gift",
-"p": 0.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/AzzaroBlackStrippedTowelGIFT.png?v=1788961176&width=400",
-"type": "GWP",
-"tags": [
-"Hidden recommendation",
-"SEARCHANISE_IGNORE"
-],
-"in": true
 },
 {
 "t": "NYX Professional Makeup The Birthday Glam Bundle + Free Gift At 30% Off",
@@ -714,48 +584,7 @@
 "in": false
 },
 {
-"t": "NYX Professional Makeup Birthday GIFT",
-"u": "https://feel22.com/products/nyx-professional-makeup-birthday-pouch-gift",
-"p": 0.0,
-"c": null,
-"cur": "USD",
-"img": "",
-"type": "GWP",
-"tags": [
-"Hidden recommendation",
-"SEARCHANISE_IGNORE"
-],
-"in": true
-},
-{
-"t": "Samer Khouzami Free Black Pouch",
-"u": "https://feel22.com/products/samer-khouzami-free-black-pouch",
-"p": 0.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshotstemp-Lynn_2_8c07d5b2-571e-454b-aee9-1d0bc4c79cf3.png?v=1793273018&width=400",
-"type": "GWP",
-"tags": [
-"SEARCHANISE_IGNORE"
-],
-"in": true
-},
-{
-"t": "Kiehl's Oil Eliminator 24hr Anti Shine Moisturiser For Men 15ml GIFT",
-"u": "https://feel22.com/products/kiehls-oil-eliminator-24hr-anti-shine-moisturiser-for-men-15ml-gift",
-"p": 0.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshotstemp-Lynn_3_9974c3c1-99a5-4b34-bffa-1772183bf156.png?v=1774872047&width=400",
-"type": "GWP",
-"tags": [
-"Hidden recommendation",
-"SEARCHANISE_IGNORE"
-],
-"in": true
-},
-{
-"t": "Wibo Calendar Star Box Christmas 2026",
+"t": "Wibo Advent Calendar Star Box Christmas 2026",
 "u": "https://feel22.com/products/wibo-calendar-star-box-christmas-2026",
 "p": 75.0,
 "c": null,
@@ -769,20 +598,6 @@
 "in": true
 },
 {
-"t": "Garnier Avocado Sticker Sheet GIFT",
-"u": "https://feel22.com/products/garnier-avocado-sticker-sheet-gift",
-"p": 0.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshotstemp-Lynn_3_9b2e4c1f-c4db-46c3-875f-37669c2410a4.png?v=1793362010&width=400",
-"type": "GWP",
-"tags": [
-"Hidden recommendation",
-"SEARCHANISE_IGNORE"
-],
-"in": true
-},
-{
 "t": "L’Oréal Paris Blurfiller Lip Liner Pencil Blurred Effect",
 "u": "https://feel22.com/products/loreal-paris-color-riche-blurfiller-lipstick",
 "p": 13.8,
@@ -792,34 +607,6 @@
 "type": "Lipstick",
 "tags": [
 "OCTSKU26"
-],
-"in": true
-},
-{
-"t": "Garnier Color Naturals Towel Turbans GIFT",
-"u": "https://feel22.com/products/garnier-color-naturals-towel-turbans-gift",
-"p": 0.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshotstemp-Lynn_1_7a1b0a7f-58e4-40b2-8f3d-8db6ee83fafe.png?v=1793095777&width=400",
-"type": "GWP",
-"tags": [
-"Hidden recommendation",
-"SEARCHANISE_IGNORE"
-],
-"in": true
-},
-{
-"t": "Garnier Olia Hair Coloring Capes GIFT",
-"u": "https://feel22.com/products/garnier-olia-hair-coloring-capes-gift",
-"p": 0.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshotstemp-Lynn_5479c5b1-e52a-43da-a306-b74933847d8e.png?v=1793095665&width=400",
-"type": "GWP",
-"tags": [
-"Hidden recommendation",
-"SEARCHANISE_IGNORE"
 ],
 "in": true
 },
@@ -884,20 +671,6 @@
 "in": true
 },
 {
-"t": "NYX Porfessional Makeup Heart Shaped Pink Hand Mirror",
-"u": "https://feel22.com/products/nyx-porfessional-makeup-heart-shaped-pink-hand-mirror",
-"p": 0.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshotstemp-Lynn_1_28bb01b2-beb6-456e-85fb-fc9ae08daca5.png?v=1793114339&width=400",
-"type": "GWP",
-"tags": [
-"Hidden recommendation",
-"SEARCHANISE_IGNORE"
-],
-"in": true
-},
-{
 "t": "Garnier Ultra Doux Full Range Honey Or Charcoal Bundle At 20% Off",
 "u": "https://feel22.com/products/garnier-ultra-doux-honey-treasures-full-range",
 "p": 9.18,
@@ -915,7 +688,7 @@
 "CPDALL426",
 "CPDBF25"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Garnier Ultra Doux Mix & Match Core Range Bundle At 20% Off",
@@ -935,7 +708,7 @@
 "CPDALL426",
 "CPDBF25"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Garnier Ultra Doux Honey Treasures Shampoo , Conditioner , Leave In and Repairing Serum Bundle At 25% Off",
@@ -952,7 +725,7 @@
 "GRHAIR1126",
 "IMCOOL926"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Garnier Ultra Doux Avocado Full Routine Bundle Clip At 25% Off",
@@ -992,7 +765,7 @@
 "CPDTODO426",
 "ELGB2025"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Garnier Ultra Doux Grape Moisture Hydrating Regenerative Trio Bundle + Free Tote",
@@ -1009,7 +782,7 @@
 "GRHAIR1126",
 "oappink1026"
 ],
-"in": true
+"in": false
 },
 {
 "t": "L'Oréal Paris Perfect Lashes Bundle + Free Face Towels At 25% Off",
@@ -1241,24 +1014,6 @@
 "AUG26",
 "NOV26",
 "SEPT26"
-],
-"in": true
-},
-{
-"t": "Dr Pawpaw Balm Buy 1 Get 1 Bundle",
-"u": "https://feel22.com/products/dr-pawpaw-balm-buy-1-get-1-bundle",
-"p": 4.51,
-"c": 9.02,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/DrPawpawBalmBuy1Get1Bundle.png?v=1762262493&width=400",
-"type": "Lip Care",
-"tags": [
-"EVERYTHING",
-"FREE1125",
-"JULY26",
-"MUPSKINALL926",
-"NOV26",
-"OCT26"
 ],
 "in": true
 },
@@ -1892,7 +1647,7 @@
 "CPDALL426",
 "CPDBF25"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Soskin Firmactiv Brightness Energy Serum C20",
@@ -2025,7 +1780,7 @@
 "Hidden recommendation",
 "SEARCHANISE_IGNORE"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Garnier Micellar Water Mixed Trio Bundle At 25% Off",
@@ -2205,7 +1960,7 @@
 "CPDBTS926",
 "CPDTODO426"
 ],
-"in": true
+"in": false
 },
 {
 "t": "L’Oréal Paris Elvive Shampoo, Conditioner and Oil Bundle at 25% Off",
@@ -2342,6 +2097,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/MedicubeGlowEssentialKit2.png?v=1792664951&width=400",
 "type": "Skincare Gifts and Sets",
 "tags": [
+"HBTBRANDS",
 "OCTSKU26"
 ],
 "in": true
@@ -2837,6 +2593,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/DrAltheaEyeLashEnhancingBoostSerum.png?v=1793190842&width=400",
 "type": "Eyelash Serum",
 "tags": [
+"HBTBRANDS",
 "OCTSKU26"
 ],
 "in": true
@@ -2850,6 +2607,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/DrAltheaAquaMarineJellyMist.png?v=1793189914&width=400",
 "type": "Face Mist and Spray",
 "tags": [
+"HBTBRANDS",
 "OCTSKU26"
 ],
 "in": true
@@ -2863,6 +2621,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/DrAltheaGentleVitaminCSerum.png?v=1793186933&width=400",
 "type": "Serum and Treatment",
 "tags": [
+"HBTBRANDS",
 "OCTSKU26"
 ],
 "in": true
@@ -3069,6 +2828,7 @@
 "tags": [
 "KLOR1126",
 "OCTSKU26",
+"PFALL1126",
 "PHARMAALL",
 "SPOOKYPHARMA26"
 ],
@@ -3084,6 +2844,7 @@
 "type": "Hair Oil and Serum",
 "tags": [
 "OCTSKU26",
+"PFALL1126",
 "PHARMAALL",
 "SPOOKYPHARMA26"
 ],
@@ -3099,6 +2860,7 @@
 "type": "Shampoo",
 "tags": [
 "OCTSKU26",
+"PFALL1126",
 "PHARMAALL",
 "SPOOKYPHARMA26"
 ],
@@ -3126,14 +2888,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/Packshots-hala_2_5d417778-c4ea-4846-b342-bb72e333c9d5.jpg?v=1662541006&width=400",
 "type": "BB and CC Cream",
 "tags": [
+"allclinique1126",
 "brainrott626",
 "CLABV45",
 "CLBOGO",
 "CLEXCM625",
 "cliniquebf24",
 "CLMAKEUP",
-"CLSLTC626",
-"EVERYTHING"
+"CLSLTC626"
 ],
 "in": false
 },
@@ -3147,13 +2909,13 @@
 "type": "Serum and Treatment",
 "tags": [
 "Acne & Blemishes",
+"allclinique1126",
 "Anti-blemish",
 "clinique",
 "CLINIQUERM",
 "CLSKIN",
 "eidbazaar",
-"EVERYTHING",
-"faves"
+"EVERYTHING"
 ],
 "in": true
 },
@@ -3445,6 +3207,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/MedicubeDeoxyriboseScalpSerum.png?v=1792664481&width=400",
 "type": "Hair Oil and Serum",
 "tags": [
+"HBTBRANDS",
 "OCTSKU26"
 ],
 "in": true
@@ -3458,6 +3221,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/MedicubeKojicBrighteningEssentialKit_4PieceSkincareSet.png?v=1792663751&width=400",
 "type": "Skincare Gifts and Sets",
 "tags": [
+"HBTBRANDS",
 "OCTSKU26"
 ],
 "in": true
@@ -3471,6 +3235,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/MedicubeRosemaryPDRNSilkHairOil.png?v=1792663275&width=400",
 "type": "Hair Oil and Serum",
 "tags": [
+"HBTBRANDS",
 "OCTSKU26"
 ],
 "in": true
@@ -3537,20 +3302,6 @@
 "type": "Makeup Gifts and Sets",
 "tags": [
 "baddieween26"
-],
-"in": true
-},
-{
-"t": "NYX Professional Makeup Heart Mirror Keychain GIFT",
-"u": "https://feel22.com/products/nyx-professional-makeup-heart-mirror-keychain-gift",
-"p": 0.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshotstemp-Lynn_1_25f2196f-612a-4b36-8c46-fd076250c8f9.png?v=1791897517&width=400",
-"type": "GWP",
-"tags": [
-"Hidden recommendation",
-"SEARCHANISE_IGNORE"
 ],
 "in": true
 },
@@ -3891,7 +3642,7 @@
 "inf1026",
 "LOOSE426"
 ],
-"in": true
+"in": false
 },
 {
 "t": "L'Oréal Paris Infallible 24H Tinted Serum & Powder Foundation Bundle + Free Clips",
@@ -4013,7 +3764,7 @@
 "tags": [
 "OCTSKU26"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Royal Cosmetics R102 Flawless Concealer Brush",
@@ -4107,6 +3858,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/MedicubeKojicAcidTurmericEyePatches.png?v=1792072264&width=400",
 "type": "Eye Mask",
 "tags": [
+"HBTBRANDS",
 "OCTSKU26"
 ],
 "in": true
@@ -4120,6 +3872,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/MedicubePDRNMildCleansingOil.png?v=1792071986&width=400",
 "type": "Cleanser and Face Soap",
 "tags": [
+"HBTBRANDS",
 "OCTSKU26"
 ],
 "in": true
@@ -4133,6 +3886,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/MedicubeVitaARetinalVolumeBooster.png?v=1792071732&width=400",
 "type": "Serum and Treatment",
 "tags": [
+"HBTBRANDS",
 "OCTSKU26"
 ],
 "in": true
@@ -4410,7 +4164,7 @@
 "PHARMAALL",
 "SPOOKYRGAA1026"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Lierac Glow Fresh The Revitalizing Express Mask",
@@ -5821,6 +5575,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Berry_199330e1-18ec-495f-85e3-86574f8403ac.png?v=1791806418&width=400",
 "type": "Lip Care",
 "tags": [
+"HBTBRANDS",
 "OCTSKU26"
 ],
 "in": true
@@ -5837,7 +5592,7 @@
 "1010GR26",
 "FB826"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Maybelline New York Lifter Serum Concealer & Colossal Bubble Mascara Bundle + Free Tilted Brush At 20% Off",
@@ -5887,6 +5642,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Dr.MelaxinPeelShotexfoliatingkojicacidturmericSpray.png?v=1791749217&width=400",
 "type": "Body Scrubs and Exfoliators",
 "tags": [
+"HBTBRANDS",
 "OCTSKU26"
 ],
 "in": false
@@ -5949,7 +5705,7 @@
 {
 "t": "Mercedes Benz AMG Red Eau De Parfum 100ml",
 "u": "https://feel22.com/products/mercedes-benz-amg-red-eau-de-parfum-100ml",
-"p": 97.31,
+"p": 83.41,
 "c": 139.01,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshots_61_487f295a-c9dc-4646-a38a-38dfe36ab4c0.png?v=1702475522&width=400",
@@ -5969,7 +5725,7 @@
 {
 "t": "Mercedes Benz AMG Silver Eau De Parfum 100ml",
 "u": "https://feel22.com/products/mercedes-benz-amg-silver-eau-de-parfum-100ml",
-"p": 97.31,
+"p": 83.41,
 "c": 139.01,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshots_60_0ec3870b-bc5b-4beb-a9ba-8ef4b1075eae.png?v=1702475383&width=400",
@@ -6413,6 +6169,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Cosrx_5_PDRN_Collagen_Vitalizing_Hydrogel_Eye_Patch.png?v=1791213578&width=400",
 "type": "Eye Mask",
 "tags": [
+"HBTBRANDS",
 "OCTSKU26"
 ],
 "in": true
@@ -6582,7 +6339,8 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/STICK.png?v=1732185091&width=400",
 "type": "Sun Protection",
 "tags": [
-"EVERYTHING"
+"EVERYTHING",
+"HBTBRANDS"
 ],
 "in": true
 },
@@ -6595,6 +6353,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/DrAltheaVitaminCBoostingSerum.png?v=1790841733&width=400",
 "type": "Serum and Treatment",
 "tags": [
+"HBTBRANDS",
 "SEPTSKU26"
 ],
 "in": false
@@ -6608,6 +6367,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/DrAltheaAquaMarineWateryCream.png?v=1790841936&width=400",
 "type": "Day and Night Cream",
 "tags": [
+"HBTBRANDS",
 "SEPTSKU26"
 ],
 "in": true
@@ -6621,6 +6381,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/DrAlthea345ReliefSerum.png?v=1790842190&width=400",
 "type": "Serum and Treatment",
 "tags": [
+"HBTBRANDS",
 "SEPTSKU26"
 ],
 "in": true
@@ -6634,21 +6395,8 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/DrAltheaRetinolFlatIronEyeRoller.png?v=1790842643&width=400",
 "type": "Serum and Treatment",
 "tags": [
+"HBTBRANDS",
 "SEPTSKU26"
-],
-"in": true
-},
-{
-"t": "Garnier Fresh & Bright Sticker Sheet GIFT",
-"u": "https://feel22.com/products/garnier-fresh-bright-sticker-sheet-gift",
-"p": 0.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshotstemp-Lynn_241d99a8-8da5-4fd7-88b1-e61a52827850.png?v=1791186516&width=400",
-"type": "GWP",
-"tags": [
-"Hidden recommendation",
-"SEARCHANISE_IGNORE"
 ],
 "in": true
 },
@@ -7036,21 +6784,6 @@
 "in": true
 },
 {
-"t": "L'Oréal Paris Elvive White Stripes Pouch Gift",
-"u": "https://feel22.com/products/loreal-paris-elvive-black-friday-pouch-gift",
-"p": 0.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshotstemp-Lynn_2_8c5df1cc-0f84-453a-a89b-2917a6ad2231.png?v=1762266951&width=400",
-"type": "GWP",
-"tags": [
-"allofcpd326",
-"CPDALL426",
-"SEARCHANISE_IGNORE"
-],
-"in": true
-},
-{
 "t": "Phyto Curls Spray Second Day 150ml",
 "u": "https://feel22.com/products/phyto-curls-spray-second-day-150ml",
 "p": 18.32,
@@ -7068,7 +6801,7 @@
 "OCT26",
 "phanniv9"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Phyto Curls Cream 150ml",
@@ -7453,7 +7186,7 @@
 "dermocosmetics",
 "EVERYTHING"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Bioderma Photoderm Compact Mineral Spf 50+ 10g",
@@ -8664,7 +8397,7 @@
 "best25",
 "EVERYTHING",
 "giftid-8721285185674",
-"HBYT725"
+"HBTBRANDS"
 ],
 "in": false
 },
@@ -8684,7 +8417,7 @@
 "giftid-8721285185674",
 "HBT1225",
 "HBT2BF25",
-"HBYT725"
+"HBTBRANDS"
 ],
 "in": false
 },
@@ -8697,6 +8430,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/CliniqueMoistureSurgeExfoliatingGlowCleanser.png?v=1789479820&width=400",
 "type": "Cleanser and Face Soap",
 "tags": [
+"allclinique1126",
 "cliniquemoisture",
 "clmoistsurge",
 "SEPTSKU26"
@@ -8706,16 +8440,15 @@
 {
 "t": "Estee Lauder Revitalizing Supreme+ Sculpting Face Serum",
 "u": "https://feel22.com/products/estee-lauder-revitalizing-supreme-sculpting-face-serum",
-"p": 124.6,
-"c": 178.0,
+"p": 178.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/887167769953-EsteeLauderRevitalizingSupreme_SculptingFaceSerum-50ml.png?v=1790157674&width=400",
 "type": "Serum and Treatment",
 "tags": [
 "ESTEE1126",
+"ESTEEABV45",
 "LUXEALL",
-"LUXED1126",
-"NOV26",
 "SEPSKU26"
 ],
 "in": true
@@ -8723,16 +8456,15 @@
 {
 "t": "Estee Lauder Advanced Night Repair Recovery Treatment Essence",
 "u": "https://feel22.com/products/estee-lauder-advanced-night-repair-recovery-treatment-essence",
-"p": 109.9,
-"c": 157.0,
+"p": 157.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/887167817395-EsteeLauderAdvancedNightRepairRecoveryTreatmentEssence-200ml.png?v=1790157695&width=400",
 "type": "Serum and Treatment",
 "tags": [
 "ESTEE1126",
+"ESTEEABV45",
 "LUXEALL",
-"LUXED1126",
-"NOV26",
 "SEPSKU26"
 ],
 "in": true
@@ -8760,6 +8492,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/NumbuzinNo.9_NAD_PDRNGlowBoostingToner.png?v=1790158399&width=400",
 "type": "Toner",
 "tags": [
+"HBTBRANDS",
 "SEPTSKU26"
 ],
 "in": true
@@ -8773,6 +8506,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/8809679699612-TirtirMaskFitMakeUpFixer-80ml.png?v=1790158675&width=400",
 "type": "Setting Spray",
 "tags": [
+"HBTBRANDS",
 "SEPSKU26"
 ],
 "in": true
@@ -8786,6 +8520,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/8809679696444-TirtirMaskFitRedCushion18g-17C.png?v=1790158666&width=400",
 "type": "Foundation",
 "tags": [
+"HBTBRANDS",
 "SEPSKU26"
 ],
 "in": true
@@ -8799,6 +8534,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/CelimaxTheVitaARetinolShotTighteningSerum.png?v=1790160082&width=400",
 "type": "Serum and Treatment",
 "tags": [
+"HBTBRANDS",
 "SEPTSKU26"
 ],
 "in": true
@@ -9030,7 +8766,7 @@
 "LUXED1126",
 "NOV26"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Clarins Total Eye Lift Refillable Anti-Aging Eye Contour Cream",
@@ -9047,7 +8783,7 @@
 "LUXED1126",
 "NOV26"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Clarins Dynamising Water Vitality Freshness",
@@ -9671,6 +9407,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/8809562192770-ArenciaVitaminCBoosterShot-30ml.png?v=1789383205&width=400",
 "type": "Serum and Treatment",
 "tags": [
+"HBTBRANDS",
 "SEPSKU26"
 ],
 "in": false
@@ -9684,6 +9421,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/8809562193784-ArenciaEraserShotGlycolicAcidBooster-30ml.png?v=1789383373&width=400",
 "type": "Face Scrub and Exfoliators",
 "tags": [
+"HBTBRANDS",
 "SEPSKU26"
 ],
 "in": true
@@ -9697,6 +9435,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/8809562193173-ArenciaPDRNBoosterShot-30ml.png?v=1789383500&width=400",
 "type": "Serum and Treatment",
 "tags": [
+"HBTBRANDS",
 "SEPSKU26"
 ],
 "in": true
@@ -9710,6 +9449,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/8809562193487-ArenciaNAD_BoosterShotRevitalizingAndBoostingSerum-30ml.png?v=1789383620&width=400",
 "type": "Serum and Treatment",
 "tags": [
+"HBTBRANDS",
 "SEPSKU26"
 ],
 "in": true
@@ -9723,6 +9463,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/8809562193326-ArenciaTXABoosterShotDarkSpotCorrectingAndBrighteningSerum-30ml.png?v=1789383709&width=400",
 "type": "Serum and Treatment",
 "tags": [
+"HBTBRANDS",
 "SEPSKU26"
 ],
 "in": true
@@ -9736,6 +9477,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/8809562192763-ArenciaRetinalBoosterShotSerum-30ml.png?v=1789383880&width=400",
 "type": "Serum and Treatment",
 "tags": [
+"HBTBRANDS",
 "SEPSKU26"
 ],
 "in": true
@@ -9849,7 +9591,7 @@
 "tags": [
 "SEPSKU26"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Flormar K-Spirit Glow Lip Tint",
@@ -10658,7 +10400,7 @@
 "tags": [
 "AUGSKU26"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Rosy The Panda Bridal Fan Bronzer Brush",
@@ -11548,6 +11290,7 @@
 "type": "Serum and Treatment",
 "tags": [
 "AUGSKU26",
+"HBTBRANDS",
 "MUPSKINALL926"
 ],
 "in": true
@@ -11562,6 +11305,7 @@
 "type": "Day and Night Cream",
 "tags": [
 "AUGSKU26",
+"HBTBRANDS",
 "MUPSKINALL926"
 ],
 "in": false
@@ -11576,6 +11320,7 @@
 "type": "Toner",
 "tags": [
 "AUGSKU26",
+"HBTBRANDS",
 "MUPSKINALL926"
 ],
 "in": true
@@ -11589,7 +11334,8 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/8809913833437Skin1004MadagascarCentellaHyalu-CicaTravelKit8809913833437.png?v=1788019628&width=400",
 "type": "Skincare Gifts and Sets",
 "tags": [
-"AUGSKU26"
+"AUGSKU26",
+"HBTBRANDS"
 ],
 "in": false
 },
@@ -11603,6 +11349,7 @@
 "type": "Toner",
 "tags": [
 "AUGSKU26",
+"HBTBRANDS",
 "MUPSKINALL926"
 ],
 "in": false
@@ -11617,6 +11364,7 @@
 "type": "Serum and Treatment",
 "tags": [
 "AUGSKU26",
+"HBTBRANDS",
 "MUPSKINALL926"
 ],
 "in": false
@@ -11633,6 +11381,7 @@
 "1HBT1026",
 "2HBT926",
 "AUGSKU26",
+"HBTBRANDS",
 "MUPSKINALL926"
 ],
 "in": true
@@ -11649,6 +11398,7 @@
 "1HBT1026",
 "2HBT926",
 "AUGSKU26",
+"HBTBRANDS",
 "MUPSKINALL926"
 ],
 "in": true
@@ -11664,7 +11414,8 @@
 "tags": [
 "1HBT1026",
 "2HBT926",
-"AUGSKU26"
+"AUGSKU26",
+"HBTBRANDS"
 ],
 "in": true
 },
@@ -11680,6 +11431,7 @@
 "1HBT1026",
 "2HBT926",
 "AUGSKU26",
+"HBTBRANDS",
 "MUPSKINALL926",
 "pink26"
 ],
@@ -11856,6 +11608,7 @@
 "type": "Toothbrush",
 "tags": [
 "AUGSKU26",
+"PFALL1126",
 "PFALL926",
 "pfeverything926",
 "PHARMAALL"
@@ -11872,6 +11625,7 @@
 "type": "Mouthwash",
 "tags": [
 "AUGSKU26",
+"PFALL1126",
 "PFALL926",
 "pfeverything926",
 "PHARMAALL"
@@ -11888,6 +11642,7 @@
 "type": "Mouthwash",
 "tags": [
 "AUGSKU26",
+"PFALL1126",
 "PFALL926",
 "pfeverything926",
 "PHARMAALL"
@@ -12318,6 +12073,7 @@
 "1STHBT226",
 "EVERYTHING",
 "HBT1225",
+"HBTBRANDS",
 "MUPSKINALL926"
 ],
 "in": false
@@ -12703,6 +12459,7 @@
 "1HBT926",
 "EVERYTHING",
 "HBT1225",
+"HBTBRANDS",
 "MUPSKINALL926"
 ],
 "in": false
@@ -13058,8 +12815,8 @@
 "kloranebebe",
 "NOV26",
 "OCT26",
-"pfall526",
-"PFALL926"
+"PFALL1126",
+"pfall526"
 ],
 "in": true
 },
@@ -13559,7 +13316,7 @@
 {
 "t": "CeraVe Intensive Moisturising Lotion For Very Dry To Itchy Skin",
 "u": "https://feel22.com/products/cerave-intensive-moisturising-lotion-for-very-dry-to-itchy-skin",
-"p": 13.16,
+"p": 15.36,
 "c": 21.94,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/3337875904285-CeraVeIntensiveMoisturisingLotionForVeryDryToItchySkin-236ml.png?v=1785359639&width=400",
@@ -14077,8 +13834,8 @@
 "MUPSKINALL926",
 "NOV26",
 "OCT26",
-"PFBTS926",
-"pfeverything926"
+"PFALL1126",
+"PFBTS926"
 ],
 "in": true
 },
@@ -14218,7 +13975,7 @@
 "MUPSKINALL926",
 "NOV26",
 "OCT26",
-"PFBTS926"
+"PFALL1126"
 ],
 "in": true
 },
@@ -14260,7 +14017,7 @@
 "PHARMAALL",
 "SPOOKYPHARMA26"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Isdin Lambdapil Anti Hair Loss Treatment Shampoo",
@@ -14535,6 +14292,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/BlackRiceProbioticsBarrier2_NAD_SerumMist.png?v=1787130447&width=400",
 "type": "Serum and Treatment",
 "tags": [
+"HBTBRANDS",
 "MUPSKINALL926"
 ],
 "in": true
@@ -14548,6 +14306,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/RosePDRNSoothingSerum.png?v=1787130418&width=400",
 "type": "Serum and Treatment",
 "tags": [
+"HBTBRANDS",
 "MUPSKINALL926"
 ],
 "in": true
@@ -14561,6 +14320,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/BlackRiceMoistureDeepCleansingOil_31eee35b-9fb0-44cb-9445-ef69904a0fec.png?v=1787130571&width=400",
 "type": "Cleanser and Face Soap",
 "tags": [
+"HBTBRANDS",
 "MUPSKINALL926"
 ],
 "in": true
@@ -14574,6 +14334,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/BlackRiceFacialOil.png?v=1787128099&width=400",
 "type": "Face Oil",
 "tags": [
+"HBTBRANDS",
 "MUPSKINALL926"
 ],
 "in": true
@@ -14587,6 +14348,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/BLACKRICE5CeramideBarrierMoisturizingCream.png?v=1787127883&width=400",
 "type": "Day and Night Cream",
 "tags": [
+"HBTBRANDS",
 "MUPSKINALL926"
 ],
 "in": true
@@ -14600,6 +14362,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/BlackRiceBakuchiolEyeCream.png?v=1787127380&width=400",
 "type": "Eye Cream",
 "tags": [
+"HBTBRANDS",
 "MUPSKINALL926"
 ],
 "in": false
@@ -14613,6 +14376,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/BLACKRICEnightknightretinolserum.png?v=1787127170&width=400",
 "type": "Serum and Treatment",
 "tags": [
+"HBTBRANDS",
 "MUPSKINALL926"
 ],
 "in": false
@@ -14626,6 +14390,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/BlackRiceHyaluronicToner.png?v=1787063669&width=400",
 "type": "Toner",
 "tags": [
+"HBTBRANDS",
 "MUPSKINALL926"
 ],
 "in": false
@@ -14645,8 +14410,8 @@
 "leavein",
 "NOV26",
 "OCT26",
-"pfall526",
-"PFALL926"
+"PFALL1126",
+"pfall526"
 ],
 "in": true
 },
@@ -15250,8 +15015,8 @@
 "MAYSKU26",
 "NOV26",
 "OCT26",
-"pfall526",
-"PFALL926"
+"PFALL1126",
+"pfall526"
 ],
 "in": true
 },
@@ -15269,7 +15034,7 @@
 "SAMOA1026",
 "samoalumimelt"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Samoa PrimeMelt Hydrating And Smoothing Primer",
@@ -15329,6 +15094,7 @@
 "tags": [
 "EVERYTHING",
 "giftid-8721285185674",
+"HBTBRANDS",
 "hbytala1125"
 ],
 "in": true
@@ -15577,9 +15343,9 @@
 "DEC26",
 "NOV26",
 "OCT26",
+"PFALL1126",
 "pfall526",
-"PFALL926",
-"PFBTS926"
+"PFALL926"
 ],
 "in": true
 },
@@ -15598,8 +15364,8 @@
 "MUPSKINALL926",
 "NOV26",
 "OCT26",
-"pfall526",
-"PFALL926"
+"PFALL1126",
+"pfall526"
 ],
 "in": true
 },
@@ -15954,7 +15720,7 @@
 "giftid-8721285185674",
 "HBT1225",
 "HBT2BF25",
-"HBYT725"
+"HBTBRANDS"
 ],
 "in": true
 },
@@ -15974,7 +15740,7 @@
 "giftid-8721285185674",
 "HBT1225",
 "HBT2BF25",
-"HBYT725"
+"HBTBRANDS"
 ],
 "in": true
 },
@@ -15994,7 +15760,7 @@
 "giftid-8721285185674",
 "HBT1225",
 "HBT2BF25",
-"HBYT725"
+"HBTBRANDS"
 ],
 "in": true
 },
@@ -16014,7 +15780,7 @@
 "giftid-8721285185674",
 "HBT1225",
 "HBT2BF25",
-"HBYT725"
+"HBTBRANDS"
 ],
 "in": true
 },
@@ -16034,7 +15800,7 @@
 "giftid-8721285185674",
 "HBT1225",
 "HBT2BF25",
-"HBTMASKS"
+"HBTBRANDS"
 ],
 "in": true
 },
@@ -16089,7 +15855,7 @@
 "SD2023",
 "Sdd"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Lattafa Musk Mood Unisex Perfume 100ml",
@@ -16193,7 +15959,7 @@
 {
 "t": "CeraVe Invisible Hydrating Fluid Sunscreen SPF50 For Normal To Dry Skin",
 "u": "https://feel22.com/products/cerave-invisible-hydrating-fluid-sunscreen-spf50-for-normal-to-dry-skin",
-"p": 13.27,
+"p": 15.48,
 "c": 22.11,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/3337875945660-CeraVeInvisibleHydratingFluidSunscreenSPF50ForNormalToDrySkin-50ml.png?v=1785360652&width=400",
@@ -16213,7 +15979,7 @@
 {
 "t": "CeraVe Invisible Dry Touch Fluid Sunscreen SPF50 For Normal To Oily Skin",
 "u": "https://feel22.com/products/cerave-invisible-dry-touch-fluid-sunscreen-spf50-for-normal-to-oily-skin",
-"p": 13.27,
+"p": 15.48,
 "c": 22.11,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/3337875945622-CeraVeInvisibleDryTouchFluidSunscreenSPF50_-50ml.png?v=1785360314&width=400",
@@ -16233,7 +15999,7 @@
 {
 "t": "CeraVe SA Smoothing Cream For Dry, Rough And Bumpy Skin",
 "u": "https://feel22.com/products/cerave-sa-smoothing-cream-for-dry-rough-and-bumpy-skin",
-"p": 16.3,
+"p": 19.02,
 "c": 27.17,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/3337875684101-CeraVeSASmoothingCream-340g.png?v=1785359922&width=400",
@@ -16922,7 +16688,7 @@
 "PHARMAALL",
 "SKC1126"
 ],
-"in": false
+"in": true
 },
 {
 "t": "SkinCeuticals Blemish & Age Defense Serum for Oily & Acne Skin",
@@ -17180,6 +16946,7 @@
 "CPDALL1126",
 "JULYSKU26",
 "liftergel726",
+"MNY1126",
 "MNYBTS926",
 "MNYSUM826",
 "MUPSKINALL926",
@@ -17278,6 +17045,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/EqqualberryAloePdrnCalmingCream-50ml.png?v=1784578802&width=400",
 "type": "Day and Night Cream",
 "tags": [
+"HBTBRANDS",
 "JULYSKU26",
 "MUPSKINALL926"
 ],
@@ -17292,6 +17060,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/EqqualberryHyaltoinFloodingCream-50ml.png?v=1784578811&width=400",
 "type": "Day and Night Cream",
 "tags": [
+"HBTBRANDS",
 "JULYSKU26",
 "MUPSKINALL926"
 ],
@@ -17306,6 +17075,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/8809875459171-EqqualberryVitaminIlluminatingNightWrappingMask-75ml.png?v=1784578785&width=400",
 "type": "Face Mask",
 "tags": [
+"HBTBRANDS",
 "JULYSKU26",
 "MUPSKINALL926"
 ],
@@ -17320,6 +17090,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/8809875458419-EqqualberryVitaminIlluminatingTonerPads-180ml_70pads.png?v=1784578822&width=400",
 "type": "Toner",
 "tags": [
+"HBTBRANDS",
 "JULYSKU26",
 "MUPSKINALL926"
 ],
@@ -17334,6 +17105,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/8809875458709-EqqualberryVitaminIlluminatingToneUpSunscreen-50ml.png?v=1784578851&width=400",
 "type": "Sun Protection",
 "tags": [
+"HBTBRANDS",
 "JULYSKU26",
 "MUPSKINALL926"
 ],
@@ -17348,6 +17120,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/8809875458693-EqqualberryNad_PeptideBoostingSunSerum-50ml.png?v=1784578863&width=400",
 "type": "Sun Protection",
 "tags": [
+"HBTBRANDS",
 "JULYSKU26",
 "MUPSKINALL926"
 ],
@@ -17362,6 +17135,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/192333209028-CliniqueHighImpactHigh-FiFullVolumeWaterproofMascara-IntenseBlack.png?v=1784556086&width=400",
 "type": "Mascara",
 "tags": [
+"allclinique1126",
 "clinique826",
 "CLQ826",
 "JULYSKU26",
@@ -17379,6 +17153,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/192333301807-CliniqueChubbyStickSculptingHighlighter-DazzlingDusk.png?v=1784556148&width=400",
 "type": "Highlighter",
 "tags": [
+"allclinique1126",
 "clchubby726",
 "CLQ826",
 "JULYSKU26",
@@ -17395,6 +17170,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/192333301043-CliniqueChubbyStickMoisturizingLipColorBalm-BoundlessBlush.png?v=1784556213&width=400",
 "type": "Lip Care",
 "tags": [
+"allclinique1126",
 "clchubby726",
 "CLQ826",
 "JULYSKU26",
@@ -17412,6 +17188,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/192333302293-CliniqueChubbyStickCheekColorBalmBlush-VeryViolet.png?v=1784557633&width=400",
 "type": "Blush",
 "tags": [
+"allclinique1126",
 "clchubby726",
 "CLQ826",
 "JULYSKU26",
@@ -17429,6 +17206,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/192333301715-CliniqueChubbyStickSculptingContour-SoSunkissed.png?v=1784556220&width=400",
 "type": "Contour",
 "tags": [
+"allclinique1126",
 "clchubby726",
 "CLQ826",
 "JULYSKU26",
@@ -19327,27 +19105,26 @@
 {
 "t": "Estee Lauder Futurist Hydra Plump Tinted Lip Balm",
 "u": "https://feel22.com/products/estee-lauder-futurist-hydra-plump-tinted-lip-balm",
-"p": 34.3,
-"c": 49.0,
+"p": 49.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/887167785250-FuturistHydraPlumpTintedLipBalm-700BloomCocoon.png?v=1784201180&width=400",
 "type": "Lip Gloss and Lip Tint",
 "tags": [
 "ESTEE1126",
+"ESTEEABV45",
 "esteemakeup",
 "JULYSKU26",
 "LUXEALL",
-"LUXED1126",
-"MUPSKINALL926",
-"NOV26"
+"MUPSKINALL926"
 ],
 "in": true
 },
 {
 "t": "Estee Lauder Double Wear Stay-in-Place Foundation Pump",
 "u": "https://feel22.com/products/estee-lauder-double-wear-stay-in-place-foundation-pump",
-"p": 11.2,
-"c": 16.0,
+"p": 16.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/887167785076-EsteeLauderDoubleWearStay-in-PlaceFoundationPump.png?v=1784201186&width=400",
 "type": "Makeup Tools and Brushes",
@@ -19355,9 +19132,7 @@
 "ESTEE1126",
 "esteemakeup",
 "JULYSKU26",
-"LUXEALL",
-"LUXED1126",
-"NOV26"
+"LUXEALL"
 ],
 "in": true
 },
@@ -19712,20 +19487,19 @@
 {
 "t": "Estee Lauder Double Wear Stay-in-Place SPF10 LongWear Matte Foundation",
 "u": "https://feel22.com/products/estee-lauder-double-wear-stay-in-place-spf10-longwear-matte-foundation",
-"p": 50.39,
-"c": 71.99,
+"p": 71.99,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/887167495586-EsteeLauderDoubleWearStay-in-PlaceSPF10LongWearMatteFoundation-1N2Ecru.png?v=1784201258&width=400",
 "type": "Foundation",
 "tags": [
 "doublewearfd",
 "ESTEE1126",
+"ESTEEABV45",
 "esteemakeup",
 "JULYSKU26",
 "LUXEALL",
-"LUXED1126",
-"MUPSKINALL926",
-"NOV26"
+"MUPSKINALL926"
 ],
 "in": true
 },
@@ -21181,6 +20955,7 @@
 "1HBT1026",
 "2HBT926",
 "3HBT826",
+"HBTBRANDS",
 "JULYSKU26",
 "MUPSKINALL926"
 ],
@@ -21198,6 +20973,7 @@
 "1HBT1026",
 "2HBT926",
 "3HBT826",
+"HBTBRANDS",
 "JULYSKU26",
 "MUPSKINALL926"
 ],
@@ -21215,6 +20991,7 @@
 "1HBT1026",
 "2HBT926",
 "3HBT826",
+"HBTBRANDS",
 "JULYSKU26"
 ],
 "in": true
@@ -21231,6 +21008,7 @@
 "1HBT1026",
 "2HBT926",
 "3HBT826",
+"HBTBRANDS",
 "JULYSKU26",
 "KUNDALEDP"
 ],
@@ -21912,19 +21690,19 @@
 {
 "t": "Estee Lauder Re-Nutriv Ultimate Diamond Transformative Energy Rich Cream 50ml",
 "u": "https://feel22.com/products/estee-lauder-re-nutriv-ultimate-diamond-transformative-energy-rich-cream-50ml",
-"p": 416.5,
-"c": 595.0,
+"p": 595.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/EsteeLauderRe-NutrivUltimateDiamondTransformativeEnergyRichCream50ml.png?v=1784011536&width=400",
 "type": "Day and Night Cream",
 "tags": [
 "ESTEE1126",
 "estee826",
+"ESTEEABV45",
 "esteeskincare",
 "EVERYTHING",
 "JULYSKU26",
 "LUXEALL",
-"LUXED1126",
 "MUPSKINALL926"
 ],
 "in": false
@@ -21932,8 +21710,8 @@
 {
 "t": "Estee Lauder Revitalizing Supreme+ Bright Radiance Power Soft Cream Moisturizer 50ml",
 "u": "https://feel22.com/products/estee-lauder-revitalizing-supreme-bright-radiance-power-soft-cream-moisturizer-50ml",
-"p": 88.9,
-"c": 127.0,
+"p": 127.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/1_f43703f8-edf6-4351-91c1-f9d461caa5bd.png?v=1755084594&width=400",
 "type": "Day and Night Cream",
@@ -21941,19 +21719,19 @@
 "ESTEE1125",
 "ESTEE1126",
 "estee826",
+"ESTEEABV45",
 "esteeskincare",
 "EVERYTHING",
 "giftid-8256735740042",
-"giftid-8712584724618",
-"LUXEALL"
+"giftid-8712584724618"
 ],
 "in": false
 },
 {
 "t": "Estee Lauder Beautiful Perfumed Body Lotion 250ml",
 "u": "https://feel22.com/products/estee-lauder-beautiful-perfumed-body-lotion-250ml",
-"p": 63.0,
-"c": 90.0,
+"p": 90.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshots-rubyrosew_10.png?v=1731656302&width=400",
 "type": "Body Lotion and Oil",
@@ -21961,10 +21739,10 @@
 "ESTEE1125",
 "ESTEE1126",
 "estee826",
+"ESTEEABV45",
 "EVERYTHING",
 "giftid-8256735740042",
 "LUXEALL",
-"LUXED1126",
 "luxuryweddingmakeup"
 ],
 "in": false
@@ -21972,8 +21750,8 @@
 {
 "t": "Estee Lauder Take It Away Makeup Remover Lotion 200ml",
 "u": "https://feel22.com/products/estee-lauder-take-it-away-makeup-remover-lotion-200ml",
-"p": 37.8,
-"c": 54.0,
+"p": 54.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshots-rubyrosew_11.png?v=1731656456&width=400",
 "type": "Makeup Remover",
@@ -21982,38 +21760,37 @@
 "ESTEE525",
 "estee826",
 "ESTEEA325",
+"ESTEEABV45",
 "esteemakeup",
 "EVERYTHING",
-"HBDLUXE25",
-"LUXEALL"
+"HBDLUXE25"
 ],
 "in": false
 },
 {
 "t": "Estee Lauder Re-Nutriv Ultimate Diamond Soft Creme Moisturizer 50ml",
 "u": "https://feel22.com/products/estee-lauder-re-nutriv-ultimate-diamond-soft-creme-moisturizer-50ml",
-"p": 266.0,
-"c": 380.0,
+"p": 380.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/MirabellePackshotcopy19.png?v=1720704585&width=400",
 "type": "Day and Night Cream",
 "tags": [
 "ESTEE1126",
 "estee826",
+"ESTEEABV45",
 "esteeskincare",
 "EVERYTHING",
 "LUXEALL",
-"LUXED1126",
-"MUPSKINALL926",
-"NOV26"
+"MUPSKINALL926"
 ],
 "in": false
 },
 {
 "t": "Estee Lauder Futurist Hydra Rescue Moisturizing Foundation SPF45",
 "u": "https://feel22.com/products/estee-lauder-futurist-hydra-rescue-moisturizing-foundation-spf45",
-"p": 50.4,
-"c": 72.0,
+"p": 72.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/packshot-najah-2024-05-16T150233.296.png?v=1715860963&width=400",
 "type": "Foundation",
@@ -22021,19 +21798,19 @@
 "ESTEE1125",
 "ESTEE1126",
 "estee826",
+"ESTEEABV45",
 "ESTEEBASE",
 "ESTEEBF24",
 "ESTEEBF25",
-"EVERYTHING",
-"giftid-8119732338826"
+"EVERYTHING"
 ],
 "in": true
 },
 {
 "t": "Estee Lauder Turbo Lash High Powered Volume + Length Mascara",
 "u": "https://feel22.com/products/estee-lauder-turbo-lash-high-powered-volume-length-mascara",
-"p": 37.8,
-"c": 54.0,
+"p": 54.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/LaRoche-PosayEffaclarDuo_Cream_GelMoussantGift-2024-01-15T110850.824.png?v=1705309390&width=400",
 "type": "Mascara",
@@ -22044,16 +21821,16 @@
 "ESTEE525",
 "estee826",
 "ESTEEA325",
-"ESTEEBF24",
-"ESTEEBF25"
+"ESTEEABV45",
+"ESTEEBF24"
 ],
 "in": true
 },
 {
 "t": "Estee Lauder Micro Essence Treatment Lotion With Sakura Ferment",
 "u": "https://feel22.com/products/estee-lauder-micro-essence-treatment-lotion-with-sakura-ferment",
-"p": 109.9,
-"c": 157.0,
+"p": 157.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/LaRoche-PosayEffaclarDuo_Cream_GelMoussantGift-2023-07-13T113743.045.png?v=1689237267&width=400",
 "type": "Day and Night Cream",
@@ -22061,19 +21838,19 @@
 "ESTEE1125",
 "ESTEE1126",
 "estee826",
+"ESTEEABV45",
 "esteeskincare",
 "EVERYTHING",
 "giftid-7819544789130",
-"giftid-7887944482954",
-"giftid-8256735740042"
+"giftid-7887944482954"
 ],
 "in": true
 },
 {
 "t": "Estee Lauder Pure Color Matte Lipstick",
 "u": "https://feel22.com/products/estee-lauder-pure-color-matte-lipstick",
-"p": 40.6,
-"c": 58.0,
+"p": 58.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/1_6728cebd-ce4e-4111-9c18-7678ddf38de0.png?v=1686571203&width=400",
 "type": "Lipstick",
@@ -22082,18 +21859,18 @@
 "ESTEE1126",
 "ESTEE525",
 "estee826",
+"ESTEEABV45",
 "esteebarbie",
 "ESTEEBF24",
-"ESTEEBF25",
-"esteemakeup"
+"ESTEEBF25"
 ],
 "in": true
 },
 {
 "t": "Estee Lauder Pure Color Creme Lipstick",
 "u": "https://feel22.com/products/estee-lauder-pure-color-crsme-lipstick",
-"p": 40.6,
-"c": 58.0,
+"p": 58.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/1_6c81ea2e-529d-491a-b64c-b1285905cfd9.png?v=1686574838&width=400",
 "type": "Lipstick",
@@ -22101,19 +21878,19 @@
 "ESTEE1125",
 "ESTEE1126",
 "estee826",
+"ESTEEABV45",
 "ESTEEBF24",
 "esteemakeup",
 "EVERYTHING",
-"giftid-7819544789130",
-"giftid-7887944482954"
+"giftid-7819544789130"
 ],
 "in": true
 },
 {
 "t": "Estee Lauder Cinnabar Eau De Parfum 50ml",
 "u": "https://feel22.com/products/estee-lauder-cinnabar-eau-de-parfum-50ml",
-"p": 87.5,
-"c": 125.0,
+"p": 125.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/Packshots-hala_2_ea21653e-e8af-4682-9dbb-a19644e9d052.png?v=1664789694&width=400",
 "type": "Perfume For Her",
@@ -22121,19 +21898,19 @@
 "Estee Lauder - Fragrance | Feel22Luxe",
 "ESTEE1126",
 "estee826",
+"ESTEEABV45",
 "ESTEEBF24",
 "esteefrag",
 "esteelauderperfume",
-"EVERYTHING",
-"giftid-8119732338826"
+"EVERYTHING"
 ],
 "in": true
 },
 {
 "t": "Estee Lauder SpellBound Eau De Parfum 50ml",
 "u": "https://feel22.com/products/estee-lauder-spellbound-eau-de-parfum-50ml",
-"p": 87.5,
-"c": 125.0,
+"p": 125.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/Packshots-hala_6c1ba890-d490-4302-a9a4-e90f59251ec8.png?v=1664788958&width=400",
 "type": "Perfume For Her",
@@ -22142,18 +21919,18 @@
 "Estee Lauder - Fragrance | Feel22Luxe",
 "ESTEE1126",
 "estee826",
+"ESTEEABV45",
 "ESTEEBF24",
 "esteefrag",
-"esteelauderperfume",
-"EVERYTHING"
+"esteelauderperfume"
 ],
 "in": false
 },
 {
 "t": "Estee Lauder DayWear Eye Cooling Anti-Oxidant Moisture GelCreme",
 "u": "https://feel22.com/products/estee-lauder-daywear-eye-cooling-anti-oxidant-moisture-gelcreme",
-"p": 34.3,
-"c": 49.0,
+"p": 49.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/Packshots-hala_11_72c44096-4f3a-42b6-b28d-ea4f9a006db3.jpg?v=1662562103&width=400",
 "type": "Eye Cream",
@@ -22161,59 +21938,59 @@
 "Cybermonday2022",
 "ESTEE1126",
 "estee826",
+"ESTEEABV45",
 "esteedaywear",
 "esteelauderskin",
 "esteeskincare",
-"EVERYTHING",
-"giftid-7819544789130"
+"EVERYTHING"
 ],
 "in": false
 },
 {
 "t": "Estee Lauder Micro Essence Treatment Lotion",
 "u": "https://feel22.com/products/estee-lauder-micro-essence-treatment-lotion",
-"p": 109.9,
-"c": 157.0,
+"p": 157.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/Packshots-hala_5e03d38b-d47b-4f29-8f2a-2ae73186ef24.jpg?v=1662560480&width=400",
 "type": "Body Lotion and Oil",
 "tags": [
 "ESTEE1126",
 "estee826",
+"ESTEEABV45",
 "esteelauderskin",
 "EVERYTHING",
 "giftid-7819544789130",
 "giftid-7887944482954",
-"LUXEALL",
-"LUXED1126"
+"LUXEALL"
 ],
 "in": false
 },
 {
 "t": "Estee Lauder Beautiful Perfumed Body Powder",
 "u": "https://feel22.com/products/estee-lauder-beautiful-perfumed-body-powder",
-"p": 75.6,
-"c": 108.0,
+"p": 108.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/Packshots-hala_18.jpg?v=1662559282&width=400",
 "type": "Mist and Spray For Her",
 "tags": [
 "ESTEE1126",
 "estee826",
+"ESTEEABV45",
 "EVERYTHING",
 "giftid-7819544789130",
 "giftid-7887944482954",
 "giftid-8119732338826",
-"giftid-8312612421770",
-"LUXEALL"
+"giftid-8312612421770"
 ],
 "in": false
 },
 {
 "t": "Estee Lauder Revitalizing Supreme Global Anti-Aging CC Face Cream",
 "u": "https://feel22.com/products/estee-lauder-revitalizing-supreme-global-anti-aging-cc-face-cream",
-"p": 52.5,
-"c": 75.0,
+"p": 75.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/pix_353.jpg?v=1647076942&width=400",
 "type": "Day and Night Cream",
@@ -22223,9 +22000,9 @@
 "ESTEE1125",
 "ESTEE1126",
 "estee826",
+"ESTEEABV45",
 "esteelauderskin",
-"esteeskincare",
-"EVERYTHING"
+"esteeskincare"
 ],
 "in": true
 },
@@ -22571,6 +22348,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/BiodanceRejuvenatingCaviarPDRNRealDeepMask.png?v=1783701589&width=400",
 "type": "Face Mask",
 "tags": [
+"HBTBRANDS",
 "JULYSKU26",
 "MUPSKINALL926"
 ],
@@ -22940,6 +22718,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/BiodanceBio-CollagenRealDeepMask.png?v=1772446397&width=400",
 "type": "Face Mask",
 "tags": [
+"HBTBRANDS",
 "MARCHSKU26",
 "MUPSKINALL926"
 ],
@@ -22955,6 +22734,7 @@
 "type": "Sun Protection",
 "tags": [
 "EVERYTHING",
+"HBTBRANDS",
 "MUPSKINALL926"
 ],
 "in": true
@@ -23113,7 +22893,7 @@
 "LUXED1126",
 "NOV26"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Benefit Porefessional The Porefessional Degunker Blackhead & Pore Cleansing Mask System",
@@ -23246,6 +23026,7 @@
 "tags": [
 "1HBT1026",
 "2HBT926",
+"HBTBRANDS",
 "JULYSKU26"
 ],
 "in": true
@@ -23619,6 +23400,7 @@
 "tags": [
 "1HBT1026",
 "2HBT926",
+"HBTBRANDS",
 "JULYSKU26"
 ],
 "in": true
@@ -23634,6 +23416,7 @@
 "tags": [
 "1HBT826",
 "2HBT926",
+"HBTBRANDS",
 "HBTMASKS826",
 "JULYSKU26"
 ],
@@ -23651,6 +23434,7 @@
 "1HBT1026",
 "1HBT826",
 "2HBT926",
+"HBTBRANDS",
 "JULYSKU26",
 "MUPSKINALL926"
 ],
@@ -23668,6 +23452,7 @@
 "1HBT1026",
 "1HBT826",
 "2HBT926",
+"HBTBRANDS",
 "JULYSKU26",
 "MUPSKINALL926"
 ],
@@ -23685,6 +23470,7 @@
 "1HBT1026",
 "1HBT826",
 "2HBT926",
+"HBTBRANDS",
 "JULYSKU26",
 "MUPSKINALL926"
 ],
@@ -23701,6 +23487,7 @@
 "tags": [
 "1HBT1026",
 "2HBT926",
+"HBTBRANDS",
 "JULYSKU26"
 ],
 "in": true
@@ -23717,6 +23504,7 @@
 "1HBT1026",
 "1HBT826",
 "2HBT926",
+"HBTBRANDS",
 "HBTMASKS826",
 "JULYSKU26"
 ],
@@ -23734,6 +23522,7 @@
 "1HBT1026",
 "1HBT826",
 "2HBT926",
+"HBTBRANDS",
 "HBTMASKS826",
 "JULYSKU26",
 "MUPSKINALL926",
@@ -26019,26 +25808,6 @@
 "in": true
 },
 {
-"t": "La Roche-Posay Anthelios UVMune (Reward)",
-"u": "https://feel22.com/products/la-roche-posay-anthelios-uvmune-reward",
-"p": 0.0,
-"c": 0.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/LaRoche-PosayAntheliosUVMune_Reward.png?v=1782162936&width=400",
-"type": "Reward",
-"tags": [
-"Hidden recommendation",
-"lrpall826",
-"LRPV1026",
-"NOV26",
-"OCT26",
-"OCTOBERSALEPHARMA",
-"SEARCHANISE_IGNORE",
-"SPOOKYPHARMA26"
-],
-"in": false
-},
-{
 "t": "La Roche Posay Hydraphase HA Light Daily Face Moisturiser, Suitable for Normal to Dry & Dehydrated Skin",
 "u": "https://feel22.com/products/la-roche-posay-hydraphase-ha-light-daily-face-moisturiser-suitable-for-normal-to-dry-dehydrated-skin",
 "p": 18.21,
@@ -26101,7 +25870,7 @@
 {
 "t": "Rene Furterer Color Glow Repairing Mask Get Free Color Glow Shampoo Bundle",
 "u": "https://feel22.com/products/rene-furterer-color-glow-repairing-mask-get-free-color-glow-shampoo-bundle",
-"p": 32.25,
+"p": 28.0,
 "c": 43.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/ReneFurtererColorGlowRepairingMaskGetFREEColorGlowShampooBundle.png?v=1781529077&width=400",
@@ -26134,7 +25903,7 @@
 "kloranebebe",
 "NOV26",
 "OCT26",
-"PFALL826"
+"PFALL1126"
 ],
 "in": true
 },
@@ -27250,6 +27019,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/CliniqueDoubleTheHoneySet.png?v=1781691416&width=400",
 "type": "Makeup Gifts and Sets",
 "tags": [
+"allclinique1126",
 "clinique826",
 "CLSETS11",
 "JUNESKU26",
@@ -27267,6 +27037,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/CliniquePinkHoneyDuoSet.png?v=1781691476&width=400",
 "type": "Makeup Gifts and Sets",
 "tags": [
+"allclinique1126",
 "clinique826",
 "CLSETS11",
 "JUNESKU26",
@@ -27284,6 +27055,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/CliniqueBlackHoneyDuoSet.png?v=1781691495&width=400",
 "type": "Makeup Gifts and Sets",
 "tags": [
+"allclinique1126",
 "clinique826",
 "CLSETS11",
 "JUNESKU26",
@@ -27301,6 +27073,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/CliniqueMeltAndHydrateSet.png?v=1781691513&width=400",
 "type": "Skincare Gifts and Sets",
 "tags": [
+"allclinique1126",
 "clinique826",
 "clmoistsurge",
 "CLSETS11",
@@ -27319,6 +27092,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/CliniqueLiftAndRepairSet.png?v=1781691558&width=400",
 "type": "Skincare Gifts and Sets",
 "tags": [
+"allclinique1126",
 "clinique826",
 "CLSETS11",
 "JUNESKU26",
@@ -27336,6 +27110,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/CliniqueGlowAndTightenSet.png?v=1781691596&width=400",
 "type": "Skincare Gifts and Sets",
 "tags": [
+"allclinique1126",
 "clinique826",
 "CLSETS11",
 "JUNESKU26",
@@ -27353,6 +27128,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/CliniqueGlowAndGoSet.png?v=1781691622&width=400",
 "type": "Skincare Gifts and Sets",
 "tags": [
+"allclinique1126",
 "clinique826",
 "clmoistsurge",
 "CLSETS11",
@@ -27371,14 +27147,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/LaRoche-PosayEffaclarDuo_Cream_GelMoussantGift-2024-01-22T111744.051.png?v=1705914760&width=400",
 "type": "Face Mist and Spray",
 "tags": [
+"allclinique1126",
 "CL1125",
 "cl425exclsun",
 "CL826",
 "CLABV45",
 "CLALL325",
 "CLBOGO",
-"CLEXCM625",
-"clinique826"
+"CLEXCM625"
 ],
 "in": true
 },
@@ -27710,6 +27486,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/CliniqueAllAboutEyesLightweightEyeCream30ml.png?v=1781729264&width=400",
 "type": "Eye Cream",
 "tags": [
+"allclinique1126",
 "clinique826",
 "CLQ826",
 "clrest826",
@@ -27728,6 +27505,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/CliniqueAllAboutEyesRichWithHyaluronicAcidEyeCream30ml.png?v=1781729269&width=400",
 "type": "Eye Cream",
 "tags": [
+"allclinique1126",
 "clinique826",
 "CLQ826",
 "clrest826",
@@ -27746,6 +27524,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Clinique3StepSkinType2HealthySkinRoutineMiniSet.png?v=1781729113&width=400",
 "type": "Skincare Gifts and Sets",
 "tags": [
+"allclinique1126",
 "CLSETS11",
 "JUNESKU26",
 "LUXEALL",
@@ -27763,6 +27542,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Clinique3StepSkinType3HealthySkinRoutineMiniSet.png?v=1781729131&width=400",
 "type": "Skincare Gifts and Sets",
 "tags": [
+"allclinique1126",
 "CLSETS11",
 "JUNESKU26",
 "LUXEALL",
@@ -27780,6 +27560,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/CliniqueAnti-BlemishClearSkinRoutineMiniSet.png?v=1781729151&width=400",
 "type": "Skincare Gifts and Sets",
 "tags": [
+"allclinique1126",
 "clinique826",
 "CLSETS11",
 "JUNESKU26",
@@ -27798,6 +27579,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/CliniqueOvernightRoutineMiniSet.png?v=1781729157&width=400",
 "type": "Skincare Gifts and Sets",
 "tags": [
+"allclinique1126",
 "clinique826",
 "CLSETS11",
 "JUNESKU26",
@@ -27816,6 +27598,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/CliniqueHydration1HeroesMiniSet.png?v=1781729165&width=400",
 "type": "Skincare Gifts and Sets",
 "tags": [
+"allclinique1126",
 "clinique826",
 "clmoistsurge",
 "CLSETS11",
@@ -27835,6 +27618,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/CliniqueAromaticElixirEssentialsEauDeParfumSet.png?v=1781729172&width=400",
 "type": "Perfume Set For Her",
 "tags": [
+"allclinique1126",
 "clinique826",
 "CLSETS11",
 "JUNESKU26",
@@ -27853,6 +27637,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/CliniqueMakeupBagMvp_SSet.png?v=1781729181&width=400",
 "type": "Makeup Gifts and Sets",
 "tags": [
+"allclinique1126",
 "clinique826",
 "CLSETS11",
 "JUNESKU26",
@@ -27870,6 +27655,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/CliniqueHead-To-ToeHydratorsSet.png?v=1781729187&width=400",
 "type": "Skincare Gifts and Sets",
 "tags": [
+"allclinique1126",
 "clinique826",
 "clmoistsurge",
 "CLSETS11",
@@ -27888,6 +27674,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/CliniqueDayAndNightMoistureSet.png?v=1781729195&width=400",
 "type": "Skincare Gifts and Sets",
 "tags": [
+"allclinique1126",
 "clinique826",
 "clmoistsurge",
 "CLSETS11",
@@ -27906,6 +27693,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/CliniqueLift_SmoothRoutineSet.png?v=1781729203&width=400",
 "type": "Skincare Gifts and Sets",
 "tags": [
+"allclinique1126",
 "clinique826",
 "CLSETS11",
 "JUNESKU26",
@@ -27923,6 +27711,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/CliniqueWrinkleFightingRoutineSmartSerumSet.png?v=1781729212&width=400",
 "type": "Skincare Gifts and Sets",
 "tags": [
+"allclinique1126",
 "clinique826",
 "CLSETS11",
 "JUNESKU26",
@@ -27940,6 +27729,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/CliniqueHoneyTrioSet.png?v=1781729221&width=400",
 "type": "Makeup Gifts and Sets",
 "tags": [
+"allclinique1126",
 "clinique826",
 "CLSETS11",
 "JUNESKU26",
@@ -27957,6 +27747,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/CliniqueSunkissedEssentialsSet.png?v=1781729229&width=400",
 "type": "Suncare Gifts and Sets",
 "tags": [
+"allclinique1126",
 "clinique826",
 "CLSETS11",
 "JUNESKU26",
@@ -27974,6 +27765,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/CliniqueDailyEssentialsGiftSet.png?v=1781729235&width=400",
 "type": "Skincare Gifts and Sets",
 "tags": [
+"allclinique1126",
 "clinique826",
 "CLSETS11",
 "JUNESKU26",
@@ -28525,7 +28317,7 @@
 "FEBSKU26",
 "MUPSKINALL926"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Samoa ColorRush Electric Blue Mascara",
@@ -28558,7 +28350,7 @@
 "SAMMAK",
 "SAMOA1026"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Samoa The Rush Set",
@@ -28583,6 +28375,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Dr.MelaxinPinkSpiculeSerumpackshot.png?v=1781513744&width=400",
 "type": "Serum and Treatment",
 "tags": [
+"HBTBRANDS",
 "JUNESKU26",
 "MUPSKINALL926"
 ],
@@ -28597,6 +28390,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Dr.MelaxinCalciumMultiBalmpackshot.png?v=1781514094&width=400",
 "type": "Skincare Gifts and Sets",
 "tags": [
+"HBTBRANDS",
 "JUNESKU26"
 ],
 "in": false
@@ -28610,6 +28404,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Dr.MelaxinDarkSpotCoverEyeCreampackshot.png?v=1781514416&width=400",
 "type": "Eye Cream",
 "tags": [
+"HBTBRANDS",
 "JUNESKU26",
 "MUPSKINALL926"
 ],
@@ -28652,6 +28447,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Dr.MelaxinBlackRiceAmpoulepackshot.png?v=1781513109&width=400",
 "type": "Face Scrub and Exfoliators",
 "tags": [
+"HBTBRANDS",
 "JUNESKU26",
 "MUPSKINALL926"
 ],
@@ -28666,6 +28462,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Dr.MelaxinRicePeelingAmpoulepackshot.png?v=1781513415&width=400",
 "type": "Face Scrub and Exfoliators",
 "tags": [
+"HBTBRANDS",
 "JUNESKU26",
 "MUPSKINALL926"
 ],
@@ -28680,6 +28477,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Numbuzinserumpackshot.png?v=1781510805&width=400",
 "type": "Serum and Treatment",
 "tags": [
+"HBTBRANDS",
 "JUNESKU26",
 "MUPSKINALL926"
 ],
@@ -28694,6 +28492,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/NumbuzinLiftingSerumpackshot.png?v=1781511261&width=400",
 "type": "Serum and Treatment",
 "tags": [
+"HBTBRANDS",
 "JUNESKU26",
 "MUPSKINALL926"
 ],
@@ -28708,6 +28507,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/NumbuzinEyeCreampackshot.png?v=1781511620&width=400",
 "type": "Eye Cream",
 "tags": [
+"HBTBRANDS",
 "JUNESKU26",
 "MUPSKINALL926"
 ],
@@ -28722,6 +28522,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Numbuzin_Eye_Patches_packshot_1.png?v=1781512334&width=400",
 "type": "Eye Mask",
 "tags": [
+"HBTBRANDS",
 "JUNESKU26",
 "MUPSKINALL926"
 ],
@@ -28736,6 +28537,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/NumbuzinDarkSpotAmpoulepackshot.png?v=1781512495&width=400",
 "type": "Serum and Treatment",
 "tags": [
+"HBTBRANDS",
 "JUNESKU26",
 "MUPSKINALL926"
 ],
@@ -28760,114 +28562,6 @@
 "in": true
 },
 {
-"t": "Schwarzkopf Ultimate Repair Oil 200ml (Reward)",
-"u": "https://feel22.com/products/schwarzkopf-ultimate-repair-oil-200ml-reward",
-"p": 0.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/SchwarzkopfUltimateRepairOil200ml_Reward.png?v=1781274620&width=400",
-"type": "Reward",
-"tags": [
-"Hidden recommendation",
-"SEARCHANISE_IGNORE"
-],
-"in": true
-},
-{
-"t": "Magnolia Body Splash - Random Scent (Reward)",
-"u": "https://feel22.com/products/magnolia-body-splash-random-scent-reward",
-"p": 0.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/MagnoliaBodySplash-RandomScent_Reward.png?v=1781273678&width=400",
-"type": "Reward",
-"tags": [
-"Hidden recommendation",
-"SEARCHANISE_IGNORE"
-],
-"in": false
-},
-{
-"t": "Shiseido Global Suncare Blue Expert Sun Lotion Spf50+ (Reward)",
-"u": "https://feel22.com/products/shiseido-global-suncare-blue-expert-sun-lotion-spf50-reward",
-"p": 0.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/ShiseidoGlobalSuncareBlueExpertSunLotionSpf50_Reward.png?v=1781273214&width=400",
-"type": "Reward",
-"tags": [
-"Hidden recommendation",
-"SEARCHANISE_IGNORE"
-],
-"in": true
-},
-{
-"t": "Azalia Hair Serum (Reward)",
-"u": "https://feel22.com/products/azalia-hair-serum-reward",
-"p": 0.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/AzaliaHairSerum_Reward.png?v=1781272908&width=400",
-"type": "Reward",
-"tags": [
-"Hidden recommendation",
-"SEARCHANISE_IGNORE"
-],
-"in": true
-},
-{
-"t": "D'Elites Hand Cream - Random (Reward)",
-"u": "https://feel22.com/products/delites-hand-cream-random-reward",
-"p": 0.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/D_ElitesHandCream-Random_Reward.png?v=1781272633&width=400",
-"type": "Reward",
-"tags": [
-"Hidden recommendation",
-"SEARCHANISE_IGNORE"
-],
-"in": true
-},
-{
-"t": "Cetaphil Sun Liposomal Lotion SPF 50+ 50ml (Reward)",
-"u": "https://feel22.com/products/cetaphil-sun-liposomal-lotion-spf-50-50ml-reward",
-"p": 0.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/CetaphilSunLiposomalLotionSPF50_50ml_Reward.png?v=1781272325&width=400",
-"type": "Reward",
-"tags": [
-"2mava726",
-"99PHARMA",
-"CETA1126",
-"Hidden recommendation",
-"rgaa726",
-"SEARCHANISE_IGNORE",
-"SPOOKYPHARMA26"
-],
-"in": true
-},
-{
-"t": "Cetaphil Sun Light Gel SPF 50+ 50ml (Reward)",
-"u": "https://feel22.com/products/cetaphil-sun-light-gel-spf-50-50ml-reward",
-"p": 0.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/CetaphilSunLightGelSPF50_50ml_Reward.png?v=1781271798&width=400",
-"type": "Reward",
-"tags": [
-"2mava726",
-"99PHARMA",
-"CETA1126",
-"Hidden recommendation",
-"rgaa726",
-"SEARCHANISE_IGNORE",
-"SPOOKYPHARMA26"
-],
-"in": false
-},
-{
 "t": "Cosrx The Hydration Booster Set",
 "u": "https://feel22.com/products/cosrx-the-hydration-booster-set",
 "p": 45.0,
@@ -28880,7 +28574,8 @@
 "1HBT826",
 "1STHBT226",
 "2HBT926",
-"FEBSKU26"
+"FEBSKU26",
+"HBTBRANDS"
 ],
 "in": false
 },
@@ -28997,6 +28692,7 @@
 "1hbt726",
 "1HBT826",
 "2HBT926",
+"HBTBRANDS",
 "MARCHSKU26",
 "MEDIPW626"
 ],
@@ -29018,7 +28714,7 @@
 "EVERYTHING",
 "giftid-8721285185674",
 "HBT426",
-"hbytala1125"
+"HBTBRANDS"
 ],
 "in": true
 },
@@ -29116,6 +28812,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/BeautyOfJoseonGroundRiceandHoneyGlowMask.png?v=1781256827&width=400",
 "type": "Face Mask",
 "tags": [
+"HBTBRANDS",
 "JUNESKU26",
 "MUPSKINALL926"
 ],
@@ -29148,6 +28845,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/DrAlthea345ReliefCreamMist.png?v=1781191466&width=400",
 "type": "Day and Night Cream",
 "tags": [
+"HBTBRANDS",
 "JUNESKU26",
 "MUPSKINALL926"
 ],
@@ -29239,6 +28937,7 @@
 "1hbt726",
 "3HBT826",
 "ASPW626",
+"HBTBRANDS",
 "JUNESKU26",
 "MUPSKINALL926"
 ],
@@ -29256,6 +28955,7 @@
 "1HBT1026",
 "1hbt726",
 "3HBT826",
+"HBTBRANDS",
 "JUNESKU26",
 "MUPSKINALL926"
 ],
@@ -29273,6 +28973,7 @@
 "1HBT1026",
 "1hbt726",
 "3HBT826",
+"HBTBRANDS",
 "JUNESKU26",
 "MUPSKINALL926"
 ],
@@ -29290,6 +28991,7 @@
 "1HBT1026",
 "1hbt726",
 "3HBT826",
+"HBTBRANDS",
 "JUNESKU26",
 "MUPSKINALL926"
 ],
@@ -29307,6 +29009,7 @@
 "1HBT1026",
 "1hbt726",
 "3HBT826",
+"HBTBRANDS",
 "JUNESKU26",
 "MUPSKINALL926"
 ],
@@ -29324,6 +29027,7 @@
 "1HBT1026",
 "1hbt726",
 "3HBT826",
+"HBTBRANDS",
 "JUNESKU26",
 "MUPSKINALL926"
 ],
@@ -29342,6 +29046,7 @@
 "1hbt726",
 "3HBT826",
 "ASPW626",
+"HBTBRANDS",
 "JUNESKU26",
 "MUPSKINALL926"
 ],
@@ -29360,6 +29065,7 @@
 "1hbt726",
 "3HBT826",
 "ASPW626",
+"HBTBRANDS",
 "JUNESKU26",
 "MUPSKINALL926"
 ],
@@ -29378,6 +29084,7 @@
 "1hbt726",
 "3HBT826",
 "ASPW626",
+"HBTBRANDS",
 "JUNESKU26",
 "MUPSKINALL926"
 ],
@@ -29396,6 +29103,7 @@
 "1hbt726",
 "3HBT826",
 "ASPW626",
+"HBTBRANDS",
 "JUNESKU26",
 "MUPSKINALL926"
 ],
@@ -29414,6 +29122,7 @@
 "1hbt726",
 "3HBT826",
 "ASPW626",
+"HBTBRANDS",
 "JUNESKU26",
 "MUPSKINALL926",
 "pink26"
@@ -29433,6 +29142,7 @@
 "1hbt726",
 "3HBT826",
 "ASPW626",
+"HBTBRANDS",
 "JUNESKU26",
 "MUPSKINALL926"
 ],
@@ -29451,6 +29161,7 @@
 "1hbt726",
 "3HBT826",
 "ASPW626",
+"HBTBRANDS",
 "JUNESKU26",
 "MUPSKINALL926"
 ],
@@ -29469,6 +29180,7 @@
 "1hbt726",
 "3HBT826",
 "ASPW626",
+"HBTBRANDS",
 "JUNESKU26",
 "MUPSKINALL926"
 ],
@@ -29486,6 +29198,7 @@
 "1HBT1026",
 "1hbt726",
 "3HBT826",
+"HBTBRANDS",
 "JUNESKU26",
 "MUPSKINALL926"
 ],
@@ -29503,6 +29216,7 @@
 "1HBT1026",
 "1hbt726",
 "3HBT826",
+"HBTBRANDS",
 "JUNESKU26",
 "MUPSKINALL926"
 ],
@@ -29520,6 +29234,7 @@
 "1HBT1026",
 "1hbt726",
 "3HBT826",
+"HBTBRANDS",
 "JUNESKU26",
 "MUPSKINALL926"
 ],
@@ -29543,7 +29258,7 @@
 "LUXED1126",
 "luxury"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Mavala Pink Extra-Mild Nail Polish Remover",
@@ -29563,7 +29278,7 @@
 "JUNESKU26",
 "MAVA1026"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Phyto Phytolaque Botanical Hairspray Medium Hold",
@@ -29654,52 +29369,56 @@
 {
 "t": "Bassam Fattouh The Blushed Eyeshadow Palette",
 "u": "https://feel22.com/products/bassam-fattouh-the-blushed-eyeshadow-palette",
-"p": 79.0,
-"c": null,
+"p": 39.5,
+"c": 79.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/BassamFattouhTheBlushedEyeshadowPalette.png?v=1773326974&width=400",
 "type": "Eyeshadow",
 "tags": [
+"50OFF1126",
 "BF726",
 "BFPALETTES",
 "FEBSKU26",
 "LUXEALL",
-"MUPSKINALL926"
+"MUPSKINALL926",
+"NOV26"
 ],
 "in": true
 },
 {
 "t": "Bassam Fattouh 2 In 1 Pencil Eyebrow Concealer",
 "u": "https://feel22.com/products/bassam-fattouh-2-in-1-pencil-eyebrow-concealer",
-"p": 26.0,
-"c": null,
+"p": 13.0,
+"c": 26.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/BassamFattouh2In1PencilEyebrowConcealersoftbeigecoolbrown.png?v=1773354224&width=400",
 "type": "Eyebrows",
 "tags": [
+"50OFF1126",
 "EVERYTHING",
 "LUXEALL",
-"MUPSKINALL926"
+"MUPSKINALL926",
+"NOV26"
 ],
 "in": true
 },
 {
 "t": "Bassam Fattouh Strobbing Highlighter",
 "u": "https://feel22.com/products/bassam-fattouh-strobbing-highlighter",
-"p": 56.06,
-"c": 0.0,
+"p": 28.03,
+"c": 56.06,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/LaRoche-PosayEffaclarDuo_Cream_GelMoussantGift-2023-11-09T190246.971.png?v=1699549073&width=400",
 "type": "Highlighter",
 "tags": [
+"50OFF1126",
 "bassam-fattouh",
 "bassamfattouhbf",
 "bassamfattouhface",
 "bfmothersday",
 "EVERYTHING",
 "giftid-7958048899210",
-"giftid-8333914013834",
-"giftid-8694212067466"
+"giftid-8333914013834"
 ],
 "in": true
 },
@@ -29757,7 +29476,7 @@
 "EVERYTHING",
 "giftid-8623493087370"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Clarins Purifying Toning Lotion Refill 400ml",
@@ -30827,14 +30546,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/TUntitled1223-01_5_baa87d90-ba63-47d5-b59d-eec151ee8904.jpg?v=1643708835&width=400",
 "type": "Eye Mask",
 "tags": [
+"allclinique1126",
 "CL1125",
 "cl425exclsun",
 "CL826",
 "CLABV45",
 "CLALL325",
 "CLBOGO",
-"CLEXCM625",
-"clinique"
+"CLEXCM625"
 ],
 "in": true
 },
@@ -31042,7 +30761,7 @@
 "MUPSKINALL926",
 "NOV26",
 "OCT26",
-"pfall526"
+"PFALL1126"
 ],
 "in": true
 },
@@ -31564,25 +31283,6 @@
 "in": true
 },
 {
-"t": "Dr Pawpaw Lip Scrub & Nourish 16g (Rewards)",
-"u": "https://feel22.com/products/dr-pawpaw-lip-scrub-nourish-16g-rewards",
-"p": 0.0,
-"c": 0.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/DrPawpawLipScrub_Nourish16g_Rewards.png?v=1779357133&width=400",
-"type": "Reward",
-"tags": [
-"BFSALE26",
-"CYBER26",
-"NOV26",
-"OCT26",
-"PAW726",
-"pawpaw726",
-"SEARCHANISE_IGNORE"
-],
-"in": true
-},
-{
 "t": "Uriage Xemose C8+ Soothing Eye Contour Care Cream",
 "u": "https://feel22.com/products/uriage-xemose-c8-soothing-eye-contour-care-cream",
 "p": 12.55,
@@ -31737,10 +31437,10 @@
 "1hbt726",
 "1HBT826",
 "2HBT926",
+"HBTBRANDS",
 "HBTMASKS826",
 "MAYSKU26",
-"MEDIPW626",
-"MUPSKINALL926"
+"MEDIPW626"
 ],
 "in": true
 },
@@ -31757,10 +31457,10 @@
 "1hbt726",
 "1HBT826",
 "2HBT926",
+"HBTBRANDS",
 "HBTMASKS826",
 "MAYSKU26",
-"MEDIPW626",
-"MUPSKINALL926"
+"MEDIPW626"
 ],
 "in": true
 },
@@ -31777,6 +31477,7 @@
 "1hbt726",
 "1HBT826",
 "2HBT926",
+"HBTBRANDS",
 "MAYSKU26",
 "MEDIPW626",
 "MUPSKINALL926"
@@ -31796,6 +31497,7 @@
 "1hbt726",
 "1HBT826",
 "2HBT926",
+"HBTBRANDS",
 "MAYSKU26",
 "MEDIPW626"
 ],
@@ -31814,6 +31516,7 @@
 "1hbt726",
 "1HBT826",
 "2HBT926",
+"HBTBRANDS",
 "MAYSKU26",
 "MEDIPW626",
 "MUPSKINALL926"
@@ -31833,6 +31536,7 @@
 "1hbt726",
 "1HBT826",
 "2HBT926",
+"HBTBRANDS",
 "MAYSKU26",
 "MEDIPW626",
 "MUPSKINALL926"
@@ -33123,6 +32827,7 @@
 "tags": [
 "CPDALL1126",
 "MAYSKU26",
+"MNY1126",
 "MNYBTS926",
 "MNYSUM826",
 "MUPSKINALL926",
@@ -33228,7 +32933,7 @@
 "NOV26",
 "OCT26"
 ],
-"in": false
+"in": true
 },
 {
 "t": "L'Oreal Paris Excellence Hair Color Bundle At 15% Off",
@@ -33251,23 +32956,6 @@
 "in": true
 },
 {
-"t": "L'Oréal Paris Elvive Hair Serum Duo Bundle + Free Pouch At 25% Off",
-"u": "https://feel22.com/products/loreal-paris-elvive-hair-serum-duo-bundle-free-pouch-at-25-off",
-"p": 17.23,
-"c": 22.98,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/sArtboard1copy2-100_1.jpg?v=1772815695&width=400",
-"type": "Hair Care Gifts and Sets",
-"tags": [
-"allofcpd326",
-"cannes526",
-"CPDALL426",
-"OAPRAM26",
-"OAPW226"
-],
-"in": true
-},
-{
 "t": "Medicube Zero Pore Pad Mild",
 "u": "https://feel22.com/products/medicube-zero-pore-pad-mild",
 "p": 25.0,
@@ -33282,8 +32970,8 @@
 "2HBT926",
 "EVERYTHING",
 "hbtadha526",
-"MEDIPW626",
-"MUPSKINALL926"
+"HBTBRANDS",
+"MEDIPW626"
 ],
 "in": true
 },
@@ -33469,7 +33157,7 @@
 {
 "t": "Hackett Nightwalk Eau De Parfum For Men",
 "u": "https://feel22.com/products/hackett-nightwalk-eau-de-parfum-for-men",
-"p": 49.7,
+"p": 42.6,
 "c": 71.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/HackettNightwalkEauDeParfumForMen.png?v=1778571108&width=400",
@@ -33479,14 +33167,15 @@
 "MAYSKU26",
 "MERHA626",
 "NOV26",
-"RAND826"
+"RAND826",
+"stillsingle26"
 ],
 "in": true
 },
 {
 "t": "CeraVe Blemish Barrier With 3 Essential Ceramides And Niacinamide Patches",
 "u": "https://feel22.com/products/cerave-blemish-barrier-with-3-essential-ceramides-and-niacinamide-patches",
-"p": 6.16,
+"p": 7.18,
 "c": 10.26,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/CeraVeBlemishBarrierWith3EssentialCeramidesAndNiacinamidePatches.png?v=1778497446&width=400",
@@ -33512,14 +33201,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/1_d30c286d-1d42-497c-b4ac-384978b9f1f1.png?v=1744299375&width=400",
 "type": "Lip Care",
 "tags": [
+"allclinique1126",
 "CL1125",
 "CL826",
 "CLEXCM625",
 "cliniquemoisture",
 "CLMAKEUP",
 "clmoistsurge",
-"CLQ826",
-"clrest826"
+"CLQ826"
 ],
 "in": true
 },
@@ -33532,14 +33221,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/TUntitled1223-01_8_42e6b5b8-16d7-4ec0-b730-433d18b5fe32.jpg?v=1643709721&width=400",
 "type": "Cleanser and Face Soap",
 "tags": [
+"allclinique1126",
 "CL1125",
 "cl425exclsun",
 "CL826",
 "CLALL325",
 "CLBOGO",
 "CLEXCM625",
-"clinique826",
-"CLQ826"
+"clinique826"
 ],
 "in": false
 },
@@ -33552,14 +33241,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/pix_484.jpg?v=1647084520&width=400",
 "type": "Cleanser and Face Soap",
 "tags": [
+"allclinique1126",
 "CL1125",
 "cl425exclsun",
 "CL826",
 "CLALL325",
 "CLBOGO",
 "CLEXCM625",
-"CLINIQUERM",
-"CLQ826"
+"CLINIQUERM"
 ],
 "in": true
 },
@@ -33572,14 +33261,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshots-lynn_aa073a1d-0f64-4736-93cd-2cc81ac2bf0a.png?v=1710417552&width=400",
 "type": "Makeup Remover",
 "tags": [
+"allclinique1126",
 "best25",
 "BWF30",
 "CL1125",
 "cl425exclsun",
 "CL826",
 "CLALL325",
-"CLBOGO",
-"cliniquebf24"
+"CLBOGO"
 ],
 "in": true
 },
@@ -33592,14 +33281,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/MirabellePackshot_c4197ba3-4986-4668-8995-d99818310ddf.png?v=1720699094&width=400",
 "type": "Face Mist and Spray",
 "tags": [
+"allclinique1126",
 "CL1125",
 "cl425exclsun",
 "CL826",
 "CLALL325",
 "CLBOGO",
 "CLEXCM625",
-"cliniquemoisture",
-"clmoistsurge"
+"cliniquemoisture"
 ],
 "in": true
 },
@@ -33612,14 +33301,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/MirabellePackshotcopy8.png?v=1720700871&width=400",
 "type": "Mascara",
 "tags": [
+"allclinique1126",
 "brainrott626",
 "CL1125",
 "cl425exclsun",
 "CL826",
 "CLALL325",
 "CLBOGO",
-"CLEXCM625",
-"CLMAKEUP"
+"CLEXCM625"
 ],
 "in": true
 },
@@ -33646,27 +33335,26 @@
 {
 "t": "Estee Lauder Futurist Blushmaker Dewy Cheek Tint Liquid Blush",
 "u": "https://feel22.com/products/estee-lauder-futurist-blushmaker-dewy-cheek-tint-liquid-blush",
-"p": 33.6,
-"c": 48.0,
+"p": 48.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/EsteeLauderFuturistBlushmakerDewyCheekTintLiquidBlushSkinnyDip.png?v=1777935505&width=400",
 "type": "Blush",
 "tags": [
 "ESTEE1126",
+"ESTEEABV45",
 "esteemakeup",
 "LUXEALL",
-"LUXED1126",
 "MAYSKU26",
-"MUPSKINALL926",
-"NOV26"
+"MUPSKINALL926"
 ],
 "in": true
 },
 {
 "t": "Estee Lauder DayWear Glow Boost Jelly Cleanser",
 "u": "https://feel22.com/products/estee-lauder-daywear-glow-boost-jelly-cleanser",
-"p": 24.5,
-"c": 35.0,
+"p": 35.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/EsteeLauderDayWearGlowBoostJellyCleanser125ML.png?v=1777935509&width=400",
 "type": "Cleanser and Face Soap",
@@ -33674,28 +33362,25 @@
 "ESTEE1126",
 "esteedaywear",
 "LUXEALL",
-"LUXED1126",
 "MAYSKU26",
-"MUPSKINALL926",
-"NOV26"
+"MUPSKINALL926"
 ],
 "in": true
 },
 {
 "t": "Estee Lauder Futurist Peptide Power Serum Primer",
 "u": "https://feel22.com/products/estee-lauder-futurist-peptide-power-serum-primer",
-"p": 36.4,
-"c": 52.0,
+"p": 52.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/EsteeLauderFuturistPeptidePowerSerumPrimer27ML.png?v=1777935513&width=400",
 "type": "Primer",
 "tags": [
 "ESTEE1126",
+"ESTEEABV45",
 "LUXEALL",
-"LUXED1126",
 "MAYSKU26",
-"MUPSKINALL926",
-"NOV26"
+"MUPSKINALL926"
 ],
 "in": true
 },
@@ -33717,7 +33402,7 @@
 "MAYSKU26",
 "NOV26"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Clarins Moisturising Body Care Hydration And Exfoliation Essentials Set",
@@ -33797,7 +33482,7 @@
 "MAYSKU26",
 "MUPSKINALL926"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Eqqualberry Hyaltoin Flooding Toner",
@@ -33808,6 +33493,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/EqqualberryHyaltoinFloodingToner.png?v=1778180456&width=400",
 "type": "Toner",
 "tags": [
+"HBTBRANDS",
 "MAYSKU26",
 "MUPSKINALL926"
 ],
@@ -33822,6 +33508,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/EqqualberryNAD_PeptideBoostingCream.png?v=1778180464&width=400",
 "type": "Day and Night Cream",
 "tags": [
+"HBTBRANDS",
 "MAYSKU26",
 "MUPSKINALL926"
 ],
@@ -34105,6 +33792,7 @@
 "APRSKU26",
 "CPDALL1126",
 "CPDALL426",
+"MNY1126",
 "MNYBTS926",
 "MNYSUM826",
 "MUPSKINALL926",
@@ -34144,6 +33832,7 @@
 "APRSKU26",
 "CPDALL1126",
 "CPDALL426",
+"MNY1126",
 "MNYSUM826",
 "MUPSKINALL926",
 "NOV26"
@@ -34304,8 +33993,8 @@
 "MARCHSKU26",
 "NOV26",
 "OCT26",
-"pfall526",
-"PFALL826"
+"PFALL1126",
+"pfall526"
 ],
 "in": true
 },
@@ -34324,8 +34013,8 @@
 "MARCHSKU26",
 "NOV26",
 "OCT26",
-"pfall526",
-"PFALL826"
+"PFALL1126",
+"pfall526"
 ],
 "in": true
 },
@@ -34345,7 +34034,7 @@
 "NOV26",
 "OCT26",
 "PF1025",
-"pfall526"
+"PFALL1126"
 ],
 "in": true
 },
@@ -34385,7 +34074,7 @@
 "MUPSKINALL926",
 "NOV26",
 "OCT26",
-"pfall526"
+"PFALL1126"
 ],
 "in": true
 },
@@ -34524,8 +34213,8 @@
 "EVERYTHING",
 "NOV26",
 "OCT26",
-"pfall526",
-"PFALL826"
+"PFALL1126",
+"pfall526"
 ],
 "in": true
 },
@@ -34559,6 +34248,7 @@
 "type": "Serum and Treatment",
 "tags": [
 "EVERYTHING",
+"HBTBRANDS",
 "MUPSKINALL926",
 "raneemsami"
 ],
@@ -34574,6 +34264,7 @@
 "type": "Serum and Treatment",
 "tags": [
 "EVERYTHING",
+"HBTBRANDS",
 "MUPSKINALL926"
 ],
 "in": false
@@ -34588,6 +34279,7 @@
 "type": "Sun Protection",
 "tags": [
 "EVERYTHING",
+"HBTBRANDS",
 "MUPSKINALL926"
 ],
 "in": true
@@ -34605,6 +34297,7 @@
 "1hbt726",
 "1HBT826",
 "FEBSKU26",
+"HBTBRANDS",
 "MUPSKINALL926"
 ],
 "in": true
@@ -34643,9 +34336,9 @@
 "1HBT826",
 "ANNIVERSARYBRANDS",
 "EVERYTHING",
+"HBTBRANDS",
 "HBYT725",
-"HBYTALA325",
-"HBYTALA625"
+"HBYTALA325"
 ],
 "in": true
 },
@@ -35159,6 +34852,7 @@
 "type": "Serum and Treatment",
 "tags": [
 "EVERYTHING",
+"HBTBRANDS",
 "MUPSKINALL926"
 ],
 "in": true
@@ -35173,6 +34867,7 @@
 "type": "Serum and Treatment",
 "tags": [
 "EVERYTHING",
+"HBTBRANDS",
 "MUPSKINALL926"
 ],
 "in": true
@@ -35186,6 +34881,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/NAD_PeptideBoostingToner.png?v=1777016079&width=400",
 "type": "Toner",
 "tags": [
+"HBTBRANDS",
 "MUPSKINALL926"
 ],
 "in": true
@@ -35199,6 +34895,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/VitaminilluminatingCream.png?v=1777015508&width=400",
 "type": "Day and Night Cream",
 "tags": [
+"HBTBRANDS",
 "MUPSKINALL926"
 ],
 "in": true
@@ -36401,7 +36098,7 @@
 {
 "t": "Estee Lauder The Signature Duo Set",
 "u": "https://feel22.com/products/estee-lauder-the-signature-duo-set",
-"p": 219.1,
+"p": 216.0,
 "c": 313.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/EsteeLauderTheSignatureDuoSet.png?v=1773779137&width=400",
@@ -36409,18 +36106,17 @@
 "tags": [
 "Estee Lauder - Fragrance | Feel22Luxe",
 "ESTEE1126",
+"ESTEEABV45",
 "esteefrag",
 "LUXEALL",
-"LUXED1126",
-"MARCHSKU26",
-"NOV26"
+"MARCHSKU26"
 ],
 "in": true
 },
 {
 "t": "Estee Lauder Beautiful Together Set",
 "u": "https://feel22.com/products/estee-lauder-beautiful-together-set",
-"p": 199.5,
+"p": 200.0,
 "c": 285.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/EsteeLauderBeautifulTogetherSet.png?v=1773779190&width=400",
@@ -36428,20 +36124,19 @@
 "tags": [
 "Estee Lauder - Fragrance | Feel22Luxe",
 "ESTEE1126",
+"ESTEEABV45",
 "esteebarbie",
 "esteefrag",
 "LUXEALL",
-"LUXED1126",
-"MARCHSKU26",
-"NOV26"
+"MARCHSKU26"
 ],
 "in": true
 },
 {
 "t": "Estee Lauder Advanced Night Repair Overnight Treatment 65ml",
 "u": "https://feel22.com/products/estee-lauder-advanced-night-repair-overnight-treatment-65ml",
-"p": 89.6,
-"c": 128.0,
+"p": 128.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/cream.png?v=1730900306&width=400",
 "type": "Day and Night Cream",
@@ -36452,16 +36147,16 @@
 "ESTEE525",
 "estee826",
 "ESTEEA325",
-"esteeanr",
-"ESTEEBF25"
+"ESTEEABV45",
+"esteeanr"
 ],
 "in": false
 },
 {
 "t": "Estee Lauder Double Wear Smooth & Blur Primer 40ml",
 "u": "https://feel22.com/products/estee-lauder-double-wearysmooth-blur-primer-40ml",
-"p": 36.4,
-"c": 52.0,
+"p": 52.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/LaRoche-PosayEffaclarDuo_Cream_GelMoussantGift-2024-04-02T145733.976.png?v=1712058658&width=400",
 "type": "Primer",
@@ -36472,16 +36167,16 @@
 "ESTEE525",
 "estee826",
 "ESTEEA325",
-"ESTEEBF25",
-"EVERYTHING"
+"ESTEEABV45",
+"ESTEEBF25"
 ],
 "in": false
 },
 {
 "t": "Estee Lauder Browperfect 3D All-in-One Styler Multi-Tasker",
 "u": "https://feel22.com/products/estee-lauder-browperfect-3d-all",
-"p": 31.5,
-"c": 45.0,
+"p": 45.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshots_-lynn_21.png?v=1710421992&width=400",
 "type": "Eyebrows",
@@ -36500,8 +36195,8 @@
 {
 "t": "Estee Lauder Beautiful Magnolia Perfume",
 "u": "https://feel22.com/products/estee-lauder-beautiful-magnolia-perfume",
-"p": 135.1,
-"c": 193.0,
+"p": 193.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/LaRoche-PosayEffaclarDuo_Cream_GelMoussantGift-2023-12-01T125804.012.png?v=1701427977&width=400",
 "type": "Perfume For Her",
@@ -36509,19 +36204,19 @@
 "Estee Lauder - Fragrance | Feel22Luxe",
 "ESTEE1126",
 "estee826",
+"ESTEEABV45",
 "esteebarbie",
 "esteefrag",
 "EVERYTHING",
-"giftid-8233553428618",
-"giftid-8256735740042"
+"giftid-8233553428618"
 ],
 "in": false
 },
 {
 "t": "Estee Lauder Smoke and Brighten Kajal Eyeliner Duo",
 "u": "https://feel22.com/products/estee-lauder-smoke-and-brighten-kajal-eyeliner-duo",
-"p": 29.4,
-"c": 42.0,
+"p": 42.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/3760139254039-2023-04-19T212136.872.png?v=1681928336&width=400",
 "type": "Eyeliner",
@@ -36540,8 +36235,8 @@
 {
 "t": "Estee Lauder Double Wear Stay-in-Place Lip Pencil",
 "u": "https://feel22.com/products/estee-lauder-double-wear-stay-in-place-lip-pencil",
-"p": 28.0,
-"c": 40.0,
+"p": 40.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/3760139254039-2023-02-22T164456.845.png?v=1677076978&width=400",
 "type": "Lip Liner",
@@ -36560,8 +36255,8 @@
 {
 "t": "Estee Lauder Ladies Azuree Eau De Parfum 50ml",
 "u": "https://feel22.com/products/estee-lauder-ladies-azuree-eau-de-parfum-50ml",
-"p": 87.5,
-"c": 125.0,
+"p": 125.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/Packshots-hala_3_5d540b4c-a4fa-461c-bdf5-feadd7f3de18.png?v=1664795750&width=400",
 "type": "Perfume For Her",
@@ -36570,18 +36265,18 @@
 "Estee Lauder - Fragrance | Feel22Luxe",
 "ESTEE1126",
 "estee826",
+"ESTEEABV45",
 "esteefrag",
 "esteelauderperfume",
-"EVERYTHING",
-"giftid-8233553428618"
+"EVERYTHING"
 ],
 "in": false
 },
 {
 "t": "Estee Lauder Ladies Estee Eau De Parfum 50ml",
 "u": "https://feel22.com/products/estee-lauder-ladies-estee-eau-de-parfum-50ml",
-"p": 87.5,
-"c": 125.0,
+"p": 125.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/Packshots-hala_1_55f2b1cc-d669-49de-be90-90458c624639.png?v=1664789516&width=400",
 "type": "Perfume For Her",
@@ -36592,16 +36287,16 @@
 "ESTEE1126",
 "estee826",
 "ESTEEA325",
-"ESTEEBF24",
-"esteefrag"
+"ESTEEABV45",
+"ESTEEBF24"
 ],
 "in": false
 },
 {
 "t": "Estee Lauder Double Wear 24H Waterproof Gel Eye Pencil",
 "u": "https://feel22.com/products/estee-lauder-double-wear-24h-waterproof-gel-eye-pencil",
-"p": 27.3,
-"c": 39.0,
+"p": 39.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/BestOftemplate2023-2024-01-05T142814.009.png?v=1731681328&width=400",
 "type": "Eyeliner",
@@ -36620,8 +36315,8 @@
 {
 "t": "Estee Lauder Double Wear Infinite Waterproof Eyeliner Espresso",
 "u": "https://feel22.com/products/estee-lauder-double-wear-infinite-waterproof-eyeliner",
-"p": 27.3,
-"c": 39.0,
+"p": 39.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/PACKSHOTS-2022-05-30T102316.239.png?v=1653895428&width=400",
 "type": "Eyeliner",
@@ -36640,8 +36335,8 @@
 {
 "t": "Estee Lauder Daywear Multi-Protection Anti-Oxidant Sheer Tint Release Moisturizer Spf 15",
 "u": "https://feel22.com/products/estee-lauder-daywear-multi-protection-anti-oxidant-sheer-tint-release-moisturizer-spf-15",
-"p": 57.4,
-"c": 82.0,
+"p": 82.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/3b7ffac6bb4c9d0325e0ebc43aadf6c9.jpg?v=1611666875&width=400",
 "type": "Day and Night Cream",
@@ -36649,11 +36344,11 @@
 "daycream1",
 "ESTEE1126",
 "estee826",
+"ESTEEABV45",
 "esteedaywear",
 "esteelauderskin",
 "esteeskincare",
-"EVERYTHING",
-"luxe"
+"EVERYTHING"
 ],
 "in": false
 },
@@ -36666,14 +36361,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/CliniqueEyeEssentialsHighFiLashesSet.png?v=1773052804&width=400",
 "type": "Skincare Gifts and Sets",
 "tags": [
+"allclinique1126",
 "brainrott626",
 "clinique826",
 "CLSETS11",
 "CLSLTC626",
 "LUXEALL",
 "MARCHSKU26",
-"NOV26",
-"slowcl726"
+"NOV26"
 ],
 "in": false
 },
@@ -36686,6 +36381,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/CliniqueJustBrowsingClearSculptingGel.png?v=1768580579&width=400",
 "type": "Eyebrows",
 "tags": [
+"allclinique1126",
 "CL826",
 "CLMAKEUP",
 "CLQ826",
@@ -36705,14 +36401,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/CliniqueJustBrowsingTintedVolumizingGelDarkEspresso.png?v=1760609598&width=400",
 "type": "Eyebrows",
 "tags": [
+"allclinique1126",
 "brainrott626",
 "CL826",
 "clinique826",
 "CLMAKEUP",
 "CLQ826",
 "clrest826",
-"CLSLTC626",
-"EVERYTHING"
+"CLSLTC626"
 ],
 "in": false
 },
@@ -36725,14 +36421,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/1_95f71e57-2f12-4b16-901b-331761767c53.png?v=1752670093&width=400",
 "type": "Eyeshadow",
 "tags": [
+"allclinique1126",
 "CL1125",
 "CL826",
 "clinique826",
 "CLMAKEUP",
 "CLQ826",
 "clrest826",
-"EVERYTHING",
-"giftid-8722547048586"
+"EVERYTHING"
 ],
 "in": true
 },
@@ -36745,14 +36441,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/1_6bf8078c-47b8-4e7d-adde-dbd4d6ba885b.png?v=1757582547&width=400",
 "type": "Day and Night Cream",
 "tags": [
+"allclinique1126",
 "CL1125",
 "CL826",
 "CLABV45",
 "clinique826",
 "CLQ826",
 "clrest826",
-"CLSKIN",
-"EVERYTHING"
+"CLSKIN"
 ],
 "in": true
 },
@@ -36765,14 +36461,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/1_dee2b045-ff25-468c-a7b6-9bc818d92f9d.png?v=1744297489&width=400",
 "type": "Foundation",
 "tags": [
+"allclinique1126",
 "brainrott626",
 "CL1125",
 "CL826",
 "CLABV45",
 "CLBASE",
 "CLEXCM625",
-"clinique826",
-"cliniquesun"
+"clinique826"
 ],
 "in": true
 },
@@ -36785,14 +36481,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/1_9eab209b-2648-4383-8d4c-c0db86f1001c.png?v=1744188816&width=400",
 "type": "Serum and Treatment",
 "tags": [
+"allclinique1126",
 "BWF30",
 "CL1125",
 "cl425exclsun",
 "CL826",
 "CLABV45",
 "CLEXCM625",
-"clinique826",
-"cliniquemoisture"
+"clinique826"
 ],
 "in": true
 },
@@ -36805,14 +36501,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/40_5edf3c55-f2d7-4ae2-b1e3-5756422be17d.png?v=1730451235&width=400",
 "type": "Day and Night Cream",
 "tags": [
+"allclinique1126",
 "brainrott626",
 "CL1125",
 "CL826",
 "CLABV45",
 "clinique826",
 "CLQ826",
-"clrest826",
-"CLSKIN"
+"clrest826"
 ],
 "in": false
 },
@@ -36825,14 +36521,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/La_Roche-Posay_Effaclar_Duo_Cream_Gel_Moussant_Gift_-_2024-04-02T134306.275.png?v=1712054239&width=400",
 "type": "Eyeliner",
 "tags": [
+"allclinique1126",
 "brainrott626",
 "CL1125",
 "CL826",
 "CLBOGO",
 "CLEXCM625",
 "clinique826",
-"CLMAKEUP",
-"CLQ826"
+"CLMAKEUP"
 ],
 "in": true
 },
@@ -36845,14 +36541,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshots-lynn_2_19c5f4ac-8092-4019-83e3-89ee05b6278b.png?v=1710418209&width=400",
 "type": "Mascara",
 "tags": [
+"allclinique1126",
 "brainrott626",
 "CL1125",
 "cl425exclsun",
 "CL826",
 "CLALL325",
 "CLBOGO",
-"clchubby726",
-"clinique826"
+"clchubby726"
 ],
 "in": false
 },
@@ -36865,14 +36561,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/LaRoche-PosayEffaclarDuo_Cream_GelMoussantGift-2024-01-15T110231.209.png?v=1705309050&width=400",
 "type": "Mascara",
 "tags": [
+"allclinique1126",
 "brainrott626",
 "CL1125",
 "cl425exclsun",
 "CL826",
 "CLABV45",
 "CLBOGO",
-"CLEXCM625",
-"clinique826"
+"CLEXCM625"
 ],
 "in": true
 },
@@ -36885,14 +36581,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/2_1ed3cb46-be6b-4624-97b7-e713e1e3691c.png?v=1698053010&width=400",
 "type": "Day and Night Cream",
 "tags": [
+"allclinique1126",
 "brainrott626",
 "CL1125",
 "cl425exclsun",
 "CL826",
 "CLABV45",
 "CLALL325",
-"CLBOGO",
-"CLEXCM625"
+"CLBOGO"
 ],
 "in": false
 },
@@ -36905,14 +36601,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/9_723dc4f5-ba7b-4dae-ac90-7ac4632deb10.png?v=1698053874&width=400",
 "type": "Perfume For Her",
 "tags": [
+"allclinique1126",
 "brainrott626",
 "CL826",
 "CLABV45",
 "CLBOGO",
 "clinique826",
 "cliniquebf24",
-"clperfumes",
-"CLQ826"
+"clperfumes"
 ],
 "in": true
 },
@@ -36925,14 +36621,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Untitleddesign_89.png?v=1688118470&width=400",
 "type": "Sun Protection",
 "tags": [
+"allclinique1126",
 "brainrott626",
 "CL1125",
 "CL826",
 "CLABV45",
 "CLBOGO",
 "clinique826",
-"cliniquebf24",
-"cliniquesun"
+"cliniquebf24"
 ],
 "in": false
 },
@@ -36945,14 +36641,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/LaRoche-PosayEffaclarDuo_Cream_GelMoussantGift-2023-07-13T113114.535.png?v=1689236857&width=400",
 "type": "Day and Night Cream",
 "tags": [
+"allclinique1126",
 "CL1125",
 "CL826",
 "CLABV45",
 "CLALL325",
 "CLBOGO",
 "CLEXCM625",
-"clinique826",
-"cliniquebf24"
+"clinique826"
 ],
 "in": false
 },
@@ -36965,14 +36661,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/Pouchespackshot-2022-12-03T132852.687.png?v=1670066894&width=400",
 "type": "Skincare Gifts and Sets",
 "tags": [
+"allclinique1126",
 "ALLSETS226",
 "CLABV45",
 "CLBOGO",
 "CLEXCM625",
 "clinique826",
 "CLSETS",
-"CLSETS11",
-"EVERYTHING"
+"CLSETS11"
 ],
 "in": true
 },
@@ -36985,14 +36681,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/Packshots-hala_72.jpg?v=1664549136&width=400",
 "type": "Primer",
 "tags": [
+"allclinique1126",
 "brainrott626",
 "CL1125",
 "cl425exclsun",
 "CL826",
 "CLABV45",
 "CLALL325",
-"CLEXCM625",
-"clinique826"
+"CLEXCM625"
 ],
 "in": true
 },
@@ -37005,14 +36701,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/Packshots-hala_70.jpg?v=1664548750&width=400",
 "type": "Eyebrows",
 "tags": [
+"allclinique1126",
 "brainrott626",
 "CL1125",
 "cl425exclsun",
 "CL826",
 "CLALL325",
 "CLBOGO",
-"CLEXCM625",
-"CLMAKEUP"
+"CLEXCM625"
 ],
 "in": true
 },
@@ -37025,14 +36721,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/Packshots-hala_64_5e58c2fc-60ce-4a60-9b71-12e0ff5dc444.jpg?v=1664548013&width=400",
 "type": "Eyeliner",
 "tags": [
+"allclinique1126",
 "brainrott626",
 "CL1125",
 "cl425exclsun",
 "CL826",
 "CLALL325",
 "CLEXCM625",
-"clinique826",
-"CLMAKEUP"
+"clinique826"
 ],
 "in": false
 },
@@ -37045,14 +36741,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/Packshots-hala_fe294ccb-c724-49b4-90ab-2c762b4c64b0.jpg?v=1662540578&width=400",
 "type": "Face Oil",
 "tags": [
+"allclinique1126",
 "brainrott626",
 "CL1125",
 "cl425exclsun",
 "CL826",
 "CLABV45",
 "CLALL325",
-"CLEXCM625",
-"clinique826"
+"CLEXCM625"
 ],
 "in": true
 },
@@ -37065,14 +36761,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/PACKSHOTS-2022-05-23T155418.315.png?v=1653310480&width=400",
 "type": "Eye Cream",
 "tags": [
+"allclinique1126",
 "brainrott626",
 "CL1125",
 "CL826",
 "CLABV45",
 "clinique826",
 "cliniquebf24",
-"CLQ826",
-"clrest826"
+"CLQ826"
 ],
 "in": true
 },
@@ -37085,14 +36781,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/Untitled1223-2021-10-05T221537.899.jpg?v=1633461368&width=400",
 "type": "Serum and Treatment",
 "tags": [
+"allclinique1126",
 "brainrott626",
 "CL1125",
 "cl425exclsun",
 "CL826",
 "CLABV45",
 "CLALL325",
-"CLEXCM625",
-"clinique826"
+"CLEXCM625"
 ],
 "in": true
 },
@@ -37105,14 +36801,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/TUntitled1223-01_6.jpg?v=1643642121&width=400",
 "type": "Foundation",
 "tags": [
+"allclinique1126",
 "best25",
 "brainrott626",
 "CL1125",
 "CL826",
 "CLABV45",
 "CLALL325",
-"CLBASE",
-"CLBOGO"
+"CLBASE"
 ],
 "in": true
 },
@@ -37126,13 +36822,13 @@
 "type": "Makeup Remover",
 "tags": [
 "Acne & Blemishes",
+"allclinique1126",
 "brainrott626",
 "CL826",
 "CLABV45",
 "clinique826",
 "CLMAKEUP",
-"CLQ826",
-"clrest826"
+"CLQ826"
 ],
 "in": false
 },
@@ -37145,14 +36841,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/cl_sku_635M01_1200x1500_0.jpg?v=1591627993&width=400",
 "type": "Perfume For Her",
 "tags": [
+"allclinique1126",
 "APR26",
 "AUG26",
 "brainrott626",
 "CL1125",
 "cl425exclsun",
 "CL826",
-"CLABV45",
-"CLALL325"
+"CLABV45"
 ],
 "in": true
 },
@@ -37165,14 +36861,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/pix_478.jpg?v=1647084229&width=400",
 "type": "Cleanser and Face Soap",
 "tags": [
+"allclinique1126",
 "brainrott626",
 "CL826",
 "CLABV45",
 "clinique",
 "clinique826",
 "CLINIQUERM",
-"CLQ826",
-"CLSKIN"
+"CLQ826"
 ],
 "in": false
 },
@@ -37185,14 +36881,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/pix_480.jpg?v=1647084287&width=400",
 "type": "Cleanser and Face Soap",
 "tags": [
+"allclinique1126",
 "CL1125",
 "cl425exclsun",
 "CL826",
 "CLALL325",
 "CLBOGO",
 "CLEXCM625",
-"cliniquebf24",
-"CLQ826"
+"cliniquebf24"
 ],
 "in": true
 },
@@ -37205,14 +36901,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/PACKSHOTS-2022-04-14T165034.116.png?v=1649944240&width=400",
 "type": "Cleanser and Face Soap",
 "tags": [
+"allclinique1126",
 "CL1125",
 "cl425exclsun",
 "CL826",
 "CLALL325",
 "CLBOGO",
 "Cleansers & Toners",
-"CLEXCM625",
-"clinique"
+"CLEXCM625"
 ],
 "in": true
 },
@@ -37225,14 +36921,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/TUntitled1223-01_1.jpg?v=1643649052&width=400",
 "type": "Foundation",
 "tags": [
+"allclinique1126",
 "brainrott626",
 "CL1125",
 "cl425exclsun",
 "CL826",
 "CLABV45",
 "CLALL325",
-"CLBASE",
-"CLBOGO"
+"CLBASE"
 ],
 "in": true
 },
@@ -37245,14 +36941,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/TUntitled1223-01_6_7124aee7-be3f-44af-ad71-1cd3a4667919.jpg?v=1643709062&width=400",
 "type": "Mascara",
 "tags": [
+"allclinique1126",
 "brainrott626",
 "CL1125",
 "CL826",
 "CLABV45",
 "CLBOGO",
 "CLEXCM625",
-"clinique",
-"clinique826"
+"clinique"
 ],
 "in": false
 },
@@ -37265,14 +36961,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/TUntitled1223-01_10.jpg?v=1643643779&width=400",
 "type": "Mascara",
 "tags": [
+"allclinique1126",
 "brainrott626",
 "CL1125",
 "CL826",
 "clinique",
 "clinique826",
 "cliniquebf24",
-"CLINIQUERM",
-"CLMAKEUP"
+"CLINIQUERM"
 ],
 "in": true
 },
@@ -37285,14 +36981,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/BestOftemplate2023-2024-01-05T140756.255.png?v=1731680614&width=400",
 "type": "Foundation",
 "tags": [
+"allclinique1126",
 "best25",
 "BESTOF2023",
 "bestofluxe23",
 "brainrott626",
 "CL1125",
 "cl425exclsun",
-"CL826",
-"CLABV45"
+"CL826"
 ],
 "in": true
 },
@@ -37305,14 +37001,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/clq_614701_402x464_0e9515e1-5ee1-4953-b877-a7173aa1aef1.png?v=1571439787&width=400",
 "type": "Day and Night Cream",
 "tags": [
+"allclinique1126",
 "CL1125",
 "CL826",
 "CLABV45",
 "CLBOGO",
 "clinique",
 "clinique826",
-"CLQ826",
-"clrest826"
+"CLQ826"
 ],
 "in": false
 },
@@ -37325,14 +37021,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/TUntitled1223-01_9_f2103423-3710-4cc9-99d1-0cf614edd4d5.jpg?v=1643650697&width=400",
 "type": "Lip Care",
 "tags": [
+"allclinique1126",
 "Anti-Aging",
 "brainrott626",
 "CL826",
 "CLABV45",
 "clinique",
 "clinique826",
-"cliniquechange",
-"CLINIQUERM"
+"cliniquechange"
 ],
 "in": false
 },
@@ -37346,13 +37042,13 @@
 "type": "Serum and Treatment",
 "tags": [
 "Acne & Blemishes",
+"allclinique1126",
 "brainrott626",
 "CL826",
 "CLABV45",
 "clinique",
 "clinique826",
-"CLQ826",
-"clrest826"
+"CLQ826"
 ],
 "in": false
 },
@@ -37365,14 +37061,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/pix_498.jpg?v=1647085311&width=400",
 "type": "Day and Night Cream",
 "tags": [
+"allclinique1126",
 "brainrott626",
 "CL1125",
 "cl425exclsun",
 "CL826",
 "CLABV45",
 "CLALL325",
-"CLBOGO",
-"clinique"
+"CLBOGO"
 ],
 "in": true
 },
@@ -37387,12 +37083,12 @@
 "tags": [
 "24Luxe",
 "24Skincare",
+"allclinique1126",
 "BEST21",
 "BestOf2024",
 "CL1125",
 "cl425exclsun",
-"CL826",
-"CLABV45"
+"CL826"
 ],
 "in": true
 },
@@ -37405,14 +37101,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/TUntitled1223-01_11.jpg?v=1643644600&width=400",
 "type": "Toner",
 "tags": [
+"allclinique1126",
 "CL1125",
 "CL826",
 "CLABV45",
 "Cleansers & Toners",
 "clinique",
 "clinique826",
-"CLINIQUERM",
-"CliniqueSkin"
+"CLINIQUERM"
 ],
 "in": true
 },
@@ -37425,14 +37121,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/TUntitled1223-01_3.jpg?v=1643638193&width=400",
 "type": "Cleanser and Face Soap",
 "tags": [
+"allclinique1126",
 "CL1125",
 "CL826",
 "CLABV45",
 "CLBOGO",
 "Cleansers & Toners",
 "CLEXCM625",
-"clinique",
-"clinique826"
+"clinique"
 ],
 "in": true
 },
@@ -37445,14 +37141,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/clq_6C1W_402x464_18dda488-1c96-447f-9dca-9312a341d31b.png?v=1571439775&width=400",
 "type": "Deodorant For Her",
 "tags": [
+"allclinique1126",
 "brainrott626",
 "CL1125",
 "cl425exclsun",
 "CL826",
 "CLALL325",
 "CLEXCM625",
-"clinique",
-"clinique826"
+"clinique"
 ],
 "in": false
 },
@@ -37465,14 +37161,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/Untitled-2021-06-01T151403.738.jpg?v=1622549654&width=400",
 "type": "Face Scrub and Exfoliators",
 "tags": [
+"allclinique1126",
 "brainrott626",
 "CL1125",
 "CL826",
 "CLABV45",
 "Cleansers & Toners",
 "clinique",
-"clinique826",
-"cliniquechange"
+"clinique826"
 ],
 "in": false
 },
@@ -37487,20 +37183,20 @@
 "tags": [
 "Acne",
 "Acne & Blemishes",
+"allclinique1126",
 "brainrott626",
 "CL1125",
 "cl425exclsun",
 "CL826",
-"CLALL325",
-"CLBOGO"
+"CLALL325"
 ],
 "in": true
 },
 {
 "t": "Estee Lauder Aliage Eau de Parfum 50 ml",
 "u": "https://feel22.com/products/estee-lauder-aliage-eau-de-parfum-50-ml",
-"p": 87.5,
-"c": 125.0,
+"p": 125.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/Packshots-hala_4_69fab927-69af-4262-bc3b-6ef08e00cae3.png?v=1664795968&width=400",
 "type": "Perfume For Her",
@@ -37512,15 +37208,15 @@
 "ESTEE525",
 "estee826",
 "ESTEEA325",
-"ESTEEBF24"
+"ESTEEABV45"
 ],
 "in": true
 },
 {
 "t": "Estee Lauder Bronze Goddess Powder Bronzer",
 "u": "https://feel22.com/products/estee-lauder-bronze-goddess-powder-bronzer",
-"p": 50.4,
-"c": 72.0,
+"p": 72.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/PACKSHOTS_-_2022-04-29T113243.615.png?v=1651221172&width=400",
 "type": "Bronzer",
@@ -37532,15 +37228,15 @@
 "ESTEE1126",
 "estee826",
 "ESTEEA325",
-"ESTEEBF25"
+"ESTEEABV45"
 ],
 "in": true
 },
 {
 "t": "Estee lauder Nightwear 50ML",
 "u": "https://feel22.com/products/estee-lauder-nightwear-50ml",
-"p": 63.7,
-"c": 91.0,
+"p": 91.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/pix_401.jpg?v=1647079885&width=400",
 "type": "Day and Night Cream",
@@ -37552,15 +37248,15 @@
 "ESTEE525",
 "estee826",
 "ESTEEA325",
-"ESTEEBF25"
+"ESTEEABV45"
 ],
 "in": true
 },
 {
 "t": "Estee Lauder Modern Muse Eau de Parfum Spray Fragrance",
 "u": "https://feel22.com/products/estee-lauder-modern-muse-eau-de-parfum-spray-fragrance",
-"p": 91.7,
-"c": 131.0,
+"p": 131.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshots-2024-01-04T122730.690.png?v=1704462225&width=400",
 "type": "Perfume For Her",
@@ -37572,54 +37268,53 @@
 "ESTEE1126",
 "ESTEE525",
 "estee826",
-"esteebarbie"
+"ESTEEABV45"
 ],
 "in": true
 },
 {
 "t": "Estee Lauder Advanced Night Repair Eye Lift + Sculpt Eye Cream 15ml",
 "u": "https://feel22.com/products/estee-lauder-advanced-night-repair-eye-lift-sculpt-eye-cream-15ml",
-"p": 71.4,
-"c": 102.0,
+"p": 102.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/EsteeLauderAdvancedNightRepairEyeLift_SculptEyeCream15ml.png?v=1760963771&width=400",
 "type": "Eye Cream",
 "tags": [
 "ESTEE1126",
 "estee826",
+"ESTEEABV45",
 "esteeanr",
 "esteeskincare",
 "EVERYTHING",
 "giftid-8256735740042",
-"LUXEALL",
-"LUXED1126"
+"LUXEALL"
 ],
 "in": true
 },
 {
 "t": "Estee Lauder Revitalizing Supreme+ Night Power Bounce Creme Moisturizer",
 "u": "https://feel22.com/products/estee-lauder-revitalizing-supreme-night-power-bounce-creme-moisturizer",
-"p": 98.0,
-"c": 140.0,
+"p": 140.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/EsteeLauderRevitalizingSupreme_NightPowerBounceCremeMoisturizer.png?v=1760605941&width=400",
 "type": "Day and Night Cream",
 "tags": [
 "ESTEE1126",
 "estee826",
+"ESTEEABV45",
 "esteeskincare",
 "EVERYTHING",
 "LUXEALL",
-"LUXED1126",
-"MUPSKINALL926",
-"NOV26"
+"MUPSKINALL926"
 ],
 "in": true
 },
 {
 "t": "Estee Lauder Beautiful Memories Gift Set",
 "u": "https://feel22.com/products/estee-lauder-beautiful-memories-gift-set",
-"p": 173.32,
+"p": 180.0,
 "c": 247.6,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshotstemp-Lynn_42da5dc0-f7d7-4977-be14-bc1400247c1b.png?v=1744293564&width=400",
@@ -37629,18 +37324,18 @@
 "Estee Lauder - Fragrance | Feel22Luxe",
 "ESTEE1126",
 "ESTEE525",
+"ESTEEABV45",
 "esteebarbie",
 "esteefrag",
-"EVERYTHING",
-"giftid-8256735740042"
+"EVERYTHING"
 ],
 "in": true
 },
 {
 "t": "Estee Lauder Pure Color Envy Nighttime Rescue Lip Oil-Serum 9ml",
 "u": "https://feel22.com/products/estee-lauder-pure-color-envy-nighttime-rescue-lip-oil-serum-9ml",
-"p": 28.0,
-"c": 40.0,
+"p": 40.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/lip.png?v=1730900502&width=400",
 "type": "Lip Care",
@@ -37659,8 +37354,8 @@
 {
 "t": "Estee Lauder Perfectionist ProRapid Brightening Treatment Serum",
 "u": "https://feel22.com/products/estee-lauder-perfectionist-prorapid-brightening-treatment-serum",
-"p": 144.2,
-"c": 206.0,
+"p": 206.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/LaRoche-PosayEffaclarDuo_Cream_GelMoussantGift-2024-04-02T150209.491.png?v=1712058934&width=400",
 "type": "Serum and Treatment",
@@ -37671,16 +37366,16 @@
 "ESTEE525",
 "estee826",
 "ESTEEA325",
-"ESTEEBF24",
-"ESTEEBF25"
+"ESTEEABV45",
+"ESTEEBF24"
 ],
 "in": true
 },
 {
 "t": "Estee Lauder Idealist Pore Minimizing Skin Refinisher 50 ml",
 "u": "https://feel22.com/products/estee-lauder-idealist-pore-minimizing-skin-refinisher-50-ml",
-"p": 108.5,
-"c": 155.0,
+"p": 155.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/LaRoche-PosayEffaclarDuo_Cream_GelMoussantGift-2023-08-30T164057.552.png?v=1693402612&width=400",
 "type": "Serum and Treatment",
@@ -37690,17 +37385,17 @@
 "ESTEE1126",
 "ESTEE525",
 "estee826",
+"ESTEEABV45",
 "ESTEEBF24",
-"ESTEEBF25",
-"EVERYTHING"
+"ESTEEBF25"
 ],
 "in": false
 },
 {
 "t": "Estee Lauder Perfectionist Pro UV Gel 30ml",
 "u": "https://feel22.com/products/estee-lauder-perfectionist-pro-uv-gel-30ml",
-"p": 40.6,
-"c": 58.0,
+"p": 58.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/3760139254039-2023-04-19T210841.830.png?v=1681927554&width=400",
 "type": "Sun Protection",
@@ -37711,16 +37406,16 @@
 "ESTEE525",
 "estee826",
 "ESTEEA325",
-"ESTEEBF24",
-"ESTEEBF25"
+"ESTEEABV45",
+"ESTEEBF24"
 ],
 "in": true
 },
 {
 "t": "Estee Lauder Advanced Night Repair Eye Gel Supercharged Cream 15ml",
 "u": "https://feel22.com/products/estee-lauder-advanced-night-repair-eye-gel-supercharged-cream",
-"p": 60.9,
-"c": 87.0,
+"p": 87.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/Packshots-hala_4_3bdbab3b-6aa8-4474-b2e7-8cdaba8b7525.jpg?v=1704735701&width=400",
 "type": "Eye Cream",
@@ -37732,15 +37427,15 @@
 "ESTEE525",
 "estee826",
 "ESTEEA325",
-"esteeanr"
+"ESTEEABV45"
 ],
 "in": true
 },
 {
 "t": "Estee Lauder Pleasures Eau De Parfum Spray",
 "u": "https://feel22.com/products/estee-lauder-pleasures-eau-de-parfum-spray-50ml",
-"p": 72.74,
-"c": 103.92,
+"p": 103.92,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshots-2024-01-04T123326.653.png?v=1704462279&width=400",
 "type": "Perfume For Her",
@@ -37749,18 +37444,18 @@
 "Estee Lauder - Fragrance | Feel22Luxe",
 "ESTEE1126",
 "estee826",
+"ESTEEABV45",
 "esteefrag",
 "esteelauderperfume",
-"EVERYTHING",
-"FB"
+"EVERYTHING"
 ],
 "in": true
 },
 {
 "t": "Estee Lauder Daywear Hydrasorbet SPF 15 50ml",
 "u": "https://feel22.com/products/estee-lauder-daywear-hydrasorbet-spf-15-50ml",
-"p": 57.4,
-"c": 82.0,
+"p": 82.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/pix_343.jpg?v=1647075886&width=400",
 "type": "Day and Night Cream",
@@ -37771,16 +37466,16 @@
 "ESTEE1125",
 "ESTEE1126",
 "estee826",
-"ESTEEBF25",
-"esteedaywear"
+"ESTEEABV45",
+"ESTEEBF25"
 ],
 "in": true
 },
 {
 "t": "Estee Lauder Double Wear Maximum Cover SPF 15 30ml",
 "u": "https://feel22.com/products/estee-lauder-double-wear-maximum-cover-spf-15-30ml",
-"p": 47.6,
-"c": 68.0,
+"p": 68.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/Untitled1223_2_20_9.jpg?v=1645186266&width=400",
 "type": "Foundation",
@@ -37799,8 +37494,8 @@
 {
 "t": "Est̩e Lauder Gentle Eye Makeup Remover 100ml",
 "u": "https://feel22.com/products/estee-lauder-gentle-eye-makeup-remover-100ml",
-"p": 30.8,
-"c": 44.0,
+"p": 44.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/el-mup-remover.jpg?v=1571439902&width=400",
 "type": "Day and Night Cream",
@@ -37825,14 +37520,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/1_e760fbe1-3974-4d4e-82ec-34559e437157.png?v=1752672546&width=400",
 "type": "Serum and Treatment",
 "tags": [
+"allclinique1126",
 "brainrott626",
 "CL1125",
 "CL826",
 "CLABV45",
 "clinique826",
 "CLQ826",
-"clrest826",
-"CLSKIN"
+"clrest826"
 ],
 "in": true
 },
@@ -37845,14 +37540,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/1_662e9a69-a78e-4c98-9473-843cb549bd28.png?v=1744299940&width=400",
 "type": "Bronzer",
 "tags": [
+"allclinique1126",
 "brainrott626",
 "CL1125",
 "CL826",
 "CLABV45",
 "CLEXCM625",
 "clinique826",
-"CLMAKEUP",
-"CLQ826"
+"CLMAKEUP"
 ],
 "in": true
 },
@@ -37865,14 +37560,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/1_09ffaf57-6e8a-4eae-91bf-be0766ef8ed5.png?v=1744376210&width=400",
 "type": "Day and Night Cream",
 "tags": [
+"allclinique1126",
 "brainrott626",
 "CL1125",
 "CL826",
 "CLABV45",
 "clinique826",
 "cliniquemoisture",
-"cliniquesun",
-"clmoistsurge"
+"cliniquesun"
 ],
 "in": true
 },
@@ -37885,14 +37580,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/1_6070bdd4-c87a-46ab-a997-080859ee4518.png?v=1739285805&width=400",
 "type": "Eye Cream",
 "tags": [
+"allclinique1126",
 "brainrott626",
 "CL1125",
 "cl425exclsun",
 "CL826",
 "CLABV45",
 "CLEXCM625",
-"clinique826",
-"CLQ826"
+"clinique826"
 ],
 "in": true
 },
@@ -37905,14 +37600,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/1_114d2ea5-a289-41a0-9b9b-ae5d7deff792.png?v=1739285114&width=400",
 "type": "Eye Cream",
 "tags": [
+"allclinique1126",
 "CL1125",
 "cl425exclsun",
 "CL826",
 "CLABV45",
 "CLEXCM625",
 "clinique826",
-"CLQ826",
-"clrest826"
+"CLQ826"
 ],
 "in": true
 },
@@ -37925,14 +37620,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshots_temp_2_64f33fd9-5466-403b-a45f-f4d42940dc1e.png?v=1736455878&width=400",
 "type": "Skincare Gifts and Sets",
 "tags": [
+"allclinique1126",
 "ALLSETS226",
 "brainrott626",
 "CLABV45",
 "clinique826",
 "cliniquemen",
 "CLMEN",
-"CLSETS",
-"CLSETS11"
+"CLSETS"
 ],
 "in": true
 },
@@ -37945,14 +37640,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshotstemp_8be3c798-8362-447d-a2ff-bb7fd2839abc.png?v=1736455201&width=400",
 "type": "Skincare Gifts and Sets",
 "tags": [
+"allclinique1126",
 "ALLSETS226",
 "brainrott626",
 "CLABV45",
 "CLEXCM625",
 "clinique826",
 "CLSETS",
-"CLSETS11",
-"CLSKIN"
+"CLSETS11"
 ],
 "in": false
 },
@@ -37965,14 +37660,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/5_665bca41-b026-4bba-8487-57faeb2dab48.png?v=1731656842&width=400",
 "type": "Sun Protection",
 "tags": [
+"allclinique1126",
 "brainrott626",
 "CL1125",
 "CL826",
 "CLABV45",
 "clinique826",
 "cliniquechange",
-"cliniquesun",
-"CLQ826"
+"cliniquesun"
 ],
 "in": true
 },
@@ -37985,14 +37680,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/5_d41d7910-48eb-4562-9d3d-57dc5a2b6a6a.png?v=1730450521&width=400",
 "type": "Lipstick",
 "tags": [
+"allclinique1126",
 "brainrott626",
 "CL1125",
 "CL826",
 "CLEXCM625",
 "clinique826",
 "CLMAKEUP",
-"CLQ826",
-"clrest826"
+"CLQ826"
 ],
 "in": true
 },
@@ -38005,14 +37700,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/MirabellePackshotcopy_3a45af28-0edd-4bc7-88c9-5ac1f16d2f9e.png?v=1720700020&width=400",
 "type": "Day and Night Cream",
 "tags": [
+"allclinique1126",
 "brainrott626",
 "CL1125",
 "cl425exclsun",
 "CL826",
 "CLABV45",
 "CLALL325",
-"CLBOGO",
-"CLEXCM625"
+"CLBOGO"
 ],
 "in": true
 },
@@ -38025,14 +37720,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/LaRoche-PosayEffaclarDuo_Cream_GelMoussantGift-2024-04-02T132925.930.png?v=1712053390&width=400",
 "type": "Day and Night Cream",
 "tags": [
+"allclinique1126",
 "brainrott626",
 "CL1125",
 "CL826",
 "CLABV45",
 "CLBOGO",
 "clinique826",
-"CLQ826",
-"clrest826"
+"CLQ826"
 ],
 "in": true
 },
@@ -38045,14 +37740,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/LaRoche-PosayEffaclarDuo_Cream_GelMoussantGift-2024-02-13T113337.818.png?v=1707816459&width=400",
 "type": "Cleanser and Face Soap",
 "tags": [
+"allclinique1126",
 "brainrott626",
 "CL1125",
 "cl425exclsun",
 "CL826",
 "CLALL325",
 "CLBOGO",
-"CLEXCM625",
-"clinique826"
+"CLEXCM625"
 ],
 "in": true
 },
@@ -38065,14 +37760,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/deepdenim.png?v=1736454161&width=400",
 "type": "Eyeliner",
 "tags": [
+"allclinique1126",
 "brainrott626",
 "CL1125",
 "cl425exclsun",
 "CL826",
 "CLBOGO",
 "CLEXCM625",
-"cliniquebf24",
-"CLMAKEUP"
+"cliniquebf24"
 ],
 "in": true
 },
@@ -38085,14 +37780,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Cliniquepackshots_11.png?v=1701437179&width=400",
 "type": "Perfume Set For Her",
 "tags": [
+"allclinique1126",
 "ALLSETS226",
 "cl425exclsun",
 "CLABV45",
 "CLBOGO",
 "CLEXCM625",
 "clinique826",
-"clperfumes",
-"CLSETS11"
+"clperfumes"
 ],
 "in": true
 },
@@ -38105,14 +37800,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Cliniquepackshots_9.png?v=1701436871&width=400",
 "type": "Skincare Gifts and Sets",
 "tags": [
+"allclinique1126",
 "ALLSETS226",
 "brainrott626",
 "cl425exclsun",
 "CLABV45",
 "CLBOGO",
 "clinique826",
-"cliniquemen",
-"CLMEN"
+"cliniquemen"
 ],
 "in": true
 },
@@ -38125,14 +37820,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/productwhitebg-lynn_15_357cba8b-44a0-4cbc-b647-ba3c5ece96ab.png?v=1700133523&width=400",
 "type": "Day and Night Cream",
 "tags": [
+"allclinique1126",
 "brainrott626",
 "CL1125",
 "cl425exclsun",
 "CL826",
 "CLABV45",
 "CLALL325",
-"clinique826",
-"cliniquebf24"
+"clinique826"
 ],
 "in": true
 },
@@ -38145,14 +37840,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/LaRoche-PosayEffaclarDuo_Cream_GelMoussantGift-2023-10-26T160215.689.png?v=1698325051&width=400",
 "type": "Primer",
 "tags": [
+"allclinique1126",
 "brainrott626",
 "CL1125",
 "cl425exclsun",
 "CL826",
 "CLALL325",
 "CLEXCM625",
-"clinique826",
-"cliniquebf24"
+"clinique826"
 ],
 "in": true
 },
@@ -38165,14 +37860,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/LaRoche-PosayEffaclarDuo_Cream_GelMoussantGift-2023-10-26T155820.614.png?v=1698324817&width=400",
 "type": "Primer",
 "tags": [
+"allclinique1126",
 "brainrott626",
 "CL1125",
 "cl425exclsun",
 "CL826",
 "CLALL325",
 "CLEXCM625",
-"clinique826",
-"cliniquebf24"
+"clinique826"
 ],
 "in": true
 },
@@ -38185,14 +37880,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/CliniqueAndEsteeLauderNewItemsPackshots.png?v=1698052737&width=400",
 "type": "Skincare Gifts and Sets",
 "tags": [
+"allclinique1126",
 "ALLSETS226",
 "cl425exclsun",
 "CLABV45",
 "CLBOGO",
 "CLEXCM625",
 "clinique826",
-"CLSETS",
-"CLSETS11"
+"CLSETS"
 ],
 "in": true
 },
@@ -38205,14 +37900,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Untitleddesign-2023-07-12T171843.202.png?v=1689171569&width=400",
 "type": "Cleanser and Face Soap",
 "tags": [
+"allclinique1126",
 "brainrott626",
 "CL1125",
 "cl425exclsun",
 "CL826",
 "CLABV45",
 "CLALL325",
-"CLBOGO",
-"CLEXCM625"
+"CLBOGO"
 ],
 "in": true
 },
@@ -38225,14 +37920,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/3760139254039-2023-03-22T123837.729.png?v=1679481368&width=400",
 "type": "Day and Night Cream",
 "tags": [
+"allclinique1126",
 "brainrott626",
 "CL1125",
 "cl425exclsun",
 "CL826",
 "CLABV45",
 "CLALL325",
-"CLEXCM625",
-"clinique826"
+"CLEXCM625"
 ],
 "in": true
 },
@@ -38245,14 +37940,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/Pouchespackshot-2022-12-03T133422.569.png?v=1670067212&width=400",
 "type": "Skincare Gifts and Sets",
 "tags": [
+"allclinique1126",
 "ALLSETS226",
 "cl425exclsun",
 "CLABV45",
 "CLBOGO",
 "CLEXCM625",
 "clinique826",
-"CLSETS",
-"CLSETS11"
+"CLSETS"
 ],
 "in": false
 },
@@ -38265,14 +37960,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshots-2024-01-04T114527.461.png?v=1704461494&width=400",
 "type": "Perfume For Him",
 "tags": [
+"allclinique1126",
 "brainrott626",
 "CL1125",
 "cl425exclsun",
 "CL826",
 "CLABV45",
 "CLALL325",
-"CLBOGO",
-"clinique826"
+"CLBOGO"
 ],
 "in": true
 },
@@ -38285,14 +37980,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/Untitled1223_57ffd86e-3532-42f6-b220-3d423335fa5c.jpg?v=1638355005&width=400",
 "type": "Skincare Gifts and Sets",
 "tags": [
+"allclinique1126",
 "ALLSETS226",
 "CLABV45",
 "CLBOGO",
 "CLEXCM625",
 "clinique826",
 "CLSETS",
-"CLSETS11",
-"EVERYTHING"
+"CLSETS11"
 ],
 "in": true
 },
@@ -38305,14 +38000,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/BestOftemplate2023_36.png?v=1731680634&width=400",
 "type": "Concealer and Corrector",
 "tags": [
+"allclinique1126",
 "BESTOF2023",
 "bestofluxe23",
 "brainrott626",
 "CL1125",
 "cl425exclsun",
 "CL826",
-"CLABV45",
-"CLALL325"
+"CLABV45"
 ],
 "in": true
 },
@@ -38325,14 +38020,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/clinique-moisture-surge-96-hr-hydrator-eye-cream-15ml.jpg?v=1579708964&width=400",
 "type": "Serum and Treatment",
 "tags": [
+"allclinique1126",
 "Anti-Ageing & Wrinkles",
 "CL1125",
 "cl425exclsun",
 "CL826",
 "CLABV45",
 "CLALL325",
-"CLBOGO",
-"CLEXCM625"
+"CLBOGO"
 ],
 "in": true
 },
@@ -38345,14 +38040,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/TUntitled1223-01_11_2f9348a9-513d-4b5b-aca6-1a39ec206b92.jpg?v=1643710431&width=400",
 "type": "Foundation",
 "tags": [
+"allclinique1126",
 "brainrott626",
 "CL1125",
 "cl425exclsun",
 "CL826",
 "CLABV45",
 "CLALL325",
-"CLBASE",
-"CLBOGO"
+"CLBASE"
 ],
 "in": true
 },
@@ -38365,14 +38060,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/TUntitled1223-01_12.jpg?v=1643710809&width=400",
 "type": "Bronzer",
 "tags": [
+"allclinique1126",
 "brainrott626",
 "Bronzer",
 "CL1125",
 "cl425exclsun",
 "CL826",
 "CLABV45",
-"CLBOGO",
-"CLEXCM625"
+"CLBOGO"
 ],
 "in": true
 },
@@ -38385,14 +38080,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/Untitled-2021-06-01T153744.075.jpg?v=1622551074&width=400",
 "type": "Blush",
 "tags": [
+"allclinique1126",
 "Blush",
 "brainrott626",
 "CL1125",
 "CL826",
 "CLABV45",
 "clinique",
-"clinique826",
-"CLINIQUERM"
+"clinique826"
 ],
 "in": true
 },
@@ -38405,14 +38100,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/pix_490.jpg?v=1647084921&width=400",
 "type": "BB and CC Cream",
 "tags": [
+"allclinique1126",
 "brainrott626",
 "CL1125",
 "CL826",
 "CLABV45",
 "clinique",
 "clinique826",
-"cliniquebf24",
-"cliniquesun"
+"cliniquebf24"
 ],
 "in": false
 },
@@ -38425,14 +38120,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/pix_500.jpg?v=1647085597&width=400",
 "type": "Face Scrub and Exfoliators",
 "tags": [
+"allclinique1126",
 "brainrott626",
 "CL1125",
 "cl425exclsun",
 "CL826",
 "CLABV45",
 "CLALL325",
-"CLBOGO",
-"CLEXCM625"
+"CLBOGO"
 ],
 "in": false
 },
@@ -38445,14 +38140,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/TUntitled1223-01_5.jpg?v=1643640628&width=400",
 "type": "Day and Night Cream",
 "tags": [
+"allclinique1126",
 "CL1125",
 "cl425exclsun",
 "CL826",
 "CLABV45",
 "CLALL325",
 "CLBOGO",
-"CLEXCM625",
-"clinique"
+"CLEXCM625"
 ],
 "in": true
 },
@@ -38465,14 +38160,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/Untitled-2021-06-02T161822.074.jpg?v=1622639912&width=400",
 "type": "Day and Night Cream",
 "tags": [
+"allclinique1126",
 "CL1125",
 "cl425exclsun",
 "CL826",
 "CLABV45",
 "CLALL325",
 "CLBOGO",
-"CLEXCM625",
-"clinique"
+"CLEXCM625"
 ],
 "in": true
 },
@@ -38485,14 +38180,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/TUntitled1223-01_4.jpg?v=1643640335&width=400",
 "type": "Toner",
 "tags": [
+"allclinique1126",
 "BEST20",
 "BEST21",
 "CL1125",
 "cl425exclsun",
 "CL826",
 "CLABV45",
-"CLALL325",
-"Cleansers & Toners"
+"CLALL325"
 ],
 "in": true
 },
@@ -38505,14 +38200,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/clq_6183_402x464_47915bc5-7458-4021-9515-367c530ba56e.png?v=1571439775&width=400",
 "type": "Deodorant For Her",
 "tags": [
+"allclinique1126",
 "CL1125",
 "CL826",
 "CLEXCM625",
 "clinique",
 "clinique826",
 "CLQ826",
-"clrest826",
-"CLSKIN"
+"clrest826"
 ],
 "in": true
 },
@@ -38525,14 +38220,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/pix_494.jpg?v=1647085159&width=400",
 "type": "Cleanser and Face Soap",
 "tags": [
+"allclinique1126",
 "brainrott626",
 "CL1125",
 "CL826",
 "clinique",
 "clinique826",
 "cliniquemen",
-"CLMEN",
-"CLQ826"
+"CLMEN"
 ],
 "in": false
 },
@@ -38545,6 +38240,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/CliniqueHydrationAndHoneySet.png?v=1773052947&width=400",
 "type": "Skincare Gifts and Sets",
 "tags": [
+"allclinique1126",
 "clinique826",
 "clmoistsurge",
 "CLSETS11",
@@ -38564,6 +38260,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/CliniqueDramaticallyDifferentMoisturizingGelDuoSet_2.png?v=1773055699&width=400",
 "type": "Skincare Gifts and Sets",
 "tags": [
+"allclinique1126",
 "clinique826",
 "CLSETS11",
 "CLSKIN",
@@ -38582,14 +38279,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Clinique_Pop_Lip_Cheek_Oil_In_Nude_Honey_1.png?v=1768581712&width=400",
 "type": "Lip Oil",
 "tags": [
+"allclinique1126",
 "brainrott626",
 "CL826",
 "clinique826",
 "CLMAKEUP",
 "CLQ826",
 "clrest826",
-"CLSLTC626",
-"JANSKU26"
+"CLSLTC626"
 ],
 "in": true
 },
@@ -38602,14 +38299,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/CliniqueSmoothAndRenewLabSet_2.png?v=1761053424&width=400",
 "type": "Skincare Gifts and Sets",
 "tags": [
+"allclinique1126",
 "ALLSETS226",
 "brainrott626",
 "CLABV45",
 "clinique826",
 "CLSETS",
 "CLSETS11",
-"CLSKIN",
-"CLSLTC626"
+"CLSKIN"
 ],
 "in": true
 },
@@ -38622,14 +38319,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/CliniqueHighImpactMascaraBlackHoney.png?v=1760964208&width=400",
 "type": "Mascara",
 "tags": [
+"allclinique1126",
 "CL826",
 "CLINHONEYTG1225",
 "clinique826",
 "CLMAKEUP",
 "CLQ826",
 "clrest826",
-"EVERYTHING",
-"giftid-8722547048586"
+"EVERYTHING"
 ],
 "in": true
 },
@@ -38642,14 +38339,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/CliniqueAlmostLipstickNudeHoney.png?v=1760448944&width=400",
 "type": "Lipstick",
 "tags": [
+"allclinique1126",
 "best25",
 "CL826",
 "CLINHONEYTG1225",
 "clinique826",
 "CLMAKEUP",
 "CLQ826",
-"clrest826",
-"EVERYTHING"
+"clrest826"
 ],
 "in": true
 },
@@ -38662,14 +38359,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/CliniquePopLip_CheekOilInPinkHoney.png?v=1760603642&width=400",
 "type": "Lip Oil",
 "tags": [
+"allclinique1126",
 "CL826",
 "CLINHONEYTG1225",
 "clinique826",
 "CLMAKEUP",
 "CLQ826",
 "clrest826",
-"EVERYTHING",
-"giftid-8722547048586"
+"EVERYTHING"
 ],
 "in": true
 },
@@ -38682,14 +38379,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshots_temp_-_Lynn_4.png?v=1753781876&width=400",
 "type": "Lipstick",
 "tags": [
+"allclinique1126",
 "best25",
 "BWF30",
 "CL1125",
 "cl425exclsun",
 "CL826",
 "CLALL325",
-"CLBOGO",
-"CLEXCM625"
+"CLBOGO"
 ],
 "in": true
 },
@@ -38702,14 +38399,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/LaRoche-PosayEffaclarDuo_Cream_GelMoussantGift-2024-02-08T180421.651.png?v=1707407911&width=400",
 "type": "Foundation",
 "tags": [
+"allclinique1126",
 "brainrott626",
 "CL1125",
 "cl425exclsun",
 "CL826",
 "CLABV45",
 "CLALL325",
-"CLBASE",
-"CLBOGO"
+"CLBASE"
 ],
 "in": true
 },
@@ -38724,12 +38421,12 @@
 "tags": [
 "24Luxe",
 "24Makeup",
+"allclinique1126",
 "BestOf2024",
 "brainrott626",
 "CL1125",
 "cl425exclsun",
-"CL826",
-"CLALL325"
+"CL826"
 ],
 "in": true
 },
@@ -38744,12 +38441,12 @@
 "tags": [
 "24Luxe",
 "24Makeup",
+"allclinique1126",
 "best25",
 "BESTOF2023",
 "BestOf2024",
 "bestofluxe23",
-"BWF30",
-"CL1125"
+"BWF30"
 ],
 "in": true
 },
@@ -38764,12 +38461,12 @@
 "tags": [
 "24Luxe",
 "24Makeup",
+"allclinique1126",
 "BestOf2024",
 "brainrott626",
 "CL1125",
 "cl425exclsun",
-"CL826",
-"CLABV45"
+"CL826"
 ],
 "in": true
 },
@@ -38784,12 +38481,12 @@
 "tags": [
 "24Luxe",
 "24Skincare",
+"allclinique1126",
 "best25",
 "BestOf2024",
 "bestofluxe23",
 "BWF30",
-"CL1125",
-"cl425exclsun"
+"CL1125"
 ],
 "in": true
 },
@@ -38802,14 +38499,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/BestOftemplate2023_33.png?v=1704288388&width=400",
 "type": "Day and Night Cream",
 "tags": [
+"allclinique1126",
 "bestofluxe23",
 "brainrott626",
 "CL1125",
 "cl425exclsun",
 "CL826",
 "CLABV45",
-"CLALL325",
-"CLBOGO"
+"CLALL325"
 ],
 "in": true
 },
@@ -38824,20 +38521,20 @@
 "tags": [
 "24Luxe",
 "24Skincare",
+"allclinique1126",
 "BESTOF2023",
 "BestOf2024",
 "bestofluxe23",
 "CL1125",
-"cl425exclsun",
-"CL826"
+"cl425exclsun"
 ],
 "in": true
 },
 {
 "t": "Estee Lauder Glossy Pout Tinted Lip Oil",
 "u": "https://feel22.com/products/estee-lauder-glossy-pout-tinted-lip-oil",
-"p": 28.0,
-"c": 40.0,
+"p": 40.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/EsteeLauderGlossyPoutLipOil-02StrawberryMil.png?v=1771848649&width=400",
 "type": "Lip Oil",
@@ -38847,16 +38544,14 @@
 "esteeskincare",
 "FEBSKU26",
 "LUXEALL",
-"LUXED1126",
-"MUPSKINALL926",
-"NOV26"
+"MUPSKINALL926"
 ],
 "in": true
 },
 {
 "t": "Estee Lauder Next Level Lashes Sumptuous Set",
 "u": "https://feel22.com/products/estee-lauder-next-level-lashes-sumptuous-set",
-"p": 77.0,
+"p": 65.0,
 "c": 110.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/EsteeLauderNextLevelLashesSumptuousSet.png?v=1768580286&width=400",
@@ -38864,20 +38559,19 @@
 "tags": [
 "ALLSETS226",
 "ESTEE1126",
+"ESTEEABV45",
 "esteeanr",
 "esteemakeup",
 "JANSKU26",
-"LUXEALL",
-"LUXED1126",
-"NOV26"
+"LUXEALL"
 ],
 "in": true
 },
 {
 "t": "Estee Lauder Double Wear Stay In Place Concealer 12ml",
 "u": "https://feel22.com/products/estee-lauder-double-wear-stay-in-place-concealer-12ml",
-"p": 32.2,
-"c": 46.0,
+"p": 46.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/1_6836bde0-281e-4361-9c07-215976314561.png?v=1744617456&width=400",
 "type": "Concealer and Corrector",
@@ -38887,17 +38581,17 @@
 "ESTEE1125",
 "ESTEE1126",
 "estee826",
+"ESTEEABV45",
 "ESTEEBASE",
-"ESTEEBF25",
-"EVERYTHING"
+"ESTEEBF25"
 ],
 "in": true
 },
 {
 "t": "Estee Lauder Pure Color Explicit Silk Matte Lipstick",
 "u": "https://feel22.com/products/estee-lauder-pure-color-explicit-silk-matte-lipstick",
-"p": 39.9,
-"c": 57.0,
+"p": 57.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/101static.png?v=1739893959&width=400",
 "type": "Lipstick",
@@ -38907,17 +38601,17 @@
 "ESTEE1126",
 "ESTEE525",
 "estee826",
+"ESTEEABV45",
 "esteebarbie",
-"ESTEEBF25",
-"esteemakeup"
+"ESTEEBF25"
 ],
 "in": true
 },
 {
 "t": "Estee Lauder Pure Color Revitalizing Crystal Balm",
 "u": "https://feel22.com/products/estee-lauder-pure-color-revitalizing-crystal-balm",
-"p": 28.0,
-"c": 40.0,
+"p": 40.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/MirabellePackshot_1_copy.png?v=1721649676&width=400",
 "type": "Lipstick",
@@ -38936,8 +38630,8 @@
 {
 "t": "Estee Lauder Bronze Goddess Shimmering Gelee 30ml",
 "u": "https://feel22.com/products/estee-lauder-bronze-goddess-shimmering-gelee-30ml",
-"p": 40.6,
-"c": 58.0,
+"p": 58.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/EsteeLauderBronzeGoddessShimmeringGelee30ml.png?v=1780645670&width=400",
 "type": "Body Lotion and Oil",
@@ -38948,16 +38642,16 @@
 "ESTEE525",
 "estee826",
 "ESTEEA325",
-"ESTEEBF25",
-"EVERYTHING"
+"ESTEEABV45",
+"ESTEEBF25"
 ],
 "in": true
 },
 {
 "t": "Estee Lauder Bronze Goddess Nuit Eau De Parfum",
 "u": "https://feel22.com/products/estee-lauder-bronze-goddess-nuit-eau-de-parfum",
-"p": 107.1,
-"c": 153.0,
+"p": 153.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Mirabelle_Packshot_1_0e4d59af-271c-48fb-8611-7b258fa51f70.png?v=1721645321&width=400",
 "type": "Perfume For Her",
@@ -38968,16 +38662,16 @@
 "ESTEE525",
 "estee826",
 "ESTEEA325",
-"esteefrag",
-"EVERYTHING"
+"ESTEEABV45",
+"esteefrag"
 ],
 "in": true
 },
 {
 "t": "Estee Lauder Bronze Goddess Flora Verde Palette Eye & Cheeks",
 "u": "https://feel22.com/products/estee-lauder-bronze-goddess-flora-verde-palette-eye-cheeks",
-"p": 62.3,
-"c": 89.0,
+"p": 89.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/MirabellePackshot_d13e22e1-7e88-4fed-bee5-0d3d7896bcc8.png?v=1721644088&width=400",
 "type": "Eyeshadow",
@@ -38987,17 +38681,17 @@
 "ESTEE1126",
 "ESTEE525",
 "estee826",
+"ESTEEABV45",
 "esteebarbie",
-"ESTEEBF25",
-"esteemakeup"
+"ESTEEBF25"
 ],
 "in": true
 },
 {
 "t": "Estee Lauder Futurist Soft Touch Brightening Skincealer Concealer 6ml",
 "u": "https://feel22.com/products/estee-lauder-futurist-soft-touch-brightening-skincealer-concealer-6ml",
-"p": 32.2,
-"c": 46.0,
+"p": 46.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/LaRoche-PosayEffaclarDuo_Cream_GelMoussantGift-2024-04-02T150843.834.png?v=1712059342&width=400",
 "type": "Concealer and Corrector",
@@ -39008,16 +38702,16 @@
 "ESTEE525",
 "estee826",
 "ESTEEA325",
-"ESTEEBASE",
-"ESTEEBF24"
+"ESTEEABV45",
+"ESTEEBASE"
 ],
 "in": true
 },
 {
 "t": "Estee Lauder Advanced Night Cleansing Gelee",
 "u": "https://feel22.com/products/estee-lauder-advanced-night-cleansing-gelee-cleansery100ml",
-"p": 29.4,
-"c": 42.0,
+"p": 42.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/LaRoche-PosayEffaclarDuo_Cream_GelMoussantGift-2024-04-02T144703.063.png?v=1712058027&width=400",
 "type": "Cleanser and Face Soap",
@@ -39036,8 +38730,8 @@
 {
 "t": "Estee Lauder Advanced Night Repair Cleansing Balm",
 "u": "https://feel22.com/products/estee-lauder-advanced-night-repair-cleansing-balm",
-"p": 39.9,
-"c": 57.0,
+"p": 57.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/LaRoche-PosayEffaclarDuo_Cream_GelMoussantGift-2024-01-15T111832.822.png?v=1705309972&width=400",
 "type": "Makeup Remover",
@@ -39048,16 +38742,16 @@
 "ESTEE525",
 "estee826",
 "ESTEEA325",
-"esteeanr",
-"ESTEEBF24"
+"ESTEEABV45",
+"esteeanr"
 ],
 "in": true
 },
 {
 "t": "Estee Lauder Nutritious 2-in-1 Foam Cleanser 125ml",
 "u": "https://feel22.com/products/estee-lauder-nutritious-2-in-1-foam-cleanser",
-"p": 24.5,
-"c": 35.0,
+"p": 35.0,
+"c": 0.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Untitleddesign-2023-06-08T125324.706.png?v=1686217814&width=400",
 "type": "Cleanser and Face Soap",
@@ -39076,8 +38770,8 @@
 {
 "t": "Estee Lauder Pure Color Envy Luxe Eyeshadow Quad",
 "u": "https://feel22.com/products/estee-lauder-pure-color-envy-luxe-eyeshadow-quad",
-"p": 62.3,
-"c": 89.0,
+"p": 89.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/Packshots_-_hala_e2cdcdf6-cc76-4fbc-90c8-ed3fa14e46de.jpg?v=1662561036&width=400",
 "type": "Eyeshadow",
@@ -39088,16 +38782,16 @@
 "ESTEE1126",
 "ESTEE525",
 "estee826",
-"esteebarbie",
-"ESTEEBF24"
+"ESTEEABV45",
+"esteebarbie"
 ],
 "in": true
 },
 {
 "t": "Estee Lauder Double Wear Stay-in-Place Matte Powder Foundation",
 "u": "https://feel22.com/products/estee-lauder-double-wear-stay-in-place-matte-powder-foundation",
-"p": 50.4,
-"c": 72.0,
+"p": 72.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/BestOftemplate2023-2024-01-05T150723.145.png?v=1731681644&width=400",
 "type": "Powder",
@@ -39116,8 +38810,8 @@
 {
 "t": "Estee Lauder Advanced Night Repair Synchronized Multi-Recovery Complex",
 "u": "https://feel22.com/products/estee-lauder-advanced-night-repair-synchronized-multi-recovery-complex",
-"p": 102.9,
-"c": 147.0,
+"p": 147.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/pix_364.jpg?v=1704712815&width=400",
 "type": "Serum and Treatment",
@@ -39136,8 +38830,8 @@
 {
 "t": "Estee Lauder Brow Multi-Tasker",
 "u": "https://feel22.com/products/estee-lauder-brow-multi-tasker",
-"p": 35.7,
-"c": 51.0,
+"p": 51.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/Untitled1223_2_322.jpg?v=1645015529&width=400",
 "type": "Eyebrows",
@@ -39149,14 +38843,14 @@
 "ESTEE1126",
 "ESTEE525",
 "estee826",
-"ESTEEBF24"
+"ESTEEABV45"
 ],
 "in": true
 },
 {
 "t": "Estee Lauder Beautiful Eau de Parfum 75ml",
 "u": "https://feel22.com/products/estee-lauder-beautiful-eau-de-parfum-75ml",
-"p": 135.1,
+"p": 115.8,
 "c": 193.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshots-2024-01-04T122322.439.png?v=1704462143&width=400",
@@ -39182,6 +38876,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/CliniqueQuicklinerForLips-BlackHoney.png?v=1776770297&width=400",
 "type": "Lip Liner",
 "tags": [
+"allclinique1126",
 "APRSKU26",
 "clinique826",
 "CLQ826",
@@ -39200,6 +38895,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/CliniqueForMenTheIntenseHydrationSystemSkincareSet.png?v=1776604095&width=400",
 "type": "Skincare Gifts and Sets",
 "tags": [
+"allclinique1126",
 "APRSKU26",
 "clinique826",
 "CLSETS11",
@@ -39217,6 +38913,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/CliniqueForMenTheHydrationSystemSkincareSet.png?v=1776604185&width=400",
 "type": "Skincare Gifts and Sets",
 "tags": [
+"allclinique1126",
 "APRSKU26",
 "clinique826",
 "CLSETS11",
@@ -39234,6 +38931,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/CliniqueForMenTheAgeDefenseSystemSet.png?v=1776604226&width=400",
 "type": "Skincare Gifts and Sets",
 "tags": [
+"allclinique1126",
 "APRSKU26",
 "clinique826",
 "CLSETS11",
@@ -39251,6 +38949,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/CliniqueUVSolutionsMattifyingSunscreenBroadSpectrumSPF5040ML.png?v=1776604671&width=400",
 "type": "Sun Protection",
 "tags": [
+"allclinique1126",
 "APRSKU26",
 "clinique826",
 "cliniquesun",
@@ -39270,6 +38969,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/CliniqueUVSolutionsHydratingSunscreenBroadSpectrumSPF5040ML.png?v=1776604819&width=400",
 "type": "Sun Protection",
 "tags": [
+"allclinique1126",
 "APRSKU26",
 "clinique826",
 "cliniquesun",
@@ -39289,14 +38989,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/pix_476.jpg?v=1647084160&width=400",
 "type": "Cleanser and Face Soap",
 "tags": [
+"allclinique1126",
 "brainrott626",
 "CL1125",
 "CL826",
 "CLABV45",
 "clinique826",
 "CLQ826",
-"clrest826",
-"CLSKIN"
+"clrest826"
 ],
 "in": false
 },
@@ -39310,15 +39010,15 @@
 "type": "Serum and Treatment",
 "tags": [
 "Acne & Blemishes",
+"allclinique1126",
 "Anti-blemish",
 "BESTOF2023",
 "bestofluxe23",
 "CL1125",
 "cl425exclsun",
-"CL826",
-"CLALL325"
+"CL826"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Clinique Anti-Blemish Solutions Liquid Foundation 30 ml",
@@ -39329,14 +39029,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/TUntitled1223-01_1_86ba2baa-2a1b-4512-b18d-c5f4dbbdeade.jpg?v=1643704829&width=400",
 "type": "Foundation",
 "tags": [
+"allclinique1126",
 "Anti-blemish",
 "brainrott626",
 "CL1125",
 "cl425exclsun",
 "CL826",
 "CLABV45",
-"CLBASE",
-"CLBOGO"
+"CLBASE"
 ],
 "in": true
 },
@@ -39349,14 +39049,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/clq_ZCTJ_402x464_cff83fa1-0220-4639-a667-9b26cdd96f27.png?v=1571439832&width=400",
 "type": "Day and Night Cream",
 "tags": [
+"allclinique1126",
 "brainrott626",
 "CL826",
 "CLABV45",
 "clinique",
 "clinique826",
 "cliniquechange",
-"CLQ826",
-"CLSKIN"
+"CLQ826"
 ],
 "in": true
 },
@@ -39369,14 +39069,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/Untitled-2021-06-02T163053.310.jpg?v=1622640661&width=400",
 "type": "Foundation",
 "tags": [
+"allclinique1126",
 "brainrott626",
 "CL1125",
 "CL826",
 "CLABV45",
 "CLALL325",
 "CLBASE",
-"CLBOGO",
-"CLEXCM625"
+"CLBOGO"
 ],
 "in": false
 },
@@ -39389,14 +39089,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/clq_6L4N_402x464_a33eff5f-351f-4992-8e6d-f81b19fc7bdb.png?v=1571439787&width=400",
 "type": "Cleanser and Face Soap",
 "tags": [
+"allclinique1126",
 "Anti-Redness",
 "brainrott626",
 "CL826",
 "CLABV45",
 "Cleansers & Toners",
 "clinique",
-"clinique826",
-"CLQ826"
+"clinique826"
 ],
 "in": false
 },
@@ -39409,14 +39109,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/pix_1.jpg?v=1647085941&width=400",
 "type": "Day and Night Cream",
 "tags": [
+"allclinique1126",
 "CL1125",
 "cl425exclsun",
 "CL826",
 "CLABV45",
 "CLBOGO",
 "CLEXCM625",
-"clinique",
-"clinique826"
+"clinique"
 ],
 "in": true
 },
@@ -39429,14 +39129,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshots-2023-11-23T151103.874.png?v=1704704093&width=400",
 "type": "Perfume For Her",
 "tags": [
+"allclinique1126",
 "BESTOF2023",
 "bestofluxe23",
 "brainrott626",
 "CL1125",
 "cl425exclsun",
 "CLABV45",
-"CLALL325",
-"CLBOGO"
+"CLALL325"
 ],
 "in": true
 },
@@ -39450,13 +39150,13 @@
 "type": "Cleanser and Face Soap",
 "tags": [
 "Acne & Blemishes",
+"allclinique1126",
 "Anti-blemish",
 "brainrott626",
 "CL1125",
 "CL826",
 "clinique",
-"CLQ826",
-"CLSKIN"
+"CLQ826"
 ],
 "in": true
 },
@@ -39469,14 +39169,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshots-2023-11-23T151524.793.png?v=1700745352&width=400",
 "type": "Face Scrub and Exfoliators",
 "tags": [
+"allclinique1126",
 "brainrott626",
 "CL1125",
 "cl425exclsun",
 "CL826",
 "CLABV45",
 "CLALL325",
-"CLBOGO",
-"clinique"
+"CLBOGO"
 ],
 "in": false
 },
@@ -39489,14 +39189,14 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/pix_6_1.jpg?v=1647086609&width=400",
 "type": "Shaving",
 "tags": [
+"allclinique1126",
 "brainrott626",
 "CL1125",
 "CL826",
 "clinique",
 "clinique826",
 "cliniquemen",
-"CLMEN",
-"CLQ826"
+"CLMEN"
 ],
 "in": false
 },
@@ -39509,6 +39209,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/CliniqueDramaticallyDifferentMoisturizingLotionDuoSet_2.png?v=1773053198&width=400",
 "type": "Skincare Gifts and Sets",
 "tags": [
+"allclinique1126",
 "clinique826",
 "CLSETS11",
 "CLSKIN",
@@ -39560,6 +39261,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/PuritoOatPDRNGentleRefiningToner200ML.png?v=1776761024&width=400",
 "type": "Toner",
 "tags": [
+"HBTBRANDS",
 "MUPSKINALL926"
 ],
 "in": true
@@ -39573,6 +39275,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/PuritoOatInCalmingGelCream.png?v=1776759892&width=400",
 "type": "Day and Night Cream",
 "tags": [
+"HBTBRANDS",
 "MUPSKINALL926"
 ],
 "in": true
@@ -39586,6 +39289,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/PuritoOatExfoliatingFacialPolishCleanser.png?v=1776759349&width=400",
 "type": "Cleanser and Face Soap",
 "tags": [
+"HBTBRANDS",
 "MUPSKINALL926"
 ],
 "in": true
@@ -40326,6 +40030,7 @@
 "type": "Day and Night Cream",
 "tags": [
 "APRSKU26",
+"HBTBRANDS",
 "MUPSKINALL926"
 ],
 "in": true
@@ -40341,6 +40046,7 @@
 "tags": [
 "best25",
 "EVERYTHING",
+"HBTBRANDS",
 "MUPSKINALL926"
 ],
 "in": true
@@ -40360,8 +40066,8 @@
 "der1st50",
 "DERMD426",
 "dermd826",
-"MUPSKINALL926",
-"PHARMAALL"
+"DERMEDIC1126",
+"MUPSKINALL926"
 ],
 "in": true
 },
@@ -40380,8 +40086,8 @@
 "der1st50",
 "DERMD426",
 "dermd826",
-"MUPSKINALL926",
-"PHARMAALL"
+"DERMEDIC1126",
+"MUPSKINALL926"
 ],
 "in": true
 },
@@ -40400,8 +40106,8 @@
 "der1st50",
 "DERMD426",
 "dermd826",
-"MUPSKINALL926",
-"PHARMAALL"
+"DERMEDIC1126",
+"MUPSKINALL926"
 ],
 "in": true
 },
@@ -41274,9 +40980,9 @@
 "APRSKU26",
 "DERMD426",
 "dermd826",
+"DERMEDIC1126",
 "HEALTHYHAIRPHARMA26",
-"PHARMAALL",
-"PHARMAALL2.0"
+"PHARMAALL"
 ],
 "in": true
 },
@@ -41294,9 +41000,9 @@
 "APRSKU26",
 "DERMD426",
 "dermd826",
+"DERMEDIC1126",
 "HEALTHYHAIRPHARMA26",
-"PHARMAALL",
-"PHARMAALL2.0"
+"PHARMAALL"
 ],
 "in": true
 },
@@ -41314,9 +41020,9 @@
 "APRSKU26",
 "DERMD426",
 "dermd826",
+"DERMEDIC1126",
 "HEALTHYHAIRPHARMA26",
-"PHARMAALL",
-"PHARMAALL2.0"
+"PHARMAALL"
 ],
 "in": true
 },
@@ -41334,9 +41040,9 @@
 "APRSKU26",
 "DERMD426",
 "dermd826",
+"DERMEDIC1126",
 "PHARMAALL",
-"PHARMAALL2.0",
-"PHARMAW/OLDB"
+"PHARMAALL2.0"
 ],
 "in": true
 },
@@ -41354,9 +41060,9 @@
 "APRSKU26",
 "DERMD426",
 "dermd826",
+"DERMEDIC1126",
 "HyperpigmentationPHARMA",
-"melumin726",
-"MUPSKINALL926"
+"melumin726"
 ],
 "in": true
 },
@@ -41374,9 +41080,9 @@
 "APRSKU26",
 "DERMD426",
 "dermd826",
+"DERMEDIC1126",
 "MUPSKINALL926",
-"PHARMAALL",
-"PHARMAALL2.0"
+"PHARMAALL"
 ],
 "in": true
 },
@@ -41394,9 +41100,9 @@
 "APRSKU26",
 "DERMD426",
 "dermd826",
+"DERMEDIC1126",
 "HEALTHYHAIRPHARMA26",
-"PHARMAALL",
-"PHARMAALL2.0"
+"PHARMAALL"
 ],
 "in": true
 },
@@ -41415,8 +41121,8 @@
 "DER726",
 "DERMD426",
 "dermd826",
-"frata",
-"MUPSKINALL926"
+"DERMEDIC1126",
+"frata"
 ],
 "in": true
 },
@@ -41434,9 +41140,9 @@
 "APRSKU26",
 "DERMD426",
 "dermd826",
+"DERMEDIC1126",
 "HEALTHYHAIRPHARMA26",
-"PHARMAALL",
-"PHARMAALL2.0"
+"PHARMAALL"
 ],
 "in": true
 },
@@ -41453,10 +41159,10 @@
 "APRSKU26",
 "der1st50",
 "dermd826",
+"DERMEDIC1126",
 "MUPSKINALL926",
 "PHARMAALL",
-"PHARMAALL2.0",
-"PHARMAW/OLDB"
+"PHARMAALL2.0"
 ],
 "in": true
 },
@@ -41474,9 +41180,9 @@
 "APRSKU26",
 "DERMD426",
 "dermd826",
+"DERMEDIC1126",
 "HEALTHYHAIRPHARMA26",
-"PHARMAALL",
-"PHARMAALL2.0"
+"PHARMAALL"
 ],
 "in": true
 },
@@ -41494,9 +41200,9 @@
 "APRSKU26",
 "DERMD426",
 "dermd826",
+"DERMEDIC1126",
 "HEALTHYHAIRPHARMA26",
-"PHARMAALL",
-"PHARMAALL2.0"
+"PHARMAALL"
 ],
 "in": true
 },
@@ -41514,9 +41220,9 @@
 "APRSKU26",
 "DERMD426",
 "dermd826",
+"DERMEDIC1126",
 "HEALTHYHAIRPHARMA26",
-"PHARMAALL",
-"PHARMAALL2.0"
+"PHARMAALL"
 ],
 "in": true
 },
@@ -43193,6 +42899,7 @@
 "tags": [
 "EVERYTHING",
 "giftid-8721285185674",
+"HBTBRANDS",
 "hbytala1125",
 "MUPSKINALL926"
 ],
@@ -43286,9 +42993,9 @@
 "1HBT826",
 "2HBT926",
 "hbtadha526",
+"HBTBRANDS",
 "MARCHSKU26",
-"MEDIPW626",
-"MUPSKINALL926"
+"MEDIPW626"
 ],
 "in": true
 },
@@ -43306,9 +43013,9 @@
 "1HBT826",
 "2HBT926",
 "hbtadha526",
+"HBTBRANDS",
 "MARCHSKU26",
-"MEDIPW626",
-"MUPSKINALL926"
+"MEDIPW626"
 ],
 "in": true
 },
@@ -43326,6 +43033,7 @@
 "1HBT826",
 "2HBT926",
 "hbtadha526",
+"HBTBRANDS",
 "MARCHSKU26",
 "MEDIPW626"
 ],
@@ -43504,8 +43212,8 @@
 "CPDALL426",
 "CPDTODO426",
 "MARCHSKU26",
-"MNYBTS926",
-"MNYSUM826"
+"MNY1126",
+"MNYBTS926"
 ],
 "in": true
 },
@@ -43846,7 +43554,7 @@
 "lagoondeom",
 "MARCHSKU26"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Lagoon Deep Pulse Roll-On For Men",
@@ -43921,7 +43629,7 @@
 "lagoondeow",
 "MARCHSKU26"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Lagoon Amber Touch Spray Deodorant For Women",
@@ -45979,8 +45687,8 @@
 "2HBT926",
 "HBT426",
 "hbtadha526",
-"MARCHSKU26",
-"MEDIPW626"
+"HBTBRANDS",
+"MARCHSKU26"
 ],
 "in": true
 },
@@ -45999,8 +45707,8 @@
 "2HBT926",
 "HBT426",
 "hbtadha526",
-"MARCHSKU26",
-"MEDIPW626"
+"HBTBRANDS",
+"MARCHSKU26"
 ],
 "in": true
 },
@@ -46018,9 +45726,9 @@
 "2HBT926",
 "HBT426",
 "hbtadha526",
+"HBTBRANDS",
 "MARCHSKU26",
-"MEDI626",
-"MEDIPW626"
+"MEDI626"
 ],
 "in": true
 },
@@ -46039,8 +45747,8 @@
 "2HBT926",
 "HBT426",
 "hbtadha526",
-"MARCHSKU26",
-"MEDIPW626"
+"HBTBRANDS",
+"MARCHSKU26"
 ],
 "in": true
 },
@@ -46059,8 +45767,8 @@
 "2HBT926",
 "HBT426",
 "hbtadha526",
-"MARCHSKU26",
-"MEDIPW626"
+"HBTBRANDS",
+"MARCHSKU26"
 ],
 "in": true
 },
@@ -46079,8 +45787,8 @@
 "2HBT926",
 "HBT426",
 "hbtadha526",
-"MARCHSKU26",
-"MEDIPW626"
+"HBTBRANDS",
+"MARCHSKU26"
 ],
 "in": true
 },
@@ -46099,8 +45807,8 @@
 "2HBT926",
 "HBT426",
 "hbtadha526",
-"MARCHSKU26",
-"MEDIPW626"
+"HBTBRANDS",
+"MARCHSKU26"
 ],
 "in": true
 },
@@ -46119,8 +45827,8 @@
 "2HBT926",
 "HBT426",
 "hbtadha526",
-"MARCHSKU26",
-"MEDIPW626"
+"HBTBRANDS",
+"MARCHSKU26"
 ],
 "in": true
 },
@@ -46139,8 +45847,8 @@
 "2HBT926",
 "HBT426",
 "hbtadha526",
-"MARCHSKU26",
-"MEDIPW626"
+"HBTBRANDS",
+"MARCHSKU26"
 ],
 "in": true
 },
@@ -46159,8 +45867,8 @@
 "2HBT926",
 "HBT426",
 "hbtadha526",
-"MARCHSKU26",
-"MEDIPW626"
+"HBTBRANDS",
+"MARCHSKU26"
 ],
 "in": true
 },
@@ -46179,8 +45887,8 @@
 "2HBT926",
 "HBT426",
 "hbtadha526",
-"MARCHSKU26",
-"MEDIPW626"
+"HBTBRANDS",
+"MARCHSKU26"
 ],
 "in": false
 },
@@ -46199,8 +45907,8 @@
 "2HBT926",
 "HBT426",
 "hbtadha526",
-"MARCHSKU26",
-"MEDIPW626"
+"HBTBRANDS",
+"MARCHSKU26"
 ],
 "in": true
 },
@@ -46313,6 +46021,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/BiodanceHydroCera-nolRealDeepMask.png?v=1772447062&width=400",
 "type": "Face Mask",
 "tags": [
+"HBTBRANDS",
 "MARCHSKU26",
 "MUPSKINALL926"
 ],
@@ -46454,6 +46163,7 @@
 "1HBT826",
 "2HBT926",
 "hbtadha526",
+"HBTBRANDS",
 "MUPSKINALL926"
 ],
 "in": true
@@ -46473,6 +46183,7 @@
 "2HBT926",
 "COSPW626",
 "hbtadha526",
+"HBTBRANDS",
 "MUPSKINALL926"
 ],
 "in": true
@@ -46492,6 +46203,7 @@
 "2HBT926",
 "COSPW626",
 "hbtadha526",
+"HBTBRANDS",
 "MUPSKINALL926"
 ],
 "in": true
@@ -46511,6 +46223,7 @@
 "2HBT926",
 "COSPW626",
 "hbtadha526",
+"HBTBRANDS",
 "MUPSKINALL926"
 ],
 "in": true
@@ -46528,6 +46241,7 @@
 "3HBT826",
 "FEBSKU26",
 "hbtadha526",
+"HBTBRANDS",
 "MUPSKINALL926"
 ],
 "in": false
@@ -46545,6 +46259,7 @@
 "3HBT826",
 "FEBSKU26",
 "hbtadha526",
+"HBTBRANDS",
 "MUPSKINALL926"
 ],
 "in": false
@@ -46562,6 +46277,7 @@
 "3HBT826",
 "FEBSKU26",
 "hbtadha526",
+"HBTBRANDS",
 "MUPSKINALL926"
 ],
 "in": true
@@ -46579,6 +46295,7 @@
 "3HBT826",
 "FEBSKU26",
 "hbtadha526",
+"HBTBRANDS",
 "MUPSKINALL926"
 ],
 "in": true
@@ -46586,42 +46303,42 @@
 {
 "t": "Bassam Fattouh The Nude Eyeshadow Palette",
 "u": "https://feel22.com/products/bassam-fattouh-the-nude-eyeshadow-palette",
-"p": 76.7,
-"c": null,
+"p": 38.35,
+"c": 76.7,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/BundlesPackshotsCarla-2024-06-06T111139.357.png?v=1717661070&width=400",
 "type": "Eyeshadow",
 "tags": [
+"50OFF1126",
 "BASFAT1125",
 "BASSAD526",
 "BASSAM725",
 "bassamfattouhbf",
 "best25",
 "BF726",
-"bfbest25",
-"BFPALETTES"
+"bfbest25"
 ],
 "in": true
 },
 {
 "t": "Bassam Fattouh #Dadosmouse Lipstick Balm",
 "u": "https://feel22.com/products/bassam-fattouh-dadosmouse-lipstick-balm",
-"p": 31.64,
-"c": 0.0,
+"p": 15.82,
+"c": 31.64,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/products/Untitled1223_2_209.jpg?v=1643209014&width=400",
 "type": "Lipstick",
 "tags": [
+"50OFF1126",
 "BASFAT1125",
 "BASSAD526",
 "bassamfattouhbf",
 "bassamfattouhlips",
 "bfmothersday",
 "EVERYTHING",
-"FB",
-"giftid-7958048899210"
+"FB"
 ],
-"in": true
+"in": false
 },
 {
 "t": "L’Oréal Paris Voluminous Panorama Mascara Volumizing And Lengthening",
@@ -46897,7 +46614,7 @@
 "2HBT926",
 "FEBSKU26",
 "hbtadha526",
-"MUPSKINALL926"
+"HBTBRANDS"
 ],
 "in": true
 },
@@ -46937,7 +46654,7 @@
 "2HBT926",
 "FEBSKU26",
 "hbtadha526",
-"MUPSKINALL926"
+"HBTBRANDS"
 ],
 "in": true
 },
@@ -46956,7 +46673,8 @@
 "1STHBT226",
 "2HBT926",
 "FEBSKU26",
-"hbtadha526"
+"hbtadha526",
+"HBTBRANDS"
 ],
 "in": true
 },
@@ -47377,6 +47095,7 @@
 "type": "Serum and Treatment",
 "tags": [
 "FEBSKU26",
+"HBTBRANDS",
 "IMPORTED",
 "MUPSKINALL926"
 ],
@@ -47507,21 +47226,6 @@
 "in": true
 },
 {
-"t": "Mancode Deodorant Spray - Random Scent (Reward)",
-"u": "https://feel22.com/products/mancode-deodorant-spray-random-scent-reward",
-"p": 0.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/MancodeDeodorantSpray-RandomScent_Reward.png?v=1771500838&width=400",
-"type": "Reward",
-"tags": [
-"Hidden recommendation",
-"MANCODE1126",
-"SEARCHANISE_IGNORE"
-],
-"in": true
-},
-{
 "t": "Dermedic Hydrain3 Micellar Water H2O",
 "u": "https://feel22.com/products/dermedic-hydrain3-micellar-water-h2o",
 "p": 15.0,
@@ -47534,10 +47238,10 @@
 "ADHAPHARMA26",
 "DERMD426",
 "dermd826",
+"DERMEDIC1126",
 "dermedic226",
 "EASTERSALE26PHARMA",
-"EVERYTHING",
-"MeltProofPHARMA"
+"EVERYTHING"
 ],
 "in": true
 },
@@ -47555,9 +47259,9 @@
 "BFPHARMA",
 "DERMD426",
 "dermd826",
+"DERMEDIC1126",
 "dermedic226",
-"EASTERSALE26PHARMA",
-"EVERYTHING"
+"EASTERSALE26PHARMA"
 ],
 "in": true
 },
@@ -47575,9 +47279,9 @@
 "BFPHARMA",
 "DERMD426",
 "dermd826",
+"DERMEDIC1126",
 "dermedic226",
-"EASTERSALE26PHARMA",
-"EVERYTHING"
+"EASTERSALE26PHARMA"
 ],
 "in": true
 },
@@ -47594,10 +47298,10 @@
 "ADHAPHARMA26",
 "DERMD426",
 "dermd826",
+"DERMEDIC1126",
 "dermedic226",
 "EASTERSALE26PHARMA",
-"EVERYTHING",
-"MUPSKINALL926"
+"EVERYTHING"
 ],
 "in": true
 },
@@ -47760,48 +47464,6 @@
 "CYBER26"
 ],
 "in": true
-},
-{
-"t": "Revuele Ceramide Restorative Hand Cream 80ml (Reward)",
-"u": "https://feel22.com/products/revuele-ceramide-restorative-hand-cream-80ml-reward",
-"p": 0.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/RevueleCeramideRestorativeHandCream80ml_Reward.png?v=1771342929&width=400",
-"type": "Reward",
-"tags": [
-"Hidden recommendation",
-"SEARCHANISE_IGNORE"
-],
-"in": true
-},
-{
-"t": "Revuele Hyaluron Acid Splash Mask 250ml (Reward)",
-"u": "https://feel22.com/products/revuele-hyaluron-acid-splash-mask-250ml-reward",
-"p": 0.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/RevueleHyaluronAcidSplashMask250ml_Reward.png?v=1771344418&width=400",
-"type": "Reward",
-"tags": [
-"Hidden recommendation",
-"SEARCHANISE_IGNORE"
-],
-"in": true
-},
-{
-"t": "Revuele Cream Butter Argan Oil Hand & Body 5 In 1 Lotion (Reward)",
-"u": "https://feel22.com/products/revuele-cream-butter-argan-oil-hand-body-5-in-1-lotion-reward",
-"p": 0.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/RevueleCreamButterArganOilHand_Body5In1Lotion_Reward.png?v=1771344704&width=400",
-"type": "Reward",
-"tags": [
-"Hidden recommendation",
-"SEARCHANISE_IGNORE"
-],
-"in": false
 },
 {
 "t": "Mancera Sand Aoud Eau De Parfum 120ml",
@@ -47988,24 +47650,26 @@
 "3HBT826",
 "EVERYTHING",
 "giftid-8721285185674",
-"hbytala1125",
-"KUNDALEDP"
+"HBTBRANDS",
+"hbytala1125"
 ],
 "in": false
 },
 {
 "t": "Elizabeth Arden Ceramide Capsuls & Retnol Line Erasing Night Serum 30pcs",
 "u": "https://feel22.com/products/elizabeth-arden-ceramide-capsuls-retnol-line-erasing-night-serum-30pcs",
-"p": 63.83,
-"c": null,
+"p": 31.92,
+"c": 63.83,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/1_80a10c87-19be-4502-bf22-bd2cf567904a.png?v=1754907050&width=400",
 "type": "Serum and Treatment",
 "tags": [
+"50OFF1126",
 "ARDEN1025",
 "EVERYTHING",
 "LUXEALL",
-"MUPSKINALL926"
+"MUPSKINALL926",
+"NOV26"
 ],
 "in": false
 },
@@ -48054,6 +47718,7 @@
 "tags": [
 "EVERYTHING",
 "giftid-8721285185674",
+"HBTBRANDS",
 "hbytala1125",
 "MUPSKINALL926"
 ],
@@ -48405,7 +48070,7 @@
 "EASTERSALE26PHARMA",
 "EIDSALE2026"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Colgate Toothbrush MaxWhite Charcoal Soft Buy 1 Get 1 Free",
@@ -49884,7 +49549,7 @@
 "bees325",
 "BEES525"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Beesline Moisturizing Body Lotion Honey & Olive Oil 400ml",
@@ -50479,6 +50144,7 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/TirtirCeramicMilkAmpouleHydratingSerum.png?v=1770802362&width=400",
 "type": "Serum and Treatment",
 "tags": [
+"HBTBRANDS",
 "MUPSKINALL926"
 ],
 "in": true
@@ -50492,78 +50158,669 @@
 "img": "https://cdn.shopify.com/s/files/1/1291/3633/files/TirtirMilkSkinMoisturizingToner150ml.png?v=1770802110&width=400",
 "type": "Toner",
 "tags": [
+"HBTBRANDS",
 "MUPSKINALL926"
 ],
 "in": false
 },
 {
-"t": "Vichy Dercos Anti dandruff Shampoo 50ml (Reward)",
-"u": "https://feel22.com/products/vichy-dercos-anti-dandruff-shampoo-50ml-reward",
-"p": 0.0,
-"c": 0.0,
+"t": "Talika Eye Therapy Patch Solo Zebra Collector Limited Edition Patch",
+"u": "https://feel22.com/products/talika-eye-therapy-patch-solo-zebra-collector-limited-edition-patch",
+"p": 6.0,
+"c": 8.0,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/VichyDercosAntidandruffShampoo50ml_Reward.png?v=1770754136&width=400",
-"type": "Reward",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/EyeTherapyPatchSoloZebraCollectorLimitedEditionPatch.png?v=1769465159&width=400",
+"type": "Eye Mask",
 "tags": [
+"1RGAA1026",
+"1STWAVE826PHARMA",
+"20RGAA926",
+"2rgaa826",
+"99PHARMA",
+"ADHAPHARMA26",
+"BTSPHARMA26",
+"EIDSALE2026"
+],
+"in": false
+},
+{
+"t": "L’Oréal Paris Telescopic Extensionist Mascara for 24H Long-Lasting Curl, Volume, and Exceptional Eyelashes",
+"u": "https://feel22.com/products/l-oreal-paris-telescopic-extensionist-mascara-for-24h-long-lasting-curl-volume-and-exceptional-eyelashes",
+"p": 14.49,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/L_OrealParisTelescopicExtensionistMascarafor24HLong-LastingCurl_Volume_andExceptionalEyelashes.png?v=1770280905&width=400",
+"type": "Makeup Gifts and Sets",
+"tags": [
+"allofcpd326",
+"CPDALL426",
+"CPDTODO426",
+"FEBSKU26"
+],
+"in": true
+},
+{
+"t": "Dr Althea 147 Barrier Cream Face Moisturizer 50ml",
+"u": "https://feel22.com/products/dr-althea-147-barrier-cream-face-moisturizer-50ml",
+"p": 29.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/DrAlthea147BarrierCreamFaceMoisturizer50ml.png?v=1760365829&width=400",
+"type": "Day and Night Cream",
+"tags": [
+"EVERYTHING",
+"giftid-8721285185674",
+"HBTBRANDS",
+"hbytala1125",
+"MUPSKINALL926"
+],
+"in": true
+},
+{
+"t": "Cetaphil Gentle Exfoliating Salicylic Acid Moisturizing Lotion",
+"u": "https://feel22.com/products/cetaphil-gentle-exfoliating-salicylic-acid-moisturizing-lotion",
+"p": 22.66,
+"c": 32.37,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/CetaphilGentleExfoliatingSaLotion236Ml.png?v=1770292273&width=400",
+"type": "Day and Night Cream",
+"tags": [
+"1rgaa726",
+"1rgaa826",
+"1STWAVE826PHARMA",
+"2mava726",
+"99PHARMA",
+"BTSPHARMA26",
+"CETA1126",
+"ceta926"
+],
+"in": true
+},
+{
+"t": "Cetaphil Gentle Salicylic Acid Exfoliating Cleanser",
+"u": "https://feel22.com/products/cetaphil-gentle-salicylic-acid-exfoliating-cleanser-1",
+"p": 20.77,
+"c": 29.67,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/CetaphilGentleExfoliatingSaCleanser236Ml.png?v=1770292499&width=400",
+"type": "Cleanser and Face Soap",
+"tags": [
+"1rgaa726",
+"1rgaa826",
+"1STWAVE826PHARMA",
+"2mava726",
+"99PHARMA",
+"BTSPHARMA26",
+"CETA1126",
+"ceta926"
+],
+"in": true
+},
+{
+"t": "Roo Candy Floss Peptide Lip Balm",
+"u": "https://feel22.com/products/roo-candy-floss-lip-balm",
+"p": 15.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/CandyFloss-RooPeptideLipBalm.png?v=1770278430&width=400",
+"type": "Lip Care",
+"tags": [
+"MUPSKINALL926",
+"raneemsami"
+],
+"in": true
+},
+{
+"t": "Roo Cherry Bomb Peptide Lip Balm",
+"u": "https://feel22.com/products/roo-cherry-bomb-lip-balm",
+"p": 15.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/CherryBomb-RooPeptideLipBalm.png?v=1770278642&width=400",
+"type": "Lip Care",
+"tags": [
+"MUPSKINALL926",
+"raneemsami"
+],
+"in": true
+},
+{
+"t": "Roo Tiramisu Peptide Lip Balm",
+"u": "https://feel22.com/products/roo-tiramisu-lip-balm",
+"p": 15.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Tiramissu-RooPeptideLipBalm.png?v=1770278845&width=400",
+"type": "Lip Care",
+"tags": [
+"MUPSKINALL926",
+"raneemsami"
+],
+"in": true
+},
+{
+"t": "Roo Miel Peptide Lip Balm",
+"u": "https://feel22.com/products/roo-miel-lip-balm",
+"p": 15.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Miel-RooPeptideLipBalm.png?v=1770278737&width=400",
+"type": "Lip Care",
+"tags": [
+"MUPSKINALL926",
+"raneemsami"
+],
+"in": true
+},
+{
+"t": "Azalia Lip & Cheek Tint New container 3X BIGGER",
+"u": "https://feel22.com/products/azalia-lip-cheek-tint-new-container-3x-bigger",
+"p": 9.99,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/AzaliaN1RedRoseLip_CheekTint.png?v=1770133987&width=400",
+"type": "Lip Gloss and Lip Tint",
+"tags": [
+"aza926",
+"AZAL426",
+"AZAL626",
+"AZAL726",
+"azalia526",
+"FEBSKU26",
+"MUPSKINALL926"
+],
+"in": true
+},
+{
+"t": "Azalia Bebe Plump With Light Red Tint Strong Instant Lip Plumper",
+"u": "https://feel22.com/products/azalia-bebe-plump-with-light-red-tint-strong-instant-lip-plumper",
+"p": 19.99,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/AzaliaBebePlumpWithLightRedTintStrongInstantLipPlumper.png?v=1770134428&width=400",
+"type": "Lip Gloss and Lip Tint",
+"tags": [
+"aza926",
+"AZAL426",
+"azalia526",
+"FEBSKU26",
+"MUPSKINALL926"
+],
+"in": true
+},
+{
+"t": "Azalia Bebe Plump Strong Instant Lip Plumper",
+"u": "https://feel22.com/products/azalia-bebe-plump-strong-instant-lip-plumper",
+"p": 17.76,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/AzaliaBebePlumpStrongInstantLipPlumper.png?v=1770134346&width=400",
+"type": "Lip Gloss and Lip Tint",
+"tags": [
+"aza926",
+"AZAL426",
+"azalia526",
+"FEBSKU26",
+"MUPSKINALL926"
+],
+"in": true
+},
+{
+"t": "Etiaxil Anti Transpirant Tolerance 48H Aerosol",
+"u": "https://feel22.com/products/etiaxil-anti-transpirant-tolerance-48h-aerosol",
+"p": 12.99,
+"c": 15.28,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/EtiaxilAntiTranspirantTolerance48HAerosol150ml.png?v=1770192234&width=400",
+"type": "Unisex Deodorant",
+"tags": [
+"1STWAVE826PHARMA",
+"99PHARMA",
+"BFSALE26",
+"CYBER26",
 "EASTERSALE26PHARMA",
-"EIDSALE2026",
-"Hidden recommendation",
-"LDB326",
-"LRPV1026",
-"MothersDayPharma26",
-"NOV26",
-"OCT26"
+"ETIAXIL1126",
+"ETIAXIL426",
+"KFF1026"
+],
+"in": true
+},
+{
+"t": "Etiaxil Anti Transpirant Tolerance 48H Roll On",
+"u": "https://feel22.com/products/etiaxil-anti-transpirant-tolerance-48h-roll-on",
+"p": 12.75,
+"c": 15.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/EtiaxilAntiTranspirantTolerance48HRollOn.png?v=1770192520&width=400",
+"type": "Unisex Deodorant",
+"tags": [
+"1STWAVE826PHARMA",
+"99PHARMA",
+"BFSALE26",
+"CYBER26",
+"EASTERSALE26PHARMA",
+"ETIAXIL1126",
+"ETIAXIL426",
+"KFF1026"
 ],
 "in": false
 },
 {
-"t": "L'Oréal Paris Hydra Genius Aloe Water and Hyaluronic Acid Liquid Moisturizer For Normal to Combination 70ml (Reward)",
-"u": "https://feel22.com/products/loreal-paris-hydra-genius-aloe-water-and-hyaluronic-acid-liquid-moisturizer-for-normal-to-combination-70ml-reward",
-"p": 0.0,
-"c": null,
+"t": "Etiaxil Detranspirant Roll On Sensitive Skin 15ml",
+"u": "https://feel22.com/products/etiaxil-detranspirant-roll-on-sensitive-skin-15ml",
+"p": 18.23,
+"c": 21.45,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/L_OrealParisHydraGeniusAloeWaterandHyaluronicAcidLiquidMoisturizerForNormaltoCombination70ml_Reward.png?v=1770753034&width=400",
-"type": "Reward",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/LaRoche-PosayEffaclarDuo_Cream_GelMoussantGift_49.png?v=1686731320&width=400",
+"type": "Deodorant For Her",
 "tags": [
-"allofcpd326",
-"CPDALL426",
-"Hidden recommendation",
-"SEARCHANISE_IGNORE"
+"1STWAVE826PHARMA",
+"99PHARMA",
+"bestof2023pharma",
+"BFSALE26",
+"CYBER26",
+"EASTERSALE26PHARMA",
+"ETIAXIL1126",
+"ETIAXIL426"
 ],
 "in": false
 },
 {
-"t": "Maybelline New York Super Stay Vinyl Ink Long lasting Instant Shine Lipstick 35 Cheeky (Reward)",
-"u": "https://feel22.com/products/maybelline-new-york-super-stay-vinyl-ink-long-lasting-instant-shine-lipstick-35-cheeky-reward",
-"p": 0.0,
-"c": null,
+"t": "Etiaxil Men Antiperspirant 48h Control Aerosol 150ml",
+"u": "https://feel22.com/products/etiaxil-men-antiperspirant-48h-control-aerosol-150ml",
+"p": 13.92,
+"c": 16.38,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/MaybellineNewYorkSuperStayVinylInkLonglastingInstantShineLipstick35Cheeky_Reward.png?v=1770752493&width=400",
-"type": "Reward",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/products/Packshots_16_11fb102b-e024-490e-9c33-e9c32d6f2cf8.png?v=1666272948&width=400",
+"type": "Deodorant For Him",
 "tags": [
-"allofcpd326",
-"CPDALL426",
-"Hidden recommendation",
-"SEARCHANISE_IGNORE"
+"1STWAVE826PHARMA",
+"99PHARMA",
+"BFSALE26",
+"BNW25",
+"CYBER26",
+"EASTERSALE26PHARMA",
+"ETIAXIL1126",
+"ETIAXIL426"
+],
+"in": true
+},
+{
+"t": "Etiaxil Antiperspirant 48h Protection Aerosol 150ml",
+"u": "https://feel22.com/products/etiaxil-antiperspirant-48h-protection-aerosol-150ml",
+"p": 13.91,
+"c": 16.37,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/products/Packshots_6_0839e435-3486-4a2b-8c11-45bf35f3168c.png?v=1666259654&width=400",
+"type": "Deodorant For Her",
+"tags": [
+"1STWAVE826PHARMA",
+"99PHARMA",
+"bestof2023pharma",
+"BFSALE26",
+"CYBER26",
+"EASTERSALE26PHARMA",
+"ETIAXIL1126",
+"ETIAXIL426"
+],
+"in": true
+},
+{
+"t": "Etiaxil Antiperspirant Sensitive Skin Armpits Roll-On",
+"u": "https://feel22.com/products/etiaxil-antiperspirant-normal-skin-armpits-roll-on",
+"p": 14.72,
+"c": 17.32,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/products/Packshots_3_2f9fbcbc-e07d-4e7a-915c-5cd5b3d15d3c.png?v=1668594552&width=400",
+"type": "Deodorant For Her",
+"tags": [
+"1STWAVE826PHARMA",
+"99PHARMA",
+"bestof2023pharma",
+"BFSALE26",
+"CYBER26",
+"EASTERSALE26PHARMA",
+"ETIAXIL1126",
+"ETIAXIL426"
 ],
 "in": false
 },
 {
-"t": "Garnier Fast Bright Vitamin C + Niacinamide Serum 30ml (Reward)",
-"u": "https://feel22.com/products/garnier-fast-bright-vitamin-c-niacinamide-serum-30ml-reward",
-"p": 0.0,
+"t": "Etiaxil Detranspirant Normal Skin Armpits Roll-On",
+"u": "https://feel22.com/products/etiaxil-detranspirant-sensitive-skin-armpits-roll-on",
+"p": 14.72,
+"c": 17.32,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/BestOftemplate2023_5_cbedb7f1-3660-4e73-b721-9097723319b1.png?v=1731681699&width=400",
+"type": "Deodorant For Her",
+"tags": [
+"1STWAVE826PHARMA",
+"99PHARMA",
+"BESTOF2023",
+"bestof2023pharma",
+"BFSALE26",
+"CYBER26",
+"EASTERSALE26PHARMA",
+"ETIAXIL1126"
+],
+"in": true
+},
+{
+"t": "A-Derma Biology AC Perfect Anti-Marks Cream 40ml",
+"u": "https://feel22.com/products/aderma-oat-rhealba-biology-ac-perfect-anti-marks-cream-40ml",
+"p": 16.5,
+"c": 22.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Packshots_temp_-_Lynn.png?v=1744379071&width=400",
+"type": "Day and Night Cream",
+"tags": [
+"1STWAVE826PHARMA",
+"99PHARMA",
+"ADERMA525",
+"ADERMA725",
+"ADERMABF24",
+"ADHAPHARMA26",
+"ALLPF1224",
+"ANNIVERSARYBRANDS"
+],
+"in": true
+},
+{
+"t": "Laki Beauty Sculpt And Blend Beauty Blender",
+"u": "https://feel22.com/products/laki-beauty-sculpt-and-blend-beauty-blender",
+"p": 8.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/GarnierFastBrightVitaminC_NiacinamideSerum30ml_Reward.png?v=1770749584&width=400",
-"type": "Reward",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/LakiBeautySculptAndBlendBeautyBlender.png?v=1770199317&width=400",
+"type": "Makeup Tools and Brushes",
 "tags": [
-"allofcpd326",
-"CPDALL426",
-"garnier626",
-"garnierskin",
-"garnierskin326",
-"Hidden recommendation",
-"SEARCHANISE_IGNORE"
+"FEBSKU26",
+"LAKI826"
+],
+"in": true
+},
+{
+"t": "Maqui Martini Lip Lacquer Transparent & Timeless",
+"u": "https://feel22.com/products/maqui-martini-lip-lacquer-transparent-timeless",
+"p": 16.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/MaquiMartiniLipLacquerTransparent_Timeless_3a4a74e5-3f00-423c-afed-2bb227947b7b.png?v=1791287669&width=400",
+"type": "Lip Gloss and Lip Tint",
+"tags": [
+"EVERYTHING",
+"MUPSKINALL926"
+],
+"in": true
+},
+{
+"t": "Maqui Dirty Martini pH-Reactive Lip Oil",
+"u": "https://feel22.com/products/maqui-dirty-martini-ph-reactive-lip-oil",
+"p": 25.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Maqui_Dirty_Martini_pH-Reactive_Lip_Oil.png?v=1764771118&width=400",
+"type": "Lip Oil",
+"tags": [
+"EVERYTHING",
+"MUPSKINALL926"
+],
+"in": true
+},
+{
+"t": "Laki Beauty Dewy Setting Spray",
+"u": "https://feel22.com/products/laki-beauty-dewy-setting-spray-1",
+"p": 25.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/LakiBeautyDewySettingSpray100ML.png?v=1769593739&width=400",
+"type": "Setting Spray",
+"tags": [
+"EVERYTHING",
+"giftid-8642651193482",
+"LAKI226",
+"LAKI826",
+"MUPSKINALL926",
+"SDCOLLECTION"
+],
+"in": false
+},
+{
+"t": "Revilin Anti-Wrinkle Serum",
+"u": "https://feel22.com/products/revilin-anti-wrinkle-serum",
+"p": 65.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/RevilinAnti-WrinkleSerum.png?v=1770051237&width=400",
+"type": "Serum and Treatment",
+"tags": [
+"FEBSKU26",
+"MUPSKINALL926",
+"PHARMAALL",
+"PHARMAALL2.0",
+"PHARMAW/OLDB"
+],
+"in": true
+},
+{
+"t": "Revilin Vitamin C Tri-Ascorbic Acid 15% Serum",
+"u": "https://feel22.com/products/revilin-vitamin-c-tri-ascorbic-acid-15-serum",
+"p": 50.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/RevilinVitaminCTri-AscorbicAcid15_Serum.png?v=1770051311&width=400",
+"type": "Serum and Treatment",
+"tags": [
+"FEBSKU26",
+"MUPSKINALL926",
+"PHARMAALL",
+"PHARMAALL2.0",
+"PHARMAW/OLDB"
+],
+"in": true
+},
+{
+"t": "Revilin Vitamin B3 Niacinamide 5% And Peptides Serum",
+"u": "https://feel22.com/products/revilin-vitamin-b3-niacinamide-5-and-peptides-serum",
+"p": 50.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/RevilinVitaminB3Niacinamide5_AndPeptidesSerum.png?v=1770051382&width=400",
+"type": "Serum and Treatment",
+"tags": [
+"FEBSKU26",
+"MUPSKINALL926",
+"PHARMAALL",
+"PHARMAALL2.0",
+"PHARMAW/OLDB"
+],
+"in": true
+},
+{
+"t": "Revilin Vitamin A+ Retinol 0.5% And Peptides Serum",
+"u": "https://feel22.com/products/revilin-vitamin-a-retinol-0-5-and-peptides-serum",
+"p": 50.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/RevilinVitaminA_Retinol0.5_AndPeptidesSerum.png?v=1770051466&width=400",
+"type": "Serum and Treatment",
+"tags": [
+"FEBSKU26",
+"MUPSKINALL926",
+"PHARMAALL",
+"PHARMAALL2.0",
+"PHARMAW/OLDB"
+],
+"in": true
+},
+{
+"t": "Lattafa Khamrah 3pcs Perfume Gift Set",
+"u": "https://feel22.com/products/lattafa-khamrah-3pcs-perfume-gift-set",
+"p": 55.5,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/LattafaKhamrah3pcsPerfumeGiftSet.png?v=1769778351&width=400",
+"type": "Unisex Perfume Set",
+"tags": [
+"JANSKU26"
+],
+"in": true
+},
+{
+"t": "Lattafa Teriaq 3pcs Perfume Gift Set",
+"u": "https://feel22.com/products/lattafa-teriaq-3pcs-perfume-gift-set",
+"p": 55.5,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/LattafaTeriaq3pcsPerfumeGiftSet.png?v=1769778160&width=400",
+"type": "Unisex Perfume Set",
+"tags": [
+"JANSKU26"
+],
+"in": true
+},
+{
+"t": "Lattafa Yara Candy 3pcs Perfume Gift Set",
+"u": "https://feel22.com/products/lattafa-yara-candy-3pcs-perfume-gift-set",
+"p": 46.62,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/LattafaYaraCandy3pcsPerfumeGiftSet.png?v=1769777450&width=400",
+"type": "Perfume Set For Her",
+"tags": [
+"JANSKU26"
+],
+"in": true
+},
+{
+"t": "Lattafa Kingdom For Men 3pcs Perfume Gift Set",
+"u": "https://feel22.com/products/lattafa-kingdom-for-men-3pcs-perfume-gift-set",
+"p": 46.62,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/LattafaKingdomForMen3pcsPerfumeGiftSet.png?v=1769777157&width=400",
+"type": "Perfume Set For Him",
+"tags": [
+"JANSKU26"
+],
+"in": true
+},
+{
+"t": "Tahiti Vanille Pump Family Size Shower Gel",
+"u": "https://feel22.com/products/tahiti-vanille-pump-family-size-shower-gel",
+"p": 6.7,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/TahitiVanillePumpFamilySizeShowerGel700Ml_cd879c37-1885-4e2f-b6a6-b4c40baf1c08.png?v=1769510112&width=400",
+"type": "Shower Gel and Body Wash",
+"tags": [
+"30TAHITI1026",
+"JANSKU26",
+"TAHITISLC926"
+],
+"in": true
+},
+{
+"t": "Tahiti Coco Pump Family Size Shower Gel",
+"u": "https://feel22.com/products/tahiti-coco-pump-family-size-shower-gel",
+"p": 6.7,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/Tahiti_Coco_Pump_Family_Size_Shower_Gel_700Ml.png?v=1769510145&width=400",
+"type": "Shower Gel and Body Wash",
+"tags": [
+"30TAHITI1026",
+"JANSKU26",
+"TAHITISLC926"
+],
+"in": true
+},
+{
+"t": "Tahiti Kids Exotic Fruits Hair And Body Shower Gel",
+"u": "https://feel22.com/products/tahiti-kids-exotic-fruits-hair-and-body-shower-gel",
+"p": 3.28,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/TahitiKidsExoticFruitsHairAndBodyShowerGel300Ml.png?v=1769509740&width=400",
+"type": "Shower Gel and Body Wash",
+"tags": [
+"30TAHITI1026",
+"JANSKU26",
+"TAHITISLC926"
+],
+"in": true
+},
+{
+"t": "Tahiti Happy Shower Yuzu Mint Peps Shower Gel",
+"u": "https://feel22.com/products/tahiti-happy-shower-yuzu-mint-peps-shower-gel",
+"p": 3.02,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/TahitiHappyShowerYuzuMintPeps250Ml.png?v=1769509871&width=400",
+"type": "Shower Gel and Body Wash",
+"tags": [
+"30TAHITI1026",
+"JANSKU26",
+"TAHITISLC926"
+],
+"in": true
+},
+{
+"t": "Tahiti Happy Shower Mango Peach Splash Shower Gel",
+"u": "https://feel22.com/products/tahiti-happy-shower-mango-peach-splash-shower-gel",
+"p": 3.02,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/TahitiHappyShowerMangoPeachSplashShowerGel250Ml.png?v=1769509905&width=400",
+"type": "Shower Gel and Body Wash",
+"tags": [
+"30TAHITI1026",
+"JANSKU26",
+"TAHITISLC926"
+],
+"in": true
+},
+{
+"t": "Tahiti Happy Shower Coco Ananas Wave Shower Gel",
+"u": "https://feel22.com/products/tahiti-happy-shower-coco-ananas-wave-shower-gel",
+"p": 3.02,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/TahitiHappyShowerCocoAnanasWaveShowerGel250Ml.png?v=1769509957&width=400",
+"type": "Shower Gel and Body Wash",
+"tags": [
+"30TAHITI1026",
+"JANSKU26",
+"TAHITISLC926"
+],
+"in": true
+},
+{
+"t": "Colgate Optic White Purple Serum 40ml",
+"u": "https://feel22.com/products/colgate-optic-white-purple-serum-40ml",
+"p": 34.17,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/ColgateOpticWhitePurpleSerum40ml_1.png?v=1781162874&width=400",
+"type": "Toothpaste",
+"tags": [
+"3colg726",
+"colg826",
+"COLPUB",
+"JANSKU26"
+],
+"in": true
+},
+{
+"t": "Laki Beauty The As I Am Bundle Set At 20% Off",
+"u": "https://feel22.com/products/laki-beauty-the-as-i-am-bundle-set-at-20-off",
+"p": 57.6,
+"c": 72.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/1291/3633/files/LakiBeautyTheAsIAmBundleSetAt20_Off_1.png?v=1770124574&width=400",
+"type": "Makeup Tools and Brushes",
+"tags": [
+"FEBSKU26"
 ],
 "in": true
 }
