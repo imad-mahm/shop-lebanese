@@ -1,5 +1,31 @@
 [
 {
+"t": "Bissell, Powerforce Helix Turbo | 2110E",
+"u": "https://youneselectric.com/products/bissell-powerforce-helix-turbo-2110e",
+"p": 190.0,
+"c": 230.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0663/6113/1235/files/2110E.jpg?v=1728893131&width=400",
+"type": "Cleaning Tools And Laundry",
+"tags": [
+"Bissell"
+],
+"in": true
+},
+{
+"t": "Kenwood, Wet & Dry Cordless Handheld Vacuum Cleaner HVP19.000SI Silver",
+"u": "https://youneselectric.com/products/kenwood-wet-dry-cordless-handheld-vacuum-cleaner-hvp19-000si-silver",
+"p": 69.0,
+"c": 72.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0663/6113/1235/files/272966.webp?v=1702322157&width=400",
+"type": "Cleaning Tools And Laundry",
+"tags": [
+"kenwood"
+],
+"in": true
+},
+{
 "t": "Kenwood, Cordless Kettle, 1.7L - Silver and Black",
 "u": "https://youneselectric.com/products/kenwood-cordless-kettle-1-7l-silver-and-black",
 "p": 44.0,
@@ -17620,19 +17646,6 @@
 "in": true
 },
 {
-"t": "Bissell, 2111E Powerforce Helix Vacuum Cleaner",
-"u": "https://youneselectric.com/products/bissell-2111e-powerforce-helix-vacuum-cleaner",
-"p": 129.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0663/6113/1235/files/Bissell-2111E-w.webp?v=1770647580&width=400",
-"type": "Cleaning Tools And Laundry",
-"tags": [
-"Bissell"
-],
-"in": true
-},
-{
 "t": "Bissell, 4006K Omnifind Wet and Dry Hard Floor Vacuum Cleaner 600ML",
 "u": "https://youneselectric.com/products/bissell-4006k-omnifind-wet-and-dry-hard-floor-vacuum-cleaner-600ml",
 "p": 399.0,
@@ -30550,19 +30563,6 @@
 "type": "Large Appliances",
 "tags": [
 "Campomatic"
-],
-"in": true
-},
-{
-"t": "Bissell, Powerforce Helix Turbo | 2110E",
-"u": "https://youneselectric.com/products/bissell-powerforce-helix-turbo-2110e",
-"p": 190.0,
-"c": 230.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0663/6113/1235/files/2110E.jpg?v=1728893131&width=400",
-"type": "Cleaning Tools And Laundry",
-"tags": [
-"Bissell"
 ],
 "in": true
 },

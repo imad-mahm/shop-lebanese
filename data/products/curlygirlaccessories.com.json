@@ -1,12 +1,67 @@
 [
 {
-"t": "SKALA hydration Nourishment & Protein Bundle",
-"u": "https://curlygirlaccessories.com/product/skala-hydration-nourishment-protein-bundle/",
+"t": "SKALA Nourishment Bundle – Buy 2 Get 1 Free",
+"u": "https://curlygirlaccessories.com/product/skala-nourishment-bundle-buy-2-get-1-free/",
 "p": 37.5,
 "c": 56.25,
 "cur": "USD",
-"img": "https://curlygirlaccessories.com/wp-content/uploads/2026/11/bc4aeac7-e2c9-4f58-8428-2f4370318b42-300x300.png",
-"type": "",
+"img": "https://curlygirlaccessories.com/wp-content/uploads/2026/11/skala-nourishment-bundle-300x300.jpg",
+"type": "Bundles &amp; Sets",
+"tags": [],
+"in": true
+},
+{
+"t": "SKALA Bundle 1",
+"u": "https://curlygirlaccessories.com/product/skala-bundle-1/",
+"p": 52.5,
+"c": 75.0,
+"cur": "USD",
+"img": "https://curlygirlaccessories.com/wp-content/uploads/2026/11/skala-bundle-1-300x300.jpg",
+"type": "Bundles &amp; Sets",
+"tags": [],
+"in": true
+},
+{
+"t": "SKALA Buy 2 Get 1 Free – Mais Cachos, Maracujá & Divino Potão",
+"u": "https://curlygirlaccessories.com/product/skala-buy-2-get-1-free-mais-cachos-maracuja-divino-potao/",
+"p": 37.5,
+"c": 56.25,
+"cur": "USD",
+"img": "https://curlygirlaccessories.com/wp-content/uploads/2026/11/skala-buy-2-get-1-free-300x300.jpg",
+"type": "Bundles &amp; Sets",
+"tags": [],
+"in": true
+},
+{
+"t": "SKALA Banana Nourishment – Buy 3 Get 3 Free",
+"u": "https://curlygirlaccessories.com/product/skala-banana-nourishment-buy-3-get-3-free/",
+"p": 56.25,
+"c": null,
+"cur": "USD",
+"img": "https://curlygirlaccessories.com/wp-content/uploads/2026/11/img_0595-300x300.png",
+"type": "Bundles &amp; Sets",
+"tags": [],
+"in": true
+},
+{
+"t": "SKALA Hydration, Shine & Frizz Control – Buy 2 Get 2 Free",
+"u": "https://curlygirlaccessories.com/product/skala-hydration-shine-frizz-control-buy-2-get-2-free/",
+"p": 37.5,
+"c": null,
+"cur": "USD",
+"img": "https://curlygirlaccessories.com/wp-content/uploads/2026/11/img_0594-300x300.png",
+"type": "Bundles &amp; Sets",
+"tags": [],
+"in": true
+},
+{
+"t": "SKALA Mais Cachos Economic Bundle – Buy 3 Get 3 Free",
+"u": "https://curlygirlaccessories.com/product/skala-mais-cachos-economic-bundle-buy-3-get-3-free/",
+"p": 56.25,
+"c": null,
+"cur": "USD",
+"img": "https://curlygirlaccessories.com/wp-content/uploads/2026/11/img_0596-300x300.png",
+"type": "Bundles &amp; Sets",
 "tags": [],
 "in": true
 },
@@ -263,7 +318,7 @@
 "img": "https://curlygirlaccessories.com/wp-content/uploads/2026/10/NewList_4-300x300.webp",
 "type": "",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Aussie Repair & Reconstruct Hair Mask 300ml",
