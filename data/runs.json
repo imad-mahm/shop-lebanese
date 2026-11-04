@@ -1,46 +1,5 @@
 [
  {
-  "at": "2026-09-29T15:02:25+00:00",
-  "new_candidates": 52,
-  "probed": 40,
-  "new_stores": [
-   "aghasarkissian.com",
-   "kaystore.com",
-   "beytech.com.lb",
-   "lebanonconceptstore.com",
-   "hicart.com",
-   "shopwithabc.com",
-   "youneselectric.com",
-   "mikesport.com",
-   "jujule-lemonie.com",
-   "lebelik.com",
-   "spinneyslebanon.com",
-   "hashtag-lb.com",
-   "alexafinejewelry.com",
-   "swarovski.com.lb",
-   "onyxstoneslb.com",
-   "myholdal.com",
-   "daouk.com",
-   "skinsociety.me",
-   "feel22.com",
-   "curlygirlaccessories.com",
-   "sbrandsofficial.com",
-   "zedstorelb.com",
-   "juicybeauty.online"
-  ],
-  "synced": 8,
-  "sources": {
-   "seeds": 11,
-   "submissions": 0,
-   "removals": 0,
-   "hubs": 41,
-   "search": 0,
-   "commoncrawl": 0
-  },
-  "seconds": 46,
-  "total_stores": 23
- },
- {
   "at": "2026-09-29T15:03:49+00:00",
   "new_candidates": 0,
   "probed": 40,
@@ -3637,6 +3596,24 @@
    "links": 33
   },
   "seconds": 238,
+  "total_stores": 44
+ },
+ {
+  "at": "2026-11-04T21:33:50+00:00",
+  "new_candidates": 21,
+  "probed": 30,
+  "new_stores": [],
+  "synced": 8,
+  "sources": {
+   "seeds": 0,
+   "submissions": 0,
+   "removals": 0,
+   "hubs": 0,
+   "search": 0,
+   "commoncrawl": 0,
+   "links": 21
+  },
+  "seconds": 212,
   "total_stores": 44
  }
 ]
