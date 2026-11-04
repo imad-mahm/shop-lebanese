@@ -1,5 +1,77 @@
 [
 {
+"t": "Kika Top - Dark Green",
+"u": "https://www.jujule-lemonie.com/products/kika-top-dark-green",
+"p": 195.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0620/6980/1212/files/KikaTop-DarkGreen_566cb110-f02b-4af2-a55b-7576feee809f.jpg?v=1793799853&width=400",
+"type": "",
+"tags": [
+"collecting moments",
+"fall",
+"new in",
+"tops",
+"upperwear"
+],
+"in": true
+},
+{
+"t": "Kika Top - Black",
+"u": "https://www.jujule-lemonie.com/products/kika-top-black",
+"p": 195.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0620/6980/1212/files/KikaTop-Black_Back.jpg?v=1793798389&width=400",
+"type": "",
+"tags": [
+"collecting moments",
+"fall",
+"new in",
+"tops",
+"upperwear"
+],
+"in": true
+},
+{
+"t": "Lebanon Cardigan - Green",
+"u": "https://www.jujule-lemonie.com/products/lebanon-cardigan-green",
+"p": 145.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0620/6980/1212/files/LebanonCardigan-Green_Back.png?v=1793801431&width=400",
+"type": "",
+"tags": [
+"fall",
+"new in",
+"upperwear",
+"winter"
+],
+"in": true
+},
+{
+"t": "Betty Boop Jacket - Pink",
+"u": "https://www.jujule-lemonie.com/products/betty-boop-jacket-pink",
+"p": 265.0,
+"c": null,
+"cur": "USD",
+"img": "",
+"type": "",
+"tags": [],
+"in": true
+},
+{
+"t": "Marina Top - White",
+"u": "https://www.jujule-lemonie.com/products/marina-top-white",
+"p": 115.0,
+"c": null,
+"cur": "USD",
+"img": "",
+"type": "",
+"tags": [],
+"in": true
+},
+{
 "t": "Valey Jacket - Camel",
 "u": "https://www.jujule-lemonie.com/products/valey-jacket-camel",
 "p": 265.0,
@@ -18,7 +90,7 @@
 "in": true
 },
 {
-"t": "Valey Jacket - Brocard Brique",
+"t": "Valey Jacket - Brocade Brique",
 "u": "https://www.jujule-lemonie.com/products/valey-jacket-brocard-brique",
 "p": 325.0,
 "c": null,
@@ -54,7 +126,7 @@
 "in": true
 },
 {
-"t": "Bomber Jacket - Brocard Brique",
+"t": "Bomber Jacket - Brocade Brique",
 "u": "https://www.jujule-lemonie.com/products/bomber-jacket-royal-blue-print-copy",
 "p": 295.0,
 "c": null,
@@ -203,7 +275,7 @@
 {
 "t": "Kika Top - Brown",
 "u": "https://www.jujule-lemonie.com/products/kika-top-brown",
-"p": 225.0,
+"p": 195.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0620/6980/1212/files/KikaTop-Brown_7.jpg?v=1791977115&width=400",
@@ -995,7 +1067,7 @@
 "sweatshirts",
 "upperwear"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Mandy Sweatshirt - Badged Green",
@@ -1405,7 +1477,7 @@
 "in": true
 },
 {
-"t": "Daisy Top - White",
+"t": "Daisy Top - Brocade White",
 "u": "https://www.jujule-lemonie.com/products/daisy-top",
 "p": 185.0,
 "c": null,
@@ -2240,7 +2312,7 @@
 "in": true
 },
 {
-"t": "Lebanon Cardigan - White",
+"t": "Lebanon Cardigan - Off White",
 "u": "https://www.jujule-lemonie.com/products/lebnen-cardigan",
 "p": 145.0,
 "c": null,
@@ -3181,7 +3253,7 @@
 "in": true
 },
 {
-"t": "Cleo Dress - Brocard White",
+"t": "Cleo Dress - Brocade White",
 "u": "https://www.jujule-lemonie.com/products/cleo-dress-brocard",
 "p": 325.0,
 "c": null,
@@ -3252,7 +3324,7 @@
 "in": true
 },
 {
-"t": "Brook Skirt - Brocard Pink",
+"t": "Brook Skirt - Brocade Pink",
 "u": "https://www.jujule-lemonie.com/products/brook-skirt-1",
 "p": 145.0,
 "c": null,
@@ -3266,7 +3338,7 @@
 "in": true
 },
 {
-"t": "Sirage - Brocard Pink",
+"t": "Sirage - Brocade Pink",
 "u": "https://www.jujule-lemonie.com/products/sirage-top-1",
 "p": 225.0,
 "c": null,
@@ -3294,7 +3366,7 @@
 "in": true
 },
 {
-"t": "Marisol Dress - Brocard Pink",
+"t": "Marisol Dress - Brocade Pink",
 "u": "https://www.jujule-lemonie.com/products/may-sol-dress",
 "p": 495.0,
 "c": null,
@@ -3322,7 +3394,7 @@
 "in": true
 },
 {
-"t": "Kaftan Brocard - Rose Champagne",
+"t": "Kaftan Brocade - Rose Champagne",
 "u": "https://www.jujule-lemonie.com/products/kaftan-brocard",
 "p": 265.0,
 "c": null,
@@ -3364,7 +3436,7 @@
 "in": true
 },
 {
-"t": "Oriana Jacket - Brocard Pink",
+"t": "Oriana Jacket - Brocade Pink",
 "u": "https://www.jujule-lemonie.com/products/snow-jacket-1",
 "p": 265.0,
 "c": null,
@@ -3406,7 +3478,7 @@
 "in": true
 },
 {
-"t": "Zeena Top - Brocard Champagne",
+"t": "Zeena Top - Brocade Champagne",
 "u": "https://www.jujule-lemonie.com/products/zeena-top",
 "p": 225.0,
 "c": null,
@@ -3434,7 +3506,7 @@
 "in": true
 },
 {
-"t": "Brook Skirt - Brocard Sage Green",
+"t": "Brook Skirt - Brocade Sage Green",
 "u": "https://www.jujule-lemonie.com/products/brook-skirt",
 "p": 145.0,
 "c": null,
@@ -3518,7 +3590,7 @@
 "in": true
 },
 {
-"t": "Sirage - Brocard Beige",
+"t": "Sirage - Brocade Beige",
 "u": "https://www.jujule-lemonie.com/products/sirage-top",
 "p": 225.0,
 "c": null,
@@ -3588,7 +3660,7 @@
 "in": true
 },
 {
-"t": "Ray Jacket - Brocard Champagne",
+"t": "Ray Jacket - Brocade Champagne",
 "u": "https://www.jujule-lemonie.com/products/ray-jacket",
 "p": 345.0,
 "c": null,
@@ -3616,7 +3688,7 @@
 "in": true
 },
 {
-"t": "Marisol Dress - Brocard Champagne",
+"t": "Marisol Dress - Brocade Champagne",
 "u": "https://www.jujule-lemonie.com/products/may-sol",
 "p": 495.0,
 "c": null,
@@ -4187,7 +4259,7 @@
 "in": true
 },
 {
-"t": "Jujule Gemayzeh Cardigan",
+"t": "Jujule Gemayzeh Cardigan - Blue",
 "u": "https://www.jujule-lemonie.com/products/jujule-gemayzeh-cardigan",
 "p": 145.0,
 "c": null,
@@ -4226,7 +4298,7 @@
 "in": false
 },
 {
-"t": "Jujule Home Cardigan",
+"t": "Jujule Home Cardigan - Blue",
 "u": "https://www.jujule-lemonie.com/products/jujule-home-cardigan",
 "p": 145.0,
 "c": null,
@@ -6050,7 +6122,7 @@
 "in": true
 },
 {
-"t": "Blossom Top - Brocard Purple",
+"t": "Blossom Top - Brocade Purple",
 "u": "https://www.jujule-lemonie.com/products/blossom-top-1",
 "p": 225.0,
 "c": null,
@@ -6185,7 +6257,7 @@
 "in": true
 },
 {
-"t": "Amaia Top - Brocard Blue",
+"t": "Amaia Top - Brocade Blue",
 "u": "https://www.jujule-lemonie.com/products/amaia-top",
 "p": 225.0,
 "c": null,
@@ -6262,7 +6334,7 @@
 "in": true
 },
 {
-"t": "Blue Belle Top - Brocard Champagne",
+"t": "Blue Belle Top - Brocade Champagne",
 "u": "https://www.jujule-lemonie.com/products/blue-belle-top-champagne",
 "p": 275.0,
 "c": null,
@@ -6453,7 +6525,7 @@
 "in": true
 },
 {
-"t": "Blue Belle Top - Brocard Blue",
+"t": "Blue Belle Top - Brocade Blue",
 "u": "https://www.jujule-lemonie.com/products/blue-belle-top",
 "p": 275.0,
 "c": null,
@@ -6768,7 +6840,7 @@
 "in": true
 },
 {
-"t": "Elef Pants - Brocard White",
+"t": "Elef Pants - Brocade White",
 "u": "https://www.jujule-lemonie.com/products/elef-pants",
 "p": 225.0,
 "c": null,
@@ -6873,7 +6945,7 @@
 "in": true
 },
 {
-"t": "Brocard Jacket - Silver",
+"t": "Brocade Jacket - Silver",
 "u": "https://www.jujule-lemonie.com/products/brocard-jacket",
 "p": 325.0,
 "c": null,
@@ -8295,7 +8367,7 @@
 "in": true
 },
 {
-"t": "Isabella Crop - Brocard Rose Gold",
+"t": "Isabella Crop - Brocade Rose Gold",
 "u": "https://www.jujule-lemonie.com/products/isabella-crop-rose-gold",
 "p": 125.0,
 "c": null,
@@ -8326,7 +8398,7 @@
 "in": true
 },
 {
-"t": "Kimono Brocard - Sage Green",
+"t": "Kimono Brocade - Sage Green",
 "u": "https://www.jujule-lemonie.com/products/kimono-brocard-blue",
 "p": 265.0,
 "c": null,
@@ -8464,7 +8536,7 @@
 "in": true
 },
 {
-"t": "Bow Jacket",
+"t": "Bow Jacket - Brocade White",
 "u": "https://www.jujule-lemonie.com/products/bow-jacket",
 "p": 245.0,
 "c": null,
@@ -8537,7 +8609,7 @@
 "in": true
 },
 {
-"t": "Otis Skirt - Brocard White",
+"t": "Otis Skirt - Brocade White",
 "u": "https://www.jujule-lemonie.com/products/otis-skirt-white",
 "p": 185.0,
 "c": null,
@@ -8700,7 +8772,7 @@
 "in": true
 },
 {
-"t": "Kimono Brocard - Blue",
+"t": "Kimono Brocade - Blue",
 "u": "https://www.jujule-lemonie.com/products/kimono-brocard",
 "p": 265.0,
 "c": null,
@@ -8715,7 +8787,7 @@
 "in": true
 },
 {
-"t": "Gloria Skirt - Brocard Blue",
+"t": "Gloria Skirt - Brocade Blue",
 "u": "https://www.jujule-lemonie.com/products/brocard-skirt",
 "p": 145.0,
 "c": null,
