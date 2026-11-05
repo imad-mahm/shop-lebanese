@@ -1,5 +1,102 @@
 [
 {
+"t": "Large Snake Plant",
+"u": "https://exotica.com/products/large-snake-plant",
+"p": 165.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Snake_it_Easy_-_L.png?v=1791201734&width=400",
+"type": "Plants",
+"tags": [
+"For Colleagues",
+"For Dad",
+"For Friends",
+"For Her",
+"For Him",
+"For Mom",
+"For Teta",
+"Get Well Soon"
+],
+"in": false
+},
+{
+"t": "Medium Snake Plant",
+"u": "https://exotica.com/products/medium-snake-plant",
+"p": 68.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Snake_it_Easy_-_M.png?v=1791201719&width=400",
+"type": "Plants",
+"tags": [
+"For Colleagues",
+"For Dad",
+"For Friends",
+"For Her",
+"For Him",
+"For Mom",
+"For Teta",
+"Get Well Soon"
+],
+"in": false
+},
+{
+"t": "Large Dracaena Fragrans",
+"u": "https://exotica.com/products/large-dracaena-fragrans",
+"p": 170.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Dracaena_Joy_L.jpg?v=1791198091&width=400",
+"type": "Plants",
+"tags": [],
+"in": true
+},
+{
+"t": "Medium Dracaena Fragrans",
+"u": "https://exotica.com/products/medium-dracaena-fragrans",
+"p": 120.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Dracaena_M.jpg?v=1791201271&width=400",
+"type": "Plants",
+"tags": [],
+"in": true
+},
+{
+"t": "Small Peace Lily",
+"u": "https://exotica.com/products/small-peace-lily",
+"p": 58.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Peace_Lily_-_S.png?v=1791202042&width=400",
+"type": "Plants",
+"tags": [
+"For Colleagues",
+"For Dad",
+"For Friends",
+"For Her",
+"For Him",
+"For Kids",
+"For Mom",
+"For Teta"
+],
+"in": false
+},
+{
+"t": "Medium Peace Lily",
+"u": "https://exotica.com/products/medium-peace-lily",
+"p": 99.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Peace_Lily_-_M.png?v=1791202056&width=400",
+"type": "Plants",
+"tags": [
+"Housewarming",
+"Indoor Plants",
+"Plants"
+],
+"in": true
+},
+{
 "t": "Autumn Sweetness",
 "u": "https://exotica.com/products/autumn-sweetness",
 "p": 146.0,
@@ -50,7 +147,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/petalkiss.jpg?v=1735637858&width=400",
 "type": "Flowers",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Custom Order",
@@ -146,7 +243,7 @@
 {
 "t": "Pure Elegance",
 "u": "https://exotica.com/products/pure-elegance",
-"p": 75.0,
+"p": 83.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Pure_elegance_20_White_roses_in_box.png?v=1791967021&width=400",
@@ -196,7 +293,7 @@
 "in": true
 },
 {
-"t": "Forever in Pink",
+"t": "100 Pink Roses",
 "u": "https://exotica.com/products/forever-in-pink",
 "p": 250.0,
 "c": null,
@@ -213,7 +310,7 @@
 "in": true
 },
 {
-"t": "Endless Joy",
+"t": "50 Pink Roses",
 "u": "https://exotica.com/products/endless-joy",
 "p": 125.0,
 "c": null,
@@ -230,7 +327,7 @@
 "in": true
 },
 {
-"t": "3 Dozen Pinks",
+"t": "36 Pink Roses",
 "u": "https://exotica.com/products/3-dozen-pinks",
 "p": 102.0,
 "c": null,
@@ -267,7 +364,7 @@
 "in": true
 },
 {
-"t": "Double Your Sunshine",
+"t": "24 Yellow Roses",
 "u": "https://exotica.com/products/double-your-sunshine",
 "p": 72.0,
 "c": null,
@@ -299,34 +396,34 @@
 "in": true
 },
 {
-"t": "Dracaena Joy",
-"u": "https://exotica.com/products/dracaena-joy",
+"t": "Small Dracaena Fragrans",
+"u": "https://exotica.com/products/small-dracaena-fragrans",
 "p": 98.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/DracaenaJoy.png?v=1791202143&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Dracaena_Joy_s.png?v=1791198071&width=400",
 "type": "Plants",
 "tags": [],
 "in": true
 },
 {
-"t": "Peace Lily",
-"u": "https://exotica.com/products/peace-lily",
+"t": "Mini Peace Lily",
+"u": "https://exotica.com/products/mini-peace-lily",
 "p": 32.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/PeaceLily.png?v=1791201999&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Peace_Lily_-_XS.png?v=1791202027&width=400",
 "type": "Plants",
 "tags": [],
 "in": true
 },
 {
-"t": "Snake it Easy",
-"u": "https://exotica.com/products/snake-it-easy",
+"t": "Small Snake Plant",
+"u": "https://exotica.com/products/small-snake-plant",
 "p": 49.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Snake_it_Easy.png?v=1791201750&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Snake_it_Easy_-_S.png?v=1791201704&width=400",
 "type": "Plants",
 "tags": [
 "For Colleagues",
@@ -338,7 +435,7 @@
 "For Teta",
 "Get Well Soon"
 ],
-"in": true
+"in": false
 },
 {
 "t": "New Beginnings",
@@ -633,7 +730,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/FRA08095_d137cc4f-31b5-436a-b942-81a52ecaa393.jpg?v=1789811092&width=400",
 "type": "Add-Ons",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Silky Dracaena",
@@ -738,7 +835,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Burnt_Orange.png?v=1789555103&width=400",
 "type": "Flowers",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Blush Garden",
@@ -759,23 +856,6 @@
 "For Her"
 ],
 "in": true
-},
-{
-"t": "Amber Glow",
-"u": "https://exotica.com/products/amber-glow",
-"p": 71.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Amber_Glow_-_Fall_Flower_with_biscotti.jpg?v=1789546595&width=400",
-"type": "Flowers",
-"tags": [
-"Congratulations",
-"Flowers",
-"For Her",
-"Mixed Flowers",
-"Orange"
-],
-"in": false
 },
 {
 "t": "Copper Garden",
@@ -831,18 +911,7 @@
 "Mixed Flowers",
 "Orange"
 ],
-"in": false
-},
-{
-"t": "Cookie & Bloom",
-"u": "https://exotica.com/products/cookie-bloom",
-"p": 120.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Cookie_Bloom_-_Fall_Flower_with_cookies_1.jpg?v=1789547018&width=400",
-"type": "Flowers",
-"tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Colours of Fall",
@@ -865,17 +934,6 @@
 "type": "Flowers",
 "tags": [],
 "in": true
-},
-{
-"t": "Pumpkins & Petals",
-"u": "https://exotica.com/products/pumpkins-petals",
-"p": 174.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Pumpkin_Petals_Fall_Flower_Arrangement.png?v=1789544778&width=400",
-"type": "Flowers",
-"tags": [],
-"in": false
 },
 {
 "t": "Cozy Blooms",
@@ -1231,7 +1289,7 @@
 "in": false
 },
 {
-"t": "Twice the Elegance",
+"t": "24 White Roses",
 "u": "https://exotica.com/products/twice-the-elegance",
 "p": 72.0,
 "c": null,
@@ -1248,7 +1306,7 @@
 "in": true
 },
 {
-"t": "Double Your Joy",
+"t": "24 Pink Roses",
 "u": "https://exotica.com/products/double-your-joy",
 "p": 72.0,
 "c": null,
@@ -1265,7 +1323,7 @@
 "in": true
 },
 {
-"t": "Classic Symbol of Purity",
+"t": "12 White Roses",
 "u": "https://exotica.com/products/classic-symbol-of-purity",
 "p": 42.0,
 "c": null,
@@ -1282,7 +1340,7 @@
 "in": true
 },
 {
-"t": "Classic Symbol of Friendship",
+"t": "12 Yellow Roses",
 "u": "https://exotica.com/products/classic-symbol-of-friendship",
 "p": 42.0,
 "c": null,
@@ -1299,7 +1357,7 @@
 "in": true
 },
 {
-"t": "Classic Symbol of Admiration",
+"t": "12 Pink Roses",
 "u": "https://exotica.com/products/classic-symbol-of-admiration",
 "p": 42.0,
 "c": null,
@@ -1313,7 +1371,7 @@
 "Pink",
 "Roses"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Matcha Buttercream",
@@ -1844,7 +1902,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/sables_mini.jpg?v=1779106320&width=400",
 "type": "Add-Ons",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Mionetto Prosecco Rosé Mini",
@@ -1879,7 +1937,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Get_well_soon.jpg?v=1779105520&width=400",
 "type": "Add-Ons",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Pick Mom",
@@ -1901,7 +1959,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Untitled_design.jpg?v=1779106820&width=400",
 "type": "Add-Ons",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Pick Love Red",
@@ -2198,7 +2256,7 @@
 "Handheld Bouquets",
 "Pink"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Vanilla Roses",
@@ -2529,7 +2587,7 @@
 "Mixed Colors",
 "Mixed Flowers"
 ],
-"in": false
+"in": true
 },
 {
 "t": "S-Shape Elm Bonsai",
@@ -2811,7 +2869,7 @@
 "For Teta",
 "Mixed Colors"
 ],
-"in": true
+"in": false
 },
 {
 "t": "The Spiky Plant",
@@ -2995,7 +3053,7 @@
 "For Him",
 "For Kids"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Vibrant Rose Box",
@@ -3176,25 +3234,6 @@
 "in": true
 },
 {
-"t": "Pink Hues",
-"u": "https://exotica.com/products/pink-hues",
-"p": 71.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/0002_FRA09348.jpg?v=1767798887&width=400",
-"type": "Flowers",
-"tags": [
-"Birthdays",
-"Congratulations",
-"For Her",
-"For Mom",
-"For Teta",
-"Pink",
-"Roses"
-],
-"in": true
-},
-{
 "t": "Sablés Gourmets Large Box",
 "u": "https://exotica.com/products/sables-gourmets-large-box",
 "p": 30.0,
@@ -3203,7 +3242,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/DarkMilkRocher_SablesGourmet.webp?v=1781262306&width=400",
 "type": "Add-Ons",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "White Nobile",
@@ -4147,7 +4186,7 @@
 "Fuschia",
 "Graduation"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Pink Bliss",
@@ -4155,7 +4194,7 @@
 "p": 235.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Dome_80_Pink_Roses_in_white_Box.jpg?v=1791957510&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Dome_80_Pink_Roses_in_Black_Box.jpg?v=1791957527&width=400",
 "type": "Flowers",
 "tags": [
 "Birthdays",
@@ -4170,7 +4209,7 @@
 "in": true
 },
 {
-"t": "Only Roses",
+"t": "100 Mixed Roses",
 "u": "https://exotica.com/products/pink-at-heart",
 "p": 250.0,
 "c": null,
@@ -4223,25 +4262,6 @@
 "For Her",
 "For Him",
 "Love & Romance",
-"Roses"
-],
-"in": true
-},
-{
-"t": "I'm Blushing",
-"u": "https://exotica.com/products/im-blushing",
-"p": 102.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/i_m-blushing_91bc22b3-9ca3-49b0-af34-f5d105639dc5.jpg?v=1735638153&width=400",
-"type": "Flowers",
-"tags": [
-"Birthdays",
-"For Her",
-"For Mom",
-"For Teta",
-"Handheld Bouquets",
-"Pink",
 "Roses"
 ],
 "in": true
@@ -4305,7 +4325,7 @@
 "in": true
 },
 {
-"t": "Colorful Dreams",
+"t": "50 Mixed Roses",
 "u": "https://exotica.com/products/colorful-dreams",
 "p": 145.0,
 "c": null,
@@ -4325,7 +4345,7 @@
 "in": true
 },
 {
-"t": "36 Hugs",
+"t": "36 Mixed Roses",
 "u": "https://exotica.com/products/36-hugs",
 "p": 102.0,
 "c": null,
@@ -4364,7 +4384,7 @@
 {
 "t": "Endless Bloom",
 "u": "https://exotica.com/products/endless-bloom",
-"p": 85.0,
+"p": 83.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Flat_mix_25_roses_white_box.jpg?v=1791891883&width=400",
@@ -4584,7 +4604,7 @@
 "For Teta",
 "Get Well Soon"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Picture in Frame (10x15cm)",
@@ -4719,7 +4739,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Blush-Crush.jpg?v=1749537215&width=400",
 "type": "Flowers",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Sablés Gourmets Small Box",
@@ -4730,7 +4750,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Sables-Gourmets---Chocolate-Small-Box.png?v=1735638005&width=400",
 "type": "Add-Ons",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Peace & Love",
@@ -4750,7 +4770,7 @@
 "Graduation",
 "Handheld Bouquets"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Small Kisses",
@@ -4770,7 +4790,7 @@
 "Fuschia",
 "Graduation"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Bonsai Essence",
@@ -4953,7 +4973,7 @@
 {
 "t": "Soft Night",
 "u": "https://exotica.com/products/soft-night",
-"p": 75.0,
+"p": 83.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Exotica_Coral_Rose_Hatbox_Arrangement.png?v=1791964184&width=400",
@@ -5061,7 +5081,7 @@
 "Graduation",
 "Handheld Bouquets"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Yellow Puffs",
@@ -5101,7 +5121,7 @@
 "For Kids",
 "For Mom"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Blushing Petals",
@@ -5224,7 +5244,7 @@
 "For Him",
 "For Kids"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Champagne Drappier Brut Magnum",
@@ -5264,24 +5284,7 @@
 "in": true
 },
 {
-"t": "Hot Pink",
-"u": "https://exotica.com/products/hot-pink",
-"p": 125.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/hot-pink.jpg?v=1735637864&width=400",
-"type": "Flowers",
-"tags": [
-"For Her",
-"Fuschia",
-"Large Vase",
-"Pink",
-"Roses"
-],
-"in": true
-},
-{
-"t": "White Heart",
+"t": "100 White Roses",
 "u": "https://exotica.com/products/white-heart",
 "p": 250.0,
 "c": null,
@@ -5306,7 +5309,7 @@
 "p": 159.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Flat_pink_50_roses_black_box.jpg?v=1791892615&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Flat_pink_50_roses_white_box.png?v=1791892648&width=400",
 "type": "Flowers",
 "tags": [
 "Birthdays",
@@ -5735,7 +5738,7 @@
 "in": true
 },
 {
-"t": "3 Dozen Reds",
+"t": "36 Red Roses",
 "u": "https://exotica.com/products/3-dozen-reds",
 "p": 102.0,
 "c": null,
@@ -5767,7 +5770,7 @@
 "in": true
 },
 {
-"t": "Double Your Love",
+"t": "24 Red Roses",
 "u": "https://exotica.com/products/double-your-love",
 "p": 72.0,
 "c": null,
@@ -5799,7 +5802,7 @@
 "in": true
 },
 {
-"t": "Guardian Angel",
+"t": "50 White Roses",
 "u": "https://exotica.com/products/guardian-angel",
 "p": 125.0,
 "c": null,
@@ -5866,7 +5869,7 @@
 "in": true
 },
 {
-"t": "Count From 1 To 100",
+"t": "100 Red Roses",
 "u": "https://exotica.com/products/count-from-1-to-100",
 "p": 250.0,
 "c": null,
@@ -5882,7 +5885,7 @@
 "in": true
 },
 {
-"t": "Classic Symbol of Love",
+"t": "12 Red Roses",
 "u": "https://exotica.com/products/classic-symbol-of-love",
 "p": 42.0,
 "c": null,
@@ -6017,7 +6020,7 @@
 "in": true
 },
 {
-"t": "Rose Surprise",
+"t": "12 Mixed Roses",
 "u": "https://exotica.com/products/rose-surprise",
 "p": 42.0,
 "c": null,
@@ -6037,7 +6040,7 @@
 "in": true
 },
 {
-"t": "Rose Elegance",
+"t": "24 Mixed Roses",
 "u": "https://exotica.com/products/rose-elegance",
 "p": 79.0,
 "c": null,
@@ -6073,24 +6076,7 @@
 "in": true
 },
 {
-"t": "Hot Love",
-"u": "https://exotica.com/products/hot-love",
-"p": 219.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Hot-Love.jpg?v=1735638154&width=400",
-"type": "Flowers",
-"tags": [
-"For Her",
-"Handheld Bouquets",
-"Love & Romance",
-"Red",
-"Roses"
-],
-"in": true
-},
-{
-"t": "Dress In Red",
+"t": "50 Red Roses",
 "u": "https://exotica.com/products/dress-in-red",
 "p": 125.0,
 "c": null,

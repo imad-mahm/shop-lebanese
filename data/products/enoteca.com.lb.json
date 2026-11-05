@@ -1,7 +1,7 @@
 [
 {
 "t": "Domaine E. Guigal White Côtes du Rhône France 2024",
-"u": "https://www.enoteca.com.lb/products/01cr-0224bn13",
+"u": "https://www.enoteca.com.lb/products/domaine_e-_guigal_cotes_du_rhone_france",
 "p": 25.53,
 "c": 0.0,
 "cur": "USD",
@@ -937,9 +937,7 @@
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0754/4851/6821/files/Wine_Croix_Carbonnieux_White.webp?v=1777984621&width=400",
 "type": "WINE - IMP",
-"tags": [
-"New Arrival"
-],
+"tags": [],
 "in": false
 },
 {
@@ -1550,28 +1548,6 @@
 "in": true
 },
 {
-"t": "IXSIR Altitudes Red Lebanon Limited Edition 2022 - Reve Mjabber",
-"u": "https://www.enoteca.com.lb/products/ixsir-altitudes-red-limited-edition-reve-mjabber",
-"p": 12.21,
-"c": 0.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0754/4851/6821/files/Christmas-18.png?v=1764845974&width=400",
-"type": "WOL",
-"tags": [],
-"in": false
-},
-{
-"t": "IXSIR Altitudes Red Lebanon Limited Edition 2022 - Maya Akiki",
-"u": "https://www.enoteca.com.lb/products/ixsir-altitudes-red-limited-edition-maya-akiki",
-"p": 12.21,
-"c": 0.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0754/4851/6821/files/Christmas-19.png?v=1764845974&width=400",
-"type": "WOL",
-"tags": [],
-"in": false
-},
-{
 "t": "IXSIR Grande Réserve Red Lebanon Limited Edition 2019",
 "u": "https://www.enoteca.com.lb/products/ixsir-grande-reserve-limited-edition-2019",
 "p": 18.32,
@@ -1581,17 +1557,6 @@
 "type": "WOL",
 "tags": [],
 "in": true
-},
-{
-"t": "IXSIR Altitudes Red Lebanon Limited Edition 2022 - Luciana Hobeika",
-"u": "https://www.enoteca.com.lb/products/ixsir-altitudes-red-limited-edition-luciana-hobeika",
-"p": 12.21,
-"c": 0.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0754/4851/6821/files/Christmas-17.png?v=1764845975&width=400",
-"type": "WOL",
-"tags": [],
-"in": false
 },
 {
 "t": "Yamazaki 12 Years Old Single Malt Japanese Whisky",
@@ -8930,9 +8895,7 @@
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0754/4851/6821/files/French_Wine_Perrin_Coudoulet_de_Beaucastel.webp?v=1755519146&width=400",
 "type": "",
-"tags": [
-"30% OFF at Checkout"
-],
+"tags": [],
 "in": false
 },
 {
@@ -8977,7 +8940,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0754/4851/6821/files/FrenchWine_SainteMarie.webp?v=1755691697&width=400",
 "type": "",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Château Haut-Beauséjour Saint-Estèphe Bordeaux France 2014",
@@ -9637,7 +9600,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0754/4851/6821/files/FrenchWine_MichelReddeLaMoneyrie.webp?v=1755591939&width=400",
 "type": "",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Le Petit Baal Domaine de Baal Bekaa Valley Lebanon 2019",

@@ -250,7 +250,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/3ccf79a2-da8c-4d5e-80b0-021631addcb8.jpg?v=1793269856&width=400",
 "type": "TOP",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "G-top",
@@ -382,7 +382,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/71df7682-470e-4745-b064-299090b4e7b5.jpg?v=1792679145&width=400",
 "type": "TOP",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "G- jeans 5684",
@@ -1518,7 +1518,7 @@
 "in": true
 },
 {
-"t": "G-Wide leg jrans 890",
+"t": "G-Wide leg jeans 890",
 "u": "https://www.hashtag-lb.com/products/g-wide-leg-jrans-890",
 "p": 45.0,
 "c": null,
