@@ -1,30 +1,5 @@
 [
  {
-  "at": "2026-09-29T15:08:37+00:00",
-  "new_candidates": 0,
-  "probed": 80,
-  "new_stores": [
-   "beirut-market.com",
-   "sarahsbag.com",
-   "exotica.com",
-   "emergencyroombeirut.com",
-   "giftonclick.com",
-   "mukhisisters.com",
-   "moustaphaallabban.com"
-  ],
-  "synced": 8,
-  "sources": {
-   "seeds": 0,
-   "submissions": 0,
-   "removals": 0,
-   "hubs": 0,
-   "search": 0,
-   "commoncrawl": 0
-  },
-  "seconds": 63,
-  "total_stores": 40
- },
- {
   "at": "2026-09-29T15:12:59+00:00",
   "new_candidates": 145,
   "probed": 60,
@@ -3604,6 +3579,24 @@
    "links": 0
   },
   "seconds": 275,
+  "total_stores": 44
+ },
+ {
+  "at": "2026-11-05T08:33:47+00:00",
+  "new_candidates": 46,
+  "probed": 30,
+  "new_stores": [],
+  "synced": 8,
+  "sources": {
+   "seeds": 0,
+   "submissions": 0,
+   "removals": 0,
+   "hubs": 0,
+   "search": 0,
+   "commoncrawl": 0,
+   "links": 46
+  },
+  "seconds": 256,
   "total_stores": 44
  }
 ]

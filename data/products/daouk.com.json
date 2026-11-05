@@ -1,13 +1,26 @@
 [
 {
+"t": "F.W 3Me Wood Hair Brush 1404",
+"u": "https://daouk.com/products/f-w-3me-wood-hair-brush-1404",
+"p": 22.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/OIP.webp?v=1793784323&width=400",
+"type": "",
+"tags": [],
+"in": true
+},
+{
 "t": "SERIE EXPERT ABSOLUT REPAIR MOLECULAR PEPTIDES BONDER + 5 AMINO ACIDS RINSE-OFF SERUM",
 "u": "https://daouk.com/products/serie-expert-absolut-repair-molecular-peptides-bonder-5-amino-acids-rinse-off-serum",
 "p": 38.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/loreal-professionnel-serie-expert-absolut-repair-molecular-rinse-off-serum-250ml.png?v=1793701187&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/loreal-serie-expert-absolut-repair-molecular-rinse-off-serum-izzat-daouk-1.png?v=1793775867&width=400",
 "type": "",
-"tags": [],
+"tags": [
+"seo-rewritten"
+],
 "in": true
 },
 {
@@ -16,9 +29,11 @@
 "p": 20.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/loreal-professionnel-serie-expert-absolut-repair-molecular-shampoo-300ml.png?v=1793700742&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/loreal-serie-expert-absolut-repair-molecular-shampoo-izzat-daouk-1.png?v=1793775866&width=400",
 "type": "",
-"tags": [],
+"tags": [
+"seo-rewritten"
+],
 "in": true
 },
 {
@@ -1481,7 +1496,7 @@
 {
 "t": "JRL Professional 1040 Hair Clipper",
 "u": "https://daouk.com/products/jrl-professional-1040-hair-clipper",
-"p": 97.65,
+"p": 120.0,
 "c": 114.45,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/jrl-professional-1040-hair-clipper-izzat-daouk-1.jpg?v=1791528079&width=400",
@@ -25356,24 +25371,6 @@
 "in": true
 },
 {
-"t": "3ME Elisar Wood Hair Brush 1404",
-"u": "https://daouk.com/products/3me-elisar-1404",
-"p": 21.0,
-"c": 24.75,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/3me-elisar-wood-hair-brush-1404-izzat-daouk-1.png?v=1790541131&width=400",
-"type": "Hair Brushes & Combs",
-"tags": [
-"1404",
-"3ME WOOD",
-"F.W",
-"HAIR BRUSH 1404",
-"kb-rewritten",
-"seo-rewritten"
-],
-"in": true
-},
-{
 "t": "3ME Elisar Triangolo Hair Brush 1402",
 "u": "https://daouk.com/products/3me-elisar1402",
 "p": 16.8,
@@ -33121,7 +33118,7 @@
 "kb-rewritten",
 "seo-rewritten"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Top Fashion Hair Dye Brush Big Size",
@@ -36724,7 +36721,7 @@
 "LOREAL",
 "seo-rewritten"
 ],
-"in": true
+"in": false
 },
 {
 "t": "L'OREAL Serie Expert Vitamino Color 10 in 1 Spray Milk",

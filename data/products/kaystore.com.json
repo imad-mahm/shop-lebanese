@@ -6039,7 +6039,7 @@
 "silver",
 "washer10KG"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Kelvinator Washer 8kg 1400RPM",
@@ -10351,7 +10351,7 @@
 "Refrigerator",
 "silver"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Mirage Upright Freezer 6 Drawers",
@@ -10987,7 +10987,7 @@
 "kitchen",
 "silver"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Mirage Bottom Mount Fridge 25 CFT",
@@ -35615,7 +35615,7 @@
 "Washing",
 "White"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Campomatic Washer/Dryer 13/7kg 1400RPM",

@@ -1,5 +1,70 @@
 [
 {
+"t": "L'Oréal Paris Choose Any Micellar Water + Panorama Mascara Bundle – 25% Off + Free Face Towel",
+"u": "https://zedstorelb.com/products/20-loreal-paris-panorama-mascara-micellar-water-oil",
+"p": 24.67,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/9230e11b-832d-47b2-bb0c-0ea585696ed3.jpg?v=1793726282&width=400",
+"type": "Bundle",
+"tags": [
+"Bundlecollection"
+],
+"in": true
+},
+{
+"t": "-25% L'Oreal Paris Panorama Mascara + Infallible Concealer - Free Blender Jar",
+"u": "https://zedstorelb.com/products/20-loreal-paris-panorama-mascara-infallible-concealer",
+"p": 21.6,
+"c": 20.48,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/a392920e-46d7-4c5e-943d-faee6d961eb8.jpg?v=1793726137&width=400",
+"type": "Bundle",
+"tags": [
+"Bundlecollection",
+"ramadan2026",
+"teahersday2026"
+],
+"in": true
+},
+{
+"t": "Huda Beauty Easy Bake Duo Loose Powder",
+"u": "https://zedstorelb.com/products/huda-beauty-easy-bake-duo-loose-powder",
+"p": 55.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/ULTRA-SNATCHED-COLLECTION-PACKSHOT_CHERRYPEACH.webp?v=1793823021&width=400",
+"type": "Loose powder",
+"tags": [],
+"in": true
+},
+{
+"t": "L'Oreal Paris Blurfiller Blurring Lip Contour Liner",
+"u": "https://zedstorelb.com/products/loreal-paris-blurfiller-lip-contour-liner-pencil",
+"p": 13.8,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/L-Or-al-Paris-Paradise-Blurfiller-Blurring-Lip-Contour-Worth-It-Medium-0-21-oz_680b578b-f4a2-4bfe-a07f-1dad60b21364.8cdbcf58ccb1f3a78b0fbb810b0c436c.avif?v=1793822614&width=400",
+"type": "Lip Liner",
+"tags": [],
+"in": true
+},
+{
+"t": "La Roche-Posay EFFACLAR DUO (+) spf30 soin anti imperfections correcteur 40ml",
+"u": "https://zedstorelb.com/products/la-roche-posay-effaclar-duo-spf30-soin-anti-imperfections-correcteur-40ml",
+"p": 13.0,
+"c": 21.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/201940a7538c40fcb74dc0f20ae10b2c-Optimal.jpg?v=1700478208&width=400",
+"type": "cream",
+"tags": [
+"bestseller10",
+"La Roche-Posay EFFACLAR DUO (+) spf30 soin anti imperfections correcteur 40ml",
+"Ramadan2024"
+],
+"in": false
+},
+{
 "t": "Garnier Mist Sunscreen +  Fast Bright Serum - 25% Off - Free Pouch",
 "u": "https://zedstorelb.com/products/garnier-mist-sunscreen-fast-bright-serum-25-off-free-pouch",
 "p": 16.52,
@@ -3728,7 +3793,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/rn-image_picker_lib_temp_3d67f84e-b99f-4a29-92b1-9d47dadd8ba5.png?v=1790185225&width=400",
 "type": "musk",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Musk Vanilla - 5",
@@ -4604,7 +4669,7 @@
 "lips",
 "sephoracollection"
 ],
-"in": true
+"in": false
 },
 {
 "t": "KIKO Milano Luxurious Lashes Waterproof Mascara",
@@ -4892,7 +4957,7 @@
 "sephoracollection",
 "travel"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Makeup Revolution Ultra Cream Contour Kit - Lightening Contour F01",
@@ -5109,7 +5174,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/9364512.avif?v=1788286096&width=400",
 "type": "Primer",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "essence Say It With Juicy Little Sunshine Juicy Bomb Shiny Lipgloss - 05 Awesome Apple",
@@ -6215,7 +6280,7 @@
 "Snow-Kissed Holiday",
 "Sunset Dream Blush"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Maybelline Super Lock Brow Glue 000 Clear",
@@ -9961,7 +10026,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/03600551177861_C1N1_s02.webp?v=1781615315&width=400",
 "type": "Shampoo",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Dessange Nutri Extreme Masque Anti-Dessechement 280ml",
@@ -9983,7 +10048,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/500x500.jpg?v=1781615486&width=400",
 "type": "Mask",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Dessange Nutri-Extreme Richesse Shampooing Nutrition Intense 280ml",
@@ -11434,7 +11499,7 @@
 "tags": [
 "sephoracollection"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Makeup By Mario Soft Glow Highlighter - Pearl",
@@ -11473,7 +11538,7 @@
 "tags": [
 "sephoracollection"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Too Faced Dream A Little Dream Makeup Gift Set: Cloud Crush Blush & Kissing Jelly Lip Oil",
@@ -13356,7 +13421,7 @@
 "tags": [
 "sephoracollection"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Charlotte Tilbury Pillow Talk Mini Lip Kit",
@@ -16135,7 +16200,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/huile-scintillante-corps-et-cheveux-sugar-glow.webp?v=1768498465&width=400",
 "type": "oil",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Byphasse Sugar Glow Illuminating Body Lotion 400ML",
@@ -18490,7 +18555,7 @@
 "koreancollection",
 "koreanskincare"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Reebok Activate Your Senses Women Gift Set",
@@ -26768,7 +26833,7 @@
 "tags": [
 "sephoracollection"
 ],
-"in": false
+"in": true
 },
 {
 "t": "essie nail polish - 993 be them all",
@@ -29134,7 +29199,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/palette-16-fards-a-paupieres-ultimate-paradise-shock.jpg?v=1742901124&width=400",
 "type": "Eyeshadow",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Elf Big Mood Mascara - Deep Brown",
@@ -29974,7 +30039,7 @@
 "tags": [
 "sephoracollection"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Chupa Chups Scented Candles",
@@ -31712,7 +31777,7 @@
 "tags": [
 "koreancollection"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Ruby Beauty Glitter Eyeliner RB-3030",
@@ -33146,7 +33211,7 @@
 "tags": [
 "sephoracollection"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Huda Beauty Icy Nude PH Face Gloss",
@@ -33698,7 +33763,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/Studio-Project_13_cf3a8c6e-2ffd-401f-9499-bb55b59cf322.png?v=1731946279&width=400",
 "type": "Eyeshadow",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "NYX Ultimate Warm Neutrals Eyeshadow Palette",
@@ -37347,7 +37412,7 @@
 "Huda Beauty Easy Bake Loose Baking & Setting Powder",
 "sephoracollection"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Elf Poreless Face Primer",
@@ -38208,83 +38273,6 @@
 "type": "shower gel",
 "tags": [
 "Bath And Body Works Shower Gel 295ml -",
-"sephoracollection"
-],
-"in": false
-},
-{
-"t": "Bath And Body Works Shower Gel 295ml - Japanese Cherry Blossom",
-"u": "https://zedstorelb.com/products/bath-and-body-works-shower-gel-295ml-japanese-cherry-blossom",
-"p": 18.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/Studio-Project-2024-09-13T181339.812.jpg?v=1726240457&width=400",
-"type": "shower gel",
-"tags": [
-"Bath And Body Works Shower Gel 295ml -",
-"sephoracollection"
-],
-"in": false
-},
-{
-"t": "Bath And Body Works Shower Gel 295ml - Dream Bright",
-"u": "https://zedstorelb.com/products/bath-and-body-works-shower-gel-295ml-dream-bright",
-"p": 18.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/Studio-Project-2024-09-13T180506.357.jpg?v=1726239981&width=400",
-"type": "shower gel",
-"tags": [
-"Bath And Body Works Shower Gel 295ml -",
-"sephoracollection"
-],
-"in": false
-},
-{
-"t": "Missha Mascure Sheet Mask Ceramide",
-"u": "https://zedstorelb.com/products/missha-mascure-sheet-mask-ceramide",
-"p": 3.3,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/Untitleddesign_42.jpg?v=1726238402&width=400",
-"type": "Mask",
-"tags": [
-"dryskincollection",
-"koreancollection",
-"Missha",
-"Sensitiveskincollection",
-"sephoracollection"
-],
-"in": false
-},
-{
-"t": "Missha Mascure Sheet Mask Glutathione",
-"u": "https://zedstorelb.com/products/missha-mascure-sheet-mask-glutathione",
-"p": 3.3,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/Untitleddesign_41.jpg?v=1726238290&width=400",
-"type": "Mask",
-"tags": [
-"hyperpigmentationcollection",
-"hyperpigmentationollection",
-"koreancollection",
-"Missha",
-"sephoracollection"
-],
-"in": false
-},
-{
-"t": "Missha Mascure Sheet Mask Propolis",
-"u": "https://zedstorelb.com/products/missha-mascure-sheet-mask-propolis",
-"p": 3.3,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/Untitleddesign_40.jpg?v=1726238185&width=400",
-"type": "Mask",
-"tags": [
-"koreancollection",
-"Missha",
 "sephoracollection"
 ],
 "in": false
