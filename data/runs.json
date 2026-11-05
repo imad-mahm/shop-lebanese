@@ -1,33 +1,5 @@
 [
  {
-  "at": "2026-09-29T15:03:49+00:00",
-  "new_candidates": 0,
-  "probed": 40,
-  "new_stores": [
-   "looliacloset.com",
-   "209lebanesewine.com",
-   "enoteca.com.lb",
-   "lemikado.com",
-   "vintagewinespirits.com",
-   "sohaticare.com",
-   "themaltgallery.com",
-   "maisondesfleurslb.com",
-   "gomema.com",
-   "comostore.me"
-  ],
-  "synced": 8,
-  "sources": {
-   "seeds": 0,
-   "submissions": 0,
-   "removals": 0,
-   "hubs": 0,
-   "search": 0,
-   "commoncrawl": 0
-  },
-  "seconds": 75,
-  "total_stores": 33
- },
- {
   "at": "2026-09-29T15:08:37+00:00",
   "new_candidates": 0,
   "probed": 80,
@@ -3614,6 +3586,24 @@
    "links": 21
   },
   "seconds": 212,
+  "total_stores": 44
+ },
+ {
+  "at": "2026-11-05T01:45:50+00:00",
+  "new_candidates": 0,
+  "probed": 30,
+  "new_stores": [],
+  "synced": 8,
+  "sources": {
+   "seeds": 0,
+   "submissions": 0,
+   "removals": 0,
+   "hubs": 0,
+   "search": 0,
+   "commoncrawl": 0,
+   "links": 0
+  },
+  "seconds": 275,
   "total_stores": 44
  }
 ]

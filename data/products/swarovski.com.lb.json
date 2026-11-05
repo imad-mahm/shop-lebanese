@@ -232,9 +232,9 @@
 "Color_White",
 "Holiday_collection",
 "Material_Rhodium Plated",
-"Preorder"
+"Selection_Gift"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Millenia drop earrings, Square cut, Blue, Rhodium plated",
@@ -430,9 +430,9 @@
 "Color_White",
 "Material_Gold plated",
 "Material_Gold-tone plated",
-"Preorder"
+"Selection_Gift"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Imber Tennis necklace, Round cut, White, Rhodium plated",
@@ -1423,7 +1423,7 @@
 "Holiday",
 "Material_Rhodium plated"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Matrix drop earrings, Mixed cuts, White, Rhodium plated",
@@ -2518,10 +2518,9 @@
 "Holiday",
 "Material_Rhodium plated",
 "Material_White Rhodium Plated",
-"Preorder",
 "Selection_Gift"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Crystalline Nova rollerball pen, Black, Chrome plated",
@@ -2612,9 +2611,9 @@
 "Holiday",
 "Material_Rhodium plated",
 "Material_White Rhodium Plated",
-"Preorder"
+"Selection_Gift"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Constella bracelet, Mixed cuts, Multicolored, Gold-tone plated",
@@ -2970,7 +2969,7 @@
 "Material_Rhodium plated",
 "Material_White Rhodium Plated",
 "New Collection",
-"Preorder"
+"Selection_Gift"
 ],
 "in": false
 },
@@ -4789,7 +4788,6 @@
 "Color_Multicolored",
 "Material_Gold Plated",
 "Material_Gold-tone plated",
-"Preorder",
 "Subcategory_Tennis necklaces"
 ],
 "in": true
@@ -9003,8 +9001,7 @@
 "Category_Pen",
 "Collection_Crystalline",
 "Material_Rhodium plated",
-"Material_White Rhodium Plated",
-"Preorder"
+"Material_White Rhodium Plated"
 ],
 "in": true
 },
@@ -26588,7 +26585,7 @@
 "Color_White",
 "Material_Rose Gold Plated",
 "Material_Rose gold-tone plated",
-"Preorder"
+"Selection_Gift"
 ],
 "in": true
 },
