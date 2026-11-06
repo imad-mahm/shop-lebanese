@@ -44,7 +44,7 @@
 "in": true
 },
 {
-"t": "SKALA Hydration, Shine & Frizz Control – Buy 2 Get 2 Free",
+"t": "SKALA Hydration, Shine & Frizz Control – Buy 3 Get 3 Free",
 "u": "https://curlygirlaccessories.com/product/skala-hydration-shine-frizz-control-buy-2-get-2-free/",
 "p": 37.5,
 "c": null,
@@ -73,6 +73,17 @@
 "cur": "USD",
 "img": "https://curlygirlaccessories.com/wp-content/uploads/2026/10/img_0585-300x300.png",
 "type": "",
+"tags": [],
+"in": true
+},
+{
+"t": "Kocostar Happy Hair Flat Mask",
+"u": "https://curlygirlaccessories.com/product/kocostar-happy-hair-flat-mask/",
+"p": 7.0,
+"c": null,
+"cur": "USD",
+"img": "https://curlygirlaccessories.com/wp-content/uploads/2026/10/9e027217a736470c995cc99923835052-Original-300x300.webp",
+"type": "Hair Care, Masks &amp; Treatments",
 "tags": [],
 "in": true
 },
@@ -178,7 +189,7 @@
 "in": true
 },
 {
-"t": "Snail activating gelatin (2A-4C) LOVE CURLS 420 g",
+"t": "Activating gelatin (2A-4C) LOVE CURLS 420 g",
 "u": "https://curlygirlaccessories.com/product/snail-activating-gelatin-2a-4c-love-curls-420-g/",
 "p": 21.55,
 "c": null,
@@ -318,7 +329,7 @@
 "img": "https://curlygirlaccessories.com/wp-content/uploads/2026/10/NewList_4-300x300.webp",
 "type": "",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Aussie Repair & Reconstruct Hair Mask 300ml",
@@ -9805,7 +9816,7 @@
 "Cantu",
 "Rinse Out Conditioner"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Cantu Avocado Hydrating Shampoo",
@@ -15005,7 +15016,7 @@
 "Rosine Rashed's Favorites",
 "Spray Bottle"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Yves Rocher Sulfate-Free Anti-Dandruff Treatment Shampoo",

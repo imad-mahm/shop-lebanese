@@ -1,5 +1,100 @@
 [
 {
+"t": "Style Pro One Step Hot Air Hair Dryer and Styling Brush",
+"u": "https://daouk.com/products/one-step-hair-dryer-and-styler",
+"p": 19.99,
+"c": 39.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/style-pro-one-step-hot-air-hair-dryer-and-styling-brush-izzat-daouk-1.webp?v=1792177130&width=400",
+"type": "Hair Dryers",
+"tags": [
+"Electrics2025",
+"eleund30",
+"kb-rewritten",
+"ONE STEP HAIR DRYER",
+"seo-rewritten",
+"Style Pro Hot Air Hair Dryer Styling Brush"
+],
+"in": true
+},
+{
+"t": "URBAN CARE TWISTED CURLS HIBISCUS & SHEA BUTTER CURL TEXTURE FOAM",
+"u": "https://daouk.com/products/urban-care-twisted-curls-hibiscus-shea-butter-curl-texture-foam",
+"p": 16.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/318e4fc8-b8ee-41a1-aa57-753b62e7793d.jpg?v=1793962177&width=400",
+"type": "",
+"tags": [],
+"in": true
+},
+{
+"t": "URBAN CARE HEAT PROTECTION HAIR SPRAY (230°C)",
+"u": "https://daouk.com/products/urban-care-heat-protection-hair-spray-230-c",
+"p": 16.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/56ffc511-c361-4a70-88b2-afbf21b55215.jpg?v=1793960280&width=400",
+"type": "",
+"tags": [],
+"in": true
+},
+{
+"t": "URBAN CARE STYLE GUIDE FIBER GUM",
+"u": "https://daouk.com/products/urban-care-style-guide-fiber-gum",
+"p": 13.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/10217279-lHixJWjsrH-01_1024x1024_50112f62-c2bb-4bf2-9d28-ed525e268eac.webp?v=1793959221&width=400",
+"type": "",
+"tags": [],
+"in": true
+},
+{
+"t": "URBAN CARE GLYCOLIC RETINOL GLOSSING CARE HAIR SERUM",
+"u": "https://daouk.com/products/urban-care-glycolic-retinol-glossing-care-hair-serum",
+"p": 20.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/OIP_fa83e472-9290-4666-867f-002d2866752b.webp?v=1793890809&width=400",
+"type": "",
+"tags": [],
+"in": true
+},
+{
+"t": "URBAN CARE GLYCOLIC RETINOL CRYSTAL GLOSSING BOOSTER MILK",
+"u": "https://daouk.com/products/urban-care-glycolic-retinol-crystal-glossing-booster-milk",
+"p": 13.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/2_1.webp?v=1793890069&width=400",
+"type": "",
+"tags": [],
+"in": true
+},
+{
+"t": "URBAN CARE GLYCOLIC RETINOL GLOSSING CARE CONDITIONER",
+"u": "https://daouk.com/products/urban-care-glycolic-retinol-glossing-care-conditioner",
+"p": 13.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/1776254818917-9130-8680690712753.webp?v=1793889671&width=400",
+"type": "",
+"tags": [],
+"in": true
+},
+{
+"t": "URBAN CARE GLYCOLIC RETINOL GLOSSING CARE SHAMPOO",
+"u": "https://daouk.com/products/urban-care-glycolic-retinol-glossing-care-shampoo",
+"p": 13.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/OIP_014fc901-7fa3-4fc6-b74a-4cd753dc5994.webp?v=1793889325&width=400",
+"type": "",
+"tags": [],
+"in": true
+},
+{
 "t": "F.W 3Me Wood Hair Brush 1404",
 "u": "https://daouk.com/products/f-w-3me-wood-hair-brush-1404",
 "p": 22.0,
@@ -307,6 +402,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/htc-ef-2012-professional-hair-dryer-2200w-izzat-daouk-1.png?v=1792735447&width=400",
 "type": "HAIR DRYER",
 "tags": [
+"Black_Friday_2026",
 "hair dryer 2200",
 "hair dryer 2200W",
 "HTC",
@@ -450,7 +546,7 @@
 "kb-rewritten",
 "seo-rewritten"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Ice Platinum Laser Hair Removal System with Two Handpieces",
@@ -814,11 +910,11 @@
 "4-In-1",
 "Adjustable",
 "Bestseller",
+"BF_10",
+"Black_Friday_2026",
 "CI91Aw",
 "kb-rewritten",
-"Proluxe",
-"Remington",
-"Remington CI91Aw Proluxe 4-In-1 Adjustable Waver"
+"Proluxe"
 ],
 "in": true
 },
@@ -833,12 +929,12 @@
 "tags": [
 "And",
 "Bestseller",
+"BF_10",
 "Bht250",
+"Black_Friday_2026",
 "Body",
 "Delicates",
-"Hair",
-"kb-rewritten",
-"Remington"
+"Hair"
 ],
 "in": true
 },
@@ -992,6 +1088,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/remington-aqualisse-extreme-straightener-s7307-izzat-daouk-1.jpg?v=1792045672&width=400",
 "type": "HAIR STRAIGHTENER",
 "tags": [
+"BF_10",
+"Black_Friday_2026",
 "Hair",
 "kb-rewritten",
 "seo-rewritten"
@@ -1007,6 +1105,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/remington-cb7400-straight-brush-izzat-daouk-1.png?v=1790540598&width=400",
 "type": "Straighteners",
 "tags": [
+"BF_10",
+"Black_Friday_2026",
 "kb-rewritten",
 "Remington CB7400 Straight Brush",
 "seo-rewritten",
@@ -1026,11 +1126,11 @@
 "Air",
 "As8810",
 "Bestseller",
+"BF_10",
+"Black_Friday_2026",
 "kb-rewritten",
 "Keratin",
-"Protect",
-"Remington",
-"Rotating"
+"Protect"
 ],
 "in": true
 },
@@ -1043,6 +1143,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/remington-s5525-pro-ceramic-extra-wide-hair-straightener-izzat-daouk-1.webp?v=1792877836&width=400",
 "type": "Straighteners",
 "tags": [
+"BF_10",
+"Black_Friday_2026",
 "kb-rewritten",
 "Remington",
 "Remington Pro Ceramic Extra Wide Straightener",
@@ -1258,6 +1360,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/remington-as8901-hydraluxe-volumising-air-styler-izzat-daouk-1.png?v=1790535261&width=400",
 "type": "styling tools",
 "tags": [
+"BF_10",
+"Black_Friday_2026",
 "kb-rewritten",
 "seo-rewritten"
 ],
@@ -1272,13 +1376,14 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/remington-s1a100-mystylist-straightener-izzat-daouk-1.webp?v=1792877635&width=400",
 "type": "Straighteners",
 "tags": [
+"BF_10",
+"Black_Friday_2026",
 "kb-rewritten",
 "My Stylist",
 "Remington",
 "S1A100",
 "seo-rewritten",
-"Straightener",
-"Stylist"
+"Straightener"
 ],
 "in": true
 },
@@ -1306,6 +1411,8 @@
 "type": "Straighteners",
 "tags": [
 "Bestseller",
+"BF_10",
+"Black_Friday_2026",
 "HAIR STRAIGHTENER",
 "Hair Styling",
 "kb-rewritten",
@@ -1323,13 +1430,14 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/remington-pro-air-shine-hair-dryer-d5215-2300w-izzat-daouk-1.webp?v=1792877635&width=400",
 "type": "Dryers",
 "tags": [
+"BF_10",
+"Black_Friday_2026",
 "D5215",
 "Dryer",
 "kb-rewritten",
 "Pro-Air",
 "Remington",
-"seo-rewritten",
-"Shine"
+"seo-rewritten"
 ],
 "in": true
 },
@@ -1342,14 +1450,14 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/remington-style-edition-straightener-gift-set-s3505gp-izzat-daouk-1.webp?v=1792045642&width=400",
 "type": "Gift Sets",
 "tags": [
+"BF_10",
+"Black_Friday_2026",
 "Edition",
 "Gift",
 "kb-rewritten",
 "Remington",
 "S3505Gp",
-"seo-rewritten",
-"Set",
-"Straightener"
+"seo-rewritten"
 ],
 "in": true
 },
@@ -1690,12 +1798,13 @@
 "type": "Straighteners",
 "tags": [
 "230",
+"BF_10",
+"Black_Friday_2026",
 "Ceramic",
 "kb-rewritten",
 "Remington",
 "S3500",
-"seo-rewritten",
-"Straight"
+"seo-rewritten"
 ],
 "in": true
 },
@@ -1880,12 +1989,12 @@
 "tags": [
 "ANI YELLOW",
 "ANTI ORANGE",
+"BF_30",
+"Black_Friday_2026",
 "BLUE SHAMPOO",
 "BRASSY HAIR",
 "color care",
-"Hair",
-"Hair Care",
-"kb-rewritten"
+"Hair"
 ],
 "in": true
 },
@@ -2093,11 +2202,11 @@
 "Beard",
 "beard dye",
 "Beauty",
+"BF_15",
+"Black_Friday_2026",
 "COVER GREY",
 "grey beard",
-"grey hair",
-"Hair",
-"Hair Care"
+"grey hair"
 ],
 "in": true
 },
@@ -2112,12 +2221,12 @@
 "tags": [
 "beard coloration",
 "beard dye",
+"BF_15",
+"Black_Friday_2026",
 "coloration",
 "COVER GREY",
 "dye",
-"grey beard",
-"grey hair",
-"Hair"
+"grey beard"
 ],
 "in": true
 },
@@ -2131,13 +2240,13 @@
 "type": "Coloration",
 "tags": [
 "Beard",
+"BF_15",
+"Black_Friday_2026",
 "Brown",
 "E1105",
 "kb-rewritten",
 "Light",
-"M30",
-"Medium",
-"Medium Brown"
+"M30"
 ],
 "in": false
 },
@@ -2152,12 +2261,12 @@
 "tags": [
 "Beard",
 "beard dye",
+"BF_15",
+"Black_Friday_2026",
 "Hair",
 "Hair Care",
 "Hair Coloration",
-"hair dye",
-"haircare",
-"JUST FOR MEN"
+"hair dye"
 ],
 "in": false
 },
@@ -2172,12 +2281,12 @@
 "tags": [
 "Beard",
 "beard coloration",
+"BF_15",
+"Black_Friday_2026",
 "coloration",
 "DARK BROWN",
 "Hair",
-"Hair Care",
-"Hair Coloration",
-"JUST FOR MEN"
+"Hair Care"
 ],
 "in": true
 },
@@ -2191,13 +2300,13 @@
 "type": "Hair Coloration",
 "tags": [
 "Beard",
+"BF_15",
+"Black_Friday_2026",
 "grey",
 "grey beard",
 "grey hair",
 "Hair",
-"Hair Care",
-"Hair Coloration",
-"JUST FOR MEN"
+"Hair Care"
 ],
 "in": true
 },
@@ -2211,13 +2320,13 @@
 "type": "Hair Coloration",
 "tags": [
 "Beard",
+"BF_15",
+"Black_Friday_2026",
 "coloration for men",
 "COVER GREY",
 "darkest brown",
 "dye for men",
-"grey",
-"grey beard",
-"grey cover"
+"grey"
 ],
 "in": true
 },
@@ -2230,6 +2339,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/solis-swiss-perfectio-hair-dryer-black-izzat-daouk-1.png?v=1792171550&width=400",
 "type": "Hair Dryers",
 "tags": [
+"BF_10",
+"Black_Friday_2026",
 "kb-rewritten",
 "seo-rewritten"
 ],
@@ -2244,6 +2355,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/solis-swiss-perfection-hair-dryer-black-type-440-izzat-daouk-1.png?v=1792171520&width=400",
 "type": "Hair Dryers",
 "tags": [
+"BF_10",
+"Black_Friday_2026",
 "kb-rewritten",
 "seo-rewritten"
 ],
@@ -2258,6 +2371,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/solis-swiss-perfection-360-ionic-pro-hair-dryer-silver-izzat-daouk-1.jpg?v=1792171520&width=400",
 "type": "Hair Dryers",
 "tags": [
+"BF_10",
+"Black_Friday_2026",
 "kb-rewritten",
 "seo-rewritten"
 ],
@@ -2273,6 +2388,8 @@
 "type": "Hair Dryers",
 "tags": [
 "967.68",
+"BF_10",
+"Black_Friday_2026",
 "kb-rewritten",
 "seo-rewritten",
 "Softstyler",
@@ -2290,6 +2407,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/products/solis-fast-dry-hair-dryer-silver-381-izzat-daouk-1.jpg?v=1792171520&width=400",
 "type": "Hair Dryers",
 "tags": [
+"BF_10",
+"Black_Friday_2026",
 "kb-rewritten",
 "seo-rewritten"
 ],
@@ -2304,6 +2423,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/products/solis-fast-dry-hair-dryer-black-381-izzat-daouk-1.jpg?v=1792171520&width=400",
 "type": "Hair Dryers",
 "tags": [
+"BF_10",
+"Black_Friday_2026",
 "kb-rewritten",
 "seo-rewritten"
 ],
@@ -4401,6 +4522,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/vitalitys-coloration-dye-bowl-black-izzat-daouk-1.jpg?v=1790505983&width=400",
 "type": "",
 "tags": [
+"Black_Friday_2026",
 "kb-rewritten",
 "seo-rewritten",
 "volume_deal"
@@ -4416,6 +4538,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-sun-care-set-izzat-daouk-1.jpg?v=1792177657&width=400",
 "type": "Hair Oil Set",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "kb-rewritten",
 "seo-rewritten"
 ],
@@ -5406,6 +5530,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/remington-pro-soft-curl-titanium-ceramic-tong-25mm-izzat-daouk-1.png?v=1792045670&width=400",
 "type": "HAIR CURLER",
 "tags": [
+"BF_10",
+"Black_Friday_2026",
 "Curling Tongs",
 "kb-rewritten",
 "My Stylist",
@@ -5527,6 +5653,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/keplex-semi-permanent-foam-hair-color-metallic-silver-izzat-daouk-1.jpg?v=1790537520&width=400",
 "type": "Hair Color",
 "tags": [
+"BF_30",
+"Black_Friday_2026",
 "kb-rewritten",
 "seo-rewritten",
 "volume_deal"
@@ -5572,6 +5700,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/y-h-colored-hair-clips-12pcs-izzat-daouk-1.jpg?v=1791532602&width=400",
 "type": "Hair Clippers",
 "tags": [
+"Black_Friday_2026",
 "kb-rewritten",
 "seo-rewritten"
 ],
@@ -5600,6 +5729,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/takof-makeup-corrector-swabs-50-pieces-izzat-daouk-1.jpg?v=1791963915&width=400",
 "type": "make-up",
 "tags": [
+"Black_Friday_2026",
 "kb-rewritten",
 "seo-rewritten"
 ],
@@ -5776,6 +5906,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/vitalitys-alligator-hair-clips-4-pieces-izzat-daouk-1.webp?v=1792878579&width=400",
 "type": "HAIR CLIPS",
 "tags": [
+"Black_Friday_2026",
 "kb-rewritten",
 "Mothers Day 2026",
 "seo-rewritten",
@@ -6002,6 +6133,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/nail-clipper-grooming-kit-9-pcs-izzat-daouk-1.jpg?v=1791527927&width=400",
 "type": "nail kit",
 "tags": [
+"Black_Friday_2026",
 "kb-rewritten",
 "Mothers Day 2026",
 "seo-rewritten"
@@ -6090,14 +6222,14 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/just-for-men-control-gx-gray-reducing-shampoo-izzat-daouk-1.webp?v=1792878399&width=400",
 "type": "HAIR SHAMPOO",
 "tags": [
+"BF_15",
+"Black_Friday_2026",
 "CGX",
 "GREY-REDUCING",
 "JUST FOR MEN",
 "kb-rewritten",
 "men care",
-"seo-rewritten",
-"Shampoo",
-"volume_deal"
+"seo-rewritten"
 ],
 "in": true
 },
@@ -7580,13 +7712,14 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-pink-grapefruit-and-ginger-thickening-hair-serum-75ml-izzat-daouk-1.webp?v=1790537519&width=400",
 "type": "Hair Serum",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "Hair",
 "Hair Care",
 "HAIR SERUM",
 "kb-rewritten",
 "seo-rewritten",
-"Serum",
-"urban care"
+"Serum"
 ],
 "in": true
 },
@@ -7714,13 +7847,14 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/sans-soucis-beauty-elixir-smoothing-aha-and-bha-serum-15ml-izzat-daouk-1.png?v=1792131092&width=400",
 "type": "Face Serum",
 "tags": [
+"BF_40",
+"Black_Friday_2026",
 "Cleansing",
 "Foam",
 "kb-rewritten",
 "newnewsoucis",
 "Sans",
-"seo-rewritten",
-"Soucis"
+"seo-rewritten"
 ],
 "in": true
 },
@@ -7786,13 +7920,14 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-twisted-curls-leave-in-conditioner-with-uv-protection-200ml-izzat-daouk-1.png?v=1790521421&width=400",
 "type": "HAIR",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "Hair",
 "Hair Care",
 "HAIR LEAVE-IN",
 "kb-rewritten",
 "LEAVE-IN CONDITIONER",
-"seo-rewritten",
-"urban care"
+"seo-rewritten"
 ],
 "in": true
 },
@@ -7805,6 +7940,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-twisted-curls-oil-in-cream-conditioner-157ml-izzat-daouk-1.webp?v=1790521279&width=400",
 "type": "Leave-in Conditioner",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "Hair",
 "Hair Care",
 "Hair Conditioner",
@@ -7837,6 +7974,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/vnty-makeup-box-model-5-izzat-daouk-1.png?v=1792177777&width=400",
 "type": "MakeUp Organizer",
 "tags": [
+"Black_Friday_2026",
 "kb-rewritten",
 "seo-rewritten"
 ],
@@ -8122,6 +8260,7 @@
 "type": "Makeup Sponges",
 "tags": [
 "beauty sponge",
+"Black_Friday_2026",
 "BLENDING SPONGE",
 "CALA",
 "kb-rewritten",
@@ -8157,6 +8296,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/cala-blending-sponge-and-holder-purple-slant-izzat-daouk-1.jpg?v=1790752356&width=400",
 "type": "Makeup Sponges",
 "tags": [
+"Black_Friday_2026",
 "kb-rewritten",
 "MAKEUP SPONGES AND HOLDER",
 "newnewcala",
@@ -8173,6 +8313,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/cala-blending-sponge-and-holder-mint-teardrop-izzat-daouk-1.jpg?v=1790752356&width=400",
 "type": "Makeup Sponges",
 "tags": [
+"Black_Friday_2026",
 "kb-rewritten",
 "newnewcala",
 "seo-rewritten"
@@ -8188,6 +8329,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/sans-soucis-rose-quartz-facial-roller-izzat-daouk-1.png?v=1792131093&width=400",
 "type": "Skin Care Devices",
 "tags": [
+"BF_40",
+"Black_Friday_2026",
 "face roller",
 "kb-rewritten",
 "massage device",
@@ -8208,12 +8351,12 @@
 "tags": [
 "200ml",
 "ALL SKIN TYPES",
+"BF_40",
+"Black_Friday_2026",
 "Cleansing",
 "kb-rewritten",
 "newnewsoucis",
-"Sans",
-"seo-rewritten",
-"Soucis"
+"Sans"
 ],
 "in": true
 },
@@ -8227,13 +8370,13 @@
 "type": "Face Wash & Cleansers",
 "tags": [
 "100ml",
+"BF_40",
+"Black_Friday_2026",
 "Cleansing",
 "Foam",
 "kb-rewritten",
 "newnewsoucis",
-"Sans",
-"seo-rewritten",
-"Soucis"
+"Sans"
 ],
 "in": true
 },
@@ -8246,13 +8389,14 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/sans-soucis-cleansing-milk-izzat-daouk-1.jpg?v=1792131061&width=400",
 "type": "Face Wash & Cleansers",
 "tags": [
+"BF_40",
+"Black_Friday_2026",
 "Cleansing",
 "kb-rewritten",
 "Milk",
 "newnewsoucis",
 "Sans",
-"seo-rewritten",
-"Soucis"
+"seo-rewritten"
 ],
 "in": true
 },
@@ -8265,13 +8409,14 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/sans-soucis-cleansing-facial-peeling-76g-izzat-daouk-1.png?v=1792131091&width=400",
 "type": "facial peeling",
 "tags": [
+"BF_40",
+"Black_Friday_2026",
 "Cleansing",
 "Foam",
 "kb-rewritten",
 "newnewsoucis",
 "Sans",
-"seo-rewritten",
-"Soucis"
+"seo-rewritten"
 ],
 "in": true
 },
@@ -8285,13 +8430,13 @@
 "type": "Skin Care",
 "tags": [
 "24-h",
+"BF_40",
+"Black_Friday_2026",
 "Care",
 "kb-rewritten",
 "Luxurious",
 "newnewsoucis",
-"Performance",
-"Sans",
-"seo-rewritten"
+"Performance"
 ],
 "in": true
 },
@@ -8305,13 +8450,13 @@
 "type": "Skin Care",
 "tags": [
 "50ml",
+"BF_40",
+"Black_Friday_2026",
 "Care",
 "Clarifying",
 "Combination",
 "Daily",
-"For",
-"kb-rewritten",
-"Lemon"
+"For"
 ],
 "in": true
 },
@@ -8324,14 +8469,14 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/sans-soucis-daily-vitamins-papaya-multi-protection-care-50ml-izzat-daouk-1.png?v=1792131091&width=400",
 "type": "Skin Care",
 "tags": [
+"BF_40",
+"Black_Friday_2026",
 "Care-50ml",
 "Daily",
 "kb-rewritten",
 "Multi",
 "newnewsoucis",
-"Papaya",
-"Protection",
-"Sans"
+"Papaya"
 ],
 "in": true
 },
@@ -8345,6 +8490,8 @@
 "type": "Skin Care",
 "tags": [
 "Beauty",
+"BF_40",
+"Black_Friday_2026",
 "kb-rewritten",
 "newnewsoucis",
 "sans soucis",
@@ -8362,14 +8509,14 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/products/sans-soucis-daily-vitamins-multi-fruit-oil-serum-30ml-izzat-daouk-1.jpg?v=1792131091&width=400",
 "type": "Face Serum",
 "tags": [
+"BF_40",
+"Black_Friday_2026",
 "Daily",
 "Fruit",
 "kb-rewritten",
 "Multi",
 "newnewsoucis",
-"Oil",
-"Sans",
-"seo-rewritten"
+"Oil"
 ],
 "in": true
 },
@@ -8382,6 +8529,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/sans-soucis-beauty-elixir-sun-protection-serum-izzat-daouk-1.jpg?v=1792131104&width=400",
 "type": "Skin Care",
 "tags": [
+"BF_40",
+"Black_Friday_2026",
 "kb-rewritten",
 "newnewsoucis",
 "sans soucis",
@@ -8400,14 +8549,14 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/products/sans-soucis-daily-vitamins-apricot-dd-cream-33g-izzat-daouk-1.jpg?v=1792131091&width=400",
 "type": "Skin Care",
 "tags": [
+"BF_40",
+"Black_Friday_2026",
 "CC",
 "Cream",
 "Daily",
 "For",
 "kb-rewritten",
-"LSF25",
-"newnewsoucis",
-"Sans"
+"LSF25"
 ],
 "in": true
 },
@@ -8424,10 +8573,10 @@
 "50ml",
 "AQUA",
 "BENEFITS",
+"BF_40",
+"Black_Friday_2026",
 "Care",
-"kb-rewritten",
-"newnewsoucis",
-"SANS"
+"kb-rewritten"
 ],
 "in": true
 },
@@ -8440,14 +8589,14 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/sans-soucis-aqua-benefits-eye-care-15ml-izzat-daouk-1.png?v=1792131093&width=400",
 "type": "Eye Cream",
 "tags": [
+"BF_40",
+"Black_Friday_2026",
 "Eye",
 "Eye care",
 "EYE CREAM",
 "Eyes",
 "kb-rewritten",
-"Moisturizer",
-"moisturizers",
-"newnewsoucis"
+"Moisturizer"
 ],
 "in": true
 },
@@ -8462,12 +8611,12 @@
 "tags": [
 "15ml",
 "Beauty",
+"BF_40",
+"Black_Friday_2026",
 "Elixirs",
 "kb-rewritten",
 "newnewsoucis",
-"Oil",
-"Overnight",
-"Retinol"
+"Oil"
 ],
 "in": true
 },
@@ -8483,11 +8632,11 @@
 "15ml",
 "2%",
 "Beauty",
+"BF_40",
+"Black_Friday_2026",
 "Elixirs",
 "Hyaluronic",
-"kb-rewritten",
-"newnewsoucis",
-"Sans"
+"kb-rewritten"
 ],
 "in": true
 },
@@ -8501,13 +8650,13 @@
 "type": "Skin Care",
 "tags": [
 "Beauty",
+"BF_40",
+"Black_Friday_2026",
 "kb-rewritten",
 "newnewsoucis",
 "Sans",
 "sans soucis",
-"seo-rewritten",
-"Skin",
-"skin care"
+"seo-rewritten"
 ],
 "in": true
 },
@@ -8520,13 +8669,14 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/sans-soucis-deep-moist-depot-anti-age-2-phase-30ml-izzat-daouk-1.jpg?v=1792131092&width=400",
 "type": "Moisturizer",
 "tags": [
+"BF_40",
+"Black_Friday_2026",
 "kb-rewritten",
 "Moisturizer",
 "moisturizers",
 "newnewsoucis",
 "Sans",
-"seo-rewritten",
-"Soucis"
+"seo-rewritten"
 ],
 "in": true
 },
@@ -8541,12 +8691,12 @@
 "tags": [
 "10",
 "49G",
+"BF_40",
+"Black_Friday_2026",
 "Care",
 "Day",
 "Deep",
-"Depot",
-"kb-rewritten",
-"Moist"
+"Depot"
 ],
 "in": true
 },
@@ -8560,13 +8710,13 @@
 "type": "Skin Care",
 "tags": [
 "50ml",
+"BF_40",
 "Black",
+"Black_Friday_2026",
 "Care",
 "Deep",
 "Depot",
-"kb-rewritten",
-"Moist",
-"newnewsoucis"
+"kb-rewritten"
 ],
 "in": true
 },
@@ -8579,13 +8729,14 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/sans-soucis-caviar-and-gold-24h-care-rich-cream-50ml-izzat-daouk-1.jpg?v=1792131104&width=400",
 "type": "Moisturizer",
 "tags": [
+"BF_40",
+"Black_Friday_2026",
 "kb-rewritten",
 "Moisturizer",
 "moisturizers",
 "newnewsoucis",
 "Sans",
-"seo-rewritten",
-"Soucis"
+"seo-rewritten"
 ],
 "in": true
 },
@@ -8598,13 +8749,14 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/sans-soucis-beauty-elixir-anti-age-lifting-serum-15ml-izzat-daouk-1.png?v=1792131092&width=400",
 "type": "Face Serum",
 "tags": [
+"BF_40",
+"Black_Friday_2026",
 "Cleansing",
 "Foam",
 "kb-rewritten",
 "newnewsoucis",
 "Sans",
-"seo-rewritten",
-"Soucis"
+"seo-rewritten"
 ],
 "in": true
 },
@@ -10679,6 +10831,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/callista-color-up-nail-polish-252-whatever-it-takes-izzat-daouk-1.jpg?v=1790801601&width=400",
 "type": "Nail Polish",
 "tags": [
+"Black_Friday_2026",
 "CALLISTA",
 "kb-rewritten",
 "seo-rewritten"
@@ -10694,6 +10847,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/callista-color-up-nail-polish-196-follow-you-izzat-daouk-1.jpg?v=1790801601&width=400",
 "type": "Nail Polish",
 "tags": [
+"Black_Friday_2026",
 "CALLISTA",
 "kb-rewritten",
 "seo-rewritten"
@@ -10709,6 +10863,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/callista-color-up-nail-polish-337-begin-again-izzat-daouk-1.jpg?v=1790540966&width=400",
 "type": "Nail Polish",
 "tags": [
+"BF_30",
+"Black_Friday_2026",
 "CALLISTA",
 "kb-rewritten",
 "seo-rewritten"
@@ -10724,6 +10880,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/callista-color-up-nail-polish-307-fairy-dust-izzat-daouk-1.jpg?v=1790537384&width=400",
 "type": "Nail Polish",
 "tags": [
+"BF_30",
+"Black_Friday_2026",
 "CALLISTA",
 "kb-rewritten",
 "seo-rewritten"
@@ -10739,6 +10897,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/callista-color-up-nail-polish-353-violet-hill-izzat-daouk-1.jpg?v=1790801601&width=400",
 "type": "Nail Polish",
 "tags": [
+"Black_Friday_2026",
 "CALLISTA",
 "kb-rewritten",
 "seo-rewritten"
@@ -10754,6 +10913,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/callista-color-up-nail-polish-354-venice-queen-izzat-daouk-1.jpg?v=1790523212&width=400",
 "type": "Nail Polish",
 "tags": [
+"Black_Friday_2026",
 "CALLISTA",
 "kb-rewritten",
 "seo-rewritten"
@@ -10974,6 +11134,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/callista-one-for-all-eyes-lips-and-cheeks-izzat-daouk-1.png?v=1790801600&width=400",
 "type": "Lipstick",
 "tags": [
+"BF_30",
+"Black_Friday_2026",
 "CALLISTA",
 "kb-rewritten",
 "seo-rewritten"
@@ -11346,14 +11508,14 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-argan-oil-and-keratin-oil-in-cream-leave-in-conditioner-200ml-izzat-daouk-1.jpg?v=1790540966&width=400",
 "type": "Leave-in Conditioner",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "Hair",
 "Hair Care",
 "Hair Conditioner",
 "kb-rewritten",
 "LEAVE-IN",
-"LEAVE-IN CONDITIONER",
-"seo-rewritten",
-"urban care"
+"LEAVE-IN CONDITIONER"
 ],
 "in": true
 },
@@ -11366,6 +11528,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-hyaluronic-acid-and-collagen-intense-midnight-hair-mask-230ml-izzat-daouk-1.jpg?v=1792177592&width=400",
 "type": "Hair Masks",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "HAIR MASK",
 "kb-rewritten",
 "seo-rewritten"
@@ -11381,6 +11545,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-sea-minerals-body-wash-500ml-izzat-daouk-1.jpg?v=1792177657&width=400",
 "type": "Body Care",
 "tags": [
+"Black_Friday_2026",
 "BODY WASH",
 "kb-rewritten",
 "seo-rewritten"
@@ -11396,6 +11561,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-seaweed-citrus-body-lotion-250ml-izzat-daouk-1.png?v=1792177642&width=400",
 "type": "Body Lotion",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "body care",
 "body lotion",
 "kb-rewritten",
@@ -11413,6 +11580,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-dry-shampoo-sparkling-lychee-breeze-200ml-izzat-daouk-1.png?v=1792177641&width=400",
 "type": "HAIR CARE",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "DRY SHAMPOO",
 "kb-rewritten",
 "seo-rewritten"
@@ -11428,6 +11597,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-dry-shampoo-peonies-and-roses-bouquet-200ml-izzat-daouk-1.png?v=1792177641&width=400",
 "type": "HAIR CARE",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "DRY SHAMPOO",
 "kb-rewritten",
 "seo-rewritten"
@@ -11443,6 +11614,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-kind-rituals-rose-water-chamomile-hair-mask-230ml-izzat-daouk-1.jpg?v=1792177641&width=400",
 "type": "HAIR CARE",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "HAIR MASK",
 "kb-rewritten",
 "seo-rewritten"
@@ -11458,6 +11631,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-kind-rituals-rose-water-chamomile-hair-serum-100ml-izzat-daouk-1.jpg?v=1792177641&width=400",
 "type": "HAIR CARE",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "HAIR SERUM",
 "kb-rewritten",
 "seo-rewritten"
@@ -11473,6 +11648,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-kind-rituals-rose-water-chamomile-conditioner-250ml-izzat-daouk-1.jpg?v=1792177641&width=400",
 "type": "HAIR CARE",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "Hair Conditioner",
 "kb-rewritten",
 "seo-rewritten"
@@ -11488,6 +11665,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-kind-rituals-rose-water-chamomile-shampoo-400ml-izzat-daouk-1.jpg?v=1792177641&width=400",
 "type": "HAIR CARE",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "Hair Shampoo",
 "kb-rewritten",
 "seo-rewritten"
@@ -11503,6 +11682,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-kind-rituals-quinoa-and-almond-hair-mask-230ml-izzat-daouk-1.jpg?v=1792177641&width=400",
 "type": "HAIR CARE",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "HAIR MASK",
 "kb-rewritten",
 "seo-rewritten"
@@ -11518,6 +11699,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-kind-rituals-quinoa-and-almond-conditioner-250ml-izzat-daouk-1.jpg?v=1792177641&width=400",
 "type": "HAIR CARE",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "Hair Conditioner",
 "kb-rewritten",
 "seo-rewritten"
@@ -11533,6 +11716,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-brazilian-keratin-intense-hair-mask-230ml-izzat-daouk-1.jpg?v=1792177641&width=400",
 "type": "HAIR CARE",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "HAIR MASK",
 "kb-rewritten",
 "seo-rewritten"
@@ -11548,6 +11733,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-brazilian-keratin-conditioner-200ml-izzat-daouk-1.jpg?v=1790540647&width=400",
 "type": "HAIR CARE",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "Hair Conditioner",
 "kb-rewritten",
 "seo-rewritten"
@@ -11563,6 +11750,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-rosemary-and-clove-strengthening-hair-treatment-milk-150ml-izzat-daouk-1.jpg?v=1792177641&width=400",
 "type": "HAIR CARE",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "HAIR TREATMENT",
 "kb-rewritten",
 "seo-rewritten"
@@ -11578,6 +11767,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-rosemary-and-clove-strengthening-hair-water-200ml-izzat-daouk-1.jpg?v=1792177641&width=400",
 "type": "HAIR CARE",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "Hair Care",
 "kb-rewritten",
 "seo-rewritten"
@@ -11593,6 +11784,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-rosemary-and-clove-strengthening-shampoo-350ml-izzat-daouk-1.jpg?v=1790535423&width=400",
 "type": "HAIR CARE",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "Hair Shampoo",
 "kb-rewritten",
 "seo-rewritten"
@@ -11608,6 +11801,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-rosemary-and-clove-strengthening-hair-oil-100ml-izzat-daouk-1.jpg?v=1790535327&width=400",
 "type": "HAIR CARE",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "hair oil",
 "kb-rewritten",
 "seo-rewritten"
@@ -11623,6 +11818,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-no-3-apple-cider-anti-dandruff-shampoo-350ml-izzat-daouk-1.jpg?v=1790540647&width=400",
 "type": "HAIR CARE",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "Hair Shampoo",
 "kb-rewritten",
 "seo-rewritten"
@@ -11638,6 +11835,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-no-2-apple-cider-hair-tonic-200ml-izzat-daouk-1.jpg?v=1792177641&width=400",
 "type": "HAIR CARE",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "Hair Care",
 "kb-rewritten",
 "seo-rewritten"
@@ -11653,6 +11852,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-no-1-apple-cider-peeling-shampoo-200ml-izzat-daouk-1.jpg?v=1792177607&width=400",
 "type": "HAIR CARE",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "Hair Shampoo",
 "kb-rewritten",
 "seo-rewritten"
@@ -11668,6 +11869,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-pure-coconut-and-aloe-vera-pre-hair-mask-50ml-izzat-daouk-1.jpg?v=1792177607&width=400",
 "type": "HAIR CARE",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "HAIR MASK",
 "kb-rewritten",
 "seo-rewritten"
@@ -11683,6 +11886,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-pure-coconut-and-aloe-vera-serum-75ml-izzat-daouk-1.jpg?v=1792177607&width=400",
 "type": "HAIR CARE",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "HAIR SERUM",
 "kb-rewritten",
 "seo-rewritten"
@@ -11698,6 +11903,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-pure-coconut-and-aloe-vera-leave-in-conditioner-200ml-izzat-daouk-1.jpg?v=1790521456&width=400",
 "type": "HAIR CARE",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "kb-rewritten",
 "LEAVE-IN CONDITIONER",
 "seo-rewritten"
@@ -11713,6 +11920,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-pure-coconut-and-aloe-vera-conditioner-250ml-izzat-daouk-1.jpg?v=1792177607&width=400",
 "type": "HAIR CARE",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "Hair Conditioner",
 "kb-rewritten",
 "seo-rewritten"
@@ -11728,6 +11937,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-pure-coconut-and-aloe-vera-shampoo-250ml-izzat-daouk-1.jpg?v=1792177606&width=400",
 "type": "HAIR CARE",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "Hair Shampoo",
 "kb-rewritten",
 "seo-rewritten"
@@ -11743,6 +11954,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-twisted-curls-shea-butter-micellar-shampoo-340ml-izzat-daouk-1.png?v=1792177606&width=400",
 "type": "HAIR SHAMPOO",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "Hair Shampoo",
 "kb-rewritten",
 "seo-rewritten"
@@ -11758,6 +11971,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-quinoa-and-almond-oil-hair-tonic-200ml-izzat-daouk-1.jpg?v=1792177606&width=400",
 "type": "HAIR CARE",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "hair oil",
 "kb-rewritten",
 "seo-rewritten"
@@ -11773,6 +11988,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-brazilian-keratin-shampoo-350ml-izzat-daouk-1.jpg?v=1790540775&width=400",
 "type": "HAIR CARE",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "Hair Shampoo",
 "kb-rewritten",
 "seo-rewritten"
@@ -11788,6 +12005,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-kind-rituals-quinoa-and-almond-shampoo-400ml-izzat-daouk-1.jpg?v=1792177606&width=400",
 "type": "HAIR CARE",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "Hair Shampoo",
 "kb-rewritten",
 "seo-rewritten"
@@ -11803,6 +12022,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-brazilian-keratin-hair-serum-izzat-daouk-1.jpg?v=1792177606&width=400",
 "type": "HAIR CARE",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "kb-rewritten",
 "seo-rewritten",
 "Serum"
@@ -11818,6 +12039,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-brazilian-keratin-straightening-cure-izzat-daouk-1.jpg?v=1792177606&width=400",
 "type": "HAIR CARE",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "kb-rewritten",
 "Keratin",
 "seo-rewritten"
@@ -13188,6 +13411,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/Sedb70307f24c437a8d1df6ca4523fb665_jpg_220x220q75_jpg.avif?v=1763078825&width=400",
 "type": "MakeUp Organizer",
 "tags": [
+"Black_Friday_2026",
 "kb-rewritten",
 "seo-rewritten"
 ],
@@ -13230,6 +13454,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/vnty-makeup-box-model-6-izzat-daouk-1.jpg?v=1792177763&width=400",
 "type": "MakeUp Organizer",
 "tags": [
+"Black_Friday_2026",
 "kb-rewritten",
 "seo-rewritten"
 ],
@@ -13258,6 +13483,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/vnty-makeup-box-with-mirror-model-2-izzat-daouk-1.jpg?v=1790540582&width=400",
 "type": "MakeUp Organizer",
 "tags": [
+"Black_Friday_2026",
 "kb-rewritten",
 "seo-rewritten"
 ],
@@ -13272,6 +13498,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/vnty-makeup-organizer-white-izzat-daouk-1.jpg?v=1790540613&width=400",
 "type": "MakeUp Organizer",
 "tags": [
+"Black_Friday_2026",
 "kb-rewritten",
 "MAkeup Organizer",
 "seo-rewritten"
@@ -14590,13 +14817,13 @@
 "type": "Coloration",
 "tags": [
 "Beauty",
+"BF_30",
+"Black_Friday_2026",
 "Bleaching",
 "Extra Strong Hair",
 "Hair Bleaching Powder",
 "kb-rewritten",
-"keplex",
-"seo-rewritten",
-"volume_deal"
+"keplex"
 ],
 "in": false
 },
@@ -14955,6 +15182,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/Fairy_Land_1_df37f75e-bb46-4ec1-8817-58068baa38ed.jpg?v=1771681042&width=400",
 "type": "",
 "tags": [
+"BF_30",
+"Black_Friday_2026",
 "bogos-gift"
 ],
 "in": true
@@ -15964,7 +16193,7 @@
 {
 "t": "Lanvin L'Homme Sport Eau de Toilette 100ml",
 "u": "https://daouk.com/products/lanvin-lhomme-sport-eau-de-toilette-100ml",
-"p": 60.64,
+"p": 66.64,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/lanvin-lhomme-sport-eau-de-toilette-100ml-izzat-daouk-1.jpg?v=1790521106&width=400",
@@ -19485,7 +19714,7 @@
 {
 "t": "Parfums de Marly Delina Exclusive Eau de Parfum 75ml",
 "u": "https://daouk.com/products/pdm-delina-exclusive-f-edp-75ml",
-"p": 542.43,
+"p": 462.43,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/parfums-de-marly-delina-exclusive-eau-de-parfum-75ml-izzat-daouk-1.webp?v=1790540859&width=400",
@@ -20266,6 +20495,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/german-water-sprayer-27-240-izzat-daouk-1.jpg?v=1790523061&width=400",
 "type": "",
 "tags": [
+"Black_Friday_2026",
 "kb-rewritten",
 "seo-rewritten"
 ],
@@ -21235,6 +21465,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/download_f76cbb58-a572-4bcc-9e25-68540cbfeeb5.jpg?v=1771680228&width=400",
 "type": "Nail Polishes",
 "tags": [
+"BF_30",
+"Black_Friday_2026",
 "bogos-gift"
 ],
 "in": true
@@ -23233,6 +23465,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-argan-oil-and-keratin-pre-wash-hair-mask-50ml-izzat-daouk-1.jpg?v=1790521168&width=400",
 "type": "Hair Masks",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "Hair",
 "Hair Care",
 "HAIR MASK",
@@ -23251,6 +23485,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-twisted-curls-curl-treatment-mousse-150ml-izzat-daouk-1.png?v=1790505951&width=400",
 "type": "Hair Treatment",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "Hair",
 "Hair Care",
 "HAIR MOUSSE",
@@ -23637,13 +23873,14 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-style-guide-elastic-curl-air-styler-izzat-daouk-1.png?v=1792177606&width=400",
 "type": "HAIR AIR STYLER",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "Hair",
 "Hair Care",
 "kb-rewritten",
 "Makeup",
 "seo-rewritten",
-"urban care",
-"Women"
+"urban care"
 ],
 "in": true
 },
@@ -24274,6 +24511,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-intense-keratin-treatment-hair-mask-230ml-izzat-daouk-1.jpg?v=1790511813&width=400",
 "type": "Hair Masks",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "Hair",
 "Hair Care",
 "HAIR MASK",
@@ -24292,6 +24531,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-intense-keratin-pre-wash-hair-mask-50ml-izzat-daouk-1.jpg?v=1790540774&width=400",
 "type": "Hair Masks",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "Hair",
 "Hair Care",
 "HAIR MASK",
@@ -24394,6 +24635,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-twisted-curls-hibiscus-and-shea-butter-pre-wash-hair-mask-50ml-izzat-daouk-1.png?v=1792177577&width=400",
 "type": "Hair Masks",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "Hair",
 "Hair Care",
 "HAIR MASK",
@@ -24412,13 +24655,14 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-purple-shampoo-250ml-izzat-daouk-1.jpg?v=1790537519&width=400",
 "type": "Hair Shampoo",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "Hair",
 "Hair Care",
 "Hair Shampoo",
 "kb-rewritten",
 "PURPLE SHAMPOO",
-"seo-rewritten",
-"urban care"
+"seo-rewritten"
 ],
 "in": true
 },
@@ -24586,13 +24830,13 @@
 "type": "NAIL TOOLS",
 "tags": [
 "black and white",
+"Black_Friday_2026",
 "buffer",
 "health and beauty",
 "kb-rewritten",
 "leather buffer",
 "nail care",
-"PERSONAL CARE",
-"seo-rewritten"
+"PERSONAL CARE"
 ],
 "in": true
 },
@@ -24835,6 +25079,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/personi-baby-care-cotton-buds-box-55-pieces-izzat-daouk-1.jpg?v=1791963889&width=400",
 "type": "COTTON BUDS",
 "tags": [
+"Black_Friday_2026",
 "kb-rewritten",
 "seo-rewritten"
 ],
@@ -24863,6 +25108,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/personi-cotton-swabs-100-pieces-small-box-izzat-daouk-1.jpg?v=1791963889&width=400",
 "type": "COTTON BUDS",
 "tags": [
+"Black_Friday_2026",
 "kb-rewritten",
 "seo-rewritten"
 ],
@@ -25109,6 +25355,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/callista-color-and-art-blush-izzat-daouk-1.jpg?v=1790801571&width=400",
 "type": "",
 "tags": [
+"BF_30",
+"Black_Friday_2026",
 "kb-rewritten",
 "seo-rewritten"
 ],
@@ -25123,6 +25371,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/callista-baked-highlighter-01-izzat-daouk-1.jpg?v=1790801571&width=400",
 "type": "Make Up",
 "tags": [
+"BF_30",
+"Black_Friday_2026",
 "CALLISTA",
 "HIGHLIGHTER 01",
 "kb-rewritten",
@@ -25140,6 +25390,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/callista-smooth-and-matte-compact-powder-izzat-daouk-1.jpg?v=1790801571&width=400",
 "type": "Make Up",
 "tags": [
+"BF_30",
+"Black_Friday_2026",
 "CALLISTA",
 "COMPACT POWDER",
 "kb-rewritten",
@@ -25160,6 +25412,7 @@
 "tags": [
 "511",
 "533",
+"Black_Friday_2026",
 "CALLISTA",
 "kb-rewritten",
 "Nail Polish",
@@ -25177,6 +25430,7 @@
 "type": "NAIL POLISH",
 "tags": [
 "580",
+"Black_Friday_2026",
 "CALLISTA",
 "kb-rewritten",
 "Nail Polish",
@@ -25806,6 +26060,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/joe-candy-color-hair-brush-izzat-daouk-1.jpg?v=1790521167&width=400",
 "type": "Brushes",
 "tags": [
+"Black_Friday_2026",
 "kb-rewritten",
 "seo-rewritten"
 ],
@@ -27403,6 +27658,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/solis-swiss-airvolution-smart-series-hair-dryer-black-izzat-daouk-1.png?v=1792171550&width=400",
 "type": "Hair Dryers",
 "tags": [
+"BF_10",
+"Black_Friday_2026",
 "kb-rewritten",
 "seo-rewritten",
 "Smart Series"
@@ -27902,6 +28159,7 @@
 "type": "Bath accessories",
 "tags": [
 "bath",
+"Black_Friday_2026",
 "kb-rewritten",
 "loufa",
 "seo-rewritten",
@@ -27919,6 +28177,7 @@
 "type": "Bath accessories",
 "tags": [
 "bath",
+"Black_Friday_2026",
 "kb-rewritten",
 "loufa",
 "seo-rewritten",
@@ -28540,12 +28799,12 @@
 "tags": [
 "3802",
 "Air",
+"BF_10",
 "Black",
+"Black_Friday_2026",
 "kb-rewritten",
 "seo-rewritten",
-"Solis",
-"Swiss",
-"Type"
+"Solis"
 ],
 "in": true
 },
@@ -28822,6 +29081,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-argan-oil-and-keratin-leave-in-conditioner-spray-izzat-daouk-1.png?v=1790511998&width=400",
 "type": "Hair conditioner",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "Hair",
 "Hair Care",
 "kb-rewritten",
@@ -28840,6 +29101,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-turmeric-honey-body-lotion-izzat-daouk-1.jpg?v=1792177606&width=400",
 "type": "Body Lotion",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "body care",
 "BODY SCRUB",
 "kb-rewritten",
@@ -29289,14 +29552,14 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/keplex-crazy-color-semi-permanent-toner-100ml-izzat-daouk-1.webp?v=1792877966&width=400",
 "type": "Hair Coloration",
 "tags": [
+"BF_30",
+"Black_Friday_2026",
 "coloration",
 "colors",
 "CRAZY COLORS",
 "CRAZY HAIR COLORS",
 "Hair",
-"kb-rewritten",
-"KEPLEX TONER",
-"Men"
+"kb-rewritten"
 ],
 "in": true
 },
@@ -29358,13 +29621,13 @@
 "type": "Hair Coloration",
 "tags": [
 "beard dye",
+"BF_15",
+"Black_Friday_2026",
 "COVER GREY",
 "grey beard",
 "grey hair",
 "Hair",
-"Hair Care",
-"Hair Coloration",
-"hair dye"
+"Hair Care"
 ],
 "in": true
 },
@@ -29377,6 +29640,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/callista-color-up-nail-polish-179-izzat-daouk-1.jpg?v=1790801571&width=400",
 "type": "NAIL POLISH",
 "tags": [
+"Black_Friday_2026",
 "kb-rewritten",
 "seo-rewritten"
 ],
@@ -29391,6 +29655,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/callista-color-up-nail-polish-620-izzat-daouk-1.jpg?v=1790801570&width=400",
 "type": "NAIL POLISH",
 "tags": [
+"Black_Friday_2026",
 "kb-rewritten",
 "seo-rewritten"
 ],
@@ -29405,6 +29670,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/callista-color-up-nail-polish-166-izzat-daouk-1.jpg?v=1790752494&width=400",
 "type": "NAIL POLISH",
 "tags": [
+"BF_30",
+"Black_Friday_2026",
 "kb-rewritten",
 "seo-rewritten"
 ],
@@ -29419,6 +29686,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/callista-color-up-nail-polish-210-izzat-daouk-1.jpg?v=1790752494&width=400",
 "type": "NAIL POLISH",
 "tags": [
+"Black_Friday_2026",
 "kb-rewritten",
 "seo-rewritten"
 ],
@@ -29433,6 +29701,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/callista-color-up-nail-polish-567-izzat-daouk-1.jpg?v=1790540665&width=400",
 "type": "NAIL POLISH",
 "tags": [
+"Black_Friday_2026",
 "kb-rewritten",
 "seo-rewritten"
 ],
@@ -29447,6 +29716,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/callista-color-up-nail-polish-850-izzat-daouk-1.jpg?v=1790752494&width=400",
 "type": "NAIL POLISH",
 "tags": [
+"Black_Friday_2026",
 "kb-rewritten",
 "seo-rewritten"
 ],
@@ -29461,6 +29731,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/callista-color-up-nail-polish-154-izzat-daouk-1.jpg?v=1790752494&width=400",
 "type": "NAIL POLISH",
 "tags": [
+"Black_Friday_2026",
 "kb-rewritten",
 "seo-rewritten"
 ],
@@ -29475,6 +29746,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/callista-color-up-nail-polish-978-izzat-daouk-1.jpg?v=1790752494&width=400",
 "type": "NAIL POLISH",
 "tags": [
+"Black_Friday_2026",
 "kb-rewritten",
 "seo-rewritten"
 ],
@@ -29489,6 +29761,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/callista-color-up-nail-polish-650-izzat-daouk-1.jpg?v=1790535327&width=400",
 "type": "NAIL POLISH",
 "tags": [
+"Black_Friday_2026",
 "kb-rewritten",
 "seo-rewritten"
 ],
@@ -29503,6 +29776,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/callista-color-up-nail-polish-402-izzat-daouk-1.jpg?v=1790752494&width=400",
 "type": "NAIL POLISH",
 "tags": [
+"Black_Friday_2026",
 "kb-rewritten",
 "seo-rewritten"
 ],
@@ -29517,6 +29791,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/callista-color-up-nail-polish-416-izzat-daouk-1.jpg?v=1790541000&width=400",
 "type": "NAIL POLISH",
 "tags": [
+"BF_30",
+"Black_Friday_2026",
 "kb-rewritten",
 "seo-rewritten"
 ],
@@ -29531,6 +29807,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/callista-color-up-nail-polish-158-izzat-daouk-1.jpg?v=1790537519&width=400",
 "type": "NAIL POLISH",
 "tags": [
+"Black_Friday_2026",
 "kb-rewritten",
 "seo-rewritten"
 ],
@@ -29545,6 +29822,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/callista-color-up-nail-polish-184-izzat-daouk-1.jpg?v=1790752494&width=400",
 "type": "NAIL POLISH",
 "tags": [
+"Black_Friday_2026",
 "kb-rewritten",
 "seo-rewritten"
 ],
@@ -29559,6 +29837,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/callista-color-up-nail-polish-942-izzat-daouk-1.jpg?v=1790752494&width=400",
 "type": "NAIL POLISH",
 "tags": [
+"Black_Friday_2026",
 "kb-rewritten",
 "seo-rewritten"
 ],
@@ -29573,6 +29852,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/callista-color-up-nail-polish-351-izzat-daouk-1.jpg?v=1790535190&width=400",
 "type": "NAIL POLISH",
 "tags": [
+"Black_Friday_2026",
 "kb-rewritten",
 "seo-rewritten"
 ],
@@ -29587,6 +29867,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/callista-color-up-nail-polish-520-izzat-daouk-1.jpg?v=1790752493&width=400",
 "type": "NAIL POLISH",
 "tags": [
+"Black_Friday_2026",
 "kb-rewritten",
 "seo-rewritten"
 ],
@@ -29601,6 +29882,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/callista-color-up-nail-polish-176-izzat-daouk-1.jpg?v=1790752493&width=400",
 "type": "NAIL POLISH",
 "tags": [
+"Black_Friday_2026",
 "kb-rewritten",
 "seo-rewritten"
 ],
@@ -29615,6 +29897,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/callista-color-up-nail-polish-632-izzat-daouk-1.jpg?v=1790752493&width=400",
 "type": "NAIL POLISH",
 "tags": [
+"Black_Friday_2026",
 "kb-rewritten",
 "seo-rewritten"
 ],
@@ -29629,6 +29912,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/callista-color-up-nail-polish-990-izzat-daouk-1.jpg?v=1790752493&width=400",
 "type": "NAIL POLISH",
 "tags": [
+"Black_Friday_2026",
 "kb-rewritten",
 "seo-rewritten"
 ],
@@ -29643,6 +29927,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/callista-color-up-nail-polish-782-izzat-daouk-1.jpg?v=1790752493&width=400",
 "type": "NAIL POLISH",
 "tags": [
+"Black_Friday_2026",
 "kb-rewritten",
 "seo-rewritten"
 ],
@@ -29657,6 +29942,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/callista-color-up-nail-polish-102-izzat-daouk-1.jpg?v=1790540912&width=400",
 "type": "NAIL POLISH",
 "tags": [
+"BF_30",
+"Black_Friday_2026",
 "kb-rewritten",
 "seo-rewritten"
 ],
@@ -29671,6 +29958,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/callista-color-up-nail-polish-543-izzat-daouk-1.jpg?v=1790752493&width=400",
 "type": "NAIL POLISH",
 "tags": [
+"Black_Friday_2026",
 "kb-rewritten",
 "seo-rewritten"
 ],
@@ -29685,6 +29973,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/callista-color-up-nail-polish-439-izzat-daouk-1.jpg?v=1790540774&width=400",
 "type": "NAIL POLISH",
 "tags": [
+"Black_Friday_2026",
 "kb-rewritten",
 "seo-rewritten"
 ],
@@ -29699,6 +29988,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/callista-color-nail-polish-460-izzat-daouk-1.jpg?v=1790752493&width=400",
 "type": "NAIL POLISH",
 "tags": [
+"Black_Friday_2026",
 "kb-rewritten",
 "seo-rewritten"
 ],
@@ -29713,6 +30003,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/callista-color-nail-polish-344-izzat-daouk-1.jpg?v=1790752481&width=400",
 "type": "NAIL POLISH",
 "tags": [
+"Black_Friday_2026",
 "kb-rewritten",
 "seo-rewritten"
 ],
@@ -29727,6 +30018,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/callista-color-nail-polish-724-izzat-daouk-1.jpg?v=1790752493&width=400",
 "type": "NAIL POLISH",
 "tags": [
+"Black_Friday_2026",
 "kb-rewritten",
 "seo-rewritten"
 ],
@@ -29741,6 +30033,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/callista-color-nail-polish-186-izzat-daouk-1.jpg?v=1790752493&width=400",
 "type": "NAIL POLISH",
 "tags": [
+"Black_Friday_2026",
 "kb-rewritten",
 "seo-rewritten"
 ],
@@ -29755,6 +30048,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/callista-color-nail-polish-134-izzat-daouk-1.jpg?v=1790752481&width=400",
 "type": "NAIL POLISH",
 "tags": [
+"Black_Friday_2026",
 "kb-rewritten",
 "seo-rewritten"
 ],
@@ -29769,6 +30063,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/callista-color-nail-polish-756-izzat-daouk-1.jpg?v=1790752481&width=400",
 "type": "NAIL POLISH",
 "tags": [
+"Black_Friday_2026",
 "kb-rewritten",
 "seo-rewritten"
 ],
@@ -29783,6 +30078,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/callista-color-nail-polish-560-izzat-daouk-1.jpg?v=1790752481&width=400",
 "type": "NAIL POLISH",
 "tags": [
+"Black_Friday_2026",
 "kb-rewritten",
 "seo-rewritten"
 ],
@@ -29797,6 +30093,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/callista-color-nail-polish-001-izzat-daouk-1.jpg?v=1790752481&width=400",
 "type": "NAIL POLISH",
 "tags": [
+"BF_30",
+"Black_Friday_2026",
 "kb-rewritten",
 "seo-rewritten"
 ],
@@ -29811,6 +30109,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/callista-color-nail-polish-570-izzat-daouk-1.jpg?v=1790752481&width=400",
 "type": "NAIL POLISH",
 "tags": [
+"Black_Friday_2026",
 "kb-rewritten",
 "seo-rewritten"
 ],
@@ -29825,6 +30124,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/callista-color-nail-polish-122-izzat-daouk-1.jpg?v=1790752481&width=400",
 "type": "NAIL POLISH",
 "tags": [
+"Black_Friday_2026",
 "kb-rewritten",
 "seo-rewritten"
 ],
@@ -29839,6 +30139,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/callista-color-nail-polish-533-izzat-daouk-1.jpg?v=1790535190&width=400",
 "type": "NAIL POLISH",
 "tags": [
+"BF_30",
+"Black_Friday_2026",
 "kb-rewritten",
 "seo-rewritten"
 ],
@@ -29853,6 +30155,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/callista-color-nail-polish-431-izzat-daouk-1.jpg?v=1790535326&width=400",
 "type": "NAIL POLISH",
 "tags": [
+"Black_Friday_2026",
 "kb-rewritten",
 "seo-rewritten"
 ],
@@ -29867,6 +30170,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/callista-color-nail-polish-188-izzat-daouk-1.jpg?v=1790752481&width=400",
 "type": "NAIL POLISH",
 "tags": [
+"Black_Friday_2026",
 "kb-rewritten",
 "seo-rewritten"
 ],
@@ -29881,6 +30185,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/callista-color-nail-polish-742-izzat-daouk-1.jpg?v=1790752481&width=400",
 "type": "NAIL POLISH",
 "tags": [
+"BF_30",
+"Black_Friday_2026",
 "kb-rewritten",
 "seo-rewritten"
 ],
@@ -29895,6 +30201,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/callista-color-nail-polish-761-izzat-daouk-1.jpg?v=1790752481&width=400",
 "type": "NAIL POLISH",
 "tags": [
+"Black_Friday_2026",
 "kb-rewritten",
 "seo-rewritten"
 ],
@@ -29909,6 +30216,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/callista-color-up-nail-polish-759-maxorange-izzat-daouk-1.jpg?v=1790752481&width=400",
 "type": "NAIL POLISH",
 "tags": [
+"Black_Friday_2026",
 "kb-rewritten",
 "seo-rewritten"
 ],
@@ -29923,6 +30231,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/callista-color-up-nail-polish-105-limitless-white-izzat-daouk-1.jpg?v=1790752481&width=400",
 "type": "NAIL POLISH",
 "tags": [
+"BF_30",
+"Black_Friday_2026",
 "kb-rewritten",
 "seo-rewritten"
 ],
@@ -30338,6 +30648,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/callista-color-up-nail-polish-323-on-wednesdays-izzat-daouk-1.jpg?v=1790752480&width=400",
 "type": "NAIL POLISH",
 "tags": [
+"Black_Friday_2026",
 "kb-rewritten",
 "seo-rewritten"
 ],
@@ -30352,6 +30663,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/callista-color-up-nail-polish-437-its-a-date-izzat-daouk-1.jpg?v=1790540665&width=400",
 "type": "NAIL POLISH",
 "tags": [
+"Black_Friday_2026",
 "CALLISTA NAIL POLISH",
 "kb-rewritten",
 "seo-rewritten"
@@ -30367,6 +30679,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/callista-color-up-nail-polish-730-wonder-yellow-izzat-daouk-1.jpg?v=1790752480&width=400",
 "type": "NAIL POLISH",
 "tags": [
+"Black_Friday_2026",
 "kb-rewritten",
 "seo-rewritten"
 ],
@@ -30381,6 +30694,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/callista-color-up-nail-polish-316-my-milkshake-izzat-daouk-1.jpg?v=1790752480&width=400",
 "type": "NAIL POLISH",
 "tags": [
+"Black_Friday_2026",
 "kb-rewritten",
 "seo-rewritten"
 ],
@@ -30395,6 +30709,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/callista-color-up-nail-polish-742-honey-charm-izzat-daouk-1.jpg?v=1790752480&width=400",
 "type": "NAIL POLISH",
 "tags": [
+"Black_Friday_2026",
 "kb-rewritten",
 "seo-rewritten"
 ],
@@ -30409,6 +30724,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/callista-color-up-nail-polish-444-boy-bye-izzat-daouk-1.jpg?v=1790537418&width=400",
 "type": "nail polish",
 "tags": [
+"Black_Friday_2026",
 "kb-rewritten",
 "seo-rewritten"
 ],
@@ -30423,6 +30739,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/callista-color-up-nail-polish-612-izzat-daouk-1.jpg?v=1790752480&width=400",
 "type": "NAIL POLISH",
 "tags": [
+"Black_Friday_2026",
 "kb-rewritten",
 "seo-rewritten"
 ],
@@ -30437,6 +30754,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/callista-cover-up-concealer-izzat-daouk-1.jpg?v=1790752466&width=400",
 "type": "Concealer",
 "tags": [
+"BF_30",
+"Black_Friday_2026",
 "CALLISTA CONCEALER",
 "Concealer",
 "kb-rewritten",
@@ -30453,6 +30772,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/callista-all-about-color-matte-lipstick-izzat-daouk-1.jpg?v=1790752403&width=400",
 "type": "Lip Stick",
 "tags": [
+"BF_30",
+"Black_Friday_2026",
 "kb-rewritten",
 "seo-rewritten"
 ],
@@ -30467,6 +30788,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/callista-selfie-finish-foundation-with-spf15-25ml-izzat-daouk-1.jpg?v=1790521314&width=400",
 "type": "Foundation",
 "tags": [
+"BF_30",
+"Black_Friday_2026",
 "kb-rewritten",
 "seo-rewritten"
 ],
@@ -30481,6 +30804,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/callista-bb-cream-with-spf15-25ml-izzat-daouk-1.jpg?v=1790752466&width=400",
 "type": "BB & CC Creams",
 "tags": [
+"BF_30",
+"Black_Friday_2026",
 "kb-rewritten",
 "seo-rewritten"
 ],
@@ -30495,6 +30820,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/callista-shine-bestie-liquid-highlighter-izzat-daouk-1.jpg?v=1790752466&width=400",
 "type": "Highlighter",
 "tags": [
+"BF_30",
+"Black_Friday_2026",
 "kb-rewritten",
 "seo-rewritten"
 ],
@@ -30509,6 +30836,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/callista-wonder-eyebrow-mascara-izzat-daouk-1.jpg?v=1790752466&width=400",
 "type": "MAKEUP",
 "tags": [
+"BF_30",
+"Black_Friday_2026",
 "kb-rewritten",
 "MASCARA",
 "seo-rewritten"
@@ -30524,6 +30853,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/callista-upbrow-girl-eyebrow-lamination-gel-izzat-daouk-1.webp?v=1790752466&width=400",
 "type": "EYEBROW GEL",
 "tags": [
+"BF_30",
+"Black_Friday_2026",
 "kb-rewritten",
 "seo-rewritten"
 ],
@@ -30538,6 +30869,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/callista-extend-volume-mascara-izzat-daouk-1.jpg?v=1790752451&width=400",
 "type": "MASCARA",
 "tags": [
+"BF_30",
+"Black_Friday_2026",
 "kb-rewritten",
 "MASCARA",
 "seo-rewritten"
@@ -30553,6 +30886,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/callista-wonder-volume-mascara-izzat-daouk-1.jpg?v=1790752451&width=400",
 "type": "MASCARA",
 "tags": [
+"BF_30",
+"Black_Friday_2026",
 "kb-rewritten",
 "MASCARA",
 "seo-rewritten"
@@ -30569,6 +30904,8 @@
 "type": "primer",
 "tags": [
 "base and prime",
+"BF_30",
+"Black_Friday_2026",
 "Face",
 "kb-rewritten",
 "seo-rewritten"
@@ -30584,6 +30921,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/callista-multi-eye-palette-nude-inspiration-izzat-daouk-1.jpg?v=1790752451&width=400",
 "type": "Eye Shadow",
 "tags": [
+"BF_30",
+"Black_Friday_2026",
 "kb-rewritten",
 "seo-rewritten"
 ],
@@ -30598,6 +30937,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/callista-multi-eyeshadow-palette-coffee-addiction-izzat-daouk-1.jpg?v=1790752451&width=400",
 "type": "Eye Shadow",
 "tags": [
+"BF_30",
+"Black_Friday_2026",
 "kb-rewritten",
 "seo-rewritten"
 ],
@@ -30612,6 +30953,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/callista-multi-eyeshadow-palette-colors-on-fire-izzat-daouk-1.jpg?v=1790752451&width=400",
 "type": "Eyeshadow",
 "tags": [
+"BF_30",
+"Black_Friday_2026",
 "kb-rewritten",
 "seo-rewritten"
 ],
@@ -30626,6 +30969,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/callista-vivid-shine-lipgloss-4-5ml-izzat-daouk-1.jpg?v=1790752450&width=400",
 "type": "Lip Gloss",
 "tags": [
+"BF_30",
+"Black_Friday_2026",
 "kb-rewritten",
 "seo-rewritten"
 ],
@@ -30640,6 +30985,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/callista-dreamy-matte-cream-lipgloss-izzat-daouk-1.jpg?v=1790752418&width=400",
 "type": "Lip Gloss",
 "tags": [
+"BF_30",
+"Black_Friday_2026",
 "kb-rewritten",
 "seo-rewritten"
 ],
@@ -30654,6 +31001,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/callista-line-extend-eyeliner-izzat-daouk-1.jpg?v=1790752418&width=400",
 "type": "Eyeliner",
 "tags": [
+"BF_30",
+"Black_Friday_2026",
 "kb-rewritten",
 "seo-rewritten"
 ],
@@ -30668,6 +31017,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/callista-truly-matte-lipgloss-izzat-daouk-1.jpg?v=1790752404&width=400",
 "type": "Lip gloss",
 "tags": [
+"BF_30",
+"Black_Friday_2026",
 "kb-rewritten",
 "seo-rewritten"
 ],
@@ -30682,6 +31033,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/callista-favorite-longwearing-lipstick-izzat-daouk-1.jpg?v=1790752404&width=400",
 "type": "Lip Stick",
 "tags": [
+"BF_30",
+"Black_Friday_2026",
 "kb-rewritten",
 "seo-rewritten"
 ],
@@ -30696,6 +31049,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/callista-eau-de-parfum-for-women-35ml-izzat-daouk-1.jpg?v=1790752389&width=400",
 "type": "Eau De Parfum",
 "tags": [
+"BF_30",
+"Black_Friday_2026",
 "CALLISTA EDP 35ML",
 "eau de perfume for her",
 "kb-rewritten",
@@ -30712,6 +31067,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/callista-iced-marine-face-mist-50ml-izzat-daouk-1.png?v=1790752389&width=400",
 "type": "Face Mists",
 "tags": [
+"BF_30",
+"Black_Friday_2026",
 "face mist",
 "kb-rewritten",
 "seo-rewritten"
@@ -30727,6 +31084,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/callista-total-perfecting-foundation-spf15-30ml-izzat-daouk-1.png?v=1790752389&width=400",
 "type": "Foundation",
 "tags": [
+"BF_30",
+"Black_Friday_2026",
 "kb-rewritten",
 "Perfecting",
 "seo-rewritten"
@@ -31663,12 +32022,12 @@
 "tags": [
 "ANTI ORANGE",
 "ANTI YELLOW",
+"BF_30",
+"Black_Friday_2026",
 "BLUE SHAMPOO",
 "color care",
 "Hair",
-"Hair Care",
-"kb-rewritten",
-"KERASTASE"
+"Hair Care"
 ],
 "in": true
 },
@@ -32812,7 +33171,7 @@
 "kb-rewritten",
 "seo-rewritten"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Inoa 4.3 Ammonia Free Hair Color, Gold Brown 60g",
@@ -34534,6 +34893,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-style-matte-wax-100ml-izzat-daouk-1.webp?v=1790506110&width=400",
 "type": "Hair wax",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "hair wax",
 "kb-rewritten",
 "seo-rewritten"
@@ -34778,6 +35139,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-intense-keratin-leave-in-conditioner-200ml-izzat-daouk-1.webp?v=1790523141&width=400",
 "type": "Leave-in Conditioner",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "Hair",
 "Hair Care",
 "Hair Conditioner",
@@ -34795,6 +35158,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-biotin-and-keratin-shampoo-250ml-izzat-daouk-1.png?v=1792177592&width=400",
 "type": "Hair Shampoo",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "Hair",
 "Hair Care",
 "Hair Shampoo",
@@ -34848,14 +35213,14 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/keplex-shampoo-for-fine-hair-no-4-izzat-daouk-1.png?v=1790511998&width=400",
 "type": "Hair Coloration",
 "tags": [
+"BF_30",
+"Black_Friday_2026",
 "Bond Builder",
 "Hair",
 "Hair Care",
 "K KEPLEX  SHAMPOO NO.4",
 "kb-rewritten",
-"keplex",
-"KEPLEX HEAT & COLOR PROTECTION SYSTEM NO.4",
-"KEPLEX TREATMENT"
+"keplex"
 ],
 "in": true
 },
@@ -34868,14 +35233,14 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/keplex-mean-blonde-professional-lightening-booster-500ml-izzat-daouk-1.png?v=1790537614&width=400",
 "type": "Hair Coloration",
 "tags": [
+"BF_30",
+"Black_Friday_2026",
 "blonde",
 "coloration",
 "Hair",
 "Hair Care",
 "kb-rewritten",
-"KEPLEX MEAN BLONDE",
-"professional",
-"seo-rewritten"
+"KEPLEX MEAN BLONDE"
 ],
 "in": true
 },
@@ -34890,12 +35255,12 @@
 "tags": [
 "ANTI ORANGE",
 "ANTI YELLOW",
+"BF_30",
+"Black_Friday_2026",
 "BLUE SHAMPOO",
 "color care",
 "Hair",
-"Hair Care",
-"kb-rewritten",
-"Neutralizing Shampoo"
+"Hair Care"
 ],
 "in": true
 },
@@ -34908,14 +35273,14 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/keplex-hair-optimizer-no-3-izzat-daouk-1.png?v=1790506048&width=400",
 "type": "Hair Treatment",
 "tags": [
+"BF_30",
+"Black_Friday_2026",
 "Hair",
 "Hair Care",
 "HAIR CAREHAIR PROBLEM",
 "HAIR OPTIMIZER",
 "Hair Styling",
-"kb-rewritten",
-"keplex",
-"KEPLEX HAIR OPTIMIZER No 3"
+"kb-rewritten"
 ],
 "in": true
 },
@@ -34928,14 +35293,14 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/keplex-bond-optimizer-no-2-izzat-daouk-1.webp?v=1790522994&width=400",
 "type": "Hair Treatment",
 "tags": [
+"BF_30",
+"Black_Friday_2026",
 "BOND OPTIMIZER",
 "Hair",
 "Hair Care",
 "kb-rewritten",
 "KEPLEX BOND OPTIMIZER No. 2",
-"professional",
-"seo-rewritten",
-"treatment"
+"professional"
 ],
 "in": true
 },
@@ -34948,14 +35313,14 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/keplex-bond-builder-no-1-izzat-daouk-3.webp?v=1792878690&width=400",
 "type": "Hair Treatment",
 "tags": [
+"BF_30",
+"Black_Friday_2026",
 "Bleaching",
 "Bond Builder",
 "Hair",
 "Hair Care",
 "kb-rewritten",
-"keplex",
-"KEPLEX BOND BUILDER No. 1",
-"keplex no 1"
+"keplex"
 ],
 "in": true
 },
@@ -34968,13 +35333,14 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-hello-cherry-berry-dry-shampoo-200ml-izzat-daouk-1.png?v=1790540967&width=400",
 "type": "Dry Shampoo",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "DRY SHAMPOO",
 "Hair",
 "Hair Care",
 "Hair Shampoo",
 "kb-rewritten",
-"seo-rewritten",
-"urban care"
+"seo-rewritten"
 ],
 "in": true
 },
@@ -34987,13 +35353,14 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-tropical-paradise-jungle-dry-shampoo-200ml-izzat-daouk-1.png?v=1792177592&width=400",
 "type": "Dry Shampoo",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "DRY SHAMPOO",
 "Hair",
 "Hair Care",
 "Hair Shampoo",
 "kb-rewritten",
-"seo-rewritten",
-"urban care"
+"seo-rewritten"
 ],
 "in": true
 },
@@ -35006,13 +35373,14 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-go-nuts-with-coconut-dry-shampoo-20ml-izzat-daouk-1.jpg?v=1792177592&width=400",
 "type": "Dry Shampoo",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "DRY SHAMPOO",
 "Hair",
 "Hair Care",
 "Hair Shampoo",
 "kb-rewritten",
-"seo-rewritten",
-"urban care"
+"seo-rewritten"
 ],
 "in": true
 },
@@ -35025,6 +35393,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-its-so-high-dry-shampoo-200ml-izzat-daouk-1.jpg?v=1790535459&width=400",
 "type": "Dry Shampoo",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "DRY SHAMPOO",
 "Hair",
 "Hair Care",
@@ -35043,6 +35413,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-coconut-coffee-body-lotion-200ml-izzat-daouk-1.jpg?v=1792177592&width=400",
 "type": "Body Care",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "body lotion",
 "kb-rewritten",
 "seo-rewritten"
@@ -35058,6 +35430,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-coconut-coffee-body-scrub-280g-izzat-daouk-1.jpg?v=1792177592&width=400",
 "type": "Body",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "BODY SCRUB",
 "kb-rewritten",
 "seo-rewritten"
@@ -35073,6 +35447,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-coconut-coffee-body-wash-500ml-izzat-daouk-1.jpg?v=1790521243&width=400",
 "type": "Body Care",
 "tags": [
+"Black_Friday_2026",
 "BODY WASH",
 "kb-rewritten",
 "seo-rewritten"
@@ -35088,6 +35463,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-turmeric-honey-body-wash-500ml-izzat-daouk-1.jpg?v=1792177592&width=400",
 "type": "Body Care",
 "tags": [
+"Black_Friday_2026",
 "BODY WASH",
 "kb-rewritten",
 "seo-rewritten"
@@ -35103,6 +35479,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-turmeric-honey-body-scrub-2000ml-izzat-daouk-1.jpg?v=1790535424&width=400",
 "type": "Body",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "BODY SCRUB",
 "kb-rewritten",
 "seo-rewritten"
@@ -35138,6 +35516,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-monoi-oil-and-ylang-ylang-body-wash-500ml-izzat-daouk-1.jpg?v=1790540859&width=400",
 "type": "Body",
 "tags": [
+"Black_Friday_2026",
 "BODY WASH",
 "kb-rewritten",
 "seo-rewritten"
@@ -35153,6 +35532,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-monoi-oil-and-ylang-ylang-body-scrub-200ml-izzat-daouk-1.jpg?v=1790540647&width=400",
 "type": "Body Care",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "BODY SCRUB",
 "kb-rewritten",
 "seo-rewritten"
@@ -35168,6 +35549,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-monoi-oil-and-ylang-ylang-body-yogurt-200ml-izzat-daouk-1.jpg?v=1792177592&width=400",
 "type": "Body Care",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "body care",
 "kb-rewritten",
 "seo-rewritten"
@@ -35183,13 +35566,14 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-hawaiian-monoi-paradise-dry-shampoo-200ml-izzat-daouk-1.jpg?v=1792177592&width=400",
 "type": "Dry Shampoo",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "DRY SHAMPOO",
 "Hair",
 "Hair Care",
 "Hair Shampoo",
 "kb-rewritten",
-"seo-rewritten",
-"urban care"
+"seo-rewritten"
 ],
 "in": true
 },
@@ -35202,6 +35586,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-hyaluronic-acid-and-collagen-hair-serum-75ml-izzat-daouk-1.png?v=1790541000&width=400",
 "type": "Hair Serum",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "HAIR SERUM",
 "kb-rewritten",
 "seo-rewritten"
@@ -35217,6 +35603,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-hyaluronic-acid-and-collagen-leave-in-conditioner-150ml-izzat-daouk-1.jpg?v=1792177592&width=400",
 "type": "HAIR",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "Hair Conditioner",
 "kb-rewritten",
 "seo-rewritten"
@@ -35232,13 +35620,14 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-hyaluronic-acid-and-collagen-leave-in-conditioner-spray-200ml-izzat-daouk-1.jpg?v=1790521350&width=400",
 "type": "Hair conditioner",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "Hair",
 "Hair Care",
 "kb-rewritten",
 "LEAVE-IN",
 "LEAVE-IN CONDITIONER",
-"seo-rewritten",
-"urban care"
+"seo-rewritten"
 ],
 "in": true
 },
@@ -35251,6 +35640,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-hyaluronic-acid-and-collagen-conditioner-250ml-izzat-daouk-1.png?v=1792177592&width=400",
 "type": "HAIR CARE",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "Hair Conditioner",
 "kb-rewritten",
 "seo-rewritten"
@@ -35266,6 +35657,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-hyaluronic-acid-and-collagen-volumizing-shampoo-250ml-izzat-daouk-1.png?v=1792177591&width=400",
 "type": "HAIR",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "Hair",
 "Hair Care",
 "Hair Shampoo",
@@ -35284,6 +35677,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-argan-oil-and-keratin-intense-hair-care-mask-230ml-izzat-daouk-1.jpg?v=1792177591&width=400",
 "type": "Hair Masks",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "Hair",
 "Hair Care",
 "HAIR MASK",
@@ -35302,6 +35697,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-argan-oil-and-keratin-hair-serum-75ml-izzat-daouk-1.png?v=1790523213&width=400",
 "type": "Hair Serum",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "Hair",
 "Hair Care",
 "HAIR SERUM",
@@ -35320,6 +35717,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-argan-oil-and-keratin-conditioner-250ml-izzat-daouk-1.jpg?v=1792177591&width=400",
 "type": "Hair Conditioner",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "Hair",
 "Hair Care",
 "Hair Conditioner",
@@ -35338,6 +35737,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-argan-oil-and-keratin-shampoo-250ml-izzat-daouk-1.jpg?v=1792177591&width=400",
 "type": "Hair Shampoo",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "Hair",
 "Hair Care",
 "Hair Shampoo",
@@ -35356,6 +35757,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-intense-keratin-conditioner-250ml-izzat-daouk-1.png?v=1790521456&width=400",
 "type": "Hair Conditioner",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "Hair",
 "Hair Care",
 "Hair Conditioner",
@@ -35374,6 +35777,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-intense-keratin-shampoo-250ml-izzat-daouk-1.png?v=1790523213&width=400",
 "type": "HAIR SHAMPOO",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "Hair",
 "Hair Care",
 "Hair Shampoo",
@@ -35392,6 +35797,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-intense-keratin-hair-serum-75ml-izzat-daouk-1.webp?v=1792177591&width=400",
 "type": "Hair Serum",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "Hair",
 "Hair Care",
 "HAIR SERUM",
@@ -35410,6 +35817,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-biotin-and-keratin-conditioner-250ml-izzat-daouk-1.webp?v=1792177577&width=400",
 "type": "Hair Conditioner",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "Hair",
 "Hair Care",
 "Hair Coloration",
@@ -35428,6 +35837,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-twisted-curls-hibiscus-and-shea-butter-shampoo-250ml-izzat-daouk-1.jpg?v=1790521069&width=400",
 "type": "Hair Shampoo",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "Hair",
 "Hair Care",
 "Hair Shampoo",
@@ -35446,6 +35857,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-twisted-curls-hibiscus-and-shea-butter-conditioner-250ml-izzat-daouk-1.webp?v=1790523062&width=400",
 "type": "HAIR",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "Hair",
 "Hair Care",
 "Hair Conditioner",
@@ -35464,6 +35877,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-twisted-curls-hibiscus-and-shea-butter-treatment-hair-mask-230ml-izzat-daouk-1.jpg?v=1792177577&width=400",
 "type": "Hair Masks",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "Hair",
 "Hair Care",
 "HAIR MASK",
@@ -35482,13 +35897,14 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-pink-grapefruit-and-ginger-conditioner-250ml-izzat-daouk-1.webp?v=1790540931&width=400",
 "type": "Hair Conditioner",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "Hair",
 "Hair Care",
 "Hair Conditioner",
 "kb-rewritten",
 "PINK GRAPRFRUIT AND GINGER",
-"seo-rewritten",
-"urban care"
+"seo-rewritten"
 ],
 "in": true
 },
@@ -35501,13 +35917,14 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-pink-grapefruit-and-ginger-shampoo-250ml-izzat-daouk-1.jpg?v=1792177577&width=400",
 "type": "Hair Shampoo",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "Hair",
 "Hair Care",
 "Hair Shampoo",
 "kb-rewritten",
 "PINK GRAPRFRUIT AND GINGER",
-"seo-rewritten",
-"urban care"
+"seo-rewritten"
 ],
 "in": true
 },
@@ -35520,13 +35937,14 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-summer-edition-shampoo-250ml-izzat-daouk-1.jpg?v=1792177577&width=400",
 "type": "Hair Shampoo",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "Hair",
 "Hair Care",
 "Hair Shampoo",
 "kb-rewritten",
 "seo-rewritten",
-"SUMMER EDITION",
-"urban care"
+"SUMMER EDITION"
 ],
 "in": true
 },
@@ -35539,6 +35957,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-summer-edition-after-sun-hair-mask-50ml-izzat-daouk-1.jpg?v=1792177577&width=400",
 "type": "Hair Masks",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "Hair",
 "Hair Care",
 "HAIR MASK",
@@ -35557,6 +35977,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-purple-treatment-spray-200ml-izzat-daouk-1.webp?v=1792177577&width=400",
 "type": "Hair Treatment",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "Hair",
 "Hair Care",
 "HAIR SPRAY",
@@ -35574,6 +35996,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-biotin-and-caffeine-conditioner-200ml-izzat-daouk-1.webp?v=1792177577&width=400",
 "type": "Hair Conditioner",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "Hair",
 "Hair Care",
 "Hair Conditioner",
@@ -35592,6 +36016,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-biotin-and-caffeine-hair-and-scalp-oil-treatment-240ml-izzat-daouk-1.jpg?v=1792177577&width=400",
 "type": "Hair Treatment",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "Hair",
 "Hair Care",
 "kb-rewritten",
@@ -35608,13 +36034,14 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-sea-salt-peeling-pre-shampoo-200g-izzat-daouk-1.png?v=1792177576&width=400",
 "type": "Hair Treatment",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "Hair",
 "Hair Care",
 "kb-rewritten",
 "Peeling",
 "pre shampoo",
-"seo-rewritten",
-"urban care"
+"seo-rewritten"
 ],
 "in": true
 },
@@ -35627,6 +36054,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-style-hair-spray-250ml-izzat-daouk-1.png?v=1792177576&width=400",
 "type": "Hair Spray",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "Hair",
 "Hair Care",
 "HAIR SPRAY",
@@ -35645,6 +36074,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-style-hair-mousse-200ml-izzat-daouk-1.webp?v=1790522959&width=400",
 "type": "Hair Mousse",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "HAIR MOUSSE",
 "kb-rewritten",
 "seo-rewritten"
@@ -35660,6 +36091,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-style-hair-gel-150ml-izzat-daouk-1.png?v=1790540738&width=400",
 "type": "Hair Gel",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "hair gel",
 "kb-rewritten",
 "seo-rewritten"
@@ -35675,6 +36108,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-tea-tree-oil-and-keratin-shampoo-250ml-izzat-daouk-1.jpg?v=1792177576&width=400",
 "type": "Hair Shampoo",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "Hair",
 "Hair Care",
 "Hair Shampoo",
@@ -35693,13 +36128,14 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-no-6-bond-plex-restore-and-repair-bonding-oil-100ml-izzat-daouk-1.png?v=1792177576&width=400",
 "type": "Hair Oils",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "BOND PLEX",
 "Hair",
 "Hair Care",
 "hair oil",
 "kb-rewritten",
-"seo-rewritten",
-"urban care"
+"seo-rewritten"
 ],
 "in": true
 },
@@ -35712,6 +36148,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-no-5-bond-plex-restore-repair-bonding-milk-200ml-izzat-daouk-1.webp?v=1790537351&width=400",
 "type": "Hair Supplements",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "Hair Care",
 "kb-rewritten",
 "seo-rewritten"
@@ -35727,13 +36165,14 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-no-4-bond-plex-restore-repair-bonding-hair-mask-230ml-izzat-daouk-1.jpg?v=1792177576&width=400",
 "type": "Hair Masks",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "Hair",
 "Hair Care",
 "HAIR MASK",
 "HAIR TREATMENT",
 "kb-rewritten",
-"seo-rewritten",
-"urban care"
+"seo-rewritten"
 ],
 "in": true
 },
@@ -35746,6 +36185,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-no-3-bond-plex-repair-conditioner-250ml-izzat-daouk-1.png?v=1792177576&width=400",
 "type": "Hair Conditioner",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "Hair",
 "Hair Care",
 "Hair Conditioner",
@@ -35764,6 +36205,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-no-2-bond-plex-restore-repair-shampoo-350ml-izzat-daouk-1.jpg?v=1790537614&width=400",
 "type": "Hair Shampoo",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "Hair",
 "Hair Care",
 "Hair Shampoo",
@@ -35782,13 +36225,14 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/urban-care-no-1-blond-plex-pre-wash-hair-treatment-50ml-izzat-daouk-1.jpg?v=1792177576&width=400",
 "type": "Hair Treatment",
 "tags": [
+"BF_20",
+"Black_Friday_2026",
 "Hair",
 "Hair Care",
 "HAIR TREATMENT",
 "kb-rewritten",
 "no. 1 blond plex",
-"seo-rewritten",
-"urban care"
+"seo-rewritten"
 ],
 "in": true
 },
@@ -36991,14 +37435,14 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/dessata-detangling-brush-izzat-daouk-1.jpg?v=1790837970&width=400",
 "type": "Scalp Brush",
 "tags": [
+"Black_Friday_2026",
 "Brush",
 "Brushes",
 "dessata",
 "Dessata Detangling Brush",
 "Detangling",
 "Hair",
-"Hair Styling",
-"kb-rewritten"
+"Hair Styling"
 ],
 "in": true
 },
@@ -40887,6 +41331,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/solis-swiss-perfection-wall-mounted-hair-dryer-white-type-443-izzat-daouk-1.jpg?v=1792171550&width=400",
 "type": "Hair Dryers",
 "tags": [
+"BF_10",
+"Black_Friday_2026",
 "kb-rewritten",
 "seo-rewritten"
 ],
@@ -40901,6 +41347,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/solis-swiss-perfection-wall-mounted-hair-dryer-black-type-443-izzat-daouk-1.jpg?v=1792171550&width=400",
 "type": "Hair Dryers",
 "tags": [
+"BF_10",
+"Black_Friday_2026",
 "kb-rewritten",
 "seo-rewritten"
 ],
@@ -41140,6 +41588,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/style-hair-wax-stick-75g-izzat-daouk-1.webp?v=1793309090&width=400",
 "type": "Hair wax",
 "tags": [
+"Black_Friday_2026",
 "kb-rewritten",
 "seo-rewritten",
 "STYLE HAIR WAX"
@@ -45769,6 +46218,8 @@
 "img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/solis-starline-hair-dryer-315b-izzat-daouk-1.png?v=1792171520&width=400",
 "type": "Hair Dryers",
 "tags": [
+"BF_10",
+"Black_Friday_2026",
 "kb-rewritten",
 "seo-rewritten",
 "STARLINE"
@@ -47620,152 +48071,6 @@
 "Nail Polish",
 "seo-rewritten",
 "summer nail polish"
-],
-"in": false
-},
-{
-"t": "Essie Fishnet Stockings Nail Polish",
-"u": "https://daouk.com/products/essie-nail-polish-color-56-fishnet-stockings",
-"p": 8.4,
-"c": 9.44,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/products/essie-fishnet-stockings-nail-polish-izzat-daouk-1.jpg?v=1791272497&width=400",
-"type": "nail polish",
-"tags": [
-"essie",
-"kb-rewritten",
-"Nail",
-"nail care",
-"Nail Polish",
-"seo-rewritten"
-],
-"in": false
-},
-{
-"t": "Essie A List Nail Polish",
-"u": "https://daouk.com/products/essie-nail-polish-color-55-a-list",
-"p": 8.4,
-"c": 9.44,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/products/essie-a-list-nail-polish-izzat-daouk-1.jpg?v=1791272497&width=400",
-"type": "nail polish",
-"tags": [
-"essie",
-"kb-rewritten",
-"Nail",
-"nail care",
-"Nail Polish",
-"seo-rewritten",
-"summer nail polish"
-],
-"in": false
-},
-{
-"t": "Essie Thigh High Nail Polish",
-"u": "https://daouk.com/products/essie-nail-polish-color-52-thigh-high",
-"p": 8.4,
-"c": 9.44,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/products/essie-thigh-high-nail-polish-izzat-daouk-1.jpg?v=1791272497&width=400",
-"type": "nail polish",
-"tags": [
-"essie",
-"kb-rewritten",
-"Nail",
-"nail care",
-"Nail Polish",
-"seo-rewritten"
-],
-"in": false
-},
-{
-"t": "Essie Bordeaux Nail Polish",
-"u": "https://daouk.com/products/essie-nail-polish-color-50-bordeaux",
-"p": 8.4,
-"c": 9.44,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/files/essie-bordeaux-nail-polish-izzat-daouk-1.webp?v=1791272497&width=400",
-"type": "nail polish",
-"tags": [
-"essie",
-"kb-rewritten",
-"Nail",
-"nail care",
-"Nail Polish",
-"seo-rewritten"
-],
-"in": false
-},
-{
-"t": "Essie Apricot Nail and Cuticle Oil",
-"u": "https://daouk.com/products/essie-apricot-nail-cuticle-oil",
-"p": 9.45,
-"c": 10.36,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/products/essie-apricot-nail-and-cuticle-oil-izzat-daouk-1.jpg?v=1791445070&width=400",
-"type": "cuticle oil",
-"tags": [
-"CUTICLE",
-"cuticle oil",
-"essie",
-"kb-rewritten",
-"Nail",
-"nail care",
-"seo-rewritten"
-],
-"in": false
-},
-{
-"t": "Essie With The Band Nail Polish",
-"u": "https://daouk.com/products/essie-nail-polish-color-378-with-the-band",
-"p": 8.4,
-"c": 9.44,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/products/essie-with-the-band-nail-polish-izzat-daouk-1.jpg?v=1791272547&width=400",
-"type": "nail polish",
-"tags": [
-"kb-rewritten",
-"Nail",
-"nail care",
-"Nail Polish",
-"seo-rewritten",
-"summer nail polish"
-],
-"in": false
-},
-{
-"t": "Essie Bahama Mama Nail Polish",
-"u": "https://daouk.com/products/essie-nail-polish-color-44-bahama-mama",
-"p": 8.4,
-"c": 9.44,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/products/essie-bahama-mama-nail-polish-izzat-daouk-1.jpg?v=1791272497&width=400",
-"type": "nail polish",
-"tags": [
-"essie",
-"kb-rewritten",
-"Nail",
-"nail care",
-"Nail Polish",
-"seo-rewritten"
-],
-"in": true
-},
-{
-"t": "Essie Angora Cardi Nail Polish",
-"u": "https://daouk.com/products/essie-nail-polish-color-42-angora-cardi",
-"p": 8.4,
-"c": 9.44,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0718/5524/3546/products/essie-angora-cardi-nail-polish-izzat-daouk-1.jpg?v=1791272482&width=400",
-"type": "nail polish",
-"tags": [
-"essie",
-"kb-rewritten",
-"Nail",
-"nail care",
-"Nail Polish",
-"seo-rewritten"
 ],
 "in": false
 }

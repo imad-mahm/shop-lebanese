@@ -1922,7 +1922,7 @@
 "t": "Hyundai Top Mount Fridge 21 CFT",
 "u": "https://kaystore.com/product/hyundai-hy-ftm585rixh/",
 "p": 699.0,
-"c": null,
+"c": 776.0,
 "cur": "USD",
 "img": "https://kaystore.com/wp-content/uploads/2026/09/HY-FTM585RIXH-247x296.jpg",
 "type": "Refrigerators",
@@ -25095,6 +25095,21 @@
 "in": true
 },
 {
+"t": "OLIMPIC DEHUMIDIFIER 20L",
+"u": "https://kaystore.com/product/olimpic-dehumidifier-20-l-day/",
+"p": 220.0,
+"c": null,
+"cur": "USD",
+"img": "https://kaystore.com/wp-content/uploads/2026/02/I140459-247x296.jpg",
+"type": "Air Treatment",
+"tags": [
+"Appliances",
+"Dehumidifier",
+"sanitizer"
+],
+"in": true
+},
+{
 "t": "Olimpic Garment Steamer",
 "u": "https://kaystore.com/product/olimpic-garment-steamer-2/",
 "p": 132.0,
@@ -26868,6 +26883,23 @@
 "Microwave",
 "Microwave 28L",
 "Microwave grill"
+],
+"in": true
+},
+{
+"t": "Olimpic Microwave 20L Wh",
+"u": "https://kaystore.com/product/olimpic-microwave-20-lit-wh/",
+"p": 100.0,
+"c": null,
+"cur": "USD",
+"img": "https://kaystore.com/wp-content/uploads/2026/02/I139042-247x296.jpg",
+"type": "Microwaves, Small Appliances",
+"tags": [
+"Appliances",
+"cooking",
+"Heating",
+"Microwave",
+"Microwave 20L"
 ],
 "in": true
 },
@@ -51927,38 +51959,6 @@
 "Home Deco",
 "La Maison",
 "Tinsel"
-],
-"in": true
-},
-{
-"t": "Whitegold Magnolia Spray 75Cm",
-"u": "https://kaystore.com/product/white-gold-magnolia-spray-75cm/",
-"p": 8.0,
-"c": null,
-"cur": "USD",
-"img": "https://kaystore.com/wp-content/uploads/2025/10/I137314-247x296.jpg",
-"type": "Branches, Christmas",
-"tags": [
-"Branches",
-"Christmas",
-"Home Deco",
-"La Maison"
-],
-"in": true
-},
-{
-"t": "White Hanging Ice Pick 90Cm",
-"u": "https://kaystore.com/product/white-hanging-ice-pick-90cm/",
-"p": 15.0,
-"c": null,
-"cur": "USD",
-"img": "https://kaystore.com/wp-content/uploads/2025/10/I137313-247x296.jpg",
-"type": "Branches, Christmas",
-"tags": [
-"Branches",
-"Christmas",
-"Home Deco",
-"La Maison"
 ],
 "in": true
 }

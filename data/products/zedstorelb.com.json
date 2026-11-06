@@ -117,84 +117,6 @@
 "in": true
 },
 {
-"t": "Maybelline Lifter Stix + Lifter Liner + Lifter Concealer -30% Off",
-"u": "https://zedstorelb.com/products/maybelline-lifter-stix-lifter-liner-lifter-concealer-30-off",
-"p": 21.28,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/d311924e-0eff-400a-9002-bd47f98f1bc1.jpg?v=1793722017&width=400",
-"type": "Bundle",
-"tags": [
-"bundlenov2026"
-],
-"in": true
-},
-{
-"t": "Maybelline SS Lumi Matte Fondation + Vinyl Ink + Collosal Bubble -30% Off - FREE Blender Jar",
-"u": "https://zedstorelb.com/products/maybelline-ss-lumi-matte-fondation-vinyl-ink-collosal-bubble-30-off",
-"p": 26.2,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/Untitleddesign_33_1bc8dcdb-a604-4186-a89a-7242cbd5babf.jpg?v=1793725678&width=400",
-"type": "Bundle",
-"tags": [
-"bundlenov2026"
-],
-"in": true
-},
-{
-"t": "Maybelline IAR Concealer + Lifter Gloss + Lifter Liner -30% 0ff - FREE Velvet Brush Set",
-"u": "https://zedstorelb.com/products/maybelline-iar-lifter-gloss-lifter-liner-30-0ff",
-"p": 20.93,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/7a9b8131-8a9f-42de-bf4a-38be3e553e66.jpg?v=1793720917&width=400",
-"type": "Bundle",
-"tags": [
-"bundlenov2026"
-],
-"in": true
-},
-{
-"t": "Maybelline Fit Me Fondation + Fit Me Concealer + Fit Me Powder -30% Off - FREE Blender Jar",
-"u": "https://zedstorelb.com/products/maybelline-fit-me-fondation-fit-me-concealer-fit-me-powder-30",
-"p": 16.86,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/d9e10adf-5fdc-46dd-82e3-30292bd91fb8.jpg?v=1793719083&width=400",
-"type": "Bundle",
-"tags": [
-"bundlenov2026"
-],
-"in": true
-},
-{
-"t": "Maybelline Fit Me Fondation + Lifter Stix + Lifter Gloss -30% Off - FREE Blender Jar",
-"u": "https://zedstorelb.com/products/maybelline-fit-me-fondation-lifter-stix-lifter-gloss-30-off",
-"p": 22.25,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/Untitleddesign_32_1579dd46-3cea-4ede-933f-4b4b17d067f0.jpg?v=1793725189&width=400",
-"type": "Bundle",
-"tags": [
-"bundlenov2026"
-],
-"in": true
-},
-{
-"t": "Maybelline Nude Of New York Eyeshadow + Hyper Easy Eyeliner - 30% Off",
-"u": "https://zedstorelb.com/products/maybelline-nude-of-new-york-eyeshadow-hyper-easy-eyeliner-30-off",
-"p": 14.12,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/77258a2a-57df-48e1-9943-14255a6afc41.jpg?v=1793716783&width=400",
-"type": "Bundle",
-"tags": [
-"bundlenov2026"
-],
-"in": true
-},
-{
 "t": "L'Oréal Paris Micellar Water + Hydra Genius + Hyaluron Expert Serum Bundle – 25% Off + Free Face Towel",
 "u": "https://zedstorelb.com/products/loreal-paris-micellar-water-hydra-genius-hyaluron-expert-serum-bundle-25-off-free-face-towel",
 "p": 24.54,
@@ -562,7 +484,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/images_3e44f84a-3f6d-4dd8-9b66-83ab552c5efe.jpg?v=1793402984&width=400",
 "type": "naiil polish",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Victoria's Secret Mango Temptation Body Mist 250ml",
@@ -1003,7 +925,7 @@
 "tags": [
 "sephoracollection"
 ],
-"in": true
+"in": false
 },
 {
 "t": "PUPA Milano Vamp! Sexy Lashes Volume and Curve Mascara",
@@ -1277,7 +1199,7 @@
 "freegift",
 "giftcollection"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Ruby Rose Natural Blend Liquid Concealer",
@@ -1827,7 +1749,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/pnxirvbv5w8kvcpxnrpj3f4oxp3a.webp?v=1792085079&width=400",
 "type": "Makeup",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "SHEGLAM Hydro-Touch Refreshing Setting Powder",
@@ -1888,7 +1810,7 @@
 "freegift",
 "giftcollection"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Free Gift L'Oreal Mirror 1",
@@ -2403,7 +2325,7 @@
 "freegift",
 "giftcollection"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Free Gift Beige Pouch",
@@ -2984,7 +2906,9 @@
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/UV_IR_01.webp?v=1790699117&width=400",
 "type": "suncscreen",
-"tags": [],
+"tags": [
+"B1G12026"
+],
 "in": true
 },
 {
@@ -3183,8 +3107,8 @@
 {
 "t": "Maybelline Tattoo Liner Gel Pot Eyeliner - 950 Blackest Black",
 "u": "https://zedstorelb.com/products/maybelline-tattoo-liner-gel-pot-eyeliner-950-blackest-black",
-"p": 9.0,
-"c": 10.0,
+"p": 10.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/60173eb3-ad9c-4842-b530-c460e5fd317f_250482135.avif?v=1790530202&width=400",
 "type": "Eyeliner",
@@ -3547,8 +3471,8 @@
 {
 "t": "Garnier SkinActive Vitamin C Brightening Serum",
 "u": "https://zedstorelb.com/products/garnier-skinactive-vitamin-c-brightening-serum",
-"p": 9.9,
-"c": 11.0,
+"p": 11.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/garnier-1.jpg?v=1790355303&width=400",
 "type": "Serum",
@@ -3566,8 +3490,8 @@
 {
 "t": "Garnier Skin Naturals BB Cream Hyaluronic Aloe All-in-1 SPF15 - Light",
 "u": "https://zedstorelb.com/products/garnier-skin-naturals-bb-cream-hyaluronic-aloe-all-in-1-spf15-light",
-"p": 10.8,
-"c": 12.0,
+"p": 12.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/3600541116559_1-800x800.jpg?v=1790355240&width=400",
 "type": "BB Cream",
@@ -3584,8 +3508,8 @@
 {
 "t": "Garnier Vitamin C Daily Tinted Even Tone Fluid Glow SPF 50+",
 "u": "https://zedstorelb.com/products/garnier-vitamin-c-daily-tinted-even-tone-fluid-glow-spf-50",
-"p": 10.8,
-"c": 12.0,
+"p": 12.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/14992709-1875331093252738.jpg?v=1790355119&width=400",
 "type": "Moisturizer",
@@ -3603,8 +3527,8 @@
 {
 "t": "Garnier PureActive AHA + BHA + Charcoal Anti-Blemish Serum",
 "u": "https://zedstorelb.com/products/garnier-pureactive-aha-bha-charcoal-anti-blemish-serum",
-"p": 10.8,
-"c": 12.0,
+"p": 12.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/garnier-pure-active-aha-bha-charcoal-anti-blemish-serum-30ml.avif?v=1790354886&width=400",
 "type": "Serum",
@@ -3622,8 +3546,8 @@
 {
 "t": "Garnier SkinActive Hydrating Facial Mist with Aloe Juice Spray",
 "u": "https://zedstorelb.com/products/garnier-skinactive-hydrating-facial-mist-with-aloe-juice",
-"p": 5.85,
-"c": 6.5,
+"p": 6.5,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/57_01ea0d97-fc7c-472f-bae0-12f0e65ee85c.jpg?v=1790354815&width=400",
 "type": "Face Mist",
@@ -3640,8 +3564,8 @@
 {
 "t": "L'Oreal Paris Bright Reveal Niacinamide Skin Duo (Dark Spot Serum 30ml + Hydrating Cream SPF15 50ml)",
 "u": "https://zedstorelb.com/products/loreal-paris-bright-reveal-niacinamide-skin-duo-dark-spot-serum-30ml-hydrating-cream-spf15-50ml",
-"p": 21.6,
-"c": 24.0,
+"p": 24.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/51_mB8U0utL._AC_UF894_1000_QL80.jpg?v=1790354652&width=400",
 "type": "Gift Set",
@@ -3677,8 +3601,8 @@
 {
 "t": "L'Oreal Paris Revitalift Laser Renew Resurfacing Ampoules 10% Glycolic Acid - 7 Day Cure",
 "u": "https://zedstorelb.com/products/loreal-paris-revitalift-laser-renew-resurfacing-ampoules-10-glycolic-acid-7-day-cure",
-"p": 14.4,
-"c": 16.0,
+"p": 16.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/3600523834402.jpg?v=1790354456&width=400",
 "type": "Serum",
@@ -3695,8 +3619,8 @@
 {
 "t": "L'Oreal Paris Revitalift Filler 1.5% Pure Hyaluronic Plumping Serum - Trial & Travel 15ml",
 "u": "https://zedstorelb.com/products/loreal-paris-revitalift-filler-1-5-pure-hyaluronic-plumping-serum-trial-travel-15ml",
-"p": 6.75,
-"c": 7.5,
+"p": 7.5,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/images_6cd18021-989a-4fce-85c8-9bc51efdfb39.jpg?v=1790354403&width=400",
 "type": "Serum",
@@ -3714,8 +3638,8 @@
 {
 "t": "L'Oreal Paris Revitalift Filler 1.5% Pure Hyaluronic Plumping Serum",
 "u": "https://zedstorelb.com/products/loreal-paris-revitalift-filler-1-5-pure-hyaluronic-plumping-serum",
-"p": 12.6,
-"c": 14.0,
+"p": 14.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/6a14188528ee1_800x_cb3527d6-d658-498a-ab71-5e64b2e37bf8.webp?v=1790354350&width=400",
 "type": "Serum",
@@ -3732,8 +3656,8 @@
 {
 "t": "L'Oréal Paris Bright Reveal Niacinamide Dark Spot Serum",
 "u": "https://zedstorelb.com/products/loreal-paris-bright-reveal-niacinamide-dark-spot-serum",
-"p": 11.7,
-"c": 13.0,
+"p": 13.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/images_192feebf-49b2-41be-a0ee-a99cee9f7b93.jpg?v=1790354257&width=400",
 "type": "Serum",
@@ -3750,8 +3674,8 @@
 {
 "t": "L'Oréal Paris Bright Reveal Dark Spot Hydrating Cream SPF 15",
 "u": "https://zedstorelb.com/products/loreal-paris-bright-reveal-dark-spot-hydrating-cream-spf-15",
-"p": 13.5,
-"c": 15.0,
+"p": 15.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/12286_LOP_BR_NIACINAMIDE_MOIST_SPF_15_DL_1-min.webp?v=1790354191&width=400",
 "type": "Moisturizer",
@@ -3910,8 +3834,8 @@
 {
 "t": "L'Oreal Paris Age Perfect Collagen Expert Re-Hydrating Eye Care",
 "u": "https://zedstorelb.com/products/loreal-paris-age-perfect-collagen-expert-re-hydrating-eye-care",
-"p": 11.7,
-"c": 13.0,
+"p": 13.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/l-oreal-paris-age-perfect-collagen-expert-eye-cream-15ml.jpg?v=1790183274&width=400",
 "type": "Eye Care",
@@ -3928,8 +3852,8 @@
 {
 "t": "L'Oreal Paris Revitalift Filler Hyaluronic Anti-Wrinkle Day Cream",
 "u": "https://zedstorelb.com/products/loreal-paris-revitalift-filler-hyaluronic-anti-wrinkle-day-cream",
-"p": 12.6,
-"c": 14.0,
+"p": 14.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/5795_1713188679_makeup21.webp?v=1790182523&width=400",
 "type": "Moisturizer",
@@ -4020,8 +3944,8 @@
 {
 "t": "L'Oreal Paris Revitalift Clinical Vitamin C UV Fluid SPF 50+ Brightening Daily Moisturizer Sunscreen",
 "u": "https://zedstorelb.com/products/loreal-paris-revitalift-clinical-vitamin-c-uv-fluid-spf-50-brightening-daily-moisturizer",
-"p": 12.6,
-"c": 14.0,
+"p": 14.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/3600524069735.webp?v=1790181332&width=400",
 "type": "Moisturizer",
@@ -4438,8 +4362,8 @@
 {
 "t": "L'Oreal Paris Elvive Collagen Lifter Fiber Thickening Conditioner",
 "u": "https://zedstorelb.com/products/loreal-paris-elvive-collagen-lifter-fiber-thickening-conditioner",
-"p": 3.6,
-"c": 4.0,
+"p": 4.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/l-oreal-paris-elvive-collagen-lifter-volumizing-conditioner-300ml.webp?v=1788977753&width=400",
 "type": "Conditioner",
@@ -4483,8 +4407,8 @@
 {
 "t": "L'Oreal Paris Elvive Collagen Lifter Volumizing Shampoo 400ml",
 "u": "https://zedstorelb.com/products/loreal-paris-elvive-collagen-lifter-volumizing-shampoo",
-"p": 3.83,
-"c": 4.25,
+"p": 4.25,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/images_1c1206c8-4999-442a-8ba0-0b4cae0d616d.jpg?v=1788977477&width=400",
 "type": "Shampoo",
@@ -5441,7 +5365,7 @@
 "freegift",
 "giftcollection"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Free Gift Avocado hair Clip",
@@ -6072,8 +5996,8 @@
 {
 "t": "L'Oréal Paris Revitalift Laser Eye Bag Instant Eraser 15ml",
 "u": "https://zedstorelb.com/products/loreal-paris-revitalift-laser-eye-bag-instant-eraser-15ml",
-"p": 14.57,
-"c": 16.19,
+"p": 16.19,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/l-oreal-paris-revitalift-laser-eye-bag-instant-eraser-15ml.avif?v=1786782575&width=400",
 "type": "Eye cream",
@@ -6317,13 +6241,13 @@
 "sephoracollection",
 "Setting Spray"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Maybelline FaceStudio Master Contour Face Contouring Kit 20 Medium to Deep",
 "u": "https://zedstorelb.com/products/maybelline-facestudio-master-contour-face-contouring-kit-20-medium-to-deep",
-"p": 10.8,
-"c": 12.0,
+"p": 12.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/rn-image_picker_lib_temp_93b46bdb-0a08-4954-b929-2683258a420f.jpg?v=1786641949&width=400",
 "type": "Contour Palette",
@@ -6342,8 +6266,8 @@
 {
 "t": "Maybelline FaceStudio Master Contour Face Contouring Kit 10 Light to Medium",
 "u": "https://zedstorelb.com/products/maybelline-facestudio-master-contour-face-contouring-kit-10-light-to-medium",
-"p": 10.8,
-"c": 12.0,
+"p": 12.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/rn-image_picker_lib_temp_79657b76-ba17-4097-b037-bad9bea93e5f.jpg?v=1786641352&width=400",
 "type": "Contour Palette",
@@ -7433,12 +7357,14 @@
 {
 "t": "Maybelline New York Lifter Oil-in-Gel Lip Gloss with Hyaluronic Acid",
 "u": "https://zedstorelb.com/products/maybelline-new-york-lifter-oil-in-gel-lip-gloss-with-hyaluronic-acid",
-"p": 9.9,
-"c": 11.0,
+"p": 11.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/005_Melon-ade-redMaybelline_New_York_Lifter_Oil-in-Gel_Lip_Gloss_with_Hyaluronic_Acid.webp?v=1785347564&width=400",
 "type": "Lipstick",
-"tags": [],
+"tags": [
+"B1G12026"
+],
 "in": true
 },
 {
@@ -7814,7 +7740,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/prd-side-1514751-1200x1200.avif?v=1785137087&width=400",
 "type": "Top coat",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Ruby Beauty 2in1 Concealer & Contouring Stick rb-5002",
@@ -8772,7 +8698,7 @@
 "freegift",
 "giftcollection"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Free Gift L'Oreal Apran Beige",
@@ -9583,12 +9509,14 @@
 {
 "t": "L'Oreal Paris Hyaluron Tint Lip Stain Serum Long Lasting, Hydrating Lip Makeup Infused With Hyaluronic Acid 5ml",
 "u": "https://zedstorelb.com/products/l-oreal-paris-hyaluron-tint-lip-stain-serum-long-lasting-hydrating-lip-makeup-infused-with-hyaluronic-acid-5ml",
-"p": 12.42,
-"c": 13.8,
+"p": 13.8,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/berry_jolie_490_-_L_Oreal_Paris_Hyaluron_Tint_Lip_Stain_Serum_Long_Lasting_Hydrating_Lip_Makeup_Infused_with_Hyaluronic_Acid_5ml.webp?v=1782549550&width=400",
 "type": "lip tint",
-"tags": [],
+"tags": [
+"B1G12026"
+],
 "in": true
 },
 {
@@ -9727,7 +9655,7 @@
 "tags": [
 "Pastel"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Pastel Nail Polish 459",
@@ -10119,8 +10047,8 @@
 {
 "t": "Ultra Doux Hair Food Kiwi Menthol 3in1 Hair Food Mask",
 "u": "https://zedstorelb.com/products/ultra-doux-hair-food-kiwi-menthol-3in1-hair-food-mask",
-"p": 5.19,
-"c": 5.77,
+"p": 5.77,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/images_210501d1-9ebf-4b64-8251-60043f5faba7.jpg?v=1784363721&width=400",
 "type": "Hair Mask",
@@ -10611,7 +10539,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/1_7f519c42-06c4-4642-9595-bc9488459e2b.webp?v=1780558651&width=400",
 "type": "perfume",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Lattafa Fakhar Perfume Mist 250ml",
@@ -10622,7 +10550,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/1_af32bb0d-d475-465a-a525-5eda47c548d3.webp?v=1780558409&width=400",
 "type": "perfume",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Lattafa Yara Tous Women’s Perfume Mist 250ml",
@@ -11414,19 +11342,21 @@
 {
 "t": "Maybelline Cloudtopia Blush For Cheeks And Lip Mousse Pigmented Formula for Up to 14hrs",
 "u": "https://zedstorelb.com/products/maybelline-cloudtopia-blush-for-cheeks-and-lip-mousse-pigmented-formula-for-up-to-14hr",
-"p": 9.0,
-"c": 10.0,
+"p": 10.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/Maybelline_Cloudtopia_Blush_for_Cheeks_and_Lip_Mousse_Ultra-Vivid_Pigmented_Formula_for_Up_to_14HR_of_Blush_and_Lip_Makeup_Color.webp?v=1779263461&width=400",
 "type": "Blush",
-"tags": [],
+"tags": [
+"B1G12026"
+],
 "in": true
 },
 {
 "t": "Garnier Super Uv Cooling Watergel Sunscreen Spf50+ Vitamin C 60ml",
 "u": "https://zedstorelb.com/products/garnier-super-uv-cooling-watergel-sunscreen-spf50-vitamin-c-60ml",
-"p": 12.59,
-"c": 13.99,
+"p": 13.99,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/GarnierSuperUVCoolingWaterGelSunscreen.webp?v=1779121720&width=400",
 "type": "Sunscreen",
@@ -11957,7 +11887,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/D0011241_essenceMicroPreciseBrowPencil04.png?v=1778154621&width=400",
 "type": "Eyebrow",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Essence get BIG! lashes CURL BOOST mascara",
@@ -12525,7 +12455,7 @@
 "tags": [
 "tancollection"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Avène Vitamin Activ Cg Creme 50ml + Free Mousse Nettoyante Matifiante 150ml",
@@ -12593,8 +12523,8 @@
 {
 "t": "L'Oreal Paris Glycolic-Bright Anti Dark Spot Exfoliant Peel 15% AHA + BHA + PHA + Niacinamide 25ml",
 "u": "https://zedstorelb.com/products/l-oreal-paris-glycolic-bright-anti-dark-spot-exfoliant-peel-15-aha-bha-pha-niacinamide-25ml",
-"p": 13.95,
-"c": 15.5,
+"p": 15.5,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/rn-image_picker_lib_temp_a793bcff-aba4-4bca-9715-245fe21f4770.jpg?v=1777283105&width=400",
 "type": "face mask",
@@ -12606,8 +12536,8 @@
 {
 "t": "L'Oreal Paris Revitalift Glass Skin Hydrogel Glow Mask In Only 90 Minutes, 1pc.",
 "u": "https://zedstorelb.com/products/l-oreal-paris-revitalift-glass-skin-hydrogel-glow-mask-in-only-90-minutes-1pc",
-"p": 6.3,
-"c": 7.0,
+"p": 7.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/b3f7cae4-3f89-4877-a72b-a2642b8c7bb6.jpg?v=1777224528&width=400",
 "type": "Mask",
@@ -12619,12 +12549,13 @@
 {
 "t": "L'Oreal Paris Infaillible 24H Power Glow Loose Powder",
 "u": "https://zedstorelb.com/products/l-oreal-paris-infaillible-24h-power-glow-loose-powder",
-"p": 16.2,
-"c": 18.0,
+"p": 18.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/a1b530ad-3695-4fe6-97c8-8cd50e793a5e.jpg?v=1777137764&width=400",
 "type": "Loose powder",
 "tags": [
+"B1G12026",
 "l'orealmakeup"
 ],
 "in": true
@@ -12632,8 +12563,8 @@
 {
 "t": "L'Oreal Paris Revitalift Laser Triple Power Serum 30ml",
 "u": "https://zedstorelb.com/products/loreal-paris-revitalift-laser-triple-power-serum-30ml",
-"p": 15.3,
-"c": 17.0,
+"p": 17.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/9621f89c-5baf-4fa2-bcd6-496f1307f6ea.jpg?v=1777135909&width=400",
 "type": "Serum",
@@ -12645,30 +12576,34 @@
 {
 "t": "Maybelline Maybe It's Serum Lipstick",
 "u": "https://zedstorelb.com/products/maybelline-maybe-its-serum-lipstick",
-"p": 9.0,
-"c": 10.0,
+"p": 10.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/2-001-Crop-Top-30189782.jpg?v=1777133952&width=400",
 "type": "Lipstick",
-"tags": [],
+"tags": [
+"B1G12026"
+],
 "in": true
 },
 {
 "t": "Maybelline Lifter Serum Concealer, Full Coverage, Includes 2% Peptides + Caffeine to Hydrate & Brighten Under Eyes",
 "u": "https://zedstorelb.com/products/maybelline-lifter-serum-concealer-full-coverage-includes-2-peptides-caffeine-to-hydrate-brighten-under-eyes",
-"p": 8.55,
-"c": 9.5,
+"p": 9.5,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/1-MNY-LIFTERCONCEALER05-3600531712587_1080x1080_32e0c48f-6c7c-4262-b4c6-d75fd4f876e7.webp?v=1777118282&width=400",
 "type": "Concealer",
-"tags": [],
+"tags": [
+"B1G12026"
+],
 "in": true
 },
 {
 "t": "L'Oreal Paris Revitalift Glass Skin Liquid Cream With Hyaluronic Acid & Vitamins B3+B5+C for Dewy, Plumped Glass Skin, 50ml",
 "u": "https://zedstorelb.com/products/l-oreal-paris-revitalift-glass-skin-liquid-cream-with-hyaluronic-acid-vitamins-b3-b5-c-for-dewy-plumped-glass-skin-50ml",
-"p": 11.61,
-"c": 12.9,
+"p": 12.9,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/1-GLASSSKINCREAM-3600524244484_1a143927-89ed-4151-8731-a0a97038ffe9.jpg?v=1777117436&width=400",
 "type": "Face cream",
@@ -13642,7 +13577,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/4_85bf0fbd-bdf0-4f74-a59a-25f72c0272cf.webp?v=1774600983&width=400",
 "type": "Cream",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Avène Sunscreen spray SPF50+ 200ml Get Avène Thermal Spring Water Spray 50ml",
@@ -13757,12 +13692,14 @@
 {
 "t": "Maybelline Colossal Bubble Mascara Black",
 "u": "https://zedstorelb.com/products/maybelline-colossal-bubble-waterproof-mascara-black",
-"p": 9.45,
-"c": 10.5,
+"p": 10.5,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/maybelline-colossal-bubble-waterproof-mascara-black-8-75ml.jpg?v=1774349964&width=400",
 "type": "Mascara",
-"tags": [],
+"tags": [
+"B1G12026"
+],
 "in": true
 },
 {
@@ -14084,8 +14021,8 @@
 {
 "t": "Garnier Ultra Doux Grape Moisture Hydrating Regenerative Shampoo for Dehydrated Hair 600ml",
 "u": "https://zedstorelb.com/products/garnier-ultra-doux-grape-moisture-hydrating-regenerative-shampoo-for-dehydrated-hair-600ml",
-"p": 4.48,
-"c": 4.98,
+"p": 4.98,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/GarnierUltraDouxGrapeMoistureHydratingRegenerativeShampooforDehydratedHairWithHydratingGrapeWater_AntioxidantGrapeseedOil600ml_141c9dba-1489-4bb2-8365-a4725cea7287.webp?v=1773481320&width=400",
 "type": "Shampoo",
@@ -14095,8 +14032,8 @@
 {
 "t": "Garnier Ultra Doux Grape Moisture Hydrating Regenerative Shampoo for Dehydrated Hair 400ml",
 "u": "https://zedstorelb.com/products/garnier-ultra-doux-grape-moisture-hydrating-regenerative-shampoo-for-dehydrated-hair-400ml",
-"p": 3.35,
-"c": 3.72,
+"p": 3.72,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/GarnierUltraDouxGrapeMoistureHydratingRegenerativeShampooforDehydratedHairWithHydratingGrapeWater_AntioxidantGrapeseedOil600ml.webp?v=1773481206&width=400",
 "type": "Shampoo",
@@ -14106,8 +14043,8 @@
 {
 "t": "Garnier Ultra Doux Grape Moisture 2 in 1 Styling Cream 200ml",
 "u": "https://zedstorelb.com/products/garnier-ultra-doux-grape-moisture-2-in-1-styling-cream-200ml",
-"p": 3.81,
-"c": 4.23,
+"p": 4.23,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/GarnierUltraDouxGrapeMoisture2in1StylingCream_VolumizingHydrationforDehydratedHairWithHydratingGrapeWater_AntioxidantGrapeseedOil200ml.webp?v=1773480916&width=400",
 "type": "Leave In",
@@ -14117,8 +14054,8 @@
 {
 "t": "Garnier Ultra Doux Grape Moisture Hydrating Regenerative Conditioner 200ml",
 "u": "https://zedstorelb.com/products/garnier-ultra-doux-grape-moisture-hydrating-regenerative-conditioner-200ml",
-"p": 3.16,
-"c": 3.51,
+"p": 3.51,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/GarnierUltraDouxGrapeMoistureHydratingRegenerativeConditionerforDehydratedHairWithHydratingGrapeWater_AntioxidantGrapeseedOil200ml.webp?v=1773480789&width=400",
 "type": "Conditioner",
@@ -14128,8 +14065,8 @@
 {
 "t": "Garnier Ultra Doux Grape Moisture Deep Regenerative Mask 340ml",
 "u": "https://zedstorelb.com/products/garnier-ultra-doux-grape-moisture-deep-regenerative-mask-340ml",
-"p": 4.5,
-"c": 5.0,
+"p": 5.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/GarnierUltraDouxGrapeMoistureDeepRegenerativeMaskforDehydratedHairWithHydratingGrapeWater_AntioxidantGrapeseedOil200ml.webp?v=1773480604&width=400",
 "type": "Mask",
@@ -14996,8 +14933,8 @@
 {
 "t": "Garnier Vitamin C + Serum Face Wash 100ml",
 "u": "https://zedstorelb.com/products/garnier-vitamin-c-serum-face-wash-100ml",
-"p": 6.21,
-"c": 6.9,
+"p": 6.9,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/619MxRl7SBL.jpg?v=1770971911&width=400",
 "type": "face wash",
@@ -15020,12 +14957,13 @@
 {
 "t": "L'Oreal Paris Telescopic Extensionist Mascara",
 "u": "https://zedstorelb.com/products/l-oreal-paris-telescopic-extensionist-mascara",
-"p": 13.05,
-"c": 14.5,
+"p": 14.5,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/L_OrealParisTelescopicExtensionistMascarafor24HLong-LastingCurl_Volume_andExceptionalEyelashes.webp?v=1770916361&width=400",
 "type": "Mascara",
 "tags": [
+"B1G12026",
 "l'orealmakeup"
 ],
 "in": true
@@ -15145,8 +15083,8 @@
 {
 "t": "L'Oreal UV Defender Aquafusion Daily Water Gel Sunscreen SPF50+ 50ml",
 "u": "https://zedstorelb.com/products/loreal-uv-defender-aquafusion-daily-water-gel-sunscreen-spf50-50ml",
-"p": 13.06,
-"c": 14.51,
+"p": 14.51,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/Untitled_design_-_2026-01-21T172046.776.webp?v=1770194560&width=400",
 "type": "Sunscreen",
@@ -15732,12 +15670,14 @@
 {
 "t": "Maybelline Lifter Glaze Oil Balm",
 "u": "https://zedstorelb.com/products/maybelline-lifter-glaze-oil-balm",
-"p": 9.45,
-"c": 10.5,
+"p": 10.5,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/maybelline-lifter-glaze-oil-balm-002-pink-drip.avif?v=1768380970&width=400",
 "type": "Lip Balm",
-"tags": [],
+"tags": [
+"B1G12026"
+],
 "in": true
 },
 {
@@ -16035,7 +15975,7 @@
 "clearance1",
 "essence2"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Face Facts Watermelon Sugar Body Scrub - 400g",
@@ -16183,12 +16123,14 @@
 {
 "t": "Maybelline New York Lifter Stix Multi-Use Face Stick Contour, Bronzer, Concealer And Foundation Stick, All-In-One Creamy Face Makeup",
 "u": "https://zedstorelb.com/products/maybelline-new-york-lifter-stix-multi-use-face-stick-contour-bronzer-concealer-and-foundation-stick-all-in-one-creamy-face-makeup",
-"p": 11.26,
-"c": 12.51,
+"p": 12.51,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/MaybellineNewYorkLifterStixMulti-UseFaceStickContour_Bronzer_ConcealerandFoundationStick_All-In-OneCreamyFaceMakeup.webp?v=1768380538&width=400",
 "type": "stick",
-"tags": [],
+"tags": [
+"B1G12026"
+],
 "in": true
 },
 {
@@ -16907,7 +16849,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/pastel-lakier-do-paznokci-nr-906-13ml.jpg?v=1766049807&width=400",
 "type": "Nail Polish",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Pastel 901",
@@ -17956,7 +17898,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/5550297.avif?v=1763745829&width=400",
 "type": "Highlighter",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Essence Lash Princess Mascara - Purple Color",
@@ -17972,8 +17914,8 @@
 {
 "t": "L'Oreal Paris Collagen Expert Age-Correcting Serum with Glycerin & Collagen Peptide Fractions 30ml",
 "u": "https://zedstorelb.com/products/l-oreal-paris-collagen-expert-age-correcting-serum-with-glycerin-collagen-peptide-fractions-30ml",
-"p": 7.82,
-"c": 8.69,
+"p": 8.69,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/L_OrealParisCollagenExpertAge-CorrectingSerumwithGlycerin_CollagenPeptideFractions.webp?v=1763744053&width=400",
 "type": "Serum",
@@ -17985,8 +17927,8 @@
 {
 "t": "L'Oreal Paris Collagen Expert Moisture-Filling Cream, With Glycerin & Collagen Peptide Fractions 50ml",
 "u": "https://zedstorelb.com/products/l-oreal-paris-collagen-expert-moisture-filling-cream-with-glycerin-collagen-peptide-fractions",
-"p": 5.85,
-"c": 6.5,
+"p": 6.5,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/L_OrealParisCollagenExpertMoisture-FillingCream_WithGlycerin_CollagenPeptideFractions.webp?v=1763743825&width=400",
 "type": "Face cream",
@@ -19103,8 +19045,8 @@
 {
 "t": "Garnier Ultra Doux Pure Avocado And Shea Butter Hair Nourisher For Very Dry, Frizzy Hair Or Dry Scalp 120ml",
 "u": "https://zedstorelb.com/products/garnier-ultra-doux-pure-avocado-and-shea-butter-hair-nourisher-for-very-dry-frizzy-hair-or-dry-scalp-120ml",
-"p": 7.23,
-"c": 8.03,
+"p": 8.03,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/1_7ddaaa6c-8028-4a7d-b174-e20b36e11555.webp?v=1761566673&width=400",
 "type": "hair oil",
@@ -20257,7 +20199,7 @@
 "koreancollection",
 "sephoracollection"
 ],
-"in": true
+"in": false
 },
 {
 "t": "La Roche-Posay Effaclar MAT+ Moisturizer Oily Skin 40ml",
@@ -20370,12 +20312,13 @@
 {
 "t": "L'Oréal Paris Infallible Laque Resistance Liquid Lipstick 16H Lacquer-Like Shine Finish Longwear & Transfer Resistant 5ml",
 "u": "https://zedstorelb.com/products/loreal-paris-infallible-laque-resistance-liquid-lipstick-16h-lacquer-like-shine-finish-longwear-transfer-resistant-5ml",
-"p": 13.68,
-"c": 15.2,
+"p": 15.2,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/220_ec14afb5-1bbb-4285-a83a-3cc99b84ac75.webp?v=1760010879&width=400",
 "type": "Lipstick",
 "tags": [
+"B1G12026",
 "l'orealmakeup"
 ],
 "in": true
@@ -20449,20 +20392,20 @@
 {
 "t": "L'Oreal Infaillible 32hr Matte Cover Foundation",
 "u": "https://zedstorelb.com/products/loreal-infaillible-32hr-matte-cover-foundation",
-"p": 15.22,
-"c": 16.91,
+"p": 16.91,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/25_97976f47-53f9-43ec-9b98-457bb7b432a1.webp?v=1759935926&width=400",
 "type": "Foundation",
 "tags": [
 "1212/2025",
 "24hr",
+"B1G12026",
 "bestseller10",
 "BF21",
 "cover",
 "dollar",
-"foundation",
-"l'orealmakeup"
+"foundation"
 ],
 "in": true
 },
@@ -20904,7 +20847,7 @@
 "tags": [
 "sephoracollection"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Huda Beauty Easy Blur Natural Airbrush Foundation with Niacinamide 30ml",
@@ -22351,8 +22294,8 @@
 {
 "t": "Garnier Fast Clear Gentle Cleanser Hydrating Face Wash 250ml – Clear Skin Care",
 "u": "https://zedstorelb.com/products/garnier-fast-clear-gentle-cleanser-hydrating-face-wash-250ml-clear-skin-care",
-"p": 7.65,
-"c": 8.5,
+"p": 8.5,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/GarnierFastClearGentleCleanserDeepHydratingFaceWashforAcneProneSkin250ml.webp?v=1758036116&width=400",
 "type": "Cleanser",
@@ -22367,8 +22310,8 @@
 {
 "t": "Garnier Super UV Anti-Acne Serum Sunscreen SPF50+ 30ml – Lightweight Daily Protection",
 "u": "https://zedstorelb.com/products/garnier-super-uv-anti-acne-serum-sunscreen-spf50-30ml-lightweight-daily-protection",
-"p": 10.35,
-"c": 11.5,
+"p": 11.5,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/9f9c19654a52418780acc4b5945f49e7-Optimal.jpg?v=1758035755&width=400",
 "type": "Sunscreen",
@@ -22707,8 +22650,8 @@
 {
 "t": "Garnier Ultra Doux Rice Water Hair Silk Smoothing Serum For Smooth Hair and High Shine 120ml",
 "u": "https://zedstorelb.com/products/garnier-ultra-doux-rice-water-hair-silk-smoothing-serum-for-smooth-hair-and-high-shine-120ml",
-"p": 7.23,
-"c": 8.03,
+"p": 8.03,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/1_dc833009-2e61-476c-9250-e3ce4e927959.jpg?v=1757948525&width=400",
 "type": "Hair Serum",
@@ -22720,8 +22663,8 @@
 {
 "t": "Garnier Skin Active  Fast Clear Invisible Pimple Patch 8 Hours Hydrocolloid 22patches",
 "u": "https://zedstorelb.com/products/garnier-skin-active-fast-clear-invisible-pimple-patch-8-hours-hydrocolloid-22patches",
-"p": 7.65,
-"c": 8.5,
+"p": 8.5,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/1-PimplePatch.jpg?v=1757947733&width=400",
 "type": "pimple patch",
@@ -23330,8 +23273,8 @@
 {
 "t": "Maybelline Super Stay Vinyl Ink Longwear Liquid Lipcolor USA Version",
 "u": "https://zedstorelb.com/products/maybelline-super-stay-vinyl-ink-longwear-liquid-lipcolor-usa-version",
-"p": 11.65,
-"c": 12.94,
+"p": 12.94,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/USAVERSION_1.jpg?v=1737213430&width=400",
 "type": "Lipstick",
@@ -23343,8 +23286,8 @@
 {
 "t": "Maybelline Super Stay Up to 24HR Skin Tint Foundation 30ml USA VERSION",
 "u": "https://zedstorelb.com/products/maybelline-super-stay-up-to-24hr-skin-tint-foundation-30ml",
-"p": 18.9,
-"c": 21.0,
+"p": 21.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/6605abed75b29d729a372d87-maybelline-super-stay-super-stay-up-to.jpg?v=1736762758&width=400",
 "type": "Foundation",
@@ -23357,8 +23300,8 @@
 {
 "t": "Maybelline SunKisser Multi-Use Liquid Blush and Bronzer USA Version",
 "u": "https://zedstorelb.com/products/maybelline-sunkisser-multi-use-liquid-blush-and-bronzer-usa-version",
-"p": 9.9,
-"c": 11.0,
+"p": 11.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/0001-4232710828043637399.jpg?v=1736766005&width=400",
 "type": "blush",
@@ -23387,8 +23330,8 @@
 {
 "t": "Maybelline Hyaluronic Acid Lifter Lip Gloss USA Version",
 "u": "https://zedstorelb.com/products/maybelline-hyaluronic-acid-lifter-lip-gloss-made-in-usa",
-"p": 8.62,
-"c": 9.58,
+"p": 9.58,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/0001-8829760150815227003.jpg?v=1736766422&width=400",
 "type": "",
@@ -23485,8 +23428,8 @@
 {
 "t": "Maybelline Eraser Rewind Foundation Treatment Makeup +Provitamin B5 20ml USA VERSION",
 "u": "https://zedstorelb.com/products/maybelline-eraser-foundation-treatment-makeup-provitamin-b5-20ml",
-"p": 13.95,
-"c": 15.5,
+"p": 15.5,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/Untitleddesign_30.jpg?v=1724233629&width=400",
 "type": "Foundation",
@@ -23500,8 +23443,8 @@
 {
 "t": "Garnier Skin Active Fast Bright Vitamin C Water Gel Moisturizer 48 Hours Hydration, Anti Dark Spots 30ml",
 "u": "https://zedstorelb.com/products/garnier-skin-active-fast-bright-vitamin-c-water-gel-moisturizer-48-hours-hydration-anti-dark-spots-30ml",
-"p": 6.81,
-"c": 7.57,
+"p": 7.57,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/1_74db02a1-4fe8-4334-8026-ebbd3132a583.webp?v=1755769955&width=400",
 "type": "Cream",
@@ -23898,7 +23841,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/5490041.webp?v=1754516642&width=400",
 "type": "Lip Liner",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Essence Hydra Kiss Lip Oil Lipstick",
@@ -24619,8 +24562,8 @@
 {
 "t": "L'Oreal Paris Lumi Le Liquid Blush with a Glowy Radiant Natural Blush Finish, Weightless and Buildable 11ml",
 "u": "https://zedstorelb.com/products/loreal-paris-lumi-le-liquid-blush-with-a-glowy-radiant-natural-blush-finish-weightless-and-buildable-11ml",
-"p": 12.16,
-"c": 13.51,
+"p": 13.51,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/625glowygoldpink.webp?v=1753110912&width=400",
 "type": "Blush",
@@ -24826,7 +24769,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/s-l1600_deede810-69a3-43bf-8140-34fc2941549f.webp?v=1752662407&width=400",
 "type": "perfume",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Victoria's Secret XO VICTORIA Perfume 1.7 oz/50ml",
@@ -24963,8 +24906,8 @@
 {
 "t": "Garnier Super UV Invisible Air Mist Face & Body Sunscreen With SPF 50+ For All Skin Types 75ml",
 "u": "https://zedstorelb.com/products/garnier-super-uv-invisible-air-mist-face-body-sunscreen-with-spf-50-for-all-skin-types-75ml",
-"p": 9.99,
-"c": 11.1,
+"p": 11.1,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/1_5_29b23074-1f8e-44a2-9457-bb1208908911.jpg?v=1752597117&width=400",
 "type": "Sunscreen",
@@ -24977,8 +24920,8 @@
 {
 "t": "Garnier Nutri Bomb Milky Sheet Masks Pack of 4 - Almond Milk and Coconut",
 "u": "https://zedstorelb.com/products/garnier-nutri-bomb-milky-sheet-masks-pack-of-4-almond-milk-and-coconut",
-"p": 14.4,
-"c": 16.0,
+"p": 16.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/Untitleddesign_63.jpg?v=1752496241&width=400",
 "type": "Mask",
@@ -25961,6 +25904,7 @@
 "tags": [
 "acnepronecollection",
 "antiagecollection",
+"B1G12026",
 "lorealskincare",
 "tancollection"
 ],
@@ -26319,8 +26263,8 @@
 {
 "t": "L'Oreal Paris Elvive Glycolic Gloss Detangling Cream for Dull Hair",
 "u": "https://zedstorelb.com/products/loreal-paris-elvive-glycolic-gloss-detangling-cream-for-dull-hair",
-"p": 4.13,
-"c": 4.59,
+"p": 4.59,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/1_2fa0c3e2-6d16-4e55-8d45-365016eefb5f.webp?v=1749552427&width=400",
 "type": "Leave In",
@@ -26345,8 +26289,8 @@
 {
 "t": "L'Oreal Paris Elvive Glycolic Gloss Extra Gloss Shampoo for Dull Porous Hair Powered by 3% Glycolic Acid",
 "u": "https://zedstorelb.com/products/loreal-paris-elvive-glycolic-gloss-extra-gloss-shampoo-for-dull-porous-hair-powered-by-3-glycolic-acid",
-"p": 3.83,
-"c": 4.25,
+"p": 4.25,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/2_6628ec68-5036-4854-9705-91b7f368f8d8.png?v=1749551909&width=400",
 "type": "Shampoo",
@@ -26453,8 +26397,8 @@
 {
 "t": "L'Oreal Paris Infallible 24H Tinted Serum With 1% Hyaluronic Acid For Radiant Hydrated Skin, Light To Medium Coverage, 30ml",
 "u": "https://zedstorelb.com/products/loreal-paris-infallible-24h-tinted-serum-with-1-hyaluronic-acid-for-radiant-hydrated-skin-light-to-medium-coverage-30ml",
-"p": 16.2,
-"c": 18.0,
+"p": 18.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/0.5-2.webp?v=1748353794&width=400",
 "type": "Foundation",
@@ -27012,8 +26956,8 @@
 {
 "t": "Garnier Super UV Invisible Serum Sunscreen 30ml",
 "u": "https://zedstorelb.com/products/garnier-super-uv-invisible-serum-sunscreen-30ml",
-"p": 10.72,
-"c": 11.91,
+"p": 11.91,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/1_f94ce778-b473-468d-ac97-25b0fb181f9f.webp?v=1746809811&width=400",
 "type": "Sunscreen",
@@ -27098,31 +27042,9 @@
 "in": false
 },
 {
-"t": "Batiste Volume add oomph to limp or lifeless hair 200ml",
-"u": "https://zedstorelb.com/products/batiste-volume-add-oomph-to-limp-or-lifeless-hair-200ml",
-"p": 11.6,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/2DF_800_3ec7a1a0-6bc0-499a-93b0-002475a3d2e7.jpg?v=1746630384&width=400",
-"type": "dry shampoo",
-"tags": [],
-"in": false
-},
-{
-"t": "Batiste Fresh Breezy Citrus Dry Shampoo 200ml",
-"u": "https://zedstorelb.com/products/batiste-fresh-breezy-citrus-dry-shampoo-200ml",
-"p": 10.1,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/Batiste-Fresh-Dry-Shampoo.png?v=1746630066&width=400",
-"type": "dry shampoo",
-"tags": [],
-"in": false
-},
-{
 "t": "Batiste Floral Dry Shampoo 200ml",
 "u": "https://zedstorelb.com/products/batiste-dry-shampoo-200ml",
-"p": 10.1,
+"p": 11.5,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/Batiste-Floral-Dry-Shampoo.png?v=1746629705&width=400",
@@ -27130,7 +27052,7 @@
 "tags": [
 "clearancecollection"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Pastel nail polish - 439",
@@ -27179,13 +27101,14 @@
 {
 "t": "Maybelline Super Stay Teddy Tint Soft Blurred Matte Lip Tint | 12h Longwear, Transfer proof",
 "u": "https://zedstorelb.com/products/maybelline-super-stay-teddy-tint-soft-blurred-matte-lip-tint-12h-longwear-transfer-proof",
-"p": 9.9,
-"c": 11.0,
+"p": 11.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/Studio-Project_33.jpg?v=1746128733&width=400",
 "type": "Lipstick",
 "tags": [
 "1212/2025",
+"B1G12026",
 "dryskincollection",
 "lorealfinal"
 ],
@@ -27194,8 +27117,8 @@
 {
 "t": "L'Oreal Paris Glycolic Bright Serum with 8% [Melasyl ™ + Glycolic Acid + Niacinamide] face serum for Dark Spots & Brightening 30ml",
 "u": "https://zedstorelb.com/products/l-oreal-paris-glycolic-bright-serum-with-8-melasyl-™-glycolic-acid-niacinamide-face-serum-for-dark-spots-brightening-30ml",
-"p": 12.57,
-"c": 13.97,
+"p": 13.97,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/pink.webp?v=1746110642&width=400",
 "type": "Face serum",
@@ -27203,11 +27126,11 @@
 "1212/2025",
 "acnepronecollection",
 "antiagecollection",
+"B1G12026",
 "dollar",
 "L'Oreal glycolic bright serum 30ml",
 "l'orealmakeup",
-"lorealfinal",
-"lorealskincare"
+"lorealfinal"
 ],
 "in": true
 },
@@ -27300,7 +27223,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/FluffItUpSettingWAX2.webp?v=1745928193&width=400",
 "type": "brow setting wax",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Lattafa Teriaq Perfume 100ml",
@@ -27885,13 +27808,14 @@
 {
 "t": "L'Oreal Paris Plump Ambition Hyaluron Lip Oil Lipstick",
 "u": "https://zedstorelb.com/products/l-oreal-paris-plump-ambition-hyaluron-lip-oil-lipstick",
-"p": 12.43,
-"c": 13.81,
+"p": 13.81,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/Plump_Ambition_Crystal_ClearArtboard_1-100.webp?v=1744728377&width=400",
 "type": "lip oil",
 "tags": [
 "1212/2025",
+"B1G12026",
 "l'orealmakeup",
 "lorealfinal",
 "sephoracollection"
@@ -28175,7 +28099,7 @@
 "tags": [
 "acnepronecollection"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Skin1004 Madagascar Centella Tone Brightening Capsule Ampoule 100ml",
@@ -28663,8 +28587,8 @@
 {
 "t": "L'Oreal Paris Men Expert Deodorant Fresh Extreme 48h Dry Non Stop 150ml",
 "u": "https://zedstorelb.com/products/loreal-paris-men-expert-deodorant-fresh-extreme-48h-dry-non-stop-150ml",
-"p": 3.96,
-"c": 4.4,
+"p": 4.4,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/3600521848760.main_1024x_27c7a428-4297-45d0-9cb0-797b1d49022c.webp?v=1743764281&width=400",
 "type": "Deodorant",
@@ -28678,8 +28602,8 @@
 {
 "t": "L'Oreal Paris Men Expert Hydra Energetic Extreme Sport Aerosol Deo 250ml",
 "u": "https://zedstorelb.com/products/loreal-paris-men-expert-hydra-energetic-extreme-sport-aerosol-deo-250ml",
-"p": 3.96,
-"c": 4.4,
+"p": 4.4,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/rn-image_picker_lib_temp_f9632a01-8fc1-4fb7-b5d5-c1913d9f4589.jpg?v=1763971756&width=400",
 "type": "Deodorant",
@@ -28692,8 +28616,8 @@
 {
 "t": "L'Oreal Paris Men Expert 48h Protective Body Spray",
 "u": "https://zedstorelb.com/products/loreal-paris-men-expert-48h-protective-body-spray",
-"p": 3.96,
-"c": 4.4,
+"p": 4.4,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/du6gpyrd3uft.jpg?v=1743763777&width=400",
 "type": "Deodorant",
@@ -28706,13 +28630,14 @@
 {
 "t": "L'Oreal Men Expert Barber Club Beard & Skin Oil 30ml",
 "u": "https://zedstorelb.com/products/loreal-men-expert-barber-club-beard-skin-oil-30ml",
-"p": 6.3,
-"c": 7.0,
+"p": 7.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/loreal_men_expert_beard_oil.jpg?v=1743959995&width=400",
 "type": "Beard Oil",
 "tags": [
 "1212/2025",
+"B1G12026",
 "lorealfinal"
 ],
 "in": true
@@ -28720,13 +28645,14 @@
 {
 "t": "L'Oreal Paris Men Expert Hydra Energetic Daily Anti-Fatigue Moisturizing Lotion 50ml",
 "u": "https://zedstorelb.com/products/loreal-paris-men-expert-hydra-energetic-daily-anti-fatigue-moisturizing-lotion-50ml",
-"p": 8.55,
-"c": 9.5,
+"p": 9.5,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/download_81ac851b-0bda-4190-ae97-fa2b2eccbc5d.jpg?v=1743850089&width=400",
 "type": "moisturizer",
 "tags": [
 "1212/2025",
+"B1G12026",
 "lorealfinal"
 ],
 "in": true
@@ -28734,13 +28660,14 @@
 {
 "t": "L'Oreal Paris Barberclub beard & skin moisturizer 50ml",
 "u": "https://zedstorelb.com/products/loreal-paris-barberclub-beard-skin-moisturizer-50ml",
-"p": 7.2,
-"c": 8.0,
+"p": 8.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/Packshotstemp-Lynn_1_cebfeece-7d80-4640-bf21-b367adc1d3c5.webp?v=1743959760&width=400",
 "type": "Moisturizer",
 "tags": [
 "1212/2025",
+"B1G12026",
 "lorealfinal"
 ],
 "in": true
@@ -28748,13 +28675,14 @@
 {
 "t": "L'Oreal Paris Men Expert Hydra Energetic Anti-Fatigue Eye Roll-On",
 "u": "https://zedstorelb.com/products/loreal-paris-men-expert-hydra-energetic-anti-fatigue-eye-roll-on",
-"p": 7.2,
-"c": 8.0,
+"p": 8.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/men-expert-hydra-energetic-anti-fatigue-eye-roll-on-main.webp?v=1743761789&width=400",
 "type": "Eye cream",
 "tags": [
 "1212/2025",
+"B1G12026",
 "lorealfinal"
 ],
 "in": true
@@ -28762,13 +28690,14 @@
 {
 "t": "L'Oreal Paris Men Expert Barber Club Beard, Face & Hair Wash 200ml",
 "u": "https://zedstorelb.com/products/loreal-paris-men-expert-barber-club-beard-face-hair-wash-200ml",
-"p": 4.51,
-"c": 5.01,
+"p": 5.01,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/l-oreal-paris-men-expert-barber-club-beard-face-hair-wash-200ml.webp?v=1743760793&width=400",
 "type": "Cleanser",
 "tags": [
 "1212/2025",
+"B1G12026",
 "lorealfinal"
 ],
 "in": true
@@ -28776,8 +28705,8 @@
 {
 "t": "L'Oreal Paris Men Expert Barber Club 48H Protective Deodorant Cedarwood Essential Oil",
 "u": "https://zedstorelb.com/products/loreal-paris-men-expert-barber-club-48h-protective-deodorant-cedarwood-essential-oil",
-"p": 3.83,
-"c": 4.25,
+"p": 4.25,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/20222706_digital_barberclub_deorollon_main-image_ATF01_dmi_image_na_no-cta.webp?v=1743760343&width=400",
 "type": "Deodorant",
@@ -28790,8 +28719,8 @@
 {
 "t": "L'Oreal Paris Men Expert Deodorant Hydra Energetic Extreme Sport 75h",
 "u": "https://zedstorelb.com/products/loreal-paris-men-expert-deodorant-hydra-energetic-extreme-sport-75h",
-"p": 3.83,
-"c": 4.25,
+"p": 4.25,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/3600524143169.webp?v=1743760027&width=400",
 "type": "Deodorant",
@@ -28804,8 +28733,8 @@
 {
 "t": "L'Oreal Paris Men Expert Deodorant Fresh Extreme Intense Freshness 48h",
 "u": "https://zedstorelb.com/products/loreal-paris-men-expert-deodorant-fresh-extreme-intense-freshness-48h",
-"p": 3.83,
-"c": 4.25,
+"p": 4.25,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/3600521848289_Loreal_MenExpert_Fresh_Extreme_48H_antiperspirant_deo_roll-on_50ml.webp?v=1743759750&width=400",
 "type": "Deodorant",
@@ -28898,13 +28827,14 @@
 {
 "t": "Maybelline Super Stay Up To 30H Lumi Matte Foundation 30ml",
 "u": "https://zedstorelb.com/products/maybelline-super-stay-up-to-30h-lumi-matte-foundation-30ml",
-"p": 12.6,
+"p": 14.0,
 "c": 14.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/8_7f3c8a1e-7b2c-4a18-b09f-9aab37988385.png?v=1743858689&width=400",
 "type": "Foundation",
 "tags": [
 "1212/2025",
+"B1G12026",
 "lorealfinal"
 ],
 "in": true
@@ -29244,8 +29174,8 @@
 {
 "t": "L'Oreal Paris 3-in-1 Deep Cleansing Micellar Water for long wear oil makeup remover 400ML",
 "u": "https://zedstorelb.com/products/loreal-paris-3-in-1-deep-cleansing-micellar-water-for-long-wear-oil-makeup-remover-400ml",
-"p": 8.45,
-"c": 9.39,
+"p": 9.39,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/Micellar-Oap.jpg?v=1742659519&width=400",
 "type": "Micellar Water",
@@ -29260,8 +29190,8 @@
 {
 "t": "L'Oreal Paris 3-in-1 Refreshing Micellar Water, deep cleansing moisturize micellar for dry to normal skin 400ML",
 "u": "https://zedstorelb.com/products/loreal-paris-3-in-1-refreshing-micellar-water-deep-cleansing-moisturize-micellar-for-dry-to-normal-skin-400ml",
-"p": 7.02,
-"c": 7.8,
+"p": 7.8,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/Micellar-Oap-2_1592a128-f507-49c2-9b0d-45dcbd3dcb5e.jpg?v=1742658891&width=400",
 "type": "Micellar Water",
@@ -29925,8 +29855,8 @@
 {
 "t": "Maybelline Lash Sensational Sky High Waterproof Mascara 6ml",
 "u": "https://zedstorelb.com/products/maybelline-lash-sensational-sky-high-waterproof-mascara-very-black-6ml",
-"p": 10.35,
-"c": 11.5,
+"p": 11.5,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/maybelline-lash-sensational-sky-high-waterproof-mascara-01-very-black-6ml.jpg?v=1741791008&width=400",
 "type": "Mascara",
@@ -31394,8 +31324,8 @@
 {
 "t": "Garnier Ultra Doux The Lion King Kids Shampoo - Apricot And Cotton Flower",
 "u": "https://zedstorelb.com/products/garnier-ultra-doux-the-lion-king-kids-shampoo-apricot-and-cotton-flower",
-"p": 3.03,
-"c": 3.37,
+"p": 3.37,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/garnier_apricot.webp?v=1738062105&width=400",
 "type": "Shampoo",
@@ -32249,7 +32179,7 @@
 "tags": [
 "Sensitiveskincollection"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Avene Cicalfate+ Repairing Cream Spf50+ 30ml",
@@ -32658,13 +32588,14 @@
 {
 "t": "Maybelline Lash Sensational Firework Washable Mascara",
 "u": "https://zedstorelb.com/products/maybelline-lash-sensational-firework-washable-mascara",
-"p": 11.71,
-"c": 13.01,
+"p": 13.01,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/2-FireworkMascara_9e7a7ba6-7cf9-4c11-b009-9bb85dd31d9d.jpg?v=1736120053&width=400",
 "type": "Mascara",
 "tags": [
 "1212/2025",
+"B1G12026",
 "lorealfinal"
 ],
 "in": true
@@ -33042,13 +32973,14 @@
 {
 "t": "Maybelline Superstay Matte Ink Liquid Lipstick",
 "u": "https://zedstorelb.com/products/maybelline-superstay-matte-ink-liquid-lipstick",
-"p": 9.9,
-"c": 11.0,
+"p": 11.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/pioneer.jpg?v=1739025122&width=400",
 "type": "Lipstick",
 "tags": [
 "1212/2025",
+"B1G12026",
 "lorealfinal"
 ],
 "in": true
@@ -33730,7 +33662,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/Eclaire-Lattafa-Parfums.webp?v=1732099560&width=400",
 "type": "perfume",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Lattafa Yara Candy Eau De Parfum 100ml",
@@ -35901,7 +35833,7 @@
 "sephoracollection",
 "splashlotion"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Bath And Body Works Fine Fragrance Mist 236ml - Golden Berry Mistletoe",
@@ -36543,8 +36475,8 @@
 {
 "t": "Garnier Ultra Doux Curls Restoring Hair Food Cocoa Butter Mask 390ml",
 "u": "https://zedstorelb.com/products/garnier-ultra-doux-curls-restoring-hair-food-cocoa-butter-mask-390ml",
-"p": 5.19,
-"c": 5.77,
+"p": 5.77,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/UltraDoux-CurlsRestoringHairFood3In390ml_600x_7d2323ad-3fe0-4b6c-b1c5-f543a7ae6d11.webp?v=1729171804&width=400",
 "type": "mask",
@@ -37259,7 +37191,7 @@
 "tags": [
 "CeraVe SA Smoothing Cleanser 236ml"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Dali Beauty Volumize Mascara",
@@ -37303,13 +37235,14 @@
 {
 "t": "L'Oreal Paris Revitalift Retinol Night Serum With 0.2% Pure Retinol For All Skin Types 30 ml",
 "u": "https://zedstorelb.com/products/loreal-paris-revitalift-retinol-night-serum-with-0-2-pure-retinol-for-all-skin-types-30-ml",
-"p": 16.2,
-"c": 18.0,
+"p": 18.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/RetinolSerumProductThumbnails1.jpg?v=1727346273&width=400",
 "type": "Serum",
 "tags": [
 "1212/2025",
+"B1G12026",
 "dryskincollection",
 "L'Oreal Paris Revitalift Retinol Night Serum With 0.2% Pure Retinol For All Skin Types 30 ml",
 "lorealfinal",
@@ -37940,8 +37873,8 @@
 {
 "t": "L'Oreal Paris, Hyaluron Pure Oil Erasing Scalp Serum with Salicylic Acid, for Oily Roots and Dehydrated Lengths",
 "u": "https://zedstorelb.com/products/loreal-paris-hyaluron-pure-oil-erasing-scalp-serum-with-salicylic-acid-for-oily-roots-and-dehydrated-lengths",
-"p": 8.72,
-"c": 9.69,
+"p": 9.69,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/1_3.jpg?v=1726570831&width=400",
 "type": "Hair Serum",
@@ -37959,8 +37892,8 @@
 {
 "t": "L'Oreal Paris Elvive Hyaluron Pure 72h Rehydrating Conditioner for Oily Scalp & Dehydrated Lengths",
 "u": "https://zedstorelb.com/products/l-oreal-paris-elvive-hyaluron-pure-72h-rehydrating-conditioner-for-oily-scalp-dehydrated-lengths",
-"p": 3.38,
-"c": 3.76,
+"p": 3.76,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/1_2.jpg?v=1726570548&width=400",
 "type": "Conditioner",
@@ -37976,8 +37909,8 @@
 {
 "t": "L'Oreal Paris Elvive Hyaluron Pure Purifying Shampoo for Oily Roots And Dehydrated Length",
 "u": "https://zedstorelb.com/products/l-oreal-paris-elvive-hyaluron-pure-purifying-shampoo-for-oily-roots-and-dehydrated-length-600-ml",
-"p": 3.83,
-"c": 4.25,
+"p": 4.25,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/1_1.jpg?v=1726569856&width=400",
 "type": "Shampoo",
@@ -38273,6 +38206,132 @@
 "type": "shower gel",
 "tags": [
 "Bath And Body Works Shower Gel 295ml -",
+"sephoracollection"
+],
+"in": false
+},
+{
+"t": "Bath And Body Works Shower Gel 295ml - Japanese Cherry Blossom",
+"u": "https://zedstorelb.com/products/bath-and-body-works-shower-gel-295ml-japanese-cherry-blossom",
+"p": 18.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/Studio-Project-2024-09-13T181339.812.jpg?v=1726240457&width=400",
+"type": "shower gel",
+"tags": [
+"Bath And Body Works Shower Gel 295ml -",
+"sephoracollection"
+],
+"in": false
+},
+{
+"t": "Bath And Body Works Shower Gel 295ml - Dream Bright",
+"u": "https://zedstorelb.com/products/bath-and-body-works-shower-gel-295ml-dream-bright",
+"p": 18.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/Studio-Project-2024-09-13T180506.357.jpg?v=1726239981&width=400",
+"type": "shower gel",
+"tags": [
+"Bath And Body Works Shower Gel 295ml -",
+"sephoracollection"
+],
+"in": false
+},
+{
+"t": "Missha Mascure Sheet Mask Ceramide",
+"u": "https://zedstorelb.com/products/missha-mascure-sheet-mask-ceramide",
+"p": 3.3,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/Untitleddesign_42.jpg?v=1726238402&width=400",
+"type": "Mask",
+"tags": [
+"dryskincollection",
+"koreancollection",
+"Missha",
+"Sensitiveskincollection",
+"sephoracollection"
+],
+"in": false
+},
+{
+"t": "Missha Mascure Sheet Mask Glutathione",
+"u": "https://zedstorelb.com/products/missha-mascure-sheet-mask-glutathione",
+"p": 3.3,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/Untitleddesign_41.jpg?v=1726238290&width=400",
+"type": "Mask",
+"tags": [
+"hyperpigmentationcollection",
+"hyperpigmentationollection",
+"koreancollection",
+"Missha",
+"sephoracollection"
+],
+"in": false
+},
+{
+"t": "Missha Mascure Sheet Mask Propolis",
+"u": "https://zedstorelb.com/products/missha-mascure-sheet-mask-propolis",
+"p": 3.3,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/Untitleddesign_40.jpg?v=1726238185&width=400",
+"type": "Mask",
+"tags": [
+"koreancollection",
+"Missha",
+"sephoracollection"
+],
+"in": false
+},
+{
+"t": "Missha Mascure Sheet Mask PHA",
+"u": "https://zedstorelb.com/products/missha-mascure-sheet-mask-pha",
+"p": 3.3,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/Untitleddesign_39.jpg?v=1726238037&width=400",
+"type": "Mask",
+"tags": [
+"koreancollection",
+"Missha",
+"Sensitiveskincollection",
+"sephoracollection"
+],
+"in": false
+},
+{
+"t": "Missha Mascure Sheet Mask Madecassoside",
+"u": "https://zedstorelb.com/products/missha-mascure-sheet-mask-madecassoside",
+"p": 3.3,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/Untitleddesign_38.jpg?v=1726237942&width=400",
+"type": "Mask",
+"tags": [
+"acnepronecollection",
+"koreancollection",
+"Missha",
+"Sensitiveskincollection",
+"sephoracollection"
+],
+"in": false
+},
+{
+"t": "Missha Mascure Sheet Mask Saline Water",
+"u": "https://zedstorelb.com/products/missha-mascure-sheet-mask-saline-water",
+"p": 3.3,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0103/2080/5988/files/Studio-Project_32.jpg?v=1726237792&width=400",
+"type": "Mask",
+"tags": [
+"koreancollection",
+"Missha",
+"Sensitiveskincollection",
 "sephoracollection"
 ],
 "in": false
