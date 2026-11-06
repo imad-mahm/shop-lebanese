@@ -1,5 +1,97 @@
 [
 {
+"t": "24 Fuchsia Roses",
+"u": "https://exotica.com/products/24-fuchsia-roses",
+"p": 72.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/24_Fuchsia_Roses.png?v=1793977071&width=400",
+"type": "Flowers",
+"tags": [
+"Birthdays",
+"Congratulations",
+"For Friends",
+"For Her",
+"For Mom",
+"For Teta",
+"Fuschia",
+"Graduation"
+],
+"in": false
+},
+{
+"t": "Modern Touch",
+"u": "https://exotica.com/products/modern-touch",
+"p": 198.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Modern_Touch.jpg?v=1769494708&width=400",
+"type": "Plants",
+"tags": [
+"Birthdays",
+"Congratulations",
+"For Colleagues",
+"For Dad",
+"For Friends",
+"For Her",
+"For Him",
+"For Mom"
+],
+"in": true
+},
+{
+"t": "Cascading Orchid",
+"u": "https://exotica.com/products/cascading-orchid",
+"p": 233.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/56.jpg?v=1773143104&width=400",
+"type": "Plants",
+"tags": [
+"Birthdays",
+"Congratulations",
+"For Friends",
+"For Her",
+"For Mom",
+"For Teta",
+"Get Well Soon",
+"Indoor Plants"
+],
+"in": true
+},
+{
+"t": "Grand Yucca",
+"u": "https://exotica.com/products/grand-yucca",
+"p": 219.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Yucca_extra_large_f7013239-b5ac-49f5-9270-985ae4849a96.jpg?v=1793948642&width=400",
+"type": "Plants",
+"tags": [
+"Green",
+"Indoor Plants",
+"Plants",
+"preorder"
+],
+"in": false
+},
+{
+"t": "Large Yucca",
+"u": "https://exotica.com/products/large-yucca",
+"p": 194.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/FRA02954_c434c099-fc3d-473a-993b-e88095c886b9.jpg?v=1793948118&width=400",
+"type": "Plants",
+"tags": [
+"Green",
+"Indoor Plants",
+"Plants",
+"preorder"
+],
+"in": false
+},
+{
 "t": "Large Snake Plant",
 "u": "https://exotica.com/products/large-snake-plant",
 "p": 165.0,
@@ -47,7 +139,9 @@
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Dracaena_Joy_L.jpg?v=1791198091&width=400",
 "type": "Plants",
-"tags": [],
+"tags": [
+"preorder"
+],
 "in": true
 },
 {
@@ -59,7 +153,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Dracaena_M.jpg?v=1791201271&width=400",
 "type": "Plants",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Small Peace Lily",
@@ -125,7 +219,7 @@
 "For Mom",
 "Graduation"
 ],
-"in": true
+"in": false
 },
 {
 "t": "My Sweet Pumpkin",
@@ -147,12 +241,12 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/petalkiss.jpg?v=1735637858&width=400",
 "type": "Flowers",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Custom Order",
 "u": "https://exotica.com/products/custom-order-2",
-"p": 88.0,
+"p": 176.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/0000_produced_at_exotica.jpg?v=1744022321&width=400",
@@ -196,7 +290,7 @@
 "Love & Romance",
 "Red"
 ],
-"in": true
+"in": false
 },
 {
 "t": "White Majesty",
@@ -381,12 +475,12 @@
 "in": true
 },
 {
-"t": "Yucca Lover",
-"u": "https://exotica.com/products/yucca-lover",
+"t": "Medium Yucca",
+"u": "https://exotica.com/products/medium-yucca",
 "p": 154.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/YuccaLover_271d59c8-821d-4f51-a589-eeb96ed92853.png?v=1791203168&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Medium_Yucca.jpg?v=1793947765&width=400",
 "type": "Plants",
 "tags": [
 "Green",
@@ -835,7 +929,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Burnt_Orange.png?v=1789555103&width=400",
 "type": "Flowers",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Blush Garden",
@@ -911,7 +1005,7 @@
 "Mixed Flowers",
 "Orange"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Colours of Fall",
@@ -1371,7 +1465,7 @@
 "Pink",
 "Roses"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Matcha Buttercream",
@@ -1404,7 +1498,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Berry_Blush.jpg?v=1791443253&width=400",
 "type": "Flowers",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Lilac Hugs",
@@ -1611,28 +1705,6 @@
 "Mixed Flowers",
 "New Born"
 ],
-"in": true
-},
-{
-"t": "Ready-made Bouquet",
-"u": "https://exotica.com/products/ready-made-bouquet",
-"p": 10.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/pink-passion-peonies.jpg?v=1746448495&width=400",
-"type": "",
-"tags": [],
-"in": true
-},
-{
-"t": "DIY Flower Box",
-"u": "https://exotica.com/products/diy-flower-box",
-"p": 10.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/pink-passion-peonies.jpg?v=1746448495&width=400",
-"type": "",
-"tags": [],
 "in": true
 },
 {
@@ -2092,7 +2164,7 @@
 "For Him",
 "For Kids"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Birthday Cake",
@@ -2241,10 +2313,10 @@
 {
 "t": "Rose Prestige",
 "u": "https://exotica.com/products/rose-prestige",
-"p": 110.0,
+"p": 120.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Rose_Prestige.jpg?v=1775728075&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Rose_Prestige.jpg?v=1793957028&width=400",
 "type": "Flowers",
 "tags": [
 "Birthdays",
@@ -2869,7 +2941,7 @@
 "For Teta",
 "Mixed Colors"
 ],
-"in": false
+"in": true
 },
 {
 "t": "The Spiky Plant",
@@ -3013,7 +3085,7 @@
 "Get Well Soon",
 "Graduation"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Birthday Bundle",
@@ -3101,7 +3173,7 @@
 "Housewarming",
 "Indoor Plants"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Rooted Love",
@@ -4112,7 +4184,7 @@
 {
 "t": "Magic Roses",
 "u": "https://exotica.com/products/magic-roses",
-"p": 537.0,
+"p": 680.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/magic-roses.jpg?v=1735637868&width=400",
@@ -4169,7 +4241,7 @@
 "in": true
 },
 {
-"t": "Fuchsia Elegance",
+"t": "12 Fuchsia Roses",
 "u": "https://exotica.com/products/fuchsia-elegance",
 "p": 42.0,
 "c": null,
@@ -4790,7 +4862,7 @@
 "Fuschia",
 "Graduation"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Bonsai Essence",
@@ -4956,7 +5028,7 @@
 {
 "t": "Love Combination",
 "u": "https://exotica.com/products/love-combination",
-"p": 80.0,
+"p": 93.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Love-Combination.jpg?v=1746691391&width=400",
@@ -5244,7 +5316,7 @@
 "For Him",
 "For Kids"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Champagne Drappier Brut Magnum",
@@ -5740,7 +5812,7 @@
 {
 "t": "36 Red Roses",
 "u": "https://exotica.com/products/3-dozen-reds",
-"p": 102.0,
+"p": 138.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Red_Roses_and_Cake_by_the_Sofa.png?v=1791893453&width=400",
@@ -5772,7 +5844,7 @@
 {
 "t": "24 Red Roses",
 "u": "https://exotica.com/products/double-your-love",
-"p": 72.0,
+"p": 96.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/24_red_roses_bouquet.png?v=1791806163&width=400",
@@ -5871,7 +5943,7 @@
 {
 "t": "100 Red Roses",
 "u": "https://exotica.com/products/count-from-1-to-100",
-"p": 250.0,
+"p": 350.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/100_red_roses_bouquet.png?v=1791881219&width=400",
@@ -5887,7 +5959,7 @@
 {
 "t": "12 Red Roses",
 "u": "https://exotica.com/products/classic-symbol-of-love",
-"p": 42.0,
+"p": 54.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/12_red_roses_Bouquet_1.png?v=1791805998&width=400",
@@ -6062,7 +6134,7 @@
 {
 "t": "Madness Of Love",
 "u": "https://exotica.com/products/madness-of-love",
-"p": 625.0,
+"p": 875.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/Madness-of-love_809e4879-942d-4716-9303-de5161428dd9.jpg?v=1735638152&width=400",
@@ -6078,7 +6150,7 @@
 {
 "t": "50 Red Roses",
 "u": "https://exotica.com/products/dress-in-red",
-"p": 125.0,
+"p": 175.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0707/0856/0131/files/50_red_roses_bouquet.png?v=1791894414&width=400",
