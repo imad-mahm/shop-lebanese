@@ -1,8 +1,22 @@
 [
 {
+"t": "TCL 50P7L P7L Premium QLED TV 50″",
+"u": "https://beytech.com.lb/product/tcl-50p7l-p7l-premium-qled-tv-50/",
+"p": 365.0,
+"c": 399.0,
+"cur": "USD",
+"img": "https://beytech.com.lb/wp-content/uploads/2025/07/50p7l-247x247.jpg",
+"type": "Autumn Offers 🍂, Electronics, Home Audio &amp; Video",
+"tags": [
+"TCL",
+"Televisions"
+],
+"in": true
+},
+{
 "t": "Samsung UA65U8000FUXTW 65″ Crystal UHD U8000F 4K Smart TV (2025)",
 "u": "https://beytech.com.lb/product/samsung-ua65u8000fuxtw-65-crystal-uhd-u8000f-4k-smart-tv-2025/",
-"p": 479.0,
+"p": 469.0,
 "c": 599.0,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2025/08/65U80001-247x247.jpg",
@@ -783,6 +797,35 @@
 "tags": [
 "Air Fryers",
 "Tefal"
+],
+"in": true
+},
+{
+"t": "Haier HBQW5719E Built-In No Frost Refrigerator with Smart Wi-Fi",
+"u": "https://beytech.com.lb/product/haier-hbqw5719e-smart-wifi-built-in-no-frost-refrigerator/",
+"p": 1095.0,
+"c": null,
+"cur": "USD",
+"img": "https://beytech.com.lb/wp-content/uploads/2026/10/28_34901770_15_03_f_hbqw5719e-M-247x247.jpg",
+"type": "Haier, Home Appliances, Large Appliances",
+"tags": [
+"Built in Refrigerator",
+"Haier",
+"Refrigerators"
+],
+"in": true
+},
+{
+"t": "Haier HR-135 SLUK2SA One Door Refrigerator, 90L",
+"u": "https://beytech.com.lb/product/haier-hr-135-sluk2sa-one-door-refrigerator-90l/",
+"p": 169.0,
+"c": null,
+"cur": "USD",
+"img": "https://beytech.com.lb/wp-content/uploads/2026/10/90L-silver--247x247.jpg",
+"type": "Haier, Home Appliances, Large Appliances",
+"tags": [
+"Haier",
+"Refrigerators"
 ],
 "in": true
 },
@@ -2840,7 +2883,7 @@
 "Philips sonicare",
 "Teeth and mouth care"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Philips Avent SCF091/46 2 Ultra Soft Deco Squirrel/Owl Soothers 6-18M – Boy",
@@ -3398,11 +3441,11 @@
 {
 "t": "Dyson 494706-01 V8 Cordless 2-in-1 Stick And Handheld Vacuum Cleaner-Upgraded New Version",
 "u": "https://beytech.com.lb/product/dyson-494706-01-v8-cordless-2-in-1-stick-and-handheld-vacuum-cleaner-upgraded-new-version/",
-"p": 449.0,
-"c": null,
+"p": 339.0,
+"c": 449.0,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/10/285M_Cyclone_Small_NO-Copy_04-247x247.jpg",
-"type": "Home Appliances, Small Appliances, Vacuum Cleaners",
+"type": "Autumn Offers 🍂, Home Appliances, Offers Small Appliances",
 "tags": [
 "Cordless Vacuum",
 "Dyson",
@@ -13280,7 +13323,7 @@
 "Haier",
 "Refrigerators"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Haier HRF-580NW 2-Door Inverter Refrigerator – White",
@@ -16731,7 +16774,7 @@
 "Ice cream maker &amp; accessories",
 "Ninja"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Delonghi DLSC002 Filter for Magnifica",
@@ -22261,8 +22304,8 @@
 {
 "t": "Ninja CB100EU Foodi Power Nutri Blender 2 in 1 1100w",
 "u": "https://beytech.com.lb/product/ninja-cb100eu-food-blender-2-in-1-1100w/",
-"p": 199.0,
-"c": null,
+"p": 179.0,
+"c": 199.0,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/05/CB100EU-247x247.jpg",
 "type": "Blenders, Breakfast, Home Appliances",
@@ -29087,8 +29130,8 @@
 {
 "t": "Shark FlexStyle 5-in-1 Air Styler & Hairdryer 1400w BLACK",
 "u": "https://beytech.com.lb/product/shark-flexstyle-5-in-1-air-styler-hairdryer-1400w-black/",
-"p": 399.0,
-"c": null,
+"p": 349.0,
+"c": 399.0,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/04/HD440EU-247x247.jpg",
 "type": "Beauty &amp; Healthcare, Hair Brushes, Hair Care",
@@ -29102,8 +29145,8 @@
 {
 "t": "Shark Speedstyle Hair Dryer 1700w",
 "u": "https://beytech.com.lb/product/shark-speedstyle-hair-dryer-1700w/",
-"p": 299.0,
-"c": null,
+"p": 249.0,
+"c": 299.0,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/04/HD334EU-247x247.jpg",
 "type": "Beauty &amp; Healthcare, Hair Brushes, Hair Care",
@@ -29117,8 +29160,8 @@
 {
 "t": "Shark PX250EUT StainStriker HairPro Portable Spot & Stain Cleaner",
 "u": "https://beytech.com.lb/product/shark-stainstriker-hairpro-portable-spot-stain-deep/",
-"p": 349.0,
-"c": null,
+"p": 299.0,
+"c": 349.0,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/04/PX250EUT-247x247.jpg",
 "type": "Home Appliances, Small Appliances, Vacuum Cleaners",
@@ -29131,8 +29174,8 @@
 {
 "t": "Shark RV2620WDEU Matrix Plus 2-in-1 Robot Vacuum & Mop",
 "u": "https://beytech.com.lb/product/shark-matrix-plus-2-in-1-robot-vacuum-mop/",
-"p": 599.0,
-"c": null,
+"p": 479.0,
+"c": 599.0,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/04/RV2620WDEU-247x247.jpg",
 "type": "Home Appliances, Small Appliances, Vacuum Cleaners",
@@ -29146,8 +29189,8 @@
 {
 "t": "Shark PowerDetect NeverTouch Pro 2-in-1 Self-Empty Robot Vacuum",
 "u": "https://beytech.com.lb/product/shark-powerdetect-nevertouch-pro-2-in-1-self-empty-robot-vacuum/",
-"p": 1199.0,
-"c": null,
+"p": 959.0,
+"c": 1199.0,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/04/RV2800ZEEU-247x247.jpg",
 "type": "Home Appliances, Small Appliances, Vacuum Cleaners",
@@ -29161,8 +29204,8 @@
 {
 "t": "Shark Matrix Plus 2-in-1 Self-Empty Robot Vacuum & Mop",
 "u": "https://beytech.com.lb/product/shark-matrix-plus-2-in-1-self-empty-robot-vacuum-mop/",
-"p": 699.0,
-"c": null,
+"p": 559.0,
+"c": 699.0,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/04/RV2620WAEU-247x247.jpg",
 "type": "Home Appliances, Small Appliances, Vacuum Cleaners",
@@ -29176,8 +29219,8 @@
 {
 "t": "Ninja Luxe Caf? Premier Espresso Machine",
 "u": "https://beytech.com.lb/product/ninja-luxe-caf-premier-espresso-machine/",
-"p": 999.0,
-"c": null,
+"p": 799.0,
+"c": 999.0,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/04/ES601EU-247x247.jpg",
 "type": "Breakfast, Coffee Makers, Home Appliances",
@@ -29222,8 +29265,8 @@
 {
 "t": "Ninja SLUSHi FS301EU 2.5L Frozen Drink Maker",
 "u": "https://beytech.com.lb/product/ninja-slushi-frozen-drink-maker/",
-"p": 549.0,
-"c": null,
+"p": 449.0,
+"c": 549.0,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/04/FS301EU-247x247.jpg",
 "type": "Blenders, Breakfast, Home Appliances",
@@ -29236,8 +29279,8 @@
 {
 "t": "Ninja EG351EU 5-in-1 Indoor Grill & Air Fryer with Smart Cook",
 "u": "https://beytech.com.lb/product/ninja-5-in-1-indoor-grill-hot-air-fryer-5-cooking-functions/",
-"p": 499.0,
-"c": null,
+"p": 449.0,
+"c": 499.0,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/04/EG351EU-247x247.jpg",
 "type": "Food Preparation, Fryers, Home Appliances",
@@ -29251,7 +29294,7 @@
 "t": "Ninja Foodi 10-in-1 Multifunction Oven",
 "u": "https://beytech.com.lb/product/ninja-foodi-10-in-1-multifunction-oven/",
 "p": 499.0,
-"c": null,
+"c": 549.0,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/04/DT200EU-247x247.jpg",
 "type": "Electric Ovens, Home Appliances, Small Appliances",
@@ -29264,8 +29307,8 @@
 {
 "t": "Ninja KT201EU 1.7L 3000W Perfect Temperature Kettle – Stainless Steel",
 "u": "https://beytech.com.lb/product/ninja-kettle-1-7-l-3000w-stainless-steel/",
-"p": 199.0,
-"c": null,
+"p": 169.0,
+"c": 199.0,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/04/KT201EU-247x247.jpg",
 "type": "Breakfast, Home Appliances, Kettles",
@@ -29278,8 +29321,8 @@
 {
 "t": "Ninja Foodi HB150EU Blender & Soup Maker 1000W",
 "u": "https://beytech.com.lb/product/ninja-foodi-blender-soup-maker-hb150eu/",
-"p": 269.0,
-"c": null,
+"p": 249.0,
+"c": 269.0,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/04/HB150EU-247x247.jpg",
 "type": "Blenders, Breakfast, Home Appliances",
@@ -29301,13 +29344,13 @@
 "Blenders",
 "Ninja"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Ninja Combi SFP700EU 12-in-1 Multi-Cooker & Air Fryer 12.5L 1780W",
 "u": "https://beytech.com.lb/product/ninja-combi-12-in-1-multi-cookerair-fryer-12-5l-1780w-2/",
-"p": 499.0,
-"c": null,
+"p": 449.0,
+"c": 499.0,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/04/SFP700EU-247x247.jpg",
 "type": "Food Preparation, Fryers, Home Appliances",
@@ -29329,13 +29372,13 @@
 "Air Fryers",
 "Ninja"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Ninja Crispi 4-in-1 Glass Air Fryer",
 "u": "https://beytech.com.lb/product/ninja-crispi-4-in-1-glass-air-fryer-2/",
-"p": 349.0,
-"c": null,
+"p": 299.0,
+"c": 349.0,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/04/FN101EUGY-247x247.jpg",
 "type": "Food Preparation, Fryers, Home Appliances",
@@ -29348,8 +29391,8 @@
 {
 "t": "Ninja Double Stack XL Air Fryer + Temperature probe (Smart Cook)",
 "u": "https://beytech.com.lb/product/ninja-double-stack-xl-air-fryer-temperature-probe-smart-cook/",
-"p": 499.0,
-"c": null,
+"p": 449.0,
+"c": 499.0,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/04/SL451EU-247x247.jpg",
 "type": "Food Preparation, Fryers, Home Appliances",
@@ -29362,8 +29405,8 @@
 {
 "t": "Ninja Double Stack XL Air Fryer",
 "u": "https://beytech.com.lb/product/ninja-double-stack-xl-air-fryer/",
-"p": 399.0,
-"c": null,
+"p": 359.0,
+"c": 399.0,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/04/SL400EU-247x247.jpg",
 "type": "Food Preparation, Fryers, Home Appliances",
@@ -29376,8 +29419,8 @@
 {
 "t": "Ninja FlexDrawer Air Fryer, Double Bin, 6  6L, 6-in-1 Multi-Function",
 "u": "https://beytech.com.lb/product/ninja-flexdrawer-air-fryer-double-bin-6-6l-6-in-1-multi-function/",
-"p": 329.0,
-"c": null,
+"p": 299.0,
+"c": 329.0,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/04/AF550EU-247x247.jpg",
 "type": "Food Preparation, Fryers, Home Appliances",
@@ -29390,8 +29433,8 @@
 {
 "t": "Ninja Foodi FlexDrawer Dual Air Fryer 10  4L",
 "u": "https://beytech.com.lb/product/ninja-foodi-flexdrawer-dual-air-fryer-10-4l/",
-"p": 449.0,
-"c": null,
+"p": 399.0,
+"c": 449.0,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/04/AF500EU-247x247.jpg",
 "type": "Food Preparation, Fryers, Home Appliances",
@@ -29404,8 +29447,8 @@
 {
 "t": "Ninja Foodi AF200EU 7.6L 4-in-1 Dual Zone Air Fryer",
 "u": "https://beytech.com.lb/product/ninja-foodi-4-in-1-dual-zone-air-fryer-7-6l-af200eu/",
-"p": 299.0,
-"c": null,
+"p": 249.0,
+"c": 329.0,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2026/04/AF200EU-247x247.jpg",
 "type": "Food Preparation, Fryers, Home Appliances",
@@ -29413,7 +29456,7 @@
 "Air Fryers",
 "Ninja"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Samsung Tab A11+ 11″ WIFI |   128-6 GB | 256 GB 8 GB | OS :Android 16 with One UI 8",
@@ -36937,21 +36980,6 @@
 "in": true
 },
 {
-"t": "Beurer BF 183LE Diagnostic bathroom scale with display of visceral fat and metabolic age",
-"u": "https://beytech.com.lb/product/beurer-bf-183le-diagnostic-bathroom-scale-with-display-of-visceral-fat-and-metabolic-age/",
-"p": 25.0,
-"c": 35.0,
-"cur": "USD",
-"img": "https://beytech.com.lb/wp-content/uploads/2025/12/bf183-1-247x247.jpg",
-"type": "Autumn Offers 🍂, Beauty &amp; Healthcare, Beurer",
-"tags": [
-"Beurer",
-"Health Care",
-"Personal Scales"
-],
-"in": true
-},
-{
 "t": "Dreame AirStyler Pro 5 in 1",
 "u": "https://beytech.com.lb/product/dreame-airstyler-pro-5-in-1/",
 "p": 199.0,
@@ -38907,8 +38935,8 @@
 {
 "t": "Shark Flex Style 5-in-1 Air Styler Hairdryer 1400w",
 "u": "https://beytech.com.lb/product/shark-flex-style-5-in-1-air-styler-hairdryer-1400w/",
-"p": 399.0,
-"c": null,
+"p": 349.0,
+"c": 399.0,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2025/12/HD440SLEU-247x247.webp",
 "type": "Beauty &amp; Healthcare, Hair Brushes, Hair Care",
@@ -38922,8 +38950,8 @@
 {
 "t": "Shark Cordless Handheld Vacuum, Pet Model",
 "u": "https://beytech.com.lb/product/shark-cordless-handheld-vacuum-pet-model/",
-"p": 159.0,
-"c": null,
+"p": 139.0,
+"c": 159.0,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2025/12/CH950EUT-247x247.jpg",
 "type": "Home Appliances, Small Appliances, Vacuum Cleaners",
@@ -38936,8 +38964,8 @@
 {
 "t": "Shark Hand Held Vacuum Cleaner 115w",
 "u": "https://beytech.com.lb/product/shark-hand-held-vacuum-cleaner-115w/",
-"p": 179.0,
-"c": null,
+"p": 159.0,
+"c": 179.0,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2025/12/WV200EU-1-247x247.jpg",
 "type": "Home Appliances, Small Appliances, Vacuum Cleaners",
@@ -38950,8 +38978,8 @@
 {
 "t": "Ninja Woodfire Pro XL Electric BBQ Grill & Smoker",
 "u": "https://beytech.com.lb/product/ninja-woodfire-pro-xl-electric-bbq-grill-smoker/",
-"p": 699.0,
-"c": null,
+"p": 629.0,
+"c": 699.0,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2025/12/OG850UK-247x247.jpg",
 "type": "Grills, Home Appliances, Small Appliances",
@@ -38965,8 +38993,8 @@
 {
 "t": "Ninja CI100EU# Hand Blender 850W",
 "u": "https://beytech.com.lb/product/ninja-hand-blender-850w/",
-"p": 269.0,
-"c": null,
+"p": 199.0,
+"c": 229.0,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2025/12/CI100EU-2-247x247.jpg",
 "type": "Food Preparation, Hand blenders &amp; Choppers, Home Appliances",
@@ -38994,8 +39022,8 @@
 {
 "t": "Ninja 11-in-1 SmartLid Multi-Cooker 1460W 6 Litres",
 "u": "https://beytech.com.lb/product/ninja-11-in-1-smartlid-multi-cooker-1460w-6-litres/",
-"p": 499.0,
-"c": null,
+"p": 399.0,
+"c": 499.0,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2025/12/OL550UK-1-247x247.jpg",
 "type": "Food Preparation, Fryers, Home Appliances",
@@ -39008,8 +39036,8 @@
 {
 "t": "Ninja Multi-Cooker 15-in-1 SmartLid 7  5L with Digital",
 "u": "https://beytech.com.lb/product/ninja-multi-cooker-15-in-1-smartlid-7-5l-with-digital/",
-"p": 529.0,
-"c": null,
+"p": 429.0,
+"c": 529.0,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2025/12/OL750UK-2-247x247.jpg",
 "type": "Food Preparation, Fryers, Home Appliances",
@@ -41371,11 +41399,11 @@
 {
 "t": "Dyson V16 Piston Animal Submarine™ wet and dry vacuum | 2 Years Warranty",
 "u": "https://beytech.com.lb/product/dyson-v16-animal-piston-submarine-2-years-warranty/",
-"p": 1149.0,
-"c": null,
+"p": 999.0,
+"c": 1149.0,
 "cur": "USD",
 "img": "https://beytech.com.lb/wp-content/uploads/2025/11/SUBMARINE-1-1-247x247.jpg",
-"type": "Home Appliances, Small Appliances, Vacuum Cleaners",
+"type": "Autumn Offers 🍂, Home Appliances, Offers Small Appliances",
 "tags": [
 "Cordless Vacuum",
 "Dyson",
@@ -42356,22 +42384,6 @@
 "Strollers"
 ],
 "in": false
-},
-{
-"t": "Chicco 79650  77 Nexttome Forever [With Double Mesh] Sleeping Crib -Moon Grey-",
-"u": "https://beytech.com.lb/product/chicco-79650-77-nexttome-forever-with-double-mesh-sleeping-crib-moon-grey/",
-"p": 566.0,
-"c": 630.0,
-"cur": "USD",
-"img": "https://beytech.com.lb/wp-content/uploads/2025/10/79650.77-247x247.jpg",
-"type": "Autumn Offers 🍂, Baby &amp; Toddler, Baby &amp; Toys",
-"tags": [
-"baby",
-"Baby Crib &amp; Accessories",
-"Chicco",
-"Playard"
-],
-"in": true
 },
 {
 "t": "Chicco 11566 T- Panda Fabric Rattle",
@@ -44639,19 +44651,5 @@
 "Small Home Appliances"
 ],
 "in": true
-},
-{
-"t": "Joseph Joseph 65006 Clean Tech Ct2 Spray Mop Repl   Pad",
-"u": "https://beytech.com.lb/product/joseph-joseph-65006-clean-tech-ct2-spray-mop-repl-pad/",
-"p": 9.0,
-"c": null,
-"cur": "USD",
-"img": "https://beytech.com.lb/wp-content/uploads/2025/10/65006-247x247.jpg",
-"type": "Home &amp; Kitchen, Kitchen &amp; Dining, Kitchen Gadgets &amp; Cleaning Tools",
-"tags": [
-"Joseph Joseph",
-"Small Home Appliances"
-],
-"in": false
 }
 ]

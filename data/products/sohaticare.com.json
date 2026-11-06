@@ -1,5 +1,75 @@
 [
 {
+"t": "Bonus Gift ! Black November pouch",
+"u": "https://sohaticare.com/products/bonus-gift-black-november-pouch",
+"p": 0.0,
+"c": null,
+"cur": "USD",
+"img": "",
+"type": "GWP",
+"tags": [
+"_appmaker_disable_purchase",
+"appmaker.hide_product_status",
+"CPD_FASHSALE_BF24",
+"Hidden recommendation",
+"hide_product_status",
+"SEARCHANISE_IGNORE",
+"wizzy-ignore"
+],
+"in": false
+},
+{
+"t": "Buy Prime Moisturizing Shampoo + Expertise Anti-Frizz Serum + Hair Conditioner Lotion & get a FREE Hair Repair Cream",
+"u": "https://sohaticare.com/products/buy-prime-moisturizing-shampoo-expertise-anti-frizz-serum-hair-conditioner-lotion-get-a-free-hair-repair-cream",
+"p": 25.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/PrimeBundlesPackshot2_f949322a-b69b-416b-9897-d605df1bd5e2.jpg?v=1793888030&width=400",
+"type": "Bundle",
+"tags": [
+"BOGO-collection",
+"Bundle",
+"Giftset",
+"prime_nov26",
+"TOPOFFER"
+],
+"in": true
+},
+{
+"t": "Buy Prime Tinted / Colorless Anti-Aging Sunscreen SPF50 & get a FREE Trio Active Eye Concealer SPF25",
+"u": "https://sohaticare.com/products/buy-prime-tinted-colorless-anti-aging-sunscreen-spf50-get-a-free-trio-active-eye-concealer-spf25",
+"p": 12.0,
+"c": 22.2,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/Prime_Bundles_Packshot_4.jpg?v=1793888729&width=400",
+"type": "Bundle",
+"tags": [
+"BOGO-collection",
+"Bundle",
+"Giftset",
+"prime_nov26",
+"TOPOFFER"
+],
+"in": true
+},
+{
+"t": "Buy Prime Luffa Cleansing Scrub Gel + Ultra Hydrating Gel + Tinted Sunscreen SPF 60 & get a FREE Anti-Acne Gel",
+"u": "https://sohaticare.com/products/buy-prime-luffa-cleansing-scrub-gel-ultra-hydrating-gel-tinted-sunscreen-spf-60-get-a-free-anti-acne-gel",
+"p": 35.0,
+"c": 52.17,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/PrimeBundlesPackshot1_d487f66d-6a1c-413f-885f-852123610755.jpg?v=1793887828&width=400",
+"type": "Bundle",
+"tags": [
+"BOGO-collection",
+"Bundle",
+"Giftset",
+"prime_nov26",
+"TOPOFFER"
+],
+"in": true
+},
+{
 "t": "Skin1004 Centella Probio-Cica Intensive Ampoule 50ml",
 "u": "https://sohaticare.com/products/skin1004-centella-probio-cica-intensive-ampoule-50ml",
 "p": 22.0,
@@ -1177,25 +1247,6 @@
 "in": true
 },
 {
-"t": "Black Friday Bonus Gift - Pouch",
-"u": "https://sohaticare.com/products/loreal-paris-gwp",
-"p": 0.0,
-"c": 0.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/Screenshot2024-11-09131327.png?v=1731150822&width=400",
-"type": "GWP",
-"tags": [
-"_appmaker_disable_purchase",
-"appmaker.hide_product_status",
-"CPD_FASHSALE_BF24",
-"Hidden recommendation",
-"hide_product_status",
-"SEARCHANISE_IGNORE",
-"wizzy-ignore"
-],
-"in": true
-},
-{
 "t": "Eucerin Hyaluron-Filler + Elasticity Coffret: Day Cream 50ml + Night Cream 50ml + FREE Eye Cream 15ml",
 "u": "https://sohaticare.com/products/eucerin-hyaluron-filler-elasticity-coffret-day-cream-50ml-night-cream-50ml-free-eye-cream-15ml",
 "p": 117.7,
@@ -1241,7 +1292,7 @@
 "eucerin-bundles",
 "eucerin-xmas-oct26"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Hyaluronic Acid Boosting Serum 30ML",
@@ -2068,7 +2119,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/3337875932080_1.png?v=1788424555&width=400",
 "type": "Hair Serum",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "XELLENCE GWP  *or an equivalent based on availability",
@@ -3974,7 +4025,7 @@
 "pf-bck-to-schl-cmpgn",
 "PF_AUG_26_Bundles"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Buy Ducray Keracnyl Glycolic+ anti-blackhead cream 30ml & get a FREE 5ml Keracnyl Glycolic+ cream + 5ml Keracnyl PP+ soothing cream + Pouch",
@@ -4345,8 +4396,8 @@
 {
 "t": "Neutrogena Collagen Bank Day Cream SPF 50ml",
 "u": "https://sohaticare.com/products/neutrogena-collagen-bank-day-cream-spf-50ml",
-"p": 35.05,
-"c": null,
+"p": 28.04,
+"c": 35.05,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/3574661840505.jpg?v=1782718725&width=400",
 "type": "Day Cream",
@@ -4354,7 +4405,7 @@
 "giveaway-collection",
 "NO-DISCOUNT"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Buy Avène Hyaluron Activ Micro-Lift eye & lip cream 0.05% Retinal 15ml & get a FREE 100ml micellar lotion + Pouch",
@@ -5262,8 +5313,8 @@
 {
 "t": "Neutrogena Collagen Night Cream 50 ml",
 "u": "https://sohaticare.com/products/neutrogena-collagen-night-cream-50-ml",
-"p": 35.05,
-"c": null,
+"p": 28.04,
+"c": 35.05,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/3574661840352_1.jpg?v=1782718401&width=400",
 "type": "Night Cream",
@@ -5271,7 +5322,7 @@
 "giveaway-collection",
 "NO-DISCOUNT"
 ],
-"in": true
+"in": false
 },
 {
 "t": "GARNIER GWP  *or an equivalent based on availability",
@@ -5454,7 +5505,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/forte-pharma-expert-cheveux-28-comprimes.jpg?v=1771850075&width=400",
 "type": "Food Supplement",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Vitalité 4G Dynamisant 10 shots",
@@ -5717,7 +5768,7 @@
 "Giftset",
 "PF_Sale_25"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Maybelline Lifter Gel Sugar Spritz, Lip Oil-in-Gel, Glassy, Bouncy Shine 6.6 ML / 0.22 FL OZ",
@@ -6549,8 +6600,8 @@
 {
 "t": "Neutrogena Ultra Sheer Invisible Fluid Sunscreen SPF 50+ Face 50ml, for Face Oil Control, With Niacinamide, Lightweight Non-Greasy Hydrating for Normal to Oily Skin, Hypoallergenic Sunscreen",
 "u": "https://sohaticare.com/products/neutrogena-ultra-sheer-oil-control-sp50-fluid-50-ml",
-"p": 22.0,
-"c": null,
+"p": 17.6,
+"c": 22.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/8a519551-c9cf-4588-9969-f4da7a747815-1000x1000-FIUkR3awV10MYjl8i7mWXWdGYbVWfwJCUWHIGuR0.webp?v=1784201826&width=400",
 "type": "Sunscreen",
@@ -9067,8 +9118,8 @@
 {
 "t": "Collistar Protective Drops Brightening 50Ml",
 "u": "https://sohaticare.com/products/collistar-protective-drops-brightening-50ml",
-"p": 53.55,
-"c": 63.0,
+"p": 63.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/8015150010061.png?v=1782290789&width=400",
 "type": "",
@@ -9078,8 +9129,8 @@
 {
 "t": "Collistar Magic Drops Self-Tanning 50Ml",
 "u": "https://sohaticare.com/products/collistar-magic-drops-self-tanning-50ml",
-"p": 51.0,
-"c": 60.0,
+"p": 60.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/8015150010054.png?v=1782290750&width=400",
 "type": "",
@@ -9089,8 +9140,8 @@
 {
 "t": "Collistar Supermoist After-Sun Cream 100Ml",
 "u": "https://sohaticare.com/products/collistar-supermoist-after-sun-cream-100ml",
-"p": 17.0,
-"c": 20.0,
+"p": 20.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/8015150012904_100ml.jpg?v=1782290700&width=400",
 "type": "After-Sun Cream",
@@ -9100,8 +9151,8 @@
 {
 "t": "Collistar Pouch Dry Oil SPF6 +Sun Cream 100Ml",
 "u": "https://sohaticare.com/products/collistar-pouch-dry-oil-spf6-sun-cream-100ml",
-"p": 46.75,
-"c": 55.0,
+"p": 55.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/8015150011112.jpg?v=1782290565&width=400",
 "type": "Sun Cream",
@@ -9111,8 +9162,8 @@
 {
 "t": "Collistar Protective Face Cream Spf50 & LipBalm",
 "u": "https://sohaticare.com/products/collistar-protective-face-creamspf50-lipbalm",
-"p": 36.55,
-"c": 43.0,
+"p": 43.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/8015150009836.jpg?v=1782290399&width=400",
 "type": "",
@@ -9122,8 +9173,8 @@
 {
 "t": "Collistar Gel Stick Spf 50 & Shimmer Highlighter",
 "u": "https://sohaticare.com/products/collistar-gel-stickspf50-shimmerhighlighter",
-"p": 39.95,
-"c": 47.0,
+"p": 47.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/8015150009102.png?v=1782290276&width=400",
 "type": "Gel Stick",
@@ -9133,8 +9184,8 @@
 {
 "t": "Collistar Bronzing Powder 4.4 Hawaii Matte",
 "u": "https://sohaticare.com/products/collistar-bronzing-powder-4-4-hawaii-matte",
-"p": 46.75,
-"c": 55.0,
+"p": 55.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/Col.BronzingPowder4.4HawaiiMatte.jpg?v=1782289721&width=400",
 "type": "Bronzing Powder",
@@ -9144,8 +9195,8 @@
 {
 "t": "Collistar Bronzing Powder 2.2 Ipanema Matte",
 "u": "https://sohaticare.com/products/collistar-bronzing-powder-2-2-ipanema-matte",
-"p": 46.75,
-"c": 55.0,
+"p": 55.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/Col.BronzingPowder2.2IpanemaMatte.jpg?v=1782289680&width=400",
 "type": "Bronzing Powder",
@@ -9155,8 +9206,8 @@
 {
 "t": "Collistar Rigenera Glow Treatment 50Ml",
 "u": "https://sohaticare.com/products/collistar-rigenera-glow-treatment-50ml",
-"p": 86.7,
-"c": 102.0,
+"p": 102.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/8015150247351.png?v=1782289446&width=400",
 "type": "",
@@ -9166,8 +9217,8 @@
 {
 "t": "Collistar Lift HD Anti-Dark Circles Eye 15Ml",
 "u": "https://sohaticare.com/products/collistar-lift-hd-anti-dark-circles-eye-15ml",
-"p": 66.3,
-"c": 78.0,
+"p": 78.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/8015150004541.png?v=1782289336&width=400",
 "type": "Eye Cream",
@@ -9177,8 +9228,8 @@
 {
 "t": "Collistar Lift HD Lifting Eye & Lip Cream 15Ml",
 "u": "https://sohaticare.com/products/collistar-lift-hd-lifting-eye-lip-cream-15ml",
-"p": 66.3,
-"c": 78.0,
+"p": 78.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/8015150012997.png?v=1782289288&width=400",
 "type": "Eye & Lip Cream",
@@ -11425,8 +11476,8 @@
 {
 "t": "MartiDerm Black Diamond Sublime Expert Eye Contour, 15ml",
 "u": "https://sohaticare.com/products/martiderm-black-diamond-sublime-expert-eye-contour-15ml",
-"p": 77.14,
-"c": null,
+"p": 57.86,
+"c": 77.14,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/marti.webp?v=1780296838&width=400",
 "type": "Eye Contour",
@@ -12621,7 +12672,7 @@
 "bogoavene",
 "discount-change-pf-oct26"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Lux GWP",
@@ -12932,7 +12983,7 @@
 {
 "t": "Neutrogena Ultra Sheer Invisible Body Lotion Sunscreen SPF50",
 "u": "https://sohaticare.com/products/neutrogena-ultra-sheer-body-sunscreen-spf50",
-"p": 25.0,
+"p": 20.0,
 "c": 25.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/NTG_EMEA_AE_3574661875482_Sheer_Lotion_Sunscreen_SPF50_200ml_000.png?v=1775223020&width=400",
@@ -12949,7 +13000,7 @@
 {
 "t": "Neutrogena Ultra Sheer Invisible Body Lotion Sunscreen SPF30",
 "u": "https://sohaticare.com/products/neutrogena-ultra-sheer-body-sunscreen-spf30",
-"p": 25.0,
+"p": 20.0,
 "c": 25.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/NTG_EMEA_AE_3574661875408_90821200_666201_Sheer_Lotion_Snscrn_SPF30_200ml_000.png?v=1775222725&width=400",
@@ -12966,7 +13017,7 @@
 {
 "t": "Neutrogena Ultra Sheer Invisible Cream Sunscreen SPF50",
 "u": "https://sohaticare.com/products/neutrogena-ultrasheer-hydration-cream-spf50",
-"p": 22.0,
+"p": 17.6,
 "c": 22.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/NTG_EMEA_AE_3574661875125_90818500_601303_Invisible_Cream_Sunscreen_SPF50_50ml_010.png?v=1775221885&width=400",
@@ -12983,7 +13034,7 @@
 {
 "t": "Neutrogena Ultra Sheer Invisible Fluid Sunscreen SPF50",
 "u": "https://sohaticare.com/products/neutrogena-ultrasheer-hydration-fluid-spf50",
-"p": 22.0,
+"p": 17.6,
 "c": 22.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/NTG_EMEA_AE_3574661875156_90818800_601103_Invis_Sunscreen_Hydr_SPF50_50ml_OBWB.png?v=1775221052&width=400",
@@ -13000,8 +13051,8 @@
 {
 "t": "Neutrogena Ultrasheer Age Shield Fluid Sunscreen SPF 50",
 "u": "https://sohaticare.com/products/neutrogena-ultrasheer-age-shield-fluid-sunscreen-spf-50",
-"p": 25.0,
-"c": null,
+"p": 20.0,
+"c": 25.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/NTG_EMEA_AE_3574661874876__Invisible_Fluid_Sunscreen_AS_SPF50_50ml_010.png?v=1775220125&width=400",
 "type": "Sunscreen Fluid",
@@ -14237,8 +14288,8 @@
 {
 "t": "Hair System Anti Hair-Loss Ampoules 28 Ampoules 84ML",
 "u": "https://sohaticare.com/products/hair-system-anti-hair-loss-ampoules-28amp-84ml",
-"p": 97.13,
-"c": null,
+"p": 72.85,
+"c": 97.13,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/martiderm-hair-system-3gf-28-anti-hair-loss-ampoules.jpg?v=1775812420&width=400",
 "type": "Hair Treatment",
@@ -15413,8 +15464,8 @@
 {
 "t": "Collistar Phyto-Keratin Filler Restructuring 100Ml",
 "u": "https://sohaticare.com/products/collistar-phyto-keratin-filler-restructuring-100ml",
-"p": 35.7,
-"c": 42.0,
+"p": 42.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/8015150297233_maxWidth_1200_maxHeight_1200_ppi_72.png?v=1715630153&width=400",
 "type": "Hair Filler",
@@ -16670,8 +16721,8 @@
 {
 "t": "Collistar Vitamin C Gloss Spray Brightening Revitalizing 100Ml",
 "u": "https://sohaticare.com/products/collistar-vitamin-c-gloss-spray-brightening-revitalizing-100ml",
-"p": 35.7,
-"c": 42.0,
+"p": 42.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/8015150297264_maxWidth_1200_maxHeight_1200_ppi_72.png?v=1715630344&width=400",
 "type": "Hair Spray",
@@ -16710,8 +16761,8 @@
 {
 "t": "Collistar Phyto-Keratin Oil Restructuring Nourishing 100Ml",
 "u": "https://sohaticare.com/products/collistar-phyto-keratin-oil-restructuring-nourishing-100ml",
-"p": 35.7,
-"c": 42.0,
+"p": 42.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/8015150297226_preview.jpg?v=1715629878&width=400",
 "type": "Hair Oil",
@@ -16730,8 +16781,8 @@
 {
 "t": "Firming Talasso Scrub",
 "u": "https://sohaticare.com/products/firming-talasso-scrub-300-ml",
-"p": 25.24,
-"c": 29.7,
+"p": 29.7,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/products/8015150251716.jpg?v=1621860381&width=400",
 "type": "Body Scrub",
@@ -16750,8 +16801,8 @@
 {
 "t": "Anti Water Talasso Scrub 700ml",
 "u": "https://sohaticare.com/products/anti-water-talasso-scrub-700ml",
-"p": 57.8,
-"c": 68.0,
+"p": 68.0,
+"c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/products/8015150250887.jpg?v=1621860376&width=400",
 "type": "Body Scrub",
@@ -19928,7 +19979,7 @@
 "available-korean",
 "os_june26_2"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Beper Rechargeable Facial Cleanser",
@@ -20127,7 +20178,7 @@
 "os_june26",
 "os_june26_2"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Revuele Aloe Daily Sun Fluid SPF50+ 40 ML",
@@ -22114,7 +22165,7 @@
 "Mascara",
 "Toters"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Spider Lash - 003 3 In 1",
@@ -22130,7 +22181,7 @@
 "Mascara",
 "Toters"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Quick Dry Extra Shine",
@@ -22178,7 +22229,7 @@
 "FLORMAR_AVAILABLE_FEB26",
 "Toters"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Clay Mask",
@@ -22195,7 +22246,7 @@
 "summer sale",
 "Toters"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Mattifying Makeup Primer",
@@ -22226,7 +22277,7 @@
 "Primer",
 "Toters"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Cleansing Gel For Normal & Dry Skin",
@@ -22258,7 +22309,7 @@
 "Others",
 "Toters"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Illuminating Primer Makeup Base",
@@ -22274,7 +22325,7 @@
 "Primer",
 "Toters"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Dewy Lip Glaze",
@@ -22289,7 +22340,7 @@
 "Lip-Gloss",
 "Toters"
 ],
-"in": false
+"in": true
 },
 {
 "t": "All I Need Face Palette",
@@ -22303,7 +22354,7 @@
 "FLORMAR_AVAILABLE_FEB26",
 "Toters"
 ],
-"in": false
+"in": true
 },
 {
 "t": "C.Powder Compact Powder",
@@ -22319,7 +22370,7 @@
 "Powder",
 "Toters"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Longer Than Ever Mascara",
@@ -22333,7 +22384,7 @@
 "Mascara",
 "Toters"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Bronzing Powder – New",
@@ -22349,7 +22400,7 @@
 "Pretty-Face",
 "Toters"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Liquid Illuminator",
@@ -22398,7 +22449,7 @@
 "FLORMAR_AVAILABLE_FEB26",
 "Toters"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Lightweight Lip Powder",
@@ -22417,7 +22468,7 @@
 "summer sale",
 "Toters"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Eye Puff Concealer",
@@ -22449,7 +22500,7 @@
 "Lip-Gloss",
 "Toters"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Lip Balm",
@@ -22485,7 +22536,7 @@
 "SALE",
 "Toters"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Care4Lips",
@@ -22551,7 +22602,7 @@
 "FLORMAR_AVAILABLE_FEB26",
 "Toters"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Water Lip Stain",
@@ -22569,7 +22620,7 @@
 "summer sale",
 "Toters"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Kiss Me More Lip Tattoo",
@@ -22587,7 +22638,7 @@
 "Matte-Lipstick",
 "Toters"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Matte Waterproof Dipliner Black",
@@ -22603,7 +22654,7 @@
 "SALE",
 "Toters"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Angled Brow Pencil",
@@ -22618,7 +22669,7 @@
 "FLORMAR_AVAILABLE_FEB26",
 "Toters"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Ultra Thin Brow Pencil",
@@ -22665,7 +22716,7 @@
 "SALE",
 "Toters"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Color Up Lip Crayon",
@@ -22715,7 +22766,7 @@
 "Foundation",
 "Toters"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Mood Booster Blush",
@@ -22765,7 +22816,7 @@
 "FLORMAR_AVAILABLE_FEB26",
 "Toters"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Brow Pomade",
@@ -22780,7 +22831,7 @@
 "FLORMAR_AVAILABLE_FEB26",
 "Toters"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Paper Nail File",
@@ -22813,7 +22864,7 @@
 "SALE",
 "Toters"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Shading Brush",
@@ -22829,7 +22880,7 @@
 "FLORMAR_AVAILABLE_FEB26",
 "Toters"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Blending Brush",
@@ -22845,7 +22896,7 @@
 "FLORMAR_AVAILABLE_FEB26",
 "Toters"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Gel Eyeliner",
@@ -22863,7 +22914,7 @@
 "summer sale",
 "Toters"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Brow Brush & Groomer",
@@ -22879,7 +22930,7 @@
 "FLORMAR_AVAILABLE_FEB26",
 "Toters"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Eyeshadow Brush",
@@ -22896,7 +22947,7 @@
 "Pretty-Eyes",
 "Toters"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Color Your Life Mascara",
@@ -22911,7 +22962,7 @@
 "Mascara",
 "Toters"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Contour Brush",
@@ -22928,7 +22979,7 @@
 "FLORMAR_AVAILABLE_FEB26",
 "Toters"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Concealer Brush",
@@ -22960,7 +23011,7 @@
 "FLORMAR_AVAILABLE_FEB26",
 "Toters"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Hero Volume & Curl Mascara",
@@ -22975,7 +23026,7 @@
 "Mascara",
 "Toters"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Portable Brush",
@@ -22991,7 +23042,7 @@
 "FLORMAR_AVAILABLE_FEB26",
 "Toters"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Powder Brush",
@@ -23007,7 +23058,7 @@
 "FLORMAR_AVAILABLE_FEB26",
 "Toters"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Foundation Brush",
@@ -23041,7 +23092,7 @@
 "Pretty-Lips",
 "Toters"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Highlighter Stick",
@@ -23127,7 +23178,7 @@
 "FLORMAR_AVAILABLE_FEB26",
 "Toters"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Style Matic Eyeliner",
@@ -23145,7 +23196,7 @@
 "summer sale",
 "Toters"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Smoky Eyes Waterproof Eyeliner",
@@ -23162,7 +23213,7 @@
 "SALE",
 "Toters"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Ultra Eyeliner",
@@ -23195,7 +23246,7 @@
 "Liquid-Eyeliner",
 "Toters"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Waterproof Eyeliner",
@@ -23212,7 +23263,7 @@
 "FLORMAR_AVAILABLE_FEB26",
 "Toters"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Makeup Remover Wet Wipes Combination & Oily Skin",
@@ -23228,7 +23279,7 @@
 "FLORMAR_AVAILABLE_FEB26",
 "Toters"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Clean Care Makeup Wet Wipes All Skin Types",
@@ -23278,7 +23329,7 @@
 "Nails",
 "Toters"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Strong Nail Polish Remover",
@@ -23295,7 +23346,7 @@
 "Nails",
 "Toters"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Acetone Free Nail Polish Remover",
@@ -23311,7 +23362,7 @@
 "Nail-Polish-Remover",
 "Toters"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Vinyl Waterproof Dipliner Black",
@@ -23482,7 +23533,7 @@
 "New Collection 2025",
 "Toters"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Juicy Lip Gloss",
@@ -23549,7 +23600,7 @@
 "New Collection 2025",
 "Toters"
 ],
-"in": false
+"in": true
 },
 {
 "t": "All Day Fix Matte Setting Spray",
@@ -23566,7 +23617,7 @@
 "New Collection 2025",
 "Toters"
 ],
-"in": false
+"in": true
 },
 {
 "t": "All Day Fix Setting Spray",
@@ -23583,7 +23634,7 @@
 "New Collection 2025",
 "Toters"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Loose Powder Banana Pudding",
@@ -23633,7 +23684,7 @@
 "FLORMAR_AVAILABLE_FEB26",
 "Toters"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Colgate Optic White Purple Serum 40 ml",
@@ -24166,8 +24217,8 @@
 {
 "t": "Neutrogena | Sérum de Nuit Intense Anti-Âge Retinol Boost+ (flacon de 30 ml avec pipette) – Sérum anti-âge nourrissant au rétinol – Soin du visage pour aider à réduire l'apparence des rides même profondes",
 "u": "https://sohaticare.com/products/ng-rb-serum-intense-nuit-30ml",
-"p": 36.33,
-"c": null,
+"p": 29.06,
+"c": 36.33,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/x6.jpg?v=1768486647&width=400",
 "type": "serum",
@@ -24200,8 +24251,8 @@
 {
 "t": "Neutrogena – Gel-Crème Yeux Revitalisant Collagen Bank (pot de 15 g) – Crème yeux anti-cernes pour aider à préserver le collagène – Soin contour des yeux pour réduire visiblement cernes & poches",
 "u": "https://sohaticare.com/products/ng-collag-bank-rev-eyegel-cream-15g",
-"p": 19.98,
-"c": null,
+"p": 15.98,
+"c": 19.98,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/k1.jpg?v=1768486204&width=400",
 "type": "Eye Cream",
@@ -24215,8 +24266,8 @@
 {
 "t": "Neutrogena Crème de Nuit Anti-Âge Intense Retinol Boost+ 50 ml",
 "u": "https://sohaticare.com/products/ng-rb-intense-pot-50ml",
-"p": 32.7,
-"c": null,
+"p": 26.16,
+"c": 32.7,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/l1.jpg?v=1768485812&width=400",
 "type": "Night Cream",
@@ -24319,8 +24370,8 @@
 {
 "t": "Neutrogena Spot Controlling+ Serum , Boosts Skin Radiance, powerful combination of Salicylic acid - a purifying agent and glycolic acid, 30ml",
 "u": "https://sohaticare.com/products/ng-anti-boutons-serum-30ml",
-"p": 17.21,
-"c": null,
+"p": 13.77,
+"c": 17.21,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/d1_ed530578-cb3e-4443-920b-7ad0e39b4894.jpg?v=1768479138&width=400",
 "type": "Serum",
@@ -24334,8 +24385,8 @@
 {
 "t": "Neutrogena, Retinol Boost Eye Cream,  developed with dermatologists to fight visible signs of ageing by improving skin tone and texture and reducing the appearance of fine lines, 15ml",
 "u": "https://sohaticare.com/products/ng-rb-eye-cream-15ml-ne-uk-ie",
-"p": 19.89,
-"c": null,
+"p": 15.91,
+"c": 19.89,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/m1.jpg?v=1768478696&width=400",
 "type": "Eye Cream",
@@ -24352,8 +24403,8 @@
 {
 "t": "Neutrogena, Anti Boutons + Facial Wash - Gel Netttoyant, combination of Salicylic acid - a purifying agent and glycolic acid, Clearer Skin In 1 Week, 200ml",
 "u": "https://sohaticare.com/products/ng-anti-boutons-gel-nettoyant-200ml",
-"p": 14.0,
-"c": null,
+"p": 11.2,
+"c": 14.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/Medium_NTG_EMEA_FR_3574661797663_Spot_Controlling_Wash_200ml_MOBILE.webp?v=1785226427&width=400",
 "type": "Facial Wash",
@@ -24380,8 +24431,8 @@
 {
 "t": "Neutrogena Spot Control+ Liquid Exfoliant, with 7% AHA + Panthenol, 5% Glycolic Acid and 2% Citric Acid, diminish marks and refine skin texture, 125ml",
 "u": "https://sohaticare.com/products/ng-anti-boutons-exfoliant-liquide-125ml",
-"p": 17.21,
-"c": null,
+"p": 13.77,
+"c": 17.21,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/a1.jpg?v=1768475654&width=400",
 "type": "Spot Treatment",
@@ -24395,8 +24446,8 @@
 {
 "t": "Neutrogena Spot Control+ Gel Hydrator, with 4% Niacinamide + Panthenol, provides immediate hydration to fortify and protect skin barrier, 50ml",
 "u": "https://sohaticare.com/products/ng-anti-boutons-gel-hydratant-50ml",
-"p": 14.0,
-"c": null,
+"p": 11.2,
+"c": 14.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/p1_c4eda70f-ca48-4a4d-ba08-93f457b24b43.jpg?v=1768475382&width=400",
 "type": "Spot Treatment",
@@ -24410,8 +24461,8 @@
 {
 "t": "Neutrogena Retinol Boost Serum, Fights visible signs of ageing and reduces the appearance of wrinkles, dryness, and age spots, 30ml",
 "u": "https://sohaticare.com/products/ng-retinol-boost-serum-30ml",
-"p": 22.57,
-"c": null,
+"p": 18.06,
+"c": 22.57,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/r1_816762ad-dec1-4e12-b60c-4c28269f6f4e.jpg?v=1768475109&width=400",
 "type": "Serum",
@@ -24428,8 +24479,8 @@
 {
 "t": "Neutrogena Retinol Boost Night Cream, Fights visible signs of ageing and reduces the appearance of wrinkles, dryness, and age spots, 50ml",
 "u": "https://sohaticare.com/products/ng-rb-cream-sef-50-ml",
-"p": 26.01,
-"c": null,
+"p": 20.81,
+"c": 26.01,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/neutrogena-retinol-boost-creme-50ml.png?v=1775641335&width=400",
 "type": "",
@@ -29201,7 +29252,7 @@
 "Revitalizing",
 "Shea Butter"
 ],
-"in": true
+"in": false
 },
 {
 "t": "Leave In Your Dreams",
@@ -30726,7 +30777,7 @@
 "korean_superdeal",
 "os_june26_2"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Centella Tea-Trica Relief Ampoule 100ml",
@@ -34396,8 +34447,8 @@
 {
 "t": "Black Diamond Ultimate Antiox Serum 30ml",
 "u": "https://sohaticare.com/products/black-diamond-ultimate-antiox-serum-30ml",
-"p": 99.01,
-"c": null,
+"p": 74.26,
+"c": 99.01,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/PACKAGINGSERUMULTIMATEANTIOX30ml.webp?v=1759735757&width=400",
 "type": "Serum",
@@ -34413,8 +34464,8 @@
 {
 "t": "Black Diamond Advanced Renew Serum 30ml",
 "u": "https://sohaticare.com/products/black-diamond-advanced-renew-serum-30ml",
-"p": 99.01,
-"c": null,
+"p": 74.26,
+"c": 99.01,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/martiderm-black-diamond-advanced-renew-serum-30ml.webp?v=1759735682&width=400",
 "type": "Serum",
@@ -34430,8 +34481,8 @@
 {
 "t": "Black Diamond Absolute Lift Serum 30ml",
 "u": "https://sohaticare.com/products/black-diamond-absolute-lift-serum-30ml",
-"p": 99.01,
-"c": null,
+"p": 74.26,
+"c": 99.01,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/PACKAGINGSERUMABSOLUTELIFT30ml.webp?v=1759735609&width=400",
 "type": "",
@@ -34447,8 +34498,8 @@
 {
 "t": "Platinum Neck-Line Correct Serum 50ml",
 "u": "https://sohaticare.com/products/platinum-neck-line-correct-serum-50ml",
-"p": 69.04,
-"c": null,
+"p": 51.78,
+"c": 69.04,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/MartidermWeb20210569copy_1.jpg?v=1759735515&width=400",
 "type": "",
@@ -37331,7 +37382,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/3_cbe2a9ed-e243-4e9c-a052-265d73b0e76a.png?v=1757660521&width=400",
 "type": "",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "MULTI-PEPTIDE SERUM FOR HAIR DENSITY 60ML/2FLOZ",
@@ -40637,7 +40688,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/leavein_c77d8b20-77c9-4ecc-9bb7-8017f0eeeea5.jpg?v=1751973610&width=400",
 "type": "Leave In",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "Tecni.Art FULL VOLUME  EXTRA 250ML",
@@ -40973,7 +41024,7 @@
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/prolongershampoo.jpg?v=1753350010&width=400",
 "type": "Shampoo",
 "tags": [],
-"in": false
+"in": true
 },
 {
 "t": "L’Oréal Professionnel |  Metal Detox Leave-in |  After color, balayage & lightening  | 100 ml",
@@ -41013,7 +41064,7 @@
 "tags": [
 "NOV25DISCOUNTS_LP"
 ],
-"in": false
+"in": true
 },
 {
 "t": "L’Oréal Professionnel | Metal Detox anti-deposit protector mask | After color, balayage & lightening | rich creamy texture with Glicoamine & Ionène | SERIE EXPERT | 250 ml",
@@ -41244,8 +41295,8 @@
 {
 "t": "Blooming toner",
 "u": "https://sohaticare.com/products/blooming-toner",
-"p": 24.98,
-"c": null,
+"p": 18.73,
+"c": 24.98,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/2488/5102/files/bloomingtoner.jpg?v=1753340378&width=400",
 "type": "Toner",
@@ -43974,66 +44025,6 @@
 "ALLSUMSPLASH_05.16",
 "BACK2SKL23",
 "BF_SALE_23DG"
-],
-"in": false
-},
-{
-"t": "Shea Butter Body Lotion 250ml",
-"u": "https://sohaticare.com/products/shea-butter-body-lotion-250ml",
-"p": 6.0,
-"c": 8.57,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/Thebold_13.webp?v=1712563605&width=400",
-"type": "Body Lotion",
-"tags": [
-"ALLSUMSPLASH_05.16",
-"Body Lotion",
-"BODYMOIST",
-"COMPENSATION_OCT23",
-"Drugstore",
-"Drugstore Health",
-"HYGBODY_JUN25",
-"HYGIENEWEEK25"
-],
-"in": false
-},
-{
-"t": "Intensive Nourishing Body Lotion 250ml",
-"u": "https://sohaticare.com/products/intensive-nourishing-body-lotion250ml",
-"p": 6.0,
-"c": 8.57,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/files/Thebold_17.webp?v=1712563143&width=400",
-"type": "Body Lotion",
-"tags": [
-"10.10OCT25",
-"ALLSUMSPLASH_05.16",
-"Body Lotion",
-"BODYMOIST",
-"COMPENSATION_OCT23",
-"Drugstore",
-"Drugstore Health",
-"ENDOFSUMMER25"
-],
-"in": false
-},
-{
-"t": "MP62 Manicure Pedicure Set",
-"u": "https://sohaticare.com/products/mp-62-manicure-pedicure-4211125570353",
-"p": 79.92,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/2488/5102/products/BEU57035-4-768x768.jpg?v=1599206638&width=400",
-"type": "Nail Care",
-"tags": [
-"Beauty Tech",
-"Beurer Beauty",
-"Beurer_PriceUpdate_7JUN24",
-"Beurer_Priceupdate_8FEB24",
-"BLACK_FRIDAY_SC_EXCLUDED",
-"ELECTRONICS_ACTIVE25",
-"Nail Care",
-"Nail Tech"
 ],
 "in": false
 }

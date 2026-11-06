@@ -1,5 +1,113 @@
 [
 {
+"t": "Millenia stud earrings, Square cut, Black, Ruthenium plated",
+"u": "https://swarovski.com.lb/products/5642511",
+"p": 87.0,
+"c": 145.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5642511_d667655c-2735-4c8a-9370-cc3541a59249.jpg?v=1788406763&width=400",
+"type": "Earrings",
+"tags": [
+"Best seller",
+"Category_Earrings",
+"Category_Stud Earrings",
+"Collection_Millenia",
+"Selection_Gift"
+],
+"in": false
+},
+{
+"t": "Millenia necklace, Oversized crystals, Octagon cut, White, Rhodium plated",
+"u": "https://swarovski.com.lb/products/5599149",
+"p": 490.0,
+"c": 700.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5599149_674feed1-2dd3-4fb6-85c9-a944ce233779.jpg?v=1751642821&width=400",
+"type": "Necklace",
+"tags": [
+"Category_Necklace",
+"Collection_Millenia",
+"Collection_Tennis",
+"Material_White Rhodium Plated",
+"Selection_Gift"
+],
+"in": false
+},
+{
+"t": "Matrix Tennis bracelet, Baguette cut, White, Rhodium plated",
+"u": "https://swarovski.com.lb/products/5707200",
+"p": 186.0,
+"c": 310.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5707200_cea84763-3921-4d31-918d-58fcd6679393.jpg?v=1754397464&width=400",
+"type": "Bracelet",
+"tags": [
+"Best-Seller",
+"Category_Bracelet",
+"Category_Tennis",
+"Collection_Matrix",
+"Holiday",
+"Material_White Rhodium Plated",
+"Selection_Gift"
+],
+"in": false
+},
+{
+"t": "Matrix bracelet, Pear cut, Pink, Gold-tone plated",
+"u": "https://swarovski.com.lb/products/5707187",
+"p": 132.0,
+"c": 220.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5707187_11504914-4f65-4c78-a3f6-18a72e98047c.jpg?v=1754467693&width=400",
+"type": "Bracelet",
+"tags": [
+"_Category_Adjustable Bracelet",
+"Best-Seller",
+"Category_Bracelet",
+"Collection_Matrix",
+"Material_Gold Plated",
+"Sale 11",
+"Selection_Gift"
+],
+"in": false
+},
+{
+"t": "Lucent cocktail ring, Octagon shape, Yellow, Gold-tone plated",
+"u": "https://swarovski.com.lb/products/5721601",
+"p": 154.0,
+"c": 220.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5721601.jpg?v=1751642669&width=400",
+"type": "Ring",
+"tags": [
+"Category_Cocktail Ring",
+"Category_Rings",
+"Collection_Lucent",
+"Material_Gold Plated",
+"Selection_Gift"
+],
+"in": false
+},
+{
+"t": "Sublima open ring\nMixed cuts, White, Ruthenium plated",
+"u": "https://swarovski.com.lb/products/5723187",
+"p": 114.0,
+"c": 190.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5723187.jpg?v=1754397257&width=400",
+"type": "Ring",
+"tags": [
+"Category_Open Ring",
+"Category_Ring",
+"Collection_Sublima",
+"Holiday",
+"Material_Ruthenium plated",
+"Sale 11",
+"Selection_Gift"
+],
+"in": false
+},
+{
 "t": "Sparkling case, For Apple Watch® Series 7, 41 mm, Silver tone",
 "u": "https://swarovski.com.lb/products/5663567",
 "p": 95.0,
@@ -123,8 +231,8 @@
 {
 "t": "Millenia drop earrings, Square cut, Green, Gold-tone plated",
 "u": "https://swarovski.com.lb/products/5636564",
-"p": 205.0,
-"c": null,
+"p": 123.0,
+"c": 205.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5636564_579257a9-e068-4d66-a3d3-3cd6767ebdb9.jpg?v=1788398234&width=400",
 "type": "Earrings",
@@ -219,8 +327,8 @@
 {
 "t": "Matrix Tennis bracelet, Square cut, Small, White, Rhodium plated",
 "u": "https://swarovski.com.lb/products/5599202",
-"p": 360.0,
-"c": null,
+"p": 216.0,
+"c": 360.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/products/5599202.jpg?v=1753432618&width=400",
 "type": "Bracelet",
@@ -232,7 +340,7 @@
 "Color_White",
 "Holiday_collection",
 "Material_Rhodium Plated",
-"Selection_Gift"
+"Sale 11"
 ],
 "in": true
 },
@@ -417,8 +525,8 @@
 {
 "t": "Imber pendant, Round cut, White, Gold-tone plated",
 "u": "https://swarovski.com.lb/products/5684511",
-"p": 145.0,
-"c": null,
+"p": 87.0,
+"c": 145.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5684511_png.jpg?v=1751643243&width=400",
 "type": "Pendant",
@@ -430,7 +538,7 @@
 "Color_White",
 "Material_Gold plated",
 "Material_Gold-tone plated",
-"Selection_Gift"
+"Sale 11"
 ],
 "in": true
 },
@@ -1408,8 +1516,8 @@
 {
 "t": "Matrix drop earrings, Mixed cuts, White, Rhodium plated",
 "u": "https://swarovski.com.lb/products/5692515",
-"p": 440.0,
-"c": null,
+"p": 264.0,
+"c": 440.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5692515_png_41256b04-40e5-465e-a68e-bfe1286448dc.jpg?v=1751643000&width=400",
 "type": "Earrings",
@@ -2506,8 +2614,8 @@
 {
 "t": "Sublima pendant White, Ruthenium plated",
 "u": "https://swarovski.com.lb/products/5735225",
-"p": 225.0,
-"c": null,
+"p": 135.0,
+"c": 225.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5735225.jpg?v=1754397381&width=400",
 "type": "Pendant",
@@ -2518,6 +2626,7 @@
 "Holiday",
 "Material_Rhodium plated",
 "Material_White Rhodium Plated",
+"Sale 11",
 "Selection_Gift"
 ],
 "in": true
@@ -2598,8 +2707,8 @@
 {
 "t": "Matrix choker Mixed cuts, Blue, Rhodium plated",
 "u": "https://swarovski.com.lb/products/5722464",
-"p": 440.0,
-"c": null,
+"p": 264.0,
+"c": 440.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5722464.jpg?v=1754397371&width=400",
 "type": "Necklace",
@@ -2611,7 +2720,7 @@
 "Holiday",
 "Material_Rhodium plated",
 "Material_White Rhodium Plated",
-"Selection_Gift"
+"Sale 11"
 ],
 "in": true
 },
@@ -2956,8 +3065,8 @@
 {
 "t": "Stilla Attract Y necklace Round cut, Blue, Rhodium plated",
 "u": "https://swarovski.com.lb/products/5734249",
-"p": 190.0,
-"c": null,
+"p": 114.0,
+"c": 190.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5734249.jpg?v=1754397309&width=400",
 "type": "Necklace",
@@ -2968,7 +3077,7 @@
 "Color_Blue",
 "Material_Rhodium plated",
 "Material_White Rhodium Plated",
-"New Collection",
+"Sale 11",
 "Selection_Gift"
 ],
 "in": false
@@ -3773,8 +3882,8 @@
 {
 "t": "Una necklace, Octagon cut, Blue, Rhodium plated",
 "u": "https://swarovski.com.lb/products/5614926",
-"p": 205.0,
-"c": null,
+"p": 144.0,
+"c": 205.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5614926_b9bce8d1-e15c-45ba-88d7-d98e9843cdc5.jpg?v=1788524509&width=400",
 "type": "Necklace",
@@ -3808,8 +3917,8 @@
 {
 "t": "Una drop earrings, Octagon cut, Blue, Rhodium plated",
 "u": "https://swarovski.com.lb/products/5619500",
-"p": 205.0,
-"c": null,
+"p": 144.0,
+"c": 205.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5619500_a117c247-9acc-4323-bcf6-0275ee86a661.jpg?v=1788524512&width=400",
 "type": "Earrings",
@@ -4360,8 +4469,8 @@
 {
 "t": "Matrix Vittore Ring, Round cut, White, 18K rose gold finish",
 "u": "https://swarovski.com.lb/products/5656302",
-"p": 140.0,
-"c": null,
+"p": 98.0,
+"c": 140.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5771273_png.jpg?v=1788548750&width=400",
 "type": "Ring",
@@ -4419,8 +4528,8 @@
 {
 "t": "Matrix ring, Round cut, Pink, Rhodium plated",
 "u": "https://swarovski.com.lb/products/5658853",
-"p": 155.0,
-"c": null,
+"p": 109.0,
+"c": 155.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5658853_9552c070-92f2-475e-8261-bea805888dee.jpg?v=1788517257&width=400",
 "type": "Ring",
@@ -4493,8 +4602,8 @@
 {
 "t": "Dextera bangle, Magnetic closure, White, Rhodium plated",
 "u": "https://swarovski.com.lb/products/5674982",
-"p": 360.0,
-"c": null,
+"p": 252.0,
+"c": 360.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5674982.jpg?v=1788516243&width=400",
 "type": "Bangle",
@@ -4570,8 +4679,8 @@
 {
 "t": "Stilla pendant, Rectangular cut, Green, Gold-tone plated",
 "u": "https://swarovski.com.lb/products/5677141",
-"p": 205.0,
-"c": null,
+"p": 144.0,
+"c": 205.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5677141.jpg?v=1788521164&width=400",
 "type": "Pendant",
@@ -4646,8 +4755,8 @@
 {
 "t": "Mesmera bracelet, Mixed cuts, White, Rhodium plated",
 "u": "https://swarovski.com.lb/products/5669927",
-"p": 515.0,
-"c": null,
+"p": 361.0,
+"c": 515.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5669927.jpg?v=1788520920&width=400",
 "type": "Bracelet",
@@ -4776,8 +4885,8 @@
 {
 "t": "Imber Tennis necklace, Mixed cuts, Multicolored, Gold-tone plated",
 "u": "https://swarovski.com.lb/products/5662915",
-"p": 595.0,
-"c": null,
+"p": 417.0,
+"c": 595.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5662915.jpg?v=1788516820&width=400",
 "type": "Necklace",
@@ -4788,6 +4897,7 @@
 "Color_Multicolored",
 "Material_Gold Plated",
 "Material_Gold-tone plated",
+"Sale 11",
 "Subcategory_Tennis necklaces"
 ],
 "in": true
@@ -5073,8 +5183,8 @@
 {
 "t": "Sublima layered pendant, White, Rose gold-tone plated",
 "u": "https://swarovski.com.lb/products/5683449",
-"p": 280.0,
-"c": null,
+"p": 196.0,
+"c": 280.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5683449.jpg?v=1788522074&width=400",
 "type": "Pendant",
@@ -6219,8 +6329,8 @@
 {
 "t": "Matrix Tennis bracelet, Round cut, Gray, Ruthenium plated",
 "u": "https://swarovski.com.lb/products/5693927",
-"p": 315.0,
-"c": null,
+"p": 221.0,
+"c": 315.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5693927.jpg?v=1788517311&width=400",
 "type": "Bracelet",
@@ -6541,8 +6651,8 @@
 {
 "t": "Idyllia pendant, Mixed cuts, Pavé, Butterfly, Multicolored, Mixed metal finish",
 "u": "https://swarovski.com.lb/products/5709950",
-"p": 250.0,
-"c": null,
+"p": 175.0,
+"c": 250.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5709950_9ed19867-52e5-413f-b36c-cdb67f12a228.jpg?v=1751642804&width=400",
 "type": "Pendant",
@@ -6638,8 +6748,8 @@
 {
 "t": "Matrix hoop earrings, Mixed round cuts, White, Rhodium plated",
 "u": "https://swarovski.com.lb/products/5705834",
-"p": 390.0,
-"c": null,
+"p": 273.0,
+"c": 390.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5705834_58184734-e1ac-4e53-8470-3eda015f07a8.jpg?v=1751642768&width=400",
 "type": "Earrings",
@@ -6738,8 +6848,8 @@
 {
 "t": "Imber hoop earrings, Round cut, White, 18K gold finish",
 "u": "https://swarovski.com.lb/products/5711483",
-"p": 250.0,
-"c": null,
+"p": 175.0,
+"c": 250.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5711483_7d2bd8f7-9793-4d16-a477-75f056c91c8b.jpg?v=1754467679&width=400",
 "type": "Earrings",
@@ -6877,8 +6987,8 @@
 {
 "t": "Imber bangle, Mixed cuts, White, 18K gold finish",
 "u": "https://swarovski.com.lb/products/5714314",
-"p": 250.0,
-"c": null,
+"p": 175.0,
+"c": 250.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5714314_333bb26e-6053-44e2-b0da-92d39354de17.jpg?v=1751642723&width=400",
 "type": "Bangle",
@@ -6896,8 +7006,8 @@
 {
 "t": "Imber Tennis bracelet, Mixed round cuts, Blue, Rhodium plated",
 "u": "https://swarovski.com.lb/products/5719282",
-"p": 190.0,
-"c": null,
+"p": 133.0,
+"c": 190.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5719282_1b08368c-df6c-473a-a938-19c95139ea27.jpg?v=1753180303&width=400",
 "type": "Bracelet",
@@ -8009,8 +8119,8 @@
 {
 "t": "Crystalline Nova rollerball pen, White, Rose gold-tone plated",
 "u": "https://swarovski.com.lb/products/5728390",
-"p": 95.0,
-"c": null,
+"p": 67.0,
+"c": 95.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5728390.jpg?v=1751642502&width=400",
 "type": "Pen",
@@ -8020,7 +8130,7 @@
 "Color_White",
 "Material_Rose Gold Plated",
 "Material_Rose gold-tone plated",
-"New Collection"
+"Sale 11"
 ],
 "in": true
 },
@@ -8101,8 +8211,8 @@
 {
 "t": "Matrix bracelet, Mixed cuts, White, 18K rose gold finish",
 "u": "https://swarovski.com.lb/products/5730706",
-"p": 205.0,
-"c": null,
+"p": 144.0,
+"c": 205.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5730706.jpg?v=1754466089&width=400",
 "type": "Bracelet",
@@ -8215,8 +8325,8 @@
 {
 "t": "Matrix bracelet, Mixed cuts, Blue, Rhodium plated",
 "u": "https://swarovski.com.lb/products/5732266",
-"p": 250.0,
-"c": null,
+"p": 175.0,
+"c": 250.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5732266.jpg?v=1754397335&width=400",
 "type": "Bracelet",
@@ -8309,8 +8419,8 @@
 {
 "t": "Una Angelic bracelet Round cut, White, Rhodium plated",
 "u": "https://swarovski.com.lb/products/5733196",
-"p": 155.0,
-"c": null,
+"p": 109.0,
+"c": 155.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5733196.jpg?v=1754397325&width=400",
 "type": "Bracelet",
@@ -8610,8 +8720,8 @@
 {
 "t": "Constella necklace, Mixed cuts, Clasp, White, Rhodium plated",
 "u": "https://swarovski.com.lb/products/5732249",
-"p": 670.0,
-"c": null,
+"p": 469.0,
+"c": 670.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5732249.jpg?v=1754397292&width=400",
 "type": "Necklace",
@@ -8668,8 +8778,8 @@
 {
 "t": "Matrix bangle, Baguette cut, Knot, White, Rhodium plated",
 "u": "https://swarovski.com.lb/products/5727117",
-"p": 360.0,
-"c": null,
+"p": 252.0,
+"c": 360.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5727117.jpg?v=1754397285&width=400",
 "type": "Bangle",
@@ -8850,8 +8960,8 @@
 {
 "t": "Stilla cocktail ring, Square cut, White, Gold-tone plated",
 "u": "https://swarovski.com.lb/products/5693505",
-"p": 345.0,
-"c": null,
+"p": 242.0,
+"c": 345.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5693505.jpg?v=1788521353&width=400",
 "type": "Ring",
@@ -8885,8 +8995,8 @@
 {
 "t": "Matrix Tennis necklace, Pear cut, White, Rhodium plated",
 "u": "https://swarovski.com.lb/products/5662277",
-"p": 705.0,
-"c": null,
+"p": 494.0,
+"c": 705.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5662277.jpg?v=1788517099&width=400",
 "type": "Necklace",
@@ -8897,7 +9007,7 @@
 "Holiday",
 "Material_Rhodium plated",
 "Material_White Rhodium Plated",
-"New Collection",
+"Sale 11",
 "Subcategory_Tennis necklaces"
 ],
 "in": true
@@ -8974,8 +9084,8 @@
 {
 "t": "Constella bracelet\nMixed cuts, White, Rhodium plated",
 "u": "https://swarovski.com.lb/products/5722469",
-"p": 440.0,
-"c": null,
+"p": 308.0,
+"c": 440.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/imgi_5_5722469_png.jpg?v=1762337882&width=400",
 "type": "Bracelet",
@@ -8992,8 +9102,8 @@
 {
 "t": "Crystalline ballpoint pen\nWhite, White lacquered, Chrome plated",
 "u": "https://swarovski.com.lb/products/5717136",
-"p": 95.0,
-"c": null,
+"p": 67.0,
+"c": 95.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/imgi_4_5717136_png.jpg?v=1762337927&width=400",
 "type": "Pen",
@@ -9001,7 +9111,8 @@
 "Category_Pen",
 "Collection_Crystalline",
 "Material_Rhodium plated",
-"Material_White Rhodium Plated"
+"Material_White Rhodium Plated",
+"Sale 11"
 ],
 "in": true
 },
@@ -9760,8 +9871,8 @@
 {
 "t": "Gema cocktail ring, Mixed cuts, Multicolored, 18K gold finish",
 "u": "https://swarovski.com.lb/products/5753504",
-"p": 390.0,
-"c": null,
+"p": 273.0,
+"c": 390.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5753504_png.jpg?v=1788548619&width=400",
 "type": "Ring",
@@ -9820,8 +9931,8 @@
 {
 "t": "Gema motif ring, Set (3), Multicolored, 18K gold finish",
 "u": "https://swarovski.com.lb/products/5741583",
-"p": 360.0,
-"c": null,
+"p": 252.0,
+"c": 360.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5741583_png.jpg?v=1788548623&width=400",
 "type": "Ring",
@@ -10066,8 +10177,8 @@
 {
 "t": "Idyllia clip earrings, Red, 18K gold finish",
 "u": "https://swarovski.com.lb/products/5751416",
-"p": 315.0,
-"c": null,
+"p": 221.0,
+"c": 315.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5751416_png.jpg?v=1788548645&width=400",
 "type": "Earrings",
@@ -10680,8 +10791,8 @@
 {
 "t": "Ariana Grande x Swarovski necklace, Mixed cuts, Multicolored, Rhodium plated",
 "u": "https://swarovski.com.lb/products/5737422",
-"p": 360.0,
-"c": null,
+"p": 252.0,
+"c": 360.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5737422_png.jpg?v=1788548600&width=400",
 "type": "Necklace",
@@ -10691,7 +10802,7 @@
 "Color_Multicolored",
 "Material_Rhodium plated",
 "Material_White Rhodium Plated",
-"New Collection",
+"Sale 11",
 "Selection_Gift"
 ],
 "in": true
@@ -10699,8 +10810,8 @@
 {
 "t": "Ariana Grande x Swarovski stud earrings, Mixed cuts, Dragonfly, Multicolored, Rhodium plated",
 "u": "https://swarovski.com.lb/products/5737371",
-"p": 205.0,
-"c": null,
+"p": 144.0,
+"c": 205.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5737371_png.jpg?v=1788548563&width=400",
 "type": "Earrings",
@@ -10711,7 +10822,7 @@
 "Color_Multicolored",
 "Material_Rhodium plated",
 "Material_White Rhodium Plated",
-"New Collection",
+"Sale 11",
 "Subcategory_Stud earrings"
 ],
 "in": true
@@ -12681,8 +12792,8 @@
 {
 "t": "Key ring, Octagon cut, Green, Mixed metal finish",
 "u": "https://swarovski.com.lb/products/5666643",
-"p": 140.0,
-"c": null,
+"p": 98.0,
+"c": 140.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/imgi_137_5666643_png_white.jpg?v=1790257927&width=400",
 "type": "Key Ring",
@@ -19013,8 +19124,8 @@
 {
 "t": "Ariana Grande x Swarovski brooch and hair accessory\nMixed cuts, Dragonfly, Green, Rhodium plated",
 "u": "https://swarovski.com.lb/products/5749193",
-"p": 390.0,
-"c": null,
+"p": 273.0,
+"c": 390.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/imgi_103_5749193_png.png?v=1781699035&width=400",
 "type": "Brooch",
@@ -19089,8 +19200,8 @@
 {
 "t": "Ariana Grande x Swarovski choker\nCrystal pearl, Round cut, White, Rhodium plated",
 "u": "https://swarovski.com.lb/products/5751250",
-"p": 360.0,
-"c": null,
+"p": 252.0,
+"c": 360.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/imgi_102_5751250_png.png?v=1781773381&width=400",
 "type": "Choker",
@@ -19101,7 +19212,7 @@
 "Color_White",
 "Material_Rhodium plated",
 "Material_White Rhodium Plated",
-"New Collection",
+"Sale 11",
 "Selection_Gift"
 ],
 "in": true
@@ -19148,8 +19259,8 @@
 {
 "t": "Ariana Grande x Swarovski Tennis bracelet\nMixed cuts, Multicolored, Rhodium plated",
 "u": "https://swarovski.com.lb/products/5742463",
-"p": 315.0,
-"c": null,
+"p": 221.0,
+"c": 315.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/imgi_102_5742463_png.png?v=1781772991&width=400",
 "type": "Bracelet",
@@ -19159,7 +19270,7 @@
 "Color_Multicolored",
 "Material_Rhodium plated",
 "Material_White Rhodium Plated",
-"New Collection",
+"Sale 11",
 "Selection_Gift",
 "Subcategory_Tennis bracelets"
 ],
@@ -19168,8 +19279,8 @@
 {
 "t": "Ariana Grande x Swarovski set\nMixed cuts, Multicolored, Rhodium plated",
 "u": "https://swarovski.com.lb/products/5746577",
-"p": 315.0,
-"c": null,
+"p": 221.0,
+"c": 315.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/imgi_119_ariana-grande-x-swarovski-set--mixed-cuts--multicoloured--rhodium-plated-swarovski-5746577.png?v=1781775297&width=400",
 "type": "Set",
@@ -19179,7 +19290,7 @@
 "Color_Multicolored",
 "Material_Rhodium plated",
 "Material_White Rhodium Plated",
-"New Collection",
+"Sale 11",
 "Selection_Gift"
 ],
 "in": true
@@ -19207,8 +19318,8 @@
 {
 "t": "Ariana Grande x Swarovski necklace\nMixed cuts, Dragonfly, Multicolored, Rhodium plated",
 "u": "https://swarovski.com.lb/products/5737424",
-"p": 705.0,
-"c": null,
+"p": 494.0,
+"c": 705.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/imgi_250_245505.jpg?v=1781775347&width=400",
 "type": "Necklace",
@@ -19226,8 +19337,8 @@
 {
 "t": "Ariana Grande x Swarovski drop earrings\nMixed cuts, Multicolored, Rhodium plated",
 "u": "https://swarovski.com.lb/products/5737426",
-"p": 360.0,
-"c": null,
+"p": 252.0,
+"c": 360.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/imgi_101_5737426_png.png?v=1781772360&width=400",
 "type": "Earrings",
@@ -19238,7 +19349,7 @@
 "Color_Multicolored",
 "Material_Rhodium plated",
 "Material_White Rhodium Plated",
-"New Collection",
+"Sale 11",
 "Selection_Gift"
 ],
 "in": true
@@ -19265,8 +19376,8 @@
 {
 "t": "Ariana Grande x Swarovski ear cuffs\nMixed cuts, Multicolored, Rhodium plated",
 "u": "https://swarovski.com.lb/products/5749184",
-"p": 250.0,
-"c": null,
+"p": 175.0,
+"c": 250.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/imgi_4_5749184_png.png?v=1781771567&width=400",
 "type": "Earcuffs",
@@ -19277,7 +19388,7 @@
 "Color_Multicolored",
 "Material_Rhodium plated",
 "Material_White Rhodium Plated",
-"New Collection",
+"Sale 11",
 "Selection_Gift"
 ],
 "in": true
@@ -19304,8 +19415,8 @@
 {
 "t": "Ariana Grande x Swarovski drop earrings with ear jacket\nMixed cuts, Dragonfly, Flower, Multicolored, Rhodium plated",
 "u": "https://swarovski.com.lb/products/5749190",
-"p": 345.0,
-"c": null,
+"p": 242.0,
+"c": 345.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/imgi_103_5749190_png.png?v=1781770896&width=400",
 "type": "Earrings",
@@ -19316,7 +19427,7 @@
 "Color_Multicolored",
 "Material_Rhodium plated",
 "Material_White Rhodium Plated",
-"New Collection",
+"Sale 11",
 "Selection_Gift"
 ],
 "in": true
@@ -19324,8 +19435,8 @@
 {
 "t": "Ariana Grande x Swarovski open ring, Mixed cuts, Multicolored, Rhodium plated",
 "u": "https://swarovski.com.lb/products/5737373",
-"p": 205.0,
-"c": null,
+"p": 144.0,
+"c": 205.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5737374_png.jpg?v=1788548596&width=400",
 "type": "Ring",
@@ -19336,7 +19447,7 @@
 "Color_Multicolored",
 "Material_Rhodium plated",
 "Material_White Rhodium Plated",
-"New Collection",
+"Sale 11",
 "Selection_Gift"
 ],
 "in": true
@@ -19344,8 +19455,8 @@
 {
 "t": "Ariana Grande x Swarovski hair pin\nMixed cuts, Dragonfly, Flower, Multicolored, Rhodium plated",
 "u": "https://swarovski.com.lb/products/5749186",
-"p": 235.0,
-"c": null,
+"p": 165.0,
+"c": 235.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/imgi_101_5749186_png.png?v=1781770181&width=400",
 "type": "Accessories",
@@ -19415,8 +19526,8 @@
 {
 "t": "Ariana Grande x Swarovski pendant and brooch\nMixed cuts, Dragonfly, Green, Rhodium plated",
 "u": "https://swarovski.com.lb/products/5737429",
-"p": 470.0,
-"c": null,
+"p": 329.0,
+"c": 470.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/imgi_105_5737429_png.png?v=1781769573&width=400",
 "type": "Pendant",
@@ -19428,7 +19539,7 @@
 "Color_Green",
 "Material_Rhodium plated",
 "Material_White Rhodium Plated",
-"New Collection"
+"Sale 11"
 ],
 "in": true
 },
@@ -19454,8 +19565,8 @@
 {
 "t": "Una Angelic ring, Round cut, White, Rose gold-tone plated",
 "u": "https://swarovski.com.lb/products/5642616",
-"p": 280.0,
-"c": null,
+"p": 196.0,
+"c": 280.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5642616_172beaf7-58ee-4a87-8c7f-e689e5e01d69.jpg?v=1788522282&width=400",
 "type": "Ring",
@@ -19466,7 +19577,7 @@
 "Color_White",
 "Material_Rose Gold Plated",
 "Material_Rose gold-tone plated",
-"Preorder",
+"Sale 11",
 "Sale40"
 ],
 "in": true
@@ -19474,8 +19585,8 @@
 {
 "t": "Stilla cocktail ring, Square cut, White, Gold-tone plated",
 "u": "https://swarovski.com.lb/products/5693503",
-"p": 345.0,
-"c": null,
+"p": 242.0,
+"c": 345.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5693503.jpg?v=1788521349&width=400",
 "type": "Ring",
@@ -19582,8 +19693,8 @@
 {
 "t": "Matrix ring, Round cut, Blue, Rhodium plated",
 "u": "https://swarovski.com.lb/products/5658669",
-"p": 155.0,
-"c": null,
+"p": 109.0,
+"c": 155.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5658669_50795c9f-cb41-4950-9f94-ac6291007494.jpg?v=1788517231&width=400",
 "type": "Ring",
@@ -19684,8 +19795,8 @@
 {
 "t": "Dextera chrono watch\n39mm, Swiss Made, Metal bracelet, Blue, Blue finish",
 "u": "https://swarovski.com.lb/products/5715457",
-"p": 935.0,
-"c": null,
+"p": 561.0,
+"c": 935.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/imgi_5_5715457_png.jpg?v=1770903766&width=400",
 "type": "Watch",
@@ -19807,8 +19918,8 @@
 {
 "t": "Matrix Tennis necklace, Gradient of round cuts, Multicolored, Rhodium plated",
 "u": "https://swarovski.com.lb/products/5751196",
-"p": 390.0,
-"c": null,
+"p": 273.0,
+"c": 390.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5751196_png.png?v=1769510749&width=400",
 "type": "Necklace",
@@ -19818,7 +19929,7 @@
 "Color_Multicolored",
 "Material_Rhodium plated",
 "Material_White Rhodium Plated",
-"New Collection",
+"Sale 11",
 "Selection_Gift",
 "Subcategory_Tennis necklaces"
 ],
@@ -19827,8 +19938,8 @@
 {
 "t": "Matrix drop earrings, Gradient of round cuts, Multicolored, Rhodium plated",
 "u": "https://swarovski.com.lb/products/5751195",
-"p": 280.0,
-"c": null,
+"p": 196.0,
+"c": 280.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5751195_png.png?v=1769510733&width=400",
 "type": "Earrings",
@@ -19839,7 +19950,7 @@
 "Color_Multicolored",
 "Material_Rhodium plated",
 "Material_White Rhodium Plated",
-"New Collection",
+"Sale 11",
 "Selection_Gift"
 ],
 "in": true
@@ -19962,8 +20073,8 @@
 {
 "t": "Symbolica bracelet, Pavé, Horse shoe, White, Rhodium plated",
 "u": "https://swarovski.com.lb/products/5746220",
-"p": 205.0,
-"c": null,
+"p": 144.0,
+"c": 205.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5746220_png.png?v=1768484292&width=400",
 "type": "Bracelet",
@@ -19973,7 +20084,7 @@
 "Color_White",
 "Material_Rhodium plated",
 "Material_White Rhodium Plated",
-"New Collection",
+"Sale 11",
 "Selection_Gift",
 "Valentine_Gifts"
 ],
@@ -19982,8 +20093,8 @@
 {
 "t": "Sublima bangle watch, Swiss Made, Metal bracelet, Gold tone, Champagne gold-tone finish",
 "u": "https://swarovski.com.lb/products/5734635",
-"p": 625.0,
-"c": null,
+"p": 438.0,
+"c": 625.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5734635_png.png?v=1768484290&width=400",
 "type": "Watch",
@@ -19991,7 +20102,7 @@
 "Category_Watch",
 "Collection_Sublima",
 "Color_Gold tone",
-"New Collection",
+"Sale 11",
 "Valentine_Gifts",
 "x"
 ],
@@ -20039,8 +20150,8 @@
 {
 "t": "Matrix Tennis necklace, Round cut, Green, Ruthenium plated",
 "u": "https://swarovski.com.lb/products/5743472",
-"p": 390.0,
-"c": null,
+"p": 273.0,
+"c": 390.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5743472_png.png?v=1768484293&width=400",
 "type": "Necklace",
@@ -20048,7 +20159,7 @@
 "Category_Necklace",
 "Collection_Matrix",
 "Color_Green",
-"Preorder",
+"Sale 11",
 "Selection_Gift",
 "Subcategory_Tennis necklaces"
 ],
@@ -20075,8 +20186,8 @@
 {
 "t": "Matrix Tennis bracelet, Round cut, Green, Ruthenium plated",
 "u": "https://swarovski.com.lb/products/5743447",
-"p": 315.0,
-"c": null,
+"p": 221.0,
+"c": 315.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5743447_png.png?v=1768484289&width=400",
 "type": "Bracelet",
@@ -20092,8 +20203,8 @@
 {
 "t": "Matrix Tennis bracelet, Round cut, Blue, Ruthenium plated",
 "u": "https://swarovski.com.lb/products/5743438",
-"p": 315.0,
-"c": null,
+"p": 221.0,
+"c": 315.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5743438_png.png?v=1768484294&width=400",
 "type": "Bracelet",
@@ -20109,8 +20220,8 @@
 {
 "t": "Matrix Tennis bracelet, Gradient of round cuts, Multicolored, Rhodium plated",
 "u": "https://swarovski.com.lb/products/5751197",
-"p": 315.0,
-"c": null,
+"p": 221.0,
+"c": 315.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5751197_png.png?v=1768484278&width=400",
 "type": "Bracelet",
@@ -20120,7 +20231,7 @@
 "Color_Multicolored",
 "Material_Rhodium plated",
 "Material_White Rhodium Plated",
-"New Collection",
+"Sale 11",
 "Selection_Gift",
 "Subcategory_Tennis bracelets"
 ],
@@ -20187,8 +20298,8 @@
 {
 "t": "Matrix stud earrings, Crystal pearl, White, Rhodium plated",
 "u": "https://swarovski.com.lb/products/5747752",
-"p": 125.0,
-"c": null,
+"p": 88.0,
+"c": 125.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5747752_png.png?v=1768484272&width=400",
 "type": "Earrings",
@@ -20199,7 +20310,7 @@
 "Color_White",
 "Material_Rhodium plated",
 "Material_White Rhodium Plated",
-"New Collection",
+"Sale 11",
 "Selection_Gift"
 ],
 "in": true
@@ -20226,8 +20337,8 @@
 {
 "t": "Matrix bracelet, Crystal pearl, White, Rhodium plated",
 "u": "https://swarovski.com.lb/products/5747747",
-"p": 235.0,
-"c": null,
+"p": 165.0,
+"c": 235.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5747747_png.png?v=1768484269&width=400",
 "type": "Bracelet",
@@ -20237,7 +20348,7 @@
 "Color_White",
 "Material_Rhodium plated",
 "Material_White Rhodium Plated",
-"New Collection",
+"Sale 11",
 "Selection_Gift"
 ],
 "in": true
@@ -20245,8 +20356,8 @@
 {
 "t": "Luckily stud earrings, Pavé, Eye, Green, Gold-tone plated",
 "u": "https://swarovski.com.lb/products/5752592",
-"p": 190.0,
-"c": null,
+"p": 133.0,
+"c": 190.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5752592_png.png?v=1768484268&width=400",
 "type": "Earrings",
@@ -20257,7 +20368,7 @@
 "Color_Green",
 "Material_Gold Plated",
 "Material_Gold-tone plated",
-"New Collection",
+"Sale 11",
 "Selection_Gift"
 ],
 "in": true
@@ -20345,8 +20456,8 @@
 {
 "t": "Imber bangle watch, Swiss Made, Metal bracelet, Silver tone, Stainless steel",
 "u": "https://swarovski.com.lb/products/5705419",
-"p": 550.0,
-"c": null,
+"p": 385.0,
+"c": 550.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5705419_png.png?v=1768484260&width=400",
 "type": "Watch",
@@ -20354,7 +20465,7 @@
 "Category_Watch",
 "Collection_Imber",
 "Color_Silver tone",
-"New Collection",
+"Sale 11",
 "Selection_Gift"
 ],
 "in": true
@@ -20380,8 +20491,8 @@
 {
 "t": "Idyllia stud earrings, Mixed cuts, Heart with arrow, White, Mixed metal finish",
 "u": "https://swarovski.com.lb/products/5737298",
-"p": 205.0,
-"c": null,
+"p": 144.0,
+"c": 205.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5737298_png.png?v=1768484254&width=400",
 "type": "Earrings",
@@ -20391,7 +20502,7 @@
 "Collection_Idyllia",
 "Color_White",
 "MEA",
-"New Collection",
+"Sale 11",
 "Selection_Gift",
 "Subcategory_Stud earrings"
 ],
@@ -20417,8 +20528,8 @@
 {
 "t": "Idyllia pendant, Mixed cuts, Heart, White, Gold-tone plated",
 "u": "https://swarovski.com.lb/products/5744127",
-"p": 360.0,
-"c": null,
+"p": 252.0,
+"c": 360.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5744127_png.png?v=1768484249&width=400",
 "type": "Pendant",
@@ -20430,7 +20541,7 @@
 "Material_Gold Plated",
 "Material_Gold-tone plated",
 "MEA",
-"New Collection"
+"Sale 11"
 ],
 "in": true
 },
@@ -20513,8 +20624,8 @@
 {
 "t": "Idyllia drop earrings, Set (3), Ladybug, Clover, Strawberry, Multicolored, Gold-tone plated",
 "u": "https://swarovski.com.lb/products/5742681",
-"p": 315.0,
-"c": null,
+"p": 221.0,
+"c": 315.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5742681_png.png?v=1768484241&width=400",
 "type": "Earrings",
@@ -20525,7 +20636,7 @@
 "Color_Multicolored",
 "Material_Gold Plated",
 "Material_Gold-tone plated",
-"New Collection",
+"Sale 11",
 "Selection_Gift"
 ],
 "in": true
@@ -20533,8 +20644,8 @@
 {
 "t": "Idyllia drop earrings, Mixed cuts, Heart, White, Gold-tone plated",
 "u": "https://swarovski.com.lb/products/5737297",
-"p": 360.0,
-"c": null,
+"p": 252.0,
+"c": 360.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5737297_png.png?v=1768484239&width=400",
 "type": "Earrings",
@@ -20546,7 +20657,7 @@
 "Material_Gold Plated",
 "Material_Gold-tone plated",
 "MEA",
-"New Collection"
+"Sale 11"
 ],
 "in": true
 },
@@ -20729,8 +20840,8 @@
 {
 "t": "Idyllia charm, Mixed cuts, Heart with key, White, Gold-tone plated",
 "u": "https://swarovski.com.lb/products/5742959",
-"p": 110.0,
-"c": null,
+"p": 77.0,
+"c": 110.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5742959_png.png?v=1768484220&width=400",
 "type": "Charms",
@@ -20741,7 +20852,7 @@
 "Color_White",
 "Material_Gold Plated",
 "Material_Gold-tone plated",
-"New Collection",
+"Sale 11",
 "Selection_Gift"
 ],
 "in": true
@@ -20749,8 +20860,8 @@
 {
 "t": "Idyllia charm, Mixed cuts, Bee, Multicolored, Gold-tone plated",
 "u": "https://swarovski.com.lb/products/5743132",
-"p": 110.0,
-"c": null,
+"p": 77.0,
+"c": 110.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5743132_png.png?v=1768484219&width=400",
 "type": "Charms",
@@ -20761,7 +20872,7 @@
 "Color_Multicolored",
 "Material_Gold Plated",
 "Material_Gold-tone plated",
-"New Collection",
+"Sale 11",
 "Selection_Gift"
 ],
 "in": true
@@ -20769,8 +20880,8 @@
 {
 "t": "Idyllia charm, Clover, Green, Gold-tone plated",
 "u": "https://swarovski.com.lb/products/5743130",
-"p": 110.0,
-"c": null,
+"p": 77.0,
+"c": 110.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5743130_png.png?v=1768484218&width=400",
 "type": "Charms",
@@ -20782,7 +20893,7 @@
 "Material_Gold Plated",
 "Material_Gold-tone plated",
 "MEA",
-"New Collection"
+"Sale 11"
 ],
 "in": true
 },
@@ -20805,8 +20916,8 @@
 {
 "t": "Idyllia bracelet, Mixed cuts, Mixed motifs, Multicolored, Gold-tone plated",
 "u": "https://swarovski.com.lb/products/5742683",
-"p": 905.0,
-"c": null,
+"p": 634.0,
+"c": 905.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5742683_png.png?v=1768484213&width=400",
 "type": "Bracelet",
@@ -20816,7 +20927,7 @@
 "Color_Multicolored",
 "Material_Gold Plated",
 "Material_Gold-tone plated",
-"New Collection",
+"Sale 11",
 "Selection_Gift",
 "Valentine_Gifts"
 ],
@@ -20885,8 +20996,8 @@
 {
 "t": "Gema Y necklace, Mixed cuts, Multicolored, Gold-tone plated",
 "u": "https://swarovski.com.lb/products/5752577",
-"p": 390.0,
-"c": null,
+"p": 273.0,
+"c": 390.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5752577_png.png?v=1768484208&width=400",
 "type": "Necklace",
@@ -20896,7 +21007,7 @@
 "Color_Multicolored",
 "Material_Gold Plated",
 "Material_Gold-tone plated",
-"New Collection",
+"Sale 11",
 "Selection_Gift",
 "Valentine_Gifts"
 ],
@@ -20905,8 +21016,8 @@
 {
 "t": "Gema Y necklace, Mixed cuts, Multicolored, 18K gold finish",
 "u": "https://swarovski.com.lb/products/5737451",
-"p": 440.0,
-"c": null,
+"p": 308.0,
+"c": 440.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5737451_png.png?v=1768484206&width=400",
 "type": "Necklace",
@@ -20923,8 +21034,8 @@
 {
 "t": "Gema strandage, Mixed cuts, Multicolored, Gold-tone plated",
 "u": "https://swarovski.com.lb/products/5737457",
-"p": 1015.0,
-"c": null,
+"p": 711.0,
+"c": 1015.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5737457_png.png?v=1768484204&width=400",
 "type": "Necklace",
@@ -20934,7 +21045,7 @@
 "Color_Multicolored",
 "Material_Gold Plated",
 "Material_Gold-tone plated",
-"New Collection",
+"Sale 11",
 "Selection_Gift",
 "Valentine_Gifts"
 ],
@@ -20943,8 +21054,8 @@
 {
 "t": "Gema pendant, Mixed cuts, Multicolored, Gold-tone plated",
 "u": "https://swarovski.com.lb/products/5741589",
-"p": 345.0,
-"c": null,
+"p": 242.0,
+"c": 345.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5741589_png.png?v=1768484203&width=400",
 "type": "Pendant",
@@ -20955,7 +21066,7 @@
 "Color_Multicolored",
 "Material_Gold Plated",
 "Material_Gold-tone plated",
-"New Collection",
+"Sale 11",
 "Selection_Gift"
 ],
 "in": true
@@ -20963,8 +21074,8 @@
 {
 "t": "Gema pendant, Mixed cuts, Dangling crystals, Multicolored, Gold-tone plated",
 "u": "https://swarovski.com.lb/products/5741587",
-"p": 280.0,
-"c": null,
+"p": 196.0,
+"c": 280.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5741587_png.png?v=1768484201&width=400",
 "type": "Pendant",
@@ -20976,7 +21087,7 @@
 "Material_Gold Plated",
 "Material_Gold-tone plated",
 "MEA",
-"New Collection"
+"Sale 11"
 ],
 "in": true
 },
@@ -21023,8 +21134,8 @@
 {
 "t": "Gema necklace, Mixed cuts, Drop, Multicolored, Gold-tone plated",
 "u": "https://swarovski.com.lb/products/5752576",
-"p": 235.0,
-"c": null,
+"p": 165.0,
+"c": 235.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5752576_png.png?v=1768484195&width=400",
 "type": "Necklace",
@@ -21034,7 +21145,7 @@
 "Color_Multicolored",
 "Material_Gold Plated",
 "Material_Gold-tone plated",
-"New Collection",
+"Sale 11",
 "Selection_Gift",
 "Valentine_Gifts"
 ],
@@ -21043,8 +21154,8 @@
 {
 "t": "Gema necklace, Mixed cuts, Dangling crystals, Multicolored, 18K gold finish",
 "u": "https://swarovski.com.lb/products/5737443",
-"p": 750.0,
-"c": null,
+"p": 525.0,
+"c": 750.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5737443_png.png?v=1768484193&width=400",
 "type": "Necklace",
@@ -21241,8 +21352,8 @@
 {
 "t": "Gema drop earrings, Asymmetrical design, Mixed cuts, Pink, 18K gold finish",
 "u": "https://swarovski.com.lb/products/5737454",
-"p": 250.0,
-"c": null,
+"p": 175.0,
+"c": 250.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5737454_png.png?v=1768484174&width=400",
 "type": "Earrings",
@@ -21261,8 +21372,8 @@
 {
 "t": "Gema drop earrings, Asymmetrical design, Mixed cuts, Multicolored, Gold-tone plated",
 "u": "https://swarovski.com.lb/products/5747917",
-"p": 235.0,
-"c": null,
+"p": 165.0,
+"c": 235.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5747917_png.png?v=1768484173&width=400",
 "type": "Earrings",
@@ -21273,7 +21384,7 @@
 "Color_Multicolored",
 "Material_Gold Plated",
 "Material_Gold-tone plated",
-"New Collection",
+"Sale 11",
 "Selection_Gift"
 ],
 "in": true
@@ -21300,8 +21411,8 @@
 {
 "t": "Gema bracelet, Mixed cuts, Multicolored, Gold-tone plated",
 "u": "https://swarovski.com.lb/products/5752590",
-"p": 345.0,
-"c": null,
+"p": 242.0,
+"c": 345.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5752590_png.png?v=1768484168&width=400",
 "type": "Bracelet",
@@ -21311,7 +21422,7 @@
 "Color_Multicolored",
 "Material_Gold Plated",
 "Material_Gold-tone plated",
-"New Collection",
+"Sale 11",
 "Selection_Gift",
 "Valentine_Gifts"
 ],
@@ -21358,8 +21469,8 @@
 {
 "t": "Gema bracelet, Mixed cuts, Dangling crystals, Multicolored, Gold-tone plated",
 "u": "https://swarovski.com.lb/products/5737442",
-"p": 280.0,
-"c": null,
+"p": 196.0,
+"c": 280.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5737442_png.png?v=1768484162&width=400",
 "type": "Bracelet",
@@ -21369,7 +21480,7 @@
 "Color_Multicolored",
 "Material_Gold Plated",
 "Material_Gold-tone plated",
-"New Collection",
+"Sale 11",
 "Selection_Gift",
 "Valentine_Gifts"
 ],
@@ -21398,8 +21509,8 @@
 {
 "t": "Dextera strandage, Round cut, White, Mixed metal finish",
 "u": "https://swarovski.com.lb/products/5743785",
-"p": 595.0,
-"c": null,
+"p": 417.0,
+"c": 595.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5743785_png.png?v=1768484153&width=400",
 "type": "Necklace",
@@ -21416,8 +21527,8 @@
 {
 "t": "Dextera open ring, Round cut, White, Gold-tone plated",
 "u": "https://swarovski.com.lb/products/5741800",
-"p": 205.0,
-"c": null,
+"p": 144.0,
+"c": 205.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5741800_png.png?v=1768484152&width=400",
 "type": "Ring",
@@ -21428,7 +21539,7 @@
 "Color_White",
 "Material_Gold Plated",
 "Material_Gold-tone plated",
-"New Collection",
+"Sale 11",
 "Selection_Gift"
 ],
 "in": true
@@ -21455,8 +21566,8 @@
 {
 "t": "Dextera octagon watch, Swiss Made, Leather strap, Brown, Rose gold-tone finish",
 "u": "https://swarovski.com.lb/products/5730184",
-"p": 515.0,
-"c": null,
+"p": 361.0,
+"c": 515.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5730184_png.png?v=1768484146&width=400",
 "type": "Watch",
@@ -21466,7 +21577,7 @@
 "Color_Brown",
 "Material_Rose Gold Plated",
 "Material_Rose gold-tone plated",
-"New Collection",
+"Sale 11",
 "Selection_Gift"
 ],
 "in": true
@@ -21474,8 +21585,8 @@
 {
 "t": "Dextera necklace, Round cut, Chain, White, Mixed metal finish",
 "u": "https://swarovski.com.lb/products/5741795",
-"p": 440.0,
-"c": null,
+"p": 308.0,
+"c": 440.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5741795_png.png?v=1768484144&width=400",
 "type": "Necklace",
@@ -21484,7 +21595,7 @@
 "Collection_Dextera",
 "Color_White",
 "Material_Mixed metal finish",
-"New Collection",
+"Sale 11",
 "Selection_Gift",
 "Valentine_Gifts"
 ],
@@ -21512,8 +21623,8 @@
 {
 "t": "Dextera cuff, Round cut, White, Gold-tone plated",
 "u": "https://swarovski.com.lb/products/5751213",
-"p": 470.0,
-"c": null,
+"p": 329.0,
+"c": 470.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5751213_png.png?v=1768484139&width=400",
 "type": "Bracelet",
@@ -21531,8 +21642,8 @@
 {
 "t": "Dextera bracelet, Round cut, White, Rhodium plated",
 "u": "https://swarovski.com.lb/products/5747642",
-"p": 280.0,
-"c": null,
+"p": 196.0,
+"c": 280.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5747642_png.png?v=1768484141&width=400",
 "type": "Bracelet",
@@ -21542,7 +21653,7 @@
 "Color_White",
 "Material_Rhodium plated",
 "Material_White Rhodium Plated",
-"New Collection",
+"Sale 11",
 "Selection_Gift",
 "Valentine_Gifts"
 ],
@@ -21570,8 +21681,8 @@
 {
 "t": "Dextera bracelet, Round cut, T-bar, White, Mixed metal finish",
 "u": "https://swarovski.com.lb/products/5741797",
-"p": 345.0,
-"c": null,
+"p": 242.0,
+"c": 345.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5741797_png.png?v=1768484142&width=400",
 "type": "Bracelet",
@@ -21854,8 +21965,8 @@
 {
 "t": "Una Angelic necklace, Round cut, Small, White, Gold-tone plated",
 "u": "https://swarovski.com.lb/products/5751560",
-"p": 390.0,
-"c": null,
+"p": 273.0,
+"c": 390.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5751560_png.png?v=1765003149&width=400",
 "type": "Necklace",
@@ -21865,7 +21976,7 @@
 "Color_White",
 "Material_Gold Plated",
 "Material_Gold-tone plated",
-"New Collection",
+"Sale 11",
 "Selection_Gift"
 ],
 "in": true
@@ -22131,8 +22242,8 @@
 {
 "t": "Dextera hoop earrings, Octagon shape, Round cut, Small, White, Rose gold-tone plated",
 "u": "https://swarovski.com.lb/products/5743798",
-"p": 205.0,
-"c": null,
+"p": 144.0,
+"c": 205.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5743798_png.png?v=1765003124&width=400",
 "type": "Earrings",
@@ -22143,7 +22254,7 @@
 "Color_White",
 "Material_Rose Gold Plated",
 "Material_Rose gold-tone plated",
-"New Collection",
+"Sale 11",
 "Selection_Gift"
 ],
 "in": true
@@ -22229,8 +22340,8 @@
 {
 "t": "Idyllia necklace, Heart with arrow, White, Rhodium plated",
 "u": "https://swarovski.com.lb/products/5743411",
-"p": 315.0,
-"c": null,
+"p": 221.0,
+"c": 315.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5743411_png.png?v=1765003113&width=400",
 "type": "Necklace",
@@ -22241,7 +22352,7 @@
 "Holiday",
 "Material_Rhodium plated",
 "Material_White Rhodium Plated",
-"New Collection",
+"Sale 11",
 "Selection_Gift"
 ],
 "in": true
@@ -22289,8 +22400,8 @@
 {
 "t": "Idyllia charm, Mixed cuts, Heart with key, White, Rhodium plated",
 "u": "https://swarovski.com.lb/products/5742957",
-"p": 95.0,
-"c": null,
+"p": 67.0,
+"c": 95.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5742957_png.png?v=1765003107&width=400",
 "type": "Charms",
@@ -22302,7 +22413,7 @@
 "Holiday",
 "Material_Rhodium plated",
 "Material_White Rhodium Plated",
-"New Collection"
+"Sale 11"
 ],
 "in": true
 },
@@ -22348,8 +22459,8 @@
 {
 "t": "Una Angelic strandage, Crystal pearl, Round cut, White, Gold-tone plated",
 "u": "https://swarovski.com.lb/products/5742380",
-"p": 470.0,
-"c": null,
+"p": 329.0,
+"c": 470.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5742380_png.png?v=1765003101&width=400",
 "type": "Necklace",
@@ -22425,8 +22536,8 @@
 {
 "t": "Idyllia bracelet, Mixed cuts, Heart with arrow, White, Rhodium plated",
 "u": "https://swarovski.com.lb/products/5742022",
-"p": 220.0,
-"c": null,
+"p": 154.0,
+"c": 220.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5742022_png.png?v=1765003095&width=400",
 "type": "Bracelet",
@@ -22438,7 +22549,7 @@
 "Material_Rhodium plated",
 "Material_White Rhodium Plated",
 "MEA",
-"New Collection"
+"Sale 11"
 ],
 "in": true
 },
@@ -22505,8 +22616,8 @@
 {
 "t": "Clarica watch, Swiss Made, Metal bracelet, Gold tone, Gold-tone finish",
 "u": "https://swarovski.com.lb/products/5740823",
-"p": 470.0,
-"c": null,
+"p": 329.0,
+"c": 470.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5740823_png.png?v=1765003087&width=400",
 "type": "Watch",
@@ -22516,7 +22627,7 @@
 "Color_Gold tone",
 "Material_Gold Plated",
 "Material_Gold-tone plated",
-"New Collection",
+"Sale 11",
 "Selection_Gift"
 ],
 "in": true
@@ -22684,8 +22795,8 @@
 {
 "t": "Dextera hoop earrings, Round cut, White, Gold-tone plated",
 "u": "https://swarovski.com.lb/products/5738201",
-"p": 280.0,
-"c": null,
+"p": 196.0,
+"c": 280.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5738201_png.png?v=1765003072&width=400",
 "type": "Earrings",
@@ -22697,7 +22808,7 @@
 "Holiday",
 "Material_Gold Plated",
 "Material_Gold-tone plated",
-"New Collection"
+"Sale 11"
 ],
 "in": true
 },
@@ -22724,8 +22835,8 @@
 {
 "t": "Dextera hoop earrings, Round cut, Mini, White, 18K rose gold finish",
 "u": "https://swarovski.com.lb/products/5738198",
-"p": 205.0,
-"c": null,
+"p": 144.0,
+"c": 205.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5738198_png.png?v=1765003068&width=400",
 "type": "Earrings",
@@ -22736,7 +22847,7 @@
 "Color_White",
 "Material_Rose Gold Plated",
 "Material_Rose gold-tone plated",
-"New Collection",
+"Sale 11",
 "Selection_Gift"
 ],
 "in": true
@@ -22744,8 +22855,8 @@
 {
 "t": "Dextera hoop earrings, Round cut, Mini, White, Rhodium plated",
 "u": "https://swarovski.com.lb/products/5738197",
-"p": 190.0,
-"c": null,
+"p": 133.0,
+"c": 190.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5738197_png.png?v=1765003066&width=400",
 "type": "Earrings",
@@ -22757,7 +22868,7 @@
 "Holiday",
 "Material_Rhodium plated",
 "Material_White Rhodium Plated",
-"New Collection"
+"Sale 11"
 ],
 "in": true
 },
@@ -22842,8 +22953,8 @@
 {
 "t": "Idyllia drop earrings with ear cuff, Mixed cuts, Heart with key, Pink, Gold-tone plated",
 "u": "https://swarovski.com.lb/products/5737294",
-"p": 235.0,
-"c": null,
+"p": 165.0,
+"c": 235.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5737294_var3.jpg?v=1765181917&width=400",
 "type": "Earrings",
@@ -22855,7 +22966,7 @@
 "Color_Pink",
 "Material_Gold Plated",
 "Material_Gold-tone plated",
-"New Collection"
+"Sale 11"
 ],
 "in": true
 },
@@ -22902,8 +23013,8 @@
 {
 "t": "Idyllia bangle, Mixed cuts, Heart, Pink, Mixed metal finish",
 "u": "https://swarovski.com.lb/products/5737267",
-"p": 250.0,
-"c": null,
+"p": 175.0,
+"c": 250.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5737267.jpg?v=1765004834&width=400",
 "type": "Bangle",
@@ -23042,8 +23153,8 @@
 {
 "t": "Symbolica pendant, Crystal pearl, Round cut, Pavé, Horse shoe, White, Rhodium plated",
 "u": "https://swarovski.com.lb/products/5736972",
-"p": 220.0,
-"c": null,
+"p": 154.0,
+"c": 220.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5736972_png.png?v=1765003042&width=400",
 "type": "Pendant",
@@ -23055,7 +23166,7 @@
 "Holiday",
 "Material_Rhodium plated",
 "Material_White Rhodium Plated",
-"New Collection"
+"Sale 11"
 ],
 "in": true
 },
@@ -23158,8 +23269,8 @@
 {
 "t": "Crystalline ballpoint pen, ReCreated™ crystals, Blue, Blue lacquered, Chrome plated",
 "u": "https://swarovski.com.lb/products/5732972",
-"p": 80.0,
-"c": null,
+"p": 56.0,
+"c": 80.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5732972_png.png?v=1765003029&width=400",
 "type": "Pen",
@@ -23167,7 +23278,7 @@
 "Category_Pen",
 "Collection_Crystalline Ballpoint",
 "Color_Blue",
-"New Collection",
+"Sale 11",
 "Selection_Gift"
 ],
 "in": true
@@ -23212,8 +23323,8 @@
 {
 "t": "Crystalline aura watch, Swiss Made, Leather strap, Pink, Rose gold-tone finish",
 "u": "https://swarovski.com.lb/products/5730150",
-"p": 550.0,
-"c": null,
+"p": 385.0,
+"c": 550.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5730150_png.png?v=1765003025&width=400",
 "type": "Watch",
@@ -23223,7 +23334,7 @@
 "Color_Pink",
 "Material_Rose Gold Plated",
 "Material_Rose gold-tone plated",
-"New Collection",
+"Sale 11",
 "Selection_Gift"
 ],
 "in": true
@@ -23525,8 +23636,8 @@
 {
 "t": "Matrix hoop earrings Mixed cuts, White, Rhodium plated",
 "u": "https://swarovski.com.lb/products/5727098",
-"p": 705.0,
-"c": null,
+"p": 423.0,
+"c": 705.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5727098.jpg?v=1751642569&width=400",
 "type": "Earrings",
@@ -23545,8 +23656,8 @@
 {
 "t": "Una Angelic choker White, Rhodium plated",
 "u": "https://swarovski.com.lb/products/5733194",
-"p": 515.0,
-"c": null,
+"p": 361.0,
+"c": 515.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5733194.jpg?v=1751642457&width=400",
 "type": "Choker",
@@ -23724,8 +23835,8 @@
 {
 "t": "Dextera Bangle watch, Swiss Made, Metal bracelet, Rose gold tone, Rose gold-tone finish",
 "u": "https://swarovski.com.lb/products/5672992",
-"p": 595.0,
-"c": null,
+"p": 417.0,
+"c": 595.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5672992.jpg?v=1788522680&width=400",
 "type": "Watch",
@@ -23816,8 +23927,8 @@
 {
 "t": "Mesmera bracelet Mixed cuts, White, Gold-tone plated",
 "u": "https://swarovski.com.lb/products/5743827",
-"p": 550.0,
-"c": null,
+"p": 385.0,
+"c": 550.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5743827.jpg?v=1751642427&width=400",
 "type": "Bracelet",
@@ -23851,8 +23962,8 @@
 {
 "t": "Sublima cocktail ring\nLarge, White, Rhodium plated",
 "u": "https://swarovski.com.lb/products/5737618",
-"p": 440.0,
-"c": null,
+"p": 264.0,
+"c": 440.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/imgi_5_5737618_png.jpg?v=1755077334&width=400",
 "type": "Ring",
@@ -23871,8 +23982,8 @@
 {
 "t": "Gema strandage, Mixed cuts, Yellow, Gold-tone plated",
 "u": "https://swarovski.com.lb/products/5708709",
-"p": 880.0,
-"c": null,
+"p": 528.0,
+"c": 880.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5708709.jpg?v=1755073495&width=400",
 "type": "Necklace",
@@ -23889,8 +24000,8 @@
 {
 "t": "Swan Vienna earrings Swan, White, Rhodium plated",
 "u": "https://swarovski.com.lb/products/5723388",
-"p": 280.0,
-"c": null,
+"p": 196.0,
+"c": 280.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5723388_var1.jpg?v=1755073492&width=400",
 "type": "Earrings",
@@ -23908,8 +24019,8 @@
 {
 "t": "Sublima pendant White, Rhodium plated",
 "u": "https://swarovski.com.lb/products/5735223",
-"p": 345.0,
-"c": null,
+"p": 207.0,
+"c": 345.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5735223.jpg?v=1755073490&width=400",
 "type": "Pendant",
@@ -23927,8 +24038,8 @@
 {
 "t": "Una Angelic bracelet White, Rhodium plated",
 "u": "https://swarovski.com.lb/products/5735343",
-"p": 390.0,
-"c": null,
+"p": 273.0,
+"c": 390.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5735343.jpg?v=1755073489&width=400",
 "type": "Bracelet",
@@ -23946,8 +24057,8 @@
 {
 "t": "Constella Y necklace, Mixed cuts, Green, Gold-tone plated",
 "u": "https://swarovski.com.lb/products/5722474",
-"p": 470.0,
-"c": null,
+"p": 282.0,
+"c": 470.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5722474.jpg?v=1755073487&width=400",
 "type": "Necklace",
@@ -24153,8 +24264,8 @@
 {
 "t": "Una Angelic strandage Round cut, White, Rhodium plated",
 "u": "https://swarovski.com.lb/products/5733197",
-"p": 390.0,
-"c": null,
+"p": 273.0,
+"c": 390.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5733197_var1.jpg?v=1754397324&width=400",
 "type": "Necklace",
@@ -24212,8 +24323,8 @@
 {
 "t": "Sublima stud earrings Spike, White, Ruthenium plated",
 "u": "https://swarovski.com.lb/products/5723185",
-"p": 270.0,
-"c": null,
+"p": 162.0,
+"c": 270.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5723185.jpg?v=1754397364&width=400",
 "type": "Earrings",
@@ -24252,8 +24363,8 @@
 {
 "t": "Gema pendant and brooch Yellow, Gold-tone plated",
 "u": "https://swarovski.com.lb/products/5732839",
-"p": 515.0,
-"c": null,
+"p": 309.0,
+"c": 515.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5732839.jpg?v=1754466241&width=400",
 "type": "Pendant",
@@ -24271,8 +24382,8 @@
 {
 "t": "Idyllia earrings Set (3), Mixed cuts, Flower, Multicolored, Gold-tone plated",
 "u": "https://swarovski.com.lb/products/5732386",
-"p": 235.0,
-"c": null,
+"p": 141.0,
+"c": 235.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5732386_var1.jpg?v=1754466240&width=400",
 "type": "Earrings",
@@ -24291,8 +24402,8 @@
 {
 "t": "Una Angelic drop earrings Round cut, White, Rhodium plated",
 "u": "https://swarovski.com.lb/products/5732273",
-"p": 205.0,
-"c": null,
+"p": 144.0,
+"c": 205.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5732273.jpg?v=1754397391&width=400",
 "type": "Earrings",
@@ -24349,8 +24460,8 @@
 {
 "t": "Dextera Octagon pendant Octagon shape, Round cut, Black, Ruthenium plated",
 "u": "https://swarovski.com.lb/products/5724595",
-"p": 315.0,
-"c": null,
+"p": 189.0,
+"c": 315.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5724595.jpg?v=1751642577&width=400",
 "type": "Pendant",
@@ -24387,8 +24498,8 @@
 {
 "t": "Idyllia drop earrings Mixed cuts, Long, White, Gold-tone plated",
 "u": "https://swarovski.com.lb/products/5723138",
-"p": 390.0,
-"c": null,
+"p": 234.0,
+"c": 390.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5723138.jpg?v=1754466235&width=400",
 "type": "Earrings",
@@ -24407,8 +24518,8 @@
 {
 "t": "Millenia Tennis necklace, Octagon cut, White, Rhodium plated",
 "u": "https://swarovski.com.lb/products/5714395",
-"p": 860.0,
-"c": null,
+"p": 602.0,
+"c": 860.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5714395.jpg?v=1754397413&width=400",
 "type": "Necklace",
@@ -24509,8 +24620,8 @@
 {
 "t": "Dextera bangle watch, Swiss Made, Metal bracelet, Pink, Rose gold-tone plated",
 "u": "https://swarovski.com.lb/products/5717588",
-"p": 595.0,
-"c": null,
+"p": 357.0,
+"c": 595.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5717588.jpg?v=1751642367&width=400",
 "type": "Watch",
@@ -24527,8 +24638,8 @@
 {
 "t": "Imber watch, Swiss Made, Leather strap, Blue, Champagne gold-tone finish",
 "u": "https://swarovski.com.lb/products/5717539",
-"p": 550.0,
-"c": null,
+"p": 330.0,
+"c": 550.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5717539_png.jpg?v=1751642368&width=400",
 "type": "Watch",
@@ -24547,8 +24658,8 @@
 {
 "t": "Sublima hoop earrings Mixed round cuts, White, Rhodium plated",
 "u": "https://swarovski.com.lb/products/5732283",
-"p": 515.0,
-"c": null,
+"p": 309.0,
+"c": 515.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5732283.jpg?v=1754397263&width=400",
 "type": "Earrings",
@@ -24567,8 +24678,8 @@
 {
 "t": "Millenia Tennis Necklace, Octagon cut, Purple, Gold-tone plated",
 "u": "https://swarovski.com.lb/products/5730323",
-"p": 860.0,
-"c": null,
+"p": 602.0,
+"c": 860.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5730323.jpg?v=1754465629&width=400",
 "type": "Necklace",
@@ -24586,8 +24697,8 @@
 {
 "t": "Millenia Tennis necklace, Octagon cut, Green, Gold-tone plated",
 "u": "https://swarovski.com.lb/products/5714396",
-"p": 905.0,
-"c": null,
+"p": 634.0,
+"c": 905.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5714396.jpg?v=1754465627&width=400",
 "type": "Necklace",
@@ -24605,8 +24716,8 @@
 {
 "t": "Millenia Tennis necklace, Octagon cut, Blue, Rhodium plated",
 "u": "https://swarovski.com.lb/products/5714397",
-"p": 860.0,
-"c": null,
+"p": 602.0,
+"c": 860.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5714397.jpg?v=1754397267&width=400",
 "type": "Necklace",
@@ -24661,8 +24772,8 @@
 {
 "t": "Matrix pendant Baguette cut, White, Rhodium plated",
 "u": "https://swarovski.com.lb/products/5727114",
-"p": 390.0,
-"c": null,
+"p": 234.0,
+"c": 390.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5727114_bbda02a7-c6b3-4874-a032-cb0c8dacf54e.jpg?v=1754397271&width=400",
 "type": "Pendant",
@@ -24701,8 +24812,8 @@
 {
 "t": "Idyllia choker Oval cut, White, Gold-tone plated",
 "u": "https://swarovski.com.lb/products/5723541",
-"p": 860.0,
-"c": null,
+"p": 516.0,
+"c": 860.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5723541.jpg?v=1754465618&width=400",
 "type": "Choker",
@@ -24720,8 +24831,8 @@
 {
 "t": "Idyllia bracelet Oval cut, White, Gold-tone plated",
 "u": "https://swarovski.com.lb/products/5723540",
-"p": 935.0,
-"c": null,
+"p": 561.0,
+"c": 935.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5723540.jpg?v=1754465617&width=400",
 "type": "Bracelet",
@@ -24759,8 +24870,8 @@
 {
 "t": "Matrix hoop earrings, Mixed cuts, Blue, Rhodium plated",
 "u": "https://swarovski.com.lb/products/5722459",
-"p": 315.0,
-"c": null,
+"p": 189.0,
+"c": 315.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5722459_var1.jpg?v=1754397410&width=400",
 "type": "Earrings",
@@ -24779,8 +24890,8 @@
 {
 "t": "Constella set, Mixed cuts, Multicolored, Gold-tone plated",
 "u": "https://swarovski.com.lb/products/5722542",
-"p": 440.0,
-"c": null,
+"p": 264.0,
+"c": 440.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5722542.jpg?v=1754466233&width=400",
 "type": "Set",
@@ -24797,8 +24908,8 @@
 {
 "t": "Millenia pendant, Octagon cut, White, Rhodium plated",
 "u": "https://swarovski.com.lb/products/5725768",
-"p": 315.0,
-"c": null,
+"p": 221.0,
+"c": 315.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5725768.jpg?v=1754397399&width=400",
 "type": "Pendant",
@@ -24817,8 +24928,8 @@
 {
 "t": "Matrix earrings, Baguette cut, Knot, White, Rhodium plated",
 "u": "https://swarovski.com.lb/products/5727040",
-"p": 280.0,
-"c": null,
+"p": 196.0,
+"c": 280.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5727040.jpg?v=1753180283&width=400",
 "type": "Earrings",
@@ -24927,8 +25038,8 @@
 {
 "t": "Stilla Attract cocktail ring, Round cut, White, Gold-tone plated",
 "u": "https://swarovski.com.lb/products/5723330",
-"p": 205.0,
-"c": null,
+"p": 144.0,
+"c": 205.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5723334.jpg?v=1754466253&width=400",
 "type": "Ring",
@@ -24947,8 +25058,8 @@
 {
 "t": "Constella drop earrings, Crystal pearl, Round cut, White, Rose gold-tone plated",
 "u": "https://swarovski.com.lb/products/5728585",
-"p": 205.0,
-"c": null,
+"p": 144.0,
+"c": 205.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5728585_var1.jpg?v=1754467082&width=400",
 "type": "Earrings",
@@ -25064,8 +25175,8 @@
 {
 "t": "Millenia hoop earrings, Mixed cuts, Multicolored, Gold-tone plated",
 "u": "https://swarovski.com.lb/products/5725757",
-"p": 315.0,
-"c": null,
+"p": 221.0,
+"c": 315.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5725757_var1.jpg?v=1754395481&width=400",
 "type": "Earrings",
@@ -25084,8 +25195,8 @@
 {
 "t": "Millenia bangle, Octagon cut, Multicolored, 18K gold finish",
 "u": "https://swarovski.com.lb/products/5725755",
-"p": 345.0,
-"c": null,
+"p": 242.0,
+"c": 345.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5725755.jpg?v=1754465602&width=400",
 "type": "Bangle",
@@ -25104,8 +25215,8 @@
 {
 "t": "Millenia open ring, Octagon cut, Multicolored, Gold-tone plated",
 "u": "https://swarovski.com.lb/products/5725751",
-"p": 220.0,
-"c": null,
+"p": 154.0,
+"c": 220.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/imgi_4_5725751_png.jpg?v=1762247976&width=400",
 "type": "Ring",
@@ -25124,8 +25235,8 @@
 {
 "t": "Millenia Tennis necklace, Octagon cut, Caramel, Gold-tone plated",
 "u": "https://swarovski.com.lb/products/5718357",
-"p": 765.0,
-"c": null,
+"p": 536.0,
+"c": 765.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5718357.jpg?v=1754465608&width=400",
 "type": "Necklace",
@@ -25227,8 +25338,8 @@
 {
 "t": "Dextera bangle, Octagon shape, Round cut, White, Ruthenium plated",
 "u": "https://swarovski.com.lb/products/5724606",
-"p": 235.0,
-"c": null,
+"p": 165.0,
+"c": 235.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5724606.jpg?v=1754397295&width=400",
 "type": "Bangle",
@@ -25246,8 +25357,8 @@
 {
 "t": "Dextera bangle, Octagon shape, Round cut, White, Gold-tone plated",
 "u": "https://swarovski.com.lb/products/5724580",
-"p": 250.0,
-"c": null,
+"p": 175.0,
+"c": 250.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5724580.jpg?v=1754465611&width=400",
 "type": "Bangle",
@@ -25265,8 +25376,8 @@
 {
 "t": "Matrix ring, Baguette cut, Knot, White, Rhodium plated",
 "u": "https://swarovski.com.lb/products/5727118",
-"p": 205.0,
-"c": null,
+"p": 144.0,
+"c": 205.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5727118.jpg?v=1754397287&width=400",
 "type": "Ring",
@@ -25320,8 +25431,8 @@
 {
 "t": "Imber watch, Swiss Made, Leather strap, Orange, Rose gold-tone finish",
 "u": "https://swarovski.com.lb/products/5717543",
-"p": 515.0,
-"c": null,
+"p": 309.0,
+"c": 515.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5717543_png.jpg?v=1751642388&width=400",
 "type": "Watch",
@@ -25373,8 +25484,8 @@
 {
 "t": "Constella open ring, Crystal pearl, Round cuts, White, Rhodium plated",
 "u": "https://swarovski.com.lb/products/5705597",
-"p": 220.0,
-"c": null,
+"p": 154.0,
+"c": 220.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5705596_png.jpg?v=1788548608&width=400",
 "type": "Ring",
@@ -25393,8 +25504,8 @@
 {
 "t": "Idyllia ring, Mixed cuts, Flower, Multicolored, Gold-tone plated",
 "u": "https://swarovski.com.lb/products/5721580",
-"p": 440.0,
-"c": null,
+"p": 264.0,
+"c": 440.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5721580.jpg?v=1754467200&width=400",
 "type": "Ring",
@@ -25597,8 +25708,8 @@
 {
 "t": "Una Angelic ring, Round cut, White, Silver-tone finish",
 "u": "https://swarovski.com.lb/products/5717927",
-"p": 280.0,
-"c": null,
+"p": 196.0,
+"c": 280.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5717931_png.jpg?v=1788548827&width=400",
 "type": "Ring",
@@ -25637,8 +25748,8 @@
 {
 "t": "Stilla ring, Octagon cut, White, Silver-tone finish",
 "u": "https://swarovski.com.lb/products/5717879",
-"p": 205.0,
-"c": null,
+"p": 123.0,
+"c": 205.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5717879.jpg?v=1754397423&width=400",
 "type": "Ring",
@@ -25677,8 +25788,8 @@
 {
 "t": "Matrix cocktail ring, Crystal pearl, Round cut, White, Rhodium plated",
 "u": "https://swarovski.com.lb/products/5714375",
-"p": 220.0,
-"c": null,
+"p": 132.0,
+"c": 220.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5714375.jpg?v=1754397428&width=400",
 "type": "Ring",
@@ -25717,8 +25828,8 @@
 {
 "t": "Matrix Vittore ring, Baguette cut, White, Rhodium plated",
 "u": "https://swarovski.com.lb/products/5709275",
-"p": 280.0,
-"c": null,
+"p": 196.0,
+"c": 280.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5709275.jpg?v=1754397436&width=400",
 "type": "Ring",
@@ -25737,8 +25848,8 @@
 {
 "t": "Imber ring, Round cut, White, Gold-tone plated",
 "u": "https://swarovski.com.lb/products/5714310",
-"p": 220.0,
-"c": null,
+"p": 154.0,
+"c": 220.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5714310.jpg?v=1754467203&width=400",
 "type": "Ring",
@@ -25757,8 +25868,8 @@
 {
 "t": "Imber ring, Mixed round cuts, White, Gold-tone plated",
 "u": "https://swarovski.com.lb/products/5705475",
-"p": 280.0,
-"c": null,
+"p": 168.0,
+"c": 280.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5705475.jpg?v=1754467202&width=400",
 "type": "Ring",
@@ -25797,8 +25908,8 @@
 {
 "t": "Gema ring, Set (3), Mixed cuts, Multicolored, Gold-tone plated",
 "u": "https://swarovski.com.lb/products/5705813",
-"p": 360.0,
-"c": null,
+"p": 216.0,
+"c": 360.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5705813.jpg?v=1751642677&width=400",
 "type": "Ring",
@@ -25934,8 +26045,8 @@
 {
 "t": "Matrix ear cuffs, Baguette cut, Pink, Rhodium plated",
 "u": "https://swarovski.com.lb/products/5719140",
-"p": 205.0,
-"c": null,
+"p": 123.0,
+"c": 205.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5719140_c403bc03-e7f1-4a06-b04a-927678e36d52.jpg?v=1751642744&width=400",
 "type": "Earrings",
@@ -25994,8 +26105,8 @@
 {
 "t": "Matrix hoop earrings, Baguette cut, Heart, Small, Pink, Gold-tone plated",
 "u": "https://swarovski.com.lb/products/5706340",
-"p": 235.0,
-"c": null,
+"p": 141.0,
+"c": 235.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5706340_2b13db92-01d3-4b7d-9938-7fcc252cccb7.jpg?v=1754467670&width=400",
 "type": "Earrings",
@@ -26034,8 +26145,8 @@
 {
 "t": "Millenia Tennis necklace, Octagon cut, White, Rhodium plated",
 "u": "https://swarovski.com.lb/products/5705757",
-"p": 595.0,
-"c": null,
+"p": 417.0,
+"c": 595.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5705757_edf02df9-3f18-455f-a549-99e10d1e9611.jpg?v=1754397526&width=400",
 "type": "Necklace",
@@ -26112,8 +26223,8 @@
 {
 "t": "Stilla ring, Round cut, White, Gold-tone plated",
 "u": "https://swarovski.com.lb/products/5693507",
-"p": 390.0,
-"c": null,
+"p": 273.0,
+"c": 390.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5693507.jpg?v=1788521280&width=400",
 "type": "Ring",
@@ -26148,8 +26259,8 @@
 {
 "t": "Millenia bangle, Octagon cut, White, Rhodium plated",
 "u": "https://swarovski.com.lb/products/5696321",
-"p": 360.0,
-"c": null,
+"p": 216.0,
+"c": 360.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5696322_png_1.jpg?v=1751642878&width=400",
 "type": "Bangle",
@@ -26278,8 +26389,8 @@
 {
 "t": "Dextera ring, White, Rhodium plated",
 "u": "https://swarovski.com.lb/products/5695938",
-"p": 190.0,
-"c": null,
+"p": 133.0,
+"c": 190.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5695938.jpg?v=1788516458&width=400",
 "type": "Ring",
@@ -26297,8 +26408,8 @@
 {
 "t": "Hyperbola ring, Mixed cuts, White, Rhodium plated",
 "u": "https://swarovski.com.lb/products/5691228",
-"p": 220.0,
-"c": null,
+"p": 154.0,
+"c": 220.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5691228.jpg?v=1788516688&width=400",
 "type": "Ring",
@@ -26317,8 +26428,8 @@
 {
 "t": "Matrix bangle, Mixed cuts, White, Rhodium plated",
 "u": "https://swarovski.com.lb/products/5701898",
-"p": 670.0,
-"c": null,
+"p": 469.0,
+"c": 670.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5701898_png_6a85c1a5-4aa6-4e25-b720-397025604e7c.png?v=1751642897&width=400",
 "type": "Bangle",
@@ -26337,8 +26448,8 @@
 {
 "t": "Matrix cocktail ring, Crystal pearl, Round cut, White, Rhodium plated",
 "u": "https://swarovski.com.lb/products/5689627",
-"p": 200.0,
-"c": null,
+"p": 120.0,
+"c": 200.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5689627_png_788ce832-7155-4057-8d7c-8844947ffc78.png?v=1751642894&width=400",
 "type": "Ring",
@@ -26535,8 +26646,8 @@
 {
 "t": "Matrix ring, Baguette cut, Gray, Ruthenium plated",
 "u": "https://swarovski.com.lb/products/5648915",
-"p": 220.0,
-"c": null,
+"p": 154.0,
+"c": 220.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5648915_3f527e4a-04e6-4b54-b932-7aa0ed82ee4b.jpg?v=1788516961&width=400",
 "type": "Ring",
@@ -26552,8 +26663,8 @@
 {
 "t": "Stilla cocktail ring, Round cut, Pavé, White, Rose gold-tone plated",
 "u": "https://swarovski.com.lb/products/5638548",
-"p": 235.0,
-"c": null,
+"p": 165.0,
+"c": 235.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5638548_8f914369-d29e-497e-98ef-d1baf0440b2a.jpg?v=1788521307&width=400",
 "type": "Ring",
@@ -26572,8 +26683,8 @@
 {
 "t": "Una Angelic cocktail ring, Round cut, Pavé, White, Rose gold-tone plated",
 "u": "https://swarovski.com.lb/products/5639404",
-"p": 280.0,
-"c": null,
+"p": 196.0,
+"c": 280.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5639404_e4080d5e-2301-42c5-8502-57c8ed808d9c.jpg?v=1788522287&width=400",
 "type": "Ring",
@@ -26585,7 +26696,7 @@
 "Color_White",
 "Material_Rose Gold Plated",
 "Material_Rose gold-tone plated",
-"Selection_Gift"
+"Sale 11"
 ],
 "in": true
 },
@@ -26765,8 +26876,8 @@
 {
 "t": "Stilla cocktail ring, Round cut, Pavé, White, Gold-tone plated",
 "u": "https://swarovski.com.lb/products/5638530",
-"p": 235.0,
-"c": null,
+"p": 165.0,
+"c": 235.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5638530_d1d2d096-6177-4643-a9e1-809f60916a52.jpg?v=1788521285&width=400",
 "type": "Ring",
@@ -26805,8 +26916,8 @@
 {
 "t": "Millenia open ring, Octagon cut, Green, Gold-tone plated",
 "u": "https://swarovski.com.lb/products/5614923",
-"p": 220.0,
-"c": null,
+"p": 154.0,
+"c": 220.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0026/9854/3213/files/5614923_0c6bd9b8-3908-47b0-b653-9577d07e6911.jpg?v=1788521143&width=400",
 "type": "Ring",

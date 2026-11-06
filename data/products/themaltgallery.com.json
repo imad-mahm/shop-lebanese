@@ -51,7 +51,7 @@
 "New at the Malt Gallery",
 "Our New Discoveries"
 ],
-"in": true
+"in": false
 },
 {
 "t": "SALVETO PINOT GRIGIO ROSE 2024",
@@ -1045,7 +1045,7 @@
 "p": 201.35,
 "c": 251.69,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0551/7695/4062/files/COURVOISIERXO_5a19cc96-ec75-4817-9c65-327fc1943ded.jpg?v=1765010251&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0551/7695/4062/files/Courvoisier_XO.jpg?v=1793870386&width=400",
 "type": "COGNAC",
 "tags": [
 "french promos"
@@ -2598,7 +2598,7 @@
 "Pasta",
 "Sea Food"
 ],
-"in": true
+"in": false
 },
 {
 "t": "MALMA, RESERVA DE FAMILIA, MALBEC, 2020",
@@ -2755,7 +2755,7 @@
 "NEO",
 "New at The Malt Gallery"
 ],
-"in": false
+"in": true
 },
 {
 "t": "MOULIN DE GASSAC, PONT DE GASSAC, 2022",
@@ -2833,7 +2833,7 @@
 "RED",
 "Red Meat"
 ],
-"in": true
+"in": false
 },
 {
 "t": "CHATEAU HAUT PEYRUGUET, 2020",
