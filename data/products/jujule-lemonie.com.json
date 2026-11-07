@@ -188,7 +188,7 @@
 {
 "t": "Tracy Top - Brown",
 "u": "https://www.jujule-lemonie.com/products/tracy-top-brown-copy",
-"p": 105.0,
+"p": 115.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0620/6980/1212/files/TracyTop-Brown_2.jpg?v=1791986026&width=400",
@@ -6989,7 +6989,7 @@
 "upperwear",
 "winter"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Manal Top - Grey",
@@ -7004,7 +7004,7 @@
 "upperwear",
 "winter"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Scuba Badge Hooded Jacket - Green",

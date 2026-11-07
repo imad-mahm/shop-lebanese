@@ -1,5 +1,119 @@
 [
 {
+"t": "Shipping Insurance",
+"u": "https://mukhisisters.com/products/shipping-insurance",
+"p": 3.0,
+"c": null,
+"cur": "USD",
+"img": "",
+"type": "mws_fee_generated",
+"tags": [
+"mws_fee_generated",
+"mws_fee_wrapper_cta"
+],
+"in": true
+},
+{
+"t": "Beaded Agate and Tiger Eye Better Than Yesterday Necklace",
+"u": "https://mukhisisters.com/products/beaded-agate-and-tiger-eye-better-than-yesterday-necklace",
+"p": 690.0,
+"c": 0.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0604/7255/7703/files/P-00025BeadedTigerEyeandAgateBTYNecklace.png?v=1793956129&width=400",
+"type": "Necklace",
+"tags": [
+"agate",
+"beaded",
+"Beaded Gem",
+"Beaded Gems",
+"beads",
+"better than yesterday",
+"blue",
+"girl"
+],
+"in": true
+},
+{
+"t": "Beaded Lapis Better Than Yesterday Necklace",
+"u": "https://mukhisisters.com/products/beaded-lapis-blue-better-than",
+"p": 710.0,
+"c": 0.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0604/7255/7703/files/P-00024BTYBeadedLapisBlueNecklace.png?v=1793956183&width=400",
+"type": "Necklace",
+"tags": [
+"beaded",
+"Beaded Gem",
+"Beaded Gems",
+"beads",
+"better than yesterday",
+"blue",
+"deep blue",
+"girl"
+],
+"in": true
+},
+{
+"t": "Beaded Tiger Eye Better Than Yesterday Necklace",
+"u": "https://mukhisisters.com/products/beaded-tiger-eyes-better-than-yesterday-necklace",
+"p": 690.0,
+"c": 0.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0604/7255/7703/files/MSP-03877BetterThanYesterdayBeadedBrownNecklace.png?v=1793956276&width=400",
+"type": "Necklace",
+"tags": [
+"beaded",
+"Beaded Gem",
+"Beaded Gems",
+"beads",
+"beige",
+"better than yesterday",
+"blue",
+"brown"
+],
+"in": true
+},
+{
+"t": "Better Than Yesterday Rainbow Opal Necklace",
+"u": "https://mukhisisters.com/products/better-than-yesterday-rainbow-opal-necklace",
+"p": 650.0,
+"c": 0.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0604/7255/7703/files/MSP-03875BeadedOpalNecklace.png?v=1793956356&width=400",
+"type": "Necklace",
+"tags": [
+"beaded",
+"Beaded Gem",
+"Beaded Gems",
+"beads",
+"better than yesterday",
+"blue",
+"colorful",
+"girl"
+],
+"in": true
+},
+{
+"t": "Sea of Jasper Better Than Yesterday Beaded Necklace",
+"u": "https://mukhisisters.com/products/sea-of-jasper-better-than-necklace-beaded-necklace",
+"p": 635.0,
+"c": 0.0,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0604/7255/7703/files/MSP-03874BeadedTurquoiseBTYNecklace_png.png?v=1793956391&width=400",
+"type": "Necklace",
+"tags": [
+"beaded",
+"Beaded Gem",
+"Beaded Gems",
+"beads",
+"better than yesterday",
+"blue",
+"donelle",
+"girl"
+],
+"in": true
+},
+{
 "t": "Curious Flower Beaded Coral and Aragonite Necklace",
 "u": "https://mukhisisters.com/products/curious-flower-beaded-coral-aragonite-necklace",
 "p": 420.0,
@@ -356,226 +470,6 @@
 "fleur",
 "floral",
 "flower"
-],
-"in": true
-},
-{
-"t": "Better Than Yesterday Pendant - Pink Rays (No Chain)",
-"u": "https://mukhisisters.com/products/better-than-yesterday-pendant-pink-rays-enamel-charm-no-chain",
-"p": 480.0,
-"c": 0.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0604/7255/7703/files/BetterThanYesterday-pinkrays-VintageheartShapedPendantNecklace.png?v=1787750744&width=400",
-"type": "Necklace",
-"tags": [
-"Better Than Yesterday",
-"BTY",
-"Charm",
-"color",
-"enamel",
-"green",
-"green enamel",
-"Mukhi Sisters"
-],
-"in": false
-},
-{
-"t": "Better Than Yesterday Pendant - Dark Green Rays (No Chain)",
-"u": "https://mukhisisters.com/products/better-than-yesterday-pendant-dark-green-rays-enamel-charm-no-chain",
-"p": 480.0,
-"c": 0.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0604/7255/7703/files/BetterThanYesterday-darkgreenraysenamell-VintageheartShapedPendantNecklace_3.png?v=1787750689&width=400",
-"type": "Necklace",
-"tags": [
-"Better Than Yesterday",
-"BTY",
-"Charm",
-"color",
-"enamel",
-"green",
-"green enamel",
-"Mukhi Sisters"
-],
-"in": true
-},
-{
-"t": "Better Than Yesterday Pendant - Red Rays (No Chain)",
-"u": "https://mukhisisters.com/products/better-than-yesterday-pendant-red-rays-enamel-charm-no-chain",
-"p": 480.0,
-"c": 0.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0604/7255/7703/files/BetterThanYesterday-redrays-VintageheartShapedPendantNecklace.png?v=1787750592&width=400",
-"type": "Necklace",
-"tags": [
-"Better Than Yesterday",
-"BTY",
-"Charm",
-"color",
-"enamel",
-"green",
-"green enamel",
-"Mukhi Sisters"
-],
-"in": false
-},
-{
-"t": "Better Than Yesterday Pendant - Navy Blue Rays (No Chain)",
-"u": "https://mukhisisters.com/products/better-than-yesterday-pendant-navy-blue-rays-enamel-charm-no-chain",
-"p": 480.0,
-"c": 0.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0604/7255/7703/files/BetterThanYesterday-navy-bluerays-VintageheartShapedPendantNecklace.png?v=1787746724&width=400",
-"type": "Necklace",
-"tags": [
-"Better Than Yesterday",
-"BTY",
-"Charm",
-"color",
-"enamel",
-"green",
-"green enamel",
-"Mukhi Sisters"
-],
-"in": true
-},
-{
-"t": "Better Than Yesterday Pendant - Dark Green (No Chain)",
-"u": "https://mukhisisters.com/products/better-than-yesterday-pendant-dark-green-enamel-charm-no-chain",
-"p": 445.0,
-"c": 0.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0604/7255/7703/files/BetterThanYesterday-greenEnamel-VintageheartShapedPendantNecklace.png?v=1787315125&width=400",
-"type": "Necklace",
-"tags": [
-"Better Than Yesterday",
-"BTY",
-"Charm",
-"color",
-"enamel",
-"Mukhi Sisters",
-"Necklace",
-"Necklaces"
-],
-"in": false
-},
-{
-"t": "Better Than Yesterday Pendant - Light Green Rays (No Chain)",
-"u": "https://mukhisisters.com/products/better-than-yesterday-pendant-light-green-rays-enamel-charm-no-chain",
-"p": 480.0,
-"c": 0.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0604/7255/7703/files/BetterThanYesterday-lightgreenstripesEnamel-VintageheartShapedPendantNecklace.png?v=1787305620&width=400",
-"type": "Necklace",
-"tags": [
-"Better Than Yesterday",
-"BTY",
-"Charm",
-"color",
-"enamel",
-"green",
-"green enamel",
-"Mukhi Sisters"
-],
-"in": true
-},
-{
-"t": "Better Than Yesterday Pendant - Turquoise (No Chain)",
-"u": "https://mukhisisters.com/products/better-than-yesterday-pendant-turquoise-blue-enamel-charm-no-chain",
-"p": 445.0,
-"c": 0.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0604/7255/7703/files/BetterThanYesterday-redwhitegreenstripedEnamel-VintageheartShapedPendantNecklace_1.png?v=1787302643&width=400",
-"type": "Necklace",
-"tags": [
-"Better Than Yesterday",
-"BTY",
-"Charm",
-"color",
-"enamel",
-"Mukhi Sisters",
-"Necklace",
-"Necklaces"
-],
-"in": true
-},
-{
-"t": "Better Than Yesterday Pendant - Green Rays (No Chain)",
-"u": "https://mukhisisters.com/products/better-than-yesterday-pendant-green-rays-enamel-charm-no-chain",
-"p": 480.0,
-"c": 0.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0604/7255/7703/files/BetterThanYesterday-greenstripesEnamel-VintageheartShapedPendantNecklace.png?v=1787301814&width=400",
-"type": "Necklace",
-"tags": [
-"Better Than Yesterday",
-"BTY",
-"Charm",
-"color",
-"enamel",
-"green",
-"green enamel",
-"Mukhi Sisters"
-],
-"in": false
-},
-{
-"t": "Better Than Yesterday Pendant - Baby Pink (No Chain)",
-"u": "https://mukhisisters.com/products/better-than-yesterday-pendant-pink-enamel-charm-no-chain",
-"p": 445.0,
-"c": 0.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0604/7255/7703/files/BetterThanYesterday-pinkEnamel-VintageheartShapedPendantNecklace_00f3aba3-d679-42fa-bb8a-cf1ff0225dd9.png?v=1787301922&width=400",
-"type": "Necklace",
-"tags": [
-"baby pink",
-"Better Than Yesterday",
-"BTY",
-"Charm",
-"color",
-"enamel",
-"fuchsia stone",
-"Mukhi Sisters"
-],
-"in": true
-},
-{
-"t": "Better Than Yesterday Pendant - Red (No Chain)",
-"u": "https://mukhisisters.com/products/better-than-yesterday-pendant-red-enamel-charm-no-chain",
-"p": 445.0,
-"c": 0.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0604/7255/7703/files/Better_Than_Yesterday_-_Red_Enamel_-_Vintage_heart_Shaped_Pendant_Necklace.png?v=1787301977&width=400",
-"type": "Necklace",
-"tags": [
-"Better Than Yesterday",
-"BTY",
-"Charm",
-"color",
-"enamel",
-"Mukhi Sisters",
-"Necklace",
-"Necklaces"
-],
-"in": false
-},
-{
-"t": "Better Than Yesterday Pendant - White (No Chain)",
-"u": "https://mukhisisters.com/products/better-than-yesterday-pendant-white-enamel-charm-no-chain",
-"p": 445.0,
-"c": 0.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0604/7255/7703/files/BetterThanYesterday-whiteEnamel-VintageheartShapedPendantNecklace.png?v=1787301953&width=400",
-"type": "Necklace",
-"tags": [
-"Better Than Yesterday",
-"blue stone",
-"BTY",
-"Charm",
-"color",
-"enamel",
-"Mukhi Sisters",
-"Necklace"
 ],
 "in": true
 },
