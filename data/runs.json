@@ -1,23 +1,5 @@
 [
  {
-  "at": "2026-09-30T10:37:45+00:00",
-  "new_candidates": 49,
-  "probed": 30,
-  "new_stores": [],
-  "synced": 0,
-  "sources": {
-   "seeds": 0,
-   "submissions": 0,
-   "removals": 0,
-   "hubs": 0,
-   "search": 0,
-   "commoncrawl": 0,
-   "links": 49
-  },
-  "seconds": 22,
-  "total_stores": 43
- },
- {
   "at": "2026-09-30T14:12:26+00:00",
   "new_candidates": 80,
   "probed": 31,
@@ -3593,6 +3575,24 @@
    "links": 37
   },
   "seconds": 207,
+  "total_stores": 45
+ },
+ {
+  "at": "2026-11-08T01:52:07+00:00",
+  "new_candidates": 13,
+  "probed": 30,
+  "new_stores": [],
+  "synced": 8,
+  "sources": {
+   "seeds": 0,
+   "submissions": 0,
+   "removals": 0,
+   "hubs": 0,
+   "search": 0,
+   "commoncrawl": 0,
+   "links": 13
+  },
+  "seconds": 306,
   "total_stores": 45
  }
 ]

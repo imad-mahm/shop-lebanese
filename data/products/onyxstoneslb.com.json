@@ -785,7 +785,7 @@
 "tags": [
 "New2026"
 ],
-"in": false
+"in": true
 },
 {
 "t": "Necklace Rosary with Chopped Stones",
@@ -1169,22 +1169,6 @@
 "type": "Stones & Crystals",
 "tags": [],
 "in": true
-},
-{
-"t": "Necklace Beads with Charms",
-"u": "https://www.onyxstoneslb.com/products/necklace-squared-beads-with-charm",
-"p": 24.0,
-"c": 35.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0094/1925/9959/files/507D8C81-B971-4629-8BC7-AC74FD40EF20.jpg?v=1776258859&width=400",
-"type": "Necklaces Woman",
-"tags": [
-"necklace beads",
-"Necklaces",
-"new arraivals",
-"New2026"
-],
-"in": false
 },
 {
 "t": "Crystal Trees (Tree Of Life)  Chopped Stones XSmall Fluorite Base",
