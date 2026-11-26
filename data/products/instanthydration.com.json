@@ -1,5 +1,27 @@
 [
 {
+"t": "Energy Sample Insert - 2ct",
+"u": "https://instanthydration.com/products/energy-sample-insert-2ct",
+"p": 8.99,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0576/8855/5616/files/EnergyInsertCover.png?v=1795195496&width=400",
+"type": "",
+"tags": [],
+"in": true
+},
+{
+"t": "Premium Electrolyte Drink Mix - 6 Count",
+"u": "https://instanthydration.com/products/premium-electrolyte-drink-mix-6-pack",
+"p": 12.99,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0576/8855/5616/files/variety-pack-6ct.jpg?v=1794962370&width=400",
+"type": "",
+"tags": [],
+"in": true
+},
+{
 "t": "Energy+ Electrolyte Drink Mix",
 "u": "https://instanthydration.com/products/energy-electrolyte-drink-mix",
 "p": 55.0,

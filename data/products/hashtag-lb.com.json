@@ -1,5 +1,819 @@
 [
 {
+"t": "G- Jacket",
+"u": "https://www.hashtag-lb.com/products/g-jacket-1",
+"p": 69.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/1001496255.jpg?v=1795596063&width=400",
+"type": "jacket",
+"tags": [],
+"in": true
+},
+{
+"t": "G-wide leg jeans 5612",
+"u": "https://www.hashtag-lb.com/products/g-wide-leg-jeans-5612",
+"p": 45.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/a9b2abcf-9c4c-47c2-86a7-b6f1b9b1a980_c239e39c-912a-47cf-a370-550558368a14.jpg?v=1795527086&width=400",
+"type": "jeans",
+"tags": [],
+"in": true
+},
+{
+"t": "G- straight jeans 5706",
+"u": "https://www.hashtag-lb.com/products/g-straight-jeans-5706",
+"p": 45.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/8c24f608-20fb-4060-b6cf-dd67ed2309bf.jpg?v=1795525781&width=400",
+"type": "jeans",
+"tags": [],
+"in": true
+},
+{
+"t": "G- Low waist  jeans 4103",
+"u": "https://www.hashtag-lb.com/products/g-low-waist-jeans-4103",
+"p": 45.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/8916bbff-43b9-442c-8c04-6efe6b05c69f.jpg?v=1795525661&width=400",
+"type": "Jeans",
+"tags": [],
+"in": true
+},
+{
+"t": "G- Bag 7052",
+"u": "https://www.hashtag-lb.com/products/g-bag-7052",
+"p": 25.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/78d44758-5acb-4aee-a6b5-032ff5325c01.jpg?v=1795524210&width=400",
+"type": "bag",
+"tags": [],
+"in": true
+},
+{
+"t": "G- pants 266307",
+"u": "https://www.hashtag-lb.com/products/g-pants-266307",
+"p": 35.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/731f3daf-8e85-4bf7-ac14-4d5612b52b15_1.jpg?v=1795523139&width=400",
+"type": "Pants",
+"tags": [],
+"in": true
+},
+{
+"t": "G-scarf",
+"u": "https://www.hashtag-lb.com/products/g-scarf",
+"p": 17.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/e22aa7d6-4625-40bf-972a-8d59f4d0cecb.jpg?v=1795522977&width=400",
+"type": "scarf",
+"tags": [],
+"in": true
+},
+{
+"t": "G-legging 905",
+"u": "https://www.hashtag-lb.com/products/g-legging-905-copy",
+"p": 15.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/7457b151-08fe-4582-99c1-50d0915f6f55.jpg?v=1791196941&width=400",
+"type": "legging",
+"tags": [],
+"in": true
+},
+{
+"t": "G- jeans",
+"u": "https://www.hashtag-lb.com/products/g-jeans-1",
+"p": 45.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/e19e26d2-186b-4a53-8f6d-1234a602ed60.jpg?v=1795516736&width=400",
+"type": "jeans",
+"tags": [],
+"in": true
+},
+{
+"t": "G-chemise 16826",
+"u": "https://www.hashtag-lb.com/products/g-chemise-16826",
+"p": 25.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/5fffa728-9014-41be-bcbb-7ade196a98fb.jpg?v=1795516504&width=400",
+"type": "shirt",
+"tags": [],
+"in": true
+},
+{
+"t": "G-chemise 16667",
+"u": "https://www.hashtag-lb.com/products/g-chemise-16667",
+"p": 25.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/b4591506-970c-4316-9e08-dca5d24fb4b9.jpg?v=1795516276&width=400",
+"type": "shirt",
+"tags": [],
+"in": true
+},
+{
+"t": "G-chemise 17230",
+"u": "https://www.hashtag-lb.com/products/g-chemise-17230",
+"p": 25.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/ebecd9dd-3f91-4c78-a718-ae34668a1112.jpg?v=1795516089&width=400",
+"type": "shirt",
+"tags": [],
+"in": true
+},
+{
+"t": "G-Chemise 5142",
+"u": "https://www.hashtag-lb.com/products/g-chemise-5142",
+"p": 25.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/5b8d9cc7-1b36-48a1-bba2-a48887672753.jpg?v=1795515941&width=400",
+"type": "shirt",
+"tags": [],
+"in": true
+},
+{
+"t": "G-Chemise 4540",
+"u": "https://www.hashtag-lb.com/products/g-chemise-4540",
+"p": 25.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/be7de9e9-c4d9-4e47-9b3b-ca2c8a57efb2.jpg?v=1795515755&width=400",
+"type": "shirt",
+"tags": [],
+"in": true
+},
+{
+"t": "G-chemise 2014",
+"u": "https://www.hashtag-lb.com/products/g-chemise-2014",
+"p": 35.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/7b59c844-4851-42d6-b064-97a2dd95683f.jpg?v=1795515384&width=400",
+"type": "shirt",
+"tags": [],
+"in": true
+},
+{
+"t": "G- Legging 6038",
+"u": "https://www.hashtag-lb.com/products/g-legging-6038",
+"p": 15.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/4053ea82-8ff0-45c9-8ed3-8c6ac72ea9a1.jpg?v=1795448358&width=400",
+"type": "legging",
+"tags": [],
+"in": true
+},
+{
+"t": "G-hoodie jacket 23320",
+"u": "https://www.hashtag-lb.com/products/g-jacket-23320",
+"p": 29.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/f49e2fee-0b7b-45b6-84b7-516fe3d0c318.jpg?v=1795430753&width=400",
+"type": "jacket",
+"tags": [],
+"in": true
+},
+{
+"t": "G-top 261123",
+"u": "https://www.hashtag-lb.com/products/g-top-261123",
+"p": 45.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/8e2d89fb-3525-4412-bce0-b3b02122574b.jpg?v=1795351172&width=400",
+"type": "TOP",
+"tags": [],
+"in": true
+},
+{
+"t": "G- 2 pieces top 261010",
+"u": "https://www.hashtag-lb.com/products/g-2-pisces-top",
+"p": 35.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/63203b8b-558f-4d09-be03-06762400e9c6.jpg?v=1795339365&width=400",
+"type": "TOP",
+"tags": [],
+"in": true
+},
+{
+"t": "G-Wool cardigan 5654",
+"u": "https://www.hashtag-lb.com/products/g-wool-cardigan-654",
+"p": 45.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/fde3be2b-5509-47e1-b658-1559ebfc333f.jpg?v=1795431078&width=400",
+"type": "jacket",
+"tags": [],
+"in": true
+},
+{
+"t": "G- hoodie 22867",
+"u": "https://www.hashtag-lb.com/products/g-hoodie-22867",
+"p": 29.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/c8f45dcb-204b-47c5-9703-a82af8f37f00.jpg?v=1795338894&width=400",
+"type": "jacket",
+"tags": [],
+"in": true
+},
+{
+"t": "G-hoodie 22859",
+"u": "https://www.hashtag-lb.com/products/g-hoodie-22859",
+"p": 29.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/a0a628cf-818c-4d7c-ab88-f615743c125f.jpg?v=1795338674&width=400",
+"type": "jacket",
+"tags": [],
+"in": false
+},
+{
+"t": "G-hoodie 4219",
+"u": "https://www.hashtag-lb.com/products/g-hoodie-4",
+"p": 29.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/ca31e8ec-e709-454a-95a9-656b7fc21bc3_1.jpg?v=1795338554&width=400",
+"type": "jacket",
+"tags": [],
+"in": true
+},
+{
+"t": "G-hoodie 22887",
+"u": "https://www.hashtag-lb.com/products/g-hoodie-22887",
+"p": 29.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/0a8721f2-f0a5-41f8-9ff3-1e4ad320475e.jpg?v=1795338398&width=400",
+"type": "jacket",
+"tags": [],
+"in": true
+},
+{
+"t": "G-hoodie 23297",
+"u": "https://www.hashtag-lb.com/products/g-hoodie-23297",
+"p": 29.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/f04e5735-6f62-4a7b-a018-d0b722f60a80.jpg?v=1795337906&width=400",
+"type": "jacket",
+"tags": [],
+"in": true
+},
+{
+"t": "G-hoodie 22873",
+"u": "https://www.hashtag-lb.com/products/g-hoodie-3",
+"p": 29.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/29eeda73-4a85-40a8-8084-36ce5ae3a7f1.jpg?v=1795337585&width=400",
+"type": "TOP",
+"tags": [],
+"in": true
+},
+{
+"t": "G-hoodie 22869",
+"u": "https://www.hashtag-lb.com/products/g-hoodie-22869",
+"p": 29.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/3efde3ff-61ec-40bb-a37d-e611c7196632.jpg?v=1795337461&width=400",
+"type": "TOP",
+"tags": [],
+"in": false
+},
+{
+"t": "G- leather jacket 509254",
+"u": "https://www.hashtag-lb.com/products/g-leather-jacket-509254",
+"p": 45.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/8c1c5ada-62db-4c35-9b0b-12e5ecee2a11.jpg?v=1795260826&width=400",
+"type": "jacket",
+"tags": [],
+"in": true
+},
+{
+"t": "G-wool set skirt",
+"u": "https://www.hashtag-lb.com/products/g-wool-set-skirt",
+"p": 37.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/80519559-7bcc-45ae-824f-f9e63afc3549.jpg?v=1795260429&width=400",
+"type": "Set",
+"tags": [],
+"in": true
+},
+{
+"t": "bodysuit",
+"u": "https://www.hashtag-lb.com/products/bodysuit-1",
+"p": 22.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/WhatsAppImage2026-11-17at13.14.35.jpg?v=1795020579&width=400",
+"type": "TOP",
+"tags": [],
+"in": true
+},
+{
+"t": "G-wool set",
+"u": "https://www.hashtag-lb.com/products/g-wool-set",
+"p": 39.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/fc08e75a-b59b-472a-a9fd-09c53dc27516.jpg?v=1794930071&width=400",
+"type": "Set",
+"tags": [],
+"in": true
+},
+{
+"t": "G- balloon jeans",
+"u": "https://www.hashtag-lb.com/products/g-balloon-jeans-1",
+"p": 45.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/d57ee6b4-20fc-41f2-a19a-b06c1339ba7a_1.jpg?v=1794834236&width=400",
+"type": "Jeans",
+"tags": [],
+"in": true
+},
+{
+"t": "G- bag 7177",
+"u": "https://www.hashtag-lb.com/products/g-bag-7177",
+"p": 19.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/4367669a-46cb-42d5-90ce-5e7c15ca1c40.jpg?v=1794833923&width=400",
+"type": "bag",
+"tags": [],
+"in": true
+},
+{
+"t": "G- bag  272",
+"u": "https://www.hashtag-lb.com/products/g-bag-272",
+"p": 17.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/c02ebb4f-a942-47a0-a508-d58b3057c92d.jpg?v=1794833816&width=400",
+"type": "bag",
+"tags": [],
+"in": true
+},
+{
+"t": "G-bag 0399",
+"u": "https://www.hashtag-lb.com/products/g-bag-0399",
+"p": 19.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/4d11d722-1676-4323-9989-7bdbfcafb86f.jpg?v=1794833701&width=400",
+"type": "bag",
+"tags": [],
+"in": true
+},
+{
+"t": "G bag- 78043",
+"u": "https://www.hashtag-lb.com/products/g-bag-78043",
+"p": 19.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/a81a313a-94b6-49a6-ad68-aa937e3c6bd1.jpg?v=1794833563&width=400",
+"type": "bag",
+"tags": [],
+"in": true
+},
+{
+"t": "G-cardigan 267353",
+"u": "https://www.hashtag-lb.com/products/g-cardigan-267353",
+"p": 36.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/1001489977.jpg?v=1795002816&width=400",
+"type": "TOP",
+"tags": [],
+"in": true
+},
+{
+"t": "G- Cardigan-266333",
+"u": "https://www.hashtag-lb.com/products/g-cardigan-266333",
+"p": 32.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/3a9aee97-fe50-481c-9e75-805b0bdbfcab.jpg?v=1794833250&width=400",
+"type": "TOP",
+"tags": [],
+"in": true
+},
+{
+"t": "G-top 260318",
+"u": "https://www.hashtag-lb.com/products/g-top-260318",
+"p": 36.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/7af0088e-28ef-4988-83e3-f8021b4e4d67.jpg?v=1794833085&width=400",
+"type": "TOP",
+"tags": [],
+"in": true
+},
+{
+"t": "G-top 16084",
+"u": "https://www.hashtag-lb.com/products/g-top-16084",
+"p": 22.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/10e90c4d-69fb-4038-9fdb-de2a1813299a_1.jpg?v=1794832680&width=400",
+"type": "TOP",
+"tags": [],
+"in": true
+},
+{
+"t": "G- fleece legging 014",
+"u": "https://www.hashtag-lb.com/products/g-fleece-legging-014",
+"p": 22.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/fd947170-65a2-4bde-81a6-2b673307689b.jpg?v=1794832052&width=400",
+"type": "legging",
+"tags": [],
+"in": true
+},
+{
+"t": "G- jacket with bag 2808",
+"u": "https://www.hashtag-lb.com/products/g-jacket-with-bag",
+"p": 55.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/828e0704-bcf7-48f6-b612-9ccba9c47914.jpg?v=1794831703&width=400",
+"type": "jacket",
+"tags": [],
+"in": true
+},
+{
+"t": "G-Fur jacket 26337",
+"u": "https://www.hashtag-lb.com/products/g-fur-jacket-26337",
+"p": 55.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/330c1a4c-2c72-4d04-930a-1ed39525b909.jpg?v=1794831136&width=400",
+"type": "jacket",
+"tags": [],
+"in": true
+},
+{
+"t": "G- jacket with bag 28301",
+"u": "https://www.hashtag-lb.com/products/g-jacket-with-bag-28301",
+"p": 42.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/84e6b6cc-26e5-480e-9dd7-a2a8ca77902e.jpg?v=1794833004&width=400",
+"type": "jacket",
+"tags": [],
+"in": true
+},
+{
+"t": "G-jacket with scarf 28282",
+"u": "https://www.hashtag-lb.com/products/g-jacket-with-scarf-28282",
+"p": 39.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/d5290b3e-924e-4917-a602-22b6a1222e31.jpg?v=1794830212&width=400",
+"type": "jacket",
+"tags": [],
+"in": true
+},
+{
+"t": "G-coat 084",
+"u": "https://www.hashtag-lb.com/products/g-coat-084",
+"p": 39.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/1001489959.jpg?v=1795002986&width=400",
+"type": "jacket",
+"tags": [],
+"in": true
+},
+{
+"t": "G-Fur jacket 3176",
+"u": "https://www.hashtag-lb.com/products/g-fur-jacket-3176",
+"p": 49.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/0a365b93-8dbd-4d70-a888-a48f504c0cec.jpg?v=1794829693&width=400",
+"type": "jacket",
+"tags": [],
+"in": true
+},
+{
+"t": "G- jacket 922",
+"u": "https://www.hashtag-lb.com/products/g-jacket-922",
+"p": 35.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/1001490055.jpg?v=1795003060&width=400",
+"type": "jacket",
+"tags": [],
+"in": true
+},
+{
+"t": "G - set 9988",
+"u": "https://www.hashtag-lb.com/products/g-set-9988",
+"p": 45.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/f7b583b5-1ec2-4d98-bdea-b34e31b3ad61.jpg?v=1795430657&width=400",
+"type": "set",
+"tags": [],
+"in": true
+},
+{
+"t": "G- jacket 05",
+"u": "https://www.hashtag-lb.com/products/g-jacket-05",
+"p": 35.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/5b2aec65-d2ae-4e7e-8ef8-6bab98d1d3cb.jpg?v=1794828731&width=400",
+"type": "jacket",
+"tags": [],
+"in": true
+},
+{
+"t": "G-crop jacket 6191",
+"u": "https://www.hashtag-lb.com/products/g-crop-jacket-6191",
+"p": 42.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/1001490145.jpg?v=1795006120&width=400",
+"type": "jacket",
+"tags": [],
+"in": true
+},
+{
+"t": "G-jacket 121",
+"u": "https://www.hashtag-lb.com/products/g-jacket-121",
+"p": 39.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/1001489995.jpg?v=1795006018&width=400",
+"type": "jacket",
+"tags": [],
+"in": true
+},
+{
+"t": "G-  Coat 6518",
+"u": "https://www.hashtag-lb.com/products/g-coat-6518",
+"p": 55.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/1001489956.jpg?v=1795006209&width=400",
+"type": "jacket",
+"tags": [],
+"in": true
+},
+{
+"t": "G- top 261174",
+"u": "https://www.hashtag-lb.com/products/g-top",
+"p": 29.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/36153f19-4309-46cd-b785-01a5f68b4cc8_dd80a1b8-155e-4782-9523-897c787ba609.jpg?v=1794827319&width=400",
+"type": "TOP",
+"tags": [],
+"in": true
+},
+{
+"t": "G-hoodie",
+"u": "https://www.hashtag-lb.com/products/g-hoodie-5",
+"p": 29.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/1001486571.png?v=1794657999&width=400",
+"type": "TOP",
+"tags": [],
+"in": false
+},
+{
+"t": "G-hoodie",
+"u": "https://www.hashtag-lb.com/products/g-hoodie-2",
+"p": 29.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/1001486573.png?v=1794657502&width=400",
+"type": "TOP",
+"tags": [],
+"in": true
+},
+{
+"t": "G-hoodie",
+"u": "https://www.hashtag-lb.com/products/g-hoodie-1",
+"p": 29.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/1001486572.png?v=1794656882&width=400",
+"type": "TOP",
+"tags": [],
+"in": true
+},
+{
+"t": "G- straight jeans",
+"u": "https://www.hashtag-lb.com/products/g-straight-jeans",
+"p": 45.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/1001486410.png?v=1794603106&width=400",
+"type": "Jeans",
+"tags": [],
+"in": true
+},
+{
+"t": "G-balloon jeans",
+"u": "https://www.hashtag-lb.com/products/g-balloon-jeans",
+"p": 45.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/1001486411.png?v=1794604080&width=400",
+"type": "jeans",
+"tags": [],
+"in": false
+},
+{
+"t": "G-seawtpants 17974",
+"u": "https://www.hashtag-lb.com/products/g-seawtpants-17974",
+"p": 35.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/8780331a-9f50-4cfc-ac0a-6e27f1e6a7fe_1.jpg?v=1794579013&width=400",
+"type": "pants",
+"tags": [],
+"in": true
+},
+{
+"t": "G-hoodie 23222",
+"u": "https://www.hashtag-lb.com/products/g-hoodie-23222",
+"p": 29.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/5d8d7081-6642-47f4-8c20-1ee6268191e1.jpg?v=1794493802&width=400",
+"type": "TOP",
+"tags": [],
+"in": true
+},
+{
+"t": "G-coat",
+"u": "https://www.hashtag-lb.com/products/g-coat",
+"p": 75.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/1001479269.jpg?v=1794088151&width=400",
+"type": "jacket",
+"tags": [],
+"in": true
+},
+{
+"t": "G-Bag 78045",
+"u": "https://www.hashtag-lb.com/products/g-bag-78045",
+"p": 22.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/a95c0d17-6365-45fe-94fc-8ff796367d7a.jpg?v=1794058468&width=400",
+"type": "bag",
+"tags": [],
+"in": true
+},
+{
+"t": "G-jeans 26859",
+"u": "https://www.hashtag-lb.com/products/g-jeans-26859",
+"p": 45.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/3299f414-d269-42b9-b3cc-99444ad25136.jpg?v=1794058217&width=400",
+"type": "Jeans",
+"tags": [],
+"in": true
+},
+{
+"t": "G-bag 2068",
+"u": "https://www.hashtag-lb.com/products/g-bag-2068",
+"p": 19.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/838b70aa-b2f7-4519-b84c-501bb4a33f7e.jpg?v=1794057389&width=400",
+"type": "bag",
+"tags": [],
+"in": true
+},
+{
+"t": "G-Pants 17833",
+"u": "https://www.hashtag-lb.com/products/g-pants-17833",
+"p": 35.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/1ea86948-61fb-4e42-84c0-b36d4d9e09af.jpg?v=1794056765&width=400",
+"type": "Pants",
+"tags": [],
+"in": true
+},
+{
+"t": "G-Hoodie 23306",
+"u": "https://www.hashtag-lb.com/products/g-hoodie-23306",
+"p": 29.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/0ff5e604-7f01-4706-803e-8dd6974da343.jpg?v=1794056303&width=400",
+"type": "TOP",
+"tags": [],
+"in": true
+},
+{
+"t": "G-top 4838",
+"u": "https://www.hashtag-lb.com/products/g-top-4838",
+"p": 25.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/8fe96b78-3b3c-4378-a56f-289d1b628594.jpg?v=1794055449&width=400",
+"type": "TOP",
+"tags": [],
+"in": true
+},
+{
+"t": "G-hoodie 4219",
+"u": "https://www.hashtag-lb.com/products/g-hoodie-4219",
+"p": 34.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/3d6069f6-2de8-47fb-8eae-870644532d84.jpg?v=1794055083&width=400",
+"type": "TOP",
+"tags": [],
+"in": false
+},
+{
+"t": "G-top 4749",
+"u": "https://www.hashtag-lb.com/products/g-top-4749",
+"p": 22.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/eda8a916-ab60-4e96-a2b8-468865e05b92-Copy.jpg?v=1793102440&width=400",
+"type": "TOP",
+"tags": [],
+"in": true
+},
+{
+"t": "G-Top 48809",
+"u": "https://www.hashtag-lb.com/products/g-top-48809",
+"p": 22.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/00e86d4d-cad3-4426-a950-a70d62d34387.jpg?v=1794047585&width=400",
+"type": "TOP",
+"tags": [],
+"in": true
+},
+{
+"t": "G-top 4902",
+"u": "https://www.hashtag-lb.com/products/g-top-4902",
+"p": 25.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/1e533e9d-0841-4971-a242-e9b52264ba76.jpg?v=1794046850&width=400",
+"type": "TOP",
+"tags": [],
+"in": true
+},
+{
+"t": "G-top 4864",
+"u": "https://www.hashtag-lb.com/products/g-top-4864",
+"p": 22.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/777bdf26-a1ca-447a-ae04-8c0a3c678251_1.jpg?v=1794046541&width=400",
+"type": "TOP",
+"tags": [],
+"in": true
+},
+{
+"t": "G-top 4857",
+"u": "https://www.hashtag-lb.com/products/g-top-4857",
+"p": 25.0,
+"c": null,
+"cur": "USD",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/4380194f-fc49-4c9c-b13b-b1c25df79dc1.jpg?v=1794046365&width=400",
+"type": "TOP",
+"tags": [],
+"in": true
+},
+{
 "t": "G-hoodie 23311",
 "u": "https://www.hashtag-lb.com/products/g-hoodie-23311",
 "p": 29.0,
@@ -8,7 +822,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/06b180cf-890c-46e7-8993-b00ef28dd3be.jpg?v=1793977285&width=400",
 "type": "top",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "D-jacket 8109",
@@ -38,7 +852,7 @@
 "p": 45.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/a76ab6fb-e4a3-4fa9-91b5-01c85dac67e3.jpg?v=1793976170&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/2a5ec62e-2df4-48da-86d2-91c297501358.jpg?v=1794057132&width=400",
 "type": "jeans",
 "tags": [],
 "in": true
@@ -49,7 +863,7 @@
 "p": 45.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/8846642a-6551-4409-91eb-1a6e4f66db11.jpg?v=1793975997&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/f41f5ec5-38ad-43dd-bd09-357e545def51.jpg?v=1794057034&width=400",
 "type": "jeans",
 "tags": [],
 "in": true
@@ -107,7 +921,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/5f30c08a-e762-4635-8951-ece3108d173b.jpg?v=1793974548&width=400",
 "type": "legging",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "G-flare legging k10",
@@ -118,7 +932,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/ca593d87-4434-4680-9a0d-dc68fb3755c7.jpg?v=1793974375&width=400",
 "type": "legging",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "G-legging 918",
@@ -173,7 +987,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/d50a2df8-6b53-4921-b640-d93de957da4c.jpg?v=1793618571&width=400",
 "type": "jacket",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "G-vest 930",
@@ -195,7 +1009,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/4f4f82be-919d-4ef2-ba26-e765b201320b-Copy.jpg?v=1793617044&width=400",
 "type": "TOP",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "G- legging 6602",
@@ -206,7 +1020,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/664138f5-4ebd-4d96-bdee-2736a22a3439.jpg?v=1793616538&width=400",
 "type": "legging",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "G-vest 615",
@@ -239,7 +1053,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/9182e8ea-4045-4ac7-a909-cd15d66e6ec9.jpg?v=1793617435&width=400",
 "type": "jacket",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "G-Sweatpants 5522",
@@ -269,10 +1083,10 @@
 "p": 19.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/aaff1b12-b76c-4e04-afe8-e22c4d14968f.jpg?v=1793362711&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/077657e5-8936-45a5-a228-2d374feef7ab.jpg?v=1794047465&width=400",
 "type": "top",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "G-vest",
@@ -302,7 +1116,7 @@
 "p": 42.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/b10d334a-caea-4505-85fd-73df9774fb11.jpg?v=1793358380&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/b86f71dd-29e1-4910-8faf-0620338c8961.jpg?v=1795257443&width=400",
 "type": "jacket",
 "tags": [],
 "in": true
@@ -316,7 +1130,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/61edc999-e56e-4617-83fe-cee2f914e629.jpg?v=1793349650&width=400",
 "type": "Jeans",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "g- straight  jeans  1092",
@@ -363,28 +1177,6 @@
 "in": true
 },
 {
-"t": "G-top 4808",
-"u": "https://www.hashtag-lb.com/products/g-top-4808",
-"p": 19.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/3ccf79a2-da8c-4d5e-80b0-021631addcb8.jpg?v=1793269856&width=400",
-"type": "TOP",
-"tags": [],
-"in": false
-},
-{
-"t": "G-top",
-"u": "https://www.hashtag-lb.com/products/g-top-2",
-"p": 22.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/3776dcbc-9ef9-43e4-8181-2fd035e9f65f.jpg?v=1793102466&width=400",
-"type": "TOP",
-"tags": [],
-"in": true
-},
-{
 "t": "G- slouchy jeans 26859",
 "u": "https://www.hashtag-lb.com/products/g-slouchy-jeans",
 "p": 45.0,
@@ -393,18 +1185,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/c91d9a85-9cd9-47b0-83be-c896c1ee27bc.jpg?v=1793351965&width=400",
 "type": "jeans",
 "tags": [],
-"in": true
-},
-{
-"t": "G-hoodie 2017",
-"u": "https://www.hashtag-lb.com/products/g-hoodie-1",
-"p": 15.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/0b516306-041d-4dda-bccd-3c5ce487eeb3.jpg?v=1792918976&width=400",
-"type": "top",
-"tags": [],
-"in": true
+"in": false
 },
 {
 "t": "G-top 1117",
@@ -414,17 +1195,6 @@
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/6d99563d-7166-48ab-8c50-15045a6e57a7.jpg?v=1793270719&width=400",
 "type": "top",
-"tags": [],
-"in": true
-},
-{
-"t": "G-jacket 5539",
-"u": "https://www.hashtag-lb.com/products/g-jacket-1",
-"p": 55.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/74a0ec6f-4661-4b46-8652-ee71cc412ae5.jpg?v=1793618350&width=400",
-"type": "jacket",
 "tags": [],
 "in": true
 },
@@ -451,17 +1221,6 @@
 "in": true
 },
 {
-"t": "G-top 251185",
-"u": "https://www.hashtag-lb.com/products/g-top-251185",
-"p": 19.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/06ba34ca-479a-43c7-910e-16545d688fd8.jpg?v=1792680779&width=400",
-"type": "top",
-"tags": [],
-"in": true
-},
-{
 "t": "G-jeans 4512",
 "u": "https://www.hashtag-lb.com/products/g-jeans-4512",
 "p": 39.0,
@@ -469,17 +1228,6 @@
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/10e53e14-353f-43c2-9065-bbd971d7bfca.jpg?v=1792679974&width=400",
 "type": "jeans",
-"tags": [],
-"in": true
-},
-{
-"t": "G- denim jacket",
-"u": "https://www.hashtag-lb.com/products/g-denim-jacket-1",
-"p": 39.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/e72ba59a-2059-49cb-943d-be5b3a76f08f.jpg?v=1792679492&width=400",
-"type": "jacket",
 "tags": [],
 "in": true
 },
@@ -495,45 +1243,12 @@
 "in": true
 },
 {
-"t": "G-top 109358",
-"u": "https://www.hashtag-lb.com/products/g-top-109358",
-"p": 29.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/71df7682-470e-4745-b064-299090b4e7b5.jpg?v=1792679145&width=400",
-"type": "TOP",
-"tags": [],
-"in": false
-},
-{
-"t": "G- jeans 5684",
-"u": "https://www.hashtag-lb.com/products/g-jeans-5684",
-"p": 55.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/6592c196-f2ae-4e70-a215-5cd21afe99ad.jpg?v=1792678771&width=400",
-"type": "Jeans",
-"tags": [],
-"in": true
-},
-{
 "t": "G-Denim Jacket 96015",
 "u": "https://www.hashtag-lb.com/products/g-denim-jacket-96015",
 "p": 39.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/b2593422-a083-48cf-b8b0-d89147536fe0_-_Copy.jpg?v=1792848451&width=400",
-"type": "jacket",
-"tags": [],
-"in": true
-},
-{
-"t": "G-Leather Jacket 96008",
-"u": "https://www.hashtag-lb.com/products/g-leather-jacket-96008",
-"p": 55.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/9730205b-d007-4b04-ac6b-8fdbfd0a1b10.jpg?v=1793270798&width=400",
 "type": "jacket",
 "tags": [],
 "in": true
@@ -555,7 +1270,7 @@
 "p": 55.0,
 "c": null,
 "cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/55ceaeb3-2f8a-4f13-b72d-4137cd9b2c3f.jpg?v=1792665589&width=400",
+"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/0b910e5f-98d7-4740-a07f-110849fe5f27.jpg?v=1795257112&width=400",
 "type": "jacket",
 "tags": [],
 "in": true
@@ -569,7 +1284,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/38ad1828-57dd-4070-bc3b-ffa30409b8af.jpg?v=1792593941&width=400",
 "type": "jeans",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "G-coat 105",
@@ -594,28 +1309,6 @@
 "in": true
 },
 {
-"t": "G- top 261165",
-"u": "https://www.hashtag-lb.com/products/g-top-261165",
-"p": 24.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/b8b440a9-4540-4517-8a6e-4d239614553a.jpg?v=1792588248&width=400",
-"type": "TOP",
-"tags": [],
-"in": false
-},
-{
-"t": "G-Top 261135",
-"u": "https://www.hashtag-lb.com/products/g-top-261135",
-"p": 24.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/958afafe-ffd8-4d68-b72b-a50a10ecef36.jpg?v=1792588033&width=400",
-"type": "TOP",
-"tags": [],
-"in": true
-},
-{
 "t": "G-top 261029",
 "u": "https://www.hashtag-lb.com/products/g-top-261029",
 "p": 24.0,
@@ -624,7 +1317,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/b9656c5a-814e-49e3-8840-c810b981e8fa.jpg?v=1792587520&width=400",
 "type": "TOP",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "G-coat 108",
@@ -649,34 +1342,12 @@
 "in": true
 },
 {
-"t": "G- jacket 397",
-"u": "https://www.hashtag-lb.com/products/g-jacket-397",
-"p": 39.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/f093b5e6-9778-45be-b673-3539ebf946bf.jpg?v=1793271036&width=400",
-"type": "jacket",
-"tags": [],
-"in": true
-},
-{
 "t": "G-jacket 407",
 "u": "https://www.hashtag-lb.com/products/g-jacket-407",
 "p": 49.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/cb5c4a86-0145-40f2-920f-eadc2ea992c0.jpg?v=1793625527&width=400",
-"type": "jacket",
-"tags": [],
-"in": true
-},
-{
-"t": "G-coat  408086",
-"u": "https://www.hashtag-lb.com/products/g-coat-408086",
-"p": 59.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/36fd12fc-4669-4445-81e0-74d6eae171c4.jpg?v=1792581827&width=400",
 "type": "jacket",
 "tags": [],
 "in": true
@@ -690,7 +1361,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/18ae0530-3d32-4667-b6bc-06050b634da2.jpg?v=1792579224&width=400",
 "type": "set",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "pants 268351",
@@ -723,7 +1394,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/cd6ddafb-bd50-43aa-ac35-2e6cb3d94e47.jpg?v=1793625270&width=400",
 "type": "Vest",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "top 267382",
@@ -734,7 +1405,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/c0c573a8-dee3-4693-b42b-84271f2c3d12.jpg?v=1792419274&width=400",
 "type": "TOP",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "top 268350",
@@ -745,7 +1416,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/db216695-7905-41a4-b7fa-0e8a0df4a472.jpg?v=1792416490&width=400",
 "type": "TOP",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "top 260335",
@@ -756,7 +1427,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/19897dae-9b66-4e65-8af6-38414fd0624f.jpg?v=1792419985&width=400",
 "type": "TOP",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "top 268313",
@@ -847,39 +1518,6 @@
 "in": true
 },
 {
-"t": "G-set 17904",
-"u": "https://www.hashtag-lb.com/products/set-1",
-"p": 55.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/WhatsAppImage2026-10-12at13.36.32.jpg?v=1791804378&width=400",
-"type": "",
-"tags": [],
-"in": true
-},
-{
-"t": "G-set 17889",
-"u": "https://www.hashtag-lb.com/products/set",
-"p": 49.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/WhatsAppImage2026-10-12at13.36.06.jpg?v=1791804162&width=400",
-"type": "",
-"tags": [],
-"in": false
-},
-{
-"t": "G-jacket 902",
-"u": "https://www.hashtag-lb.com/products/g-jacket-902",
-"p": 32.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/1001448054.jpg?v=1791288672&width=400",
-"type": "jacket",
-"tags": [],
-"in": true
-},
-{
 "t": "G-set 2015",
 "u": "https://www.hashtag-lb.com/products/g-set-1",
 "p": 35.0,
@@ -889,17 +1527,6 @@
 "type": "Set",
 "tags": [],
 "in": true
-},
-{
-"t": "G-legging 905",
-"u": "https://www.hashtag-lb.com/products/g-legging-1",
-"p": 10.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/7457b151-08fe-4582-99c1-50d0915f6f55.jpg?v=1791196941&width=400",
-"type": "legging",
-"tags": [],
-"in": false
 },
 {
 "t": "G-leather legging 2416",
@@ -922,28 +1549,6 @@
 "type": "legging",
 "tags": [],
 "in": true
-},
-{
-"t": "G- straight jeans 26860",
-"u": "https://www.hashtag-lb.com/products/g-straight-jeans-26860",
-"p": 45.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/1001444109.jpg?v=1790950085&width=400",
-"type": "Jeans",
-"tags": [],
-"in": true
-},
-{
-"t": "G- wool top 261112",
-"u": "https://www.hashtag-lb.com/products/g-wool-top-261112",
-"p": 29.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/3fc659e2-d678-4e80-89c1-e814a499db1f.jpg?v=1790769747&width=400",
-"type": "TOP",
-"tags": [],
-"in": false
 },
 {
 "t": "G-wool top 261002",
@@ -1012,28 +1617,6 @@
 "in": true
 },
 {
-"t": "G-jacket 5155",
-"u": "https://www.hashtag-lb.com/products/g-jacket-5155",
-"p": 55.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/1001434587.jpg?v=1790160497&width=400",
-"type": "jacket",
-"tags": [],
-"in": true
-},
-{
-"t": "G- leather jacket 508402",
-"u": "https://www.hashtag-lb.com/products/g-leather-jacket-508402",
-"p": 49.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/1001436358.jpg?v=1790240388&width=400",
-"type": "jacket",
-"tags": [],
-"in": true
-},
-{
 "t": "G-pants 261780",
 "u": "https://www.hashtag-lb.com/products/g-pants-261780",
 "p": 35.0,
@@ -1056,17 +1639,6 @@
 "in": true
 },
 {
-"t": "G-jacket 508406",
-"u": "https://www.hashtag-lb.com/products/g-jacket-508406",
-"p": 39.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/0c2c4174-eb14-4e76-92fb-49dff0ed2b03.jpg?v=1790083132&width=400",
-"type": "jacket",
-"tags": [],
-"in": false
-},
-{
 "t": "G-set 908548",
 "u": "https://www.hashtag-lb.com/products/g-set-908548",
 "p": 49.0,
@@ -1076,17 +1648,6 @@
 "type": "set",
 "tags": [],
 "in": true
-},
-{
-"t": "G-wide leg pants 17549",
-"u": "https://www.hashtag-lb.com/products/g-wide-leg-pants-17549",
-"p": 29.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/537a19a5-da6b-446a-bce8-df890817485e.jpg?v=1790079747&width=400",
-"type": "Pants",
-"tags": [],
-"in": false
 },
 {
 "t": "G-chemise",
@@ -1141,38 +1702,16 @@
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/d0c312af-1c06-4d53-a507-3b1dbb155a2e.jpg?v=1790002254&width=400",
 "type": "top",
 "tags": [],
-"in": false
+"in": true
 },
 {
-"t": "G-chemise-16985",
+"t": "G-chemise-",
 "u": "https://www.hashtag-lb.com/products/g-chemise-16985",
 "p": 25.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/e2ca7ebc-b533-4aba-9557-6a4bc6b2b33d.jpg?v=1790001820&width=400",
 "type": "shirt",
-"tags": [],
-"in": true
-},
-{
-"t": "G-Jacket 506382",
-"u": "https://www.hashtag-lb.com/products/g-jacket506382",
-"p": 59.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/4c130990-c1f4-42ea-a5a5-13664564d573.jpg?v=1790000651&width=400",
-"type": "jacket",
-"tags": [],
-"in": true
-},
-{
-"t": "G-jacket 5123",
-"u": "https://www.hashtag-lb.com/products/g-jacket-5123",
-"p": 39.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/76258929-1987-46a9-abbc-caf4a297c02a.jpg?v=1790000423&width=400",
-"type": "jacket",
 "tags": [],
 "in": true
 },
@@ -1199,17 +1738,6 @@
 "in": true
 },
 {
-"t": "G-basic top 17098",
-"u": "https://www.hashtag-lb.com/products/g-basic-top-17098",
-"p": 19.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/d863b20c-be51-4da8-8e6f-77b3025b5acb_ccf3d780-3ac1-4062-9143-829ff01f3a55.jpg?v=1789996762&width=400",
-"type": "top",
-"tags": [],
-"in": false
-},
-{
 "t": "G-TOP 261087",
 "u": "https://www.hashtag-lb.com/products/g-top-261087",
 "p": 29.0,
@@ -1232,61 +1760,6 @@
 "in": true
 },
 {
-"t": "G-jacket  1098",
-"u": "https://www.hashtag-lb.com/products/g-jacket-1099",
-"p": 55.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/5ddc92ae-ef03-45aa-8fd2-bcb26794c3f7.jpg?v=1789919664&width=400",
-"type": "jacket",
-"tags": [],
-"in": true
-},
-{
-"t": "G-denim dress 26040",
-"u": "https://www.hashtag-lb.com/products/g-denim-dress-26040",
-"p": 55.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/1001436546.jpg?v=1790240315&width=400",
-"type": "dress",
-"tags": [],
-"in": true
-},
-{
-"t": "G-set 908453",
-"u": "https://www.hashtag-lb.com/products/g-set-908453",
-"p": 59.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/5f81e536-1bc1-47da-9aa2-886504deb2ee.jpg?v=1792578479&width=400",
-"type": "Set",
-"tags": [],
-"in": true
-},
-{
-"t": "G-jacket 1098",
-"u": "https://www.hashtag-lb.com/products/g-jacket-1098",
-"p": 49.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/26de2051-17ae-4256-9af2-55f900134bfc.jpg?v=1789915501&width=400",
-"type": "jacket",
-"tags": [],
-"in": true
-},
-{
-"t": "G-wool set 001",
-"u": "https://www.hashtag-lb.com/products/g-wool-set-001",
-"p": 29.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/76c72bd9-5b02-4744-af7c-0ada92f84f09.jpg?v=1789915141&width=400",
-"type": "set",
-"tags": [],
-"in": true
-},
-{
 "t": "G-chemise 26111",
 "u": "https://www.hashtag-lb.com/products/g-chemise-26111",
 "p": 35.0,
@@ -1295,7 +1768,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/51afb62e-708a-4aad-b5e2-2343e673462d.jpg?v=1789914789&width=400",
 "type": "shirt",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "G-Leather jacket 509265",
@@ -1309,17 +1782,6 @@
 "in": true
 },
 {
-"t": "G-jacket 508418",
-"u": "https://www.hashtag-lb.com/products/g-jraket-508418",
-"p": 35.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/5a351def-ae98-465a-907f-cf32c70b6748.jpg?v=1789913706&width=400",
-"type": "jacket",
-"tags": [],
-"in": true
-},
-{
 "t": "G-set 908446",
 "u": "https://www.hashtag-lb.com/products/g-set-908446",
 "p": 59.0,
@@ -1328,51 +1790,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/92813c5d-9b24-4215-b3c3-d1e99f366099.jpg?v=1789906847&width=400",
 "type": "set",
 "tags": [],
-"in": true
-},
-{
-"t": "G-jacket 507389",
-"u": "https://www.hashtag-lb.com/products/g-jacket507389",
-"p": 55.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/927479eb-b10c-4f04-96fc-4af75c5463a3.jpg?v=1789906397&width=400",
-"type": "jacket",
-"tags": [],
-"in": true
-},
-{
-"t": "G-jacket 506376",
-"u": "https://www.hashtag-lb.com/products/g-jacket-506376",
-"p": 45.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/5fb20085-1816-4824-9730-af4e14baa309.jpg?v=1789906076&width=400",
-"type": "jacket",
-"tags": [],
-"in": true
-},
-{
-"t": "G -jacket 508404",
-"u": "https://www.hashtag-lb.com/products/g-jacket-508404",
-"p": 45.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/1ea1d6d9-e29c-491f-bb1e-b633e26b128a_1.jpg?v=1789905702&width=400",
-"type": "jacket",
-"tags": [],
-"in": true
-},
-{
-"t": "G-denim dress 26039",
-"u": "https://www.hashtag-lb.com/products/g-denim-dress-26039",
-"p": 55.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/ced0edd1-0024-4d5a-a3d7-1c31edff63ba.jpg?v=1789903264&width=400",
-"type": "dress",
-"tags": [],
-"in": true
+"in": false
 },
 {
 "t": "G- top 261018",
@@ -1410,8 +1828,8 @@
 {
 "t": "G-hoodie",
 "u": "https://www.hashtag-lb.com/products/g-hoodie",
-"p": 25.0,
-"c": null,
+"p": 15.0,
+"c": 25.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/1001428390.jpg?v=1789642842&width=400",
 "type": "TOP",
@@ -1427,7 +1845,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/b56f4016-2de2-4a12-a8ee-6ab78fd9abfd.jpg?v=1789462666&width=400",
 "type": "Jeans",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "G-jeans 1085",
@@ -1438,7 +1856,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/5f3a7a96-bcb5-407a-a093-06546784b73d.jpg?v=1789462366&width=400",
 "type": "Jeans",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "g-wide leg jeans 26800",
@@ -1452,89 +1870,12 @@
 "in": true
 },
 {
-"t": "Jacket",
-"u": "https://www.hashtag-lb.com/products/jacket",
-"p": 45.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/WhatsAppImage2026-09-12at12.47.09.jpg?v=1789206610&width=400",
-"type": "",
-"tags": [],
-"in": false
-},
-{
-"t": "G-leather jacket 36",
-"u": "https://www.hashtag-lb.com/products/g-leather-jacket-36",
-"p": 35.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/3f0898b1-bc4d-40a7-99c5-4083b090c797.jpg?v=1793273292&width=400",
-"type": "jacket",
-"tags": [],
-"in": true
-},
-{
-"t": "G-Blazer 926",
-"u": "https://www.hashtag-lb.com/products/g-blazer",
-"p": 32.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/f8e4c5b4-831c-4950-8759-07101cc57091.jpg?v=1789049993&width=400",
-"type": "BLAZERS",
-"tags": [],
-"in": true
-},
-{
-"t": "G-linen blazer 921",
-"u": "https://www.hashtag-lb.com/products/g-linen-blazer-921",
-"p": 32.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/ae92c207-4e4f-4ce3-8685-6552272b8afe.jpg?v=1789049649&width=400",
-"type": "BLAZERS",
-"tags": [],
-"in": true
-},
-{
-"t": "G-denim jacket 8618",
-"u": "https://www.hashtag-lb.com/products/g-denim-jacket",
-"p": 49.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/31688713-d146-4d4b-89af-213520c25b44.jpg?v=1789049174&width=400",
-"type": "jacket",
-"tags": [],
-"in": false
-},
-{
-"t": "G-Wool set skirt 131",
-"u": "https://www.hashtag-lb.com/products/g-wool-set-skrt",
-"p": 19.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/92a7160f-13fe-4ee4-8df9-6cc137d1578a.jpg?v=1789048887&width=400",
-"type": "set",
-"tags": [],
-"in": true
-},
-{
 "t": "G-Heart Set 2081",
 "u": "https://www.hashtag-lb.com/products/g-set-2081",
 "p": 35.0,
 "c": null,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/1001428355.jpg?v=1789642650&width=400",
-"type": "Set",
-"tags": [],
-"in": true
-},
-{
-"t": "G-Hoodie set 58331",
-"u": "https://www.hashtag-lb.com/products/g-hoodie-set",
-"p": 35.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/2a563b02-9519-46fd-83a3-7b607a88725e.jpg?v=1789047341&width=400",
 "type": "Set",
 "tags": [],
 "in": false
@@ -1548,7 +1889,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/33431009-42bf-44d6-8ab8-d52819ee6737.jpg?v=1789046532&width=400",
 "type": "Pants",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "G-Pants 9850",
@@ -1559,7 +1900,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/759088a3-a86c-48ba-9ac6-627aa10c3ccf.jpg?v=1789046004&width=400",
 "type": "Pants",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "G-wide leg pants 9881",
@@ -1570,7 +1911,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/74140789-c0fd-4d60-92f6-37d061f3eb54.jpg?v=1789045315&width=400",
 "type": "Pants",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "top",
@@ -1593,17 +1934,6 @@
 "type": "top",
 "tags": [],
 "in": true
-},
-{
-"t": "top 17131",
-"u": "https://www.hashtag-lb.com/products/top-17131",
-"p": 15.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/08f0667a-6911-44e1-9b40-74c4ad7633f1.jpg?v=1788694278&width=400",
-"type": "top",
-"tags": [],
-"in": false
 },
 {
 "t": "G-slouchy  jeans 1067",
@@ -1639,17 +1969,6 @@
 "in": true
 },
 {
-"t": "off shoulder top 4987",
-"u": "https://www.hashtag-lb.com/products/off-shoulder-top-4987",
-"p": 19.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/d3dcd40d-10ec-46ba-93f3-9a7e5fce7ba8.jpg?v=1788688894&width=400",
-"type": "top",
-"tags": [],
-"in": false
-},
-{
 "t": "slouchy pants 16394",
 "u": "https://www.hashtag-lb.com/products/slouchy-pants-16394",
 "p": 35.0,
@@ -1659,17 +1978,6 @@
 "type": "Pants",
 "tags": [],
 "in": true
-},
-{
-"t": "top 17528",
-"u": "https://www.hashtag-lb.com/products/top-17528",
-"p": 19.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/bd45eb73-e254-476a-8d97-9d2c4734ee01.jpg?v=1788688142&width=400",
-"type": "TOP",
-"tags": [],
-"in": false
 },
 {
 "t": "high waist pants 5113",
@@ -1683,28 +1991,6 @@
 "in": true
 },
 {
-"t": "chemise",
-"u": "https://www.hashtag-lb.com/products/chemise",
-"p": 32.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/WhatsAppImage2026-08-27at12.11.56.jpg?v=1787824188&width=400",
-"type": "",
-"tags": [],
-"in": true
-},
-{
-"t": "linen pants",
-"u": "https://www.hashtag-lb.com/products/linen-pants",
-"p": 35.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/8607a316-fc37-4f73-9a6d-a2432e060ebc.jpg?v=1785236924&width=400",
-"type": "Pants",
-"tags": [],
-"in": false
-},
-{
 "t": "straight  jeans",
 "u": "https://www.hashtag-lb.com/products/straight-jeans-1008",
 "p": 30.0,
@@ -1713,18 +1999,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/cb28e802-ee3e-4923-b9bc-599457a6d74a.jpg?v=1784976283&width=400",
 "type": "jeans",
 "tags": [],
-"in": true
-},
-{
-"t": "straight jeans 400",
-"u": "https://www.hashtag-lb.com/products/straight-jeans-400",
-"p": 30.0,
-"c": 45.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/44c712bd-87f8-46f4-9f2a-fa1dc7170cb6.jpg?v=1784974119&width=400",
-"type": "jeans",
-"tags": [],
-"in": true
+"in": false
 },
 {
 "t": "regular fit jeans 968",
@@ -1735,18 +2010,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/06b10c2f-8679-4d3b-a7aa-9af6c07bd127.jpg?v=1784973776&width=400",
 "type": "jeans",
 "tags": [],
-"in": true
-},
-{
-"t": "straight jeans",
-"u": "https://www.hashtag-lb.com/products/straight-jeans-18",
-"p": 30.0,
-"c": 45.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/1cbcb8b1-6b45-4c54-8126-686c4bfcd94a_1.jpg?v=1784971811&width=400",
-"type": "Jeans",
-"tags": [],
-"in": true
+"in": false
 },
 {
 "t": "push up jeans 1013",
@@ -1757,7 +2021,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/f7504f7d-b51e-4efb-a832-88d8774242e1.jpg?v=1784903880&width=400",
 "type": "jeans",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "straight jeans 1006",
@@ -1768,7 +2032,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/b5f3753f-d460-41b5-8d41-f506273a4b31_1.jpg?v=1784903044&width=400",
 "type": "jeans",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "flare jeans 1015",
@@ -1779,7 +2043,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/d74a7c1e-e90a-44d9-b6a7-e1e09fff6484.jpg?v=1784901199&width=400",
 "type": "Jeans",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "straight jeans",
@@ -1790,29 +2054,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/e03b2827-4ac4-44f9-9d1c-26c96d4f733b.jpg?v=1784714070&width=400",
 "type": "jeans",
 "tags": [],
-"in": true
-},
-{
-"t": "Straight jeans",
-"u": "https://www.hashtag-lb.com/products/straight-jeans-17",
-"p": 30.0,
-"c": 45.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/1001366510.jpg?v=1784464000&width=400",
-"type": "Jeans",
-"tags": [],
-"in": true
-},
-{
-"t": "Mom jeans 26843",
-"u": "https://www.hashtag-lb.com/products/mom-jeans-2",
-"p": 30.0,
-"c": 45.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/1001366522.jpg?v=1784463625&width=400",
-"type": "jeans",
-"tags": [],
-"in": true
+"in": false
 },
 {
 "t": "Slouchy jeans 996",
@@ -1823,7 +2065,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/1001366464.jpg?v=1784463353&width=400",
 "type": "jeans",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "straight  jeans",
@@ -1834,40 +2076,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/2a15f1b1-dc36-4ba0-a4ad-2fdd48e38470.jpg?v=1784384535&width=400",
 "type": "Jeans",
 "tags": [],
-"in": true
-},
-{
-"t": "Slouchy jeans 023",
-"u": "https://www.hashtag-lb.com/products/jeans-3",
-"p": 30.0,
-"c": 45.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/1001365012.jpg?v=1784285612&width=400",
-"type": "",
-"tags": [],
-"in": true
-},
-{
-"t": "scarf",
-"u": "https://www.hashtag-lb.com/products/scarf-5",
-"p": 12.0,
-"c": null,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/35553a97-930a-44ef-8db9-4b5517c48aa5.jpg?v=1783337354&width=400",
-"type": "scarf",
-"tags": [],
-"in": true
-},
-{
-"t": "straight jeans 26807",
-"u": "https://www.hashtag-lb.com/products/straight-jeans-26807",
-"p": 30.0,
-"c": 45.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/83ec83f2-b5b2-477b-baec-90e0607c07cf.jpg?v=1781682946&width=400",
-"type": "jeans",
-"tags": [],
-"in": true
+"in": false
 },
 {
 "t": "t-shirt",
@@ -1883,7 +2092,7 @@
 {
 "t": "t-shirt",
 "u": "https://www.hashtag-lb.com/products/t-shirt-17",
-"p": 19.0,
+"p": 11.0,
 "c": 22.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/4bb4dbb5-5019-4a6e-8101-7a0fe884261d.jpg?v=1781348507&width=400",
@@ -1900,7 +2109,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/7b813df3-1d79-4002-922f-7dff0b9c7b99.jpg?v=1781345611&width=400",
 "type": "Jeans",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "straight jeans 1009",
@@ -1911,7 +2120,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/15b0b280-3178-4356-b26b-0ddea0ba3aa7.jpg?v=1781345422&width=400",
 "type": "jeans",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "mom jeans beige 1012",
@@ -1922,7 +2131,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/c1538b4a-8870-4f67-a78c-874b8c55a437.jpg?v=1781345048&width=400",
 "type": "Jeans",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "mom jeans beige 992",
@@ -1933,7 +2142,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/f95a6b7c-d15c-4411-9961-b848bab0d568.jpg?v=1781343034&width=400",
 "type": "Jeans",
 "tags": [],
-"in": true
+"in": false
 },
 {
 "t": "flare jeans 303",
@@ -1944,23 +2153,12 @@
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/22012c34-f6e9-4092-bb26-44c61cb5223e.jpg?v=1781342818&width=400",
 "type": "Jeans",
 "tags": [],
-"in": true
-},
-{
-"t": "T-shirt",
-"u": "https://www.hashtag-lb.com/products/t-shirt-13",
-"p": 19.0,
-"c": 22.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/1781254162452.jpg?v=1781254195&width=400",
-"type": "T-shirt",
-"tags": [],
-"in": true
+"in": false
 },
 {
 "t": "T-shirt",
 "u": "https://www.hashtag-lb.com/products/t-shirt-11",
-"p": 19.0,
+"p": 11.0,
 "c": 22.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/IMG_20260610_175653_458.jpg?v=1781254048&width=400",
@@ -1971,21 +2169,10 @@
 {
 "t": "T-shirt",
 "u": "https://www.hashtag-lb.com/products/t-shirt-8",
-"p": 19.0,
+"p": 11.0,
 "c": 22.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/IMG_20260610_175822_407.jpg?v=1781253906&width=400",
-"type": "T-shirt",
-"tags": [],
-"in": true
-},
-{
-"t": "T-shirt spicy",
-"u": "https://www.hashtag-lb.com/products/t-shirt-spicy",
-"p": 19.0,
-"c": 22.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/1781253743623.jpg?v=1781253804&width=400",
 "type": "T-shirt",
 "tags": [],
 "in": true
@@ -2004,7 +2191,7 @@
 {
 "t": "T-shirt",
 "u": "https://www.hashtag-lb.com/products/t-shirt-1",
-"p": 19.0,
+"p": 11.0,
 "c": 22.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/IMG_20260610_175939_560.jpg?v=1781253237&width=400",
@@ -2015,7 +2202,7 @@
 {
 "t": "T-shirt Guavas",
 "u": "https://www.hashtag-lb.com/products/t-shirt-guavas",
-"p": 19.0,
+"p": 11.0,
 "c": 22.0,
 "cur": "USD",
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/IMG_20260610_180015_616.jpg?v=1781252932&width=400",
@@ -2046,17 +2233,6 @@
 "in": true
 },
 {
-"t": "denim skirt",
-"u": "https://www.hashtag-lb.com/products/denim-skirt-1",
-"p": 15.0,
-"c": 35.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/57d76dd6-60a8-43bb-a2b6-04145679dc57.jpg?v=1779801127&width=400",
-"type": "skirt",
-"tags": [],
-"in": true
-},
-{
 "t": "straight jeans 965",
 "u": "https://www.hashtag-lb.com/products/straight-jeans-13",
 "p": 20.0,
@@ -2065,51 +2241,7 @@
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/3d6d3d99-1922-4b24-8b71-f9ed526cb88c.jpg?v=1779791287&width=400",
 "type": "jeans",
 "tags": [],
-"in": true
-},
-{
-"t": "barrel jeans 26825",
-"u": "https://www.hashtag-lb.com/products/boyfriend-jeans-26825",
-"p": 30.0,
-"c": 45.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/2eb28a87-3e85-4fb3-bb51-bb9d053ffda3_1.jpg?v=1780411906&width=400",
-"type": "Jeans",
-"tags": [],
-"in": true
-},
-{
-"t": "barrel jeans 26809",
-"u": "https://www.hashtag-lb.com/products/slouchy-jeans-26809",
-"p": 30.0,
-"c": 45.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/bf9fa88f-fd5f-4034-aa29-cf466315129c.jpg?v=1779535612&width=400",
-"type": "Jeans",
-"tags": [],
-"in": true
-},
-{
-"t": "Straight jeans with belt 26813",
-"u": "https://www.hashtag-lb.com/products/straight-jeans-with-belt",
-"p": 30.0,
-"c": 45.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/IMG-20260512-WA0140.jpg?v=1778591271&width=400",
-"type": "Jeans",
-"tags": [],
-"in": true
-},
-{
-"t": "denim skirt",
-"u": "https://www.hashtag-lb.com/products/denim-skirt",
-"p": 15.0,
-"c": 35.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/58079517-28d2-4cca-9851-839ad320f903_1.jpg?v=1778505835&width=400",
-"type": "skirt",
-"tags": [],
-"in": true
+"in": false
 },
 {
 "t": "T-shirt",
@@ -2131,39 +2263,6 @@
 "img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/WhatsAppImage2026-05-01at16.56.45.jpg?v=1777645955&width=400",
 "type": "",
 "tags": [],
-"in": true
-},
-{
-"t": "straight jeans 966",
-"u": "https://www.hashtag-lb.com/products/straight-jeans-9",
-"p": 30.0,
-"c": 45.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/333b3530-104e-4da0-a14e-e71334191e15.jpg?v=1776687437&width=400",
-"type": "jeans",
-"tags": [],
-"in": true
-},
-{
-"t": "straight  jeans 967",
-"u": "https://www.hashtag-lb.com/products/straight-jeans-7",
-"p": 20.0,
-"c": 45.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/21e3f66b-c25a-4f35-948a-183dc8ddb297.jpg?v=1776684378&width=400",
-"type": "Jeans",
-"tags": [],
-"in": true
-},
-{
-"t": "straight jeans 668",
-"u": "https://www.hashtag-lb.com/products/straight-jeans-5",
-"p": 30.0,
-"c": 45.0,
-"cur": "USD",
-"img": "https://cdn.shopify.com/s/files/1/0958/2562/5457/files/fd1e3a4e-8840-4f7e-a371-40cd50bdac82.jpg?v=1776683466&width=400",
-"type": "Jeans",
-"tags": [],
-"in": true
+"in": false
 }
 ]
